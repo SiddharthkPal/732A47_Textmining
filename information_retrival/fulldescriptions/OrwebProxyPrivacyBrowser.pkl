@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Orweb: Proxy+Privacy Browser '
+p1
+tp2
+(S'Description:'
+p3
+S'NOTICE: This app requires you to first install and activate Orbot: Tor on Android app. Please install that first: https://market.android.com/details?id=org.torproject.android&feature=search_resultWhen used with the Orbot app, this web browser provides enhanced privacy features. Through Tor, it prevents somebody watching your Internet connection from learning what sites you visit, it prevents the sites you visit from learning your physical location, and it lets you access sites which are blocked. It also blocks cookies, keeps no local history, disables Flash, and requires only Internet permissions, keeping you safe from malicious content. Finally, beyond Tor, it can support any HTTP proxy server.tags: tor, proxy, secure, security, anonymity, circumvention, orbot, guardian project, guardianprojectRecent changes:- supports pinch and zoom- does not reload on rotate- supports copy and paste- improved progress indicatorPlease report problems at: https://guardianproject.info/contact/'
+p4
+tp5
+tp6
+.

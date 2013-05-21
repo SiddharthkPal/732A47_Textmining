@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lebanese Memes '
+p1
+tp2
+(S'Description:'
+p3
+S"A MUST DOWNLOAD APP to Enjoy Lots of Laughs and view the latest and most innovative Lebanese Memes created by the Lebanese meme community that is getting bigger and more innovative day by day.And Yes this funny App is FREE!!Don't Forget to Rate and Leave your Comment.Wishing Lebanon a better country .****************************************************Thanks Gabriel Atallah & Joseph Azar.Thanks Raafat Khalil for the banner.Thanks to The Lebanese Meme Community of-course.Recent changes:-Share Current Meme Option-Saved Image bug fix-More Apps from developer in menu-ADDED SAVE BUTTON-Added Menu Option-Fixed scaling issue for small screens******************-Orientation change will not make data reload anymore.-Fixed Overlapping the advertising with the images"
+p4
+tp5
+tp6
+.

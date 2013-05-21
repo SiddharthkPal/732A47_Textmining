@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Drink & Cocktail Recipes '
+p1
+tp2
+(S'Description:'
+p3
+S"Drink & Cocktail Recipes* Search by Category* Search by Ingredient* Favorites* Cocktail Rating* Cabinet* Random Mode* Terminology* Spanish and English Supported* Vertical and Horizontal Orientations Supported* Google TV Supported* Post Recipes To Facebook* Post Own Cocktail Photo To Facebook* Shopping List/Cart* Print Shopping List with Google Cloud PrintOn the Way:* Post Recipe + Own Cocktail Photo To Google+Recent changes:1.5.1 - Print Shopping List 1.4.9 - Shopping List/Cart1.4.7 - Show User's Cocktail Photos1.4.5 - Global Drink (Popularity) Rating shown at Drink lists1.4.4 - Upload Cocktail Photos To server (When we have enough photos best photo for each cocktail will be shown)1.4.3 - Fixes for Database Corruption1.4.1 - Minor Facebook Update1.4 - Import own Cocktail Ratings from server1.3 - Cocktail Rating1.2 - Faster Recipe Search1.1 - Post Own Cocktail Photo To Facebook"
+p4
+tp5
+tp6
+.

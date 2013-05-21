@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ShakeChat | people\xc3\xa3\xc6\x92\xc2\xbbchat\xc3\xa3\xc6\x92\xc2\xbbpics '
+p1
+tp2
+(S'Description:'
+p3
+S'ShakeChat is a simple, safe and fun way to make new friends.Download the app, sign up and start chatting with new people. Finding someone to chat is very simple: go to "shake" and shake your smartphone to browse new profiles. If you are interested in someone, send a chat request and\xe2\x80\xa6 keep your fingers crossed!ShakeChat profiles are simple and complete: name, brief description and pics. Posting pics you can also share them on Facebook.ShakeChat is free, with some Premium features that you can also activate for free telling your friends about the app:- with Premium Shake you will get only people relevant to you. How can we do it? Simply use the app, so that we can know you better and then, with Premium Shake activated, you\'ll get only profiles recommended for you;- with Premium Popularity you\'ll burst on the scene, more people will see your profile and probably you\'ll get many more chat requests!To register you have to use your Facebook account (a minimum number of friends is required) and be at least 18 years old.Follow us on Facebook (http://facebook.com/ShakeChat) and Twitter (http://twitter.com/ShakeChat). Contact us? hello@shakechat.com HAVE FUN! :)Recent changes:What\'s new?- improved chat;- choose if you want to save pics in your library;- animations (Android 3.0+ only);- notifications settings.Don\'t forget to write a review on Google Play, follow us on Facebook and Twitter. Wanna tell us something? hello@shakechat.comThank you for for making this all possible and keep shaking! :)'
+p4
+tp5
+tp6
+.

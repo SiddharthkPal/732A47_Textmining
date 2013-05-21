@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gold Live! '
+p1
+tp2
+(S'Description:'
+p3
+S'Download Kitco\xe2\x80\x99s Gold Live! Android\xe2\x84\xa2 app to stay in touch with the precious metal markets on the go! With comprehensive coverage and full control, it brings live spot prices for gold, silver and other metals, along with critical market information to your fingertips. The Gold Live! application for Android\xe2\x84\xa2 is now available to download for free!Key features of the Gold Live! Android\xe2\x84\xa2 app\xe2\x80\xa2 Now fully compatible with all Android-based tablets\xe2\x80\xa2 Kitco Video News\xe2\x80\xa2 Move to SD card functionality\xe2\x80\xa2 English, French, Simplified Chinese and Traditional Chinese language options\xe2\x80\xa2 Live gold prices\xe2\x80\xa2 Quotes for precious metals, base metals, indices, oil and mining stocks\xe2\x80\xa2 Customizable home page\xe2\x80\xa2 Gold prices and other spot prices updated frequently (every one to 10 minutes)\xe2\x80\xa2 London Fix values back to 1968\xe2\x80\xa2 Current news, commentaries and press releases\xe2\x80\xa2 Exchange rate comparisons for 13 currencies\xe2\x80\xa2 Gold prices and other data from Kitco.com, the number one metals market information website\xe2\x80\xa2 Local, NY Time and GMT time zone options\xe2\x80\xa2 Unit of measure conversion options\xe2\x80\xa2 Full-screen rotatable technical and historical chartsRecent changes:\xe2\x80\xa2 Support for Android 4.1\xe2\x80\xa2 Navigation controls in News Section\xe2\x80\xa2 Minor bug fixes'
+p4
+tp5
+tp6
+.

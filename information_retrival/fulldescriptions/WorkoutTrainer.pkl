@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Workout Trainer '
+p1
+tp2
+(S'Description:'
+p3
+S"Get in the best shape of your life with thousands of free workouts and premium workout programs that help you achieve your fitness goals. Workout Trainer is a TOP app on Android -- download it now!Your certified trainers guide you through exercises with timed, step-by-step audio, photo and video instructions complete with encouragement!  Whether you\xe2\x80\x99re doing bodyweight workouts at home or lifting weights at the gym, Skimble\xe2\x80\x99s Workout Trainer will help you get fit with 1000's of free workouts. You can also choose your area of focus and use it to get a six pack, lose weight, improve your running, practice yoga and more.Workout Trainer is ideal for people who want to get in shape without using any exercise equipment. Also great for those who enjoy Tabata, High Intensity Interval Training (HIIT), timed workouts and CrossFit WOD.Here are just a few ways that Workout Trainer is the best app to help you achieve your fitness goals:\xe2\x9c\x93 Just put on your headphones and follow along with audio instructions and progress cues \xe2\x9c\x93 See instructional photos and videos that explain each move in detail\xe2\x9c\x93 Complete our free virtual fitness consultation wizard for a customized experience!\xe2\x9c\x93 Easily create and edit workouts from your Android!\xe2\x9c\x93 Add our home screen widget to see a new workout every day\xe2\x9c\x93 Share your workouts via Email, Facebook and Twitter \xe2\x9c\x93 Play your favorite music while working out\xe2\x9c\x93 Try new and recommended workouts from the communityEverything tracked with Skimble's Workout Trainer application is synchronized with the Skimble.com website, so you can track your progress online, and connect with the active community of millions that have made Workout Trainer a top free Android, iPhone & iPad app in Healthcare & Fitness!Get healthy today with Skimble's Workout Trainer app!Recent changes:v4.3 --- \xe2\x9c\x93 Minor bug fixes and improvementsv4.2---\xe2\x9c\x93 7 day FREE trial of PRO+ with access to all PRO features & programs!\xe2\x9c\x93 Complimentary videos in Workout of the Week challenges.\xe2\x9c\x93 Start workouts faster than ever.\xe2\x9c\x93 Download workouts for quick access later.\xe2\x9c\x93 Search the community forums. Like & comment."
+p4
+tp5
+tp6
+.

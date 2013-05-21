@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quiz Patente! '
+p1
+tp2
+(S'Description:'
+p3
+S"Quiz Patente! \xc3\xa8 il modo pi\xc3\xb9 divertente ed efficace per superare l'esame della patente di guida!Con Quiz Patente! potrai esercitarti su pi\xc3\xb9 di 6000 quiz ministeriali aggiornati al 2013 per la patente B, effettuare i quiz della scuola guida divisi per argomento e ripassare gli errori frequenti.Graficamente accattivante, semplice da usare e gratis.L'esame della patente sar\xc3\xa0 un gioco da ragazzi!Cosa stai aspettando? Scaricala ora e prepara l'esame divertendoti, la patente ti aspetta!Recent changes:- Condivisione su Facebook- Controllo tasto back durante il quiz- Aggiornati permessi per supporto nuovi ad network- Piccoli bugfixContinuiamo a lavorare per migliorare l'esperienza utente e inserire nuove funzionalit\xc3\xa0 sulla base dei vostri consigli!In caso di problemi contattateci via mail indicando il modello del vostro dispositivo, contribuirete a migliorare il prodotto per tutti! carmelo.presicce@gmail.comGrazie per il supporto!"
+p4
+tp5
+tp6
+.

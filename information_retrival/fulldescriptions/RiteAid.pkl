@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rite Aid '
+p1
+tp2
+(S'Description:'
+p3
+S'Now, manage all of your prescriptions, product savings and wellness+ activities anywhere or anytime from your Android\xc2\xae device with the official Rite Aid app. Some of the convenient features include: NEW! Photo Processing \xe2\x80\xa2Choose your favorite pictures from your Android camera roll or Rite Aid on-line photo account and pick them up at your local Rite Aid. \xe2\x80\xa2Available sizes are 4x6, 5x7 and 8x10 \xe2\x80\xa2Easily upload your photos to your Rite Aid Online Photo account with free unlimited photo storage. STORE LOCATOR \xe2\x80\xa2Locate the Rite Aid store nearest to you using your phone\xe2\x80\x99s built-in GPS or by entering your zip code. \xe2\x80\xa2Filter all nearby stores by specific features like 24-hour service, drive-thru pharmacy, GNC and in-store health clinics. \xe2\x80\xa2Get store hours and call directly from the locator. WEEKLY CIRCULAR \xe2\x80\xa2Browse the weekly circular for your area with thumbnail page views and zoom functionality or in a convenient list-view format. \xe2\x80\xa2Add selected items from the weekly circular to your mobile shopping list. REFILL PRESCRIPTIONS \xe2\x80\xa2Manage your prescriptions\xe2\x80\x94including the ability to refill from your prescription history, enter Rx number or by simply scanning the label on your bottle \xe2\x80\xa2Enroll to receive and manage Rx reminders & communications\xe2\x80\x94receive notifications when your prescription is due for a refill or is ready for pickup TRANSFER PRESCRIPTIONS \xe2\x80\xa2We\xe2\x80\x99ve also made it easy to transfer your prescriptions to Rite Aid from the convenience of your phone. WELLNESS+ \xe2\x80\xa2Link your wellness+ card to our app so you can use your smart phone as a virtual loyalty card at our registers. \xe2\x80\xa2You also can view your updated points and member tier status, and access our Load2Card tool, where you can load e-coupons to your card right in the store and get these discounts when you check out. BARCODE AND QR SCANNER \xe2\x80\xa2Scan prescription bottles, as well as QR codes from your phone to access additional information and savings. And, that\xe2\x80\x99s just the beginning. Many more personalized convenience, savings and wellness features are on the way with our official Rite Aid app.Recent changes:Added Photo Support, choose your favorite pictures from your Android camera roll or Rite Aid on-line photo account and pick them up at your local Rite Aid.'
+p4
+tp5
+tp6
+.

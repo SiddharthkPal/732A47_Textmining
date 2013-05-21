@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pokemon memes '
+p1
+tp2
+(S'Description:'
+p3
+S'The ultimate application for best pictures of pokemon on your smartphone. Enjoy them in the palm of your hand in a simple way and clear. From Underphone want you to enjoy the maximum with your mobile and will continue to get the applications you need, just contact us through online social networks.Regular updates and new applications in the way, stay attentive.features:[+] Preview of the images.[+] Viewing images with zoom.[+] Display comments.[+] Share images.[+] Only WiFi mode download.[+] Images save in phone memory.[+] Ability to save on external sd[+] Option to remove all the images stored.[+] Setting the quality of the images.[+] Setting the quality of the previews.[+] Setting of images that are downloaded simultaneously.[+] Ice Cream Sandwich Support interface with Holo'
+p4
+tp5
+tp6
+.

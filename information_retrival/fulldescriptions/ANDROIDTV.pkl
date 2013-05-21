@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ANDROID TV '
+p1
+tp2
+(S'Description:'
+p3
+S"ANDROID TV is very useful live tv application for your android device. This free android app provides you more than100 high quality live channels. This TV app offer you various channel options to watch live tv. If you are looking for HD and without buffering tv channels then this one is right option for android users.  Key Features:------------------[\xe2\x9c\x94] No need to have \xe2\x80\x9cAdobe Flash Player\xe2\x80\x9d[\xe2\x9c\x94] No sign-up required[\xe2\x9c\x94] 100% working...[\xe2\x9c\x94] More than 100 TV channelsDisclaimer:This app only provides the links for the live streaming channels .All the links are gathered from various freely available websites.All the RTSP (Real-Time Streaming Protocol) links are gathered from various sources available open in the internet. So the app owner or developer or creator can't be held responsible for any damages."
+p4
+tp5
+tp6
+.

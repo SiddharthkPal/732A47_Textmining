@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Deezer '
+p1
+tp2
+(S'Description:'
+p3
+S'Take music to a new dimension! Deezer is a fresh way to discover, love, share and listen to all the music you want \xc2\xad\xc2\xad\xe2\x80\x93 anywhere and anytime. What can you do with a free Deezer account?\xe2\x80\xa2    Enjoy unlimited listening to Deezer\xe2\x80\x99s thousands of artist-based and themed radio channels.\xe2\x80\xa2    Manage your Deezer library: search for tracks, add them to your playlists, add albums...\xe2\x80\xa2    Listen to your personal MP3s, uploaded to your Deezer account from your computer. Sign up to Deezer now and get a free trial of Deezer Premium+. Our treat. When your free trial ends, you\xe2\x80\x99ll be able to listen to 30-second clips from our 20 million tracks. If you want to enjoy unlimited music on your mobile again, go to Deezer.com! What can you do with a Deezer Premium+ subscription?\xe2\x80\xa2    Enjoy unlimited access to 20 million tracks: no need to go home and load new songs, you can listen to whatever you want, wherever and whenever you want.\xe2\x80\xa2    Listen to your favourite music even offline: sync all the music you want to your mobile/tablet and laptop. The only limit is the storage size of your device.\xe2\x80\xa2    Discover new artists: browse our editorial picks, radio channels, personal recommendations, latest releases and friends\xe2\x80\x99 recommendations.Follow Deezer!Facebook: http://www.facebook.com/deezerTwitter:  http://www.twitter.com/DeezerKeywords : music, mp3, streaming, download, Deezer Lite, unlimited, song, track, radio, webradio, smartradio, playlist, artist, album, media, online.Recent changes:- Connectivity with Facebook optimised.'
+p4
+tp5
+tp6
+.

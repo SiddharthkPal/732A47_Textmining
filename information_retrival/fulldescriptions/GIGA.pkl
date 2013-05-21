@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GIGA '
+p1
+tp2
+(S'Description:'
+p3
+S'GIGA \xe2\x80\x93 Dein Magazin rund um Technik, Games und Entertainment. Die 30k\xc3\xb6pfige GIGA Redaktion liefert t\xc3\xa4glich News, Specials, Tests und Tutorials aus den GIGA Themenwelten Android, Games, iPhone & iPad, Mac, Film, Musik, Software und Hardware. GIGA ist 100% kostenlos. Jetzt runterladen! \xe2\x98\x85 FEATURES // PERSONALISIERUNG: Stell Dir mit einem Klick Deine pers\xc3\xb6nlichen GIGA-NEWS aus den Themenwelten zusammen. // INTUITIV: Kn\xc3\xb6pfe und Schaltfl\xc3\xa4chen waren gestern \xe2\x80\x93 erlebe die intuitive Navigation von GIGA \xe2\x80\x93 einfach und schnell. // SHARE: Mit GIGA bist Du der Erste der es erf\xc3\xa4hrt und kannst die Artikel schnell in Facebook, Twitter oder via E-Mail an Deine Freunde weiterleiten oder mit Instapaper zum sp\xc3\xa4teren Lesen speichern. // SYNC: Dank Offline Synchronisierung liest Du Deine GIGA News auch, wenn Du nicht Online bist. // IN-APP BROWSER: Bequemes Lesen des Web-Contents, ohne die App zu verlassen. // VIDEOS TO-GO: Alle GIGA Videos in Ruhe unterwegs schauen. \xe2\x98\x85 FEEDBACK Wir freuen uns \xc3\xbcber Dein Feedback! Schreibe uns Fragen und Anregungen zur App an: android@GIGA.de Besuche uns auch auf GIGA.de! Entwickelt wurde die GIGA-App gemeinsam mit Adaptive Press (www.adaptivepress.de), einem jungen, Berliner Softwareunternehmen, das sich auf dynamische Publishing-L\xc3\xb6sungen f\xc3\xbcr Tablets und mobile Endger\xc3\xa4te spezialisiert hat. Vom Lifestyleblog bis zum Verlagskonzern, Adaptive Press hilft Unternehmen jeder Gr\xc3\xb6\xc3\x9fe, ihre Ideen in der digitalen Welt zu verwirklichen.Recent changes:+NEU: GIGA Video Themenwelt + Verbesserte Darstellung der GIGA Videos + Verbesserung der Artikel-templates+ Fehlerbehebungen und Stabilit\xc3\xa4tsverbesserungen'
+p4
+tp5
+tp6
+.

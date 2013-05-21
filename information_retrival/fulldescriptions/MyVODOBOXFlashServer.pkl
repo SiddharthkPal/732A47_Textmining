@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My VODOBOX Flash Server '
+p1
+tp2
+(S'Description:'
+p3
+S"Regardez les chaines TV de votre ordinateur sur votre appareil mobile Android \xc3\xa0 partir d'une connexion WiFi et 3G !Installez le logiciel VODOBOX Flash Server sur votre ordinateur et le plugin ADOBE Flash Player sur votre mobile pour acc\xc3\xa9der en direct et sans abonnement suppl\xc3\xa9mentaire aux chaines de t\xc3\xa9l\xc3\xa9vision de votre ordinateur.Les sources vid\xc3\xa9o diffusables vers votre appareil mobile Android sont :. la majorit\xc3\xa9 des fichiers vid\xc3\xa9o de votre ordinateur et de votre r\xc3\xa9seau (avi, mpeg, mkv, mp4, dvr-ms, ...),. les chaines TNT (n\xc3\xa9cessite un p\xc3\xa9riph\xc3\xa9rique \xc3\xa9quip\xc3\xa9 d'un tuner TNT),. les d\xc3\xa9modulateurs satellite Dreambox ou clone,. les chaines TV sur IP de votre fournisseur d'acc\xc3\xa8s Internet,. les chaines TV du boitier Freebox HD/Player (n\xc3\xa9cessite un p\xc3\xa9riph\xc3\xa9rique d'acquisition vid\xc3\xa9o),. les enregistrements TV du Free Magneto,. les seeds du boitier Freebox Server v6,. les enregistrements Windows Media Center,. les webcams (compatible DirectShow).Recent changes:Version 1.12. support serveur de d\xc3\xa9monstration en qualit\xc3\xa9 HDVersion 1.11 :. optimisation affichage tablettes SamsungVersion 1.10 :. compatibilit\xc3\xa9 Google Box SONYVersion 1.09 :. compatibilit\xc3\xa9 avec le syst\xc3\xa8me Google TVVersion 1.08 :. mise \xc3\xa0 jour du r\xc3\xa9veil \xc3\xa0 distance (Wake On WAN)Version 1.07 :. mise \xc3\xa0 jour des liensVersion 1.06 :. choix de l'environnement r\xc3\xa9seau. support Android 4 (Ice Cream Sandwich)Version 1.05. correction du clipping sur l'interface du Web Player"
+p4
+tp5
+tp6
+.

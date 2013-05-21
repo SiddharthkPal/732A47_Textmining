@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PCH Sweeps '
+p1
+tp2
+(S'Description:'
+p3
+S'Publishers Clearing House has awarded over $240 MILLION in sweepstakes prizes since 1967 \xe2\x80\x93 will you become the next winner? We\xe2\x80\x99re making it easier than ever for our millions of fans to enter to win life-altering prizes with PCH Sweeps!, the official app of Publishers Clearing House. Enter anytime, anywhere using your tablet or mobile device.PCH Sweeps! could point the Prize Patrol in YOUR direction with\xe2\x80\xa6 > Daily reminders ensure that you NEVER miss a sweepstakes entry> BONUS sweepstakes entries> Instant win opportunities of CASH and PRIZES with PCH Search & Win> Lotto style games for ADDITIONAL entries with PCH Lotto Don\xe2\x80\x99t miss out on the opportunity to enter to win prizes that could secure your financial future! Download this FREE app now!'
+p4
+tp5
+tp6
+.

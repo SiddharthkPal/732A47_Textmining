@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'7 Habits '
+p1
+tp2
+(S'Description:'
+p3
+S"If you want to get results in your life, you must do whatever it takes!True success is a result of both personal and professional effectiveness. Management Guru Stephen R. Covey's The 7 Habits of Highly Effective People has been a top-selling business title for years for the simple reason that it ignores trends and pop psychology for proven principles of fairness, integrity, honesty, and human dignity. Advice that has helped millions of people solve personal and professional problems is now available in this interactive app. Discover How To Achieve Outstanding Accomplishments In Every Area Of Your Life!"
+p4
+tp5
+tp6
+.

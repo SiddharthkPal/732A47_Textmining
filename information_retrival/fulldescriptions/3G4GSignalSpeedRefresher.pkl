@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'3G 4G Signal Speed Refresher '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85Download For FREE Now!\xe2\x98\x85Want to get a better 3G 4G signal speed and a much improved signal reception? Want to refresh your WIFI/3G/4G signal immediately? Don\'t wait and let us to help your Internet today.Many applications such as "Network booster" has declared their app can boost your network signal strength and speed up your network speed. But actually they may not always working and some are fake boosting. But we guarantee our app can really refresh your all your network\'s signal strength!\xe2\x98\x85Features\xe2\x98\x85\t1) Refresh and reconnect to your WIFI/2G/3G/4G/Cellular network immediately.\t2) Recover your lost Network Signal automatically just by one simple click.\t3) Refreshing your network signal for a good Internet browsing and downloading speed.\t4) Display a diagram for you to analyze your signal strength so you can move your mobile/pad near to your network hotspot to get a faster  network speed and increase your network signal strength.Enjoy for free.'
+p4
+tp5
+tp6
+.

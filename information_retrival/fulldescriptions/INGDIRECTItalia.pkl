@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ING DIRECT Italia '
+p1
+tp2
+(S'Description:'
+p3
+S"Accedi ai servizi di ING DIRECT con la App studiata per rendere la navigazione ancora pi\xc3\xb9 semplice, veloce ed intuitiva! Installa subito la nuova App di ING DIRECT sul tuo smartphone!Con la App puoi:\xe2\x80\xa2 visualizzare il saldo e controllare i movimenti dei tuoi conti con grafici interattivi\xe2\x80\xa2 modificare il plafond della tua Carta di Credito Visa Oro ING DIRECT\xe2\x80\xa2 pagare i bollettini postali anche fotografando il relativo codice Datamatrix per risparmiare tempo ed evitare errori\xe2\x80\xa2 effettuare una ricarica telefonica selezionando dalla rubrica contatti il numero da ricaricare\xe2\x80\xa2 effettuare bonifici e giroconti\xe2\x80\xa2 consultare gli interessi del tuo Conto Arancio\xe2\x80\xa2 attivare Arancio+\xe2\x80\xa2 visualizzare i movimenti e conoscere l\xe2\x80\x99importo della prossima rata di Mutuo ArancioPer maggiori informazioni visita il sito http://www.ingdirect.it/ ed entra nella sezione App e mobile.Consigliamo di installare ed utilizzare l'App su dispositivi con sistema operativo autorizzato e certificato Android. Nel caso il tuo dispositivo abbia subito un processo di rooting non \xc3\xa8 possibile garantire il corretto funzionamento e la completa sicurezza dell'App ING DIRECT Italia.Recent changes:Queste le novit\xc3\xa0 presenti nella versione 1.1 dell\xe2\x80\x99applicazione:\xe2\x80\xa2 sono state risolte alcune anomalie.\xe2\x80\xa2 leggendo le review abbiamo notato che pi\xc3\xb9 di un cliente crede sia migliorabile la modalit\xc3\xa0 per inserire la data di nascita sulla login. Nella nuova versione abbiamo quindi sostituito il calendario con i campi giorno/mese/anno."
+p4
+tp5
+tp6
+.

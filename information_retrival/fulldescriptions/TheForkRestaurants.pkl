@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TheFork - Restaurants '
+p1
+tp2
+(S'Description:'
+p3
+S'This latest version allows you to access the basic features (search, booking, etc).A new version of the application will be available shortly!(with a new design, more precise geographical positioning, multi-criteria search, and more information about the restaurants\xe2\x80\xa6)  With the TheFork application, all the restaurants and special offers will be in your pocket!  Book the best tables at the best prices. Find and book the ideal table amongst a selection of 7000 restaurantsYour reservation in 3 steps- Search for a restaurant: all search criteria is possible! Name, proximity, type of cuisine, price... Find your ideal restaurant and click \xc2\xab Reserve \xc2\xbb.- Check the restaurant\xe2\x80\x99s availabilityChoose the date, time and number of people. We will confirm the availability in real time.- Confirm Fill out your contact information. Your table awaits you!Special Offers: up to 50% off your bill!We negotiate with restaurants to get you the best possible offer so everyone wins: the restaurant optimizes its reservation rate and you benefit from the lowest possible price. To take advantage of these great offers:1. Reserve online and respect the conditions and duration of the special offer2. The discount will be automatically applied to the bill at the end of your meal3. You experience the same service as other clients who reserved without the special offer (same quality, same menu, same quantity!)Recent changes:A temporary update is required to access the service!This update will allow you to access the basic features (search, booking, etc).A new version of the application will be available shortly: with a little patience you will have a newly designed and optimally engineered app!'
+p4
+tp5
+tp6
+.

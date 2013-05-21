@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tech Investor '
+p1
+tp2
+(S'Description:'
+p3
+S"Tech Investor was built for investors focused on tech stocks, but it\xe2\x80\x99s become the best app for anyone serious about tech -- whether or not you\xe2\x80\x99re an investor. It provides:INSTANT NEWS ON TECH... that covers everything important enough to move tech stocks, including new product releases, management changes, and earnings reports. Delivered with real-time, short-form updates (Seeking Alpha's Market Currents) that you can scroll through without clicking. ACTIONABLE ARTICLES...from investors and industry insiders who focus on tech stocks. Articles include long and short ideas, commentary on key events, and transcripts of tech companies' conference calls with investors.ADDITIONAL FEATURES- Real-time notifications on the stocks you follow\xe2\x80\xa2 Easy-to-setup portfolios and watchlists\xe2\x80\xa2 Simple navigation, super-fast load times\xe2\x80\xa2 Intuitive design that lets user jump right inRecent changes:\xe2\x80\xa2 More convenient News reading with full-content display\xe2\x80\xa2 Market Current comments shown directly on page\xe2\x80\xa2 Turning off sound and vibration separately.\xe2\x80\xa2 Faster loading stock prices"
+p4
+tp5
+tp6
+.

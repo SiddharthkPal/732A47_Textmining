@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FLV Video Player '
+p1
+tp2
+(S'Description:'
+p3
+S"Play your flv files from your SD-card with this simple player.You don't need to install Flash\xc2\xae Player Plugin orany other plugin to use this app to play flv videos.[******IMPORTANT******]This free app is ad supported and contains ads in the notification tray which is not a virus. The ads help us create and maintain these free apps for you. This app doesn't contain any malware, virus or spyware. Please, respect the developer work. If you don't like notification ads, you can just uninstall the app, opt-out at http://opt.leadbolt.com/  or  buy the paid version of this app:https://play.google.com/store/apps/details?id=air.br.com.bitlabs.FLVPlayerAdFree[******IMPORTANT******]Adobe\xc2\xae Systems, Inc discontinued the Flash\xc2\xae Player Plugin for mobile devices, but with FLV Player you will be able to watch your flv video files.Please support development of new features by clicking the +1 button.[Minimum Requirements]Need Android 2.2 or superior. ARMv7 processor with vector FPU, minimum 550MHz, OpenGL ES 2.0, H.264 and AAC HW decoders and 256MB of RAM.[Known Issues]- Some Asus Transformer devices may play videos without audio.- Devices with low processor power may experience poor video quality (delays).[Usage Instructions]1) Put your favorite flv video files on your SD Card.2) Open FLV Player.3) Navigate to the flv file you want to select.4) Select the flv file to watch.[Trademarks]Flash\xc2\xae and Flash\xc2\xae Player are a registered trademarks of Adobe\xc2\xae Systems, Inc.BIT LABS is not associated or related to Adobe\xc2\xae Systems, Inc.Recent changes:version 1.7-Video engine was improved and updatedversion 1.6-Search for FLV files with the Search Button-show in alphabetical orderversion 1.5 -Returns to the last selected directory when user goes from video to the file browserversion 1.4-Added rate app buttonversion 1.3-Improved file browser interface-Added repeat video functionalityversion 1.2-Hidden files are not showed in the file browser-File browser interface is improved"
+p4
+tp5
+tp6
+.

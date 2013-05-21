@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Steve Jobs on business '
+p1
+tp2
+(S'Description:'
+p3
+S'"Steve Jobs on business. 250 sentences man who changed the world "Steve Jobs, CEO of Apple Inc., Was one of the most innovative and visionary entrepreneurs of his time. Apple is under his leadership changed the communication capabilities of people and their ideas about technology. Jobs\' remarks are full of wisdom and wit. They reveal to the reader the world of this outstanding representative of the last century.The book is written for anyone who wants to succeed in business or creative activities'
+p4
+tp5
+tp6
+.

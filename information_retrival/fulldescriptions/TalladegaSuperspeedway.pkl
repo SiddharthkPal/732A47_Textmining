@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Talladega Superspeedway '
+p1
+tp2
+(S'Description:'
+p3
+S'The Talladega Superspeedway app is a must-have for your next visit to the "Biggest, Most Competitive Track in NASCAR!"  Key features include: Interactive GPS facility map with search capabilities. Find the nearest restroom, place to eat, souvenir trailer and everything else you need on race day. Customize your race experience with the daily schedule feature and create your own personalized schedule. Easily locate each activity on the interactive map. Detailed maps for parking, on-site trams, concessions, Sprint FANZONE and more. Stay up-to-date with Talladega\xe2\x80\x99s Facebook, Twitter and RSS News feeds. Connect with your friends at the Speedway via the \xe2\x80\x9cFriend Finder\xe2\x80\x9d! Get basic event info, including how to get here, where to park, first aid, will call, and ATM locations and more. This is the Official App of Talladega Superspeedway.Recent changes:New in v5.2.0:Major Map Upgrade Using Google\'s Newest VersionSharing and Social Networking UpdatesUpdated LookPerformance Upgrade'
+p4
+tp5
+tp6
+.

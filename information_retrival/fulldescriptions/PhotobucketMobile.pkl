@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photobucket Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Taking and sharing pictures and videos just got even smarter!The Free Photobucket Mobile app helps you access your Photobucket account, find whatever you want, or take pictures and videos and share them with everyone in your network\xe2\x80\xa6wherever you\xe2\x80\x99re at.Instantly share your Photobucket album with your friends and family with Photobucket Mobile. Take a photo or video from your phone and instantly upload it to your album, or browse your Photobucket selections and download your favorites. You can also instantly share to Facebook and Twitter quickly and easily. All your photos \xe2\x80\x93 saved for life!Your Photobucket is now mobile \xe2\x80\x93 take it with you, search for images on the go, and share!\xe2\x80\xa2\tInstantly upload your photos or videos to your Photobucket account.\xe2\x80\xa2\tSearch for photos & videos on Photobucket anywhere, any time.\xe2\x80\xa2\tAccess your Photobucket account on your mobile phone.\xe2\x80\xa2\tShare your photos and videos on Twitter & Facebook.\xe2\x80\xa2\tDownload photos from your Photobucket account.\xe2\x80\xa2\tManage your Photobucket albums from your mobile phone.\xe2\x80\xa2\tView links to photos & share via email, paste links to your blog, etc.\xe2\x80\xa2\tTag your photos for faster finding & access.Remember: Photobucket for Life!Recent changes:* Updated to the newest versions of 3rd party SDKs.'
+p4
+tp5
+tp6
+.

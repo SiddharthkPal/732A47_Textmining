@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RollCall Check-in for Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S"App for checking into Facebook Places!Tell your friends the cool spots you go to!We make it easy for you to check in on Facebook Places. Two taps and you're done. Your friends will see your check-in on their Facebook news feed.You can also text your location directly to your friends. Makes it easy to coordinate your get-togethers!"
+p4
+tp5
+tp6
+.

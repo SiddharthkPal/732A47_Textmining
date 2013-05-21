@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Android Intercom '
+p1
+tp2
+(S'Description:'
+p3
+S"Android Intercom let you place group calls with other Android devices over Bluetooth and Wifi.Android Intercom acts like a simple walkie talkie (two way radio):\xc2\xb7No Internet needed. It only uses local communications.\xc2\xb7Minimum configuration.\xc2\xb7No registration.\xc2\xb7No accounts.\xc2\xb7No buddy list.Sometimes you can't talk directly to people around you:\xc2\xb7Motorbike communications. Rider-copilot. There are special headsets for all types of helmets.\xc2\xb7Inter vehicle communications (up to 100 meters / 238 feet). Motorbikes, cars, ...\xc2\xb7Sports (ski, cycling, hiking, climbing).\xc2\xb7Noisy environments (construction, concerts, etc.)Remember, with Android Intercom you will not be charged and you will not waste data from your data plan.Notes:*Bluetooth headsets are supported on Android 2.2+ devices.*We recommend specialized headsets for each use case, just find the one that fits you best.Recent changes:*1.0.3\xc2\xb7 Little changes to try to solve wifi device detection problems. Please report: support@androidintercom.com*1.0.2\xc2\xb7 An option to donate some money to help developing the app. Thank you in advance!\xc2\xb7 Bug fixes*1.0.1\xc2\xb7 Use of volume buttons as PTT* 1.0.0\xc2\xb7 Mostly new\xc2\xb7 Please report to support@androidintercom.com"
+p4
+tp5
+tp6
+.

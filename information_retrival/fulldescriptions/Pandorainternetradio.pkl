@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pandora\xc3\x82\xc2\xae internet radio '
+p1
+tp2
+(S'Description:'
+p3
+S"Pandora is free, personalized radio that plays music and comedy you'll love. Just start with the name of one of your favorite artists, songs, comedians, or composers and Pandora will create a custom station that plays similar tracks. Pandora features hundreds of music and comedy genre stations ranging from Dubstep to Smooth Jazz to Power Workout.In the car, at the gym, on the train \xe2\x80\x93 listen wherever and whenever you're in the mood for great music. Create up to 100 stations so you can easily switch between favorites.Already a Pandora listener? It's simple. Just log in. Pandora on mobile is fully integrated with Pandora on the web. Enjoy all your existing stations \xe2\x80\x93 and create new ones right from your phone or tablet.Note: Pandora may use large amounts of data and carrier data charges may apply. For best results, we recommend you connect your device to trusted WiFi networks when available.Recent changes:- Lock screen controls for devices running Ice Cream Sandwich and later- Added elapsed and remaining timestamps to the track progress indicator- Reduced startup time- Bug fixes and enhancements"
+p4
+tp5
+tp6
+.

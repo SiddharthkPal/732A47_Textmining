@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'The Amazon Mobile App allows Android users to browse and \xe2\x80\x9cShop by Department\xe2\x80\x9d, quickly search, compare prices, read reviews, share products with friends, access Gold Box Deals (US only), and make purchases on Amazon.com. To make on-the-go shopping and price comparison even easier, the Amazon Mobile App includes helpful shopping features that allow users to scan a barcode, snap a photo, or type a search, to quickly compare prices and check availability. Customers can sign up to receive a daily notification for Lightning Deals and also stay up to date on status of their orders (US only).Shoppers are able to access any of Amazon\'s sites around the world from a single app by simply selecting their desired Amazon country store. Amazon customers have full access to their existing cart, wish lists, payment and Amazon Prime member shipping options, order history, 1-Click settings and can also take advantage of Amazon.com\' Subscribe & Save (US only). All purchases made on Amazon Mobile are routed through Amazon\'s secure servers just as they are on the web.** Requires Android OS 2.0 & up and rear facing camera.*** Amazon Mobile for Tablets is available on Google Play (US only). Search for "Amazon Tablet" to install the app and begin shopping. Important note regarding permissions. Amazon Mobile requires access to the following services to operate properly: Location: due to the fact that this is now a world wide app, location permissions are required to support a delivery service feature offered by Amazon in France and Japan. Only in those stores is the location data required or used. In those locations you are able to request delivery to a convenience store closest to your current location. That service is not available in other Amazon countries. Phone calls: within the app you are able to place a call to Amazon Customer Service. Tap Menu -> More -> Help -> Call Customer Service, and we will place the proper number in the phone app and dial it. Take pictures: bar code scanning and image search require access to the camera function if you choose to start the bar code scanner from the app. Account Permissions: This permission is used by the Amazon app suite for account authentication on select handsets.Recent changes:\xe2\x80\xa2  Bug fixes and performance improvementsNote: Amazon Mobile for Tablets is available on Google Play (US only). Search for "Amazon Tablet" to install the app and begin shopping.'
+p4
+tp5
+tp6
+.

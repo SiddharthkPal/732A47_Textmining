@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lose It! '
+p1
+tp2
+(S'Description:'
+p3
+S"Ready to get serious about weight loss? Lose It! can help you make your goal areality.Chosen by millions, Lose It! provides a seamless, supportive weight loss program.Download Lose It! today for a personalized and connected experience.You've seen Lose It! on the Today Show, CNN, Forbes.com, The Wall Street Journal,The Washington Post, and The New York Times.We take a proven, effective approach to weight loss (calorie tracking and peersupport) and make it easy to follow with our simple, user-friendly tools.Join the millions of others who have downloaded Lose It! and give it a try.Lose It! is simple, fun to use, and includes great features:- Simple, attractive, streamlined interface- Comprehensive database of foods and activities- Quickly add new foods or exercises to the database- Setup recipes for more complicated foods- Quickly add to your log with previous meals, my foods, and other shortcuts- Track nutrients such as protein, fat, carbohydrates, and more- Log packaged foods quickly with our popular barcode scanner- Works with or without a network connection- No advertisements!Set up a free LoseIt.com account to gain access to additional features andcapabilities that no other weight loss application has:- Log your food and exercise on LoseIt.com- Automatically keep a back-up of your data- Connect with friends for extra support and motivation- Earn badges to recognize your success- Share custom foods, exercises, and recipes with friends- Share your progress on Facebook or Twitter- Keep your data private or share with friends - you are in control- Generate reports on your activity and progressLose It! is the most popular, complete, and streamlined weight loss app for Androiddevices. We hope you\xe2\x80\x99ll join us and start \xe2\x80\x9closing it\xe2\x80\x9d today!Become a fan of Lose It! on facebook (http://www.facebook.com/loseit) or follow uson Twitter @loseit (http://www.twitter.com/loseit).Recent changes:-Life Fitness Integration-UI Improvements, bug fixes, etc-For quicker access to the premium features in Lose It! features, Android users can upgrade in-app.New Permissions:You\xe2\x80\x99ll notice two new permission requests upon install. These permissions are for the wake lock (which we only use when you\xe2\x80\x99re connected to a Life Fitness machine) and in-app billing for users who choose to upgrade to Lose It! premium."
+p4
+tp5
+tp6
+.

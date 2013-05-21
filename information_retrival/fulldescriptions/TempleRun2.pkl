@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Temple Run 2 '
+p1
+tp2
+(S'Description:'
+p3
+S'With over 170 million downloads, Temple Run redefined mobile gaming. Now get more of the exhilarating running, jumping, turning and sliding you love in Temple Run 2!Navigate perilous cliffs, zip lines, mines and forests as you try to escape with the cursed idol. How far can you run?!FEATURES\xe2\x98\x85 Beautiful new graphics\xe2\x98\x85 Gorgeous new organic environments\xe2\x98\x85 New obstacles\xe2\x98\x85 More powerups\xe2\x98\x85 More achievements\xe2\x98\x85 Special powers for each character\xe2\x98\x85 Bigger monkey!!!Become a fan of Temple Run on Facebook:http://www.facebook.com/TempleRunFollow Temple Run on Twitter:https://twitter.com/TempleRunRecent changes:Quick patch to fix a crash on launch that some players are experiencing. In version 1.1 we added some great features to make running even more fun! \xe2\x98\x85 Daily and weekly challenges to win free coins and gems!\xe2\x98\x85 Powerups collected now extend the time of already active powers \xe2\x98\x85 Stuck objectives should be fixed \xe2\x98\x85 More bug fixes'
+p4
+tp5
+tp6
+.

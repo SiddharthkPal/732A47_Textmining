@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Timetable '
+p1
+tp2
+(S'Description:'
+p3
+S'Timetable is the most beautiful and intuitive app on Google Play for managing your school or university life. Save your timetable and all tasks from homework to exams. Often forget to turn down your phones volume? No problem the app automatically mutes (automute) your phone during lessons. Quick overview- no ads and completely free- optimized for phones and tablets- light and dark theme available- easily save your lessons, tasks and holidays- view your timetable as list and as grid- search in your timetable and tasks- two-week-mode for timetable- one 4x1 widget for each lessons and tasks- one resizable widget (2x2 minimum) for each - lock screen widgets for each (Android 4.2)- notifications for lessons- automute phone during lesson- dashclock extensionPermissions- Start at boot: needed for automute and notificationsRecent changes:Sync is currently in beta. If you want to test it, go to this link, sign in and press request access: http://goo.gl/JkoUH You will get access within 48 hours.1.4.1- fixed battery drain- fixed widget not displaying the room- fixed crash1.4.0- added holidays- added dashclock extension- tasklist now shows day and countdown- option to show next day in big widget- ability to show teacher in lists and widgets- show complete subject name in big widgetfull changelog: http://goo.gl/RExgE'
+p4
+tp5
+tp6
+.

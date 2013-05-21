@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Doctor At Home '
+p1
+tp2
+(S'Description:'
+p3
+S'Doctor_at_home is an application which will help you in the treatment of commonly found diseases like cough ,cold, fever etc.These diseases you can treat using easily available things at home like aamla,grapes,lemon,ginger etc.And this is what Doctor_at_home do. Best Home Remedies for you is just one click away.This application contains home remedies with picture of remedy.Download the application and know more about this Homely Doctor.NOTE-Please NOTE THAT IT IS NOT INTENDED TO BE USED AS THE PRIMARY SOURCE FOR CURE OF ANY DISEASE.TRY ON YOUR OWN RISK.App developer will not be responsible for anything.Recent changes:Share with Facebook and share via email,message etc available.Addition of new Categories for hair,eye hand care etc.Tablet Support is added.Major changes in UIMemory leak issues are resolvedFew spelling mistakes are correctedSupprt to move to SD card added'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Funny Face Effects '
+p1
+tp2
+(S'Description:'
+p3
+S"Create funny face effects, make faces look fat, bald, ugly and much more!- Funny face effects such as fat, bold, huge smile and more- Easy to warp, move, stretch, distort any image with your fingers tocreate own photo warp- Import photos easily from your photo gallery, camera or from Facebook- Post to facebook, share via email, or send via MMSThis app will melt your face!Just take a picture then warp, bend and distort it to your heart's content.Make yourself skinnier, buff yourself up or enlarge any body parts thatmight need some enlargement ;)"
+p4
+tp5
+tp6
+.

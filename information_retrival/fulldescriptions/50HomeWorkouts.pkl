@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'50 Home Workouts '
+p1
+tp2
+(S'Description:'
+p3
+S"Don't like to go to public gym or maybe you don't have the time? Than this is an app for you. In here there are 50 home workout sets with over a 75 different exercises. You don't need any additional equipment for this workout program.You don't need fancy exercise gear and cool looking gym to get fit. If there is anything you would like to change or add in the app to improve it send a feedback to developer.EnjoyRecent changes:Version 2.3 - App navigation improvements- User now can randomly chose another workout set from within the workout- Added easy and hard sections in all categories- Added progress bar in all workout sets- Stability improvementsVersion 2.2 - Added categories of workouts along with a new user interface."
+p4
+tp5
+tp6
+.

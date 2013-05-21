@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Installer - Install APK '
+p1
+tp2
+(S'Description:'
+p3
+S'Full featured installer with tiny size, user friendly design and high performance. Scan and install market and non-market apps easily from your SD card.Features:* Install and delete applications from SD card.* Auto-scan all APK files from SD card. Use built-in cache mechanism to improve performance, avoid scan over and over again.* Support batch mode for multiple install and delete.* Show full application information including name, version, path, size and date.* Instantly search applications by name.* Share application to friends through multiple ways such as Gmail, Bluetooth, etc. * Search application information directly from android market.* Full android version compatible since 1.5+.Usage Guide:This application is very straight forward. For first launch it will search all APK files which stored on your SD card and display them for you to install. For other launches it will load application information automatically from cache to save plenty of time. Click refresh button in option menu to rebuild the cache if SD card content changed when necessary.Any comment is welcomed and appreciated, please send to support@rhmsoft.com. Enjoy it.Keywords: apkInstaller appInstaller Install APKRecent changes:* Support huge number of apk files on your SD card(2000+ to unlimited), avoid out of memory error.* Support Holo theme on android 3.0+.* Support donation to remove ads.'
+p4
+tp5
+tp6
+.

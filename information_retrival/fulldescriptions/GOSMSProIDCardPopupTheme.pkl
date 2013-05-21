@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO SMS Pro IDCard Popup Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'GO SMS Pro IDCard Popup theme, a personalized GO Popup themedesigned for GO SMS Pro, is a new individual popup, with Full Screen, Cool UI, and supports animation interaction , recommend to you! \xe2\x9d\xa4\xe2\x9d\xa4\xe2\x9d\xa4 How to use \xe2\x9d\xa4\xe2\x9d\xa4\xe2\x9d\xa41. Download and install the Thanksgiving GO Popup2. Open GO SMS Pro Theme Store - GO Popup -  Click "Turn on". If you have turned on the GO Popup feature, just skip this step.3. GO SMS Pro Theme Store - GO Popup - Installed page, choose the theme screeshot to apply. When receiving new message, then you will see the new GO Popup inteface. Tips: Please make sure that you have installed GO SMS Pro V4.67 or above. Copyright 2004-2012 3G.cn All Rights Reserved'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FastConnect - WiFi made easy '
+p1
+tp2
+(S'Description:'
+p3
+S'Everyone can use The Cloud WiFi. There are over 16,000 Cloud hotspots throughout the UK in many of the places you visit regularly from shops to cafes, pubs and train stations.FastConnect is a hotspot finder that shows where The Cloud WiFi is available. If you login with your free Cloud account to register the compatible device, it will also connect you automatically to our unlimited free hotspots in future.The Cloud WiFi is fast and really easy to use, and by switching to it you can save money on your mobile data allowance. So do your phone/tablet (and wallet!) a favour and download FastConnect now!Auto-Connect-\tSet your compatible WiFi device to automatically connect whenever in range of an unlimited free hotspot* \xe2\x80\x93 no need to re-enter username and password-\tRegister up to 2 devices per accountCloud Hotspot Locator-\tSearch for hotspots near to you or by address-\tGet venue information such as address and telephone number-\tTell your friends you are at or on your way to a hotspot with Facebook, Twitter or email.-\tSearch for hotspots whilst offline*Auto-connect does not extend to \xe2\x80\x98limited free\xe2\x80\x99 or PAYGO Hotspots. Experience varies significantly by location and number of users.  Available on 2 registered devices.  App available for Android devices with OS2.3 and above.Recent changes:FastConnect has evolved!-\tNow you can register your compatible device to automatically connect when in range of an unlimited free Cloud WiFi hotspot - no need to re-enter your username and password-\t Register up to 2 devices per account for auto-connect* new bug fix for HTC One-X SSID crash issue.'
+p4
+tp5
+tp6
+.

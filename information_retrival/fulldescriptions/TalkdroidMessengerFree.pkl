@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Talkdroid Messenger Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Talkdroid Messenger is a Windows Live Messenger client for Android (or also known as MSN Messenger). You can easily sign in with your existing Windows Live account to get in contact with your friends.Talkdroid Messenger currently support the following features:* Facebook chat integration support. In this way you can also chat with your Facebook friends! (You must link your Facebook account in your Windows Live Messenger account).* Send and receive images, videos, or any other kind of file.* Send and receive voice clips.* Offline messaging.* Send Nudges.* Multiparty conversations.* Yahoo and SMS contacts support.* Windows Live Messenger 2011 chat icons.* Roaming profile synchronization.* Swipe among chats.* Bubble or normal chat styles.* Invisible sign in.* Chat history.* Auto away.* Proxy connection (experimental).* Show if your contacts are connected with Web Messenger, mobile phone, etc.* Configurable notifications like incoming email, contacts go online, new messages, etc.* Show what your contacts are listening.Questions or suggestions? ask me in:Facebook: http://goo.gl/9NxiVTwitter: @meeblelabsNote: MSN and Windows Live are registered trademarks of Microsoft Corporation. This application is not affiliated in any way with Microsoft Corporation.Recent changes:Follow on Facebook: http://goo.gl/9NxiVVERSION 1.2 (06/10/2012)* Fixed a problem while synchronizing address-book* Improved address-book synchronization for some accounts* One permission deleted (read-phone-state)See the full change log in:  http://bit.ly/LdrEoO'
+p4
+tp5
+tp6
+.

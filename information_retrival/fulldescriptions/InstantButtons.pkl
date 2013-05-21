@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Instant Buttons '
+p1
+tp2
+(S'Description:'
+p3
+S"Instant Buttons is an original soundboard, it's a unique collection of sounds. This application will offer to you many funny and quickly sounds that you might use anytime.More than 260 sounds! From the most famous memes of 4chan/internet (as the ComboBreaker, Falcon Punch, Khaan, Rimshot, This is Sparta, Nyan, Chuck Testa, Mudkip or Harlem Shake) to dialogues of your favorites series (as Big Bang Theory, How I Met Your Mother, Community, Futurama, South Park, Family Guy, Lost, Adventure Time or The Simpsons), going through mitical videogames sounds (as PacMan, Age Of Empires, Metal Gear, Metal Slug, Star Fox, Unreal, Counter Strike, Skyrim, League Of Legends, Street Fighter, Diablo...) and quotes for epic movies (Harry Potter, Terminator, Saw, Hunger Games, Kill Bill, Batman, Rocky...). Instant Buttons includes all the sounds needed for a fun moment. Besides, we are open for suggestions, only send us an e-mail with the sound that you want.And if that's not enough, Instant Buttons has the possibility to add any sound as a Widget to your desktop, to keep it handy wherever you want. Besides, you can set any sound as ringtone, notification or alarm, save the sounds as favorites, hide buttons, choose to repeat a sound and share them on WhatsApp, gMail, Bluetooth...Optimized for tablets.Explanation of the permissions:WRITE_EXTERNAL_STORAGE -> SD app installWRITE_SETTINGS -> To change the ringtones and notificationsINTERNET, ACCESS_NETWORK_STATE -> Ads from AdMob\xe2\x9d\xa3\xe2\x9d\xa3\xe2\x9d\xa3 WARNING! If you install the app on the SD, Widgets won't work! This is a requisite from Google, we can't do anything. \xe2\x9d\xa3\xe2\x9d\xa3\xe2\x9d\xa3Recent changes:v1.8.4\xe2\x8a\x95 12 new sounds: 20 percent cooler, Charlie's Angels, Death Metal Rooster, Kalinka, Puddi Puddi, Release The Kraken, Screaming Goat, So Fluffy, Ta Ta Taaaa, Tadalala, Wat and We Will Rock You"
+p4
+tp5
+tp6
+.

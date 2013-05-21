@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yahoo! Mail '
+p1
+tp2
+(S'Description:'
+p3
+S"Now with Android phone and tablet support!Stay connected- Access your inbox in just one tap- Stay on top of your new messages with notifications- Quickly scan messages in your inbox with continuous scrollMessage with ease- Auto-complete email addresses as you type- Multi-select messages to organize your inbox fasterGet more done faster- Access multiple Yahoo! email accountsin one place- Easily attach photos or take new ones while composing a message- Preview photos right at the top of a message- Search through all your messages across all foldersFollow us on Twitter @YahooMailThis is a global app developed by Yahoo! Inc under US Law. Yahoo! does not provide a local Swiss mail service.Recent changes:New in 2.5.1:- Changed how we handle messages in outbox to ensure they don't get stuck- Fixed zoom on older devices- Fixed message list turning purple on some devices- Fixed several crashes reported by consumers- Search results now update when changing filters- Forwarded message no longer lose attachmentsWe are aware of an issue with deleting messages some users are experiencing. Our team is investigating solutions."
+p4
+tp5
+tp6
+.

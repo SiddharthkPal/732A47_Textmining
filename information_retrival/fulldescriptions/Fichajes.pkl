@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fichajes '
+p1
+tp2
+(S'Description:'
+p3
+S'Descarga de forma gratuita la nueva aplicaci\xc3\xb3n oficial de Fichajes.com para Android. \xc2\xa1Esta aplicaci\xc3\xb3n, m\xc3\xa1s estable y m\xc3\xa1s r\xc3\xa1pida, te ofrece lo mejor del f\xc3\xbatbol y de los traspasos directamente en tu m\xc3\xb3vil! Fichajes.com est\xc3\xa1 a la \xc3\xbaltima de la actualidad del mundo del f\xc3\xbatbol y es un sitio web de referencia en Internet. A partir de ahora, nos puedes encontrar en tu Android y descargar de forma gratuita la aplicaci\xc3\xb3n oficial. Desde tu m\xc3\xb3vil, tendr\xc3\xa1s acceso a lo mejor del f\xc3\xbatbol, todos los resultados, los resultados en directo y las clasificaciones, adem\xc3\xa1s de estar conectado a la actualidad en todo momento. Noticias: aqu\xc3\xad encontrar\xc3\xa1s las noticias principales de la jornada con lo mejor de la actualidad de la Liga BBVA, la liga extranjera y nuestras noticias exclusivas en el mismo formato que en la versi\xc3\xb3n web: art\xc3\xadculos de opini\xc3\xb3n sobre la actualidad del f\xc3\xbatbol y flashes que van directos al grano. Mi Fichajes: selecciona tus clubes favoritos y personaliza tu aplicaci\xc3\xb3n para seguirles de forma m\xc3\xa1s f\xc3\xa1cil. Resultados de las clasificaciones en directo: aqu\xc3\xad encontrar\xc3\xa1s los resultados de cada competici\xc3\xb3n principal, podr\xc3\xa1s seguir los partidos en directo y consultar las clasificaciones de tus equipos favoritos. El sistema de alerta te permite estar informado en tiempo real de la evoluci\xc3\xb3n del resultado de tu club favorito.'
+p4
+tp5
+tp6
+.

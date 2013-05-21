@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ennahar-TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Ennahar-tv application for mobile phone, the application of a special offer news channelRecent changes:versionName: 1.0The first version of the applicationNext release will be available soonWe need your suggestions'
+p4
+tp5
+tp6
+.

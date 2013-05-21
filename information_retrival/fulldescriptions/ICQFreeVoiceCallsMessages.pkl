@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ICQ: Free Voice Calls,Messages '
+p1
+tp2
+(S'Description:'
+p3
+S"ICQ allows you to chat with all of your friends in one app. It\xe2\x80\x99s convenient and free, so you can forget about costly SMS and MMS.\xe2\x80\xa2 Send instant messages to your contacts in ICQ and to your friends on Facebook and Google+.\xe2\x80\xa2 Share photos and videos with your friends.\xe2\x80\xa2 Tell your friends where you are directly from the app.\xe2\x80\xa2 ICQ for Android now allows you to make free voice calls (beta). Call your ICQ friends on their computers or mobile devices.\xe2\x80\xa2 ICQ is available for all phones, as wells as for computers and tablets. Stay in touch with your friends from any device.\xe2\x80\xa2 Login to ICQ without UIN registration using your phone number. You can also download ICQ for your computer: http://download.icq.com/download/icqFor feedback or questions please visit us on Facebook: www.facebook.com/ICQ or email us: mobilesupport@icq.comRecent changes:4.0.7: \xe2\x80\xa2 Bug fixes.4.0.6: \xe2\x80\xa2 Bug fixes.4.0.5: \xe2\x80\xa2 Login to ICQ with Facebook;\xe2\x80\xa2 Bug fixes.4.0.4: \xe2\x80\xa2 Especially for Valentine's Day we have prepared new chat wallpapers;\xe2\x80\xa2 Bug fixes.4.0.0: \xe2\x80\xa2 Free voice calls with ICQ friends (beta)\xe2\x80\xa2 Bug fixes"
+p4
+tp5
+tp6
+.

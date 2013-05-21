@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Info Cycling 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S"Info Cycling 2013, the best app to follow the entire cycling season on your Android device.Find out all the details about your favourite races: Tour de France, Giro d'Italia,  Vuelta a Espa\xc3\xb1a and the rest of World Tour events updated daily. - SCHEDULE: all dates for the races.- STANDINGS: general, mountain, points, youth and teams.- RIDERS: Riders and teams registered in the race.- STAGES: profiles and results in detail.- And the best cycling REPORTS. If your passion is cycling, this is your app! Download it FREE now! Follow us on Twitter, @infocycling2013"
+p4
+tp5
+tp6
+.

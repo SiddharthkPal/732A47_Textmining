@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rijksmuseum '
+p1
+tp2
+(S'Description:'
+p3
+S"RijksmuseumThe Rijksmuseum in Amsterdam has many of the world\xe2\x80\x99s finest masterpieces and tells the most exciting stories. Over 8,000 treasures are displayed across 80 exhibition rooms, telling the tale of 800 years of art and history. A journey through time, spanning 1.5 kilometres, runs from the Middle Ages to the present day. Guided by this official Rijksmuseum multimedia tour, you can browse through the Rijksmuseum in any particular order, getting to know the artworks at your leisure. Or opt to follow one of the carefully selected tours, guided by a narrator to a selection of the museum\xe2\x80\x99s highlights.See moreThe Rijksmuseum app has a simple principle: See More. The app works as a magic window, revealing remarkable stories and surprising details about the Rijksmuseum's collection as well as its architecture. With the Rijksmuseum app your smartphone is transformed into a magnifying glass, a set of binoculars, a time machine, an infrared scanner, a sketch pad, or a magic wand.Special featuresThe Rijksmuseum app includes 3D-audio compositions, offering the experience of navigating through 3D space. The soundscapes sweep you along in the atmosphere of each tour. And every tour offers the option to collect a digital souvenir, which you can save on your smartphone or share by e-mail. PracticalThe Rijksmuseum app also contains practical visitor's information, and schedule of the current activities in the Rijksmuseum.How does it workYou can download the app before you even set foot in the Rijksmuseum and browse through the tour to prepare your visit. You can also download the app on arrival, using the free wifi network at the Rijksmuseum. It is recommended to bring your own headphones, to enjoy the full 3D audio experience. You can also purchase headphones in the museum for \xe2\x82\xac1.50.Visitors can also hire an iPod touch in the Rijksmuseum for \xe2\x82\xac5."
+p4
+tp5
+tp6
+.

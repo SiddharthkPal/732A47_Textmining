@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English To Arabic Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'\xd9\x82\xd8\xa7\xd9\x85\xd9\x88\xd8\xb3 \xd8\xb9\xd8\xb1\xd8\xa8\xd9\x8a \xd8\xa5\xd9\x86\xd8\xac\xd9\x84\xd9\x8a\xd8\xb2\xd9\x8a       - FREE English To Arabic Dictionary has 87,000 words.- Search the English word and it will display its Arabic translation. - "Search Options" feature that help to search the word "Starting" with searching word or "Ending" with searching word or "Containing" the searching word. - Audio Pronunciation of English Words. - Listen the Arabic sound of Words.  - No need of Internet. Work offline without using Internet.'
+p4
+tp5
+tp6
+.

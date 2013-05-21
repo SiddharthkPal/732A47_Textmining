@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Talking Pocket Bot Lucy '
+p1
+tp2
+(S'Description:'
+p3
+S'Lucy wants to meet you!Talking Pocket Bot Lucy is a pretty and very entertaining girl who really likes talking to you and knows a lot!Talking Lucy have small talk, tell funny jokes, show you interesting things on the internet, introduce you to cool new App, demonstrate interesting facts, talk to you about Hollywood stars and popular musicians from the theater, film, TV; etc, and much more!Features:High quality 3D video graphicsVoice output - Lucy is talking to youMany different animationsArtificial intelligenceUnique, new softwarePretty girlIncludes a cool widgetVersatile chat and dialogue functionIt talks about a lot of topics such as cars, cats, love, science, shopping, style, kids, clothes, holidays, sports, music, dogs, partnerships, news, trends, and much more.This free App is a must for everyone who loves good entertainment!'
+p4
+tp5
+tp6
+.

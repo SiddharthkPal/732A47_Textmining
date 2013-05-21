@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MultiClip PRO:Video downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Download videos and images in one go from your favorite web sites![ MultiClipPRO ] is a downloader application that allows you to easily download videos, images, and PDF files from the web.* Download videos, images, and PDF files!You can download and save your favorite videos, images, and PDF files on the Internet.Once the files have been saved, you can view or play them even when you are not connected to the Internet (when you are offline).* Handy browser functionality![ Multi Clip PRO ] also provides very handy web browser functionality.Its web browser functionality also includes bookmarking of sites, and video streaming.Main functions:* Download and save videos, images, and PDF files.* Play and view videos, images, and PDF files.* Web browsing functionality.Important Note:* This application is not allowed to access YouTube content in accordance to their terms and conditions of service.---------------------- Facebookhttp://www.facebook.com/pages/Multiclip-PRO/403090173122210- Twitterhttps://twitter.com/MultiClipPRO- Google plushttps://plus.google.com/112884667603094673683/about- Contact Ushttp://mclippro.inquiries.teamcapp.com/inquiries/contact.new.php?url=PlayStoreRecent changes:I did a modification of navigation'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Skitch '
+p1
+tp2
+(S'Description:'
+p3
+S'Make a point with Skitch.Skitch is a free app that helps you communicate visually with friends, co-workers, and the world. Annotate images with arrows, shapes, text, and more. Use Skitch to sketch something new, mark up maps, screen captures, or even a photo. Then save or share your Skitch annotation to help others see and understand your ideas. Getting everyone on the same page has never been easier.Features that make Skitch great:- Create smooth lines and scribbles to explain an idea- Annotate maps, webpages and screenshots- Zoom and crop images- Pixelate portions of an image, add highlights and draw attention to what matters- Add text using special high-contrast coloring for readability- Markup text with the highlighter tool- Reposition and delete shapes, text and drawings at any time- Share your work with any application that accepts imagesHere are some ways to use Skitch: - At work: Communicate a design change by annotating a screenshot- At home: Annotate a photo of your living room to show movers where to put furniture- At a conference: take a snapshot of people you meet, annotate it with their names- For personal information: Take a photo of a bill, then pixelate personal details before sharing- For directions: Draw a path on a map to help someone find your picnic spot Please note: In order to take advantage of Evernote syncing you must have Evernote installed on your phone and have an active account.Skitch is fast and fun!More information about permissions at:http://bit.ly/mAjLucRecent changes:Update to 2.0.6.1- Added Romanian languageNew in Skitch 2.0.6- Added Right to Left text support for Right to Left languages to the text annotation tool- Added the ability to draw dots with the pen tool- Added an update check to make sure you have a current version of Evernote for Android if needed- New language: Arabic- Assorted bug fixes'
+p4
+tp5
+tp6
+.

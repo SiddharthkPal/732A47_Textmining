@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Latest Gold Prices '
+p1
+tp2
+(S'Description:'
+p3
+S"If you're interested in the gold price, this application displays the latest gold price in the U.S., Europe and many Arab and African countries.Prices are being updated daily at 1200 GMT.Recent changes:Solve orientation bug."
+p4
+tp5
+tp6
+.

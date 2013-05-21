@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Knots Guide '
+p1
+tp2
+(S'Description:'
+p3
+S'Knots Guide is a SIMPLE quick reference collection of different knots. - 92 knots.- 10 categories: Bend, Binding, Climbing, Decorative, Fishing, Hitch, Looping, Running, Stopper, Whipping.- Click knot image to get a zoomed in view of the knot.Note1: Ad supported! For ad free version buy Knots Guide ProRecent changes:v2.0 Improved support for Tablet devicesv1.9 Fixed Force Close issue on Android v4 devices.v1.8 ClassPathLoader Force Close fixed during app install.v1.7 Referenced Library updated!v1.6 Removed unnecessary permissionsv1.5 Hitch knots (20 new knots added)v1.4 App2sdv1.3 More tying infov1.2 Zoom'
+p4
+tp5
+tp6
+.

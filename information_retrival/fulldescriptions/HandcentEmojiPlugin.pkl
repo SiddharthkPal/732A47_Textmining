@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Handcent Emoji Plugin '
+p1
+tp2
+(S'Description:'
+p3
+S'Plugin for handcent SMS only ,you can send many cool/funny emoji icons to the iphone or android phone that installed handcent +emoji plugin. All the emoji are sent by SMS ,needn\'t MMS.** HOW TO USE**Just installed this plugin and enable it from by insert smileys from handcent and choose "emoji" menu item,if you send to android phone ,please make sure the recipient has been installed HANDCENT SMS & HANDCENT EMOJI PLUGIN also.if you send to iphone ,it will disaply directly without install any application or plugin.** FOR US USER**Handcent SMS 3.7.2 + Emoji Plugin 1.1 has been supported send Emoji to AT&T iphone from any carrier\'s android phone. It also supported send emoji to all carrier\'s android phone that installed handcent + emoji plugin,please update *** App2SD ***This plugin support App2SD,you can move it to SDCARD and save your internal memory space*** iOS6.0 EMOJI***Version 3.0 has been supported iOS6 Emoji display and input ,please update this plugin and update Handcent SMS to Version 4.5 also **** Please read HOW TO USE before give bad comment ****Recent changes:#Version 3.1> Add new iOS6 emoji icons and support > Improve the click experience when using emoji keyboard.Anyone had the issue that can\'t display emoji at phone,please email market@handcent.com ,we will check it with you'
+p4
+tp5
+tp6
+.

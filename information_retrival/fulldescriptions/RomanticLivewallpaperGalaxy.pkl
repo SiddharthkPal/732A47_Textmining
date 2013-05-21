@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Romantic Live wallpaper Galaxy '
+p1
+tp2
+(S'Description:'
+p3
+S'Romantic Live Wallpapers for Galaxy S III decorates your home screen with many beautiful and romantic/love live wallpapers The application let the user to select the live wallpaper that he likes and set it as the background for  his mobile.How to Use:-Long tab the home screen-choose Set wallpaper for then choose Home screen-choose Live wallpapers-choose Romantic Live wallpaper- press the settings button to choose a romantic live wallpaper- press the Set wallpaper button and enjoy the romance in your mobile background'
+p4
+tp5
+tp6
+.

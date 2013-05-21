@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Anatomicus: Anatomy Atlas '
+p1
+tp2
+(S'Description:'
+p3
+S'Anatomic.us is a visual atlas that enables to find most of the information about human anatomy.Exploration of human body with visual effects is so easy now. You can find anatomy atlases and descriptions on this medical library.About Human Anatomy:Anatomic.us is prepared to enable medical students, interns, teachers, patients and everybody interested in human anatomy to access anatomy atlas. You can learn pronunciation of medical terms with audio descriptions, location of organs with visual graphics. This interactive guide appeals to visual perception, auditory perception, so information is catchy. Increase your academic knowledge, visiting our medical guide. Position and working principles of organs are told with details; structures of male/ female anatomy, parts of organs are shown on visual atlas. Everyone should know his/her structures and internal organs to take care of his/her health more. Especially ones who study on biology, medical science can benefit from this medical academic library.Advantages;\xe3\x83\xbbHuman Anatomy via Perfect Visual Expression\xe3\x83\xbbLearning Structures of Human Body\xe3\x83\xbbFull Descriptions about Systems and Organs\xe3\x83\xbbNew Educational Methods\xe3\x83\xbbInteractive Education/Training\xe3\x83\xbbAudio DescriptionsDetails;You can find all body systems, see them visually to learn which organs take place in which body systems and their locations. Also, in descriptions, their functions are written. Body Systems:Muscular SystemUrinary SystemDigestive SystemNervous SystemReproductive SystemRespiratory System Lymphatic SystemSkeletal SystemCardiovascular SystemAbout Anatomy Games;We know entertainingly learning is an effective method, because of it, we prepared this anatomy game. Although games seem like puzzle games, they are educational about human anatomy definitely.About Disease and Symptoms;Furthermore; you can learn about diseases more. For example; if you suspect that you suffer from a disease, read about disease and symptoms on anatomic.us. If you have risk factors for a disease, you can learn prevention from it. Contents of diseases include definition, causes, signs and symptoms, diagnosis, prevention, treatment modalities, and risk factors.'
+p4
+tp5
+tp6
+.

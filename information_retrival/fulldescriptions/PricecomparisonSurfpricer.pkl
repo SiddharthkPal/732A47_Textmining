@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Price comparison - Surfpricer '
+p1
+tp2
+(S'Description:'
+p3
+S'Surfpricer is the perfect app for checking prices and comparing deals on all kinds of products in thousands of shops. You can use the  scanner to read barcodes for even faster searching.You can search for phones, televisions, computers, sports, electronics, photography, software, video games, childcare products, books, music, fashion, DIY, and much more. We\xe2\x80\x99ll provide you with over 2,000,000 prices to save you time and money!You can also create alerts to receive notifications when the price of a product is reduced to the price you\xe2\x80\x99re willing to pay.HOW DOES IT WORK? Compare deals, buy and save in 4 easy steps: 1. - Enter a search term or scan a product bar code2. - Get the results and choose the deal that interests you 3. - Read the product information 4. - Make the purchase in the shop of your choiceDOWNLOAD THE APP FOR FREE AND START SAVING NOW!SURFPRICER, SEARCH BETTER BUY CHEAPERRecent changes:~ Now you can search using your voice!~ New app languages\xe2\x80\x8b\xe2\x80\x8b: Portuguese and French~ Correction of minor errors'
+p4
+tp5
+tp6
+.

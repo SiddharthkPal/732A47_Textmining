@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Designs '
+p1
+tp2
+(S'Description:'
+p3
+S'Designs is the application of writing on photos.The application provide the users capability to type text, change font, background, add stickers and effects and change font format.The main features of the app are:+ Typing text on photos.+ Adding many text lines.+ Formatting text (size, color, reflection, shadow).+ More than 50 font types.+ About 50 backgrounds images.+ Support Adding photo from studio.+ More than 80 stickers.+ More than 20 effects.+ More than 10 frames.How to Use:See help of the application.More features and updates are coming very soon.Recent changes:1.3.2: BUG FIXING'
+p4
+tp5
+tp6
+.

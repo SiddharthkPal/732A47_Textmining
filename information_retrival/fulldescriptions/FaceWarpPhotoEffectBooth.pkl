@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Face Warp - Photo Effect Booth '
+p1
+tp2
+(S'Description:'
+p3
+S'Until now live was boring. But now you will be able to put a big smile on everybody\xe2\x80\x99s face. The exciting, amusing and very entertaining Face Warp - Photo Effect Booth app is here. Brighten the day of your friends with this hilarious face morpher. Take a downloaded photo or one of your gallery and distort, bend, stretch or melt the face as you like.Make the subjects of your pictures skinnier or fatter by narrowing or enlarging their faces.Transform your friends in some sort of freaking monsters by displacing and deforming completely some part of their faces.Take some pictures of your colleagues at work / school, at your sport club, from your class mates, etc. and create some comic caricatures of them to share a big smile with them. With this fantastic tool you will be able to create fake pictures to send per mail, share with Whatsapp, Twitter, Skype, another Messenger Tool or simply upload them to Facebook, Flickr, Dropbox etc. Features:- Select a picture and re-size it to bring it in the face frame and have the best morphing results.- Warp tool (Select the warp tool, tap somewhere on the face of your image and drag to move around pixels.)- Squeeze and bloat tools- Responsive and quick manipulation- You can warp every image whether it has been made from your camera or if it has been downloaded from internet.- Ad some animated cartoon special effects- Save and share your amusing pictures with the world  Tips: Download some cool celebrity (VIP) or politicians pictures (e. g. from movie, music or tv stars, actors, presidents, dictators, etc.) and submit them to plastic surgery (morph their face as it pleases you) it will be exhilarating. Take a picture of your boy / girlfriend and deform his / her face like it would be made of rubber and check if they have a good sense of humor. ;-) With this free face changer app it is very easy to fake your photos. Enjoy it! Can you imagine how much fun you will have with this app now?Recent changes:- Re-size option for the best morphing results.'
+p4
+tp5
+tp6
+.

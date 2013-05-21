@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kotak Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'Manage your Kotak Accounts and Credit Cards with ease with Kotak Mahindra Bank\xe2\x80\x99s official mobile banking application for Android phones.Kotak Mobile Banking features:\xe2\x80\xa2\tSecure transactions\xe2\x80\xa2\tPersonalise your Home Page to get the information of your choice\xe2\x80\xa2\tLocate the nearest Kotak Bank branch or ATM\xe2\x80\xa2\tEasy funds transfer on the go, without having to register a beneficiary \xe2\x80\xa2\tPay your bills, open a Term Deposit and much moreGet started:You just need your Customer Relationship Number (CRN), your Debit Card PIN or your Net Banking password to get started. The app will take you through a one-time activation process when you log in for the first time.'
+p4
+tp5
+tp6
+.

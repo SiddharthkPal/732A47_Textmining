@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart Pedometer '
+p1
+tp2
+(S'Description:'
+p3
+S'Smart Pedometer turns your phone into a complete pedometer very easy to use with a great variety of functions:- NEW:  New steps detection algorithm with improved accuracy!- NEW: BMI(Body mass index) calculator!- Measurement of time, distance, speed and calories.- Define your own goals to achieve.- Compare calories you burned with their equivalent in foodstuff (fruits,vegetables,fast food,drinks and so on).- Two lock modes to save power during your workout.- NEW: Two unlock modes with improved security.- You can compare your workout scores with previous ones and observe your progress.- You can share your progress on Facebook and Twitter.- You can schedule workouts, and it will be in sync with android calendars to show workouts notifications.- No GPS needed.- Many more features to come.Recent changes:- New feature: BMI Calculator.- Added possibility to use inches as measurement unit.- Android 2.3+: Now you can move the app to SD.- Some bugs fixed.'
+p4
+tp5
+tp6
+.

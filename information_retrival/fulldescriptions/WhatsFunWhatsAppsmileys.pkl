@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WhatsFun  WhatsApp smileys '
+p1
+tp2
+(S'Description:'
+p3
+S'Designed to WhatsApp, WhatsFun send a group of icons, images composed of predefined icon, custom text, memes, postal, emotext and Stickers to whatsapp massively, to the touch of a button. You can send an icon in a few clicks 100 times. Have fun with your whatsapp, surprised everyone with its ease and speed.New Stickers: gangnam style...Postal: Halloween, Happy New Year, Happy Birthday, San Patick day, valentine day, i love you.Memes: LOL, ROLF, WTF...Recent changes:1.9 New section STICKERS 25 New Stickers, gangnam style and more... selection interface properly adjusted to fit the images1.8 Now it is not necessary to select whatsapp to send20 New Smiles 15 New Memes 9 New Emotext Compatible with ICS 4.1.2 1.7 New Funcionality EmoText.If you want a particular language or a custom image, help me, send an email....'
+p4
+tp5
+tp6
+.

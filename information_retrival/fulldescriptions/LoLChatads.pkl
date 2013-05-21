@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LoL Chat (ads) '
+p1
+tp2
+(S'Description:'
+p3
+S'I am NOT affiliated with Riot Games or League of Legends. I just love the game and I love to write code. This app is the culmination of the two.Please contact me by email, I cant respond to comments...This is a fully functional League of Legends Chat client for Android. You can chat with friends, see game status (In Game, In Queue, Etc), change your status, your profile picture and more!This can also be used to check the server status. If you are unable to connect it will give you the 5 most recent status changes to servers.If you have any questions or comments, please use github (link below).http://bit.ly/lol-chatOpen sourced under GPL (read the licence here: http://www.gnu.org/copyleft/gpl.html), code available on GitHub http://bit.ly/lol-chatRecent changes:1.3.0-Added new summoner iconslots of bug fixes1.2.3a - Fix for crash on startup1.2.2 -Added Turkey and Russia ServersFixed update dialogFixed Summoner IconsNew Ad Network Mediation ServiceStay up to day at https://www.facebook.com/androidlolchat'
+p4
+tp5
+tp6
+.

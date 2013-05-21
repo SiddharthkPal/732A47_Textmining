@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Webaslan '
+p1
+tp2
+(S'Description:'
+p3
+S"Webaslan resmi android uygulamas\xc4\xb1 yay\xc4\xb1nda! Galatasarayl\xc4\xb1lar\xc4\xb1n bulu\xc5\x9fma noktas\xc4\xb1 webaslan.com'un bu uygulamas\xc4\xb1 ile Galatasaray ile ilgili her \xc5\x9fey mobil cihaz\xc4\xb1n\xc4\xb1zda.- Haberler: En h\xc4\xb1zl\xc4\xb1 ve en g\xc3\xbcvenilir haberler, \xc3\xb6zel incelemeler, r\xc3\xb6portajlar;- Galeriler: Ma\xc3\xa7lardan ve idmanlardan en \xc3\xb6zel kareler;- Videolar: Sar\xc4\xb1-K\xc4\xb1rm\xc4\xb1z\xc4\xb1l\xc4\xb1lar\xc4\xb1n hem g\xc3\xbcncel, hem nostalji videolar\xc4\xb1;- Puan Durumu/ Fikst\xc3\xbcr: Galatasaray'\xc4\xb1n ligdeki durumu, \xc3\xb6nceki ma\xc3\xa7\xc4\xb1, sonraki ma\xc3\xa7\xc4\xb1, rakiplerin durumu bu b\xc3\xb6l\xc3\xbcmde.- Canl\xc4\xb1 anlat\xc4\xb1m: Taraftar\xc4\xb1n vazge\xc3\xa7ilmezi! Galatasaray futbol tak\xc4\xb1m\xc4\xb1n\xc4\xb1n t\xc3\xbcm resmi ma\xc3\xa7lar\xc4\xb1n\xc4\xb1n an be an canl\xc4\xb1 metin anlat\xc4\xb1m\xc4\xb1, kadrolar, olaylar. - Yazarlar: Sevdi\xc4\x9finiz Webaslan yazarlar\xc4\xb1n\xc4\xb1n yaz\xc4\xb1lar\xc4\xb1n\xc4\xb1 cebinizden takip edin.ve daha fazlas\xc4\xb1 bu uygulamadaRecent changes:v2.1.1- Ufak hatalar giderildiv2.1- Panorama eklendi- Ufak hatalar giderildiv2.0- Yeni canl\xc4\xb1 anlat\xc4\xb1m aray\xc3\xbcz\xc3\xbc- Ma\xc3\xa7lar s\xc4\xb1ras\xc4\xb1nda ge\xc3\xa7rek zamanl\xc4\xb1 istatistikler- Detayl\xc4\xb1 kadro sayfalar\xc4\xb1- Push Notification- Yorum yazma"
+p4
+tp5
+tp6
+.

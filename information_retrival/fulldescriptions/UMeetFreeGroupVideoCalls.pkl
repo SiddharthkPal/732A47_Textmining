@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UMeet - Free Group Video Calls '
+p1
+tp2
+(S'Description:'
+p3
+S'UMeet is the easiest way to start a free group video or audio call with your friends and colleagues on your mobile device. Create and join group video calls with up to 5 other people or initiate a private call with someone on your contacts list. Features:Synced Contact List:\xe2\x80\xa2\tContacts are automatically synced from your phonebook and Facebook account.Animated Emoticons\xe2\x80\xa2\tExpress yourself with an assorted selection of animated emoticons.Groups\xe2\x80\xa2\tEasily create and organize groups of up to 5 contacts for group video calls, anywhere, any time.To Learn more, visit www.UMeetApp.com'
+p4
+tp5
+tp6
+.

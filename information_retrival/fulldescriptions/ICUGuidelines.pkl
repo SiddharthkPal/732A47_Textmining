@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ICU Guidelines '
+p1
+tp2
+(S'Description:'
+p3
+S"The Society of Critical Care Medicine's ICU Guidelines app offer access to the American College of Critical Care Medicine's clinical guidelines. Find bulleted summaries and download the full PDF of each guideline.SCCM is the largest multiprofessional organization dedicated to ensuring excellence and consistency in the practice of critical care."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'4shared '
+p1
+tp2
+(S'Description:'
+p3
+S'Access, manage and share your files at 4shared with others.Free mobile application 4shared for Android is a convenient and fast way to access your account at 4shared.com, including all documents, photos, music, etc. directly from your Android device whenever you wish to.The convenient public search option allows you to search for and find the file you need within the massive 4shared file database. It\xe2\x80\x99s also simple to define various search filters (upload time, size, type of file, etc.) to get the best results and add the necessary file to your own account at 4shared.com.With 4shared for Android you can easily copy, move, rename, delete, upload and download any files from your account at 4shared.com on your smartphone or tablet and share them with your colleagues, relatives and friends.4shared for Android enables:\xe2\x80\xa2 Fast and convenient access to 30,000,000+ files. \xe2\x80\xa2 User-friendly search within massive 4shared database with an option to instantly add the found files to your account. \xe2\x80\xa2 A possibility to manage your account at 4shared.com, listen to music and even watch videos directly on your Android device.\xe2\x80\xa2 Instant sharing of files from your 4shared account via the app.Recent changes:- Bug fixed'
+p4
+tp5
+tp6
+.

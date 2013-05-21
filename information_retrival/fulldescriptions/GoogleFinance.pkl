@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Finance '
+p1
+tp2
+(S'Description:'
+p3
+S'Finance for Android brings you streaming real-time quotes in this stock quote and portfolio application. It synchronizes with your Google Finance portfolios, allows quick access to charts and lets you view the latest market and company news.Recent changes:Ensure ongoing compatibility with upcoming API changes.'
+p4
+tp5
+tp6
+.

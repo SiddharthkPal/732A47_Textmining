@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Koi Free Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch Koi happily explore their pond!  Colorful fish and beautiful backgrounds make Koi Live Wallpaper better than the real thing!Everything is 3D rendered in OpenGL 2.0, with fully interactive water that supports multitouch.  Both tablets and phones are fully supported in both portrait and landscape modes!Double-tap to feed your fish!If you enjoy this, please support us by getting the full version!  It has access to the settings screen, with controls for your fish population, background image (custom ones, too!), raindrops, plants, and more!TO USE: home->menu->wallpapersRecent changes:v1.5:  - Simulated scrolling on non-scrolling home screens  - Now supports JB-style wallpaper setting  - Misc behavior improvements/fixesv1.35:  - Tap on fish to startle them!  - Performance improvements on Tegra devices'
+p4
+tp5
+tp6
+.

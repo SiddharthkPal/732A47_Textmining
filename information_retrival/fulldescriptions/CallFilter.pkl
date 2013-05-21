@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Call Filter '
+p1
+tp2
+(S'Description:'
+p3
+S"Want to stop unknown and unwanted calls and SMS?CallFilter is an application to block unknown/private incoming calls/SMS or make the ring tone silent. -------!!!Important Notice!!!Secret function has been added from version 3.0.Secret function is a paid option.All CallFilter functions so far are free to use. No need to purchase options.(You will not be charged unless you purchase Secret function.)---------------------NEW OPTIONAL FEATURE(OS2.2 or lator)Secret Call is a new feature of CallFilter. Secret Call powerfully protects your privacy.SecretCall protects your privacy with a passcode by hiding specific calls/SMS.It is availabe as GooglePlay subscription service.If you don't purchase Secret function, you can still use other functions at no cost.Also you can try Secret function for n hours to check if it will work all right before purchasing.\xe2\x80\xbbYou can use the trial version untill 31 June, 2012.------------------------------------We cannot guarantee that our Apps will work with all models or versions because Android OS is customized by each device vendor.If the App does not work with your device even all settings are correctly set, please uninstall it.The option \xe2\x80\x9cdisconnect after connected\xe2\x80\x9d cannot be used with the models of HTC, OS 2.3.5 and after because the function \xe2\x80\x9cdisconnect after connected\xe2\x80\x9d does not work with them.We recommend you uninstall the application.Recent changes:3.2.3Fixed a bug in the indicator of secretcall.3.2.2bug fixed(call confirm option)3.2.1-Permission is added. It is required from OS version 4.1. It does not affect existing Apps. Thank you for your understanding.3.1-SecretCall dedicated icon has been abolished.-To make the payment information easier to understand, we have changed the UI and wording.3.0-Eliminating Ads!-SMS block (CallFilter Pro has been integrated into CallFilter)-Secret Call"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AmazonLocal '
+p1
+tp2
+(S'Description:'
+p3
+S'Amazon Local offers customers awesome deals so they can enjoy deep discounts not only from local businesses, but also from national chains and online merchants. We deliver savings of up to 75% on restaurants, spas, events, travel getaways, hotels and more so you can enjoy familiar favorites and new experiences in your city.Download the Amazon Local Android app to:\xe2\x80\xa2 View and buy deals within seconds on your Android smartphone\xe2\x80\xa2 Use deals directly without printing vouchers\xe2\x80\xa2 Set preferences to get deals tailored for you With our nifty app you can:\xe2\x80\xa2 Quickly mark deals as used and see your unused deals\xe2\x80\xa2 Receive notifications for deals\xe2\x80\xa2 Decide whether you\xe2\x80\x99d like to receive emails or push notifications or both for your cities\xe2\x80\xa2 Lock the app with a passcode for added security\xe2\x80\xa2 Share deals with your friends and family Terms of Use: http://local.amazon.com/termsRecent changes:\xe2\x80\xa2 Bug fixes.'
+p4
+tp5
+tp6
+.

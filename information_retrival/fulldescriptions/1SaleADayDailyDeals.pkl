@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'1SaleADay Daily Deals '
+p1
+tp2
+(S'Description:'
+p3
+S'1SaleADay is the premier site for finding great Daily Deals at up to 90% off! Don\xe2\x80\x99t let the name fool you: in addition to having 5 unique deals running each day on our Main, Wireless, Watch, Family, and Jewelry tabs, you will find a veritable treasure chest of deals in our members-only Flash section. The key to finding truly great deals is to always stay in the loop; with this in mind, we bring you the official 1SaleADay Mobile App for Android devices. Download the 1SaleADay App and each day a slew of new opportunities will find their way to your mobile device. From toys to technology, housewares to fine jewelry, our app has something for everyone. With it, you can: * View all of our daily deals, including our Main, Wireless, Watch, Family, Jewelry & Flash Deals. * Share the daily deals with friends and family via email & social media. * Add deals to your cart and checkout without leaving the app! * Pay for your orders using credit cards and PayPal. * Access your order history complete with shipping address and payment method. Extended Features: * Create a 1SaleADay Account. * Push Notifications * Deals are refreshed every day at 12:00 AM ET. * Have a question? Contact our friendly customer service agents from your mobile device. Download the 1SaleADay app today and never pay full price again.For all fans of 1SaleADay.com, daily deals, and great bargain shopping!'
+p4
+tp5
+tp6
+.

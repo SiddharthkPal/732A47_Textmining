@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Private SMS & call '
+p1
+tp2
+(S'Description:'
+p3
+S'SPC features:1. Blacklist that block sms and block calls as firewall2. Private Conversation that move sms call to a private place3. Customizable filters for more block or private requestTag:SPC,call block,caller ignore,reject calls, block numberRecent changes:fix Themes downloading bug'
+p4
+tp5
+tp6
+.

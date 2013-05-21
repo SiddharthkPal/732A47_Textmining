@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AliExpress '
+p1
+tp2
+(S'Description:'
+p3
+S'The AliExpress Android App allows you to access China\xe2\x80\x99s leading online wholesale marketplace wherever you are. Search products, find promotions, contact suppliers, buy and check your orders all from the palm of your hand! Key features:\xe2\x80\xa2         Search products, browse product information,  read product and seller reviews, add products to wish list, and buy with just a few taps\xe2\x80\xa2         Pay for items securely with encrypted credit card payment\xe2\x80\xa2         Contact sellers or respond to seller messages wherever you are\xe2\x80\xa2         Track package shipments to find out where your item is (available on selected shipping methods)\xe2\x80\xa2         Stay up to date with promotions and deals. If your phone has Android OS 4.0 & up installed, we recommend you download the AliExpress HD app from the Google Play Store, which offers the same features with an experience that complies with Google\xe2\x80\x99s User Interface Guidelines for Android. Overview of AliExpress.com:AliExpress brings you quality products at wholesale prices on even the smallest orders. AliExpress is a part of Alibaba.com and offers minimum orders as low as 1 item, secured payment and buyer protection. AliExpress has over 30 million product listings from more than 44 different categories, including the following: Apparel & Accessories, Automobiles & Motorcycles, Cell Phones, Computer Hardware & Software, Electronics, Health & Beauty, Lights & Lighting, Luggage, Bags & Cases, Security & Protection, Shoes & Accessories, Toys & Hobbies, Watches & Jewelry and Wedding Supplies.----------------------------------------------------------------Wholesale, Dropship, Promotion, Wholesalers, Aliexpress, China Products, China Wholesalers, Online Shopping, Online marketingRecent changes:What\xe2\x80\x99s New in Version 1.6.1 (Updated April 16, 2013)1. Add two important search filters:     1) 1 piece only: allow users to narrow down the search result to items that have minimum order quantity of 1 piece;     2\xef\xbc\x89 sale items: allow users to get to items that offer a price discount or other promotional offers;2. Minor bug fixes'
+p4
+tp5
+tp6
+.

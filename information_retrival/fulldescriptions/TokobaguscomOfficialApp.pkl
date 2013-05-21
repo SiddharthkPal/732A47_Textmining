@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tokobagus.com (Official App) '
+p1
+tp2
+(S'Description:'
+p3
+S'NEW LOOK !!! Completely re-Design from ScratchOfficial Tokobagus app for AndroidTokobagus, jual beli bagus. Cari handphone, sepatu, jam tangan atau lowongan kerja? Atau mau jual mobil, rumah bahkan tanah? Semua bisa dilakukan dari app ini.Kategori jual beli:- Otomotif- Properti- Fashion- Gadget- Alat Musik- Buku- Jasa- dllApabila terjadi masalah koneksi setelah upgrade dari versi sebelumnya, mohon lakukan langkah-langkah berikut ini :\xc2\xa0\xc2\xa0\xc2\xa0- Masuk ke halaman "Settings",\xc2\xa0\xc2\xa0\xc2\xa0- Pilih "Application manager",\xc2\xa0\xc2\xa0\xc2\xa0- Pilih aplikasi "Tokobagus",\xc2\xa0\xc2\xa0\xc2\xa0- Klik "Clear data" dan Klik "Ok", dan kemudian Klik "Clear cache".Jika cara pertama masih tidak bisa, silahkan lakukan proses instalasi ulang aplikasi tokobagus setelah terlebih dahulu meng-uninstall aplikasi ini.Saran dan keluhan silahkan hubungi kami melalui : email support aplikasi : apps@tokobagus.comemail support pasang iklan: support@tokobagus.comFacebook: www.facebook.com/TokobagusTwitter: twitter.com/tokobagus------------------------------------------------Tokobagus, classified ad app. Looking for mobile phones, shoes, watches or job vacancy? Or willing to sell cars, houses and land for sell? All can be done from this app.Classified category:- Automotive- Property- Fashion- Gadget- Musical instrument- Book- Service- etcRecent changes:Bila mengalami masalah koneksi, harap terlebih dahulu meng-uninstall aplikasi Tokobagus versi lama.V.4.2.1- Bug fixesV 4.2- User are now able to see seller\'s shop (list all ads from seller shop)- User now can remove/edit photo at Inactive / Rejected page'
+p4
+tp5
+tp6
+.

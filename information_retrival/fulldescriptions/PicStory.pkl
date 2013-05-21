@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PicStory '
+p1
+tp2
+(S'Description:'
+p3
+S"A picture speaks a thousand words. PicStory creates a story in your photos and shares them on your Facebook and Twitter Social Platform. Apply photo filters, effects and frames! View your friends' story, Like and Comment on their profile pictures. Share, invite and make new friends!Recent changes:1) Bug fixes for force close.2) Support for high resolution pictures.3) New features, filters & frames."
+p4
+tp5
+tp6
+.

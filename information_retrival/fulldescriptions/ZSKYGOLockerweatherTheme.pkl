@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ZSKY GO Locker weather Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'The first lock theme with the weather;It will change with the weatherSunny cloudy rainy day and snow dayAmazing lock screen theme featuring weatherTo get your local weather forecast on your lock screenThis is a premium GO Locker theme, you may1. Pay with IAP ( In app purchase ) 2. Get it for free with Getjar Gold\xe2\x9d\xa4How to use this theme:1. After downloading and installing this theme, go to GO Locker -> Installed -> choose your theme -> Apply2. Choose pay with Google Checkout or Free with Getjar Gold.3. If you choose Getjar Gold, there will be several apps listed, just download some apps to earn gold and then purchase with Getjar Gold.4. After purchase, select Installed -> choose the theme -> ApplyRecent changes:1.(Improve)Fahrenheit degree and celsius degree show correctly.2.(Improve)Add settings in the choice of fahrenheit degree and celsius degree.'
+p4
+tp5
+tp6
+.

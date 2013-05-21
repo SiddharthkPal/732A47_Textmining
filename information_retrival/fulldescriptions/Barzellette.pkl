@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Barzellette '
+p1
+tp2
+(S'Description:'
+p3
+S'Alla ricerca di barzellette divertenti? "Barzellette" ha oltre 2.000 barzellette suddivise per categorie.Invia le barzellette via Mail, Twitter, ecc.Per favore utilizzate i commenti per suggerire nuove funzionalit\xc3\xa0 e segnalare eventuali bug. Supporto per le schede microSD. Fatti una bella risata!'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WiiScale '
+p1
+tp2
+(S'Description:'
+p3
+S"This application enables the Wii Balance Board for use as a scale on your Android device.  *Bluetooth must be synced through the application, no passcode is needed.  Press the info button in the application to get information about button functions.**Instructions for use-After launching app allow app to enable bluetooth.-press rulers to enter weight mode.-press double arrows button to start searching for balance board to sync with.-press red sync button on bottom of balance board under batter cover.-if you phone is supported the phone will pair with balance board.-press the ruler button again to record weight.**Press the 'i' button at anytime to get descriptions of buttons.Application now supports integration with 3rd party services for storing weight.  Currently Runkeeper is supported.  Please contact developer for more services.The application also allows the user to save the weight recorded.  The application allows syncing of the Wii Balance Board via bluetooth to your Android device. WiiScale also allows integrations into other Android applications via Intents, see http://broschb.blogspot.com/2011/01/android-wii-balance-board-scale.html for details.**NOTE**Application may not work on all devices specifically HTC devices with senseUI(EVO) and newer Samsung devices.  If you wish to use these devices you must root your phone and use a supported ROM such as Cyanogen.If your device does not work and is using HTC SenseUI, or is a newer Samsung device, please don't contact me, contact your device manufacturer for resolution.Recent changes:Multiple bug fixes.  --Application now prompts to save weight after steady weight detected.--Runkeeper integration plugin(via extensions)--Google health integration removed due to End of Life for product.--paid extensions to remove ads."
+p4
+tp5
+tp6
+.

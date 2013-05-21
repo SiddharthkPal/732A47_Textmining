@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tango Text, Voice, Video Calls '
+p1
+tp2
+(S'Description:'
+p3
+S"Best Communication App - 2013 Appy AwardsBest Texting App - 2013 About.com Reader's Choice AwardsMust Have Apps List - 2013 Verizon WirelessTango gives you the highest quality video & phone calls, texts, photo & video sharing, games and more for FREE!  It\xe2\x80\x99s the all-in-one social networking app that finally combines every way you want to interact with friends & family.  Join over 100M people around the world & Tango today!Easy to use- No login & password - create an account in seconds  - Automatically finds your friends using Tango - Calls and messages work just like they do on your phone- Works across most smartphones, tablets, & PCs- Great quality on 3G, 4G, and Wi-FiFun to use- Personalize your calls and messages with fun animations to express yourself- Challenge your friends with games during your calls- Find all your pictures & videos in a central photo gallery- Send a card to your loved ones to let them know you are thinking about them- Edit your photos with filters, text and more before you send them to friendsFree to use- All video and audio calls are free and don\xe2\x80\x99t use your minutes- Messages are free and don\xe2\x80\x99t use your text plan- Free calls and messages internationallyRead our amazing reviews and see how people love using Tango to stay connected to their family and friends. - Learn more at http://www.tango.me  - Like us on Facebook at http://facebook.com/TangoMe  - Follow us on Twitter at http://twitter.com/TangoMe- Need Help? Visit http://support.tango.meRecent changes:-  Group Chat:   Now chat with a group of your friends and share photos, videos and Tango Surprises! -  Bug Fixes"
+p4
+tp5
+tp6
+.

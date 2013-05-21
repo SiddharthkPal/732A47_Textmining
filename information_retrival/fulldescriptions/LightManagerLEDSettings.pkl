@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Light Manager - LED Settings '
+p1
+tp2
+(S'Description:'
+p3
+S'Configure LED color and its flashing frequency for notification as shown below:- Miss call- SMS- MMS- Gmail- Calendar reminder- Google Talk- *Email- *Facebook- *Facebook Messenger- *Twitter- *WhatsApp- *LINE- *GO SMS Pro- *Handcent SMS- *Any 3rd party apps (Only applicable in Alternating Mode)- Low battery- Battery charging- Battery charged- No signal- No 3G/4G- No Wifi- Silent Mode On- Mobile Data On- Wifi On- Bluetooth OnFrom Jelly Bean onwards, ROOT is required for those mark with asterisk *. After grant the ROOT permission, you need to restart Light Manager for changes to take effect.There are two operating modes:1) Normal Mode - Only LED color for the first notification will be flashing2) Alternating Mode - A few LED colors will be flashing alternately when multiple notifications are receivedYou may go to the test section to test whether this app works for your device.For Samsung Galaxy SIII (JB):- Device\'s screen needs to be turned off in order for the notification LED to work- You need to go to Setting > Display > LED indicator and enable "Notifications" in order for this application to workFor supported devices list and FAQ, you may go to the link below:https://docs.google.com/document/d/1t26evGufoC4Fha1Vjyho1cgBKHY6MLJGBPHcsGKZVLc/editRecent changes:- Remove force grant root permission, it should grant root when enable notification LED for an app- Fixed multiple instance problem- Fixed Gmail syncing problem with PC- Fixed missed call notification LED remains on when a phone number has been blocked- Fixed Handcent notification LED remains on after reply- Added some missing translation text for Spanish, Hungarian'
+p4
+tp5
+tp6
+.

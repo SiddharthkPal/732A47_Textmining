@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ScanMaster Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'ScanMaster Lite is an application for vehicle diagnostics to OBD-2/EOBD standards. It "transforms" your Android smartphone or tablet to a vehicle diagnostic device. Many important OBD-2 functions are despite "Lite" available without restriction. Only the number of parameters and error codes are limited compared to the Pro version. The paid Pro version with even more features will follow soon.The following OBD2 interfaces are supported:\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 APOS BT OBD 327\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 ElmCanII Bluetooth\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 OBDLink MX\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 OBDLink Bluetooth\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 ELM327 BluetoothThe interfaces can be purchased on our website http://www.wgsoft.de if required.Everything completely in German and English. In the graphical representation of data, there are "pause" function. In this mode, the recorded data can be scrolled and zoomed by gesture.We would greatly appreciate the feedback on the app. Please send us an email about your experiences, opinions or suggestions.Recent changes:Bugfix:- Several bugfixes'
+p4
+tp5
+tp6
+.

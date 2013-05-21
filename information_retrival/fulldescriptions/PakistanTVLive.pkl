@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pakistan TV Live '
+p1
+tp2
+(S'Description:'
+p3
+S'geo news live streaming and geo tv live streaming is available in this android app with the best quality audio and video. You can watch many other Pakistani news and entertainment tv channels as well. We are offering you this app free of cost, so you can enjoy fast and smooth streaming of almost all Pakistani channels without paying any charges.*** Offering AdFree Live Streaming Untill Elections 2013 *** ENJOY'
+p4
+tp5
+tp6
+.

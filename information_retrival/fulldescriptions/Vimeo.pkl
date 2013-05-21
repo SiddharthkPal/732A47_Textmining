@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vimeo '
+p1
+tp2
+(S'Description:'
+p3
+S'It\xe2\x80\x99s finally here: the OFFICIAL Vimeo Android app! We\xe2\x80\x99ve packed all the best parts of Vimeo into one app! Now you can upload, manage and watch your videos right from your mobile phone or tablet. Need some inspiration? Watch great videos based on your personal preferences or our curated channels. Vimeo is the best way to get your videos online in the highest quality with great tools to share publicly or privately. There are many reasons millions use Vimeo and Time Magazine voted us a Top 50 Website for the last two years running. Learn more at Vimeo.com. (Requires Android version 2.3 Gingerbread+) Here\xe2\x80\x99s some of what\xe2\x80\x99s inside: The whole Vimeo experience \xe2\x80\xa2 Watch and manage all your existing Vimeo videos and download them to your camera roll \xe2\x80\xa2 Quickly search for videos on vimeo.com \xe2\x80\xa2 Easily upload your raw footage in HD\xe2\x80\xa2 Pause and resume uploads \xe2\x80\xa2 Replace existing videos \xe2\x80\xa2 Edit title, description, tags, privacy and credits \xe2\x80\xa2 Share with Facebook, Twitter, Email or SMS \xe2\x80\xa2 Add your clips to your Groups, Channels and Albums \xe2\x80\xa2 Stats on daily plays, likes and comments Lots to see \xe2\x80\xa2 Watch videos from your Vimeo inbox, Watch Later queue, or videos you have liked \xe2\x80\xa2 Easily like, comment and add videos to your Watch Later queue \xe2\x80\xa2 Discover new and interesting Featured videosThis is just the beginning! We\xe2\x80\x99ll be bringing you regular updates with feature improvements and any other features you suggest. Is there something else you\xe2\x80\x99d like to see? Let us know at android@vimeo.com! We\xe2\x80\x99ve spent a lot of time on this and we hope you like it. Love, VimeoRecent changes:Bug fixes.'
+p4
+tp5
+tp6
+.

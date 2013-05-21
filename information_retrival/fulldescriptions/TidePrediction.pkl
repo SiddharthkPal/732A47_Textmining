@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tide Prediction '
+p1
+tp2
+(S'Description:'
+p3
+S'Enables easy offline viewing of graphical tidal charts on your android phone.Tide Prediction works completely OFFLINE (except Google Maps integration) - meaning no costs for data traffic - and is ultra-fast.The graphical tide chart also nicely indicates the daylight distribution. An event view shows the times for ebb and flood.Features:* tides for over 3000 tide and current stations world-wide (therefore, the app takes considerable space on your phone)* uses your GPS and/or network provider to support location searchPlease mail any issues and improvements. Thanks!NOT FOR NAVIGATION. NO WARRANTY OF ANY KIND.PLEASE NOTE: due to the underlying dataset, tide location coverage is limited to the following countries: USA, Canada, Mexico UK, Germany, Netherlands, South Africa, Japan, Australia, New ZealandRecent changes:version 1.9.8.2:* German translation* minor improvementsversion 1.9.8.1:* bugfix with current unit (knots) on chartversion 1.9.8:* chart font on graph is now bigger and more readable* added length unit on chart screen* support for Android 4.0 (action bar UI pattern)'
+p4
+tp5
+tp6
+.

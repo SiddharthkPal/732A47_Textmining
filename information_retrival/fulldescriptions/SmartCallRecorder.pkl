@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart Call Recorder '
+p1
+tp2
+(S'Description:'
+p3
+S'A smart application that records all your incoming and outgoing calls, but gives you the option of saving after each call ends. This will help you to choose the calls that you think should be recorded and unimportant calls will be ignored.A very cool option alongwith this is that the user can;1.  Play individual recordings at a later date2.  Delete individual recordings after they have been used3.  The user can send, individual recordings to others through email4.  You can share the recordings with your friends or associates through Facebook, Twitter, Dropbox etc.Please note that the creators of this application are not responsible if you use this for some illegal activity. This application should only be used for legitimate purposes and for any use by the user in any illegal activity, the user himself will be held responsible.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Instant Heart Rate '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 The best Health & Fitness app on Mobile Premier Awards 2011 according to jury of industry experts \xe2\x98\x85Instant Heart Rate is the most accurate Heart Rate Monitor app for any smartphone and it does not need any external hardware.Use it for optimizing your exercise and to track your progress.Install it now and keep fit.Accuracy is constantly tested by fitness coaches, nurses, doctors, EMTs and 5 million users like you.\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 by Ducky I love this app! Its really neat caus im trying to get healthy-er. Five stars \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 by SummerI was skeptical- being a nurse I thought yah right! So I tried it at work with a monitor. It worked! Very very happy!Place the tip of your index finger on phone\xe2\x80\x99s camera and in a couple of seconds your Heart Rate will be shown. A real-time chart will show your every heart beat.It uses your phones built-in camera to track color changes on the fingertip that are directly linked to your pulse. This is the same technique that medical pulse oximeters use.Now you have a chance to track your fitness and health every-time with just your phone.Your resting heart rate gives you a view into your hearts fitness. The fitter you get the lower your heart rate will be. Enables:\xe2\x9c\x93 Heart rate measurements \xe2\x9c\x93 Real time PPG graph - see your every heart beat\xe2\x9c\x93 Cardio workout monitoringNOTE: Works best on devices with flash. On other devices it has to be used with good lighting.Recent changes:removed permissionsdata migration for measurements done before version 2.5.5 without an accountalgorithm improvements, users on older phones or phones with less CPU power should see a significant improvement in readings and in the quality of graph'
+p4
+tp5
+tp6
+.

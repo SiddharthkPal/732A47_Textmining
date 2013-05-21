@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'American Express US '
+p1
+tp2
+(S'Description:'
+p3
+S'Mobilize your Card membership with the official American Express App for Android \xe2\x80\xa2 Pay your bill, check your balance, view pending charges and recent transactions, manage multiple Card accounts, use Membership Rewards points and more from your phone. \xe2\x80\xa2 All access and use of this App subject to and governed by American Express End User License Agreement, Terms of Service and Privacy Statement. FEATURES - Pay your bill - Check your balance - See your recent and pending transactions - Manage multiple Card accounts - Get fraud warnings, account alerts and credit-related notices delivered to your mobile device - Access cardmember benefits and view specials for your Card - For Platinum Card\xc2\xae and Centurion\xc2\xae Card members: locate the nearest lounges in airports worldwide through your Airport Lounge Access benefit- View and use Membership Rewards\xc2\xae points (if enrolled) - Use your phone at select retailers to redeem Mobile Gift Cards acquired with Membership Rewards\xc2\xae points (if enrolled)                                                     - Log in securely with the same User ID and Password you use on americanexpress.com For Android devices with OS 2.2 and above: - Activate your Card - Enroll in Online Services - Add or remove a Card on your Online Services account - Reset your Password or User IDRecent changes:In version 3.0: \xe2\x80\xa2 Use Membership Rewards\xc2\xae points for Mobile Gift Cards which can be redeemed at select retailers using a barcode on your phone. The app allows you to track the balance of these Gift Cards and to use Membership Rewards points to refill any of these Gift Cards \xe2\x80\xa2 Minor bug fixes'
+p4
+tp5
+tp6
+.

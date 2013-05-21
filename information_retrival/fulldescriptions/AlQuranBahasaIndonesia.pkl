@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Al'Quran Bahasa Indonesia "
+p1
+tp2
+(S'Description:'
+p3
+S'Al\'Quran Bahasa Indonesia- Read the Quran in Bahasa Indonesia- Browse suras, Ajuza\' and ayat.- Search by clicking on search icon. You can search in the whole Quran, in a Juz or in any sura.- A long click over a verse will add it to bookmarks, share it on social media or messaging apps, or attach notes to it.- Listen to the arab recitation inside each sura.- You can buy the premium version, which has more features, click the button "Menu" in the homepage screen.Limitations of the free version* The search function displays the first 50 results.* You can add up to 5 favorites.* Non-intrusive ads.Functionality of the professional version (Al\'Quran Bahasa Indonesia PRO)* The search returns all matches.* Unlimited favorites.* No ads.* Improved speed.Keywords: Quran, Islam, Islamic, Koran, Muslim, Digital Quran, Quran, Islamic, Koran, Qur\'an, Muslim, Al\'Quran.Recent changes:-New arab font.-Database improvements (50% faster than previous version).-Numerous bug fixes.'
+p4
+tp5
+tp6
+.

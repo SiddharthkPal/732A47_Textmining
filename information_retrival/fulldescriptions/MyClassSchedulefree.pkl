@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Class Schedule (free) '
+p1
+tp2
+(S'Description:'
+p3
+S'My Class Schedule keeps your student life organized!This app will not only keep you informed about your upcoming classes, but also reminds you of exams and unfinished homework.The main feature of this app is its timetable that shows your schedule for any particular day or week. Additionally there are many other helpful features, for example a grade overview with your average grades or the ability to automatically mute your phone during class.No matter if you go to school or university, this easy to use app helps you to keep track of all related tasks.Features:- Color-coded timetable (day- and week view; colors can be chosen freely)- Widget (sizes: 2x1, 3x1, 2x2, 3x2, 4x2; shows all remaining courses for the day)- Notifications for exams and homework- You can let the app automatically mute your phone during lessons- Support timetables with A/B (and even C, D) weeks; you can set the frequency of a lesson- Save as many courses, lesson times, homework and grades as you want; times can be chosen freely; grades can be weighted- Runs from SD card (note: widgets generally don\'t work when running from SD)Reviews:"Try out this app if you\xe2\x80\x99re a student. It can relieve some of the stress in an already stress-filled life." - thedroidguy.com"Can keep your entire life on track" - mdsnig.comThis is the ad financed version (tiny ad in the day view).If you can\'t stand ads, there is a really low priced version without ads (and with some even bigger widgets) available here:My Class Schedule (no ads)Keywords: timetable, schedule, homework, exam, test, assessment, grade, holiday, school, university, class schedule, pupil, student, school timetableRecent changes:Version 1.15.1:- memory use improvement, should fix a crashVersion 1.15:- new widget that shows the timetable for the whole week: http://i49.tinypic.com/r94heu.png! Only available in the paid/upgraded version of the app- added additional greyscale colors to course color picker- performance improvements- translations: updated Dutch, Czech, Chinese, Portuguese, French'
+p4
+tp5
+tp6
+.

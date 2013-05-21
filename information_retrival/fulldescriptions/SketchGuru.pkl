@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sketch Guru '
+p1
+tp2
+(S'Description:'
+p3
+S'Facebook and Flickr online albums supported now! You can import your social photos seamlessly in Sketch guru.Sketch Guru is a professional app to make you an artist by creating pencil sketch of your photos. Pick a picture from your gallery or capture one from your camera to generate the sketch. We support both black-white and color sketch with 13 kinds of wonderful effects including: Gouache, PencilSketch, ColorPencil, WaterColor, HalfTone, SimpleSketch, ComicB&W, BlackBoard, BlackBoardColor, Print, B&W, PencilSketch2 and No sketchYou can also share them on Instagram, Facebook, Twitter, Flickr, E-mail, etc. SketchGuru is the best sketch app you can find on the market. Come on and create wonderful and paintings.Features:* Resize photo: User can adjust the size of the picture by pressing buttons in 6 different ways* 13 kinds of black-white and color sketch effects supported Keywords: sketch free, sketch me, pencil sketch, paper camera, cartoon cameraRecent changes:1.5.1* Google image integrated, you can import any images you like from Google search* SSO for Facebook login* Privacy policy added* Support tablet better* Many fixes'
+p4
+tp5
+tp6
+.

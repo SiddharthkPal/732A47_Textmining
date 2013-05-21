@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Darts ScoreCard PRO '
+p1
+tp2
+(S'Description:'
+p3
+S'Darts Scorecard is the best app for tracking your dart statistics. A must have app, for every darter. Play like Phil Taylor and Raymond van Barneveld, or challenge your friends for a game in a bar!01 Game,Crickets/Tactics,1-8 players,Statistics,Checkout help,Undo, Sound, Preferences, RSS,and more...Recent changes:- Removed Add in the Scoring screen!- Search for: Darts Scorecard PRO (No adds) for an ad-free version'
+p4
+tp5
+tp6
+.

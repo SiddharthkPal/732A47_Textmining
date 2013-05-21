@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tesco '
+p1
+tp2
+(S'Description:'
+p3
+S"Find your nearest Tesco store wherever you are, shop for groceries and 1000s of products from Tesco direct, and be inspired by our recipes.  Don\xe2\x80\x99t worry about remembering your Clubcard in store, simply add it to your app and collect points at the checkout using your phone*.  We\xe2\x80\x99ve included all of this and much more.Features include:. Find your Tesco nearest store wherever you are . Add your Clubcard and scan it at checkout straight from your phone*. Order and amend your grocery shop on the go. Browse hundreds of recipes by course or cuisine . Shop for 1000s of products from Tesco direct . See your Clubcard vouchers and order Clubcard Rewards.We\xe2\x80\x99ve put many great features in to one clever app and there will be more coming soon.  So we can continue to make your shopping even easier, please send any feedback and suggestions to tescoapps@uk.tesco.com.*Your digital Clubcard can be scanned in selected stores only and not from self-service tills. You can find your nearest by setting the 'Clubcard scanners' filter in Store Finder.Please note that this is currently for UK based customers only.Recent changes:*Hot Fix to remove unnecessary permissions.-Browse groceries without a Tesco.com account.-Search for grocery products by image: take a photo of product packaging to search for that product. This currently works for grocery product packaging only and only products ranged in your delivery/collection store will be returned.-Find the nearest store that can scan the Clubcard on your app by setting the 'Clubcard scanners' filter in Store Finder.-See grocery promotions in the Just Checking screen."
+p4
+tp5
+tp6
+.

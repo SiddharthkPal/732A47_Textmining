@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SharePlus Lite: SharePoint App '
+p1
+tp2
+(S'Description:'
+p3
+S"SharePlus for Android, your SharePoint data in your hands.Collaborate with your team, sharing documents, calendars and tasks lists right from the meeting room, a taxi, or when out visiting a client. Browse documents, discussions, announcements, wiki pages and custom lists.SharePlus will work with your current SharePoint credentials, so you won't have to ask for special permissions to use it. SharePlus doesn't also require any server side components.Among SharePlus features are:NAVIGATION* GRID VIEW: Display your list content as a grid with columns, to quickly visualize all its metadata.* Views Support: Browse data by view in online mode, respecting server defined list views, with ordering and filtering settings.CONNECTIVITYSharePlus supports connecting to:* Windows SharePoint Services 3.0 (WSS 3).* Microsoft Office SharePoint Server 2007 (MOSS 2007).* SharePoint 2010.* Office 365 (BPOS included).Authentication* Windows and Form Based Authentication (FBA) support.* Microsoft ISA Server and Microsoft Forefront Authentication support.* HTTPS SSL Support: Connect to your data in a secure way with SharePlus, to HTTPS urls, certificate enabled repositories.SharePlus also offers Pro, and Enterprise versions. SharePlus Pro is also available in the market. Among SharePlus Pro features are:* OFFLINE SYNC runs on the BACKGROUND copying list contents, including attached documents. * Check In/Check Out & Approve/Reject support.* Local Files and Favorites.Among SharePlus Enterprise features are:* Rebranding* In house deployment* Connection configuration sharing* Multi factor authentication* Custom Features & Features trimming* Premium Customer supportLearn more about SharePlus at http://shareplusapp.comRecent changes:IMPORTANT: SharePlus NOW REQUIRES ADOBE AIR 3.1 This version should fix most of the bugs that users have let us know about. Please contact us through customer support if you find any problem.The local database is encrypted. However, to provide real security enter a data protection password (through app's Settings)Screen LockCall, text and email contactsLocalized to French, Japanese and SpanishUpload photos from the Camera or Gallery (Pro version)"
+p4
+tp5
+tp6
+.

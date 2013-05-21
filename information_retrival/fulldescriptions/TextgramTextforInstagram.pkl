@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Textgram -Text for Instagram '
+p1
+tp2
+(S'Description:'
+p3
+S'Create beautiful pictures out of any text and share them with your friends on Facebook, Instagram, Whatsapp, etc.. or save them in your gallery.USER REVIEWS\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x93 \xe2\x80\x9cSimple: great, great, great.\xe2\x80\x9d\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x93 \xe2\x80\x9cAwesome app. Very creative and fun. Easy to use also!!\xe2\x80\x9d\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x93 \xe2\x80\x9cI love this app. It helps me get things out on instagram\xe2\x80\x9d\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x93 "I have fun with the designs and frames. U need to take time and play with it.\xe2\x80\x9d AWARDS\xe2\x9c\x94 App of the day 28 May 2012\xe2\x9c\x94 Featured in Android Magazin (Dutch Edition) May 2012TOP FEATURES\xe2\x9c\x94 Custom backgrounds\xe2\x9c\x94 Emojis\xe2\x9c\x94 Custom stickers\xe2\x9c\x94 Variety of fonts\xe2\x9c\x94 Many cool text effects (reflection, shadow, rotation & more...)\xe2\x9c\x94 Filters\xe2\x9c\x94 FramesYou can save them in your gallery, or share them with your friends on Facebook, Instagram, Twitpic, Pinerest,Whatsapp, Streamzoo, Picstitch, Instacollage ,Instaframe (or Pic stitch) etc.You may use it with Picstitch, Instacollage, Instaframe, Twitpic, ebuddy, line, viber, pinterest, and many other other apps.It comes with many cute and beautiful backgrounds, frames, filters, fonts, effects & more...ABOUT PERMISSIONS:INTERNET ACCESS - Used for Textgram Store, where extra templates, backgrounds, stickers & frames are available to download for free.STORAGE - Used to save the textgrams you create, and to save the items downloaded from Textgram Store.GET_ACCOUNTS - This is used by Pocket Change to identify users across multiple devices. This way, rewards earned through Pocket Change, will still be available if you change your phone and reinstall the app on a new device.Recent changes:__ v2.3.5* Bug fixes* Text size slider fixed* 1 New template added* More rewards with PocketChange__ v2.3* multi-text feature, you can now add more than a text box and style them separately.P.S. Check the description for more details about the new permissions.'
+p4
+tp5
+tp6
+.

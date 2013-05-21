@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Best of YouTube '
+p1
+tp2
+(S'Description:'
+p3
+S"Best of YouTube app is a selection of the best hot, viral, funny and interesting videos available! We select the best videos from numerous online resources (YouTube, FaceBook, Twitter, BestofYoutube.com, Wimp.com, etc.) and update our database with new videos daily. Our app was designed to be the most intuitive, usefull and simple to use video finder on the Android Market.So, don't spend your time watching YouTube videos which are just wasting your time. Try: Best of YouTube app!Our app offers a selection of the most popular videos in following categories:Animals & PetsComedy & HumorCommercials & InfomercialsCool & ExtraordinaryCrazy & StrangeInteresting & FascinatingJokes, Laughs & FunnyMagic & IllusionMindless & IrresponsibleMiscellaneousMovies, Shows & FilmMusic, Sound & TunesOdd, Nerdy & GeekyScience & TechnologySports & ActivityThought-ProvokingAPP REQUIREMENTS:- Internet Access (works best over wifi)Keyword Note:Best of YouTube app lets you see funniest movies, clips and videos and most downloaded videos (including quality documentaries, theater films and music songs (classic, new age, rock, hindi) + game vids) from the best YouTube channels. Recommend our Android app to your friend(s).Recent changes:v2.2:- Added option to remove all advertisingv1.9 - v2.1:- Fixed the bug with app videos checking- Stabilized the appv1.6 - v1.8:- New videos are marked in grey color (easier to spot which video was uploaded)- Caching of video category (faster previews)"
+p4
+tp5
+tp6
+.

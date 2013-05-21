@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Task Manager '
+p1
+tp2
+(S'Description:'
+p3
+S'One-stop task manager. Monitor and kill task, speed up phone, and save battery.* 1*1 widget to monitor memory usage, fast kill task or launch application when click* kill task to free memory* sort task by name* auto-kill task when screen turns off* context menu to switch, uninstall, ignore, autokill or search application* ignore preferred application when kill* bulk select and rich notificationKW: taskiller taskkiller killer process app memoryRecent changes:* Fix dialog disappear error on Android 4.2+* Fix memory refresh error when killing single task'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Skout - Meet, Chat, Friend '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 Featured on ABC News, CNN, Fox News, NY Times \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85Skout is the global network for meeting new people.Instantly meet people near you or around the world. Discover new friends at a local bar or in Barcelona. Millions of people are connecting and meeting through Skout every day. Use exciting in-app features to increase your chances of friending or chatting! Expand your social network with the tap of a button. It\xe2\x80\x99s so much fun, you won\xe2\x80\x99t be able to stop. Start Skouting and find your party, make new friends, or meet new people, anytime, anywhere. Features: Meet people by preference and proximity, chat, see who checked you out, get updates from nearby users, buy and send gifts, save your favorite users, browse profiles and pictures, promote your profile with in-app features, earn points to unlock premium features.Download and join the Skout party now!Please note: We take your privacy very seriously. You\xe2\x80\x99re always in complete control \xe2\x80\x93 your exact location and personal information will never be given without your permission. YOU decide if, when, and how you want to connect."Recent changes:What\xe2\x80\x99s New in 3.6?\xe2\x80\xa2 Push To Talk - express yourself with your voice. Record short messages and send them to your friends on Skout. \xe2\x80\xa2 New wink bomb - now it\'s easier than ever to send a wink bomb and connect with tons of people instantly! \xe2\x80\xa2 New connections section - we\'re combining your Friends and Favorites to make the app easier to use \xe2\x80\xa2 Bug Fixes and Performance Enhancements'
+p4
+tp5
+tp6
+.

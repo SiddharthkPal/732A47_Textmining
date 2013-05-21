@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Weedbook  - Med. Growguide '
+p1
+tp2
+(S'Description:'
+p3
+S'Grow marijuana for medical purposes at home!Lern step by step how to get from seeds to your very own high-quality product marijuana, with numerous guides, tools and a lot more! The Guides are accompanied by pictures, to illustrate things more detailed(f.e. pictures of ill plants).-------------This app is still in development! The translations to english are incorrect or missing in many cases. Some Guides and Nutrients are also missing and will been added as soon as possible. Stay Tuned. Nearly every day new guides and functions will be implemented-------------Do you want to help in translations and guides?Then Contact me via E-Mail!----------Recent changes:Beta 0.18:-Important Bugfix and Performance increasedBeta 0.18:-Toolsection(not finished)-rewrote code(smaller apk file)Beta 0.17:-Strainguide added-Text updated-Lightguide preparedComing soon:-new App Icon-Lightguide-Hempdictionary'
+p4
+tp5
+tp6
+.

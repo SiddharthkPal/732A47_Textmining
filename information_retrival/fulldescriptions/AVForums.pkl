@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AVForums '
+p1
+tp2
+(S'Description:'
+p3
+S'The busiest Audio Visual home consumer electronics community in Europe.  100% free and family friendly forums for home cinema, gadgets, movies, video games and more.'
+p4
+tp5
+tp6
+.

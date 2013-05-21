@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Medication Passport '
+p1
+tp2
+(S'Description:'
+p3
+S'Take control of your medications with My Medication Passport. The MMP app is based on the new Medication Passport.Keep an up-to-date list of your medications:Record medicine name, dose, and timings for all your regular and as-needed medicinesUpdate the list easily when any changes are madeEnsure your doctor or pharmacist has a complete and accurate medicine list whenever they see youTrack changes in your treatment:Any medication change will prompt the app to ask for a comment on why this happened (for example, if the medicine was causing a side effect, you can note it here)List changes by date or by each medication, allowing you or your doctor/pharmacist to look back and see how your medication history has changed \xe2\x80\x93 and why!Secure:Optional passcode protectionAll data on your medicines is stored in your phone, and is never sent or uploaded elsewhere.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Stress Check by Azumio '
+p1
+tp2
+(S'Description:'
+p3
+S'Stress Check is the most innovative tool available for quantifying your level of psychological or physical stress. By measuring your heart rate through the camera and light features on your Android, Stress Check can estimate your level of stress in real time.Using Stress Check by Azumio you will be able to:-Quantify your level of stress-Determine the effects of different stressors-Control stress and observe progress-Reduce chances of certain chronic diseases known to be correlated with stressEveryone has experienced changes in heart rate before taking an exam, giving a public speech, or when exercising. In fact, not only does your heart rate increase, but the time variations between consecutive heart beats become more random and scattered as well. By analyzing this factor of heart rate variability (HRV), it is possible to estimate your level of stress wherever you are, with no additional hardware.Analysis of HRV requires heart pulse data to be measured continuously for a certain period of time. The more you use Stress Check, the better the app gets to know you and your heart. Algorithms used to analyze HRV follow recommendations of European Society of Cardiology (ESC) and the North American Society of Pacing and Electrophysiology (NASPE).If you consistently observe high levels of stress we recommend using Azumio\xe2\x80\x99s stress relief application, Stress Doctor: a biofeedback app that uses deep a breathing technique for stress reduction.Stress Check utilizes a method of quantitative stress level assessment developed by Biocom Technologies, a well-known developer of various professional health assessment technologies.'
+p4
+tp5
+tp6
+.

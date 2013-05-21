@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IP Cam Viewer Basic '
+p1
+tp2
+(S'Description:'
+p3
+S'Awarded Best Software Award 2011 in Utilities category.Remotely view and control your IP Camera, DVR, Network Video Recorder, traffic cameras, CCTV or WebCam using this Android app for mobile, honeycomb, ics, and jelly bean tablet.New! Motion Detection built into app works with all cameras. Option to play sound in viewers when motion is detected. Option to record only when motion is detected in Record Mode. Mobile notifications will be added in a future release.Has in-app upgrade for 2-way audio support on some cameras for use as baby monitor (axis, foscam, panasonic, more).Has in-app upgrade for Record Mode which turns any spare Android device into a solid state, battery backed network recorder for your standalone IP cameras. Allows playback, search, and export to video clip.Supports- SSL encryption for privacy- RTSP, h.264, MPEG4, ONVIF support- two way audio (after upgrade)- pan tilt and zoom (PTZ), presets- motion detection inside app works with all cameras- relay to control things like lights and garage doors- custom controls like patrol (varies with various models)- home screen widgets- matrix view, gallery view, and auto sequence mode- double tap for digital zoom using pinch to zoom- grouping of cameras to organize and for quick recall.- Export / Import and sharing of cameras- browser integration- app password to protect access from others- 24/7 recording of cameras- scan camera capability- auto sequencing of cameras and groupsOver 1000+ different makes/models supported (more than any other app). Includes cameras from canon dlink edimax levelone linksys sony trendnet. Also dvrs from night owl qsee swann zmodo and lots of old discontinued devices.Visit my website for complete device support list:http://hit-mob.com/ip-cam-viewer-android/device-support-list/Recent changes:- more drivers and driver fixes- optional app password timeout in Settings- new record schedule per camera in Edit Camera -> More Options- new in-app Motion Detection! goto Edit Camera -> More Options- for viewers, option to play sound when motion detected- for record mode, option to record only when motion detected- for record mode matrix view, option to play sound when motion detected- TODO: mobile notifications when motion detected in record mode'
+p4
+tp5
+tp6
+.

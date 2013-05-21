@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RiyadMobile '
+p1
+tp2
+(S'Description:'
+p3
+S'RiyadMobile is a secure and versatile mobile banking application for Android smart phones and tablets. RiyadMobile offers our customers the convenience to perform essential banking services and functions on the go, at any time, and from any location with mobile coverage. It is like carrying a personal Riyad Bank branch in your pocket! RiyadMobile is simple to use; a mobile data connection is all that is required to connect to RiyadMobile using your RiyadOnLine user name and password and offers our customers the following services:\xe2\x80\xa2 Review and management of personal accounts\xe2\x80\xa2 Account to account transfers or to other Riyad Bank customers\xe2\x80\xa2 Domestic and international remittances\xe2\x80\xa2 Bill Payments covering the entire SADAD listing for:          o Telephone          o Electricity          o Water          o Internet, etc.\xe2\x80\xa2 Government Services payments (and refunds where applicable) for;          o Traffic Fines,          o Residents Services: Visas, IDs, etc.          o Saudi Passports Fees,          o Motor Vehicles Fees,          o Istikdam Visa Services          o Driver Licenses.\xe2\x80\xa2 Charity Donations.'
+p4
+tp5
+tp6
+.

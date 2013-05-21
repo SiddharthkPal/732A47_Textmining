@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'App del Dia - 100% Gratis '
+p1
+tp2
+(S'Description:'
+p3
+S'\xc2\xa1"App del d\xc3\xada" est\xc3\xa1, por fin, disponible para Android!  \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 Cada d\xc3\xada, una app de pago se vuelve gratuita durante 24 horas. \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 Cada d\xc3\xada, nuestro equipo elige la \xe2\x80\x9cApp del D\xc3\xada\xe2\x80\x9d entre una de las mejores actualmente de pago del Google Play Store y negocia con sus desarrolladores para que sea gratis durante 24 horas. Este concepto, ya muy popular en Estados Unidos y varios pa\xc3\xadses europeos, permite a todos los propietarios de smartphones ahorrar anualmente cientos de euros al adquirir aplicaciones.Un peque\xc3\xb1o truco: \xe2\x98\x85No olvid\xc3\xa9is ACTIVAR LAS NOTIFICACIONES PUSH con el fin de no perderos ninguna de las ofertas. \xe2\x98\x85 Lo que nuestros usuarios dicen acerca de nosotros:\xe2\x80\x9cHe descubierto apps realmente geniales y sin tener que pagar nada por ellas\xe2\x80\x9d\xe2\x80\x9cEsta app deber\xc3\xada estar instalada de serie en todos los smartphones.\xe2\x80\x9d\xe2\x80\x9cEs como un Kinder Sorpresa, \xc2\xa1pero con apps en vez de con chocolate!\xe2\x80\x9dSi os gusta nuestra aplicaci\xc3\xb3n, por favor no olvid\xc3\xa9is valorarnos y dejarnos un comentario en el Google Play. Nos encanta saber lo que pens\xc3\xa1is :-) Si: - Dispon\xc3\xa9is de alguna pregunta, ten\xc3\xa9is ganas de que alguna app se vuelva gratuita o simplemente para escribirnos: android.info.es@appturbo.net- Eres un desarrollador de apps y quieres promocionar tu app: android.app.es@appturbo.net- Ten\xc3\xa9is alg\xc3\xban problema t\xc3\xa9cnico con nuestra app: android.support.es@appturbo.net'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hindi English Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Hindi English Dictionary provided by HinKhoj. It is MOST Downloaded Hindi Dictionary Application on Android. WHY OUR USERS LOVE IT: 1. It is totally FREE !! 2. Small APP size but High Quality Results (Over 2 Lakh words ).  3. Optional OFFLINE Version included. Offline files downloaded in SD-CARD. 4. Facility to Type in Hindi and Search Hindi Words.  5. Devanagri Font display.  6. Auto completion, saving search history and saving selected words. 7. Regular update by Developer.  8. Quick support at info@hinkhoj.com for any problem.  9. Same Experience as provided by Website version of dictionary at http://dict.hinkhoj.com  Offline download issues, please check below blog:http://hinkhoj.blogspot.in/2012/08/resolve-dictionary-download-related.htmlFor more information and to try it out on web visit:http://dict.hinkhoj.comThis dictionary is available on Mobile browsers at http://m.hinkhoj.comRecent changes:V 4.8:Bug fixes only. No new feature so avoid upgrade if things working fine on your phone. V4.6:1. pronunciation sound2. save word of day3. bug fixes V4.5: bug fixes. No new feature.v4.3:bug fix for offline issue.V4.2:1. auto completion support2. saving word support3. search history4. more offline files 5. caching search results. 6. new theme7. quick navigation menus8. bug fixes in hindi typing'
+p4
+tp5
+tp6
+.

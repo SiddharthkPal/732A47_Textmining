@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English Idioms Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'You know what, here is a comprehensive catalog of idioms that would make you express in a way, that will leave others impressed.  This offline app has 7,500 phrases, which can be used in a conversation, a book, a news report or a scientific paper, and will leave a strong impact of your knowledge on the reader or the listener. Need I say more about this application\xe2\x80\xa6 it can be downloaded and saved in your hand phone without occupying much space. And if that don\xe2\x80\x99t beat all then the app is free, user friendly and also provides you with usage of any particular idiom in the form of a sentence. So,before losing the plot\xe2\x80\xa6 (to lose sight of an important aim), make this app the apple of your eye (make it your favorite).Recent changes:1. Trivia added. Test your skills now.2. Sharing functionality.3. Bug fixes.'
+p4
+tp5
+tp6
+.

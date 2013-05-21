@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart Kids Games LITE '
+p1
+tp2
+(S'Description:'
+p3
+S'Smart Kids Games is a fun learning program for children of all ages.Contains 15 games in one:- Learning of letters and numbers, sound animated with translation from English / Spanish.- Learn to recognize more than 100 animals including their sounds, categorized as pets, farm animals and marine wildlife.- Distinguish shapes and colors and match the pieces. - Distinguish between colors and show your ability to move animated balls around the screen. - Practice your memory with "Simon evolution" and "Match the cards"- Play with fireworks and try to catch the ball.- Learn the sound of musical instruments and play their music.- Play puzzles with pictures of your environment.- Skilled puzzle with pictures of the most important places in the world.- Flash cards with letters of the alphabet illustrated with drawings in various languages.- Listen and learn the funny sound of the most familiar vehicles.Children can have fun playing for a long time.You will also acquire the following skills by playing:- Improve children\'s skills in memory, concentration and development of knowledge of their environment.- Help with the recognition of the letters of the alphabet and learning English and Spanish languages.- Keep  children entertained with fun sound effects and animal sounds, musical instruments and vehicles - The game is adapted to be handled easily. - Is specifically designed as an educational tool  interface for preschoolers and up. Keywords: game, musical instruments, gravity, sound, animal, animals, secrets, quiz, board memory, baby, kids, physics, language learning game preschool education, children\'s best games, best educational toys for children,Tactile Skills, preschool, , Kindergarten, game animals, animal sounds, memory game fun, games for children, game, Fine Motor Skills, Spanish, Cognitive Skills, Visual Spatial Skills, little einstein, tablet, physics.Recent changes:ICS READY'
+p4
+tp5
+tp6
+.

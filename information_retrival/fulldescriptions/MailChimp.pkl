@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MailChimp '
+p1
+tp2
+(S'Description:'
+p3
+S"Add new subscribers, manage your lists and view reports wherever you are with MailChimp's Android app.- Manage Your Lists -Monitor the growth of your lists, see which subscribers are most engaged and make changes to subscriber records. No computer required.- View Reports -Don't wait to get back to your desk to see how your campaigns are performing. Just pull out your phone and get instant access to all your reports.- Add Subscribers -Subscribers don't always request to be added to your list when they're sitting in front of their computers\xe2\x80\x94sometimes they ask you in real life! Add them directly to any MailChimp list directly from your phone. The app includes an Add Subscriber shortcut for your home screen.- Report Widget -Add a report widget to your home screen showing the stats from your most recent campaign. Automatically updates every 30 minutes.- Features -\xe2\x80\xa2 Add subscribers to any list and assign them to interest groups.\xe2\x80\xa2 See recent events in your account.\xe2\x80\xa2 See where in the world your emails are being opened.\xe2\x80\xa2 See who's tweeting and retweeting your campaigns.\xe2\x80\xa2 See how much revenue your campaigns have generated.\xe2\x80\xa2 See email clients, recent subscribers and full lists.\xe2\x80\xa2 Get updates about campaigns in progress.\xe2\x80\xa2 See how many rewards you have earned.\xe2\x80\xa2 Add multiple MailChimp accounts.\xe2\x80\xa2 Lock the app with a passcode for additional security.** Google Apps Accounts **Tap the Menu button on the Connect to MailChimp screen to use your API Key to log in to MailChimp.Recent changes:- Added Campaign Preview- Removed unnecessary permission"
+p4
+tp5
+tp6
+.

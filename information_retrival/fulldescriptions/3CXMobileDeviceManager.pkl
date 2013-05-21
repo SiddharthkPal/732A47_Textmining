@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'3CX Mobile Device Manager '
+p1
+tp2
+(S'Description:'
+p3
+S"The 3CX Mobile Device Manager app connects your mobile device to 3CX Mobile Device Manager.3CX Mobile Device Manager is an online service that allows you to easily manage, secure, monitor, find and track your mobile phones, tablets or notebook computers. The main features include:Device Tracking \xe2\x80\x93 Simple, precise tracking of connected mobile devices using Google MapsDeploy Applications \xe2\x80\x93 Manage apps to groups of Android phonesSecurity \xe2\x80\x93 Remotely lock or wipe corporate data from abused, lost or stolen devicesAdministration Portal \xe2\x80\x93 Receive alerts, send messages to your mobile devices and audit your usersTake full advantage of your mobile devices without creating a management nightmare. Sign Up for a Free 3CX Mobile Device Manager account at http://www.mobiledevicemanager.comDownload this app to manage your Android device using 3CX Mobile Device Manager. Once installed, your device will securely connect to your 3CX Mobile Device Manager account.This application requires a 3CX Mobile Device Manager account. Sign up for your free account at http://www.mobiledevicemanager.comRecent changes:Automatically update server when WiFi settings on mobile device changeSettings are cleared when application is uninstalledMinor text improvementsImproved location trackingAdded support for sending location providers enabled in OS settingsAdded support for the new tracking option 'When Available'Added support for showing allow installation from Unknown Sources"
+p4
+tp5
+tp6
+.

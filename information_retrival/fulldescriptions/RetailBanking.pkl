@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Retail Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'Santander Bank services app for mobile devices.Currently only available in Spain.Recent changes:Some bugs fixed'
+p4
+tp5
+tp6
+.

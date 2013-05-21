@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bundesliga '
+p1
+tp2
+(S'Description:'
+p3
+S'On the minute live score notifications.FINALLY real livescore notifications from the German Bundesliga in football to your phone or tablet. Notifications are for FREE !!!Bundesliga is the app to follow standings, tournament schedule, livescore, topscorer, and more from the Bundesliga in football. Follow live matches and get notifications.It is possible to be notified from live matches. Settings let turn on and off notifications. You can get notifications even when your screen has been turned off. You can also choose your favorite teams and control refresh interval.The tournament schedule has the complete schedule. The schedule has a paging feature that lets you page between the rounds, jump to the current round, jump to season start and season end.PLEASE NOTICE: There is also a PRO version of this app available here on Android Market. The PRO version has even more features including goal score on all the previous matches played, red and yellow cards, press the players on topscorer list and get information on when they scored their goals, and more...The Bundesliga in football consists of the following teams:AugsburgBayer LeverkusenBayern M\xc3\xbcnchenBorussia DortmundBorussia M\xc3\xb6nchengladbachEintracht FrankfurtFC N\xc3\xbcrnbergFortuna D\xc3\xbcsseldorfFreiburgHamburger SVHannover 96HoffenheimMainz 05Schalke 04SpVgg Greuther F\xc3\xbcrthVfB StuttgartWerder BremenWolfsburgKeywords: results fixtures football Bundesliga germany nofity notifications alert live score goal free DFB PokalAnd for all security concerned users - this app does NOT require you to accept unnecessary permissions.Recent changes:More features'
+p4
+tp5
+tp6
+.

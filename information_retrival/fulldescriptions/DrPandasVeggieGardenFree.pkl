@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Dr. Panda's Veggie Garden-Free "
+p1
+tp2
+(S'Description:'
+p3
+S"Let your kids try the FREE version of the fun and interactive Dr. Panda's Veggie Garden! Play 5 of the minigames included in the full version. Get the full version to unlock more minigames, more animals and more FUN!\xe2\x98\x85 A Parents\xe2\x80\x99 Choice Recommended Award Winner! \xe2\x98\x85 SmartAppsForKids \xe2\x80\x9cAnother winner from Dr. Panda, this endless loop of gardening mini-games will keep your small ones occupied for ages.\xe2\x80\x9d \xe2\x98\x85 TheiMums \xe2\x80\x9cThe app has many opportunities for open ended play as well as the opportunity to explain a specific step such as the growing process in a simple concise manner to children.\xe2\x80\x9d \xe2\x98\x85 Giggleapps \xe2\x80\x9cChildren will find this app utterly engaging as they watch the detailed growth over seconds that would take weeks to form, all with their own active participation\xe2\x80\xa6\xe2\x80\x9d Plow, plant, water and harvest in Dr. Panda\xe2\x80\x99s Veggie Garden! In Dr. Panda\xe2\x80\x99s Veggie Garden your little farmer will grow all kinds of veggies and fruits for their very own animal customers! Kids can cultivate and harvest over 12 different fruits and veggies in Dr. Panda\xe2\x80\x99s Veggie Garden combining fun with clear educational values. Dr. Panda\xe2\x80\x99s Veggie Garden makes kids familiar with the process of planting and growing different vegetables and fruits. With 2 bonus games included! Great learning value for kids and parents alike while having fun! KEY FEATURES - 30 different steps including digging, plowing, seeding, watering and harvesting - 2 educational bonus games included - 5 animal customers - 12 different vegetables and fruits - Kids Safe - no in app purchasing and 3rd party website links Check out the other Dr. Panda games: - Dr. Panda's Beauty Salon- Dr. Panda's Supermarket - Dr. Panda's Restaurant - Dr. Panda\xe2\x80\x99s Hospital - Dr. Panda, Teach Me! - Dr. Panda's Daycare ABOUT Dr. Panda Dr. Panda creates kids games with educational values that teach kids about life and the world around them. http://www.drpandagames.com If you have any further questions or are interested in how we designed the app together with kids, feel free to contact us any time. Just drop an email to support@drpandagames.com or contact us via Facebook http://www.facebook.com/drpandagames.KEYWORDSGarden,vegetables,farm,for,kids,plants,fruits,gardening,farming,toddlers,harvest,gardener,farmer"
+p4
+tp5
+tp6
+.

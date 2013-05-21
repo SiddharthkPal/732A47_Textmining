@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'91 Launcher '
+p1
+tp2
+(S'Description:'
+p3
+S'[About]91 Launcher - Your Launcher your Style. 91 Launcher is the most interesting and convenient home launcher replacement app and it offers fancy and plentiful themes to customize your phone.91 Theme Maker\xef\xbc\x88Make your own themes\xef\xbc\x89: http://home.pandaapp.comFacebook:  https://www.facebook.com/launcher91Twitter:  https://twitter.com/91Launcher[Features]1. Thousands of personalized themes are available. 2.  Allows you to access various of widgets on homescreen, such as 91 weather show, flashlight and one-key clean. And it also offers the function of a full screen preview widgets.3. Added new screen transition effects. 4. Redesigned \xe2\x80\x9cMy Phone\xe2\x80\x9d module. Support quick access to wallpapers, ringtones, Apps, and power manager.5. Amazing custom gestures feature offers you more convenience and fun.6. Supports creating new folder by moving an APP icon on to another and bulk moving Apps into a folder. 7. Long press homescreen to add apps, folders and widgets, change wallpaper and theme as well.Recent changes:1.\tAdded a notification when the battery is fully charged;2.\tAdded the feature to set wallpaper mode, such as scrolling and lock modes (Menu\xef\x83\xa0Wallpaper);3.\tFixed the issue of repeated notification when the battery is lower than 30%;4.\tImproved the user interface of search page, as well as download process; 5.\tSpeed up the initialization.'
+p4
+tp5
+tp6
+.

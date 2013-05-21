@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ffmpeg codec arm V7 vfp v3 '
+p1
+tp2
+(S'Description:'
+p3
+S'Ffmpeg codec for ARMv7 CPUs, including NVIDIA\xc2\xae Tegra\xe2\x84\xa2 2.For devices including Galaxy Tab 10.1, LG Optimus 2X, Motorola XOOM, ASUS Transformer TF101, Acer Iconia Tab A500, etc.Codec ONLY!You have to install or update OnlinePlayer or Media Converter first.'
+p4
+tp5
+tp6
+.

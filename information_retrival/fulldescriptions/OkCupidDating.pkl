@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OkCupid Dating '
+p1
+tp2
+(S'Description:'
+p3
+S"OkCupid is the best dating site on Earth, and the highest rated dating app available. Get all of the great features of OkCupid.com on your hand computer.\xe2\x80\xa2 Meet and chat with new people\xe2\x80\xa2 Broadcast your date suggestions\xe2\x80\xa2 Find people using our powerful matching algorithms\xe2\x80\xa2 Rate profilesDating has never been so fun, simple, or free.Recent changes:Everything...sort of! The app is now faster, more beautiful, and easier to use. Here's the shortlist:\xe2\x80\xa2 A new menu gives you easier access to Messages, Visitors, and Matches\xe2\x80\xa2 New messaging interface - read while you replyLatest Patch (3.0.3)\xe2\x80\xa2 Fixed app side menu for Sony device users, those devices are now again compatible.\xe2\x80\xa2 Fixed profile image loading.\xe2\x80\xa2 General bug fixes."
+p4
+tp5
+tp6
+.

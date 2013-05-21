@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Renal function Free '
+p1
+tp2
+(S'Description:'
+p3
+S"Renal function, in nephrology, is an indication of the state of the kidney and its role in renal physiology. Glomerular filtration rate (GFR) describes the flow rate of filtered fluid through the kidney. Creatinine clearance rate (CCr or CrCl) is the volume of blood plasma that is cleared of creatinine per unit time and is a useful measure for approximating the GFR. Creatinine clearance exceeds GFR due to creatinine secretion, which can be blocked by cimetidine. In alternative fashion, overestimation by older serum creatinine methods resulted in an underestimation of creatinine clearance, which provided a less biased estimate of GFR. Both GFR and CCr may be accurately calculated by comparative measurements of substances in the blood and urine, or estimated by formulas using just a blood test result (eGFR and eCCr).The results of these tests are important in assessing the excretory function of the kidneys. For example, grading of chronic renal insufficiency and dosage of drugs that are excreted primarily via urine are based on GFR (or creatinine clearance).It is commonly believed to be the amount of liquid filtered out of the blood that gets processed by the kidneys. In physiological terms, these quantities (volumetric blood flow and mass removal) are related only loosely.A commonly used surrogate marker for estimate of creatinine clearance is the Cockcroft-Gault formula, which in turn estimates GFR in ml/min: It is named after the scientists who first published the formula, and it employs serum creatinine measurements and a patient's weight to predict the creatinine clearance.Languages:- English- Deutsch- Espa\xc3\xb1ol- Fran\xc3\xa7ais- Italiano- Portugu\xc3\xaas"
+p4
+tp5
+tp6
+.

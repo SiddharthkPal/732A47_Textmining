@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WinZip '
+p1
+tp2
+(S'Description:'
+p3
+S'WinZip, the world\'s #1 zip utility, makes it easy to view, open and save zip files on your Android device, whether they\'re attached to an incoming email, downloaded from a web page or opened from an SD memory card.WinZip for Android Top Features- Receive a zip file and view supported image, text and web files directly within the WinZip app. Easily open other popular file formats with 3rd party app integration.- Open encrypted Zip files (including AES128 and AES256) to review sensitive material safely while on the go.- Copy unzipped content to the clipboard to paste into an email or another application. Save the last extracted zip file to access at later time.- Automatically unzip and install Android apps (.apk files) delivered as .zip files from Google Play or the Amazon Appstore.  File Support and 3rd Party IntegrationWinZip for Android lets you view:- Photos and images (.jpg, .jpeg, .png, .bmp, .gif) - Text files (.rtf, .csv, .txt, .ini, .inf, .bat, .js, .log, .xml,.css, .java, .cs, .h, .m,.cpp,.c,.sql,. properties) - Web files (htm, .html,.jsp,.asp) WinZip for Android lets you open other popular file types in 3rd party apps:- Word documents (.doc, .docx) - Excel spreadsheets (.xls, .xlsx) - PowerPoint presentations (.ppt, .pptx) - PDF files (.pdf) WinZip for Android builds on the success of WinZip for iOS, introduced earlier this year and already downloaded by more than a million people. WinZip tools are now available on all of the industry\xe2\x80\x99s most popular platforms \xe2\x80\x93 Windows, Mac, iOS and Android.Compatible with Android operating systems 2.1 (Eclair), 2.2 (Froyo), 2.3 (Gingerbread), 3.x (Honeycomb) and 4.x (Ice Cream Sandwich), WinZip for Android is available now as a free English app.Recent changes:What\'s new in version 1.0.1: 1. Redefine the behavior of Back button. 2. Add "Last.zip" option in Menu bar. User can check the zip file they last opened by clicking this button. 3. Change icon for "Up" button. 4. Save temporary files on SD card. 5. For security reason, WinZip won\'t save password for encrypted zip files. 6. Fixed crash error bugs.'
+p4
+tp5
+tp6
+.

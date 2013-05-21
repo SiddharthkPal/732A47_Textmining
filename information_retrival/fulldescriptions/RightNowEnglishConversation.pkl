@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RightNow English Conversation '
+p1
+tp2
+(S'Description:'
+p3
+S"**Won the T store awards in the Language/Education category****Selected as the best app in Mobile Awards****Patent registered app**All the essential sentences for conversations in a foreign language have been collected and stored in one app!!\xe2\x98\x85With the RightNow English Conversation app, you can communicate with people in other countries, anywhere in the world.\xe2\x98\x85 Key Features*Interactive translation for conversations in a foreign language, including a native speaker's pronunciation reference - Unlike TTS, you can hear high-quality pronunciations from native speakers*A total of 30,000 phrases in 12 categories - As this app contains various categories and context-specific sentences, you can communicate with people in other countries by taking full advantage of this app without additional material (phrase books, dictionaries, etc.). *Word conversion - You can easily change a word in a sentence.*Interpretation function - Interpretation available immediately through voice recognition*Today\xe2\x80\x99s expression widget - You can add the widget on the home screen to study expressions whenever you want.*Notifications of today\xe2\x80\x99s expression - You are notified with conversation sentences every day at the time you set.*Recent sentences & Favorite sentences  - When traveling abroad or studying, you can save a sentence to Favorite sentences and use it whenever you want.*Question and answer list - You can make a list of what you have learned in the Q&A form.*Dialog screen - You can communicate with people in other countries by exchanging questions and answers. *Only available for a question sentence where the answer is provided.*Phonetic transcription for Korean, Chinese and Japanese - You can learn word or expression while checking its pronunciation.*Voice playback sensor - Show the screen to the person you are talking. The app automatically plays a native speaker's voice using the gyro sensor. *Sending an e-mail or text message - You can easily send or share a simple message in a foreign language via text message, e-mail or other instant messaging programs!*Voice search - If you need to speak quickly, just say a word! You can find any sentence you want!Now it\xe2\x80\x99s time to get away from the outdated conversation books and enjoy RightNow Conversation that guarantees your best travel experience yet!"
+p4
+tp5
+tp6
+.

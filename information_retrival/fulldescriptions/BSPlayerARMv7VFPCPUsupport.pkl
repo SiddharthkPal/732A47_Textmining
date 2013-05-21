@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BSPlayer ARMv7 VFP CPU support '
+p1
+tp2
+(S'Description:'
+p3
+S'This is BSPlayer lite CPU support package for ARMv7+VFP CPU smartphones - not the main app.You only need this if BSPlayer warns you to install it, also you must have BSPlayer lite installed first.Main application can be found here: https://market.android.com/details?id=com.bsplayer.bspandroid.free'
+p4
+tp5
+tp6
+.

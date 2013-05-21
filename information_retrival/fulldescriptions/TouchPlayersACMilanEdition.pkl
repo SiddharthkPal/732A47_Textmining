@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TouchPlayers A.C.Milan Edition '
+p1
+tp2
+(S'Description:'
+p3
+S"Scaricando gratuitamente questa applicazione potrai vivere un esperienza di calcio mai vista prima! Acquista le card Touchplayers - A.C. Milan Edition;  appoggia la card sullo schermo del dispositivo e potrai sbloccare contenuti e informazioni dei tuoi giocatori preferiti. Avrai cos\xc3\xac accesso ai video pi\xc3\xb9 importanti delle partite della stagione di Serie A e Coppa Italia 2012-2013. Inoltre, potrai  scoprire le statistiche relative ai giocatori sbloccati e controllare gli aggiornamenti che verranno fatti dopo ogni giornata di campionato. Colleziona tutte le card Touchplayers e completa la rosa del Milan 2012-2013; cerca tutti i 28 giocatori e scopri le 7 special card che attivano la funzione AR Realt\xc3\xa0 Aumentata.Controlla la compatibilit\xc3\xa0 del tuo device su: http://touchplayers.com/device-compatibili/Recent changes:* Ripristinata compatibilit\xc3\xa0 con Samsung Galaxy SIII* Migliorate le prestazioni generali dell'App"
+p4
+tp5
+tp6
+.

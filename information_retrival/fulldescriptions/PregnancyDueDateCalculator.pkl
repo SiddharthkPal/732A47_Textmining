@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pregnancy Due Date Calculator '
+p1
+tp2
+(S'Description:'
+p3
+S'The easiest Pregnancy Due Date Calculator for you and your baby!** Over 200,000 Downloads! **** Super! 83 Score on AppsFire **** What Our Users are saying: ***"Very accurate.... Excellent tool to figure out exactly when you conceived and how far along you are.... This app was recommended by my dr." - bbnikki75"Saves tons of time working in ob gyn office to calculate dates quickly!" - OB GYN CMA"Recommend to all future moms :)" - Gulchatay"Saves me a lot of time in the ER !" - T. HernandezFEATURESCalculate your baby\'s due date! - Not sure when your baby\xe2\x80\x99s due date is? - Not sure when your conception date was? - Want to know how many weeks pregnant you are? - Want to know when the end of your first trimester is? Obstetricians consider an average pregnancy to last 280 days from the first day of your last menstrual period. Using this information, our conception calculator can tell you when to expect your baby, along with other pregnancy milestones such as when your baby was likely conceived and when you\xe2\x80\x99ll make it past the all-important first trimester mark. Tags: due date, conception calculator, due date calculator, pregnancy due date calculator, conception date, menstrual period, pregnancy milestones, baby\xe2\x80\x99s due dateRecent changes:Version 3.2:- Now supports German, French, Spanish and JapaneseVersion 3.1:- Fixed startup crashesVersion 3.0:- A brand new layout!- Added error tracking and feedback'
+p4
+tp5
+tp6
+.

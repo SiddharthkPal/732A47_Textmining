@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Square Register '
+p1
+tp2
+(S'Description:'
+p3
+S'Accept credit cards and run your business anywhere with Square Register on your Android device.Square\xe2\x80\x99s free card reader, free point of sale tools, and simple pricing make it easy for you to run your business from your pocket. Pay just 2.75% per swipe for all major credit cards\xe2\x80\x94no merchant accounts or hidden fees. Funds from swiped payments are deposited into your bank account in 1-2 business days.Get started in three easy steps.1. Download the Square Register app.2. Sign up to request your free credit card reader.3. Link your bank account and accept your first payment.Square Register has everything you need to start, run and grow your business in one free app.- Accept card, cash, and Square Wallet payments- Send receipts via text message or email- Add items to a sale by tapping or searching- Customize items with photos, names, and prices- Manage your business online from your Square dashboard- Access real-time sales data in the app- See what\xe2\x80\x99s selling and when with sales analytics- Create a free profile online in the Square directory- Enable easy tipping by percentage or amountRecent changes:- Item library: Add items to a sale with a tap. Build your item library to simplify and speed up checkout. Customize items with photos, names, and prices.- Smarter payment pad: Add multiple custom amounts to a sale, add notes to each amount, and view or edit all amounts in one place before charging.- Custom Tipping: Allow customers to enter custom tip amounts.- New look: Ring up customers and edit settings more easily than ever with an all-new design.'
+p4
+tp5
+tp6
+.

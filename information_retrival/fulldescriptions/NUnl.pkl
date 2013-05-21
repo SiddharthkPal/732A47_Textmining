@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NU.nl '
+p1
+tp2
+(S'Description:'
+p3
+S"Lees het laatste nieuws van NU in deze offici\xc3\xable nieuws App van NU.nlFuncties:* Altijd het laatste nieuws* Stel je eigen menu samen* TV Gids* Video's en slideshows bij nieuws artikelen* Het weer met regenradar* Actuele verkeersinformatie* Beurskoersen* Live standen en voetbaluitslagen* FC Knudde* Artikelen delen* NUJij* Foto's delen via NUFotoLet op: de widget is tijdelijk uit de app gehaald.Recent changes:- Aantal kleine oplossingen"
+p4
+tp5
+tp6
+.

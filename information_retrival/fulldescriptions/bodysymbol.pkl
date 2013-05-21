@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'body symbol '
+p1
+tp2
+(S'Description:'
+p3
+S"It's a nice and interesting camera photo app.Have fun!For HD version please install Body Symbol HD  https://play.google.com/store/apps/details?id=vn.esse.bodysymbol.hdRecent changes:Fix wrong preview orientation in Samsung Galaxy Y GT-S5360"
+p4
+tp5
+tp6
+.

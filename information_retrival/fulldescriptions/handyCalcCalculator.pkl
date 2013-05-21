@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'handyCalc Calculator '
+p1
+tp2
+(S'Description:'
+p3
+S'handyCalc is a powerful calculator with automatic suggestion and solving which makes it easier to learn and use.With almost all the features you can imagine on a calculator, waiting for you to explore.* currency convert, unit convert, graph, solvingRecent changes:support big screen such as Samsung Galaxy Note.cubic and cubic root button on keypad.engineering notation (preferences).copy answer (menu->edit).improved bracket input.'
+p4
+tp5
+tp6
+.

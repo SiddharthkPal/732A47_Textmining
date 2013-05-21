@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Camera360 for Android 1.5 '
+p1
+tp2
+(S'Description:'
+p3
+S'Camera360:Art in Your HandCamera360 works only for Android 2.2 and up since v3.0. To extend sincere thanks form all staff of Camera360 for your support, we decide to release Memento Version of past versions---- Camera360 v2.7 Memento Version (for Android 1.5 and up). It is all free without advertisements and limits. All functions are available for you with Memento Version. Hope you like it and support us all the time. Thanks a lot.The most famous and perfect camera app helps your photo more amazing, funny and interesting.* Effect like LOMO, Retro Effect, Dreamlike Effect, Art of Black and White, Back to 1839 and Night Enhancement will make your photo more beautiful.* The amazing HDR effect is even better than iPhone HDR.* Unique Funny Mode: Effects like Surrealistic B&W Paining, Vertical/Horizontal Left Symmetry, Vertical/ Horizontal Right Symmetry, Ghost are available.* Unique Scenery Mode: It takes the interesting composite photos, you can choose whether be in a movie poster, an art painting, a outdoor advertisement, or among the various types of greeting cards. * Unique Tilt-shift and Color-shift Mode allows you to see the world from another angle.* Share your photo to Sina Microblog, Facebook or Twitter.***************************If you like our app please rate us five stars. Also your feedback is very important\xef\xbc\x8c please feel free to contact us at support@pinguo.usTwitter: @Camera360 Facebook: @PinGuo***************************Dear Customers,Some customers ask us why did we need the SMS permission? First, we want to say that we will not use customer\xe2\x80\x99s any privacy. The SMS permission is the \xe2\x80\x98written permission\xe2\x80\x99 so we can not get your contacts. In order to send the media message so we need the \xe2\x80\x9cwritten permission\xe2\x80\x9d. Please trust us we will never do that. Thank you!Recent changes:Camera360 works only for Android 2.2 and up since v3.0. To extend sincere thanks form all staff of Camera360 for your support, we decide to release Memento Version of past versions---- Camera360 v2.7 Memento Version (for Android 1.5 and up). It is all free without advertisements and limits. All functions are available for you with Memento Version. Hope you like it and support us all the time. Thanks a lot.'
+p4
+tp5
+tp6
+.

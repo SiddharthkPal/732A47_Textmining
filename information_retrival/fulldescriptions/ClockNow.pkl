@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Clock Now '
+p1
+tp2
+(S'Description:'
+p3
+S"Clock Now is the widget is lacking in your home screen!The design is inspired by the famous app Google Now following all the guidelines of the Holo interface.With Clock Now you can have at your fingertips many settings, just one tap to turn on or off whatever you like.Clock Now it's free, no ads and doesn't have a paid version, everything is present in the free one.Why we do it? For passion.Recent changes:New Light and Dark themesResizable widgetsNew Ringer Mode toggleOther improvements"
+p4
+tp5
+tp6
+.

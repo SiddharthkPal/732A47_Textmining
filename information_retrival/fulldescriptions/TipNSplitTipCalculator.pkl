@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tip N Split Tip Calculator '
+p1
+tp2
+(S'Description:'
+p3
+S'Calculate tip and split the bill with Tip N Split - the ultimate tip calculator! This tip calculator app not only calculates tip quickly and easily but also helps to split the bill between any number of people.Round up or round down on any value on the tip calculator and see changes to the tip percentage, tip amount, total amount and amount payable per person immediately!This app is brought to you by Handy Apps! Connect with us on Facebook at:  https://www.facebook.com/HandyAppsIncRecent changes:-Move to SD Card enabled'
+p4
+tp5
+tp6
+.

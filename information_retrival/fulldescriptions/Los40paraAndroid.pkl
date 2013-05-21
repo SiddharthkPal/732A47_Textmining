@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Los 40 para Android '
+p1
+tp2
+(S'Description:'
+p3
+S'Desc\xc3\xa1rgate la nueva aplicaci\xc3\xb3n de Los 40 Principales. Mucho m\xc3\xa1s completa. Ahora puedes disfrutar de noticias, videos, audios, programaci\xc3\xb3n y por supuesto la lista 40. Escucha en directo adem\xc3\xa1s de Los 40 Espa\xc3\xb1a, Los 40 Argentina, Chile, Colombia, M\xc3\xa9xico y Panam\xc3\xa1.Recent changes:Arreglo de fallas menores y peque\xc3\xb1a modificacion en el look de la aplicaci\xc3\xb3n.'
+p4
+tp5
+tp6
+.

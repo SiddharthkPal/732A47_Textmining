@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dating & Flirt - FriendScout24 '
+p1
+tp2
+(S'Description:'
+p3
+S'Erleben Sie Dating und aufregende Flirts unterwegs und kostenlos mit der FriendScout24-App! Ab sofort verpassen Sie auch unterwegs keine prickelnde Begegnung mehr.Die FriendScout24 Dating App bringt den Spa\xc3\x9f am Flirten auf Ihr Smartphone:\xe2\x80\xa2 Finden Sie interessante Singles in Ihrer Umgebung\xe2\x80\xa2 Schicken Sie KOSTENLOS pers\xc3\xb6nliche Nachrichten an Ihre Flirt-Partner\xe2\x80\xa2 Erfahren Sie, wer Ihnen geschrieben hat, und antworten Sie gleich \xe2\x80\x93 immer und \xc3\xbcberall.\xe2\x80\xa2 Sehen Sie auf einen Blick, ob Ihr Flirt gerade online ist, um eine aufregende Unterhaltung in Echtzeit zu starten.____________________________________________Warum FriendScout24 die richtige Wahl ist:FriendScout24 ist der Experte f\xc3\xbcr Partnersuche und Dating \xe2\x80\x93 seit mehr als 12 Jahren die f\xc3\xbchrende Singleb\xc3\xb6rse, um den Partner f\xc3\xbcrs Leben oder einen spannenden Flirt zu finden. FriendScout24 steht f\xc3\xbcr Qualit\xc3\xa4t und Beliebtheit. Deshalb belegte die Online Singleb\xc3\xb6rse bei zahlreichen Tests den ersten Platz (z.B. Online-Star 2011, tomorrow).Lebenspartner, Flirts, Abenteuer finden. Das k\xc3\xb6nnen Sie jetzt, wann Sie wollen, wo Sie wollen._____________________________________________Das sagen unsere User:\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x9eich finde die app super. profile ansehen . Mails lesen. mehr braucht man doch mobil nicht.\xe2\x80\x9c\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x9eH\xc3\xbcbsche App\xe2\x80\x9c\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x9eSuper, nach Update auch neben den Nachrichten Profile anschauen k\xc3\xb6nnen, Umgebungssuche usw. Vielen dank, wirklich toll, weiter so ;)\xe2\x80\x9cRecent changes:---- 1.10.2 Bugfix-Release ----\xe2\x9c\x93 Behebung von Problemen mit der Serverkommunikation f\xc3\xbcr Android 2.x  nach serverseitigen Updates von Sicherheitszertifikaten am 19.2.2013 ---- 1.10.1 Bugfix-Release ----\xe2\x9c\x93 Umgestaltung der Suchfilterseite\xe2\x9c\x93 Behebung von Problemen mit dem Online-Status---- 1.10.0 ----\xe2\x9c\x93 Neue Navigationsleiste ab Android 4\xe2\x9c\x93 Nutzung des Holo Themes ab Android 4\xe2\x9c\x93 \xc3\x9cberarbeitung einzelner Bedienelemente\xe2\x9c\x93 Behebung von Problemen mit dem Login'
+p4
+tp5
+tp6
+.

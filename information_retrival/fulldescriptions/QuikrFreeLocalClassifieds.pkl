@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quikr Free Local Classifieds '
+p1
+tp2
+(S'Description:'
+p3
+S'Connect with people in your local area to buy, sell, rent or find anything with Quikr!- Find the perfect job or hire someone- Rent, buy or sell apartments- Buy or sell cars, bikes and other vehicles - Find tuition classes, car rentals, plumbers, and many other service providers - Buy new and used products - mobile phones, baby products, furniture to antiquesTell us what you want and keep updated on the best deals in your local area! Please Note: Content available for India.Recent changes:3.4 Changes- minor enhancement and bug fixes3.31 Changes- Save your Favourites- Increased cities supported from 90 to 900- Fixed bug on back button for search and browse view ads, now returns user correctly to list page3.3 Changes- New navigation to quickly browse through ads of interest  - Faster loading of text & images across all pages- Bug fixes related to app crashes3.2 Changes:- Bug fixes'
+p4
+tp5
+tp6
+.

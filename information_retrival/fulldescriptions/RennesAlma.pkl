@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rennes Alma '
+p1
+tp2
+(S'Description:'
+p3
+S'L\'application Android du centre commercial Rennes Alma.Recent changes:Ajout nouvelle fonctionnalit\xc3\xa9 "Id\xc3\xa9es cadeaux Saint Valentin"'
+p4
+tp5
+tp6
+.

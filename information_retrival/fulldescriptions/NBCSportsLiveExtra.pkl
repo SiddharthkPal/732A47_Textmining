@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NBC Sports Live Extra '
+p1
+tp2
+(S'Description:'
+p3
+S'Get to ready to watch more than 1,000 events LIVE for FREE with the NBC Sports Live Extra app. You can follow your favorite events and sports, and receive push notifications for event start times. Download now on your Android handheld and tablet device. The app will live stream an abundance of live sporting events that air on NBC, NBC Sports Network and the Golf Channel, including NHL Regular-Season and Stanley Cup Playoff games, PGA TOUR, U.S. Open (golf), Notre Dame Football, French Open (tennis), Premier League (soccer), Major League Soccer, Formula One, IndyCar, Triple Crown horse racing and the 2014 Sochi Winter Olympics. Features: * Video on Demand: access short-form video clips to preview upcoming events and check out highlights from past events * Online coverage schedule: browse the online listings schedule and set event reminders * Live Events: watch marquee NBC Sports events LIVE! * Full Event Replays: relive all the great moments with full event replays * Push Notifications: receive reminder alerts for upcoming events * DVR: most live streams and all full event replays will have DVR capabilities The vast majority of live streaming content on NBC Sports Live Extra will only be available to authenticated cable, satellite and telco customers via TV Everywhere. NBC Sports Live Extra is currently available for Comcast Xfinity, Verizon Fios, Cablevision, Suddenlink, Mediacom, Bend and Grande customers. We\xe2\x80\x99ll be adding more cable providers shortly, so check back soon! Further instructions are provided in the app settings section. NBC Sports video is only accessible in the U.S. and certain U.S. territories. The application requires a 3G, 4G or WiFi data connection. Watching video over a 3G or 4G connection may affect your wireless data plan.Recent changes:- Watch NBC Sports Network live events including the remainder of the NHL regular season, the Stanley Cup Playoffs and Final; Premier League and Major League Soccer matches; Formula One and IndyCar races; horse racing that surrounds the Triple Crown; and more.'
+p4
+tp5
+tp6
+.

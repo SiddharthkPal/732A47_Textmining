@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hotel Dieu de France Hospital '
+p1
+tp2
+(S'Description:'
+p3
+S'H\xc3\xb4tel-Dieu de France (HDF) presents the first hospital mobile application in the Middle East, main goal of which, is to facilitate patients\xe2\x80\x99 access to care information.HDF will work continuously towards improving this application, in line with its patient centric commitment.Using this application you can:-Search for a doctor-Find the hospital\xe2\x80\x99s directory list-Browse the hospital\xe2\x80\x99s map by section-Schedule your medication-Stay posted on the latest health tips and wellness-Be up-to-date with HDF\xe2\x80\x99s latest news and events-Get notifications regarding important informationKeywords: Beirut, Beyrouth, Caring, Clinic, Clinique, Diagnosis, Drugs, Education, Emergency, Healthcare, Heart, Hopital, Laboratory, Leader , Lean management, Lebanon, Liban, Medecin, Medical, Medicine, Nurse, Nursing, Nutrition, Pulse, Radiology, Reference, Research, Sante, Service, Surgery, Test, Universite, Saint Joseph, University, Useful number, USJ, Wellbeing, Body, Ambulance, Blood, ER.'
+p4
+tp5
+tp6
+.

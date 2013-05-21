@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Messages + '
+p1
+tp2
+(S'Description:'
+p3
+S'With Messages+ you can send free messages over 3G or WiFi (when available) to your contacts who use Messages+ , or send regular SMS/MMS messages - all from one place. Messages+ includes WhatsApp, Facebook, Twitter and more social networks integration.  Messages+ is a messaging launcher app for Contacts+ , a free \xe2\x80\x98all in one\xe2\x80\x99 contacts, dialer & sms app.Features:\xe2\x98\x85 Beautiful messaging design\xe2\x98\x85 FREE messages between Messages+ users \xe2\x98\x85 Group SMS\xe2\x98\x85 SMS drafts\xe2\x98\x85 Homescreen messages pop up\xe2\x98\x85 Free messages backup and restore\xe2\x98\x85 Individual sms ringtones\xe2\x98\x85 Integrated contacts, call log and dialer (swipe right from messages screen)\xe2\x98\x85 WhatsApp integration ! \xe2\x98\x85 Social Networks: Facebook, Twitter, Linkedin and Foursquare\xe2\x98\x85 Light / Dark themes\xe2\x98\x85 Auto pictures and birthdays sync with Facebook\xe2\x98\x85 Birthdays reminders_____________CONTACT US:We\xe2\x80\x99re always happy to get your feedback and answer any questions at: info@contactspls.comFacebook: facebook.com/contactsplsTwitter: twitter.com/contactspluswww.contactspls.comRecent changes:\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85+ Bug Fixes\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85'
+p4
+tp5
+tp6
+.

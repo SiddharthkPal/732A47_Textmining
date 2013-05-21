@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Drugs.com Medication Guide '
+p1
+tp2
+(S'Description:'
+p3
+S'The easiest way to lookup drug information, identify pills, check interactions and set up your own personal medication records. All mobile-optimized to speed up your browsing experience.Key Features\xe2\x80\xa2 My Drug List \xe2\x80\x93 Add your medications to instantly assemble relevant medical information in a simple, easy to read personalized format. Access in-depth consumer information, FDA alerts, drug interactions, plus food, allergy and medical condition interactions. An invaluable tool for medication management and adherence.\xe2\x80\xa2 Complete Drugs A to Z listings \xe2\x80\x93 Fast search, accurate suggestion engine and the most comprehensive database of drug information available online.\xe2\x80\xa2 Pill Identifier \xe2\x80\x93 Identify any meds simply by entering an imprint, shape or color. Database updated daily.\xe2\x80\xa2 Interactions Checker \xe2\x80\x93 Provides a list of interactions that may occur when different drugs are taken at the same time. Also checks food interactions automatically.\xe2\x80\xa2 Q & A \xe2\x80\x93 Ask a specific question about your medication. Search on thousands of questions and answers.\xe2\x80\xa2 Health Professionals \xe2\x80\x93 Quick access to all the tools you know and trust. \xe2\x80\xa2 Many more helpful tools. Try the Symptom Checker. Lookup specialised databases for  side effects and dosage information. Not quite sure how to spell a drug name? Use the phonetic search. Important Notice: You must not rely on this application alone to remember to take your prescriptions or to replace medical advice, diagnosis or treatment. Always consult with your healthcare professional.About Drugs.comDrugs.com is the leading online drug information resource with over nine million unique visitors per month (ComScore, January 2013). Providing free, independent, peer-reviewed, and up-to-date information at both consumer and professional levels, Drugs.com empowers patients and caregivers to take charge of their health and be more informed than ever before. App SupportIf you have any feature requests, suggestions or you simply need help, please visit http://www.drugs.com/apps/support/ and our responsive support team will prioritize your request.Follow us on Twitter @drugscom for tips and updates.'
+p4
+tp5
+tp6
+.

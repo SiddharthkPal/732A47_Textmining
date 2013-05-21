@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IslaMobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Au nom d\'Allah, le Tout Mis\xc3\xa9ricordieux, le Tr\xc3\xa8s Mis\xc3\xa9ricordieux.As Salam Aleykoum Wa Rahmatul-Lahy Wa BaraQatu.Vous \xc3\xaates de plus en plus nombreux \xc3\xa0 t\xc3\xa9l\xc3\xa9charger IslaMobile, merci pour votre confiance ! IslaMobile est une application pens\xc3\xa9 et fait pour tous. Apprendre, Comprendre, Partager, et D\xc3\xa9couvrir ce qui est l\'islam. L\'application regroupe l\xe2\x80\x99essentiel de la religion au format mobile.Vous pouvez :Lire,\xc3\xa9couter  l\xe2\x80\x99int\xc3\xa9gralit\xc3\xa9 de notre noble coran en fran\xc3\xa7ais bient\xc3\xb4t inchallah en (phon\xc3\xa9tique et en Arabe)Lire les hadiths ou encore apprendre des Dou3as (40 Rabanas).Conna\xc3\xaetre les noms d\'Allah .Consult\xc3\xa9 les horaire de la s\xc3\xa2late (m\xc3\xa9thode de calcule UFO). Recitateurs :-Abdurrahmaan Soudais -Ghamadi-Alafasy-Bukhatir -AlMuaiqly-Husary-Menchaoui-Ash-Shuraim Plus d\'info\xc2\xa0: http://islam-mobile.com/ Mots-cl\xc3\xa9s: au nom d\'Allah, le tout mis\xc3\xa9ricordieux, le tr\xc3\xa8s mis\xc3\xa9ricordieux,  l islam, Islam, islam mobile, mohamed, musulman, pri\xc3\xa8res, coran, Adan, adhan, Athan, salat, Salah, sourate, verset, islam, islamique, Ramadan, Ramadhan, qibla, allah, halal, musulman, mosqu\xc3\xa9e, Mecque, hadith, douaa, dou3a, doua, pri\xc3\xa9re, Mohamed le proph\xc3\xa8te,Allah , bismilah, Athan, Adhan, Azan, Salat, Salah, Namaz, Pri\xc3\xa8res, Widget, Islam, Muslim, Islamic, Mosque, Mecca, Allah, God, Religion , AllahKeywords: Quran, Islam, Islamic, Koran, Qur\'an, Muslim, Digital Quran Tags: Quran, Qur\'an, Koran, Coran, Islam, Quran.comRecent changes:Corrections de bugs report\xc3\xa9 par les utilisateurs....Am\xc3\xa9lioration des performances sur les Android 4.0.1 et plus. Ajout d\'une nouvelle section " coran en Streaming "Maintenant vous pouvez \xc3\xa9couter le coran directement depuis internet avec un large de choix de R\xc3\xa9citeurs.bient\xc3\xb4t encore plus d\'options inch\'Allah.  refonte graphiqueVersion 3,3 plus stable ...'
+p4
+tp5
+tp6
+.

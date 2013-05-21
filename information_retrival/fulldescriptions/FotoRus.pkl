@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FotoRus '
+p1
+tp2
+(S'Description:'
+p3
+S'*** All new "Pic-in-Pic" mode to make your photos even more playful! ***Create eye-catching and mind-bending photos with our Pic-in-Pic mode and share them with your friends!FotoRus is coolest GIF animation app with advanced special effects and it\xe2\x80\x99s FREE! Create animated GIF your friends would be totally amazed! The only limit is your imagination!It\xe2\x80\x99s super easy to use! And for those who like to be even more creative, we offer Advanced functions for you to tinker your pictures or videos at your desire.Here are some of our key features:* Create GIF through camera, a video clip , or images from photo library.* Motion effects - simulate animated effects such as rainy, snowy, night vision, sniper and so on.* Advanced function- Each frame is editable to create highly customized GIF.* Borders - many classic borders are supported.Recent changes:1. add some new collages2. bug fixed'
+p4
+tp5
+tp6
+.

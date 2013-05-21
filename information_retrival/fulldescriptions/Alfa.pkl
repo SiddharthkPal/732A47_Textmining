@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Alfa '
+p1
+tp2
+(S'Description:'
+p3
+S'Account management and much more, right at your fingertips. The Alfa application is a comprehensive account management mobile app that allows subscribers (Prepaid / Postpaid / Business / Mobile Broadband) to gain full control over their alfa accounts.This revolutionary alfa mobile application offers a self-care utility that entitles users, in addition to their account management, to enjoy exclusive features such as:- Free SMS (5 per day) - Billing Inquiry- Recharge your line- Report coverage- Alfa stores and distributors locator using Augmented Reality- Alfa\xe2\x80\x99s latest news and offersRecent changes:- U-Chat plans info are now displayed in the Products & Services section.- U-Chat subscribers can now manage their services.- U-Chat Subscribers can now check their bill and MB consumption.- U-Chat Subscribers can now recharge their lines.- Report Coverage feature enhanced.- Midline info added- Midline billing inquiry added- Customer care email updated'
+p4
+tp5
+tp6
+.

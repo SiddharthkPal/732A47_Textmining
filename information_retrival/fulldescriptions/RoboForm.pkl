@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RoboForm '
+p1
+tp2
+(S'Description:'
+p3
+S'RoboForm for Android is a password manager and form filler app that allows you to use your logins from your RoboForm Everywhere account on your Android device. You can log in to your favorite sites automatically in RoboForm using the Logins you created with RoboForm on your PC or Mac. Newer versions provide full RoboForm functionality, including offering to save passwords when browsing. Notes on using RoboForm for Android:- A RoboForm Everywhere account is required.- RoboForm runs in its own browser because the native Android browser does not allow any integration.- RoboForm also integrates with Firefox browser, starting at ver 1.62.- RoboForm also works in Dolphin browser if you install RoboForm addon into Dolphin, in addition to this app.Recent changes:Ver 2.65 changes:* Added multiple browser tabs for Android version 3.x and later.* Added auto-complete for URL field that offers viable alternatives.* Simplified browser interface.'
+p4
+tp5
+tp6
+.

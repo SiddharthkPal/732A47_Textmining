@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Impots.gouv '
+p1
+tp2
+(S'Description:'
+p3
+S'Impots.gouv est l\xe2\x80\x99appli officielle du site impots.gouv.fr de la direction g\xc3\xa9n\xc3\xa9rale des finances publiques (DGFiP). Avec cette version de Impots.gouv , vous pouvez :1- D\xc3\xa9clarer vos revenusSi vous n\'avez aucune modification \xc3\xa0 apporter \xc3\xa0 votre d\xc3\xa9claration pr\xc3\xa9remplie, vous pouvez la valider en quelques secondes :- Flashez le code sur votre d\xc3\xa9claration (ou sur votre lettre "\xc3\xa9co-papier" ;- Saisissez votre revenu fiscal de r\xc3\xa9f\xc3\xa9rence ou votre mot de passe.- V\xc3\xa9rifiez votre d\xc3\xa9claration et validez-la !2- Payer votre imp\xc3\xb4tPour payer simplement et rapidement votre imp\xc3\xb4t :- Flashez le code sur votre avis d\'imp\xc3\xb4t- V\xc3\xa9rifiez le montant et corrigez-le si n\xc3\xa9cessaire- V\xc3\xa9rifiez, modifiez ou saisissez votre compte bancaire- Validez !Le montant sera pr\xc3\xa9lev\xc3\xa9 sur votre compte bancaire 10 jours apr\xc3\xa8s la date limite de paiement.Recent changes:L\'application "Impots.gouv" s\'enrichit en  2013 :Pour le service "D\xc3\xa9clarer vos revenus"- Prise en charge de la  contribution \xc3\xa0 l\'audiovisuel public ;- Acc\xc3\xa8s par mot de passe ;- Envoi d\'un courriel de confirmation au contribuable apr\xc3\xa8s signature .Pour le service "Payer votre imp\xc3\xb4t"- Ouverture aux usagers n\'ayant jamais pay\xc3\xa9 en ligne leur imp\xc3\xb4t ;- Possibilit\xc3\xa9 de modifier le compte bancaire pr\xc3\xa9-affich\xc3\xa9.Par ailleurs, l\'application est d\xc3\xa9sormais r\xc3\xa9f\xc3\xa9renc\xc3\xa9e aupr\xc3\xa8s de Proxima Mobile'
+p4
+tp5
+tp6
+.

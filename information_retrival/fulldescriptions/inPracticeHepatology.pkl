@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'inPractice\xc3\x82\xc2\xae Hepatology '
+p1
+tp2
+(S'Description:'
+p3
+S'OverviewinPractice provides insight and practical recommendations for the care of patients with viral hepatitis.Subject Matter: Viral HepatitisDesigned forPhysicians and other healthcare professionals including:\xe2\x80\xa2\tHepatology, gastroenterology, and infectious diseases specialists\xe2\x80\xa2\tResidents/fellows\xe2\x80\xa2\tOther specialists managing patients with liver disease\xe2\x80\xa2\tNurses, nurse practitioners, and physician assistants caring for patients with liver disease\xe2\x80\xa2\tPrimary care practitioners caring for patients with liver diseaseKey Components \xe2\x80\xa2\tExpert-authored, comprehensive reference work on viral hepatitis\xe2\x80\xa2\tContinuously updated to incorporate latest findings and best practices\xe2\x80\xa2\tComplete drug database (by Lexi-Comp; includes all FDA-approved drugs)\xe2\x80\xa2\tPractice guidelines\xe2\x80\xa2\tRelevant PubMed abstracts (MEDLINE)\xe2\x80\xa2\tClinicalTrials.govIn Practice\xe2\x80\x94Not Just in TheoryTranslates the constant stream of latest developments in viral hepatitis into clinically applicable information.\xe2\x80\xa2\tSearch and find targeted recommendations for your patient care questions\xe2\x80\xa2\tKnow that the evidence supports your decisionsEfficiently CurrentIntegrates insightful Conference Coverage, drug developments, journal citations, and guidelines to keep you abreast of the developments you can apply to practice. Education With RelevanceEarn CME credit for the topics you\xe2\x80\x99re searching anyway. (To claim credit, just visit the free, companion Web site.)Additional Features\t\xe2\x80\xa2\tEasily share information with colleagues or trainees\xe2\x80\xa2\tIntegrated bookmark function for quick return access to key topics\xe2\x80\xa2\tCompanion Web site includedHow to Gain AccessFree, one-time registration or use your existing Clinical Care Options member ID. (Your information will not be shared or sold to third parties.)Recent changes:Content updated through March 22, 2013'
+p4
+tp5
+tp6
+.

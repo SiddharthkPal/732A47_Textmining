@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sportsnet '
+p1
+tp2
+(S'Description:'
+p3
+S"The Sportsnet app is your gateway to the fastest, most in-depth sports coverage on the go. Built specifically for Android phones, the Sportsnet app features put the serious sports fan first! Bringing you coverage of all your favourite sports and leagues including: MLB BaseballNHL HockeyNBA BasketballNFL FootballNCAAB BasketballNCAAF FootballPGA GolfNASCAR RacingF1 RacingMixed Martial ArtsChampions SoccerEPL SoccerLa Liga SoccerBundesliga SoccerSerie A SoccerMLS SoccerNCAA Women's BasketballCFL FootballATP Men's TennisWTA Women's Tennis With our in-depth coverage and the deepest stats, news, bios, player and team performance, you\xe2\x80\x99ll be managing your Fantasy Teams with ease. The Sportsnet app gives you instant access to individual team or player performance, keeping you in the know on the go and any place, any time. Not enough stats! Just turn your device into \xe2\x80\x9cHorizontal Mode\xe2\x80\x9d and see even more advance statistics on any player.With the MySN feature you can customize the Sportsnet app to fit your needs. Want to follow a specific team or player, you can do that. You can follow any of your Fantasy Teams or players simply and easily and view their performance all season long, and as it happens.And of course, you\xe2\x80\x99ll still get all the latest news, stories and updates directly from your favourite sportsnet.ca writers and staff. You\xe2\x80\x99ll always be a part of the action! The Sportsnet app, designed for the serious sports fan!Recent changes:- Push Notifications enabled"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Washington Manual '
+p1
+tp2
+(S'Description:'
+p3
+S'*** PLEASE NOTE: Institutional Washington Manual is ONLY for users whose institutions have purchased a site license and need to download the mobile application. An individual version of this product is available for purchase in the Google Play App Store.***The Washington Manual of Medical Therapeutics has been a trusted resource on the medical ward for over 50 years. Developed for residents and senior medical students, it provides practical clinical recommendations in an easy to digest format. Download the Washington Manual of Medical Therapeutics on your mobile device (tablet or smartphone) to help you diagnose and treat patients. This application streamlines access to clear information outlining general principles, diagnosis, and extensive treatment options for hundreds of common medical conditions. Tables and charts have been optimized for easy viewing on any your smartphone or tablet. Written by physicians at one of the most highly regarded departments of internal medicine, this comprehensive mobile database delivers answers anytime, anywhere. Features: \xe2\x80\xa2 Quick access to current recommendations on patient care \xe2\x80\xa2 Interface specifically optimized for smartphones and tablets \xe2\x80\xa2 Universal Index Search \xe2\x80\x94 find topics across all indexes \xe2\x80\xa2 Personalized favorites \xe2\x80\xa2 Personal archive for searches and important entries \xe2\x80\xa2 One year of web access includedRecent changes:* Improved speed and performance* Nexus7 support* Bug fixes'
+p4
+tp5
+tp6
+.

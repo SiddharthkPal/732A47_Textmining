@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sky Maps + '
+p1
+tp2
+(S'Description:'
+p3
+S'*NEWS*Satellite Tracking Is Back and Faster!New Satellite category database soon!see http://www.n2yo.com/satellites/ for list of the new extra beta category, check back in the next few days fore.Sky Map turns your Android-powered device into a window on the night sky.The Plus adds the new ability to track any near earth objects with a NORAD Id in real time. Follow satellites, the international space station, and more!Sat Locks My take up to 1-2 minutes over cell networks!You can get predictions for Iridium Flares for the next 7 days. Think shooting star like flares.Based on code Open sourced and donated by Google.https://play.google.com/store/apps/details?id=com.google.android.stardroidInspired byhttp://www.instructables.com/id/How-to-use-Iridium-to-get-her-to-say-Yes/Predictions Byhttp://www.heavens-above.com/Tracking data is courtesy of www.n2yo.comAnyone interested in helping? Fell free to email.Keywords: planetarium, astronomy, skymap, NORAD, satellitesRecent changes:*Beta Testing*, Please submit error logs!There was some problems With satellite positions do to location look-up methends, this should have been fixed in the this version.Please submit error logs or Email suggestions.'
+p4
+tp5
+tp6
+.

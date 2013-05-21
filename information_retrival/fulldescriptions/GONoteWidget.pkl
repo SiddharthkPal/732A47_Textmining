@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Note Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'The function of sync Works now!Choose your account and have try now\xef\xbc\x81GO Note Widget is a good helper to manage your schedules and notes. You can use task style to add schedules. You can also use note style to quickly write down your thoughts. You can even use doodle style to record your plan by just simply draw a picture. Moreover, you can share your schedule with your friends.Like other GOWidgets, theme is also supported.What are you waiting for? Choose your style and note it now!Available Size:- 1x1- 2x2- 4x3Actions:- Add schedules- Alarm notification- Graffiti painting- Change skin- Share notesHow to add GOWidgets on your home screen?- Long press on your home screen in GO Launcher EX. Press the GOWidget option and choose the widget you like. Make sure you have enough room for the widget.Recent changes:1.\xef\xbc\x88Fix\xef\xbc\x89Problem when load on Android 4.2'
+p4
+tp5
+tp6
+.

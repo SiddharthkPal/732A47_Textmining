@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InsplaceUs - Instagram checkin '
+p1
+tp2
+(S'Description:'
+p3
+S"You love travel?You fancy taking photos and doing more of it?You used to sharing your favorite places with friends?More than 100.000 users using InsplaceUsIf you \xe2\x99\xa1 Instagram you will \xe2\x9d\xa4 InsplaceUsWith InsplaceUs app, you can easily create unique and beautiful photos to share your location with your friends.\xe2\x98\x85 Auto location detection\xe2\x98\x85 Auto captions\xe2\x98\x85 Add your location near by as you like\xe2\x98\x85 Share with your friends extremely fast via Instagram, Facebook or EmailLet your creativity blossom with 26 awesome templatesDownload InsplaceUs right now to share your moments and your favorite places to remember !!! \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85If you love InsplaceUs lets follow us on Instagram @instextusIf you have any issues with InsplaceUs please give us a feedback via email right in App instead of give a negative review, it will help us so much to make app better.We will update new templates each version so you should check back usuallyRecent changes:Hey, we are working very hard to deliver new version 1.2.5 for you.Let's try itVersion 1.2.5:New way to get location more accurateImprove picture qualityImprove performaceFix Camera Flash issue when open app.Minor change in UI-----If you have any issues with InsplaceUs please give us a feedback via email right in App instead of give a negative review, it will help us so much to make app better."
+p4
+tp5
+tp6
+.

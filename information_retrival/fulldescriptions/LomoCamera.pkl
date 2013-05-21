@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lomo Camera '
+p1
+tp2
+(S'Description:'
+p3
+S"The best Lomo Camera app that helps you make amazing photos.12 completely different filters based on the real ones!Our application is a fully-functional emulator of the cameras below:* Lomo CameraTake photos in lomo style. Nice vignetting along with a processing will make you feel like you are using real Lomo camera.* Old CameraWhat? Is it my android or a real camera? Low contrast and a lot of scratches will remind your granmother's photos. * Underwater Camera Have you every seen all these paper cameras in boxes that divers take? You will have a chance to test them!* Square PhotosThe most popular format is a 'square'. Take square photos.* Polaroid Photos With CaptionsCreate polaroid photos with captions and send funny messages to your friends.* Tilt ShiftYou can make the big objects look small with 'Tilt Shift' camera. For better effect please make sure that you take shots from the point which is high enough.* Fish EyeDon't try it with faces of your friends. EVER!* 4 in OneTake 4 shots and the camera will mix them together in 1 photo.* SupersamplerThe camera is similar to the one above but the shape of each photo differs.* Multiple ExposureFor every camera there are 12 effects.* Cross process* Push process* Black & White* Old Photo* Vintage* Sepia* Rusty* Polaroid* Paper* Dreams* FilmAll cameras and effects are free.SharingShare your photo with Instagram, Facebook, Gmail, Evernote and others.Alternative to instagram and hipstamatic iPhone applications.Facebook: http://www.facebook.com/onemanwithcameraSite: http://onemanwithcamera.com/Recent changes:All cameras are free now!"
+p4
+tp5
+tp6
+.

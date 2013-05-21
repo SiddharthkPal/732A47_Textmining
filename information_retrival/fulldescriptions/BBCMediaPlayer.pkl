@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BBC Media Player '
+p1
+tp2
+(S'Description:'
+p3
+S"BBC Media Player works with other BBC websites and applications to provide video and audio playback on your Android phone. Currently it is integrated with BBC iPlayer and the BBC Sport website. Other applications and websites will follow.Once you have downloaded this application, continue to use BBC iPlayer or the BBC Sport website on your Android device as normal. Whenever you play any video or audio the BBC Media Player will launch and handle playback of the content.Permissions-----------You may notice that when you install the app it asks you for permission to access your phone's network communication, phone calls, and system tools.These are standard Android app permissions that are defined by the Google Android platform. The 3 permissions the BBC Media Player app asks to use are: \xe2\x80\xa2 Network Communication - full internet access.Granting this permission provides the BBC Media Player app with access to the internet so it can play programmes.\xe2\x80\xa2 Phone Calls - read phone state and identity.Granting this permission provides the BBC Media Player app with phone communication status and notifies the application if the phone rings or a phone call is in progress. We only use this permission to ensure that the BBC Media Player pauses if you receive a phone call and temporarily reduces its audio when you receive a txt message while watching a programme. The BBC Media Player app does not access or store any personal information, phone numbers or IMEI numbers.\xe2\x80\xa2 System tools - preventing phone from sleeping, retrieve running applications.Granting this permission provides the BBC Media Player app with the ability to prevent the phone going to sleep when you are watching a programme.Recent changes:NOTE: We are currently rolling out a fix across the BBC website to address the issue with Google Chrome and some other browsers in which a user is asked to install BBC Media Player even though it is already installed on the device.This update:* Bug fixes* Full screen mode on JellyBeanKnown issues:* Xperia Arc S running Android v4.x does not work* Google Chrome v25 does not work"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Management Tips '
+p1
+tp2
+(S'Description:'
+p3
+S'300 free tips for you on Happiness, Success, Efficiency, and Management - just press for as many as you like.  The paid app has two more subjects - Influencing and Negotiation Skills  - and a lot more tips - over 2000 in fact, so you could have a daily nudge of inspiration for over six years.  Compiled by UK management guru Chris Croft.'
+p4
+tp5
+tp6
+.

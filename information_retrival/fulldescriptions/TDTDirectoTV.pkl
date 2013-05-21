@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TDT Directo TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Para ver Televisi\xc3\xb3n en directo gratis en terminales con versiones de Android anteriores a Android 4*, una aplicaci\xc3\xb3n c\xc3\xb3moda y r\xc3\xa1pida que te permitir\xc3\xa1 ver en directo los principales canales de Tv en Espa\xc3\xb1a, tanto nacionales como auton\xc3\xb3micos. De la forma m\xc3\xa1s c\xc3\xb3moda, ya que todos los canales disponibles se encuentran en una misma pantalla para que puedas seleccionar el canal deseado m\xc3\xa1s r\xc3\xa1pidamente y con un solo clic verlo en directo a pantalla completa con la mejor calidad. Sin duda la mejor aplicaci\xc3\xb3n para ver Tv en directo.**LA APLICACI\xc3\x93N NECESITA FLASH PLAYER PARA FUNCIONAR.*Esta aplicaci\xc3\xb3n esta DISE\xc3\x91ADA para versiones de ANDROID 2 y ANDROID 3. Para Android 4 descarguen la aplicaci\xc3\xb3n Gratuita "Tdt Directo Tv ICS".NOTAS:-Algunos canales tardan varios segundos en cargar, tened paciencia!!-Algunos canales no emiten en directo las 24 horas.IMPORTANTE: Esta aplicaci\xc3\xb3n solo tiene accesos directos a las webs oficiales que emiten a trav\xc3\xa9s de internet de forma legal. Todo el contenido mostrado en la aplicaci\xc3\xb3n Tdt Directo Tv son enlaces a terceros, de dominio p\xc3\xbablico y totalmente ajenos a la aplicaci\xc3\xb3n.Recent changes:- Optimizaci\xc3\xb3n de la aplicaci\xc3\xb3n, corregidos errores.- Mejorada la compatibilidad con dispositivos.- Detecci\xc3\xb3n de versi\xc3\xb3n de Android.- Mayor Rendimiento.'
+p4
+tp5
+tp6
+.

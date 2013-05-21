@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fidelity Investments '
+p1
+tp2
+(S'Description:'
+p3
+S"The Next Generation Fidelity App for Android\xe2\x84\xa2 is a powerful mobile solution providing you with real\xe2\x80\x90time analysis, research, and trading tools in the palm of your hand.Access brokerage and workplace savings accounts*, with the ability to trade stocks, options, ETFs, and mutual funds. Great features like Fidelity BillPay\xc2\xae and mobile check deposit offer added convenience, while real\xe2\x80\x90time quotes and advanced charting make finding new investing opportunities even easier.What\xe2\x80\x99s new in our Next Generation Fidelity App for Android\xe2\x84\xa2:Customizable Home ScreensAn industry\xe2\x80\x90first\xe2\x80\x94nine customizable home screen options give you immediate access to the information that\xe2\x80\x99s most important to you. Choose from key, tile\xe2\x80\x90based screen options such as your accounts, a heat map view of your watch lists, U.S. Markets, World Markets, Market Movers, and more.Advanced ChartingFrom the quote screen, simply rotate to landscape mode to access a fully interactive advanced chart. You can layer technical indicators onto the chart (e.g. moving average, exponential moving average), or compare the performance of two securities.News & VideoStay on top of breaking market news with our all\xe2\x80\x90new news experience, complete with film\xe2\x80\x90strip headlines and streaming market update videos four times a day.AlertsA message center where you can view and manage your pricetriggers and receive trade notifications.Enhanced Cash ManagementBanking enhancements, including access to your credit card details such as balances, payments and rewards, and a cash management overview page that includes current balance, interest earned, and ATM fee rebates.To learn more about Fidelity's App, check out our video atwww.fidelity.com/android.* Workplace savings account functionality is limited to viewing account information only. The images are for illustrative purposes only.Fidelity, Fidelity Investments and the Pyramid design logo are registered service marks of FMR LLC.Fidelity Brokerage Services LLC, Member NYSE, SIPC, 900 Salem Street, Smithfield, RI 02917631706.2.0Recent changes:Equity Dividend InformationMinor UI UpdatesBug Fixes"
+p4
+tp5
+tp6
+.

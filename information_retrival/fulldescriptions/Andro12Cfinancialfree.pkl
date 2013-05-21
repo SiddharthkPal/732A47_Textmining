@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Andro12C financial (free) '
+p1
+tp2
+(S'Description:'
+p3
+S'Andro12C is a HP 12C emulator for Android devices. It is feature-complete with all financial, statistical and programming functions implemented.Recent changes:Fixed NPV: stack is pushed and result is copied to PV register'
+p4
+tp5
+tp6
+.

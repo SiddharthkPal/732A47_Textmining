@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SayHi - Find People Nearby! '
+p1
+tp2
+(S'Description:'
+p3
+S"SayHi can help you find new people nearby!You're going to fall in love with SayHi by the following features:1. Find out people nearby. By finding them with map, you can do video chat with them freely.2. Interact with people by sending    * Text messages, emojis / text emojis    * Voice messages like walkie talkie    * Pictures taken from camera or choosen from gallery    * Exquisite gifts3. Check out and see    * Every message's status, like whether it's sent successfully or read by others    * Others' profile, like how far it is from you, what they want to do or whether it's hot4. Many fun ways to interact with people by installing various plug-ins    * Change app skin into a totally different look    * Send text emojis    * Pick a topic to talk about among hundreds    * More plugins are coming soon.Say Hi is free and fast. Why not see for yourself?Recent changes:3.01Fix FC in QVGA3.0Improve user interface. Chat bubble style supported2.20Fix smileys FC launched in shortcut. Fixed can't display icons error in some phones2.18Add animations2.13Fix can't use 3D map bug in some devices2.10Use 3D map2.01Add advance search1.98Improved UI. Fixed bugs"
+p4
+tp5
+tp6
+.

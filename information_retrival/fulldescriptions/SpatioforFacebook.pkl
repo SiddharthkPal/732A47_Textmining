@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Spatio for Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S"Spatio is a fast, easy-to-use Facebook client for Android, with a nice and clean Holo UI.Features:- 2 themes (light and dark)- support for multiple Facebook accounts- quick access to your news feed, with nice photo previews- dashboard view with links to your wall, profile, photos, friends and pages- post statuses and photos to all your accounts or pages- offline support (write posts while offline and they will automatically be sent when you have an Internet connection)- view friends' wall, photos and pages they like- share the posts you like- find friends and pages- filter the news feed by muting keywords or senders- support for posting on TwitterNote that we're showing ads in the application, on the main screen.It's currently the only way we can further support the development of the app.We don't have a paid version, because Google doesn't allow this yet in our country. But we hear you and we'll try to find a solution.Spatio is young, so it may not yet have all the features you need.We're doing our best to add more in the future versions.Upcoming features:- groups- home screen widget- messages (inbox)- notifications- eventsFacebook: https://www.facebook.com/spatio4androidGoogle+: https://plus.google.com/116566079620177524656/postsTwitter: @spatiolabs - https://twitter.com/SpatioLabsRecent changes:First version. Lots of great things to come!This release includes several bug fixes and performance improvements over the previous beta versions."
+p4
+tp5
+tp6
+.

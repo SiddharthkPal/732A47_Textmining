@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LOVOO Flirt, Chat, Single App '
+p1
+tp2
+(S'Description:'
+p3
+S'LOVOO - flirt, chat, meet new people \xe2\x98\x85 find dates & singles & have fun! Amor is around you! Get the love app radar & make party.\xe2\x98\x85 Discover new interesting people near you! Simple, easy & everywhere! THE SOCIAL DISCOVERY NETWORK lets you FLIRT and MEET NEW PEOPLE.\xe2\x98\x85 Currently supported languages: English, T\xc3\xbcrk\xc3\xa7e, \xc4\x8de\xc5\xa1tina and german \xe2\x98\x85WINNER of the SHOW YOUR APP AWARDS 2012 - voted by the audience for the best app in Germany.ALL FEATURES ARE FOR FREE!With the LOVOO FLIRT RADAR and many other dating features you\'ll find the right people in your city - it has never been so easy!\xe2\x98\x85 Not just for singles! \xe2\x98\x85\xe2\x98\x85 Instant access with Facebook Login! \xe2\x98\x85\xe2\x98\x85 Use LOVOO completely free - no subscriptions necessary! \xe2\x98\x85\xe2\x99\xa1 THE LOVOO USERS SAY Best flirt app!\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 (Street Soul Music - 23.12):In my opinion the best flirting app out there!And since there is a Fakecheck, it is alwayson the safe side!Tip!\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 (Moni lovoo - 23.12):You are not alone;) anywhere, anytime and crazy people. It\'s fun and addictive ;)wonderful app\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 (Rustam Isi - 23.12):By "Lovoo" I met my soul mate. Want to give you a huge big thank you! So thank you .. nice;) I will recommend it to everyone!For the additional VIP-feature we offer three different packages. The costs will be charged on your iTunes account. Deactivate the automatic renewal of the subscription in the settings of your iTunes account at least until 24h before the package will continue for another period. Already started package-periods cannot be canceled before the end of their cycle. You do NOT need the VIP feature to use LOVOO!PERSONAL CUSTOMER SUPPORTGet Help! Our support team is ready forproblems with free advice and assistance.We welcome all suggestions and criticisms.Send your feedback to support@lovoo.netTags: Girls, boys, chatting, hot, match, amigo, woman,men,dating, single, lavoo, chatten, amor, singles, datesRecent changes:- New navigation with Android Actionbar- Faster and easy tab-swipe- New profile view- Faster and larger list and gallery views- Overall layout improvements- Bugfixes and stability improvements'
+p4
+tp5
+tp6
+.

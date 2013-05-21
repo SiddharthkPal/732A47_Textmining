@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cardiology at Hand '
+p1
+tp2
+(S'Description:'
+p3
+S'Stay connected and save time!With the rapid publication of news and research articles it\xe2\x80\x99s harder than ever to stay focused on the most relevant and useful content.  Download the Cardiology at Hand App for your mobile device and access instant updates from the field of cardiology, including cutting-edge article abstracts, news and details of upcoming events.Simple and easy to navigate, Cardiology at Hand presents an optimized reading experience for your mobile device. You can easily tag content for convenient reading and share with your friends and colleagues through email, Twitter, Facebook, and more!Cardiology at Hand not only offers access to comprehensive, in-depth article abstracts from Wiley-Blackwell\xe2\x80\x99s entire portfolio of cardiology journals, but it also provides FREE content and unlimited access to three leading Journals: Clinical Cardiology, Congestive Heart Failure and The Journal of Clinical Hypertension. 1.\tInstant, real-time access to the latest information from Wiley-Blackwell\xe2\x80\x99s portfolio of cardiology journals  including article abstracts, news, and upcoming events2.\tNo need to manually update; your application automatically refreshes with the most up to date content3.\tAbility to read and access content offline as well as save stories for later reading4.\tShare content via email or through social networking sites including Twitter and Facebook'
+p4
+tp5
+tp6
+.

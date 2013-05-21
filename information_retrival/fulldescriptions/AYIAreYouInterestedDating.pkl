@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AYI - AreYouInterested Dating '
+p1
+tp2
+(S'Description:'
+p3
+S'Over 68 million people have installed AYI to date, chat and flirt with other singles nearby!AYI \xe2\x80\x93 AreYouInterested is a top social dating application with millions of singles looking to flirt, date, and chat. Meet new people through your friends and interests.The AYI Android application makes it virtually effortless to meet potential dates instantly with an app that is intuitive, easy and fun to use. With millions of members across our online dating products including the AYI.com website, Android Application and Facebook application, AYI is the premier dating destination for singles on social networks. Downloading the app is 100% free!Key features include:Browse pictures of local singles and fave or chat with them.View your matches and find out who likes YOU!Syncs with your Facebook account, so no lengthy questionnaires to completeMeet people in your area right now. What are you waiting for?As seen in Mashable, CNN, TechCrunch and the Washington Post.AYI - Are You Interested has over 68 million installs on the Facebook platform and is owned and created by SNAP Interactive, Inc. SNAP Interactive develops, owns and operates online dating and social networking applications for websites and mobile platforms.WE LOVE YOUR FEEDBACK:Website: www.ayi.comSNAP Interactive: www.snap-interactive.comTwitter: @AYIFacebook: http://www.facebook.com/AYIRecent changes:2.0.0 -All-new Android native application -Streamlined navigation -Minor bug fixes1.9.2 -Improved Edit Photo Section. This requires a new WRITE_EXTERNAL_STORAGE permission to temporarily store the photo during capture.1.9.1 -Fixed a bug affected some users with Facebook Connect -Fixed some rotate issues'
+p4
+tp5
+tp6
+.

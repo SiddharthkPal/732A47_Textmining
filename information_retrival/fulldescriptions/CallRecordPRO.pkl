@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Call Record PRO '
+p1
+tp2
+(S'Description:'
+p3
+S"This application has as basic purpose to record all your call (incoming and outgoing). Please be noticed: in some legislation isn't legal to record your conversations if you don't inform your partner.Please be noticed that due to legal restrictions and/or limitation of Android phone (hardware and software) isn't possible to work on all phones.It was design to find the best configuration for each device and use. Most of the features are available in other programs only in paid version.Features:-Record incoming and outgoing call from call.- Enable/Disable call recording- Play/Stop recorded audio by touch on the item- Delete recorded items- Lock recorded items to prevent from auto-cleaning- Send recorded items to email - Enable/Disable notifications- Configure automatic cleaning- Recording source. For some phones where Line recording does not work - better use Own voice or Opposite voice (it still might records both sides).- Recording quality. It depends on the phone, so please try different- File format-All files are saved in memory card in location /mnt/sdcard/CallRecorderPro****************   Please make a short test call to know if it work on your device  ****************Recent changes:Update and add extra checks to keep application running even the phone don't offer some functions or exist some time-outs in processing data."
+p4
+tp5
+tp6
+.

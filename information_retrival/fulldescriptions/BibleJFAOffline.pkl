@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bible JFA Offline '
+p1
+tp2
+(S'Description:'
+p3
+S'Bible OfflineLanguage:PortugueseVersion:Jo\xc3\xa3o Ferreira de AlmeidaB\xc3\xadblia OfflineFeatures:- Works Offline- Installation in SD Card (Version 2.2 or higher).- Search words inside the Bible- Support for small screen phones. Like the Xperia Mini- Fix the chapter screen for different screen sizes- Fix the bible search when the search return no match.- Share in SMS, Twitter, Facebook, Email etc- Night Read Mode- Option to buy the Pro Version (with no ads)- Bookmarks.- Books in alphabetically order (optional).- Higher fonts selection.- Tablet layout (HD).- Hyms- Cantor Crist\xc3\xa3o- Multi words search- Notes (Personal Notes)- Marker verse colors- Copy Verse- Talking Verse (beta)- Reading Bible PlanRecent changes:- Hyms- Cantor Crist\xc3\xa3o- Multi words search- Better Search- Color marker.- Notes.- Sharing more than one verse.- New Bookmark interface.- Talking verse (beta).- Bookmark in bible order- Fixed some bugs- Spelling verses corrected- Better icon images'
+p4
+tp5
+tp6
+.

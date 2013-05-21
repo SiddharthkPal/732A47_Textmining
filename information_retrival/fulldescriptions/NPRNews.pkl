@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NPR News '
+p1
+tp2
+(S'Description:'
+p3
+S"- Read, listen, or create a playlist of your favorite NPR stories and share with friends.- Hear live streams from hundreds of NPR stations: search by location (GPS) or zip code / call letters - Listen to programs like Morning Edition, All Things Considered, Talk of the Nation, Fresh Air, and Wait, Wait\xe2\x80\xa6Don\xe2\x80\x99t Tell Me MoreRecent changes:We are happy to announce we have a listening widget. Finally! The player and playlist experiences have been streamlined. We've hopefully fixed some of the playlist issues around listening to entire programs and cleaned up some other pesky bugs.We've also added sponsorship to our story pages. You can learn more about the different kinds of support NPR needs to maintain itself - including corporate sponsors - here: http://www.npr.org/about/support/"
+p4
+tp5
+tp6
+.

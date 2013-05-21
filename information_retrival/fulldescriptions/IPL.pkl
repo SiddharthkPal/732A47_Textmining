@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IPL '
+p1
+tp2
+(S'Description:'
+p3
+S'The official Board of Control for Cricket in India App - Simple, Fast, Scores, Commentary, In-depth analysis, News, Stats, Exclusive Interviews, Twitter. The best way to follow all of your favorite teams, with coverage of Indian Premier League and Team India matches. Live play-by-play, stats, standings, news and video.Recent changes:The application has been fully updated in anticipation of IPL 2013. Standings, news and video, venue information, and IPL statistics. You can switch between "BCCI" and "IPL" modes by clicking on the button at the bottom of the main screen.v2.0.2 Adds day & time to schedule listing; changes SH abbreviation to SRH; fixes incorrect video filtering; updates logos for DD and KXIP; aesthetic tweaks'
+p4
+tp5
+tp6
+.

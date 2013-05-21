@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TweetDeck (Twitter, Facebook) '
+p1
+tp2
+(S'Description:'
+p3
+S"TweetDeck is your mobile browser for staying in touch with what's happening on Twitter, Facebook, Foursquare and Buzz. TweetDeck makes it easy to stay up to date and organized no matter where you are.(A Twitter, Facebook, Foursquare or Buzz account is required)More info: http://bit.ly/deFnGORecent changes:- removal of deck.ly posting"
+p4
+tp5
+tp6
+.

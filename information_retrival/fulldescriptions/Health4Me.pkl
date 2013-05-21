@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Health4Me '
+p1
+tp2
+(S'Description:'
+p3
+S'Save time managing your health care.  The UnitedHealthcare Health4Me mobile application is designed to help you manage your health care easier and faster. Whether you want to find physicians near you, check the status of a claim or estimate your health care costs, Health4Me is your go-to resource for everything related to your health and is designed to be:.\xe2\x80\xa2 Mobile.  It goes where you go. Use the location search feature to find a physician or facility near you. Whether you need a specialist or general practice, the largest selection of network doctors is at your command.\xe2\x80\xa2 Personal. From emailing your health plan ID card information to checking on medical spending accounts, Health4Me is the resource that is designed to work for you. And you can rest assured that your information is absolutely confidential. \xe2\x80\xa2 Simplified. myHealthcare Cost Estimator can make your health options easier by comparing procedure, provider, price and place.\xe2\x80\xa2 Responsive. The Easy Connect service lets us know of anything you may need help with. A representative will get back to you with information about claims, benefits and more without having to wait on hold.\xe2\x80\xa2 Secure. Keeping your health information private is paramount to us.  You can rest assured that your information is absolutely confidential.  Key Features - Register for myuhc.com to enable both mobile and online services- Search for Physicians or Facilities by location or specialty- Locate Urgent Care facilities and ERs nearest your location- Estimate your health care costs- Use EasyConnect to let us know you want to talk about something and we\xe2\x80\x99ll call you back- View and share member ID Card - Contact an experienced registered nurse 24/7 for health information.- Check status of deductible and out-of-pocket spending- View Claims - Check your Health Reimbursement, Flexible Spending and Optum Bank Health Savings Account balances- Be assured of complete confidentialityRecent changes:\xe2\x80\xa2 Fixed intermittent logon issues and claims data access\xe2\x80\xa2 Fixed an ID card issue tied to jellybean'
+p4
+tp5
+tp6
+.

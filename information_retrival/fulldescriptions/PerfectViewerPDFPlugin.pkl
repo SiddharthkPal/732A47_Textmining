@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Perfect Viewer PDF Plugin '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a Perfect Viewer plugin.Let Perfect Viewer support PDF file.To use this plugin you must install Perfect Viewer ver 1.7+ first.*Attention! please make sure Perfect Viewer is not running before install the plugin.Or you can reboot your device after install the plugin.This plugin is license under GPL V3Source code can download from http://code.google.com/p/perfect-viewer-pdf-plugin/Recent changes:2012/12/29 Version 1.1.2-Supported password protected PDF files-Supported move to SD*Attention : After update this version please stop running Perfect Viewer use task manager or reboot device to take effect.'
+p4
+tp5
+tp6
+.

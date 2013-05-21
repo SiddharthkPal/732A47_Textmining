@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ISS Detector '
+p1
+tp2
+(S'Description:'
+p3
+S'Have you seen the International Space Station? It is visible with the naked eye!ISS Detector is the must have app for every one who likes astronomy.ISS Detector will tell you when and where to look for the International Space Station or Iridium flares. You get an alarm a few minutes before a pass. You will never miss a pass of the International Space Station and you will never miss the bright flashes of the iridium communication satellites. ISS Detector will also check if the weather conditions are right. A clear sky is perfect for spotting.Extensions will enhance the functionality of ISS Detector. With an in-app purchase you can add comets and planets, amateur radio satellites and famous objects, like the Hubble space telescope or the Chinese space station Tiangong.* Overview of the coming passes* Weather conditions for perfect sightings* Radar screen with path indication* Current location on a map* Detection of Iridium flares* Notifications and Alarms* Share sightings with whatsapp, twitter, gmail, email etc.* Automatic location and timezone detection* Widget* Dedicated tablet layoutAvailable Extensions (in-app purchase):* Radio Amateur SatellitesTrack dozens of ham and weather satellites* Famous ObjectsTrack Hubble, X-37B, Fitsat, Tiangong and more* Comets and PlanetsTrack comets as they come closer to earth. Perfect for C/2011 L4 Panstarrs in March or C/2012 S1 ISON in November.Enable ISS Detector to display the positions of the planets on the radar view.ISS Detector combines data from Nasa, Heavens-above.com, minorplanetcenter.net and weather from yr.no.Recent changes:Changes in v1.96.02:- Fix for crash in manual location setting- Message when there are no passes for the ISS- Fix for refresh crash on tablets- Fix resetting list to start'
+p4
+tp5
+tp6
+.

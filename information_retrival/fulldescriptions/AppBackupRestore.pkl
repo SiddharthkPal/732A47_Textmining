@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'App Backup & Restore '
+p1
+tp2
+(S'Description:'
+p3
+S'App Backup & Restore is used to backup and restore apps for android.** We are very sorry about so many updates. If you still cannot backup succesfully, please uninstall this app and re-install again.Features:- Backup apps to SD card- Batch backup- Backup market link for protected apps- Restore apps from SD card- Batch restore- Quick uninstalling- Sort apps by name, install date, size- Auto backup on install- Show storage usage- Multi version backup- Search app from Google market- Send apk file by email- Share market link- Support App2SD*** Notice: App Backup cannot backup data or settings of apps for you, but it only backup the apk files.FAQ:-----Q: Why can\'t I restore apps?A: Go to "System Settings"->"Applications", enable the "Unknown sources" setting, then you can restore apps from SD card.Q: Does it backup data of apps?A: No, currently it only backup the apk files of apps.Q: How can I send the archived app to drop box?A: It requires the dropbox already installed in your phone, click "Archived" Tab, long click on the app that you want to send, then click "Dorpbox".Q: What are "Protected" apps?A: "Protected" means that the apps are protected by "Copy Protection", and the apk file of them cannot be copied to SD card. On backup, the market links of them will be saved for restoring.Q: How to check all un-archived or un-installed apps?A: Click on the checkbox in the left bottom. The checkbox on left bottom has the "check all unarchived" function. There\'re three states: 1.all grey=uncheck all  2. all green= check all 3. green check mark and grey square=select all unarchived***Any question, please send feedback to us by clicking "menu"->"feedback" in the app******************************INFOLIFE, Make Life Easier!***************************To help us translate thiss app to your native language, please sign up in http://crowdin.net/project/app-backup-restorethank you very muchRecent changes:-v2.1.1#Fix max versions to keep bug#Fix long click and delete bug#Mark protected apps for Android 4.x-v2.1.0#Fix some bug lead to backup failed#Fix change backup path bug-v2.0.9#Add French, Spanish, Greek, Hungarian, Italian, Japanese, Russian, Portuguese(Brazilian)#Log backup failure cause'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vpn One Click '
+p1
+tp2
+(S'Description:'
+p3
+S'Vpn One Click protects your privacy online, unlocks all blocked services like Twitter,Facebook,Skype,etc., by connecting to a Virtual Private Network Server. Your public ip address will be different from the real one and the connection will appear as coming from a different country to full protect your privacy. Furthermore, your internet connection will be fully encrypted.The servers are available in many different countries to allow to change your public ip address and also to watch your national Tv from abroad.The available countries are: USA,Canada, Australia, United Kingdom,Germany, France, Netherlands, Switzerland,Italy,Singapore, India, Egypt, Russia, Sweden, Spain, Turkey and Hong Kong.Use the service with NO traffic limit. Real free of charge Vpn service!There are specific versions for:- Windows,- Mac,- Ios (iPhone/iPad/iPod).Please visit www.vpnoneclick.com or http://216.185.105.35/vpnoneclick if blocked from your country.Recent changes:- Added new servers in Japan and Mexico;For any problem found, please contact the support available 24 hours per day using the "Contact Support" from the application itself. We always appreciate your positive comments and suggestions on Google Play Store :)'
+p4
+tp5
+tp6
+.

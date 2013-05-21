@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ADJ Basic - DJ Player '
+p1
+tp2
+(S'Description:'
+p3
+S'ADJ is the most advanced digital DJ solution for android. Transform your device into a complete and portable DJ system.Features:   - Very accurate waveform visualization with diferent zooms and frequency tones (Basic & Pro)   - IN/OUT and beat loops (Pro)   - Automix mode with bluetooth and headset control (Pro)   - Async BPM detection. (Pro)   - Split Right channel to Pre-Fader Listening(PFL)  and Left to master output (Pro)   - Multitouch in Android3.0 or above (Basic & Pro)   - Automatic pitch & beat sync (Pro)   - Touch & scratch (Pro Version)   - Low-pass(Pro), hi-pass(Basic & Pro), reverb, (Pro) echo and (Basic & Pro) flange effects   - 3-Band Equalizer (Basic & Pro) with kill button (Pro)   - Pitch Preserving (Pro)   - Support MP3, WAV and OGG (Basic & Pro)   - Pitch adjust 5%-50%(Pro), fine pitch and bend (Basic & Pro)   - Low latency response (even lower on jelly bean)NOTE: Only recomended for +1Ghz and +512MB RAMFeel free to contact me for suggestions or new features.TAGS:Player, Mixer, Ableton, Traktor Pro, Maschine, Virtual Dj, BPM Studio, Atomix, DSS DJ, Mixx, Mixer, Auto-mix, cueing, loop, player, disc, vinyl, dj, crossfade, remix, tempo, pitch, shift, auto-sync, sync, synchro, dj studio, Pocket DJ, DJ control, beat, beats, party, dj, mixer, deejay, channel, level, sliders, volume, PFL, Mixer, DJ, RMX, Turntable, Scratch, DJing, Audio, Player'
+p4
+tp5
+tp6
+.

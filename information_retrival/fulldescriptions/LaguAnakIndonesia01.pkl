@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lagu Anak Indonesia 01 '
+p1
+tp2
+(S'Description:'
+p3
+S'Lagu Anak Indonesia 01 adalah aplikasi buatan Indonesia yang bertujuan mengenalkan lagu-lagu anak era 80an yang kini semakin menghilang. Melalui karakter Uwa, Mica, dan Pito dan gerakan mereka yang lucu, kami mencoba menghadirkan lagi kegembiraan anak anak masa kini dan memberikan mereka musik yang cocok untuk usia mereka. Fitur : *Animasi original menarik Uwa, Mica, dan Pito *Disertai Lirik on/off *Aman untuk anak anak Daftar Lagu : * Pelangi Pelangi (gratis) * Balonku Ada Lima (gratis) * Bintang Kecil * Lihat Kebunku * Cicak cicak di dinding * Dua Mata Saya Apabila anda mengalami masalah teknis, atau memiliki kritik dan saran silakan langsung mengirimkan email ke admin@pelangiinteraktifstudio.com'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jobs Notifier '
+p1
+tp2
+(S'Description:'
+p3
+S'Jobs Notifier by LebHR is the first and only application of its kind in the world of "finding jobs". It allows you to search for jobs and get notified through your mobile phone whenever a job matching your criteria is posted. You as a job seeker can then click on the job, view details and apply.Job Notifier grabs job posts from different job boards, and you can control how often to receive notification.Let us help you find your dream job!Recent changes:Version 4 (1.6.0):- several fixes for crashes reported by usersVersion 3 (1.5.0):- added support for more jobs by supporting forum.lebhr.com- jobs listing now displays 2 separate colored jobs (coming from hirelebanese and forum.lebhr)- fixed restart crash issue in the application'
+p4
+tp5
+tp6
+.

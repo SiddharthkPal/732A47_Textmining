@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FUSSBALL.DE '
+p1
+tp2
+(S'Description:'
+p3
+S'Hol dir Deutschlands umfassendste Fu\xc3\x9fball-App auf dein Smartphone \xe2\x80\x93 News, Videos und Ergebnisse von der Kreisklasse \xc3\xbcber die Bundesliga bis zur Champions League.+++Aktuelle Ergebnisse und Tabellen zur Fu\xc3\x9fball Bundesliga, 2.Bundesliga, 3.Liga, DFB- Pokal, Champions League, Europa League, WM, EM, Internationalen Ligen und den Amateuren sowie aktuelle Infos zu Deinem Verein \xe2\x80\x93 immer dabei auf deinem Smartphone+++Neben dem kompletten Profibereich inklusive Live-Ticker zu den wichtigsten nationalen und internationalen Wettbewerben findest du auch umfangreiche Infos aus dem Bereich der Amateure. Mit der FUSSBALL.DE \xe2\x80\x93App hast du Zugriff auf alle Ergebnisse und Tabellen des Amateurfu\xc3\x9fballs.Dar\xc3\xbcber hinaus kannst du in der Rubrik \xe2\x80\x9eMein Verein\xe2\x80\x9c deine eigenen Klubs bookmarken. Somit beh\xc3\xa4ltst du alle Ergebnisse und Tabellen dieser Vereine schnell und einfach im Blick.Der Fu\xc3\x9fball-Ticker bietet einen schnellen \xc3\x9cberblick \xc3\xbcber die laufenden Begegnungen.Du hast noch Fragen? Oder dir fehlt noch was? Dann schicke uns einfach eine Mail mit deinen Anregungen und Verbesserungsvorschl\xc3\xa4gen an service@fussball.de!Also: Herunterladen, ausprobieren und immer bestens \xc3\xbcber das Geschehen in deiner Liga informiert sein!FUSSBALL.DE.Alle Ligen.Alle Tore.Alle Fans.Folgende Wettbewerbe findest du in der App: Bundesliga, 2. Bundesliga, 3.Liga, DFB-Pokal, Amateure, Frauen-Bundesliga, Europa League, Champions League, WM, EM, internationale Ligen, Live-Ticker zu allen wichtigen nationalen und internationalen WettbewerbenRecent changes:Das Update enth\xc3\xa4lt folgende Neuerungen:   - Optimierung der Suchfunktion   - Anpassung/Skalierung der Bildgr\xc3\xb6\xc3\x9fenDanke f\xc3\xbcr die zahlreichen Kommentare und Anregungen - wir werden die App f\xc3\xbcr Euch st\xc3\xa4ndig weiterentwickeln. Mit sportlichen Gr\xc3\xbc\xc3\x9fenDein FUSSBALL.DE Team'
+p4
+tp5
+tp6
+.

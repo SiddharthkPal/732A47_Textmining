@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Flight Simulator Boeing Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Fly a Boeing 737-400 in a real world simulated environment! Features: - Real airplane physics. - 2 airports - Realist terrain. - Using Nasa\xe2\x80\x99s utility FoilSim 3 to calculate the physics of the airplane (really realistic). - Other aircrafts on scenario. - World is really huge! - 2 different tipes of view - Cockpit View - Airplane View - Situational simulated: - Engine failure if the aircraft hits a structure. - Heat and temperature problems on overspeed. The plane crashes on buildings and floor! This version is compact to fit Android devices, so you can enjoy the experience of real flight a Boeing 737-400!Recent changes:Now you can play the mission mode!- landing mission- take passengers from one airport to another- land a Boeing 737-400 experimenting some engine problems- free flight- improved audio and controls.- better graphics, environment and performance.- enhanced shadows, more realistic game.'
+p4
+tp5
+tp6
+.

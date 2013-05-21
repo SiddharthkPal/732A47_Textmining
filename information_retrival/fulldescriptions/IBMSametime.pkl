@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IBM Sametime '
+p1
+tp2
+(S'Description:'
+p3
+S"IBM Sametime for Android provides access to IBM's award-winning platform for Social Communications on today's hottest Android devices, now with phone and tablet support.  **** REQUIREMENT:  The IBM Sametime Mobile Client for Android devices does not connect directly to a Sametime Community Server.  The Sametime 8.5.2 IFR 1 Proxy Server must be deployed in your infrastructure environment in order for the Android Sametime client to work.  Check with your IT department to see if this is the case.  You will need to obtain the Sametime proxy server address and port to configure the client.  After installing the application enter the proxy server address in the server field in the format :, then enter your Sametime credentials  and select the Next button. Features:-  Support for IBM SmartCloud-  Support for Android phones and tablets-  Person to person and Group chat-  Improved, selectable communities from login-  Text to speech-  Photo sending and receiving-  Updated business card interface-  Contact photos in Group view for tablet-  Background message notification-  Corporate directory contact searching-  Searching contact list by name or number-  Broadcast announcements-  Customizable presence status-  Chat history-  Contact view by group or favoritesIf you are using Sametime Unified Telephony (SUT), you also get the following:-  Place calls with SUT via a dialer-  Click to call-  Receiving SUT calls-  Your off-hook telephone status reflected to desktop Sametime application users-  A called person's caller ID shows your SUT number, not your private cell phone number-  Control of call routing rules-  Setting the preferred device for receiving SUT callsFor more information on Sametime, visit http://www.ibm.com/sametime or join us at our Sametime Blog at http://www.ibm.com/sametimeblog.A current list of IBM trademarks is available on the web as http://www.ibm.com/legal/copytrade.shtml.  All references to names in the images refer to fictitious company and ficitious persons, designed for illustration purposes only.Recent changes:-  IBM SmartCloud support-  Tablet support-  Updated UI for phone-  Improved chat history functionality-  Selectable communities"
+p4
+tp5
+tp6
+.

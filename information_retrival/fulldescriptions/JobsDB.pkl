@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'JobsDB '
+p1
+tp2
+(S'Description:'
+p3
+S"JobsDB is the No. 1 online recruitment website in the Asia Pacific region, with more than 140,000 jobs posted worldwide. According to Nielsen Opportunity Hunter Telebus Survey 2007-2011, JobsDB.com is the most used recruitment media among job seekers in Hong Kong for 5 consecutive years.JobsDB's comprehensive database helps you find high quality jobs of any kind, including full time, part time, contract and permanent jobs of more than 230 job functions in over 50 different industries. Now you can get access to the greatest job pool in Asia wherever you are by using our app! By signing up as a member at JobsDB.com and have your resume ready, you can even use this app to apply for your dream jobs within a few clicks! Thousands of great job opportunities and career prospects are waiting for you. Good luck with your job hunting!\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Features- Search and browse through jobs by country/region *, job function, and position & company keywords- Apply jobs by simply selecting a resume and optionally a cover letter. **- Download job contents and read them offline.- Save jobs to your online account and read them again later. **- Share jobs with friends by e-mail.* Currently supported countries/regions: Hong Kong, Indonesia, Malaysia, Philippines, Singapore and Thailand.** To use this feature, you have to login to your JobsDB account . Sign up NOW!! http://www.JobsDB.com/Recent changes:Fixed crash in job application"
+p4
+tp5
+tp6
+.

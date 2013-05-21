@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ClockQ - Digital Clock Widget '
+p1
+tp2
+(S'Description:'
+p3
+S"Simple digital clock widget for your homescreen. The power of this widget is in variety of customization options.Test the application at https://www.appsurfer.com/apps/19154-clockq-premiumAnalog Clock Version:See ClockQ Analog (http://play.google.com/store/apps/details?id=cz.kinst.jakub.clockqa)This application contains Advertisment.TO REMOVE ADVERTISMENT AND GET MUCH MORE FEATURES, PLEASE BUY AD-FREE PREMIUM VERSION  HERE:http://play.google.com/store/apps/details?id=cz.kinst.jakub.clockqproThe widget can be added to your homescreen by long-tapping on the homescreen or selecting from widget drawer (Android 4+).NEW: Widget can be added to your lockscreen on Android 4.2+NOTE:\xc2\xa0If you are experiencing cropped text, press menu and select Reset Settings.NOTE: Please do not move the app to SD-card. The widget can't be shown after that.Internet permission is needed for downloading weather information.Widget settings is accessible from your launcher as ClockQ application.NOTE: If your clock stops updating, exclude ClockQ from task-killer.NOTE: If you have trouble with installing (package-sign problem), uninstall previous version and install again from market.Features:- Choose between 26 GREAT FONTS- 4x2 and 2x1 widgets- Custom colors- Transparency option- Rotation option- Scale option- Shadow effect- Show date function- Show AM/PM- 24h/12h option- Tap to open custom application- Weather information \xc2\xb0C/\xc2\xb0F- Lockscreen support (Android 4.2 and higher)- Tablet UI- Holo theme, colors and fontsPlease send me your feedback: apps@kinst.cz If you want to help me translating this app to your language, contact me.Recent changes:Fixed weather showing ERROR"
+p4
+tp5
+tp6
+.

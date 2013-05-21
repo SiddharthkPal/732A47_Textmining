@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Caddee Score & Guide '
+p1
+tp2
+(S'Description:'
+p3
+S"All you need for your round of golf is gathered in your smartphone:\xe2\x80\xa2 Course Guides from more than 300 Nordic golf courses.\xe2\x80\xa2 GPS distances to the green. Some courses provide distance to the flag.\xe2\x80\xa2 Electronic scorecard for all Swedish and all Caddee-connected courses, shareable through mail, facebook and twitter.\xe2\x80\xa2 Community shared with www.caddee.se CADDEEMASTERJust login on Caddee.se CADDEEMASTER and all your rounds will be synched, as well as the friends you chose to follow. The community will also provide various stats of your achievements. In the community you are able to search and chose favourite courses and golfing friends.Caddee Score & Guide is unique thanks to accessing Caddee's high quality course guides. More than 300 Swedish and Scandinavian courses are currently provided, increasing day by day.Recent changes:Caddee app 2.0 is now including free GPS distances to the greens of 97% of all Swedish golf courses and all Caddee affiliated courses. The scorecard is now including a community function. Just login to Caddee.se CADDEEMASTER and your scores - as well as your chosen friends scores - will appear including various stats."
+p4
+tp5
+tp6
+.

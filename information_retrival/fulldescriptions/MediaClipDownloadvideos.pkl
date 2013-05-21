@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MediaClip - Download videos '
+p1
+tp2
+(S'Description:'
+p3
+S'Exceeded 300 0000 downloads![News]* Fixed a bug that I can not find some models.* Fixed a bug that I can not play streaming videos on some models.(2013/3/28)We are pleased to announce resolved so until March 18, but the following problems are out of the influence of load on the server from March 15.(2013/3/22)Download your favorite videos from websites! Can download videos from any website.[MediaClip] is an application that allows you to easily download videos, pictures, and PDF files in batches from the Internet.like a MulticlipYou can individually select and download videos, pictures, ringtone,and PDF files in batches from your favorite websites.And naturally you can replay saved video files even without an Internet connection.With the web search function, you can bookmark your favorite web pages.And, you can stream videos without downloading them.[MediaClip], the multipurpose and free downloader* Download/save videos, pictures, and PDF files* Replay/display videos, pictures, and PDF files* Web browser functionality* Replay videos with web browser* Bookmark your favorite sites\xe2\x80\x9cFunctions planned for update\xe2\x80\x9d* Being able to freely rename, move, and delete files* Being able to freely manage files with folders* Continuous playback for playlists* NoticeIt does NOT work for streaming videos like YouTube because of Google policy.* Twitterhttps://twitter.com/MediaClip_droid* Facebookhttp://www.facebook.com/pages/Mediaclip/104085483095114* Google Plushttps://plus.google.com/108728462793131011859/about* Contact ushttp://mediaclip.inquiries.appseals.com/inquiries/contact.new.php?url=PlayStoreRecent changes:Ad-hide feature release'
+p4
+tp5
+tp6
+.

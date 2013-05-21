@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Felleskatalogen '
+p1
+tp2
+(S'Description:'
+p3
+S'Felleskatalogens offisielle applikasjon for Android. Krever minst OS 1.6. Inneholder hele felleskatalogens preparatdatabase, s\xc3\xb8kbar etter generisk navn og merkenavn. Informasjon om indikasjoner, dosering, kontraindikasjoner, bivirkninger og priser for registrerte legemidler i salg i Norge. Foto av et stort antall legemidler. S\xc3\xb8kbart register over alle landets apotek, med telefon- og faksnummer.Recent changes:Ny funksjonalitet i pris- og refusjonsavsnitt. Enkelte mindre feilrettinger. Programmet kan overf\xc3\xb8res til SD-kort (app2sd).'
+p4
+tp5
+tp6
+.

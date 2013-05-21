@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DC Comics '
+p1
+tp2
+(S'Description:'
+p3
+S"DC Comics is the biggest and best North American comics publisher, featuring a wide variety of characters and genres. Renowned for the World's Greatest Super Heroes - Superman, Batman, Wonder Woman, Green Lantern, The Flash and many many more - DC has thrilled readers with fantastic tales from the DC UNIVERSE in dozens of languages around the world for decades.Publishing more than 80 comic format titles monthly and over 1,000 comic books and graphic novels annually, DC also presents different flavors of graphic storytelling through its diverse imprints.With the official DC COMICS app, you can download and enjoy great comic books from our current weekly offerings plus our vast, legendary classics library. Powered by ComiXology, this app enables you to take advantage of the unique Guided View reading experience or enjoy the pristine, classic full page view. What's more, you'll be able to conveniently manage and read your entire collection anytime, whether you're at your desk computer, laptop or on the move. Experience the amazing world of DC Comics wherever you are!Please read DC's Privacy Policy http://www.dccomics.com/privacy-policyRecent changes:New for 3.2.8.24200:* Significant bug fixes and app stability improvementsNew for 3.2.5:* CONTINUE! Automatically save your place\xe2\x80\xa6 so you can pick up reading where you left off on your devices.* Enhanced \xe2\x80\x9cDownloads\xe2\x80\x9d view: sort by Series, Creator and Genre.* Manage comics on your device from \xe2\x80\x9cDownloads\xe2\x80\x9d.* Several significant bug fixes and Network Optimizations."
+p4
+tp5
+tp6
+.

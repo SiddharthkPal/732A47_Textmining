@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kazoo '
+p1
+tp2
+(S'Description:'
+p3
+S'Kazoo is a tv stream social network. Just share the TV channels you want with your friends. Or simply add your favorite channels and watch them on your own.!! NOTE: For more info visit our facebook web page ( https://www.facebook.com/pages/Olster-Group/153413451494289 ), or contact us !!Kazoo is completely free.* No need to uses extra devices, extra utilities.* Just use your mobile device (phone,tablet, etc.) .* Easy to use. Just click and watch. If you have any issue/suggestion/improvements regarding the application, please feel free to mail us.Add your comments and give stars on the market! Thanks.This application uses internet connection. Wifi/3g/4g are supported connection protocols. Wifi is more economic and more robust internet connection,so we recommend to use wi-fiRecent changes:Version 0.0.5 : Added users tweets'
+p4
+tp5
+tp6
+.

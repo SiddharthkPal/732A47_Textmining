@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Qing Camera '
+p1
+tp2
+(S'Description:'
+p3
+S"Qing Camera is a perfect real-time filtering camera. You can preview the effect before you actually take one. You can take beautiful photos quickly and simple.\xe2\x80\xa2It's good at real-time effects, especially One-Color.You can touch one color on the screen,and the other colors become to gray.For example,you can touch blue on the screen, if you dress a blue skirt, so you are the beauty of the whole photo.\xe2\x80\xa2Other Effects: Lomo,distorting mirror,oil painting,sketch,symmetry,etc.\xe2\x80\xa2You can adjust the level of the effect.Want a little effects? Just swipe to the left.If you want more,swipe to the right.\xe2\x80\xa2 staple and Lovely frames\xe2\x80\xa2 Share photos by  using any app in your phone.Recent changes:1 fix the photo orientation bug2 fix some crash bug"
+p4
+tp5
+tp6
+.

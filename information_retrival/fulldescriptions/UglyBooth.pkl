@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UglyBooth '
+p1
+tp2
+(S'Description:'
+p3
+S"PiVi & Co is launching the Android version of its new app UglyBooth (by the creators of AgingBooth, FatBooth, BaldBooth & MixBooth). UglyBooth for Android is available to download for free on the Android Market.You don't feel pretty when you look in a mirror!? Don't worry, it could be worse\xe2\x80\xa6 much worse! Find out with UglyBooth, an amazing and funny way to instantly make faces ugly on your Android device. Use UglyBooth on friends, family, colleagues or celebrities photos and share the result via email, MMS, FaceBook, Twitter.Features\xe2\x80\xa2 Works with photos taken with your Android device camera or from your photo gallery\xe2\x80\xa2 Auto-cropping using face detection\xe2\x80\xa2 Transformation process is instant with no internet connection needed\xe2\x80\xa2 Shake device to see before and after views\xe2\x80\xa2 Scroll results into the app gallery\xe2\x80\xa2 Save results to your photo gallery\xe2\x80\xa2 Share with your friends via email, Facebook or TwitterUglyBooth is made for entertainment purposes only.UglyBooth for Android is optimised for Android platform v2.1 or later. In order to help improve this version, should you have any trouble using it, please feel free to send your feedback at androidfeedback@piviandco.com.\xc2\xa9 PiVi & Co 2012Photos credits : fotolia.com \xc2\xa9 Yuri Arcurs / \xc2\xa9 CURAphotography / \xc2\xa9 Rui Vale de Sousa / \xc2\xa9 soupstock / \xc2\xa9 J\xc3\xb6rg Hackemann / \xc2\xa9 Olga Vasilkova / \xc2\xa9 Farina3000 / \xc2\xa9 wtamas / \xc2\xa9 serovAlso by PiVi & Co :- MixBooth, the face mixing machine:https://market.android.com/details?id=com.piviandco.mixbooth- AgingBooth, the app that makes you old:https://market.android.com/details?id=com.piviandco.agingbooth- FatBooth, the app that makes you fat:https://market.android.com/details?id=com.piviandco.fatbooth- BaldBooth, the app that makes you bald :https://market.android.com/details?id=com.piviandco.baldboothMore information on AgingBooth, FatBooth, BaldBooth, MixBooth and UglyBooth on www.piviandco.comRecent changes:Various improvements"
+p4
+tp5
+tp6
+.

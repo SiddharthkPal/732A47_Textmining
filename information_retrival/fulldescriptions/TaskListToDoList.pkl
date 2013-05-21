@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Task List - To Do List '
+p1
+tp2
+(S'Description:'
+p3
+S'This effective to-do list lets you keep track of everything you need to do. Organize tasks in your own to-do lists and assign icons to both tasks and lists.Task List have basic producteev sync, widgets, task reminders, 160 icons, repeating tasks, speech to text, backup/restore, search, ordering tasks by drag&drop and much more. Supports English, Spanish and German language.Task List is a very customizable to-do list with lots of settings. Actions can be assigned to buttons and swipe movements to make the app behave like you want. An extensive FAQ is available within the app so check it out if you need any help or just some hints to get started.Task List have ads and the sync is limted to one list only. Get Task List - To Do List Pro from the market if you want the ad-free version or you need to sync more than one list.Recent changes:- Small makeover.- More robust Producteev.com sync - check FAQ for instructions.- Autosave now works when pressing back key.- 12:00 AM shown as 0:00 AM fixed.- Smaller app size.'
+p4
+tp5
+tp6
+.

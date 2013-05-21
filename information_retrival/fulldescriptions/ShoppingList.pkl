@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shopping list '
+p1
+tp2
+(S'Description:'
+p3
+S'"Shopping list" is an application that helps you organize, share with others, and manage your shopping or grocery lists using your phone. Easily add new items you need to buy, set quantity, and pick a category.When organizing your products, you can add prices, pictures and barcodes to items you need to buy!In store, just open your list and tick off every item you bought. Depending on your preferences, items are marked as "bought", moved to the end of the list or deleted from list.Synchronize your Shopping list with another person. Let one person enter shopping items on one phone, and see them appear on another one! Coordinated shopping at its peak! If the other person has not installed this app, you can send your list via text message or email.Advanced features to enhance your trip to purchase groceries like management of items with same name across different lists from one place and more...Highlights:* Categories* Instant synchronization between two phones* Barcode scanner* Remembers what you put on list once, reuse it again* Backup and restore your data* Many customizing possibilities* App design for quick manipulationRequired permissions:* SD card access is used to allow you to backup your shopping lists, products and preferences.* Internet access is used for synchronizing with other users.Recent changes:New features:* Items with same name on different lists can now share checking(marked) stateEnhancements:* Added separate price totals status bar if you are using prices for items* Tweaked layout in list item editing* Added delete button to item edit screenBug fixes:* fixed problem with creating product with same name as one that exists in database* fixed problem with incorrect sorting products by name'
+p4
+tp5
+tp6
+.

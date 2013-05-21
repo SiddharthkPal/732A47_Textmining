@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'funnies by ArcaMax '
+p1
+tp2
+(S'Description:'
+p3
+S"With this app, you'll be able to view more than 75 of the funniest comic strips ever created. You'll also get the most-read political cartoons and a cooking cartoon with a new recipe each week. Comics You'll Get:  - Agnes - Andy Capp - Archie - Arctic Circle - Ask Shagg - Baby Blues - Ballard Street - Barney & Clyde - Barney Google & Snuffy Smith - BC - Beetle Bailey - Bizarro - Bleeker the Rechargable Dog - Blondie - Brilliant Mind of Edison Lee - Cafe Con Leche - Candorville - Chuckle Bros - Crankshaft - Curtis - Daddy's Home - Deflocked - Dennis the Menace - Diamond Lil - Dog Eat Doug - Dogs of C-Kennel - Dustin - Family Circus - Flo & Friends - For Heaven's Sake - Fort Knox - Free Range - Hagar the Horrible - Heathcliff - Herb and Jamaal - Hi and Lois - Home & Away - Little Dog Lost - Mallard Fillmore - Marvin - Meaning of Lila - Momma - Mother Goose and Grimm - Mutts - Nest Heads - On a Claire Day - One Big Happy - Pickles - Red and Rover - Reply All - Rhymes with Orange - Rubes - Rugrats - Scary Gary - Speed Bump - Strange Brew - The Barn - The Lockhorns - The Other Coast - Thin Lines - Watch Your Head - Wee Pals - Wizard of Id - Working it Out - Zack Hill - ZitsPolitical Cartoons: - Chip Bok - Clay Bennett - Lisa Benson - Mike Luckovich - Nick Anderson - Signe Wilkinson - Steve BensonCooking: - Cheap Thrills CuisineEasily mark your Favorites to view your favorite strips each time you visit. Navigating between strips is easier than ever! We've also included ways for you to share these comics on your favorite social networks and by email. (Note: We have included all comics from ArcaMax.com that are eligible for mobile app licensing. We will try to include more strips in the future.)Recent changes:Crash Fix"
+p4
+tp5
+tp6
+.

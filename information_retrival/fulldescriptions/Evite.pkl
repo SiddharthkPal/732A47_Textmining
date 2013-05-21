@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Evite '
+p1
+tp2
+(S'Description:'
+p3
+S'Evite for Android makes it easy to send and manage invitations on the go. With the Evite app, you can create and send invitations, manage your guest lists, and RSVP to events. You can also choose to get push notifications for event updates and when guests RSVP or add comments.Recent changes:- bug fixes- removed contact import'
+p4
+tp5
+tp6
+.

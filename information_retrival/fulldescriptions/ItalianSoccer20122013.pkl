@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Italian Soccer 2012/2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'All the Italian soccer, including the European leagues:* Serie A* Serie B* Champions League* Europa League* Coppa Italia (TIM Cup)* World Cup qualifications* Euro 2012* Lega Pro* Serie D* Campionato Primavera..now also includes:* Premier League* Bundesliga* La Liga* Ligue 1Use the team section to see all the matches of your favorite team, both in national and European leagues. And now you can also see match videos with goal and highlights, updated in real time!With Italian Soccer you have fixtures, standings, scorers and live results.This version includes the following features:* automatic updates with notifications* ability to share on Facebook matches and standingsTo send us feedback about the app, please use the "Feedback" form inside the app, or write to: info@jappit.comNote: real time results are available for Serie A, Serie B, Europa League and Champions LeagueRecent changes:Bug fixing'
+p4
+tp5
+tp6
+.

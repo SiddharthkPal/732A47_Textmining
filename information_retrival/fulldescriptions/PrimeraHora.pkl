@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Primera Hora '
+p1
+tp2
+(S'Description:'
+p3
+S'The Android application with the latest local news, alerts, photos, videos and entertainment. Be informed all the time with local, sports and entertainment news. Primera Hora Android App is free and includes local news with HD videos. Also, you will have access to weather information with video, cinemas listing and local lottery numbers. Share news with your friends via e-mail, Facebook and Twitter. You will have the opportunity to send your own photos and videos to our editorial team.Sections:Noticias/NewsThe most important news about Puerto Rico, Entertainment, Sports and Lifestyle. Share them with your friends via e-mail, Facebook and/or Twitter.Fotos/PhotosThe nine photos of the day. If you don\xe2\x80\x99t have a lot of time, you can catch up of what is going on with this visual brief.VideosAccess news through HD videos.D\xc3\xa9jate sentirSend a picture or a video from your gallery or take it live using your Android\xe2\x80\x99s camera and send it to Primera Hora.Cine/MoviesFind theaters close to your location (via GPS). Get theater\xe2\x80\x99s information (address, phone number and map of their location). Set favorite theaters. Find listings by locations or by movies. Watch trailers of your favorite movies.Clima/WeatherFind updated weather information for your location in text or video or video format or change the location manually.HoroscopeCheck your daily horoscope and your lucky numbers.Suerte/LotteryCheck the latest numbers of Loter\xc3\xada de Puerto Rico, Loto, Revancha, Pega 2, Pega 3 and Pega 4.M\xc3\xa1s vistas/Most viewedKeep up with the most viewed news of primerahora.comRecent changes:- New Photo Galleries section. - Minor bug fixes.'
+p4
+tp5
+tp6
+.

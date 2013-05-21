@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'KPN iTV Online '
+p1
+tp2
+(S'Description:'
+p3
+S'Let op! Deze iTV Online app is niet geschikt voor alle Android toestellen, kijk op www.kpn.com/itvonline of je toestel wordt ondersteund. Om Live TV en Programma Gemist te kunnen kijken moet je (naast een goedgekeurd toestel) verbonden zijn met je KPN internetverbinding (wifi) en heb je minimaal een OS versie van 3.0 en hoger nodig.Met de gratis iTV Online app van KPN kun je als klant van Interactieve TV van KPN overal in en om het huis genieten van Interactieve TV van KPN.Voordelen van KPN Interactieve TV Online: \xe2\x80\xa2 Thuis:o De populairste tv-zenders live kijkeno Programma Gemist bekijken\xe2\x80\xa2 Thuis en onderweg:o Toegang tot de Elektronische Programmagidso Eenvoudig door de Videotheek Thuis bladeren                                             o Opnames plannen en beheren thuis en onderweg*                                                o Deel wat je kijkt met je vrienden via Twitter, Facebook of Hyves*Alleen in combinatie met het Opnemen Pakket.Waar werkt het?Om Interactieve TV van KPN te kunnen kijken moet je Android tablet en/of telefoon verbonden zijn met je KPN internetverbinding (via WiFi). Bladeren door de Videotheek Thuis, de Elektronische Programmagids en het beheren van je opnames is ook mogelijk via een andere internetverbinding. Om opnames te kunnen plannen buiten je eigen netwerk moet je inloggen met je abonnementsnummer en pincode.Wat kost het?KPN iTV Online is gratis te downloaden.Voor het plannen van je opnames heb je het Opnemen Pakket nodig, dit kost \xe2\x82\xac 5 per maand. Heb je Alles in \xc3\xa9\xc3\xa9n Standaard of Premium, dan is het Opnemen Pakket gratis. Voor alle mogelijkheden van Interactieve TV Online kijk op kpn.com/itvonlineBinnen de iTV Online app worden generieke aanbevelingen gedaan in Videotheek thuis om u beter op weg te helpen binnen het brede aanbod van films.Recent changes:\xe2\x80\xa2 Introductie van de achtergrond foto als het kanaal niet online beschikbaar is\xe2\x80\xa2 Introductie van de gebruikers informatie op iedere pagina (i-icoontje)\xe2\x80\xa2 Verbetering van programma / film informatie (toevoeging van acteur)\xe2\x80\xa2 Introductie van  \xe2\x80\x9cPrimetime\xe2\x80\x9d snelstart-knop in de Gids\xe2\x80\xa2 Bug fixing met opstarten'
+p4
+tp5
+tp6
+.

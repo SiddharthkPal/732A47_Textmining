@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Boston Bruins Official App '
+p1
+tp2
+(S'Description:'
+p3
+S'Stay connected year round with the Official Boston Bruins Mobile App.  Get up-to-the-second play-by-play and game stats with the all-new ice tracker, plus the latest Bruins news, video, and much more.  Download it now for free and keep up-to-date with everything Boston Bruins. Included in this app:- Live game updates with box scores, game stats and the all-new ice tracker- Custom Alerts and user controlled preferences- The latest Bruins news- Photo galleries from Bruins games and events around town- Video from bostonbruinsTV that brings you from the B\xe2\x80\x99s locker room to the ice- Bruins player bios, photos and updated stats- Conference/Division standings and out-of-town scores- Interactive game schedule, allowing you to buy Bruins tickets directly from your smartphone- Fantasy Five game where you can compete against other B\xe2\x80\x99s fans- Ability to incorporate your Twitter and Facebook accounts, allowing you to share content New features are added periodically so make sure to keep your Official Bruins Mobile App updated through the App Store!Recent changes:- Added streaming radio feature- Minor Bug Fixes'
+p4
+tp5
+tp6
+.

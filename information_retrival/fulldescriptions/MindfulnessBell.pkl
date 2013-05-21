@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mindfulness Bell '
+p1
+tp2
+(S'Description:'
+p3
+S'Now with better support for quiet environments!The Mindfulness Bell rings periodically during the day, to give you the opportunity to hold on for a moment and consider what you are currently doing, and in what state of mind you are while you are doing it. According to the Zen Buddhist teacher Thich Nhat Hanh, this is an effective means of developing mindfulness.Recent changes:Many people have asked for this, so here it is: Two options how to use your bell in a quiet environment, such as at work.(a) There is now a "Vibrate" option. This does a short-long vibrate pattern -- if you wish, you can interpret this as the morse code for "A", as an abbreviation for "be awake".(b) It is now possible to turn the volume *real* soft. The bell now supports a dynamic range of 50dB, from the maximum volume to a just audible volume. This should never be too loud.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Xbox SmartGlass '
+p1
+tp2
+(S'Description:'
+p3
+S'Xbox SmartGlass lets your phone work with your Xbox 360 console to bring rich, interactive experiences and unique content about what you\xe2\x80\x99re watching or playing, right to the device that\xe2\x80\x99s already in your hand. Interact with your favorite TV shows, movies, music, sports, and games, and bring remote control to a whole new level. You can also connect with your Xbox friends, track and compare your achievements, and change up your 3D avatar.Xbox SmartGlass lets you: \xe2\x80\xa2 Navigate your Xbox 360 with swipe and tap\xe2\x80\xa2 Use your phone\xe2\x80\x99s keyboard to type to your Xbox 360\xe2\x80\xa2 Browse the Internet on your Xbox 360 with full keyboard and zooming\xe2\x80\xa2 Play, pause, fast forward, rewind, and stop videos and music on your Xbox 360\xe2\x80\xa2 Search the full Xbox catalog of music, video, and games\xe2\x80\xa2 Enjoy rich, interactive experiences from select game and entertainment content creators\xe2\x80\xa2 Track and compare your achievements with your Xbox friends\xe2\x80\xa2 Change up your 3D avatar\xe2\x80\xa2 Message your Xbox friends\xe2\x80\xa2 Edit your Xbox profileNote:This app requires an Xbox membership to sign in.  Available for most Android 4.0+ smartphones, with WVGA screen resolution or higher.Recent changes:This 1.5 Android update includes: o   Support for Android tablets 7\xe2\x80\x9d and larger.o   SmartGlass Experiences now stay awake, so your device does not sleep during periods of inactivity.o   Numerous design and usability improvements.o   Numerous bug fixes.'
+p4
+tp5
+tp6
+.

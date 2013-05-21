@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GoPetRescueSaga '
+p1
+tp2
+(S'Description:'
+p3
+S'On-the-go gaming information, news, tips, video walkthroughs, and daily hookups for Pet Rescue Saga.'
+p4
+tp5
+tp6
+.

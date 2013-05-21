@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'photup for Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S"With photup you can share your photos to your Facebook profile, quicker than ever before. Think of it as 'Facebook Camera' for iOS, but on Android.- Upload as many photos as you want, all at once in a batch- Add Effects (Filters)- Manually Rotate photos- Crop Photos- Set the caption of each photo- Easily Tag your Friends with Face Detection- Instant Upload.  Automatically upload as soon you take a photo- Tag the location and place- Upload to your Groups or Events- Upload to your Page and it's albumsComing soon:- More Privacy OptionsTranslationsIf you want to help translate photup. Go to http://www.getlocalization.com/photup/Recent changes:v2.0.1- Force close fixes. Sorry!v2.0- New UI for Tablets- Ability to Enable/Disable Uploading- Can now use Exif  Location in Photos for Tagging- Styling Improvements- Fixes for Photos not uploading- Lot more small bug fixes & optimisations"
+p4
+tp5
+tp6
+.

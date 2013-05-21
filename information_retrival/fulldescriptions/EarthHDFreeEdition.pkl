@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Earth HD Free Edition '
+p1
+tp2
+(S'Description:'
+p3
+S'Earth HD live wallpaper brings you the most beautiful and peaceful view of our planet.!!!Also dont\'t forget to check out 2 brand new Live Wallpaper - "Solar System HD" and "Deep Galaxies HD" that are using gyroscope for creating unique space experience!!!Epic "Earth HD Deluxe Edition" is now for sale! Check out it\'s features:- Sun/Earth position mode depending on current date- 5 different Earth themes with fully HD textures: Classic, Realistic, Future, Post-apocalyptic, Frozen earth - Awesome satellite mode demo. - HD stars background - New "Frozen Earth" theme.- New "Realistic" theme.- Take 100% from HD textures detalization by customizing camera distance- Can customize camera distance and offset (especially useful for tablets, helps to take 100% from HD texture detalization)- 9 camera modes: * Free camera to see all parts of the Earth * Move (left-centered) - perfect for Samsung phones with TouchWiz (where main screen is the left one) * Move (centered) - perfect for HTC Sense-based phones (where main screen is the center one) * Orbit (left-centered) - perfect for Samsung phones with TouchWiz * Orbit 2 (centered) - perfect for HTC Sense-based phones * Fixed camera * + 4 new AWESOME animated cameras- SunFree version features:- Classic theme HD textures- Low-resolution (4 times smaller textures) themes: Future and post-apocalyptic- Beautiful reflections- 4 FPS limiting options to help your phone\'s battery- Realistic atmosphere- Detalization customization- Lights on the night side- Earth\'s rotation speed customization- 3 camera modes: Orbit / Fixed / Linear move- 100% 3D using OpenGL ES 2.0 / C++ for best performance- Beautiful stars backgroundIMPORTANT. It\'s a LIVE WALLPAPER. It won\'t appear in your app list. Go to the live wallpaper menue of your phone and you\'ll find it there.IMPORTANT. If you\'ll find any bugs please write me an e-mail. In most cases i can\'t fix them if you\'ll report them in comments.Recent changes:- Fixed black screen bug- Stability improvements- Tiny size reduction'
+p4
+tp5
+tp6
+.

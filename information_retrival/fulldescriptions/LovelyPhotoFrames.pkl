@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lovely Photo Frames '
+p1
+tp2
+(S'Description:'
+p3
+S'*** Make your lovely moment MORE LOVELY with Lovely Photo Frames ***User Reviews:----------------------------------------fafa fifi on May 5, 2013 at 7:14 PMExcellent n awesomeness!!!!!\tExcellent n Awesomeness!!!! Seems like hving a real make- over, love d eyes options, xpecially d shadows, n eye colour, shudder improved wif eyebrows options... Overall 10 thumbs up\xe2\x99\xa1\xe2\x99\xa5\xe2\x99\xa1\xe2\x99\xa5\xe2\x99\xa1\xe2\x99\xa5\xe2\x99\xa1\xe2\x99\xa5Description:----------------------------------------"Lovely Photo Frames" is a collection of more than 100 lovely photo frames for you to decorating your lovely photos. It has the same function as the Love Photo Frames, Wedding Photo Frames and other apps.Some Features:* Select Photo: select an existing photo for decorating with lovely frames.* Take Photo then Add Frames: you first take a photo then decorate the photo with the lovely frames.* Take Photo with Frames: you take photo and select frame at the same time. This allows you to preview the result before you take photo and let you choose the most suitable frames.Recent changes:\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5 6/5/2013: Version 3.1 released \xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5- Fix memory issues on some devices.- Add more beautiful effects\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5 10/3/2013: Version 3.0 finally released \xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5In V3.0:   \xe2\x96\xba New UI: brand new UI that support both phones and tablets  \xe2\x96\xba Support adding up to 3 image from gallery to insert to frames.  \xe2\x96\xba Add speech balloon text to the photo.'
+p4
+tp5
+tp6
+.

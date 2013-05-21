@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SWF Player - Flash File Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'[ please vote 5 star(\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85) & post your comment! ][ About SWF Player ]You can play .swf file by this Player.  [ How To install Flash Plugin ]You need to install Adobe\xc2\xae Flash\xc2\xae Player Plugin before using this player. http://bit.ly/VdRhpQYou can download flash player plugins another site below! adobe archives : http://adobe.ly/UZQeKa xda forum : http://bit.ly/12J5nnC[ Feature ] * can play swf file * support Zoom in/out * support play/stop controller * support fullscreen  * support multi touch virtual keypad. * support Virtual Mouse * support file browser * support advanced settings (wmode, background color, wake-lock, rotaion, quality, scale ... etc) * support swf file sharing * support Gmail file attach * support honeycomb device! [ keywords ] fast swf flash\xc2\xae player flashplayer\xc2\xae web browser webkit webview \xed\x94\x8c\xeb\x9e\x98\xec\x8b\x9c \xed\x94\x8c\xeb\xa0\x88\xec\x9d\xb4\xec\x96\xb4 adobe \xe3\x83\x95\xe3\x83\xa9\xe3\x83\x83\xe3\x82\xb7\xe3\x83\xa5 \xe9\x97\xaa\xe5\xad\x98 \xe9\x96\x83\xe5\xad\x98 \xd0\xb2\xd1\x81\xd0\xbf\xd1\x8b\xd1\x88\xd0\xba\xd0\xb0 salama \xe0\xa4\xab\xe0\xa4\xbc\xe0\xa5\x8d\xe0\xa4\xb2\xe0\xa5\x88\xe0\xa4\xb6 \xd7\xa4\xd7\x9c\xd7\x90\xd7\xa9 \xd9\x81\xd9\x84\xd8\xa7\xd8\xb4[ trademarks ] Flash\xc2\xaeis registered trademarks of Adobe\xc2\xae Systems, Inc.Recent changes:Ver 1.611. add more key codes2. issess.net web site updateVer 1.601. fix exceptions2. fix file upload errorVer 1.591. fix exceptions'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'meinestadt.de Job App '
+p1
+tp2
+(S'Description:'
+p3
+S'Gr\xc3\xb6\xc3\x9fte mobile Jobb\xc3\xb6rse Deutschlands: In der kostenlosen Job App finden Sie das gesamte Angebot des Stellenmarktes von meinestadt.de mobil vor. Mit rund 320.000 Stellenangeboten ist meinestadt.de damit die gr\xc3\xb6\xc3\x9fte mobile Jobb\xc3\xb6rse Deutschlands. Ob in Bus, Bahn oder Stra\xc3\x9fencaf\xc3\xa9 \xe2\x80\x93 neue Angebote k\xc3\xb6nnen Sie jetzt jederzeit und von \xc3\xbcberall abrufen.\xc3\x9cber eine Lokalisierungsfunktion sehen Sie mit nur einem Knopfdruck Jobs in Ihrem direkten Umfeld. Schicken Sie sich interessante Anzeigen ganz einfach per E-Mail zu oder empfehlen Sie sie Freunden weiter! Alle Funktionen der App k\xc3\xb6nnen Sie auch ohne Anmeldung nutzen.Alle Vorteile im \xc3\x9cberblick:\xe2\x96\xa0 320.000 Stellenangebote kompakt in einer App\xe2\x96\xa0 Jobsuche \xc3\xbcber Stichwort oder Kategorien\xe2\x96\xa0 Variabler Umkreis und Sortierm\xc3\xb6glichkeiten \xe2\x96\xa0 Praktisches Slidermen\xc3\xbc f\xc3\xbcr die schnelle Navigation\xe2\x96\xa0 Lokalisierungsfunktion f\xc3\xbcr Jobs im direkten Umkreis\xe2\x96\xa0 Zusendung und Weiterempfehlung der Jobs per E-Mail\xe2\x96\xa0 Alle Funktionen sind ohne Anmeldung nutzbar\xe2\x96\xa0 App2SDDie meinestadt.de job App beinhaltet alle Arten von Stellenangeboten und Besch\xc3\xa4ftigungsarten: Vollzeit, Teilzeit, Minijobs, Studentenjobs, Aushilfsjobs usw.Recent changes:-- 1.1.1 --\xe2\x96\xa0 Die neue Version unserer Job App behebt Probleme, die zum Absturz der App f\xc3\xbchren konnten - danke f\xc3\xbcr Ihre Hinweise.\xe2\x96\xa0 Finden Sie mit der meinestadt.de App POI und interessante Locations rund um Ihren neuen Arbeitsplatz - die App kann aus dem Men\xc3\xbc heraus direkt ge\xc3\xb6ffnet werden.\xe2\x96\xa0 Ab dieser Version ist mindestens Android 2.2 erforderlich. \xe2\x96\xa0 Wir freuen uns, dass wir eine Permission entfernen konnten.\xe2\x96\xa0 Geben Sie uns gerne jederzeit Feedback an jobapp@meinestadt.de - wir freuen uns!'
+p4
+tp5
+tp6
+.

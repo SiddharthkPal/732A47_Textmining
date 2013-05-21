@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Game Guides '
+p1
+tp2
+(S'Description:'
+p3
+S"Searching for tips and walkthroughs for anything from Skyrim to League of Legends? Whether you're playing the deepest RPGs, heart-pounding action adventures, or the most addicting mobile games, Wikia Game Guides has you covered.Wikia Game Guides is the ultimate app for quick and easy access to useful, detailed information about ALL of your favorite mobile and video games. Access constantly updated, highly accurate guides and game walkthroughs created and maintained by our massive community of gaming experts.Download the app to:-Search for and add ANY Wikia game wiki to your home screen-Bookmark pages and page sections for offline viewing-Search for articles within a video game wiki guide-Browse categories and articles created by Wikia\xe2\x80\x99s gamer community and rank them in trending order-Enjoy a clean text-, image-, and video-browsing experience with options to customize the font and text layout-Explore related articles-Share articles with friendsYou\xe2\x80\x99ll have guides for all of the following games and more in the palm of your hand!-BioShock-Dark Souls-Deadspace-Diablo III-Dragonvale-Gears of War-God of War-Halo-League of Legends-Lord of the Rings Online-Madden 13-Mass Effect 3-Resident Evil 6-Skyrim-Battle Nations-SimCity-StarCraft 2-Tekkit-Tomb Raider-World of Warcraft-X-COMRecent changes:The long-awaited Wikia Game Guides 2.0 is here!-Complete UI redesign!-Search for any Wikia game wiki (international wikis included)-Customizable home screen -Offline bookmarking (most popular user request)-Trending category/articles-Article display options-About screen-Bug fixes"
+p4
+tp5
+tp6
+.

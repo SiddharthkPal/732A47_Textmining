@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Prisjakt / PriceSpy '
+p1
+tp2
+(S'Description:'
+p3
+S'Winner of SADC-09 and Mobilgalan 2010Mostly for Sweden, Norway, UK and New Zealand.Search for products per country by text or barcode, find the cheapest shop or the closest one - including navigation and calling, see user ratings and opinions, and more. Save shops to Contacts. Now also with tailored tablet (3.x+) support.Please read FAQ on site.Recent changes:2.2.5 Adapt to server changed. Category in top 100.2.2.4 Special handling if small tablets such as Nexus 7.2.2.3 Fix for tablet when icon fetching fails.2.2.2 Bumped and tested for JellyBean (4.1). Fix for cache failure issue. Visit shop will try navigation first.2.2.1 Showing cached icon for categories. GPS no longer required.2.2.0 Added support for UK site. Various minor improvements2.1.2 Further tuning for Galaxy Nexus&CO'
+p4
+tp5
+tp6
+.

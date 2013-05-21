@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Talking Cute Cat '
+p1
+tp2
+(S'Description:'
+p3
+S'**Talking Cute Cat repeats everything you say with a funny voice.**Enjoy hours of fun and laughter with Talking Cute Cat. He is especially fun for children of all ages.**Play with Puppy:- Talk to Puppy and he will repeat everything you say with a funny voice.- really sweet.- look at my dancing.- have a sleep.- Poke his head, Arm or feet.'
+p4
+tp5
+tp6
+.

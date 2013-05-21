@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bikhir.ma '
+p1
+tp2
+(S'Description:'
+p3
+S"Bikhir.ma est le site marocain de petites annonces que tous les marocains peuvent utiliser pour vendre et acheter sur internet. Maintenant, Bikhir.ma vous offre une application enti\xc3\xa8rement gratuite et simple d'utilisation pour mieux d\xc3\xa9poser vos annonces et consultez des offres en ligne.D\xc3\x89POSEZ VOS ANNONCES:- Plus besoin d'un ordinateur pour d\xc3\xa9poser vos annonces- R\xc3\xa9digez votre annonce et ajoutez des photos depuis l'applicationCONSULTEZ DES OFFRES:- Recherchez facilement par r\xc3\xa9gion, par cat\xc3\xa9gorie, ou simplement par mots-cl\xc3\xa9s."
+p4
+tp5
+tp6
+.

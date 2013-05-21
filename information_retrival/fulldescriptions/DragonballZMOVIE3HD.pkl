@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dragon ball Z (MOVIE) 3 HD '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85 More than 100,000 people around the world are using our Dragon ball Z (Ultimate Tenkaichi) HD Free Apps!!! \xe2\x98\x85 You'll find high quality Dragon ball Z (Ultimate Tenkaichi) HD video. We DO NOT host or stream VIDEOS int the app.This application provides quick links to the Videos available on internet (Mainly Youtube).****NOTE****This app requires 2G/3G Internet Connection. Press the Refresh Button if you do not get list of videos due to poor internet connection or you get a message \xe2\x80\x9cCannot Play Video\xe2\x80\x9d after 2/3 seconds of playing the video.DISCLAIMER : None of the content in this app was created or modified by us. We are a curator providing direct access to content publicly available on Youtube.com. The content of this app is powered by YouTube. We are not responsible for any copyright issues as the app gives access to YouTube videos as is. We did not upload any of the videos to YouTube. If any have problem related to copyright please remove from Youtube.com it atomically remove here."
+p4
+tp5
+tp6
+.

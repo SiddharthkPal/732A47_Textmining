@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NASA App '
+p1
+tp2
+(S'Description:'
+p3
+S"Come explore with NASA and discover the latest images, videos, mission information, news, feature stories, tweets, NASA TV and featured content with the NASA App for Android.Features:- Over 157,000 images and growing- Latest On Demand NASA Videos from around the agency- Current NASA Mission Information- Launch Information & Countdown clocks- Current Visible Passes for the International Space Station (ISS) and notifications- ISS and Earth Orbiting Satellite Tracker- NASA Twitter Feeds from around the agency- Current News and Features stories- Facebook\xc2\xae Connect and Integrated Twitter\xe2\x84\xa2 client for easy sharing- Live Streaming of NASA TV- NASA TV and What's On Your TV schedules- Map and links to all of the NASA centers- Featured content section- Third Rock Radio (alternative rock radio station)Recent changes:- Fixes for updating wallpaper, visible pass notification, etc. (you may need to disable and re-enable both Update Wallpaper and Visible pass notification in Settings, root view/press menu/select Settings)."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Facebook Web '
+p1
+tp2
+(S'Description:'
+p3
+S'Facebook Web - a simple, small, easy to use program to visit the social network FacebookOfficial web interface uses Facebook, allowing you to use all the official version of the siteYou can specify which of the most popular sections of Facebook will be opened first, it is very convenient if you make only using Facebook to communicate, you can specify the first page of the "Communications", etc.If you have any questions or suggestions - write to keval.soft @ gmail.com'
+p4
+tp5
+tp6
+.

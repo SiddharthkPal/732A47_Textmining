@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free Books & Stories - Wattpad '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 WattpadJoin millions who love Wattpad - the world\xe2\x80\x99s unlimited, ever growing library of FREE books and stories.  RANKED IN TOP 5 BOOKS APPS FOR 3 YEARS!\xe2\x80\xa2 Pick from over 10 million FREE books & stories: the best of sci-fi, fantasy, mystery, romance, fan fiction, thrillers, and so much more!\xe2\x80\xa2 Connect with your favorite writers, including Margaret Atwood, Paulo Coelho, and thousands of aspiring writers from across the globe.\xe2\x80\xa2 Get book and story updates directly from authors\xe2\x80\xa2 Read offline and customize your reading settings to personalize your experience\xe2\x80\xa2 Synchronize your Wattpad library between your phone, tablet and wattpad.com\xe2\x80\xa2 Write stories and publish them for others to readReviews:Wattpad has been featured in publications like The New York Times, MacWorld, The Guardian and Washington Post. Here\xe2\x80\x99s what people are saying:\xe2\x98\x85 "Wattpad opens the doors and enlarges the view in places where the doors are closed and the view is restricted." - Margaret Atwood\xe2\x98\x85 "Wattpad is exciting because there is the opportunity to create content with depth." - Vincent Lam\xe2\x98\x85 "I love Wattpad!!" - Thousands of user reviewsAlready love Wattpad?\xe2\x86\x92 What are you waiting for? Download our app!\xe2\x86\x92 Connect with us on Facebook (www.facebook.com/wattpad) and Follow Wattpad on Twitter (www.twitter.com/wattpad).Recent changes:NEW IN VERSION 3.7.6:\xe2\x9c\x94 Update your status to \'what I\'m reading\'\xe2\x9c\x94 Share to multiple social networks while your reading\xe2\x9c\x94 Share when you comment or vote on a storyNEW IN VERSION 3.7.0:\xe2\x9c\x94 NEW LIBRARY: A faster, slicker, completely redesigned Wattpad library experience! (NOTE: You can swipe covers to reveal more story info and reading progress!)\xe2\x9c\x94 Bug fixes to improve stability and performance. If you have any issues, please submit a support ticket at support.wattpad.com.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Dandy '
+p1
+tp2
+(S'Description:'
+p3
+S"The Dandy - It's a whole new dimension! It's The Dandy like you've never seen it before! It's Daft! It's Dramatic! It's Different! Your favourite characters and comic strips now with movement and sound. Create and dress your own Dandy avatar, play about with the sounds in the Joke Room, collect stuff for your Den and play games with your favourite characters. Includes Issue 0 for FREE! Want to try it before you buy it? Then you want The Dandy Issue Zero! Why's it called Issue Zero? Because that's how much you pay for it! It's Daft! It's Dramatic! It's Different! And it's FREE! WHEEEEEEEE! FREE FUN! FREE ACTION! FREE DAFTNESS! Meet your new Dandy crew here first for FREE!"
+p4
+tp5
+tp6
+.

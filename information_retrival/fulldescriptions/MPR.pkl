@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MPR '
+p1
+tp2
+(S'Description:'
+p3
+S"Monthly Prescribing Reference (MPR) provides concise prescription and OTC drug information, side effects and interactions for medical professionals. The MPR Android Edition is a compiled database of up-to-date drug monographs from all MPR print publications (MPR, NPPR, PAPR, Pediatrics, Hematology/Oncology, OB/GYN, Pharmacists, etc.)=== Features ===* Search entire MPR instantly* Over 4,000 concise product monographs* Listed by Brand and Generic name, Manufacturer, and Pharmacological Class* Search drug monographs by therapeutic category, brand name, generic name, disease, or manufacturer* Monographs for both prescription and OTC drugs* Updated frequently by Pharmacists, Reviewed by Physicians!* Over 30 medical calculators=== New in this update ===DRUG INTERACTIONSA drug interactions checker is now available.  The interactions checker can compute interactions for one or more drugs, and ranks the interaction by severity.  The interaction checker explains the pharmacologic effects of the interaction, how to manage the interaction, and provides references for the interaction information.IMPROVED NEWS AND ALERTSNews and other relevant messages are downloaded into the Inbox for quick access.  You can view news items by date or category.  You also have the option to receive notifications for specified inbox categories.  For example, if you turn on notifications for \xe2\x80\x9cDrug Safety Alerts and Recalls,\xe2\x80\x9d when a new item is available in this category, you will receive a notification, even if you are not in the MPR app.Recent changes:* You can now move the drug databases to and from your device's SD card, via the Data Location tab* Fixed an issue with connecting to the internet on certain devices* Various other bug fixes"
+p4
+tp5
+tp6
+.

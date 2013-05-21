@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Magnificent Magnifier HD '
+p1
+tp2
+(S'Description:'
+p3
+S'This Magnifier will help you to see any small thing and to take a picture. It is very easy to use. This app is for free.It simulates a magnifying glass using the zoom of the camera (if it is available). In the devices that support the LED flash of the camera in mode torch, you will be able to use it as a flashlight or lantern to illuminate the thing that you are seeing. If camera has focus with mode "MACRO" you will be able to use it to have a high quality image. If it is needed, there are popup messages that inform you about the limitations of the features of your deviceIn devices with zoom x8 or higher we can say this is a high definition (HD) pocket microscope Please, take into account that the quality of the image and the magnification level depend directly on the quality of the camera and its zoom because they are the lens of the magnifier.The maximum zoom level depend on the device, some of them has no zoom or the zoom is not available to be managed by apps. In these cases the zoom will be "x1\xe2\x80\x9dThere are devices that have a camera application embedded that manages the zoom but this zoom is not available for other applications like this magnifier.It has been designed for Gingerbread (GB) and Ice Cream Sandwich (ICS).Ultra high digital quality implemented using a tiny amount of memory.Enjoy it!NOTE: The INTERNET permission is needed for the publicity bannerRecent changes:New menu options has been addedIt is possible to select the languageName in different languages'
+p4
+tp5
+tp6
+.

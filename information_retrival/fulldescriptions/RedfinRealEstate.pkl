@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Redfin Real Estate '
+p1
+tp2
+(S'Description:'
+p3
+S"Get the best real estate app available with the tools you need for a faster, smarter home search on the go! With Redfin Real Estate, you'll never miss out on the perfect home for you.Features:\xe2\x80\xa2 Never Miss a Home for Sale: Search 20% more homes for sale, get alerts within minutes of new property coming on the market, and request to see homes in-person two taps later.\xe2\x80\xa2 Get the Inside Scoop From Redfin Agents: Not only can you access the same information that agents use, but you get exclusive tour & offer insights from Redfin Agents that you can't get anywhere else, period.\xe2\x80\xa2 Easier at Every Step: Fully synchronized with your Redfin account, access your personal favorites, x-outs, notes, and photos from anywhere.Important Note - Only available in the metro areas of Atlanta, Austin, Boston, Charlotte, Chicago, Dallas, Denver, Fort Lauderdale, Houston, Las Vegas, Los Angeles, Miami, Orange County, Portland, Philadelphia, Phoenix, Raleigh, Sacramento, San Diego, San Francisco Bay Area, Seattle & Western Washington, Washington DC & Baltimore, and Westchester, Long Island & the Bronx.Recent changes:v 1.3.1:Crash fixesv 1.3.0:We'll Push, You Steer\xe2\x80\xa2 We\xe2\x80\x99ve added instant-update powered notifications so you\xe2\x80\x99ll know within minutes of a new home coming on the market, dropping in price, and more\xe2\x80\xa2 Receive updates on both active and sold homes\xe2\x80\xa2 Less bugs means fun for the whole family!"
+p4
+tp5
+tp6
+.

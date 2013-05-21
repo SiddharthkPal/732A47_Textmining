@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Asphalt Moto '
+p1
+tp2
+(S'Description:'
+p3
+S'Asphalt Moto, 3d motor racing game with simple control and nice graphic effect.Racing in night!\xe2\x98\x85Just swap your phone to control motor direction\xe2\x98\x85In this game you can ride the motorcycle shuttle in outskirts, forest, snow mountain,bridge. More and More maps and motor will coming soon\xe2\x98\x85Tap the screen to accelerate the motor'
+p4
+tp5
+tp6
+.

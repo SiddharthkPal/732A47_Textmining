@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HDR Edit Free '
+p1
+tp2
+(S'Description:'
+p3
+S'With this intuitive photo editor, you can apply HDR style tone mapping to any picture. More specifically, it enables you to adjust overall scene contrast and detail level contrast separately. In practice, you can create beautiful pictures even from relatively bland looking photos. HDR Edit saves your processed pictures in full original resolution.This free version of HDR Edit has reduced features. You can unlock all features by purchasing HDR Edit Pro.Usage tipsOn the editor screen, you can hide/show the toolbars by dragging the triangle icons. You can also quickly hide all controls by holding you finger down on the screen.There is a list of presets to get you started, but you probably want to customize the settings a little bit for each picture. If you know what you want, the Neutral setting is a good starting point. First experiment with scene contrast and detail contrast sliders until you find a combination that works for you. There is no single "correct" setting for any picture. Trust your eye to find settings that bring out the essence of your picture.After you have found contrast settings you like, the rest is fine tuning. Adjust color saturation and brightness to your liking and click Save. After a moment of processing, you get a screen where you can share the saved picture with your friends or open it in another app like Android Gallery.The editor remembers your last saved settings. For example, to continue editing the same picture after saving, just select it again from the main menu and you will be continuing from where you left last time.'
+p4
+tp5
+tp6
+.

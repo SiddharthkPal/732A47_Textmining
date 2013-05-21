@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Surah Ar Rahman with mp3 '
+p1
+tp2
+(S'Description:'
+p3
+S'Surah Ar Rahman is very nice and unique Surah of Al Quran Majeed.Features:* Multiple Languages Supported (Now available Arabic, Urdu and English)* New concept of Animation.* Beautiful Voice (With Urdu and English Translation)* Best Graphics* User Attractive Color ThemeRecent changes:This application is in new animation style and user attractive. Surah Ar Rahman contains multiple languages supported especially Urdu and English. Surah Ar Rahman also contain beautiful voice in Arabic, Urdu and English Language. Surah Ar Rahman has best graphics.'
+p4
+tp5
+tp6
+.

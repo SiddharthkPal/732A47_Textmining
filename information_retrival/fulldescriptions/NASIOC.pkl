@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NASIOC '
+p1
+tp2
+(S'Description:'
+p3
+S"NASIOC is the world's largest forum for Subaru enthusiasts.  This app will allow you the best access to the site from your Android device.You will find topics of discussion from our very informative technical forums, and very high traffic free classifieds, to our Off Topic forum for some non-Subaru related entertainment.Recent changes:-Startup crash fixed! -Fixed login bug on Android 4.2!"
+p4
+tp5
+tp6
+.

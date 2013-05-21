@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Olive Office Premium (free) '
+p1
+tp2
+(S'Description:'
+p3
+S'OliveOfficePremium is a software suite for Android devices that enables you to view and edit Microsoft Word(doc/docx),Excel(xls/xlsx) and PowerPoint(ppt/pptx) files.In addition,it inherits the function of viewing portable document file(pdf) and compiled help manual(chm) fromOliveOfficeBasic,released previously.Our product can be downloaded and used completely free of charge.More features will be revealed in later versions.If you only want to view the files,please download "OliveOfficeBasic" version which is optimzed for viewing.For any questions about this software,please send email to support@oliveoffice.com.We are very pleased to accept your feedback and suggestion at any timeOlive DOC:*Create,open and edit Microsoft Word documents*View and edit rich text formatting:bold,italics,underline,font size*Select a text range to edit*View images and tables*Edit texts in tables*Zoom in/out*Save documents with Save/SaveAs*Copy, cut and paste text*File support:.DOC and .DOCXOlive XLS:*Create,open and edit Microsoft Excel spreadsheets*Edit single cell contents*Select multiple cell ranges for formatting:bold,italics,underline,fontsize and cell background color*Navigate between worksheets inside a single spreadsheet*Easily change formula inputs and dynamically recalculate*View images*Add and delete one column/row*Zoom in/out*Save spreadsheets with Save/SaveAs*Copy, cut and paste single cell content*File support:.XLS and .XLSXOlive PPT:*Create,open PowerPoint presentations and edit slide text content*View presentations:images,autoshapes and rich text formatting:bold,italics,underline,font size*Easily navigate slides with Previous/Next*Save presentations with Save/SaveAs*File support:.PPT and .PPTXOlive PDF:*Open PDF files*Quick navigation with Go To Page*Zoom in/outOlive CHM:*Open CHM files*Follow hyperlinksOlive MHT:*Open MHT filesLanguage Support:Localized in English,French,Korean,Chinese,Japanese,DeutschRecent changes:WordPage View in Reading ModePage up and downQuick positioning in documentsSearch the Internet for the selected textInserted picturesDocument recoverySome bugsExcelUnified the UI of the tooltipsFixed the shadow issue occurring while closing some dialog boxesPPTAdded Thumbnail ViewAdded support for 2D Pie Graph, 2D Area Graph, 2D Scatter Graph and 2D Bubble ChartImproved the display of formulasOthersUpdated to mobile office platform that provides more office tools'
+p4
+tp5
+tp6
+.

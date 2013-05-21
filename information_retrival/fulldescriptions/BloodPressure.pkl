@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Blood Pressure '
+p1
+tp2
+(S'Description:'
+p3
+S'"My Heart" helps you tracking and analyzing key blood pressure data that you can track, edit, describe, analyze, view on interactive graphs or send them directly to your doctor! !!!!!!!!!!WARNING!!! THIS APP DOES NOT MEASURE YOUR BLOOD PRESSURE, BUT IT COLLECTS YOUR MEASUREMENTS!!!!!!!!!!!Key features:\xef\x81\xb6 Outstanding and easy to use User Interface\xef\x81\xb6 Tracking data: o Innovative TAGS feature o Date and Time o Blood pressure: Systolic and Diastolic o Pulse o Comment / description\xef\x81\xb6 Support for many users\xef\x81\xb6 Interactive graphs which shows you your blood pressure trend and your condition with a glance of an eye!\xef\x81\xb6 Statistics with blood pressure cattegories basing on JNC (Joint National Committee)\xef\x81\xb6 Send your data to your doctor of whoever you want in 5 seconds!\xef\x81\xb6 Export data to: o CSV o XMLJust download for FREE and take control of your blood pressure with My Heart!Recent changes:1.2.9- fixed very sporadic "force close"- deleted library treated as thread by some anti-adware software1.2.7-8Corrected stability1.2.6- added support for additional users- fixed issue with saving csv files- enchanced user interface- protection for fraud click on ads'
+p4
+tp5
+tp6
+.

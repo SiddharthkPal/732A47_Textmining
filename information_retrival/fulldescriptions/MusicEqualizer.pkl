@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Music Equalizer '
+p1
+tp2
+(S'Description:'
+p3
+S"Music Equalizer - The best sound for your AndroidLet their songs much better with the Music Equalizer!Improve your phone or tablet's sound quality now!Features:* 5 Band equalizer controller* Bass Booster* Virtualizer mode for best headphone results* 10 Presets* Save custom presets* 4x1 widget* Notification shortcut available for quick access* Works with all screen resolutions - Cell Phones and Tablets (HD)* FreeMusic Equalizer works with the most players, like:* Android\xe2\x84\xa2 Music Player* Winamp* Google Music* MixZing* Powerampand more...Music Equalizer works with streaming music like Pandora, Spotify, etc.Stock presets:* Flat* Classical* Dance* Folk* Heavy Metal* Hip Hop* Jazz* Normal* Pop* Rock The best music equalizer on the Google Play!"
+p4
+tp5
+tp6
+.

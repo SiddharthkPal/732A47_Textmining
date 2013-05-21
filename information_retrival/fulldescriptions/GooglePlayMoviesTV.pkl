@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Play Movies & TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Google Play Movies & TV allows you to watch movies and TV shows purchased on Google Play.You can stream instantly on your Android phone or tablet, or download so you can watch from anywhere, even when you\xe2\x80\x99re not connected. Also, get quick access to your personal video collection, including those taken on your phone or tablet.Learn more about Google Play Movies & TV at http://play.google.com/about/moviesNote: TV shows are currently available in the United States only.Recent changes:On tablets, press pause to discover actors, related films, and even what song is playing. Look for movies with the info cards badge. US only.Search across your library and the Play Store for movies & TV shows.Receive notifications for new TV show episodes if you\'ve purchased the season.Select the "refresh" option in the overflow menu to  checks for any updates to the library.Now available in India!'
+p4
+tp5
+tp6
+.

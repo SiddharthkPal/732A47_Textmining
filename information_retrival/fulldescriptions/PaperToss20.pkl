@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Paper Toss 2.0 '
+p1
+tp2
+(S'Description:'
+p3
+S'Paper Toss 2.0: Now With Twice The Time-Killing Fun. \xe2\x9d\x9d Paper Toss 2.0 is a great new free game for wasting time and procrastinating real work. \xe2\x9d\x9e ~ Gamezebo.com Review \xe2\x9d\x9d Download Paper Toss 2.0 with confidence. It\xe2\x80\x99s a classic time waster gone digital, a major upgrade over the original, and best of all, it\'s free. \xe2\x9d\x9e ~ SlideToPlay.com Review The mega-hit Paper Toss game franchise just got a big promotion to Paper Toss 2.0. Remember those pesky "Hey, you hit me!" co-workers from the original Paper Toss? In 2.0 you can throw right at them, you devil. You\'ll still score points by flicking wads of paper into the office trash can (now with a handsome new ergonomic design). Plus, try your skills with flaming paper balls, tossable bananas, tomatoes, grenades and other stuff to hurl in all-new settings. Since it\'s initial launch in June 2009, Paper Toss has been downloaded over 100 million times. Paper Toss 2.0 takes tossing to an entirely new level. It\'s a free app, because that\'s our thing. With it, you get: \xe2\x98\x85 Bananas, grenades and other new tossables \xe2\x98\x85 Annoying co-workers to toss stuff at \xe2\x98\x85 Moving targets and bank shots \xe2\x98\x85 Brand new levels plus classic favorites \xe2\x98\x85 Breakable, exploding office objects \xe2\x98\x85 Power-ups to boost your scores Version 2.0 is so realistic, you\'ll think you\'re actually killing time in an office cubicle. (Maybe you are. We won\'t tell anyone.) \xe2\x9e\xa4 Install Paper Toss 2.0 - It\'s Free! ______________________________ Paper Toss 2.0 is brought to you by Backflip Studios, makers of absurdly fun mobile games like NinJump, DragonVale, Ragdoll Blaster, Strike Knight, Army of Darkness Defense, Shape Shift and Graffiti Ball. Search Google Play for "Backflip Studios" to see all our apps. Follow @BackflipStudios on Twitter for free game announcements and other updates. Thanks for playing!'
+p4
+tp5
+tp6
+.

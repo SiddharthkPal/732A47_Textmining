@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Offline Dict En Ar '
+p1
+tp2
+(S'Description:'
+p3
+S'Offline Full version Dictionary English Arabic and Arabic EnglishNeed 7.5mb after installationWork on Android 2.2 and above www.ddd.bzwww.drmsi.com'
+p4
+tp5
+tp6
+.

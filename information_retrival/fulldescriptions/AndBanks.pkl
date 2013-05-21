@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AndBanks '
+p1
+tp2
+(S'Description:'
+p3
+S"Cette application vous permet d'aller directement sur le site mobile de votre banque. Les banques support\xc3\xa9es sont :* Banque Populaire Lorraine Champagne* Banque Postale* Barclays* BNP Paribas* Boursorama* BPE* Caisse d'Epargne* CIC* Cofinoga* Cr\xc3\xa9dit du Nord* Cr\xc3\xa9dit Foncier* Cr\xc3\xa9dit Mutuel* HSBC* LCL* M\xc3\xa9diatis* Soci\xc3\xa9t\xc3\xa9 G\xc3\xa9n\xc3\xa9rale* Cofinoga* M\xc3\xa9diatis* AXA Banque* Banque Accord* RBC (Royal Bank of Canada)* Fortuneo* ING Direct* Monabanq* Cr\xc3\xa9dit agricole* BforBankDe nouvelles banques viendront compl\xc3\xa9ter la liste.Recent changes:Ajout des banques :* AXA Banque* Banque Accord* RBC* Fortuneo* ING Direct* Monabanq* Cr\xc3\xa9dit agricole* BforBankAjout de fonctionnalit\xc3\xa9s :* Possibilit\xc3\xa9 de passer en mode paysage.* Ajout d'un message concernant la s\xc3\xa9curit\xc3\xa9 de l'application.* Correction du bug au lancement de l'application.* Compatible sur Tablettes."
+p4
+tp5
+tp6
+.

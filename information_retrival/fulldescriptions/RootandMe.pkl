@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Root and Me '
+p1
+tp2
+(S'Description:'
+p3
+S"6.0-----------Over 50+ NEW GUIDES!-Root Chat!*Black Screen? Give the app a minute load! See note at bottom. Load can take up to 1 minute on 3G! Try Wi-Fi.. UPDATE SOON!! ONE STAR REVIEWS HURT! If you would like your phone added leave a 5 star review and I will get to it even faster. Root and Me is a great app for any user looking to root their device and what they can do afterwards! This is the best app for new users who are looking for some information and straight forward guides! There are guides to root most popular phones! If the phone isn't listed, there are great instructions in the app for finding a guide!What will be included in this app?-Pro/Cons of rooting-Common root terms-Root Defined in depth-Root Only Apps-Backup Guides-Custom ROMS GuidesThis app is tested to work on most Android phones and Tablets! Root is not required for this app! An internet connection is not required for this app, but is to load images.*This app has been tested to work in a wide variety of devices and screen sizes. If you get the Black Screen connect to the Internet and give the app up to a minute to load! If you get errors please send me information. I have tested this app personally on tons of devices and it works every time.Recent changes:6.0-------------Added many new root guides!Removed FormAdded Root ChatAdded Online Root SectionIn-App performance increases5.0-------------Added form to root guides section to have your phone added."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Convert Video to mp3 '
+p1
+tp2
+(S'Description:'
+p3
+S'Convert video to Mp3 and AAC- Extract music from your favorite videos and save them as music on your phone!- Extract music from movies and save them as ringtone. Usefull when you want to set the greatest quotes of your favorite movies as ringtone.very easy to use with a visual editor. you can set a start and end timestamp to only extract a part of the soundtrack.- Extract music as AAC- Extract music as MP3- Save as music or Ringtone- Set Start/End timestamp- Automatically save extracted music in your library- Easy to use and FreeRecent changes:V1.0: First release'
+p4
+tp5
+tp6
+.

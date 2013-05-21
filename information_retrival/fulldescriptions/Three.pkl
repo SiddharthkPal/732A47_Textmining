@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Three '
+p1
+tp2
+(S'Description:'
+p3
+S"The Three app gives you easy access to your My3 account, so you can manage it on the move and much more. Keep track of what you spend, and find helpful guides for common problems such as setting up email on your phone and customising your homescreen. You\xe2\x80\x99ll also be able to discover more about your phone and find useful contact numbers and links to three.co.uk. And you can have fun playing our highly addictive bubble game. If you're on Wi-Fi the app will take you straight to the My3 site in your browser.Recent changes:v2.3:- Support for Full HD screens- Find your nearest store- Minor bugfixesv2.2.2:- Minor bugfixesv2.2.1:- Fixed missing links for top-up breakdown.v2.2:- Added our fantastically fun bubble game.- Added TalkBack support for visually impaired users.- Added support for customers joining Three with a form to quickly and easily bring your current number to Three. - Sound can now be disabled using a switch in the \xe2\x80\x98More\xe2\x80\x99 section. - It's now easier to find and buy Add-ons."
+p4
+tp5
+tp6
+.

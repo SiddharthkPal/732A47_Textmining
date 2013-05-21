@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Neurology Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Neurology deals with the diagnosis and treatment of all categories of disease involving the central and peripheral nervous system; or equivalently, the autonomic nervous systems and the somatic nervous systems. Easily understand complex medical terms through our neurology dictionary.Download Neurology Dictionary today to know nervous system and there actual meaning. Neurology is the medical field- study of the human nervous system. The nervous system encompasses the brain, spinal cord, nerves, and muscles. Keep up to date with latest news and articles with the Medical  news feed. provides authoritative, concise definitions for a wide range of terms used in the health sciences, including  diseases, nervous parts, and procedures and much more.Quick dynamic search of words while you type.It Works offline, no need for an active internet connection!the main purpose of this dictionary to provide the information if you apply on the subject first contact to doctor.'
+p4
+tp5
+tp6
+.

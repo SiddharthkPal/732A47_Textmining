@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Battery Saver & Widget '
+p1
+tp2
+(S'Description:'
+p3
+S"Over 15 Million Users\xe2\x80\x99 Choice. GO Battery Saver & Widget is a Powerful, smart tool to reduce battery loss and prolong battery life by 50%. It intelligently manages your battery use to your own needs after configured. Reclaim your battery life RIGHT NOW!\xe2\x9d\xa4PowerfulWith one click, GO Battery Saver & Widget optimizes power consumption by managing wifi, mobile data, audio, Bluetooth, screen brightness, synchronization, apps and other battery draining component. It helps decrease power loss and prolongs battery life.\xe2\x9d\xa4SmartWith pre-set modes and smart toggle control, GO Battery Saver & Widget enables you to configure the battery saving schedule to your unique needs. After configured, it runs by itself and intelligently switches modes, turns on/off toggles as with different battery level, phone status, or time. It can't be easier!\xe2\x9d\xa4Features to save battery:- pre-set 3 default and 2 custom modes to save battery- one key battery consumption optimization- smart mode switching by battery power/time- smart toggle on/off control when screen off- apps power consumption monitoring and analyzing- calls, reading, network, audio, video, phone idling endurance time calculating- battery temperature monitoring and abnormal status alert- battery information in status bar- white list to set the apps you don\xe2\x80\x99t want to kill- battery widgets with 4*1 and 1*1 size- various themes for notification bar and battery widgets- detailed battery user manual\xe2\x9d\xa4More advanced features to save battery with Pro Version:- editable default modes to your unique needs- smart mode switching when charging battery- smart synchronization on/off- Bluetooth turn off when not in use- detailed power consumption for specific app- charging record helping build a healthy charging habit- delicate battery widgets themes exclusively for Pro Version*How to add the GO Battery Saver widgets?Long press the home screen -> \xe2\x80\x9cWidget\xe2\x80\x9d -> \xe2\x80\x9cGO Power Master\xe2\x80\x9d. Make sure there is enough space on your home screen.Feel free to contact us if there is any problem or suggestion: golauncher@goforandroid.comWe are endeavoring to make GO Battery Saver & Widget more powerful, and intelligent. If you like it, please do recommend it to your friends. Your support is always appreciated.Recent changes:1. (Improve)Optimize method2. (Fix) Bug"
+p4
+tp5
+tp6
+.

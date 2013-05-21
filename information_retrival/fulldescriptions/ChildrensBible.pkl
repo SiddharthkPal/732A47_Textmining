@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Children\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s Bible '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85 Now you can download a different FREE COMIC BOOK every week or buy all the comic books in the app itself.\xe2\x98\x85 Children's Bible comic books are a good tool to start reading the Bible and an easy way to talk about Jesus and God with your kids.Thanks to you we can continue improving Children's Bible!Languages:- English- French- Spanish- Italian- German- Portuguese- CatalanPlease, rate it, if you like it!CONTACT THE CHILDREN\xe2\x80\x99S BIBLE TEAM:Email: contact@childrenbible.orgBlog: www.childrenbible.orgTwitter: ChildrensBible (http://twitter.com/ChildrensBible)Facebook: Children's BibleRecent changes:\xe2\x98\x85 Now you can download a different FREE COMIC BOOK every week or buy all the comic books in the app itself.\xe2\x98\x85 Children's Bible comic books are a good tool to start reading the Bible and an easy way to talk about Jesus and God with your kids.CONTACT THE CHILDREN\xe2\x80\x99S BIBLE TEAM:Thanks to you we can continue improving Children's Bible!Email: contact@childrenbible.orgBlog: www.childrenbible.orgTwitter: ChildrensBible (http://twitter.com/ChildrensBible)Facebook: Children's Bible"
+p4
+tp5
+tp6
+.

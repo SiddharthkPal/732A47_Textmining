@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PlayerPro Red Fusion Skin '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a skin for Music PlayerPro app. Music PlayerPro is an advanced music and video player for Android 2.x devices.INSTALLATION INSTRUCTIONS: Once installed, the skin is not visible in your phone app list. To activate the skin, you need to follow these steps:* From PlayerPro\'s option menu, go to Settings > Look and feel and select the "Scan for installed skins" option (this step is optional starting from PlayerPro 2.5).* You can then select the new skin using the "Select skin" option.Copyright 2011 BlastOn LLC.Recent changes:- 03/02/2013: PlayerPro v2.6 compatibility, Widget Pack v2.7 compatibility, background transparency support, UI tweaks, bug fixes- 23/12/2012: bug fixes'
+p4
+tp5
+tp6
+.

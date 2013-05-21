@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WEB.DE Fotoalbum '
+p1
+tp2
+(S'Description:'
+p3
+S'***** Jetzt neu: Installieren Sie sich die WEB.DE Foto App und erhalten Sie als Freemail Nutzer 4 GB zus\xc3\xa4tzlichen Speicherplatz f\xc3\xbcr Ihre Fotos im WEB.DE Fotoalbum *****Liebe WEB.DE Kunden,wir freuen uns, Ihnen eine rundum erneuerte Foto-App anbieten zu d\xc3\xbcrfen. Das aktuelle Update liefert ein frischeres Aussehen der App sowie neue, praktische Funktionen, die f\xc3\xbcr einen noch gr\xc3\xb6\xc3\x9feren mobilen Foto-Genuss sorgen.Alle Bilder des kostenlosen WEB.DE Fotoalbums stehen Ihnen von nun an auch unterwegs mit der WEB.DE Fotoalbum App auf Ihrem Android Smartphone zur Verf\xc3\xbcgung. Speichern Sie Ihre Lieblingsbilder online im WEB.DE Fotoalbum. Melden Sie sich danach einfach und sicher mit Ihren Nutzerdaten bei der WEB.DE Fotoalbum App an und schon stehen Ihnen Ihre Fotos und Alben auch unterwegs immer zur Verf\xc3\xbcgung.- Durchst\xc3\xb6bern Sie \xc3\xbcberall Ihre Bilder in der komfortablen Vorschau- Schauen Sie sich bequem Ihre Bilder als Diashow an- Senden Sie Ihre besten Bilder einfach per Mail an Ihre Freunde- Geben Sie Ihre besten Alben direkt aus der App f\xc3\xbcr andere Nutzer per Email frei- Laden Sie einzelne Fotos vom Smartphone auf das WEB.DE Fotoalbum- Nutzen Sie die Backup-Funktion und sichern Sie komfortabel alle Aufnahmen von Ihrem Smartphone automatisch im WEB.DE FotoalbumViel Spa\xc3\x9f mit Ihren Fotos w\xc3\xbcnscht IhnenIhr Team von WEB.DE!Recent changes:***** Jetzt neu: Wir schenken Ihnen 4 GB Online-Speicher! Laden Sie sich einfach kostenlos die WEB.DE Fotoalbum App herunter und melden Sie sich an - schon bekommen Sie 4 GB extra! *****- Einbindung neuer Google Maps API- Bugfixes und Improvements'
+p4
+tp5
+tp6
+.

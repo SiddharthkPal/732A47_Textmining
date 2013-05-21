@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RFI '
+p1
+tp2
+(S'Description:'
+p3
+S"RFI app, in French and English, enables you to follow Breaking News, get the latest world and African news, listen to radio programmes \xe2\x80\x93 live and on demand- anywhere in the world and share them with your friends. For best use, this app requires latest Android version, so don't hesitate to upgrade your phone OS!"
+p4
+tp5
+tp6
+.

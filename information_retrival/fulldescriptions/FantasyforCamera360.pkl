@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'\xc3\xa2\xe2\x82\xac\xcb\x9cFantasy\xc3\xa2\xe2\x82\xac\xe2\x84\xa2 for Camera360 '
+p1
+tp2
+(S'Description:'
+p3
+S'Working with Belgium Artist Ben Heine, Camera360 develops 10 wonderful templates which are part of Ben Heine\xe2\x80\x99s \xe2\x80\x98Pencil Vs Camera\xe2\x80\x99 works. It will bring you something beyond your imagination.\xe2\x80\x98Fantasy\xe2\x80\x99 Templates Package brings much surprise to phone photography. Photography is not just a kind of recording; with \xe2\x80\x98Fantasy\xe2\x80\x99 you can make your own wonder world by joining reality with fantasies.*Only work with Camera360*After installing the Fantasy Templates Package , you can find 10 templates in the \xe2\x80\x98scenes\xe2\x80\x99of Camera360.Recent changes:1\xe3\x80\x81Firstly working with famous creative artist Ben Heine, Camera360 develops \xe2\x80\x98Fantasy\xe2\x80\x99 Templates Package for Camera360 users to bring out what they can not imagine.2\xe3\x80\x81With \xe2\x80\x98Fantasy\xe2\x80\x99, you can easily take pictures part in real and part in sketch.3\xe3\x80\x81Great templates bring you the superlative fun.'
+p4
+tp5
+tp6
+.

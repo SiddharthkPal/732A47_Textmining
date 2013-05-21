@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kik Messenger '
+p1
+tp2
+(S'Description:'
+p3
+S'50 million users love Kik! It\'s the fast, simple, and personal smartphone messenger that connects you to everyone you love to talk to.Here\'s why you\'ll love Kik:FAST: Kik is hands\xc2\xaddown the fastest, most reliable smartphone messenger available. And with sent, delivered, read and typing notifications, your conversations will come to life.SIMPLE: We believe that simplicity is the ultimate in sophistication. We\'ve spent thousands of hours making sure Kik is the easiest, most beautiful smartphone messenger around.PERSONAL: Your Kik username \xc2\xad not your phone number \xc2\xad is your Kik identity, so you can keep complete control of your privacy. No wonder Kik is the number one way people connect in other social apps like Instagram, SocialCam, and Viddy.And now you can do even more on Kik, with new features that let you instantly find and share fun videos, sketches and pictures.Here\'s what out users have to say:"Amazing app! And so, so fast." Katie"The best way to keep your personal information private." Phil, instagrammers.com "Really easy to use." AmberRecent changes:6.3.1\xe2\x80\xa2 Fixes a crash for some users on upgrade6.3\xe2\x80\xa2 Find and start talking to your friends faster\xe2\x80\xa2 Organize your favorite cards\xe2\x80\xa2 See at a glance when cards have new content6.2\xe2\x80\xa2 Squared puzzle game now available in More\xe2\x80\xa2 Sidebar improvements\xe2\x80\xa2 Press and hold to share a card via Kik6.1\xe2\x80\xa2 Reddit Pics card now available in More\xe2\x80\xa2 Option to disable notifications from new people\xe2\x80\xa2 Wi-Fi network improvements'
+p4
+tp5
+tp6
+.

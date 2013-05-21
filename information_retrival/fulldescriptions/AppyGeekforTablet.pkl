@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Appy Geek for Tablet '
+p1
+tp2
+(S'Description:'
+p3
+S"Awesome appBrilliant app for keeping you up to date with all the latest news from top providers.  A techno geek\xe2\x80\x99s Bible of information - Feb 2013The one stop shop for all tech news!As an Android lover I appreciate having a one stop shop for up to date tech info.  I'm a mobile product manager and I feel like this app was made for me - Jan 2013Wow, my top tech news app...A must have whether you're a techie or not!  Always bang up to date and so many articles that there\xe2\x80\x99s not enough time in the day. Fantastic app! - Feb 2013_ _ _ _ _ _ _ _ _Appy Geek \xe2\x80\x93 The #1 tech news app with a beautiful design, unrivalled coverage and a fully functional interface independently optimized for all smartphones and tablets.\xe2\x80\xa2\tGet a visual overview of all the latest tech news from your favorite topics\xe2\x80\xa2\tChoose only the topics that are of interest to you, and personalize your home screen\xe2\x80\xa2\tExplore via Tag Nav\xe2\x84\xa2, our innovative news navigation system\xe2\x80\xa2\tEnjoy complete articles with photos and videos from trusted sources \xe2\x80\x93 no RSS feeds!Features all the best tech publications on the planet; including CNET, Engadget, TechCrunch, SlashGear, Stuff, T3, Pocket Lint, Tech Radar, The Verge, Android Headlines and many more.Get all the latest news on  Android, Google, Apple, Amazon, Facebook, Twitter, Samsung, HTC, smartphones, tablets, gadgets, Windows, start-ups, science, video games, internet and much more.Appy Geek is available in 8 regional editions - USA, UK, Germany, Italy, France, Spain, LatAm and International_ _ _ _ _ _ _ _ _PERSONALIZE > EXPLORE > GET ALERTED > SHARE > REACT  _ _ _ _ _ _ _ _ _Your tech news  - Get Appy Geek now!Twitter - @Appy_GeekFacebook - http://www.facebook.com/AppyGeekWatch - http://www.youtube.com/mobilesrepublicRecent changes:3.0.4 :Various bug fixes - You can now fully customize your home screen by resizing and moving topics around- For tablet readers, a new visual overview of all latest news in your favorite topics. Article lists are always accessible from any article for quick news-browsing- Add new favorite topics from a new and improved catalog of popular choices- Ability to deactivate the magazine view in the display settings options- Fixed memory issues"
+p4
+tp5
+tp6
+.

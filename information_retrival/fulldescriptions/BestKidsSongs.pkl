@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Best Kids Songs '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85Best gift for your little ones! \xe2\x98\x85#1 Top Grossing Education App! \xe2\x98\x85One of the Best Ranking Education Apps! \xe2\x98\x85Sing along kids\xe2\x80\x99 favorite songs with BEST KIDS SONGS\xe2\x98\x85- Got a new toy for my children. They seem to have a good time playing. (ID:Tinysky) - Kids love it! Free to have dinner while my kids are singing with Best Kids Songs~! (ID: sean.k) - They just can\xe2\x80\x99t let go of it! So far, the best quality I\xe2\x80\x99ve seen in kids\xe2\x80\x99 apps! (ID: daddyBEAR) - My 3-year-old son is choosing the song he wants to listen, dancing and singing all by himself!! How adorable! :D (ID: babyB) - A Must-have-app for young kids! Great to have a full video with dance routines (ID: obb1133) \xe2\x98\x85BEST KIDS SONGS Features\xe2\x98\x85\xe2\x99\xac Clear and vivid full HD video \xe2\x99\xac Non-stop playing for over 60 mins. (After purchasing all versions) \xe2\x99\xac Most popular songs for kids from 0 to 5. \xe2\x99\xac Easy to learn song lyrics \xe2\x99\xac Beautiful graphics and adorable characters \xe2\x99\xac Kid-friendly interface \xe2\x99\xac Compatible with both iPhone and iPad \xe2\x99\xac Operates without wi-fi after downloading \xe2\x99\xac Includes kids\xe2\x80\x99 Favorite songs: - Bingo - The bus - Baby\xe2\x80\x99s Clothes - Old MacDonald - The Alphabet Song - Twinkle Twinkle Little Star - The Eentsy Weentsy Spider \xe2\x80\xa6.. and more!  Have a magical experience with BEST KIDS SONGS! Smartbooks Apps will keep coming up, so don\xe2\x80\x99t miss the latest updates!'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Chrome Browser - Google '
+p1
+tp2
+(S'Description:'
+p3
+S'Browse fast with the Chrome web browser on your Android phone and tablet. Sign in to sync your Chrome browser experience from your computer to bring it with you anywhere you go.Search fast\xe2\x80\xa2 Search and navigate fast, directly from the same box. Choose from results that appear as you type.\xe2\x80\xa2 Browse faster with accelerated page loading, scrolling and zooming.Simple, intuitive experience\xe2\x80\xa2 Open and quickly switch between an unlimited number of browser tabs. On your phone, flip through tabs the way you would fan a deck of cards. On your tablet, swipe from edge to edge to switch tabs.Sign in\xe2\x80\xa2 Sign in to the Chrome web browser to sync your open tabs, bookmarks, and omnibox data from your computer to your phone or tablet.  Pick up right where you left off.\xe2\x80\xa2 Send pages from Chrome on your computer to Chrome on your phone or tablet with one click and read them on the go, even when you\xe2\x80\x99re offline.Privacy\xe2\x80\xa2 Browse privately in Incognito mode.Recent changes:Updates in this version of Chrome for Android include:\xe2\x80\xa2 Password and autofill sync: Access saved desktop passwords and autofill entries from your Android device\xe2\x80\xa2 Fix for blank page loads in some scenarios\xe2\x80\xa2 Several stability improvementsNote: This version requests two new permissions, Camera and Modify Audio Settings, to support WebRTC, an experimental feature under development.'
+p4
+tp5
+tp6
+.

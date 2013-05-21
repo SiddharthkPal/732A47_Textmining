@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'USAA Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"USAA mobile gives you immediate and secure account access from your mobile device. MANAGE FINANCES \xe2\x80\x94 Pay bills, transfer funds, send money, track spending with Money ManagerINVESTMENT CENTER \xe2\x80\x93 Place trades, get quotes and market news, and perform researchDEPOSIT@MOBILE \xe2\x80\x94 Qualifying members can deposit checks from their phone*INSURANCE CLAIMS \xe2\x80\x94 Report a loss, submit photos, view status PLUS \xe2\x80\x94 Loan calculator, ATM & rental car locator, get insurance cards *You must qualify for USAA's Deposit@Home\xc2\xae and Deposit@Mobile\xc2\xae ; eligibility for USAA property and casualty insurance and credit qualification required.Investments/Insurance: Not FDIC Insured - Not Bank Issued, Guaranteed or Underwritten - May Lose ValueYour contact list is only accessible to you on the USAA app and will not be stored within the app. Using your contact list within the app means that the payment tabs will be prefilled so you don't have to search for email addresses and phone numbers when you transfer money to other people. This feature is secure and does not provide USAA or any third-party with access to your contacts.USAA Money Manager is not an investment advisory service of USAA. Information on non-USAA accounts is governed by the User Agreement. USAA's personal financial management services are not sponsored or endorsed by any third party.Property and Casualty Insurance provided by United Services Automobile and its affiliates, San Antonio, TX.USAA means United Services Automobile Association and its affiliates. Banks Member FDIC. To take advantage of mobile.usaa.com, you must be registered on usaa.com. Investments provided by USAA Investment Management Company and USAA Financial Advisors Inc., both registered broker dealers.Your phone carrier\xe2\x80\x99s standard charges may apply. System availability and response time is subject to market conditions.USAA products are available only in those jurisdictions where USAA is authorized to sell them.Recent changes:-\tFixed bug in Deposit@Mobile affecting some members-\tSell your car.  You can now post your vehicle for sale using Auto Circle-\tHave a claim?  Send and receive messages with your claims representative and upload and view claims documents in the app-\tMoney Manager users \xe2\x80\x93 Your upcoming Web BillPay and Funds Transfer transactions can now be forecasted in the Scheduled section of the Account Summary page"
+p4
+tp5
+tp6
+.

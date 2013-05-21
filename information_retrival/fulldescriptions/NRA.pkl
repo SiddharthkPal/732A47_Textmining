@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NRA '
+p1
+tp2
+(S'Description:'
+p3
+S'Highlights include NRA News programming \xe2\x80\x94 users can view show archives from the past five days or search videos by issue. There are feeds for ILA alerts and the NRA Blog. NRA Near Me plots events, clubs, classes, schools and tournaments close to you. A Community section offers links to each division\xe2\x80\x99s Facebook orTwitter page, plus a state-by-state rep finder. And Take Action iswhere users can join, register to vote, donate or contact the NRA.Recent changes:Improved data speedsBug fixes'
+p4
+tp5
+tp6
+.

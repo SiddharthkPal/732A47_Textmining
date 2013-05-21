@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Football Live '
+p1
+tp2
+(S'Description:'
+p3
+S'- Watch latest soccer/football highlights for all matches- Fixtures/Results of league Matches- Match Details- Watch and Share Live Commentary with friends e.g. http://goo.gl/yPHih- Watch and Share Match Highlights Video- Watch and Share Match Summary with friends e.g. http://goo.gl/F9WU0- Watch and Share Teams Line-ups of each match with friends e.g. http://goo.gl/VcoZ9- Match Comments by users- Team Standings- Top Scorers- Match Predictions- League News- Image Gallery- Facebook Sharing (Video Highlights / News Articles/ Gallery Images)These are just some of the biggest competitions you will get:- Barclays Premier League (EPL)- Spanish La Liga- Italian Serie A- German Bundesliga- French Ligue 1- Dutch Eredivisie- Portuguese Liga- Primera Divisi\xc3\xb3n de M\xc3\xa9xico- Primera Divisi\xc3\xb3n de Argentina- Futebol Brasileiro- Major League soccer- Australian A-League- Scottish Premier League- Russian Premier LeagueRecent changes:- Share Upcoming Fixtures with friends with great looking skin e.g. http://goo.gl/QBGAt- Share Latest Match Results with friends with great looking skin e.g. http://goo.gl/aNaUF- Share Team Comparison Stats with Friends before each match http://goo.gl/7FkuM- Share Team Lineups with friends for each match: http://goo.gl/VcoZ9- Share Live Commentary with friends for each match: http://goo.gl/yPHih -Share Match Stats with friends for each match: http://goo.gl/F9WU0'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"GALAXY Note II User's Digest "
+p1
+tp2
+(S'Description:'
+p3
+S'Note, this application is designed to work best on the Galaxy Note II. But for using this application, please do not check Force GPU rendering in the Developer Options.Are you a GALAXY Note II User?   If you want to use the Galaxy Note II more effectively, Download the free interactive \xe2\x80\x9cUser\xe2\x80\x99s Digest\xe2\x80\x9d to learn how to enjoy smart all the amazing features in your Samsung GALAXY Note II. This application aims to provide helpful instructions for a variety of Galaxy Note II functions and features.   Chapter 1.  Basic Set UpChapter 2.  Air View Chapter 3.  Popup NoteChapter 4.  Popup VideoChapter 5.  Multi Window Chapter 6.  Enhanced S Pen  Chapter 7.  Easy Clip  Chapter 8.  Quick Command Chapter 9.  Handwriting Chapter 10.  Enhanced S Note Chapter 11.  Quick Glance Samsung, and its directors, employees, agents, representatives, suppliers, partners and content providers do not warrant the following list.- The service will be secure or available at any particular time or location.- Any defects or errors will be corrected.- Any content or software available at or through the service is free of viruses or other harmful components.- The results of using the service will meet your requirements. - Your use of the application, service, content and add-to link is solely at your own risk. - Some regions / countries do not allow limitations on implied warranties, so the above limitations may not apply to you.Recent changes:Add link of Introducing Galaxy Note II'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'chile en vivo Tv '
+p1
+tp2
+(S'Description:'
+p3
+S'Chile en vivo TV.Los canales nacionales de televisi\xc3\xb3n de Chile. Esta aplicaci\xc3\xb3n contiene una gran cantidad de canales de televisi\xc3\xb3n nacionales y regionales.Usted puede ver la televisi\xc3\xb3n con esta aplicaci\xc3\xb3n gratuita.Esta aplicaci\xc3\xb3n utiliza la conexi\xc3\xb3n a Internet.Deportes, juegos, econom\xc3\xada de todos los programas de TV est\xc3\xa1n disponibles ahora para usted.Algunos de los programas de televisi\xc3\xb3n pueden no estar disponibles debido a problemas de red.Por favor, tenga paciencia. Por favor, que nos apoyen. Estamos tratando de hacer una mejor aplicaci\xc3\xb3n.Esta aplicaci\xc3\xb3n es beta.Esta aplicaci\xc3\xb3n es un servicio de la cultura libre. Las personas que viven en Chile puede utilizar esta aplicaci\xc3\xb3n. Asimismo, las personas que viven fuera de Chile Chile tambi\xc3\xa9n ver con esta aplicaci\xc3\xb3n.'
+p4
+tp5
+tp6
+.

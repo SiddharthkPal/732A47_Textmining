@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ringdroid '
+p1
+tp2
+(S'Description:'
+p3
+S"The original open-source ringtone editor for Android, first published in 2008 and downloaded by millions of users worldwide.Create your own ringtone, alarm, or notification sound from an existing audio file, or record a new one directly on the device.This app requests permission to access your contacts for setting contact-specific ringtones and the Internet for sending anonymous usage statistics as described in the app's 'Privacy' menu. Source code is available at ringdroid.com.This app is the only 'official' distribution of the Ringdroid open-source project; it does not, and never will, contain ads.Recent changes:Ringdroid 2.6 is recommended for Android system versions 3.0 ('honeycomb') and newer. It includes user interface improvements specific to those versions of Android.Ringdroid 2.5 continues to be recommended for earlier Android system versions. Google Play Store will automatically select the correct Ringdroid for your Android system."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Seconds Clock Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'Clock Widget.The widget will display the number of seconds.Can customize the Background color and Text color and Transparency.Process of updating the clock, the screen (backlight) for energy savings with only do while.There are other apps -> https://market.android.com/developer?pub=in-trinityYouTube -> http://www.youtube.com/user/intriandroidTwitter -> http://twitter.com/#!/In_TrinityFacebook -> http://on.fb.me/vDUVnpRecent changes:v1.2.1 - Fixed a bug in the clock stops.'
+p4
+tp5
+tp6
+.

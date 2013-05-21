@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ExDialer SGS3 Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'REQUIRES ExDialer v125 or aboveSAMSUNG Galaxy S III Theme for ExDialer. It\'s not a standalone app. Install exDialer to apply this theme.It\'s the best choice of SGS3 owner!Theme package can not replace launcher icons of exDialer. But you can try "exDialer Shortcut Plugin" to customize icons for dialer and contacts.Recent changes:Fix bug of button size (caused by bug of Android)'
+p4
+tp5
+tp6
+.

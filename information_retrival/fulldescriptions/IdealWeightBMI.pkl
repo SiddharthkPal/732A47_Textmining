@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ideal Weight (BMI) '
+p1
+tp2
+(S'Description:'
+p3
+S"Are you in your right weight? Check it easily with this app. It will calculate your Body Mass Index (BMI) and will let you know if you are underweight, in good weight or overweight.Just swipe your finger over the measure tapes to enter your weight and height and get the BMI value and also your ideal weight range.This BMI calculator supports imperial and metric units,and you can alternate in just one click between kg or lbs and feet/inches or meters.Very usable BMI calculator and the only one in the market that doesn't require you to press the the button every time you want to calculate a new value.Key features of this app:- Very user friendly UI.- Imperial and metrics units.- Easy way to input height and weight values.- Real time BMI value.- Graphic coloured results.- Ideal weight estimation.- Exact calculation also with people under 19 years old.NOTE:Body Mass Index (BMI) is a simple index of weight-for-height that is commonly used to classify underweight, overweight and obesity. If you want more information regarding BMI you can check wikipedia page in this link:http://en.wikipedia.org/wiki/Body_mass_indexRecent changes:Bug fixed"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'reddit sync '
+p1
+tp2
+(S'Description:'
+p3
+S'reddit sync is a great new way to enjoy reddit on the go. Easily sync your favorite subreddits for later offline viewing. Reddit Sync aims to bring you the fastest mobile reddit experience out there.Features: - Fast and clean ICS Holo interface - Download and sync image posts for offline use - Light / Night themes - Inline image previews (RES style) - Marks reddit posts as read - Save / Vote & Login - Look of disapproval support - Google Drive supportPlease note: this version is ad funded. To remove the ads, please upgrade to pro.Head on over to http://reddit.com/r/redditsync for news and discussion on the app!Please note, reddit sync is an unofficial app. reddit and the reddit alien logo, trademark and trade dress are registered trademarks owned by reddit Inc. and are used under licenseRecent changes:7.7.4- Fixed comment sharing- Fixed a few more random force closes7.7.3- Fixed a few random force closes- Fixes force closes on tablets7.7.1- Replaced check boxes with radio button- Added hide to the long press dialog - Fixed a bug which could cause posts under hidden posts to be marked as viewed7.7.0- Default comment sort- Post hiding- Skip forwards  and backwards between parent comments- GIFs now auto play again for single images'
+p4
+tp5
+tp6
+.

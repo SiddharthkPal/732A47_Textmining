@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Speedtest.net '
+p1
+tp2
+(S'Description:'
+p3
+S'Use Speedtest.net for easy, one-tap connection testing in under 30 seconds\xe2\x80\x94accurate anywhere thanks to our global network.Millions of users have made Speedtest.net the #1 app for testing internet speeds, and it\xe2\x80\x99s trusted by the professionals like Anandtech, Engadget, and even the BBC and New York Times!- Discover your Download, Upload, and Ping- Real-time graphs show connection consistency- Troubleshoot or Verify the speeds you were promised- Track past tests with detailed reporting- Easily share resultsRecent changes:- User interface enhancements - Improved error handling - Library updates - Bug fixes'
+p4
+tp5
+tp6
+.

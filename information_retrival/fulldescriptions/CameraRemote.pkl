@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Camera Remote '
+p1
+tp2
+(S'Description:'
+p3
+S'Camera Remote Main Functions:1. Bluetooth Mode, WiFi Mode, and Web Control Mode2. Remote Camera Control from another Android, Notebook, or Desktop PC, and from Web Browsers.3. Remote Viewfinder (realtime)4. Record preview frames and play instantly.5. Take remote photo, list, and dwonload images.6. Remote video recording.7. Change remote camera settings.8. Change preview frame rates.9. Sound on/off10. File Explorer11. Image/Text viewer12. Record PlayerNEW: Galaxy Camera Support.NEW: Video Recording.For more information please visit following link.Web Controller: control camera from web browsers.http://busywww.appspot.comPaid Version must use following web controller.http://busywwwpro.appspot.comCamera Remote Help:http://www.busywww.com/CameraRemoteHelp.htmCamera Remote PC Help:http://www.busywww.com/CameraRemotePCHelp.htmCamera Remote PC Application Download Link:http://www.busywww.com/CameraRemotePCSetup-V6.msiFor this version 6, Android Camera Remote version must be Free (2.1.1) and Pro (1.1.1) and above versions to work properly.Android Camera also could be controlled by using Camera Remote PC desktop application.For more information please check help section, or visit above links.With WiFi mode, the remote android camera would be controlled from far distance than Bluetooth mode.With Bluetooth mode, it is very useful if there is no network connection available.(Note: Application is based on the Bluetooth Chat android sample application.)Recent changes:This Version Update:Video recording mode added.Galaxy Camera support, special thanks to Mike who helped me out on galaxy camera remote debugging.File explore update.Tablet (large screen) UI support, including Nexus 7 and others.Nexus 7 support.Web Browser Control mode has been added.Control android camera from web browsers.http://busywww.appspot.comLast version Update:PC Application has been updated.http://www.busywww.com/CameraRemotePCSetup-V6.msi'
+p4
+tp5
+tp6
+.

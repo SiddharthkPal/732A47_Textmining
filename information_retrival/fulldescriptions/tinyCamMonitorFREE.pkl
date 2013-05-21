@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'tinyCam Monitor FREE '
+p1
+tp2
+(S'Description:'
+p3
+S'tinyCam Monitor is one of the best app available for Android for remote surveillance, control and digital video recording for your private or public network or IP cameras, video encoders and DVRs.Listed as featured app on Google TV in Google Play. View your IP cams right from the sofa!Features of tinyCam Monitor FREE edition:- Support for M-JPEG based devices of all major vendors, e.g. Axis, FOSCAM, D-Link, Edimax, Panasonic, Pixord, TRENDnet, Mobotix, Vivotek- Support for up to 16 cams (4 simultaneously)- 3 multiple camera layouts- Sequence mode- One click camera sharing by email- Import/export settings to SD or Dropbox service- Control Pan/Tilt/Zoom (PTZ) enabled devices- Digital zoom- Snapshot to SD card- No adsUpgrade to tinyCam Monitor PRO to get:- Unlimited number of devices- Additional layouts- Cyclic video recording to SD/FTP/Dropbox- Audio support (selective models)- LAN search- SSL support (https protocol)- Support motion detection (selective models)- Priority developer supportFollow us:Web: http://tinycammonitor.comFacebook: http://facebook.com/tinycammonitorYouTube: http://youtube.com/user/tinycammonitorTwitter: @tinycammonitorCheck the list of supported manufacturers:http://tinycammonitor.com/support.htmlWant more public cameras? Use 3rd party WorldScope Webcams Android app which perfectly integrates with tinyCam Monitor.Permissions description:FULL INTERNET ACCESS - receive video/audio from cameras, sync via DropboxMODIFY SD CONTENT - save snapshots into "tinycammon" folder on SD card, import/export cams to SDPREVENT SLEEPING - block screen switching off when watching camsCONTROL VIBRATOR - vibrate when motion detectedVIEW NETWORK STATE - get WiFi/Ethernet stateAll company names and products are trademarks or registered trademarks of their respective companies.Recent changes:Version 4.3.7:- Multi window support for Samsung Galaxy S3, S4, Galaxy Notes, Galaxy TabsVersion 4.3.5:- Switch off background audio from notification bar (for Android 4.1 and above)Version 4.3.3:- Added support for FOSCAM FI9801W/FI9802W cameras. Upgrade your firmware to 1.4.1.10 first!- Fixed "Video Failed (length=4098)" bug'
+p4
+tp5
+tp6
+.

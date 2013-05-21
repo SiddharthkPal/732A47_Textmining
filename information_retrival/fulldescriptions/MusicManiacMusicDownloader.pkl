@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MusicManiac Music Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S"You can search in a extensive database of mp3 collections. You are sure to be impressed with the results.If you are a Music Maniac, this is the app to get.All Search results contain full information about artists and albums,  so its easier for you to identify what you are looking for. Also no broken links here. All the downloaded files will be in MusicManiac folder on sdcard or your external storage.Along with this app, you also will also receive StartApp's Search icon on your Home screen, which you may use to perform Searches. You can remove this icon anytime you want.This app is a great source to download all the free songs licensed under creative commons licence.  Because do not maintain our own databases, the app may show results of songs not under creative common licence. If you download such songs through this app we shall not be held responsible in any way.Questions or problems? Leave a comment below, or send me a email. MP3 download, Album download, albums, mp3, discography.Recent changes:Version - 2.1.3* Connection problem fixed For t-Mobile Users. * Fixed a few Uncommon Force closes.* Removed some older libs to optimized the code.* Album name is also save into mp3 now."
+p4
+tp5
+tp6
+.

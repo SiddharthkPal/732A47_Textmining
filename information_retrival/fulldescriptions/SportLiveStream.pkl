@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sport Live Stream '
+p1
+tp2
+(S'Description:'
+p3
+S'With "Sport Live Stream App" you have the world`s largest sports channel in your pocket. Get almost all available sport live streams free of charge on your android device.Get free updates every minute and a vast selection of sports live streams such as soccer (including EURO 2012), american football, tennis, basketball plus a large number of other events from the best leagues of the world like NFL, NBA, NHL, Bundesliga and Premier League. Forget about atdhe, myp2p, sportlemon, firstrowsports and all the others."Sport Live Stream" is the first and best sports streaming android app world wide.'
+p4
+tp5
+tp6
+.

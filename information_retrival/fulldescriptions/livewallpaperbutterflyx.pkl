@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'live wallpaper butterfly x '
+p1
+tp2
+(S'Description:'
+p3
+S"live wallpaper butterfly x is a beautifully design live wallpaper about a meadow with flowers and butterflies. In the center it shows a high definition scene where you see a 360\xc2\xb0 rotational 3d view of a flower and a butterfly. There is also a pro version of this app that will allow you to change the background, the flower color and the butterfly color. There are on the pro version:15 total butterfly colors15 total flower colors5 360\xc2\xb0 backgroundsAll of these combine up to more than a 1000 combinations for a fully customizable live wallpaper to match to your favorite color.Specs    The live wallpaper butterfly x app was made to fit all cellphones from 2.2 and above but it is recommended a dual core phone minimum for a better performance.    The pro version was made to fit all cellphones from 2.3 and above and same recommendations as above are made.     Finally the reason the pro version can not be made available to any devices below 2.3 is that in order to make it very customizable for the user code was added to it that is not compatible with 2.2 but we still wanted to if at least you couldn't get the pro version you would enjoy this beautifully made live wallpaper.We hope you enjoy it as much as we did making it.If you have any suggestions for us or if you like to contact us about anything from the app we made it easier by adding links inside the app to Facebook, Twitter, YouTube and our website.thank you again for trying our product.Special ThanksWe would like to thank the rajawali engine because thanks to it it was possible to make such an app.We would also like to thank the Nature Academy because their tutorials were of great help with modeling the necessary resources for this android application.Recent changes:added multiple language support"
+p4
+tp5
+tp6
+.

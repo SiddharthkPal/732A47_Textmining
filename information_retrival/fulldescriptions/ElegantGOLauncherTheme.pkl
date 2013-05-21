@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Elegant - GO Launcher Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Premium theme for FREE!Brief IntroductionSpecially designed for GO Launcher EX, provides delicate app icons, wallpapers, folder and app drawer interface. Get it right now and have a completely new makeover of your Android smartphone.Notice:GO launcher theme is only available for phones with GO Launcher EX installed. Search \xe2\x80\x9cGO Launcher EX\xe2\x80\x9d on Google Play Shop and install it for free. ***How to Apply the Theme1. Directly open the theme after successful installation. 2. or back to Menu>Theme, choose a theme you like and apply it to your phone.'
+p4
+tp5
+tp6
+.

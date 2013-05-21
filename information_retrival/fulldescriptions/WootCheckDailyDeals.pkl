@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Woot Check - Daily Deals '
+p1
+tp2
+(S'Description:'
+p3
+S'Woot is a awesome website, specializing in great new deals every day. They encourage (almost) unfiltered community discussion about that cheap stuff, starting with their own outrageous product descriptions. Every day there is a new "Today\'s Woot". It\'s the best deal Woot has to offer, at the lowest price you\'ll find anywhere on the Web. And as you may have guessed from its name, it\'s only available today: until midnight Central time, that is, or until it sells out. At midnight, they replace Today\'s Woot with tomorrow\'s Today\'s Woot and today\'s Today\'s Woot will become yesterday\'s Today\'s Woot. Get it? Our easy to use interface makes browsing Woot.com easier than ever. Sites include Woot, Wine, Tools, Shirt, Sellout, Kids, Home, Moofi, Sport, Tech, and Deals! Features Include:- Easy to use interface- Daily item notifications    * Customizable in preferences- Woot-Off notifications    * Customizable in preferences    * Checks for new items automatically- High quality images    * Tap to see more images    * Long press to launch in gallery- Share items with friends through menu options- View comments through menu options- Battery efficient design- Tablet optimized- NO ADVERTISING- More features coming soon!Please email us rather than giving us a 1 star and we can get any issues fixed very quickly.Need some help or some more info? Check out www.wootcheck.comFollow us on Twitter @WootCheckNote:We are a Woot Minion. When you click on the Woot offer, you may be redirected to the partner\'s (aka advertiser\'s) site via affiliate cookies. Woot will then pay us a small commission for your purchase. This helps fund future development of Woot Check, so buy lots of stuff (via the app)!Privacy Policy available at www.wootcheck.com/privacy.htmlRecent changes:Added Tools.WootBug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glass Widgets '
+p1
+tp2
+(S'Description:'
+p3
+S"Yet another set of basic home screen widgets.They are designed to provide you with the  most important information at a glance, yet still allow you to enjoy your (Live-) wallpaper.This package contains:* Glass Clock WidgetEnter a city name, or use geolocation to automatically find your location. Add more than one clock widget to your home screen in order to follow the time and weather around the world. The paid version includes the following display options:- Show weather and clock- Show date and clock- Show alarm and clock- Show clock only* Glass Calendar WidgetSee the current date, along with the next three events in your calendar. The paid version includes the following display options:- Show date and events- Show events only* Glass News WidgetRead your favorite RSS/Atom feeds from your home screen. Select one of the build in feeds (Google News, BBC, Reuters, WIRED ect.) or add your own custom feed. The paid version includes the following display options:- Show label and news- Show news only* Glass All-In-One WidgetAll the above widgets combined into one 4x3 widget. FREE & PAID VERSIONS:All the widgets are semi-transparent, with a nice smoked glass look. But the paid version will allow you to change the tint and transparency of the background as you wish. FAQ:1) I can't find the widgetsThe widgets don't show up in the App-drawer. Instead, they can be found in the widget list. The widget list is opened by tapping and holding on an empty space on the home screen. 2) I still can't find the widgets The most common cause of this problem is that the widgets are installed on the SD-card. Android doesn't like widgets on the SD-card. Please try to move them back to the main memory of the phone/tablet.3) How do I change the settings for a widget?If you tab the upper left corner of the widget, the setting screen for that widget will open. If you tab the lower left corner, the widget will refresh itself.Enjoy!Recent changes:I removed the 'OK' button in the preferences. Now you wont lose all you changes if you press 'back' one time too many by mistake. Instead, any changes made to the preferences automatically take effect when you leave the preference screen.Also, I made some further tinkering with the weather provider. I never had this much problems with the old Google weather service."
+p4
+tp5
+tp6
+.

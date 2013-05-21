@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PixAnimator '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Turn your pics alive with PixAnimator!Place your photos into awesome video loops and obtain unique,beautiful creations you can share with friends and family. It'sfun & super easy!You can use many loops for free, or unlock everything via an in-appsubscription.  This app requires a fast internet connection!Features:* Use your gallery, camera & Facebook photos* New loops added daily* Save & share your videosRecent changes:Initial release---fingers crossed!"
+p4
+tp5
+tp6
+.

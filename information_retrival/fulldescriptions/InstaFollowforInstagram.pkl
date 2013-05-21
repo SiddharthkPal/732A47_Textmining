@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaFollow for Instagram '
+p1
+tp2
+(S'Description:'
+p3
+S"Discover who unfollowed you on Instagram and who is not following you back, track new followers, find mutual friends, view fans and more ...Use InstaFollow app so that you can guard your Instagram account and get so much insight. It's fast, accurate and extremely intuitive. Tracking your followers on Instagram is almost instantaneous. This app will not only detect unfollowers, it will also make them think twice before unfollowing you. Just let them know that you're using InstaFollow Instagram followers checker.Features:- Login using Instagram account- Retrieve lists of followers and following- Detect new followers + unfollowers- Detect non-followers- Detect mutual friends and fans- Follow/unfollow users- Show user profiles- Support accounts up to 10,000 followers- Support multiple accountsEngagement Package (Optional):- Show top likers- Show top commenters- Show best followers- Show worst/ghost followers- Show secret admirersSo next time you asked yourself 'Who unfollowed me on Instagram?', just use InstaFollow. It will answer this question plus more. You'll like it instantly.If you get featured on InstFollow, you can gain more followers on Instagram very quickly.Find out who your best friends on Instagram are using our InstaBestFriends app. You can also generate 'My Best Friends' cards for sharing on Instagram.You need an Instagram account to use this app!Follow us on Instagram @InsTrack to get latest newsRecent changes:V2.0.3 (Critical Bug Fixes):- Fix crashing issues affecting some devices- Fix a bug affecting new followers and unfollowers detection- Other bug fixes and minor enhancementsV2.0.0:- Improve performance- Allow users to disable Ads- Remove fullscreen Ads completely- Remove permissions (Phone Calls and Wifi)- Minor bug fixes and enhancementsMore features are coming soon ..."
+p4
+tp5
+tp6
+.

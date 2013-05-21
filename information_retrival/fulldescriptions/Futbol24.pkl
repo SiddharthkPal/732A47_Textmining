@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Futbol24 '
+p1
+tp2
+(S'Description:'
+p3
+S'*** NEW features coming soon with the next update!!! ***The fastest and most reliable LIVE score service on your Android phone! Futbol24 is the best LIVE score application in Google Play. QUICKEST updates and FREE PUSH notification for more than 2000 leagues all over the world, no one else can give you more. FEATURES - live match information - free push notification for score change and end of period - favorites- tables- custom refresh period - multitasking support THANK YOU F24 team wants to thank all of you who helped us to build this unique live application sending us comments and feedback. Please continue to give us your suggestion using the button "Send bug&feedback" within the application settings Thank you!Recent changes:v. 1.6.1- Added: Favorites selection in "all games" section- Fixed: A crash reported by several users- Fixed: At startup notifications are cleared- Improved: App speedv. 1.6- Added: Tables section- Added: Two permission for the new Google\'s push service- Improved: Images memory management and caching. Less connections, faster app- Improved: Push notifications- Changed: Competitions selection moved to settings screen- Changed: Events list moved to Live section (up left)'
+p4
+tp5
+tp6
+.

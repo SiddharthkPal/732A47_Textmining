@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tubebook Movie Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S"Tubebook downloader let you quickly download movies, videos or other files from internet conveniently on your mobile. It's a downloader on android.[ IMPORTENT ]* THERE IS A NEW BIG UPDATE SINCE 1.6, IT WAS TUBEBOOK VIDEO, IF YOU WANT THE PREVIOUS VERSION. PLEASE INSTALL A8 PLAYER VISTA (https://play.google.com/store/apps/details?id=com.hipipal.mn) , IT OFFERS THE SAME FEATURES AS TUBEBOOK VIDEO.* DOWNLOADING YOUTUBE VIDEOS IS NOT SUPPORTED DUE TO THEIR TERMS OF SERVICE ![[ Mainly Feature ]]* It's a HTTP Downloader* It support multi-task download* Downloading with pause-and-resume capability* Playing video before download* It has an embed browser which you can use to search movies from internet[[ Tubebook Plugin supported ]]* Support Python Plugin, allowing you to download movies you want. There is a detailed document in http://qpython.org/question/64/how-can-i-implement-tubebook-plugin/ please read it.[ Feedback ]Please give us five star if you like our app.Contact us if you have any problems.http://www.facebook.com/TubebookDownloaderhttp://twitter.com/TubeDownloader2tubebook@qpython.com[ KW ]Tubebook, Video, Downloader, Python, Movie, DownloaderRecent changes:== V1.6.0 (2012-03-21) ==* THERE IS A NEW BIG UPDATE SINCE 1.6, IT WAS TUBEBOOK VIDEO, IF YOU WANT THE PREVIOUS VERSION. PLEASE INSTALL A8 PLAYER VISTA (https://play.google.com/store/apps/details?id=com.hipipal.mn) , IT OFFERS THE SAME FEATURES AS TUBEBOOK VIDEO.== v1.5.1.1 (2012-11-18) ==1) Fixed one foce-close bug2) Fixed some bug of missing downloaded file== v1.5.1 (2012-11-16) ==1) Remove QPython dependence2) Fixed two fc bug3) Supported Plugin, let you download video you want"
+p4
+tp5
+tp6
+.

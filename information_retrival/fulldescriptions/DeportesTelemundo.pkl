@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Deportes Telemundo '
+p1
+tp2
+(S'Description:'
+p3
+S'Get the latest news, scores, stats, commentary, videos and galleries of your favorite Mexican League teams and the Mexican National Team. The addition of the English Premier league, La Liga, Serie A Champions League, and 2014 World Cup Qualifiers with schedules, results, gamecast, teams, stats, news, video, photos, polls and social coverage make the Deportes Telemundo app the most in-depth sports app available for Hispanics.The Deportes Telemundo application for your Android is also the place for you to enjoy everything about your favorite shows including Titulares Telemundo, Titulares y M\xc3\xa1s, Ritmo Deportivo, Boxeo Telemundo and F\xc3\xbatbol Estelar.Recent changes:Updated Deportes Telemundo lookImproved functionality'
+p4
+tp5
+tp6
+.

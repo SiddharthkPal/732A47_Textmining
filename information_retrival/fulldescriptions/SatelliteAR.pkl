@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Satellite AR '
+p1
+tp2
+(S'Description:'
+p3
+S'Ever wondered what satellites are flying above your head when you look up? This app will show them to you using augmented reality. Point your phone\'s camera to the sky, and small icons track the locations of various satellites. Those in sunlight are colored yellow to help you look for them on a clear night.See "Developer\'s website" (linked from this page) for more information, including the full changelog.  If you find bugs or have questions, please report by email, as there is no mechanism for us to respond to comments left as reviews.  Thanks!Recent changes:2011-Dec-12* Phobos-Grunt, Dish, DirecTV, and Astra added to main menu. This was a server-side change only.2011-Sep-22* Added a yellow arrow when satellites are off-screen* Added a new setting to disable calibration warnings2011-May-(23 to 25)* Lots of bug fixes, see about page for details.'
+p4
+tp5
+tp6
+.

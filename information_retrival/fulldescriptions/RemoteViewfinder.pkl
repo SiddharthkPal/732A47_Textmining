@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Remote Viewfinder '
+p1
+tp2
+(S'Description:'
+p3
+S"- Install Remote Viewfinder App to your Smartphone, then experience new way of image capturing. Samsung SMART Camera can be controlled remotely on your Smartphone(This 'Remote Viewfinder' application is not for GALAXY Camera.)Function - Samsung SMART Camera Live View (Preview screen) can be wirelessly checked on Smartphone screen with real time connection - Provides control of Timer, Flash, Resolution and capturing of Samsung SMART Camera on SmartphoneOperation - When using this App (Camera and Smartphone are connected), images taken by Smartphone will also be taken by Smart Camera and saved in the camera - When saving the images, the camera will also store the information about location provided by Smartphone's GPS on the pictures - Provides remote controlling function for capturing and playback - Possible to control zoom level wirelessly - Captured images can also be copied to SmartphoneCompatible Devices - Android version : 2.2(Froyo) or higher, display WVGA(320*480) or higher  - Supported Samsung SMART camera : WB850F, WB150F, DV300F, ST200F and other Wi-Fi applied models from 2012    ( May not operate normally in some devices.)Recent changes:Improved compatibility for smart phone"
+p4
+tp5
+tp6
+.

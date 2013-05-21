@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'B&H Photo Video Pro Audio '
+p1
+tp2
+(S'Description:'
+p3
+S'The B&H Photo Video Android App allows users to shop our vast product catalog, on the go, in the most convenient and befitting way. View products with high-resolution photos, read professional reviews, get educated on specifications and features, all easily accessible in an intuitive interface. Our mobile app makes it simply effortless to browse and search for products, check product availability, and share products with friends and family.  As you experience the \xe2\x80\x9con-the-go\xe2\x80\x9d B&H experience, remember that B&H\xe2\x80\x99s goal is to provide you with a state-of-art environment to shop, browse, and learn about the products you love, regardless whether you shop on our Website, in our Superstore, or on our mobile app.  Some of our app\xe2\x80\x99s features are: \xe2\x9e\xa2  Order securely and safely on the fly\xe2\x9e\xa2  Checkout with your favorite methods, Google Wallet, PayPal Checkout & B&H Secure Checkout.\xe2\x9e\xa2  Go back in time, and track an old purchase with our newly designed Order History feature.\xe2\x9e\xa2  Read Professional product Reviews, with detailed descriptions, specs, videos, and high resolution product images.\xe2\x9e\xa2  Add products to your wishlist, share wishlists, and create wishlists, all on the go.\xe2\x9e\xa2  Share a product with a friend, on Facebook, twitter, Google plus, email and even SMS.\xe2\x9e\xa2  Don\xe2\x80\x99t know what a feature on your pro-gear does? Download user manuals to many of our products, in PDF format, right to your device! All in all, the B&H Android App brings new resources for working professionals in the field, or for those who prefer mobility. No matter the customer, B&H Photo Video appreciates you, and looks forward to supplying you with the hottest, latest gear and accessories. Our Android app is an extension to our website and superstore, and includes reliable speedy shipping, competitive pricing, and excellent customer service, all of which you\xe2\x80\x99ve grown accustomed to as a customer of B&H Photo Video.Tags: B&H, B&H Photo, B&H Photo Video, bhphoto, bhphotovideoRecent changes:\xe2\x9e\xa2 Fixed some bugs during checkout\xe2\x9e\xa2 Fixed a crash occurring on some devices'
+p4
+tp5
+tp6
+.

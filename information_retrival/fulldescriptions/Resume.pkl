@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Resume ++ '
+p1
+tp2
+(S'Description:'
+p3
+S'Limited Period Introductory OfferUpdate to Pro only for $.99 instead of $1.99. CV\xe2\x80\x99s or Resume\xe2\x80\x99s are the most important mandatory documents, which are required by an applicant to apply for a job or internship. It is critically important to have a well-developed and professional CV. This app will help you achieve to create the ideal CV/ Resume.App Features\xe2\x86\x92 Step by step guide to create job winning CV/ Resume.\xe2\x86\x92 Create a CV/ Resume for any one profile.\xe2\x86\x92 PDF version of the CV/ Resume.\xe2\x86\x92 Ideal CV/ Resume structure as per standard norms.\xe2\x86\x92 Save the resume and use it as per convenience.\xe2\x86\x92 Ability to update CV/ Resume for future use.PRO Version\xe2\x86\x92 Create multiple profiles and use them keeping in mind the job you are applying for.\xe2\x86\x92 Four new templates with enhanced designs and structures.\xe2\x86\x92 Customize the template as per your requirements.\xe2\x86\x92 No advertisement in this version.Note\xe2\x86\x92 All your resume will be stored in SD card under ResumeApp folder.\xe2\x86\x92 Feel free to contact us for feedback, bug reporting and feature request. We always love to hear from our app users.Keywords: Resume Creator, Resume Builder, Resume Maker, CV Creator, CV Builder, CV MakerRecent changes:4th May 2013Add salary & supervisor filed in expericance.Remove mandatory fields.Bug fixing.19th April 2013 - Bug fixing & Improve usabilityCopy resume (for updates in new copy)You can add CGPA detail in educational degreeBug fixing & problemsImprove functionality'
+p4
+tp5
+tp6
+.

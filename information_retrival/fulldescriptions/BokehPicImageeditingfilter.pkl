@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BokehPic-Image editing filter '
+p1
+tp2
+(S'Description:'
+p3
+S"This app is a free camera app that allows you to make image editing to a fantastic and stylish image with the filter using a bokeh effect of light with a difference monochrome, sepia and mosaics, and so on.You can easily edit the normal picture shoot with the camera or in the album.------------------------------------------------\xe2\x98\x85 This app is free fashionable and high-quality photo editing, processing app.You can edit immediately in a fantastic and stylish picture by filtering the photo using this app, taken with a camera or your album.Operation is as simple as following.-You will adjust the brightness by selecting the type of bokeh.-You put a bokeh according to your taste.-You cover the picture you want to apply a filter.------------------------------------------------BokehPic free camera app is like magic! It's all about picture editing application that is easy to turn into a fantastic image of your normal image captured by the camera or have put in the album. There are 70 kinds of stylish bokeh filter effect to BokehPic. That's why you can be processed like a very fashionable professional photo to the photo you have taken with your smartphone and save the album!You should post on the blog and SNS Twitter, facebook, instagram, Tumblr, Pinterest and other photos that I processed with the filter of BokehPic. In addition, you should appeal cute and images edited with this app your profile picture or icon picture also! They will decorate a nice piece to your album collection.First of all because it is free, please try to download trial!------------------------------------------------[Features]\xe2\x98\x85 Stylish bokeh of 70 \xe2\x98\x85 Blur in the picture.\xe2\x98\x85 Change the transparency of the Bokeh.\xe2\x98\x85 You easily can share photo on Twitter, Facebook------------------------------------------------Recent changes:[Version 1.0.3]- Improved UI[Version 1.0.2]- Improved UI- Fine Tuning"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon.com (mobile version) '
+p1
+tp2
+(S'Description:'
+p3
+S'With this app you can browse the mobile version of Amazon.com for amazing products!To close the app just long press the "back"-button or select the entry from the navigation bar.This app is no official offer of Amazon.com.Amazon, the Amazon logo, AmazonSupply, and the AmazonSupply logo are trademarks of Amazon.com, Inc. or its affiliates. (https://affiliate-program.amazon.com/gp/advertising/api/detail/trademark.html)Recent changes:1.0- initial release'
+p4
+tp5
+tp6
+.

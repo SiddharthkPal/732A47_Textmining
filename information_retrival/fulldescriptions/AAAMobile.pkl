@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AAA Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'AAA Discounts is now AAA Mobile. Roadside assistance, member discounts, maps, gas prices, driving directions and more AAA member services and information now integrated into one app. This application replaces the separate AAA Discounts, AAA Roadside and AAA TripTik Mobile apps.KEY FEATURESRoadside Assistance* \xe2\x80\x93 AAA\xe2\x80\x99s legendary service now available electronically 24/7, no phone call needed\xe2\x80\xa2 Request roadside assistance electronically directly from the app with the ability to find you by your GPS location on your phone\xe2\x80\xa2 Instant battery replacement quotes (not currently available in all areas)TripTik\xc2\xae - Trip planning with interactive maps and directions\xe2\x80\xa2 Updated gas prices at local gas stations\xe2\x80\xa2 AAA Office Locations\xe2\x80\xa2 Find AAA Approved Auto Repair locations with hours, contact information and available services\xe2\x80\xa2 Research, find and book AAA Diamond Rated hotels with reviews, inspector notes and information on AAA member offers (where available)\xe2\x80\xa2 Research and find local restaurants, attractions, and campgrounds\xe2\x80\xa2 Find electric vehicle charging stationsMember Discounts\xe2\x80\xa2 Locate member discounts near you at over 114,000 locationsJoin AAA\xe2\x80\xa2 Membership benefits that can save you time and money\xe2\x80\x94and give you peace of mind whether you are at home or on the road*To receive Road Service, you must be a current AAA/CAA member.Recent changes:- Correction of identified bug crashing app upon launching maps.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"DICK's Sporting Goods Mobile "
+p1
+tp2
+(S'Description:'
+p3
+S'A true athlete knows how rewarding it is to compete.Our new DICK\xe2\x80\x99s Sporting Goods mobile app gives you more ways to get closer to your full potential. Shop, share, and track your ScoreCard Rewards. ScoreCard points turn into cash to buy more gear. As if sports weren\xe2\x80\x99t rewarding enough.Step in and you step up. Every Season Starts at DICK\xe2\x80\x99S.The DICK\xe2\x80\x99s Sporting Goods Mobile AppRewards: Manage your ScoreCard, scan Rewards, and track your pointsNews: Get the latest on products, offers, and official launchesShop: Shop DSG.com anytime, anywhere. Plus find a store near you!Share: Scan products to see what others are saying about your favoritesConnect: Stay connected with DSG on Facebook, Twitter, and Foursquare. Plus get Rewarded!Recent changes:-  A new option to remain logged in to your ScoreCard account is available.-  You can now find the closest DICK\xe2\x80\x99S Sporting Goods store based on your    current location.-  Foursquare check-in issues have been fixed.-  Your ScoreCard Rewards status bar now correctly shows your progress.-  Other miscellaneous bug fixes and performance improvements are    included.'
+p4
+tp5
+tp6
+.

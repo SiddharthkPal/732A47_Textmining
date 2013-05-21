@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LoveCupidG Theme GO LauncherEX '
+p1
+tp2
+(S'Description:'
+p3
+S'===Brief introduction:This is an enhanced version of the GO desktop to customized Valentine\'s Day themes, applications topic contains the application icon, wallpaper, folders, menu skin desktop elements for the phone\'s desktop to provide a set of beautification programs Using both LoveCupidG (women) and echoing the theme of LoveCupidB (men) can put together a beautiful love. "You and her experience.===Important tips:***This app only works with GO Launcher EX.***Install GO Launcher free from the market first.***How to Apply the Theme:1.Please Do Not open directly after it\'s installed.2.Back to GO Launcher EX: MENU > theme preferences.3.Choose and apply the theme.***Change icons:Some devices may not change the icons automatically.1.Tab and hold an app in desk screens.(Not available in app list.)2.Replace > Choose the theme\'s icons.***Circle Effect:1.Only works in App list, MENU > Settings > Icon effect > ChariotThanks for your support!This content has received official authorization Designed by ZT.art Team!'
+p4
+tp5
+tp6
+.

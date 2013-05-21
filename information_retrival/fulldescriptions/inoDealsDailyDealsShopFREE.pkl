@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'inoDeals Daily Deals Shop FREE '
+p1
+tp2
+(S'Description:'
+p3
+S'Are you paying retail?Do you have multiple deal, coupon, discount, Black Friday, Cyber Monday apps?Do you have Barcode/QR code app?Why so many apps for shopping ?If you want combine all those and more, inoDeals is the must app for you.inoDeals allows you to find great deals/discounts from most popular sites in one place, find products (or simply check price) via keyword, barcode, QR code...Check out Ad-free version: https://play.google.com/store/apps/details?id=com.inoapp.inodealsFacebook Page: http://www.facebook.com/InoDeals\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Features \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Featured sites: find great deals from most popular sites:Groupon (Featured, Goods, Getaways, Occasions)Woot (Daily, Moofi, WootPlus)Black FridaySlickdealsFatwalletDealnewsTravelzoo1SaleADayBuy.comAmazonNewEggLogicBUYTechbargainsBradsDealsGottaDealxpBargainsBen\'s Bargains Got apexDeal CatcherDeals ListCanada deals: Smart Canucks, RedFlagDeals, PriceNetwork.ca...+ For your liking, the featured list is customizable. \xe2\x98\x85 Deals search: allows you to download/search deals from multiple sites. + You can even change what sites to include in search list.\xe2\x98\x85 Product search: allows you to find products (or price check) by "Type it" or "Scan it".+ Barcode scan supported.+ QR code scan supported.+ Product search history includes barcode type and editable.\xe2\x98\x85 Save & Share: how often did you see a good deal and couldn\'t find it again to show to friends? Or you simply want to save the deal for later reading before getting on airplane.+ You can save and share via SMS, email, social networks (Facebook, Twitter...)+ Multiple save supported\xe2\x98\x85 Easy to use:+ Preview allows you to preview instantly without visiting the source website.+ Swipeable views for both preview/full view. + Preview images are also provided throughout. + Context & option menus throughout: allows users to switch full-view/preview, save (or delete) a deal, and share. For those who love to save, to shop, to scan barcode, QR code ...For those who love shopping, sale, deal, deals, daily deals, bargain, coupon, cool stuffs ...For those who shops on black friday, blackfriday, cyber monday, cybermonday ...Recent changes:1.2.7: Groupon performance enhancementRedesign Woot deals'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WPBeta '
+p1
+tp2
+(S'Description:'
+p3
+S"This a Beta App for Wattpad users. WPBeta gives you the opportunity to try out new features on Wattpad before they're released. We appreciate your feedback! Please email support@wattpad.com if you find any bugs and join the Wattpad Android Beta Testers group on Facebook (http://www.facebook.com/groups/368714979841603/).NOTE: This app is ONLY used for testing purposes for Wattpad and may be buggy. This is *NOT* the official Wattpad app.Recent changes:3.7.6-Fixed log in with Facebook problem3.7.4-New nav bar theme-Syncing progress in notification bar-New easier sharing from the reading screen-Bug fixes"
+p4
+tp5
+tp6
+.

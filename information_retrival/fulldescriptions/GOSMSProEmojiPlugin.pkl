@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO SMS Pro Emoji Plugin '
+p1
+tp2
+(S'Description:'
+p3
+S"GO SMS Pro Emoji plugin, enable you to send funny emoji icons to iPhone or Android phones with GO SMS Pro and its Emoji plugin. Note that the emoji are sent by SMS, need no MMS.\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5 Direction\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5 Please read carefully. Thanks.1. TO better use Emoji, please update your GO SMS Pro to version v4.67(or the latest), and install the GO SMS Pro Emoji plugin.2. IF you send emoji to Android phone, please make sure that the recipients also have had GO SMS Pro and GO SMS Pro Emoji plugin installed, so that emoji can be displayed correctly  in their phones.3. IF you send emoji to iPhone, the recipient need not install any plugin.4. Emoji encoding settings is in GO SMS Pro's Settings\xe2\x80\x94Application Settings\xe2\x80\x94Emoji encoding settings.5. TO input emoji, go to compose message UI, and press paper clip bottom.\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5 Problems Overcome\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5- If ur having a problem where Android users can't see your Emoji, go to GO SMS Pro Settings > Application Settings > Emoji Encoding Settings & choose GO SMS. That will enable Android users who you text to see your Emoji. THESE ANDROID USERS MUST HAVE GO SMS PRO AND GO SMS EMOJI PLUGIN INSTALLED ON THEIR DEVICE, IF THEY DONT, THEY WONT SEE YOUR EMOJI. - To have iPhone users see ur Emoji, follow directions above but choose iPhone/SoftBank instead.Recent changes:GO SMS Emoji plug-in v1.4 updates (2012-10-29)-Add 373 new icons, fully compatible with iOS6 Emoji.Notice: With this update, all users can VIEW all Emoji sent by friends, Premium users can VIEW and SEND all Emoji. Thanks for your support to be our Premium member(GO SMS Pro \xe2\x80\x94> App Center \xe2\x80\x94> Premium)."
+p4
+tp5
+tp6
+.

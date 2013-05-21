@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rando '
+p1
+tp2
+(S'Description:'
+p3
+S"Rando is an experimental photo exchange platform. Give, receive and collect unique photos from random people from all over the world.A rando must be sent for one to be received. It's about gifting rather than sharing. You will never know who received the rando, they will never know who sent it. You will know the location of where it landed, the receiver will know where in the world it was taken. Build your rando collection with unique cultural sights from around the world. We deliberately haven\xe2\x80\x99t incorporated social features into the application. No likes, no comments, no direct communication. Just Rando.Recent changes:1.4 & 1.5Further improvements to stability.1.3Bug fixes and further improvements to notifications.1.2Decreased memory usage while taking and uploading images to prevent crashes and weird behavior on some phones.Improved notifications so that they merge on devices with support for large notifications (4.1+)"
+p4
+tp5
+tp6
+.

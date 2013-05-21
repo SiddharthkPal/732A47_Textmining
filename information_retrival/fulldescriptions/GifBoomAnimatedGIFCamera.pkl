@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GifBoom: Animated GIF Camera '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x86\xe2\x98\x86\xe2\x98\x86\xe2\x98\x86\xe2\x98\x86GifBoom is the most powerful and best Android App for GIFs! Support Android 2.2 and above but best experience is  achieved for Android 4.0 and above. Try us out! It is free.\xe2\x98\x86 Wow your friends with high-res, cool Animated GIFs! \xe2\x98\x86 "a Tumblr users new best friend." - The Next Web" GifBoom is perhaps the kind of app you may not know you want, but may quickly learn to love with a little playtime." - App AdviceWith GifBoom you can make animated GIFs from your camera, or your Photo Library, in 30 seconds! You can send the GIFs to your friends by Email, MMS or Facebook/Twitter/Tumblr. Features\xe2\x98\x86 Create animated GIFs in 60 seconds\xe2\x98\x86 Auto and Manual mode: Change speed of your auto timer in camera shooting or use "Manual" mode. You can control whatever speed you want to take photos.\xe2\x98\x86 Make GIFs from Video, Photos or existing GIFs\xe2\x98\x86 One Tap Instant sharing to Facebook, Twitter, Tumblr, Email and MMS\xe2\x98\x86 Save GIFs to camera gallery\xe2\x98\x86 Change the speed of your GIF with live preview\xe2\x98\x86 Live Filters!\xe2\x98\x86 Rotate the GIFs with live preview\xe2\x98\x86 Add Text to Your Gifs!\xe2\x98\x86 Portrait and Landscape orientation supported\xe2\x98\x86 Unlimited uploads for sharing \xe2\x98\x86 GifBoom is a vibrant community to share your creative gifs with friends and more, right on your phone!\xe2\x98\x86 Interact with friends through giving & receiving likes and comments\xe2\x98\x86 Support front & back camera (Front camera is only supported for Android 2.3 and above)\xe2\x98\x86 And much much more...It\'s a whole lot of fun to bring up your creativity and share with the world. Try us out, it\'s free. Send your ideas and suggestions to feedback@gifboom.comRecent changes:Live GIFs in Feed is turned off by default. If you have one of the new phones, you can turn it on in Advanced Settings.\xe2\x98\x86 Improved GIF size and quality\xe2\x98\x86 View GIFs directly in Feed\xe2\x98\x86 Added 3 awesome filters!\xe2\x98\x86 You can adjust camera speed, reset captured photos, and set timer before capturing.Thanks for your feedback! Keep \'em coming!'
+p4
+tp5
+tp6
+.

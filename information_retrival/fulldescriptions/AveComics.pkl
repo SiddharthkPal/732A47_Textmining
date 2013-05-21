@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AveComics '
+p1
+tp2
+(S'Description:'
+p3
+S"Now compatible for all smartphones & tablets ! Compatible & optimized with JellyBean !AveComics has some features that make it different from other comic book apps and website. Over 1800 titles available... and counting 60 international publishers.AveComics it's several reading modes: page mode (like all other readers) and ANIMATED mode, automatic mode or manualAveComics is the only comic book reader that lets you share ANIMATED previews on facebook. Not only covers, not only text... but interactive animations.AveComics is a platform. You buy ONCE, you read ANYWHERE, in a format that is suited to your device (computer, smartphones, tablets...).AveComics guarantees unlimited access to your comics.AveComics is economical : only $ 5.99 for a complete album.\xc2\xa0More: The Format AVE, what is it?This is a new document format designed for comics and manga. Enjoy a unique reading experience through cinematic reading that combines animations, transitions and automatic zoom. For more information, visit avecomics.comFeatures:- Shop selling comics integrated with payment in-app.- Navigation by title, collection, authors, publishers and prices.- Two play modes: animated reading (reading creating a cinematic path into the animated comics) and the page reading.- Automatic synchronization with your account AveComics: comics purchased from the Android Market can be read on your computer.- Control the reading speed via the preferences.- Page Mode to enjoy the original layout.- Scene mode for easy reading.- Easy access to the latest comic downloaded and played.- Ability to assign a rate to comics and quick access to comics best rated.- Ability to search in the store or library.- Use of all multi-touch gestures for navigation, zooming.- Share with facebook, animations AVE all available in the comics store.Application available in French and English.Recent changes:- Connection fixed.- Animated read fixed.- Navigation optimized.- Facebook connection & publish.- JellyBean (Android 4.1) compatibility.- All screen size managed.- More bugs fix."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'funda '
+p1
+tp2
+(S'Description:'
+p3
+S'De offici\xc3\xable app van funda biedt het meest complete en actuele woningaanbod van Nederland waar en wanneer u wilt. Staat u voor een leuk huis of appartement? Bekijk dan direct alle informatie en foto\xc2\xb9s over de woning met een druk op de knop. U kunt uw favoriete huizen ook bekijken op de kaart of uitgebreid zoeken op prijs, type, aantal kamers en oppervlakte.Recent changes:Indien u problemen met de applicatie zou ondervinden, graag mailen naar mobiel@funda.nlNieuw in 1.3.1- Probleem opgelost waarbij het niet mogelijk was om te zoeken op specifiek adres. Onze excuses voor het ongemak'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GetMed : Search Medicines '
+p1
+tp2
+(S'Description:'
+p3
+S"GetMed is world's fastest Medicine and generic Drug search app.# This is a free app with no ad(s) inside it.# Data is reviewed regularly by various pharmacies/pharmacists and doctors in network and gets updated daily in the system.# Once of the best and creative user interface among the various apps on the stores which allow user to fetch the required information with easy and fast navigation,also works on tablets as well.It is the best resource and can be used by anyone whether he is a pharmacist ,common man, physician, medical student, nurse and any other healthcare professionals for medicine information.Use GetMed to search and validate cost effective generic drugs that can substitute prescription medicine. FEATURES:- Real time price.- Find alternative medicines.- Search ingredient of the drugs.- Save your Favorite medicines and brand for future reference.- Add a medicine to the database yourself.- Compare with other medicines while buying a medicine.- Promote your medicines/products at free of cost using Add/Promote feature.MEDICINE INFORMATION INCLUDES:- Detailed Drug Information- Retail Price- Drug Company- Drug Side Effects- Drug Interactions- Drug Precautions & Warnings- Drug Indications- Drug Alternatives & PricesKeywords: GetMed,GetMd,Get md,Get med,health,medical research,medical information,medicine price,disease,medicine,drug,drug store,medicine search,medicine detail,ingredient detail,ingredient, alternate medicine,medicine company,medicine companies,drug search,generic drugs, find medicines,drug dictionary,alternate medicines,medical help,Medicine App,Medicine Apps,Medicine Reminder,medicine tracker,medicine tracker,medicine listNote : You can compare this application with other available apps on the market like WebMD,HealthKart,Medscape,Itriage,Ipharmacy.Recent changes:#Updated ingredient detail.#23-03-2013#DB Updated with more medicines.#24-03-2013#Defect Fixed"
+p4
+tp5
+tp6
+.

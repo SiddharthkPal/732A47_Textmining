@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cartoon Classics '
+p1
+tp2
+(S'Description:'
+p3
+S'Meet all your classic cartoons friends such  as Bugs Bunny and many more.The app is free and you can stream the videos over 3G or WIFI. Optimized for 1.6 and higher.'
+p4
+tp5
+tp6
+.

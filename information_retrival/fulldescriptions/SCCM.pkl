@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SCCM '
+p1
+tp2
+(S'Description:'
+p3
+S'The Society of Critical Care Medicine (SCCM) is the largest multiprofessional organization dedicated to ensuring excellence and consistency in the practice of critical care. With more than 15,000 members in more than 100 countries, SCCM is the only organization that represents all professional components of the critical care team. The Society offers a variety of activities that promote excellence in patient care, education, research, and advocacy.'
+p4
+tp5
+tp6
+.

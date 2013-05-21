@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Horoscopes for Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S'Written by the best and most experienced astrologers, Horoscopes from RockYou is already the #1 Horoscopes app: - Number 1 Horoscope on Facebook - Over 4 million users monthly - Over 14 million installs Check daily your horoscope for today and tomorrow, your compatibility, your lucky number and your tarot card. Receive a notification every day to remember to check out your horoscope. Discover Horoscopes as they are meant to be.Recent changes:Astrology reportsBug Fixes'
+p4
+tp5
+tp6
+.

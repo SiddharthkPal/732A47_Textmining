@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Convo (Tapatalk client) '
+p1
+tp2
+(S'Description:'
+p3
+S"For phones and tablets.A responsive and easy to use interface makes reading your favorite forums a joy - you might even prefer it to your browser.Simply type in your favorite forum's web address and you're ready to read on the go.Convo features(*):\xe2\x9c\x93 Honeycomb native UI\xe2\x9c\x93 Non-blocking, responsive user interface\xe2\x9c\x93 Great overview of your favorite forums\xe2\x9c\x93 Unread topics view\xe2\x9c\x93 Subscribed topics view\xe2\x9c\x93 Inline viewing of images and attachments\xe2\x9c\x93 Auto embedding of YouTube videos\xe2\x9c\x93 Many more to come!(*) Some features only available with a premium license. Premium license can be purchased from within the app at a reduced introductory price.Unfortunately Android Market does not permit responding directly to comments. Please report bugs or problems by mail.Recent changes:\xe2\x80\xa2 Compatibility fixes, protocol handling relaxed for certain forums.\xe2\x80\xa2 Stability fixesPreviously:\xe2\x80\xa2 ICS compatibility.\xe2\x80\xa2 Swipe to switch between unread/forum list/subscribed topics.\xe2\x80\xa2 Fixed force close when Android Market account was not set up.\xe2\x80\xa2 Fixed problem where old forum list was displayed after deleting server\xe2\x80\xa2 Fixed display of threads with less than 3 posts for certain forums.\xe2\x80\xa2 Honeycomb UI\xe2\x80\xa2 General UI tweaks"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TvItaliane legacy - the origin '
+p1
+tp2
+(S'Description:'
+p3
+S'Tv Italiane is an app for watching Italian television.On most channels you need an Italian connection.This app shows only public and free stream on internet reachable through a webpage. If you are the owner of one of those and want that I remove your channel, please drop me a mail.All audio-visual content that you can take part of through the TvItaliane app is provided by and hosted on third party servers and discovered through the help of our search engine.I do not host, upload, store or index material such as audio-visual content in my app or in my servers. When you click on the name of the channel you are immediately and automatically moved to a third party hosted website and any audio-visual content that is made available to you on a third party hosted website is not in any way stored by us. Furthermore, I do not in any way control content found on third party hosted websites and I therefore cannot be held responsible for any content on these websites.Furthermore, \xc2\xa0all video contents are hosted by the respective copyright holder, and they are free and public.'
+p4
+tp5
+tp6
+.

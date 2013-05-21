@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Play Books '
+p1
+tp2
+(S'Description:'
+p3
+S'Choose from millions of titles on Google Play including new releases, New York Times best sellers, up-and-coming authors, and free books. Easily personalize your reading experience, pick up where you left off on your phone, tablet, or computer, and get reading today!Recent changes:Improved performance.Fixed over 90 issues, including crashes.Implemented a number of UI improvements, including an added drop-down menu in the library to filter books by type, and identifying place names on the current page when the reading controls are showing.'
+p4
+tp5
+tp6
+.

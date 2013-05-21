@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ferrari Watch Live WP lite '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a Ferrari Watch Live Wallpaper with animated Hour, Minute and ** a newly added SWEEPING Second hand movement. This new version  now includes three watch designs with six HIGH QUALITY unique backgrounds. To add more flavor in this app, first 2 watch designs are now equipped with a working date feature. Rest of the designs have an active date feature in the FULL version. This app has been made even more better by adding WIDGET feature as an option. There is an alarm clock feature as well which activates when user taps twice at the center of the dial. (It has been fixed from the last time). Lots of more features, themes and Ferrari watch designs are now available in the FULL version. v_3.1 (current)Recent changes:all previous bugs fixed. 2.15.2013Full versions is now available which includes more then 15 Ferrari watch designs with :a) smoothly sweeping second handb) working date featurec) Alarm Clock (it activates when you tap twice at the center of the dial)c) Live Wallpapers with more then 15 stunningly beautiful backgroundsd) widget for each watch with second hand movement so you can set them on your desired wallpaper.'
+p4
+tp5
+tp6
+.

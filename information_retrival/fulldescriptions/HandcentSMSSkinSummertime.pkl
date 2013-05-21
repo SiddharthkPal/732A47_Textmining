@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Handcent SMS Skin(Summertime) '
+p1
+tp2
+(S'Description:'
+p3
+S'Skin of Summertime ,install it and apply it form handcent settings->custom style->skin*** App2SD ***This plugin support App2SD,you can move it to SDCARD and save your internal memory spaceRecent changes:Support Handcent SMS 4.0'
+p4
+tp5
+tp6
+.

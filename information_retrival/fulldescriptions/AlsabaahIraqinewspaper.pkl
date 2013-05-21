@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Alsabaah Iraqi newspaper '
+p1
+tp2
+(S'Description:'
+p3
+S'View & read the latest news in all areas from Assabah magazine (alsabaah.com) on your android phone.Recent changes:version 1.4:- Updated most parts of the user interface making the news browsing a more enjoyable experience.version 1.3:- Added a "home" button to return to the main page.- Fixed a problem in buttons\' colors. this problem appeared in some devices.- More general improvements on the app.version 1.2:- Update the user interface\'s general appearance.- Added more control buttons to make news browsing a more enjoyable experience.- A few minor improvements.'
+p4
+tp5
+tp6
+.

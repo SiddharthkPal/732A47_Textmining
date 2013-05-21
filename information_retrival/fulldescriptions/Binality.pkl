@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Binality '
+p1
+tp2
+(S'Description:'
+p3
+S'Binality guides the brain to desired states using binaural beat entrainment to enhance meditation, relaxation, concentration and more.Comes with preset programs and the option to create your own programs, or simply set a desired frequency using the custom preset.Requires stereo headphones.Please feel free to contact me about bugs, suggestions, etc. at binality@virtualarenas.com or via the facebook page (https://www.facebook.com/pages/Binality/300619256651630).Recent changes:v2.17- fixed error in frequency generation on some devicesv2.15- another attempt at fixing the sound cut-out bug some people are experiencingv2.13- fixed a few bugs relating to power management and string parsingThis entry is limted to 500 characters, so please see the website (www.virtualarenas.com/binality) or facebook page (https://www.facebook.com/pages/Binality/300619256651630) for more release information or to report bugs/give feedback.'
+p4
+tp5
+tp6
+.

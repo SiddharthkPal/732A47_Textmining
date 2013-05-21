@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'androbook comic viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'THANKS FOR 900,000DOWNLOADS!---It is a viewer of the digital book service "androbook" for android. can find,read & upload comics, MANGA, novels, photos in the application.also, zipped file in your local can read by this application.*support image file format: (Zipped)JPEG, PNG, GIF, pdf*Support pinch to zoom & flinting gesture*Bookshelf function.*Cache next and previous page* Content->http://androbook.net/?la=en  (website)->http://shop.androbook.net (shop)->http://www.facebook.com/androbook  (facebook page)Recent changes:change bookshelf interface.'
+p4
+tp5
+tp6
+.

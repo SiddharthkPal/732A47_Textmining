@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DHL '
+p1
+tp2
+(S'Description:'
+p3
+S'Nutzen Sie einfach und bequem von unterwegs mit unserer Android App die DHL Paket Services von Deutsche Post DHL.Folgende Services stehen Ihnen mit der kostenlosen DHL Paket Android App immer und \xc3\xbcberall zur Verf\xc3\xbcgung:Pakete:     \xe2\x80\xa2 Paket-Sendungsverfolgung inkl. Barcode-Scanner     \xe2\x80\xa2 Sendungs\xc3\xbcbersicht: Bis zu 10 Sendungen speichern & verwalten     \xe2\x80\xa2 Sendungs\xc3\xbcbersicht: Aktualisieren Sie alle Sendungen mit einem Klick     \xe2\x80\xa2 Sendungsstatus per E-Mail weiterleiten     \xe2\x80\xa2 Zugriff auf zus\xc3\xa4tzliche Services nach Login f\xc3\xbcr registrierte Paket.de Benutzer     \xe2\x80\xa2 Sendungs\xc3\xbcbersicht (eingeloggt): Bis zu 100 Sendungen speichern & verwalten inkl. Archiv     \xe2\x80\xa2 Sendungs\xc3\xbcbersicht (eingeloggt): Automatische Anzeige vieler Pakete mit PostNummer      \xe2\x80\xa2 Wunschtag (eingeloggt): Bei geeigneten Sendungen aus angebotenen Zustelltagen einen Wunschtag ausw\xc3\xa4hlenPortorechner:     \xe2\x80\xa2 Preisauskunft f\xc3\xbcr DHL Paket Privatkundenprodukte      \xe2\x80\xa2 Preisauskunft f\xc3\xbcr DHL Express PrivatkundenproduktePostfinder:     \xe2\x80\xa2 Packstationen-, Paketboxen- & Filial-Suche inkl. Postfiliale Direkt und \xc3\x96ffnungszeiten     \xe2\x80\xa2 GPS-unterst\xc3\xbctzte Suche oder manuelle Adresseingabe     \xe2\x80\xa2 Ergebnisse als Listen- & KartenansichtKontakt:     \xe2\x80\xa2 Kontaktieren Sie unseren Kundenservice per Telefon, Facebook oder TwitterRecent changes:Vielen Dank f\xc3\xbcr das Feedback!Bugfixing:\xe2\x80\xa2 Behebung sporadischer Abst\xc3\xbcrze beim Start der App\xe2\x80\xa2 Behebung teilweiser Abst\xc3\xbcrze und Probleme beim Synchronisieren der Sendungs\xc3\xbcbersicht'
+p4
+tp5
+tp6
+.

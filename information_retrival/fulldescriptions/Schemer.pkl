@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Schemer '
+p1
+tp2
+(S'Description:'
+p3
+S"Are you curious? Ambitious? Daring? Start doing more awesome stuff by using Schemer.How does it work? It's all about the schemes! A scheme is anything you might want to do - from taking a mixology course to surfing sand dunes.Whatever schemes strike your fancy, collect them on Schemer and then take them with you using our mobile app. Now you'll always have a scheme up your sleeve, whether you're out and about or staying home. Schemer will even suggest the perfect scheme for the moment, for example watching a movie if it's a rainy day, or checking out a new brunch spot on a weekend morning.Schemer uses your Google+ account to show schemes that the people in your circles have done. Even better, you can use Schemer to find new stuff to do with your friends. Pick a scheme and rally your crew to go do it!Recent changes:Map view of the Schemes.Support photo uploading.New UI updates.Location and category tagging.Bug fixes."
+p4
+tp5
+tp6
+.

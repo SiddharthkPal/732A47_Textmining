@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Al Quran Al karim '
+p1
+tp2
+(S'Description:'
+p3
+S'Browse Quran like printed copy.Good resolution pages can be found in http://www.mediafire.com/?1zddimc77zyv21a OR http://www.4shared.com/android/UOE2xz5I/AlQuran.html, because in Android market the application should be not more than 50MB. Its size is 67.3MB.The new pages is got from http://www.pdfquran.com/download/arabic/standard1-quran.zipRecent changes:Support Android 3.0+'
+p4
+tp5
+tp6
+.

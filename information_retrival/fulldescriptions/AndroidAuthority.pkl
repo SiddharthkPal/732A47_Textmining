@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Android Authority '
+p1
+tp2
+(S'Description:'
+p3
+S'Stay up to date in the world of Android with Android Authority. Get all the latest Android news, rumors, hot Android apps, tips & tricks and device reviews!You can expect excellent up to date coverage on the following topics:\xe2\x9c\x93 Software updates \xe2\x9c\x93 New Android apps & games\xe2\x9c\x93 Android news\xe2\x9c\x93 Android tips & tricks\xe2\x9c\x93 Android accessories\xe2\x9c\x93 Android wallpapers\xe2\x9c\x93 Android themes \xe2\x9c\x93 Android widgets\xe2\x9c\x93 Android tools\xe2\x9c\x93 Android manuals and guides \xe2\x9c\x93 Android how tos\xe2\x9c\x93 Firmware updatesWe cover all the latest and most popular Android phones & tablets including:* Samsung Galaxy S2* Samsung Galaxy S3* Samsung Galaxy S4* HTC One* HTC One X +* Galaxy Nexus* Nexus 4* Nexus 7* Nexus 10\xe2\x98\x85 Android Authority App supports the following Android Software versions:Android 2.1 and up - Android Froyo (Android 2.2), Android Gingerbread (Android 2.3 update), Android Honeycomb (Android 3.0 - Android 3.2), Android Ice Cream Sandwich Update (ICS) Update (Android update 4.0) and Android Jelly Bean Update (Android 4.1 and 4.2 updates)Keywords: Android Authority, AndroidAuthority, Upgrade Android JellyBean, Update Android Wallpapers, Firmware Updates for android Widgets, Android Upgrade Version, Upgrade My Android, Update Android Version Firmware, Samsung Updates, Update Software, Upgrade For Android Tablet Apps, Software Upgrade Games, New Android Apps, Upgrade Android Widgets, Andriod Themes, Upgrade Firmware, Upgrade Android Jelly Bean Firmware, Andriod Trending Topics, Android news'
+p4
+tp5
+tp6
+.

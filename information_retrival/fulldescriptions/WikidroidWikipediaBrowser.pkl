@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wikidroid (Wikipedia Browser) '
+p1
+tp2
+(S'Description:'
+p3
+S'Wikidroid is the fastest Wikipedia browser for Android. View all of Wikipedia\xe2\x80\x99s articles formatted perfectly for your device in a fast and sleek interface designed for easy and quick navigation. View articles wherever you are with the \xe2\x80\x98Save page for offline viewing\xe2\x80\x99 feature. Wikidroid includes many features to make your browsing experience better, such as: - Live search suggestions - Voice search - Link queue - just long press on a link to add it to the queue - Save an unlimited amount of pages to your storage for offline viewing anywhere - Supports all Wikipedia languages - Jump to a random article - Add bookmarks + home screen shortcuts to articles - Device search integration - Full screen mode - Quick language swap button - Non-obtrusive advertisingRecent changes:- Redesigned user interface for speed and simplicity- Link queue, allowing you to queue up articles to read while reading another article- Fixed saving images when saving an article to storage- Speed improvements and bug fixes- Added Japanese article of the dayIn 5.0.1:- Fixed zoom'
+p4
+tp5
+tp6
+.

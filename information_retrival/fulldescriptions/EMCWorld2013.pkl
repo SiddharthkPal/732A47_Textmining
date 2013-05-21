@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'EMC World 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S"The EMC World 2013 Mobile App will transform the way attendees navigate this year's conference, May 6-9 at the Venetian in Las Vegas.Conference attendees can access their personal schedule, conference agenda, session information, sponsor/exhibitor profiles, social media, and much more.For more information, visit www.emcworld.com."
+p4
+tp5
+tp6
+.

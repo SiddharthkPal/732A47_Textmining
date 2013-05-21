@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'reddit is fun '
+p1
+tp2
+(S'Description:'
+p3
+S'Use reddit.com with a decent interface. Icon by choofins. Alien menu icon by Matt K.Now includes TABLET support and WIDGET! And Moderator features!Cross-device HISTORY SYNC via synccit.com!Permissions:* INTERNET - The Internet* BOOT - to restore mail notifications on device boot* EXTERNAL STORAGE - thumbnail caching* ACCESS_NETWORK_STATE - detect connection speed for OPTIONAL adsreddit and the reddit alien logo, trademark and trade dress are registered trademarks owned by reddit, Inc., and are used under license.Recent changes:2.7.7 (Mar 31)* Fixed imgur gallery links* Gilded comments2.7.6 (Mar 10)* Fixed spoilers* Samsung multi-window* Distinguished [M], [A]2.7.5 (Feb 8)* Google+ app for plus.google.com links2.7.4 (Jan 25)* Prevent browser reload on rotate* New setting: Toggle browser zoom buttons2.7 (Jan 15)* Browser: long-click images to save, share, etc.* New setting (PRO): History sync via synccit* New setting: Reset subreddits list* New setting: Toggle NSFW history'
+p4
+tp5
+tp6
+.

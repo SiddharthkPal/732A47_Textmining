@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wink! Photo chat like Snapchat '
+p1
+tp2
+(S'Description:'
+p3
+S'Wink is a fun and private photo chat. Everything you love about Snapchat and Instagram in one app. Say Hello to Friends with a Photo! App of the day on Gizmodo.Tech Crunch, The Next Web and The Guardian all featured Wink. Video and Doodle features coming soon! \xe2\x9c\x94 Say Hello with a Photo! It\'s faster and way more fun than texting, SMS or MMS. \xe2\x9c\x94 It\xe2\x80\x99s FREESend a photo message... it is completely free!\xe2\x9c\x94 Use any of your picturesTake a new photo just like on Snapchat, or select any of the pics you already took. \xe2\x9c\x94 Send photos to more than one friend at onceEnjoy group conversations around your photos. \xe2\x9c\x94 We\'ve connected you with everyone! You don\xe2\x80\x99t need to add your friends like on Snapchat, Kik, Line, or MessageMe. Start a photo chat with any of your contacts. You can immediately message any of your phone contacts.\xe2\x9c\x94 Your Pics are Private! Select exactly who can see and comment on your photos. No one else will be able to see or comment on those pictures. Perfect for the stuff you don\'t want going on Facebook. ----------------------------What Wink users say:\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "I was looking for an alternative to Snapchat and I stumbled upon Wink. Totally glad I did." CarmenLindley\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "Quickly becoming my favourite app. You start a private chat with a photo, and your friends don\'t even need to have the app to get involved." JonaJona95\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "It\'s like Instagram and Facebook had a baby. I absolutely love it. Use it all the time!" Lexi Q--------------------------------.Follow us on Twitter at http://twitter.com/winktheapp     @WinkTheAppVisit our Facebook page http://facebook.com/winktheappAnd check out our FAQ section at www.winktheapp.com--------------------------------Wink loves to hear from you, send your ideas to francesco@winktheapp.comRecent changes:Several bug fixes,Possibility to manually add friends'
+p4
+tp5
+tp6
+.

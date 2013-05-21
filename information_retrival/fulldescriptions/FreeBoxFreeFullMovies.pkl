@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FreeBox - Free Full Movies '
+p1
+tp2
+(S'Description:'
+p3
+S"Oh Yes It's Free Movies on your phoneFreeBox is your ticket to free full length movies on your Android Phone.The App provide an easy way to find the movies that you want without having to search through hundreds of YouTube pages. And it connects you to the best full length movies on YouTube with no hassle. New full length movies every week. Keywords: free movie; youtube movie; full movie ; MovieTube(Disclaimer) All of the movies are linked to YouTube. FreeBox App does not host or upload any media content. Please report any unauthorized links to YouTube or email us if any movie we linked to is unauthorized. Thank youThis app has no affiliation with Netflix, Hulu,or any other streaming resource.Recent changes:Fix New MoviesUpdate Rating System"
+p4
+tp5
+tp6
+.

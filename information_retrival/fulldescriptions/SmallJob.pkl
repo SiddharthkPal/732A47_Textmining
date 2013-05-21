@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SmallJob '
+p1
+tp2
+(S'Description:'
+p3
+S'SmallJob, the meeting point between job offers  and jobseekers.Specifically dedicated to occasional performances, one of the temporary work contracts increasingly used by the market, SmallJob is a great opportunity, especially for young people.If you are a company or a private offering a job or looking for services, use SmallJob to insert an ad. If you search for a job or a better chance to provide your services look at the smallJob and establish contact; in addition insert your application in the Application session.Need to paint walls? Do you want to empty the garage? You need a waiter? Need an accountant? Looking for staff for the holiday periods? Post an ad!Do you want to take a chance? View ads and insert you application!Move the map to enter or read where the ads are placed, colors and different search tools will help you find the best opportunity.Geographical location is one of SmallJob strengths; look around your position the more interesting ads.You always have search tools such as:- A list of ads related to the geographic location (up to you to lower the curtain and discover the list)- The selection of one or more categories allows you to refine your search- A search function allows you to search through the advertisements by keywordA custom menu allows you to access the following features:- Move between SmallJob and Applications- Access to the full ads list - List of your ads- Edit your profile- Calculator to help define gross and net salaryThe usage is free and you don\xe2\x80\x99t need to be registered to browse; registration is only required if you want to publish an ad or write a comment.Help us to grow SmallJob, spread around the word and make that more and more companies and individuals will use it.SmallJob - small jobs, big opportunitiesRecent changes:Version 2 represents a major step forward.You can find a completely new Application Session. Use the Application session to insert your application.You have the SmallJob session on one side and the Application session on the other one.In addition a notification function has been added: each time somebody insert a comment to your ad, a number is displayed into the header. Selecting the number allows you to go directly to the comment.Spread the news and invite people to use SmallJob.Bye'
+p4
+tp5
+tp6
+.

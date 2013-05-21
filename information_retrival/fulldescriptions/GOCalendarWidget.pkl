@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Calendar Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'GO Calendar widget brings the calendar and the agenda to your home screen. It was designed to make it more simple and faster to work with your calendar. Two different views (month and agenda) give you a good overview to your upcoming events. It also supports showing Chinese Lunar and Moon phase. Compare to the traditional calendar widget, it supports switching between months by flipping like a real calendar.Moreover, like other GOWidgets, theme is also supported.To make it work, you must install the latest version of GO Launcher EX which is the most popular home launcher app in Android Market.Available Size:-4x3-2x2Actions:- View month- View agenda- Flip- Add agenda- View Chinese Lunar- View Moon phaseHow to add GOWidget to your home screen?-Long press on your home screen in GO Launcher EX. Press the GOwidget option and choose the widget you like. Make sure you have enough room for the widget.Recent changes:1. (Fix) Fix tiny bus on some phone models'
+p4
+tp5
+tp6
+.

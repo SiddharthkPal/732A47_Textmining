@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SPORT TV Original '
+p1
+tp2
+(S'Description:'
+p3
+S'Now you can watch live sport streams in your android for free!ANDROID 4 ICS IS SUPPORTED!We love to hear from customers. If you have an issue or suggestion, please send us a mail at sportonnet@gmail.com We have no way to respond to you for more information if you post your issue in the comments of the Android Market."SPORT TV IS AN ANDROID APP WHO STREAM LIVE SPORTS AND SHOWS THE LATEST NEWS AND SCORES."(NOW VERSION 6.0 SUPPORT ZOOMING , NEWS AND SCORES!!!)(NOW V3.0 SUPPORT ANDROID 2.1!!)(NOW V2.1 SUPPORT FLASH AND VEETLE LINKS!!)*When you open a broadcast wait for the adds to disappear by its own and stream will start. It could take from 20 to 40 or more seconds. If adds wont disappear try to refresh or open it again*IMPORTANT!!! \xe2\x80\xa2MAKE SURE THAT YOU HAVE INTERNET CONNECTION BEFORE YOU RUN THE APP!\xe2\x80\xa2YOUR BROWSER MUST SUPPORT ADOBE FLASH PLAYER.\xe2\x80\xa2YOU CAN WATCH ONLY FLASH SUPPORTED LINKS (V2.1 VEETLE TOO).\xe2\x80\xa2WE APOLOGIZE FOR THE ADS WHO DISPLAYS AT THE BEGNING , ITS FROM SITE\xc2\xb4S LIKE JUSTIN.TV , USTREAM.COM ETC.."SPORT TV" STREAMSLIVE Football "Soccer"LIVE HockeyLIVE TennisLIVE BasketballLIVE GolfLIVE CyclingLIVE MoteLIVE SnookerLIVE CEVLIVE RugbyLIVE HandballLIVE Ping Pont more sports are coming soon!Tags: sport tv android, sports tv original, android sport tv original, sport tv for android, sport tv ics.Recent changes:Version 8 IS HERE!!WITH THE NEW AWESOME INTERFACE!!VERSION 7.0 IS OUT !!! - Search engine Enabled - Sleep mode Disabled - Sharing ability Enabled - Page forwarding EnabledVERSION 6.0 IS OUT !!! ZOOM IN AND OUT!LIVE SCORES! LIVE NEWS!'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'"la Caixa" '
+p1
+tp2
+(S'Description:'
+p3
+S'Download this application free and enjoy right now the services of \xe2\x80\x9dla Caixa\xe2\x80\x9d on your mobile: consult your accounts, make transfers, localise branches and ATMs, accede to the Stock Exchange, buy tickets for shows, etc.Recent changes:Se ha realizado una mejora del rendimiento de la aplicaci\xc3\xb3n.'
+p4
+tp5
+tp6
+.

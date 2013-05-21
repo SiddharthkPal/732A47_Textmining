@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yoga Breathing for Beginners '
+p1
+tp2
+(S'Description:'
+p3
+S"This is a plugin of 'Daily Yoga (All-in-One)'. *** This app does not open on its own. ***Please first install the main app 'Daily Yoga (All-in-One)' from Google Play before using this plugin:http://goo.gl/yuDqJor you can download from our homepagehttp://www.dailyyoga.comDaily Yoga for Beginners now is available with the zero-basic Breathing session online!Yoga Breathing for Beginners is the easiest yoga session to help you get accustomed to how motion is controlled by regular breaths. To train you how to slow down your breathing pace and de-stress is the goal of this soothing yoga class.By regularly practicing yoga breathing, your can better your cardiopulmonary function; increases lung power and prevents pneumonia. Healthy breathing also helps boosts the function of your spleen and stomach; helps cure hypertension."
+p4
+tp5
+tp6
+.

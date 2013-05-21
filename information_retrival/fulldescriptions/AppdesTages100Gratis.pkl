@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'App des Tages - 100% Gratis '
+p1
+tp2
+(S'Description:'
+p3
+S'Die "App des Tages" gibt es jetzt endlich auch f\xc3\xbcr Android!  \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Jeden Tag kannst du eine normalerweise kostenpflichtige App f\xc3\xbcr 24h KOSTENLOS herunterladen! \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Jeden Tag w\xc3\xa4hlt das Team der "App des Tages" eine der besten, eigentlich kostenpflichtigen Apps aus dem GooglePlay Store aus und verhandelt mit den Entwicklern, ihre App f\xc3\xbcr 24h kostenlos zu machen. Dieses Konzept, das bereits in den USA und vielen anderen europ\xc3\xa4ischen L\xc3\xa4ndern sehr popul\xc3\xa4r ist, erm\xc3\xb6glicht allen Smartphone-Besitzern, j\xc3\xa4hrlich viele hunderte Euro beim Kauf von Apps zu sparen. (Und das alles ganz ohne schlechte \xc3\x9cberraschungen: Die Apps, die ihr einmal kostenlos heruntergeladen habt, k\xc3\xb6nnt ihr auch dann weiterhin gratis nutzen, wenn die App im Google Play Store wieder kostenpflichtig wird.)\xe2\x98\x85 Kleiner Tipp: Vergesst nicht, die PUSH-Benachrichtigungen zu aktivieren, damit ihr keine einzige App verpasst. \xe2\x98\x85Was unsere User \xc3\xbcber uns sagen: "Ich habe schon viele richtig coole Apps entdeckt und musste nichts daf\xc3\xbcr bezahlen.""Diese App sollte auf allen Smartphones automatisch installiert sein.""Wie ein \xc3\x9cberraschungsei, aber mit Apps statt Schokolade!"Wenn euch unsere App gef\xc3\xa4llt, k\xc3\xb6nnt ihr sie nat\xc3\xbcrlich gerne bewerten und uns einen Kommentar im Google PlayStore schreiben. Eure Meinung interessiert uns n\xc3\xa4mlich wirklich! :) Wenn ihr:-Eine Frage habt, gerne eine bestimmte App gratis haben wollt oder uns einfach so schreiben m\xc3\xb6chtet:android.info@appturbo.de-Ein Entwickler von Apps seid und uns eure eigene App vorstellen m\xc3\xb6chtet: android.app@appturbo.de-Ein technisches Problem mit unserer App habt: android.support@appturbo.deRecent changes:- Anpassungen f\xc3\xbcr Smartphones mit kleinem Display (Samsung Galaxy Y, HTC Wildfire usw.)- Anpassungen der Benutzeroberfl\xc3\xa4che gem\xc3\xa4\xc3\x9f Android-Richtlinien'
+p4
+tp5
+tp6
+.

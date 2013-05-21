@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Catch Notes '
+p1
+tp2
+(S'Description:'
+p3
+S'Catch is a free note-taking app designed to make sure you never miss an idea. It lets you capture ideas and discoveries across all your devices and when you\'re ready, turn your ideas into action with friends and colleagues using simple, mobile collaboration.~~~ REVIEWS ~~~"Catch is one of the 25 Best Android apps to get you started." -- Time Tech"Catch not only helps you keep track of your ideas easily, but takes it to a collaborative level." -- Tech Republic"Catch Notes has always been my favorite portable note-taking app and with this last update, it has really proven its worth." -- MakeUseOf NEVER MISS AN IDEA- Capture ideas instantly with voice, photo, and text notes- Use online AND offline on your mobile phone or tablet- Track private tasks with checklists and...- Share checklists to collaborate on to-do lists- Set reminders so you never miss something important- Use email to send web content to your notes ORGANIZE AND SAVE ALL YOUR DISCOVERIES - Collect ideas as notes stored in private spaces (think folders)- Use #tags to label and find your notes easily- Automatically backup notes for free across all of your mobile devices and on the web - Protect your notes with a 4-digit PINTAKE ACTION WITH SIMPLE MOBILE COLLABORATION- Share your spaces for anything you do with others, from projects to grocery lists - Collaborate with checklists, notes and documents- Automatically sync shared spaces across everyone\'s mobile devices and at Catch.com LEARN MORECatch blog: https://catch.com/blogFacebook: http://facebook.com/catchTwitter: http://twitter.com/catchYouTube: http://youtube.com/catch * Upgrade to Catch Pro to attach PDF/Office files, to create up to 50 spaces and upload up to 1GB of new content each month or to Catch Premier for up to 200 spaces and 5GB of new monthly content.* The current version will be missing some features and interface elements, e.g. checklists, on larger (10") tablets.* Note that the \xe2\x80\x98Read contact data\xe2\x80\x99 permission is there only so you can easily pick email addresses from your existing Contacts list when inviting people to share your spaces. For more information, please read https://catch.com/blog/2012/09/why-do-we-ask-for-permissions/Recent changes:Spring cleaning! We\'ve added swipe-to-delete to help you keep your spaces organized and your collaborations focused. In the note list, swipe a note off the screen in either direction to delete it.'
+p4
+tp5
+tp6
+.

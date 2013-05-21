@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'StudioKUMA Call Filter '
+p1
+tp2
+(S'Description:'
+p3
+S"*** IMPORTANT! The root requirement added a few versions ago are truly optional and only activate when you use specific type of filter actions, otherwise root permission are not required. When the app requests root permission, your SuperUser application will give you a prompt so it is definitely safe. ***NOTE: Only Hong Kong database is available at the moment. Database for other countries will be available later.*** 2013/5/3: This application does not support new version of MIUI (Known on 3.4.26+), this is the problem of MIUI, there is nothing I can do ****** For most LG phones, only legacy muting is supported ****** 2012/5/2: For users with Android 4.0.3+, if blocking has no effect, make sure any automatic process killers have this program placed in whitelist or exception ***This application does not support MIUI ROM. On LG P970, only legacy mute function can be used.*** For those who don't read Changelog: If the problem crashes after upgrading from 2.x, either clear program data or uninstall and install the software again ***This program is a Call Filter application for use in Hong Kong only, due to its nature of using a Hong Kong call filter list.From v1.01, English interface is also available.See Chinese description or http://www.studiokuma.com/skcf/ for change log.Recent changes:Date of internal database is 2013/5/3- Added checking to prevent update failure when HKJunkCall adds record types* If database is older than the internal one, it will be updated automatically when a call is received or the application is run. Don't use any functions in the application until the process completes."
+p4
+tp5
+tp6
+.

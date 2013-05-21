@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Coupons.com '
+p1
+tp2
+(S'Description:'
+p3
+S'Take advantage of all the benefits of Coupons.com - right from your phone or tablet!Saving money on your favorite brands has never been easier. Just select the coupons you want and save in the store. Choose from over a hundred manufacturer coupons to save on groceries, household goods, personal care items and more.With the Coupons.com app, you can access printable coupons, Savings Card coupons, and local coupons. Printable coupons can be redeemed at the store just like the ones you find in the Sunday newspaper. Add coupons to your grocery store Savings Card and have your savings automatically applied at checkout. Features:\xe2\x80\xa2 Get all the same coupons you see on Coupons.com\xe2\x80\xa2 Email coupons to print from a computer\xe2\x80\xa2 Add coupons directly to your grocery store Savings Card\xe2\x80\xa2 Save on the brands you love most!Recent changes:Fixes for Android 4.0 (Ice Cream Sandwich)'
+p4
+tp5
+tp6
+.

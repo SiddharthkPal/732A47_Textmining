@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ratpoison Podcast & YouTube '
+p1
+tp2
+(S'Description:'
+p3
+S"RatPoison - Podcast and YouTube RSS player.More than 20,000 podcast are registered(and some of Radio channels). YouTube search word or channel can be subscribed also.Bluetooth headset or earphone buttons are functionalIf you want to add any Podcast or Youtube channel,e-mail or twitter are opened.Bug reports accept via twitter -> @KJ_GoToMoonor e-mail.A List of Countries which Rat poison provides Podcast List ArgentinaAustraliaAustriaBelgiumbrazilCanadaChinaDenmarkFranceGermanyHong-KongIrelandItalyJapanMalaysiaMexicoNetherlandsNew-ZealandMprwayPortugalRussiaSaudi-ArabiaSouth KoreaSpainSwedenSwitzerlandTaiwanThailandUnited KingdomUnited StateVietnam.....more...Please request 'ADD' by Plus button to improve your country Podcast List yIn tIq 'ej chep!Recent changes:[Ver 4.1.1] - Provide real time iPodcast rankings- New Setup option - All downloading could be worked in WiFi only[Ver 4.1] - Animation Effects- E-book files (pdf, epub) can be played. However, a reader application is needed)[Ver 4.0] - Improved UI.- You can leave your comment to podcast providers[Ver.3.7.0.8] - you can check summary of each episode- Removed mp3 files from list are shown on File list window"
+p4
+tp5
+tp6
+.

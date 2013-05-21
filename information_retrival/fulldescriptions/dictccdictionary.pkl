@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'dict.cc dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Dictionary for 51 language combinations, usable without an internet connection (offline dictionary). Vocabularies can be downloaded and updated within the app for free. All dictionaries are bidirectional, so German-English doubles as English-German. Just type in your keyword in either language. German-English dictionary: 960,000 translationsThe following languages are available in combination with German and English:Albanian, Bosnian, Bulgarian, Croatian, Czech, Danish, Dutch, Esperanto, Finnish, French, Greek, Hungarian, Icelandic, Italian, Latin, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Spanish, Swedish, TurkishNew translations and corrections can be suggested at http://contribute.dict.cc/. Every translation gets checked by several other contributing users. The downloadable vocabularies are updated daily.Important: Devices with a modified operating system (jailbreaks, mods, root rights) are not supported!Please note: If the app closes without an error message, please disable the developer options in your Android settings.Keywords for search: dict, english german, dict cc, dicct, dicc, german english, dic, dictcc, dicctcc, dic.cc, german dictionaryRecent changes:Bugfixes. Please note: If the app closes without an error message, please disable the developer options in your Android settings.'
+p4
+tp5
+tp6
+.

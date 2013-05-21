@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cartoon Wallpaper HD - 2 '
+p1
+tp2
+(S'Description:'
+p3
+S'After Great success of our Cartoon Wallpaper HD app, we are again back at your service.Here we are welcomes to all who are fan of different cartoon characters. Application includes funny and high resolution images of your famous cartoon character.We sure you will love this application. you can share to your friends,set as wallpaper,rate this application as well as refer more application from this developer.This free app may contain ads in notification tray and may create internet shortcuts on your desktop. Shortcut icons can be deleted which will take no effect to this app. You can also stop notifications of this app.Banner ads cannot be removed.Keywords:- Cartoon,Live,Wallpaper,Cute,Animation,Teddy'
+p4
+tp5
+tp6
+.

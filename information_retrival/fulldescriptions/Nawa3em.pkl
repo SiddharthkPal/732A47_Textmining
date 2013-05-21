@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nawa3em '
+p1
+tp2
+(S'Description:'
+p3
+S'Nawa3em is an Arabic online magazine dedicated for female and features Fashion, Beauty, Celebrity News, Romance and HoroscopesRecent changes:Facebook SDK integration'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Broken Screen '
+p1
+tp2
+(S'Description:'
+p3
+S"Bang! A better crack screen effect for your breaking your phone screen. Display glass or lcd with a transparent broken crack on top of a game, a wallpaper or your lock screen with this broken screen prank app.This app allows you to easily pull a joke or fool your friends while keeping the device in a fully usable state. Even the camera app or a game will show a transparent overlay with cracks to make the illusion of a damaged screen with a crash pattern more realistic. And finally, you can optionally shake to repair the screen again!Used under the right circumstances, it'll be the cracked screen prank with the most convincing look for pulling tricks on your friends or to prank someone into buying you a new Android phone or iPhone ;) or to just use it as an april fools prank when it's this time of the year again.Features:- Fully interactive experience throughout the prank app- Easy to dial a different pattern with the cool scrolling pattern view- Destroy your screen, even when you play a game- Always visible, even on top of screen locks- Displays fake crack on top of your wallpaper as well- Realistic looking crack print for breaking your screen- No advertisements on the actual crack overlay- Sound effect + volume settings- Different crack types: crack, bullet shot, fracture, shattered, lcd leak vision, etc. Scratch coming soon.- Reaction types: touch, timer, timeout, etc.- Easy start: just touch the button and you're all set- Clean the screen by (optionally) shaking, restarting the app or by touching the notification item after pulling down the notification barBefore you start to scare people with funny pranks, please keep in mind that the cracks will look best on darker backgrounds, so it's a good idea to test this first. If your background is too bright, you might want to adjust the background dimming (in the settings) a notch or two for adding a more realistic touch to the cracks.If you'd like to see a new feature, if you found an error or if there's anything else that doesn't work correctly, please send a message to my e-mail address at stripeymilk@gmail.com .Enjoy!Recent changes:- Improved layout for many screen sizes. High res should also work now and will get even more improvements soon- Improved sharpness for previews and final pattern images on lower resolutions- Added high res icon- Removed English text in Spanish translations- Additional bugfixes as reported by users"
+p4
+tp5
+tp6
+.

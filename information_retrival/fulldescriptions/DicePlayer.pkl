@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DicePlayer '
+p1
+tp2
+(S'Description:'
+p3
+S'* If you have problems , please uninstall and re-install diceplayer.* If you have no speed control bar , change "Settings->Select Player" for your file extensions to "Default".HW Accelerated Video Player with Playback speed control and Network support.Features* POP-UP Play* Network Support : Windows Share / FTP / HTTP* Multiple audio track* Multiple subtitle track : external sub also suppoted.* HW Accelerations : no limitations like a network , containers.Formats- AVI,MOV,MKV,FLV,AVI,3GP,3G2,ASF,WMV,MP4,M4V,TS,MTP,M2TSPlayback speed control- up to x2.0 ( on HW )- audio pitch correction supportSubtitle format- SSA,SMI,SRT, VoBSub (beta)- MKV/MP4 embedded subtitle supported- Unicode/Multibyte charset supported.Transport- HTTP- RTP/RTSP- HTTP Live Streaming- FTP- Windows Share(SMB)Unsupported devices* Allwinner based devices* Amlogic based devices* Rockchip based devices=> Use Stock player options on "Settings" menu* ST-Erricson NovaThor ( U8500 / U9500 )=> Need ICS updateLimitations* Video capability depends on your devices HW video decodes\' capability.- Email address has been changed.  If you have questions or suggestions, please contact dice.inisoft@gmail.com.Recent changes:v2.0.271. Minor bug fixesv2.0.261. Fix the black screen issue for some devices2. Minor bug fixes'
+p4
+tp5
+tp6
+.

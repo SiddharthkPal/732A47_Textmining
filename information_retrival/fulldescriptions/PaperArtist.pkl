@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Paper Artist '
+p1
+tp2
+(S'Description:'
+p3
+S"Paper Artist turns anyone into an Artist that creates amazing Art work on different styles of paper. Turn any normal looking photo into Paper Art with Paper Artist. Different styles of Paper which includes Clean white Paper, Colored Paper, Washed out Paper, Dirty Paper, Used Paper patterns are available to make your art more appealing.Paper Artist take any Photo from Gallery, new Photo from Camera or your photo or a friends Photo from Facebook and turn it into Paper Art. Don't toss out Paper Art anymore. Create awesome looking paper Art with Paper Artist. Amaze your friends with by being a Sketch Guru and creating your art on Paper of different styles. Washed out Paper Art is colorful and provides authentic Paper art look at the same time used Paper art make it appears your Sketch Art work was created decades back. Clean White Paper art give the looks of new Sketch Art. As you Sketch like pro on paper your friends will be amazed.Your Sketch Art create can be shared with friends with any photo sharing application or photo editing application. Create and edit awesome looking sketches on paper. Pose as if you are great Paper sketcher with Paper Artist.Paper Artist is a unique application and only available on Play Store. Grab it and create Best pencil Sketches from photos before your friends knows how to do the same."
+p4
+tp5
+tp6
+.

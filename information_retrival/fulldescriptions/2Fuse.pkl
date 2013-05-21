@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'2Fuse '
+p1
+tp2
+(S'Description:'
+p3
+S'*** The brand new version of the arcade action finger busting game 2FUSE has arrived!!! ***\xe2\x80\xa82FUSE is here to challenge your finger dexterity with better graphics, gameplay and social elements!\xc2\xa0= 5 Star Reviews =\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "If you like games that test your reflexes, you are going to love 2FUSE!"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "It is hard not to look cool playing 2FUSE, even when you suck at it!"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "2FUSE is seriously hard to put down once you start playing ... "2FUSE is a fast and furious arcade-styled game which pits players against the clock to match and fuse as many similar icons as they possibly can within 60 seconds. Every completed cycle bestows special boosts such as \'Time Freeze\', \'Tile Burn\' and \'Tile Growth\' to enhance the player\'s gameplay and score.With a strict time limit of 60 seconds, each game is a mad rush of wits and reflexes. Plan fast and act fast \xe2\x80\x94 or risk a series of bad runs!\xc2\xa0Features\xe2\x97\xa6 Simple and straight forward gameplay\xe2\x97\xa6 Anyone from 5 to 75 can play the game (tried and tested)\xe2\x97\xa6 Fast-paced and highly competitive\xe2\x97\xa6 Easy to pick up but tough to master\xe2\x97\xa6 Provides short and quick sessions for those times you just need something to do\xe2\x97\xa6 Speed, gameplay, graphics and sound come together to provide a satisfying experience\xc2\xa0Think you\xe2\x80\x99re game for a finger-busting experience? Download 2FUSE now!'
+p4
+tp5
+tp6
+.

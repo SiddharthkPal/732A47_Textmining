@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Woolworths '
+p1
+tp2
+(S'Description:'
+p3
+S'The Woolworths App has fresh new features!* Check and compare local fuel prices.Always on the lookout for cheap fuel? Everyday Rewards members can check and compare the price of any fuel type at their local Caltex Woolworths outlet. You can even see the discounted price based on your available fuel saving vouchers.* Now it\xe2\x80\x99s so easy to login with your Everyday Rewards card.Simply scan the barcode of your Everyday Rewards card or enter your card number to access My Specials and My Fuel Vouchers.* Know which fresh foods are at their best each season.Find out the latest news from our fresh food experts with our Fresh Food Update videos. Plus get all the info you need on picking, storing and cooking the fruit and veg that are currently in season.Now easier than ever to save on heaps of specials.Save more by discovering all of the specials available at your local Woolworths. Plus, if an item in any of your shopping lists is on special, we\xe2\x80\x99ll let you know so you won\xe2\x80\x99t ever miss a saving.Plus all the features that have made the Woolworths App one of Australia\xe2\x80\x99s favourites:\xe2\x80\xa2 Shopping from your phone with your groceries delivered straight to your door.\xe2\x80\xa2 Shopping lists organised in aisle order for your local store.\xe2\x80\xa2 Product Finder that lets you check if we sell your favourite products including our Health & Wellbeing product ranges.\xe2\x80\xa2 Sharing shopping lists with other app users.\xe2\x80\xa2 Barcode Scanner to add products to your lists quickly and easily.\xe2\x80\xa2 Recipes you can add directly to your Shopping List, save to favourites and share.\xe2\x80\xa2 Exclusive offers designed around the things you buy most\xe2\x80\xa2 Weekly Catalogue Specials for great savings\xe2\x80\xa2 Store locatorWe appreciate your feedback and will continue to do our utmost to bring you new and exciting features. If you have any support issues or enquiries, please contact our support representatives on 1300 767 969.Recent changes:-\tBug fixes'
+p4
+tp5
+tp6
+.

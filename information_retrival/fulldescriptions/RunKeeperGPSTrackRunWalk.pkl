@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RunKeeper - GPS Track Run Walk '
+p1
+tp2
+(S'Description:'
+p3
+S'Join the more than 17 million people who are using RunKeeper to turn their phone into a personal trainer in their pocket! Track your running, walking, cycling, hiking, biking and more using the GPS in your Android phone.Track your fitness activities and have fun doing it- See detailed stats around your pace, distance, time, and calories burned.- Get stats, progress, and coaching through your headphones with built-in audio cues.- Listen and control your music during your workout.- Measure your heart rate with many available sensors (appropriate heart rate zones depend on your weight).- Take pictures along the way to share and save while you go.- Update your weight to keep calories burned accurate.Measure your performance over time - View a detailed history of your activities (runs, walks, bikes, etc.)  to see how you are doing.- Get notified when you hit new personal bests and milestones.- Measure your progress against your goals and targets.- Follow detailed plans to help you achieve specific fitness objectives, like run for weight loss or run a 5K.- Turn any activity into a route to do again later.Share with friends- Post your activity stats (map, distance, calories, and time), fitness achievements and training plans to Facebook, Twitter and your friends on RunKeeper.- Let supporters watch LIVE maps of your workouts and races as you go (must subscribe to RunKeeper Elite).Get a broader picture of your health at RunKeeper.com- Integrate your activity data with more than 70 other apps and services including Fitbit, Withings, Zeo, Garmin and many more, to get deeper insight into your overall health.- View detailed reports of your tracked activity level, calories burned, weight loss, and many more stats over time.Track, measure, and improve your fitness with RunKeeper.Note: Continued use of GPS running in the background can dramatically decrease battery life.Recent changes:Various bug fixes from our previous release:6 NEW languages available!Spanish, French, German, Italian, Japanese, and Brazilian PortugueseView goal progress and new personal bests immediately after your activityNew Elite features -Share the start of your activity to Facebook & Twitter from the Start screen-Insights: View and analyze pace and distance progress over time-Elite-only badge'
+p4
+tp5
+tp6
+.

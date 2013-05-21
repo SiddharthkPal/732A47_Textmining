@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Anger of Stick 3 '
+p1
+tp2
+(S'Description:'
+p3
+S'The third installment of the hit series Anger Of Stick now on Android!Anger of Stick 3 features even more spectacular fighting action and the craziest combos you\'ve ever seen!You play our stick hero once again on a mission to eradicate all villains from other planets! Meet different enemies on each planet and defeat even stronger bosses as you progress through this dangerous and tricky galaxy!Make use of the many fighting combos mastered by our hero, and buy weapons in the shop to increase your destruction radius and chances of survival! This action packed fighting game has:- 44 levels across multiple scenarios, split by 9 planets- Five main characters with different combos, changeable according to the enemies- Many different types of bosses and enemies on each planet- Experience true fighting action with energy beams, mid-air combos, continuous attacks, deadly weapons and a leveling up system- More combo moves for even more intense action!We\'ve also brought some new and awesome features to the Android version: - Several new characters- Super warrior mode- Evolve your characters- "Save me" button whenever you die in the gameTap, jump, punch and kick non stop to vanquish all these stick foes!Recent changes:\xe2\x98\x85 Learn how to count while pummelling aliens!\xe2\x98\x85 Super Warrior mode is even more super!\xe2\x98\x85 New kick-ass icon!\xe2\x98\x85 Roundhouse kicking on some bugs'
+p4
+tp5
+tp6
+.

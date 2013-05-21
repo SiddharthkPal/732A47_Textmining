@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yahoo! Search Application '
+p1
+tp2
+(S'Description:'
+p3
+S'The Yahoo! Search App and Widget for Android finds what you are looking for. This all-in-one search app connects you to places and information you seek when you\xe2\x80\x99re mobile. Get fast and easy access to the best of Yahoo! \xe2\x80\x93 built for Android.This newly redesigned app is simple, intuitive and fast! Key features- 1-click search for local results along with map view and list view (US only)- Smart Search Assistance- Improved search result quality with more visual displays for searches on movies, sports, news, celebrities etc.  - Support for more than 60 languages / locales in Asia, Europe and Latin America-  Voice search with Talk-back feature provides interactive mobile experience on-the-go (US only)-  In-app feedback (US only) puts you in-touch directly with the app developers-  2 widget formats to suit your device\xe2\x80\x99s home-screen real-estate- Social sharing of search resultsRecent changes:New features in 3.0.5- Improved performance of search landing page- Fix for movie theater listings.- Bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WhatsApp Contact Photo Sync '
+p1
+tp2
+(S'Description:'
+p3
+S"This quite simple application allows you to get back the photos of profiles of your WhatsApp contacts for use them as photo of profile on your telephone.Use the menu to show the contacts which have no photo, or those who already have a photo, even if a contact already has a photo she can be better on her profile WhatsApp :)Requested permissions are used to read and update contacts, the internet permission  is used to display the ad.*Guys if there was a possibility to do this automatically (Auto sync) I would have done! it's just not possible, WhatsApp does not provide such functionality.*Tags: photo sync contacts profile pictureRecent changes:- optimization to speed up the list- filter memorized for the next launch- removed the first screen, account selection. Found a new way to show the list without the need of this account"
+p4
+tp5
+tp6
+.

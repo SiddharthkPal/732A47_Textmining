@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Android Assistant(18 features) '
+p1
+tp2
+(S'Description:'
+p3
+S"Top 18 features to help you easily and efficiently manage your android phone.Android Assistant is one of the most powerful and comprehensive management tools to improve your android phone's performance. It speeds up your phone's running speed and saves battery.\xe3\x80\x90Top18 features\xe3\x80\x911. Monitor status (cpu, memory, battery)2. Process Manager (Auto Boost and Quick Boost can distinguish different types of processes thus will not kill fatal system processes and apps in Ignore List.)3. Cache Cleaner4. System Clean(Browser History, Clipboard, Market History, Gmail History, Google Earth History, Google Map History)5. Save Battery Settings(bluetooth, wifi, gps, auto-sync, orientation, haptic feedback, screen brightness, timeout)6. File Manager7. Startup Manager8. Batch Uninstall9. Battery use10. Volume Control 11. Ringer12. Startup Time13. Startup Silent(Menu->Settings->Startup Silent)14. System Info15. Widget(Quick Booster[1,4], Shortcuts[4])16. App 2 SD(Support android2.2 and later)\xef\xbc\x9aGet more free internal phone storage space17. Batch Installation18. App backup and restoreKW: task kill taskkill ATK app killer tool tools taskmanager task manager system panel systempanel process manager processmanager memory taskpanel task panel Advanced Process android 2.3 Android AssistantRecent changes:Optimization System Clean"
+p4
+tp5
+tp6
+.

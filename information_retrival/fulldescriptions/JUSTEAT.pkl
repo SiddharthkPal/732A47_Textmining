@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'JUST EAT '
+p1
+tp2
+(S'Description:'
+p3
+S"Cooking is cobblers. Order something you can\xe2\x80\x99t cook now, straight from your Android phone!Order from the UK's largest takeaway site, JUST EAT. Our brand new FREE app gives you access to over 15,000 delivery restaurants across the UK.  Feeling mad for Mexican, pining for pizza or itching for Indian, it's all here a couple of taps away.Search by postcode, choose your meal and then pay by cash or card, or log in to your JUST EAT account to use our saved card feature to save even more time!Never burn your fingers again. You're welcome.* Quick and easy to place your order* Clear layout for menus in search results* Browse dozens of local menus in your area* Filter your search results by our many customer reviews as well as specific cuisines* All payment methods supported as the mobile web - cash, credit card and saved card* Works with your existing Just Eat account or sign up today to experience the fastest delivery app experience* Compatible with most popular Android versions & devicesBy downloading and using this App, you confirm that you accept our End User License Agreement included below, Terms and Conditions and Privacy Policy (www.just-eat.co.uk/privacy-policy) and Cookies Policy (www.just-eat.co.uk/cookiespolicy).Recent changes:* Various bugfixes* Improved connectivity handling"
+p4
+tp5
+tp6
+.

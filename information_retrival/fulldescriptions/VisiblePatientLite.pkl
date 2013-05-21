@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Visible Patient Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'Following the success of the European FP7 project PASSPORT, and in the spirit of its free virtual university dedicated to surgeons WeBSurg, IRCAD (Research Institute against Digestive Cancer) has decided to offer free access to a set of 3D virtual anatomies modeled from medical images of anonymous patients. In order to make this virtual reality experience available for a maximum of users, IRCAD has asked KITWARE, a proven leader in the creation and support of open-source software, to developed a specific 3D viewer dedicated to mobile devices. The resulting \xe2\x80\x9cVisible Patient\xe2\x80\x9d offers a complete free visualization solution of 3D patient-specific anatomy. This completes the IRCAD Virtual Patient software suite using the open source FW4SPL and Kitware VES, ITK and VTK libraries, which are dedicated to physicians. * First of all, Visible patient offers several patient specific 3D modeling. Each visible anatomy is extracted from real but anonymous CT or MRI. User can select among a list of clinical cases the clinical case he wants to discover and manipulate in 3D.* Secondly, Visible patient allows to rotate, translate, zoom in and out the 3D model of a selected anonymous patient through a classical iPhone interaction with one or two fingers. * Thirdly, Visible patient allows to have the name of any organ or pathology selected through a double tap with one finger.Every years, several new clinical cases including pathologies will be added to the initial database.Recent changes:If you want a version which can download new cases from internet show Visible Patient on https://play.google.com/store/apps/details?id=com.ircad.VisiblePatient.full'
+p4
+tp5
+tp6
+.

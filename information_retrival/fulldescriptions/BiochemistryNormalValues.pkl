@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Biochemistry Normal Values '
+p1
+tp2
+(S'Description:'
+p3
+S"This application contains the normal ranges for frequently used biochemistry lab tests.It is a perfect reference for clinicians and students in and out of hospital, and does not require any network access to function!Currently included test groups are:+ Full Blood Count+ Urea and Electrolytes (including Calcium)+ Liver Function Tests+ Arterial Blood Gases+ Inflammatory Markers+ Clotting Tests+ Thyroid Function Tests+ Lipids and LipoprotiensValues are given separately for males and females when appropriate, and many paediatric values are included as well. All values are from approved and respectable sources!If you have any additional tests or values you would like to be included in the application, feel free to get in contact!Recent changes:We've added a new UI with a better tests framework.If you like this app and would like to support further development, please consider buying Biochemistry Values Plus for an expanded feature set including common medical calculators!"
+p4
+tp5
+tp6
+.

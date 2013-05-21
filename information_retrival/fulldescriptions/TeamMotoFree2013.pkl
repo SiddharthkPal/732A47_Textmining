@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Team Moto Free (2013) '
+p1
+tp2
+(S'Description:'
+p3
+S"2013 MotoGP SeasonA simple to use, lightweight app that helps you from missing another MotoGP session again, because wherever you are in the world, your local time zone is used to calculate the schedule.The news feed displays all the latest headlines from MotoGP.com, links to the full stories show a mobile friendly version of the site for faster loading and less bandwidth usage.Weather shows conditions, temperature, wind speed and direction, and humidity from current or next GP circuit.\xe2\x98\x86 Unlike some other MotoGP apps, there's no long list of suspicious permissions to agree to before installing\xe2\x98\x86 Ad-free version available to buy on Google PlayRecent changes:2013 timetable, expanded weather, new icon"
+p4
+tp5
+tp6
+.

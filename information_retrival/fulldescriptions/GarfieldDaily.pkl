@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Garfield Daily '
+p1
+tp2
+(S'Description:'
+p3
+S"Feed your Garfield need with a daily dose of the classic comic! The Garfield Daily Comic Android app allows you to view every Garfield daily comic strip ever produced \xe2\x80\x93 that\xe2\x80\x99s over 12,300 strips! This awesome app has tons of features that allow you to search and share your favorite comic strips. Here are the nuts and bolts:You can browse through the comic strips by touching the Previous or Next navigation buttons or by touching either side of the comic strip. Resize the comic strip by tapping or pinching. So simple even Odie can do it!Like Garfield, this app is prone to nap attacks. After about 10 seconds of inactivity, the navigation, title, and toolbar will fade away. To bring them back, touch the middle of the comic strip. Touch again to have them disappear. Don\xe2\x80\x99t worry \xe2\x80\x94 you can still change comics by touching the edges.Have a special day in mind? Select any date since the beginning of the comic strip and then touch Set to see that day's comic strip. Easy-peasy-lemon-squeezy!Looking for a specific theme \xe2\x80\x93 like lasagna, lazy or lederhosen? Search strips by typing a keyword or theme and touching the Done button on the keyboard. Then you can navigate through that list of strips.Do you like surprises? Touch the Random button to see any strip selected by Odie. You never know what treasure awaits you (please be aware of probable drool).Wanna post a strip for all your Facebook friends to see? First you need to login to Facebook. Then, simply post the selected comic strip on your Facebook wall along with a typically brilliant comment.Wanna share a strip with your BFF? Email the selected comic and add a comment. You can also go to the Settings Page to activate your preference to put a copy of the comic strip into your Saved Photos folder on your Android when you email the strip.Can\xe2\x80\x99t get enough Garfield? On the Information page there is a More Garfield button which brings you to Garfield\xe2\x80\x99s website with lots of links and awesome info about the famous fat cat.So what are you waiting for? Get your paws on the Garfield Daily Comic Android App!Recent changes:Version 1.1.03 has some support for larger screen and has some bug fixes."
+p4
+tp5
+tp6
+.

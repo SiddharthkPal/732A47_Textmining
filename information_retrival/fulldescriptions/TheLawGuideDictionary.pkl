@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Law Guide / Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'If you have *any* problem with our app, please notify us... and be kind rating our app. :)  Note: NO major permissions actually required - see below.Website & Support Page: http://www.thelaw.com/app/Facebook Page: http://www.facebook.com/freelegaladvice(Please Like if you like!)TheLaw.com releases, ad-free, a significant new version of its Law Guide and Law Dictionary:* Law Dictionary: 8,500+ definitions* Search, browse, bookmark entries* Law Guide & FAQs: 200+ articles* Legal Advice Forums for quick answers* No ads \xe2\x80\x93 really, no ads!* Lawyer Directory - mobile optimized format* Free case review links* Find law jobs, upload your resume* Search NY Code of Law - over 30 sections* Quick application launchNOTES:- Internet is NOT needed for the dictionary, fully available offline. Guide is dynamic and requires an Internet connection.- NO telephone access is required. There is an optional button in the "about" area giving you an option to call for legal help, toll free and that is the prompt you get for the app having access to use your phone. That\'s it. We\'re changing the button to a simple hyperlink for the phone number.We also have support tickets at http://www.thelaw.com/support/Recent changes:NEW VERSION - Revision 7,8 (1.5)-----------------------* New user interface and fully redesigned for Android Tablet!'
+p4
+tp5
+tp6
+.

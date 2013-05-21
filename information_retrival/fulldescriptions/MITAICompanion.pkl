@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MIT AICompanion '
+p1
+tp2
+(S'Description:'
+p3
+S'App Inventor lets you develop applications for Android phones using a web browser and either a connected phone or emulator. The App Inventor servers store your work and help you keep track of your projects.The App Inventor Companion lets you see how your App works as you build it.More information is at http://appinventor.mit.eduNote that this application has a lot of permissions because it has to be able to do any operation that you can write apps to do.Recent changes:Updated to version 2.07 to be consistent with MIT App Inventor Releases v134.Added READ_LOG permission to aid in debugging.'
+p4
+tp5
+tp6
+.

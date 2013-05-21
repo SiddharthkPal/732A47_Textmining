@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mecca Compass '
+p1
+tp2
+(S'Description:'
+p3
+S'With this application, in an easy and intuitive, you\'ll find the exact address that is the Kaaba, \xd8\xa7\xd9\x84\xd9\x83\xd8\xb9\xd8\xa8\xd8\xa9 Arabic, al-Ka\'ba, "the given" or "hub", in Mecca, Saudi Arabia, before begin your prayers.I hope my translations are accurate and able to help with this application to all Muslims in the world.As salaamu alaikum.\xd8\xa7\xd9\x84\xd8\xb3\xd9\x84\xd8\xa7\xd9\x85 \xd8\xb9\xd9\x84\xd9\x8a\xd9\x83\xd9\x85'
+p4
+tp5
+tp6
+.

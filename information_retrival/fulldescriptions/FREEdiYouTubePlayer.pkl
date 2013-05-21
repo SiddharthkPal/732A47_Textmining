@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FREEdi YouTube Player '
+p1
+tp2
+(S'Description:'
+p3
+S'***Support HQ/HD playback even if you use 3G/4G network!!***Can your android device play videos in YouTube playlists continuously?***Can your offical YouTube App search playlists to get popular music video, show or series?***Do you want to keep your favorite playlist created by others?***Can You play YouTube in the background (press BACK when playing)?***Do you want to make your own YouTube playlists without login YouTube account?Use FREEdi YouTube Player NOW!Recent changes:*Fix login problem'
+p4
+tp5
+tp6
+.

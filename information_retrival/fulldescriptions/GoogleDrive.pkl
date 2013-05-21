@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Drive '
+p1
+tp2
+(S'Description:'
+p3
+S"*** Google Docs is now a part of Google Drive! *** * With Google Drive, you can store all your files in one place, so you can access them from anywhere and share them with others  * Use the Google Drive Android app to access your photos, documents, videos and other files stored on your Google Drive * Upload files to Google Drive directly from your Android device * Share any file with your contacts  * Access files others have shared with you on Google Drive * Make any file available offline so you can access them even when you don't have an Internet connection * Manage files on the go * Create and edit Google documents with support for tables, comments and rich text formatting  * Create and edit Google spreadsheets with support for text formatting, multiple sheets and sorting * Edits to your Google documents and spreadsheets appear to collaborators in seconds * View Google presentations with full animations and speaker notes * View your PDFs, Office documents and more * Upload and convert files to the Google Docs format * Take a photo of printed text and convert it to Google Docs format * Print files stored in Google Drive on the go using Google Cloud Print  * Open files stored in Google Drive through Drive enabled apps in the browser  * Optimized experience to take advantage of larger screens for tablet users, Honeycomb (Android 3.0+)Recent changes:- Performance improvements across the whole app - Support for streaming video files on Honeycomb+ - Pinch to Zoom support in presentation viewer - Bug fixes and other improvements"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Get Paid Apps Free '
+p1
+tp2
+(S'Description:'
+p3
+S"With GetPaidAppsFree, you can LEGALLY get any paid app without paying anything.Here\xe2\x80\x99s how it works: You earn points by watching short videos or by downloading free apps from our selected catalogue. After you\xe2\x80\x99ve earned some points, you can cash them out in a prepaid virtual Visa\xe2\x84\xa2 credit card. Then you may shop Google Play\xe2\x84\xa2 Store to get whatever paid app you want! You may also use your prepaid card to shop at any online stores or, if you\xe2\x80\x99re not in a shopping mood, cash out your points with our PayPal\xe2\x84\xa2 option. Easy money making!(Tip for users of the prepaid virtual VisaTM credit card: the first time only thatyou use the card, Google Play\xe2\x84\xa2 there is an authorization of $1.00, so if you're looking to purchase a $0.99 app, please use our money cash out option of $2.00! Remember first time only!)At GetPaidAppsFree, we know customer support is super important, you can reach us at: support@getpaidappsfree.com you'll have a reply the same day, if you have any concerns in the app don't hesitate to shot us an email!In addition to our commitment to customers, we\xe2\x80\x99re committed to following Google Play\xe2\x84\xa2 guidelines to full extent. We do NOT provide .apk files for free. We allow you to \xe2\x80\x9cbuy\xe2\x80\x9d paid apps for FREE!Recent changes:-Version 1.4Minor bug fix.-Version 1.3Various bug fixes.-Version 1.2Login issue fixed."
+p4
+tp5
+tp6
+.

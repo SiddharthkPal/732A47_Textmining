@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NeedyMeds Alert '
+p1
+tp2
+(S'Description:'
+p3
+S'Spending too much money on your medications? Worried about missing a dose or forgetting to pick up your refills on time? Download NeedyMeds Alert now. With NeedyMeds Alert (Lite) you can find generic versions of brand-name meds that can save you money each month, and access the NeedyMeds Drug Discount Card! Upgrade to NeedyMeds Alert Premium and you\xe2\x80\x99ll get money-saving coupons and Patient Assistance Programs that can save you even more! NeedyMeds Alert Simplifies Your Life \xe2\x80\xa6 it\xe2\x80\x99s your mobile medication resource center: 1) Store your complete med list, your list of doctors and preferred pharmacies. 2) No more forgetting numbers or names, or which doctor prescribed which med! 3) NeedyMeds Alert keeps you in complete control of your meds. NeedyMeds Alert Helps You Remember... 1) NeedyMeds Alert alerts \xe2\x80\x93 for dosage (Lite) and refill reminders (after Premium upgrade). 2) Added support for weekly, monthly, and annual dose reminders. NeedyMeds Alert Keeps You Informed\xe2\x80\xa6 1) All reminders pop-up so they stay top-of-mind 2) Learn important facts, like how your meds interact with each other. NeedyMeds Alert gives you detailed info about all your meds; now you can learn why and how to take your meds, how they work, view side effects, and view images of the actual medication. You can learn what cost-saving options are available for your meds and setup dosing alerts. With NeedyMeds Alert, life just gets easier! Download the app today, and visit www.needymeds.org for more information!'
+p4
+tp5
+tp6
+.

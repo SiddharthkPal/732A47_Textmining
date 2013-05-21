@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Paperland Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'A fantastic paper cut-out landscape scrolls across your screen!  Choose a fixed time of day, or let the sun and moon rise and set according to real world around you.Purchase the Pro version to experience live local weather in each of your scenes! (Live weather in US only, other regions coming soon.)Choose from a variety of built in themes:+ Rainy Day+ Winter Drive+ Silent Night+ Desert Migration+ BeachThe Pro version includes several extra themes as well:+ Christmas!+ Autumn+ Tundra+ Papery Land+ Wilderness+ Sunset+ Silhouette+ Marina+ AmethystTo configure all the colors and objects and save your own themes, download Paperland Pro!Take screen shots of your creations and share them with your friends!Use the Randomize feature to come up with an infinite number of new themes!If you like to change settings a lot, be sure to add the Paperland settings widget to your home screen (Home > Menu > Add > Widgets > Paperland).Permissions:+ SD card permission required for screenshot saving.+ Rough GPS permission is required for accurate sunrise/sunset time calculation.Recent changes:1.8: Bug fixes - Fixed jumpy transition to current time when waking up device - Added toggle to remove tree shadows (PRO) - Fixed vertical seam between some pieces of landscape - Removed most logging for better performance - Better Google TV support1.7: Snow and Christmas! - Added Winter Drive theme - Added Christmas! theme (PRO) - Added toggles for snow, Santa, and Christmas tree lights (PRO)'
+p4
+tp5
+tp6
+.

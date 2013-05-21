@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Best Deals '
+p1
+tp2
+(S'Description:'
+p3
+S'This app brings you the best daily deals available from Internet.Features:    * Daily deals from popular deal sites    * Customize the deal list     * Local deals    * Featured deals     * Daily deals from Twitter and Facebook    * Browse deals by categories    * Browse deals by popular stores    * Share deals with friends by email    * Search product    * Deal widgets    * MoreRecent changes:1.2.7:  Oct. 5, 2012Minor Enhancements and bug fixes1.2.6:  Aug. 12, 2012Minor Enhancements1.2.5:  Feb. 15, 2012Bug fixes'
+p4
+tp5
+tp6
+.

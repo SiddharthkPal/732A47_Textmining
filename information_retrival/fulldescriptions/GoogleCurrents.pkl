@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Currents '
+p1
+tp2
+(S'Description:'
+p3
+S'Google Currents delivers beautiful magazine-like editions to your tablet and smartphone for high speed and offline reading.  Features include:* Publisher editions - Publishers such as Forbes, The Guardian, TechCrunch, PBS, Saveur,  and more have produced hundreds of editions including full length, in-depth articles, videos, fine photography, and slideshows.  Editions are free -  covering news,  business,  lifestyle, fashion, sports, science, technology, design, food, entertainment and more.* Fast scan - A new navigation mode lets you quickly swipe vertically to discover unread stories within an edition,  swipe horizontally to move to the next edition within a category. Or, use the \xe2\x80\x9csidebar\xe2\x80\x9d to jump ahead to a  specific edition.* Breaking stories  - Google Currents uses Google search technology to deliver the hottest breaking stories  in categories such as world, entertainment, sports, science, and more. As you travel to different countries, additional breaking stories are added to match your location.* Saved stories -  Run across an in-depth article that you want to read later,  or a special recipe you want to keep? Star any story to be saved for later, in your personal Saved stories edition.* Your favorite blogs and feeds - Instantly, turn your Google Reader subscriptions, or any of your favorite blogs/feeds into a beautiful edition with a magazine feel.* Translate - Currents uses Google translate technology to translate editions into a preferred language of your choice. 44 languages are supported.* Widget - Immediately see fresh news on your android home screen with the Google Currents widget.Each edition is available for high speed offline reading, and provides quick-touch sharing. Google Currents self-adapts to differently sized phones and tablets, with subscriptions synchronized across devices. Google Currents - a reading experience not to be missed.Named  by New York Times, The Next Web, SlashGear and more as a top 10 Android app.Recent changes:* Audio playlist for editions with audio* Audio media bar in app for stop, start, next, previous * Story scanner audio icons for launching Audio directly* Status bar audio controls when Currents audio is playing* Syncing post read state between devices* Bug fixes'
+p4
+tp5
+tp6
+.

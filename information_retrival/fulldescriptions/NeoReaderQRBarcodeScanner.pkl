@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NeoReader QR & Barcode Scanner '
+p1
+tp2
+(S'Description:'
+p3
+S"Ready to scan QR or mobile barcodes?  Look no further than NeoReader\xc2\xae!As the world\xe2\x80\x99s best and fastest mobile barcode scanner around, NeoReader quickly scans all standard code types - QR, Data matrix, Aztec, EAN, UPC and Code 39 - so it\xe2\x80\x99s the only barcode reader you'll need.  It is also incredibly easy to use. Launch NeoReader, point your camera at the barcode and ping, the content is delivered to your mobile device. NeoReader eliminates the hassle of cumbersome phone menus, typing long URLs, and scrolling through search results. One scan and you're done!  NeoReader provides immediate access to the information you want, when you need it.  Happy Scanning!Learn more at http://www.neoreader.comRecent changes:- In-app-purchase option to remove ads from NeoReader- Scan barcodes from images stored in gallery- Minor bug fixes"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FreeCaddie Golf GPS '
+p1
+tp2
+(S'Description:'
+p3
+S'FreeCaddie is the #1 golf GPS rangefinder on Android with over one million downloads!Now supporting the Pebble smart watch!Get the distance to the front, center and back of each green. Over 28,000 mapped courses!Upgrade to FreeCaddie Pro and get distances to bunkers, hazards, rotated maps, auto-hole advance, shot measuring, statistics and more!Recent changes:Added support for the Pebble smart watch.Improved interface for tablets.Minor bug fixes.'
+p4
+tp5
+tp6
+.

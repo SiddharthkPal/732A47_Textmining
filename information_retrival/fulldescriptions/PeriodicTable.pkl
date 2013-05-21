@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Periodic Table '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn the periodic table of elements with Socratica. Over 30 facts about each element for reference. Audio clips to help with pronunciation. Test yourself with quiz mode. Find elements by table, search or index.Recent changes:Numerous bug fixes.'
+p4
+tp5
+tp6
+.

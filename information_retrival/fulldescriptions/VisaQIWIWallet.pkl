@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Visa QIWI Wallet '
+p1
+tp2
+(S'Description:'
+p3
+S"Visa QIWI Wallet offers a simple and reliable way to pay for goods and services around the world, receive payments, and transfer money.Visa QIWI Wallet application allows you to*:\xe2\x88\x99 Pay for goods and services with about 7000 providers (mobile operators, Internet access, television, utilities),  traffic police fines, duties and government services.\xe2\x88\x99 Issue and pay bills of other Visa QIWI Wallet users and online shops.\xe2\x88\x99 Repay consumer loans.\xe2\x88\x99 Buy airline and railway tickets.\xe2\x88\x99 Transfer funds to other Visa QIWI Wallet users without a fee.\xe2\x88\x99 Withdraw funds from Visa QIWI Wallet to bank accounts and cards, or via money transfer systems.\xe2\x88\x99 Use a variety of sources of funds (Visa QIWI Wallet, personal accounts of mobile operators Beeline, Megafon, MTS, or bank cards) and currency.\xe2\x88\x99 Issue virtual Visa cards, attached to your Visa QIWI Wallet, for purchases in on-line stores.\xe2\x88\x99 Learn about the methods, and nearest locations, to top up the Visa QIWI Wallet.\xe2\x88\x99 Maintain details of payments for re-payment.\xe2\x88\x99 Receive reports and official information.If you do not have Visa QIWI Wallet, you can register free of charge directly from the application.More information about Visa QIWI Wallet available at http://w.qiwi.ru and blogs: http://qiwi-in-use.livejournal.com, http://twitter.com/#!/Qiwi_Wallet*For some countries, some features may not be available.Recent changes:We've increased the number of the banks and providers that are available for payment;Bugfixes."
+p4
+tp5
+tp6
+.

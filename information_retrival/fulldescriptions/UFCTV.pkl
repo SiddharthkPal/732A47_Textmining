@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UFC TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch UFC events live on your Android phone.  Most UFC Pay-Per-Events will include the option to view in four different camera angles.  Also, purchase any past events or individual fights from the Fight Library within the Android application. And, watch Press Conferences and Weigh-ins live and for free.  View Fighter profiles of your favorite UFC fighters and get the latest News and TV Schedule.Perfect for the Ultimate UFC fan!Recent changes:* Updated with fix for login issues on certain devices* Added fight card with ability to view fighter profiles* Added ability to score fights round-by-round during a live event* Added optional system reminders for upcoming events* Added in-app notification for live and soon-to-be-live streaming events* Added support for local time zones* Updated general interface design and sharing options* Minor bug fixes'
+p4
+tp5
+tp6
+.

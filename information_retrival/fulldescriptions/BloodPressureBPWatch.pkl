@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Blood Pressure (BP) Watch '
+p1
+tp2
+(S'Description:'
+p3
+S'BP watch will help the user to get the most out of pressure monitoring. Checking your blood pressure is a crucial part of managing blood pressure. BP Watch will help user keep tracking blood pressure in familiar settings. BP Watch is a straightforward app with a clean interface to track your Blood Pressure.Record your blood pressure based on your need. Take your doctor\'s opinion about the frequency of blood pressure monitoring. BP Watch has an easy to use interface to record your blood pressure. "BP Watch" allows the user to record your systolic (High value), diastolic (Low value) and pulse. It also captures the posture, position and time of the blood pressure. Plus sign in the home screen will allow a user to record new blood pressure reading. Track icon in the home screen will allow user review your historical blood pressure record. List view will allow a user to update or delete a record.Feature:a) Record blood pressureb) Track blood pressurec) Update blood pressure recordd) Delete blood pressure recorde) Support for multiple accountsf) Exportg) Line Graphh) AverageWhy "BP Watch" ?This is a brand new application in the market still in infancy. This is a small part of a bigger vision. So far we have added only basic features. We would like to hear from users. We are planning to update every 3 weeks for the next few months. This will be your app build based your needs.Disclaimer: "BP Watch is intended to track blood pressure data to be shared with your provider. "BP Watch" is not intended to be used as a substitute of professional medical advice. We assume no liability for any personal harm or injury sustained as a result of using this application.Recent changes:Version 2.0.3.1Unlock ad-free versionGraph Fix for small screen Version 2.0.2 Fix for small screenVersion 2.0Enhanced UIVersion 1.6 *Date format *Improved home screenVersion 1.5.4.7*Bug Fix (Profile picture)Version 1.5.4.6 * Track weight * Enhanced historyVersion 1.5.4.5* Analytics* Bug Fix (Import)Version 1.5.4.3Time Vs BP Graph'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Easy and Fast Hotmail '
+p1
+tp2
+(S'Description:'
+p3
+S'Your hotmail account is one click away.  Easy and fast way to access your emails.Please remember if the app cannot connect to your mail server because of slow connection then please don\'t leave bad feedback you can email us at bansal.studios@gmail.com . To test the app try connecting via Wi-Fi.  I apologize for the inconvenience that my "free" app has caused.Recent changes:v1.94Launches phone keypad on clicking phone number link.v1.93Made some graphics updates.v1.90Allows users to move the application to SD card.v1.80Fix for keypad not popping up on some phones.v1.70 Here is a fix for the white screen.  Now we have a splash screen that will display while the app is trying to connect to your mail server.'
+p4
+tp5
+tp6
+.

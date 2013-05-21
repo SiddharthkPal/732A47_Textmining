@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ebook Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"eBooks.com's Ebook Reader lets you read your favorite books on the go. Choose from a massive collection of popular books that you can download in a jiffy.Ebook Reader is free, and optimized for Android devices. - Turn pages with a tap or swipe- Never lose your place in the book- Landscape or portrait orientation is lockable- Easy navigation inside the book- Search for text inside books- Night-reading mode is easy on the eyes - Adjust font size with a tap- Login with your existing eBooks.com account - Sync your eBooks.com online bookshelf with all your devices- Free classics at your fingertips immediately- Shop for ebooks within the app- Buy New York Times bestsellers as well as technical, professional and academic books- Online backup - your online ebook library is always accessible, so anytime you get a new PC or phone, your books are ready to download from your eBooks.com bookshelfRecent changes:v2.0.3:- Performance improvements / crash fixes- Optimized zoom- Better rendering for tablets- General bug fixes / polishing"
+p4
+tp5
+tp6
+.

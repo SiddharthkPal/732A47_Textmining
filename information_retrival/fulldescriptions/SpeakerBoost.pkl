@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Speaker Boost '
+p1
+tp2
+(S'Description:'
+p3
+S'Simple, small, experimental free app to boost your speaker or headphone sound volume.  Useful for movies, audio books and music.USE AT YOUR OWN RISK.  Playing audio at high volumes, especially for a prolonged amount of time, can destroy speakers and/or damage hearing.  Some users HAVE reported destroyed speakers and earphones.  IF YOU HEAR DISTORTED AUDIO, LOWER THE VOLUME (but it may be too late).By installing this application you agree that you will not hold its developer responsible for any damage to hardware or hearing, and you are using it AT YOUR OWN RISK.  Consider this to be EXPERIMENTAL software.Not all devices support this software.  Try it and see if yours works.  NEWS: I just noticed that Speaker Boost just doesn\'t work with the stock Android Music player (which I never use) on some or all Samsung devices.  You can get some of the same functionality with the stock music player by using the music player\'s custom equalizer function.  NOTE 1: This is NOT for adjusting the speakerphone volume in phone calls (that has its own boost, I think), but for adjusting the volume of music, movies and apps.NOTE 2: Users who complain that this does not boost bass are right.  In order to mitigate (but not remove!) the danger of damage to small speakers, there is no boost in the lowest frequency range, and there is also less boost in the highest frequency range.  If you go to the Settings and uncheck "Non-uniform boost", you get an across-the-board boost, but that\'s much more dangerous to your speakers.NOTE 3: When you set the boost to zero, Speaker Boost will be off.  The notification icon is just for ease of launching.  If you don\'t like seeing the notification icon when Speaker Boost is off, just go to Speaker Boost\'s Settings and set it to appear only when Speaker Boost is running.Recent changes:NOTE: If a if an updated stopped this working, you can download an old version from code.google.com/p/speakerboost .  You can also try uninstalling and re-installing the app.1.10: Maybe increase compatibility1.07.2: Screen layout stuff1.07.1: Fix equalizer priority bug1.07: Fix crash in Settings under Android 4.x1.06: By default limit maximum boost to 60%; this can be changed in Speaker Boost\'s Settings1.05: Option to set maximum allowed boost1.04: Boost nonuniformly across frequencies'
+p4
+tp5
+tp6
+.

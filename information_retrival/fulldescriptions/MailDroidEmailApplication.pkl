@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MailDroid - Email Application '
+p1
+tp2
+(S'Description:'
+p3
+S'MailDroid is an ad-supported Webdav/POP3/IMAP Idle Push email client written from the ground up and and not based on the stock Android email client. MailDroid has all the features you could want from a mobile email client and it continues to be built around user feedback. With the ability for IMAP users to sync draft mails, sent mail, deleted mail based on when they are on wifi or mobile as well as pop3 preload capability, MailDroid was built with mobile data in mind from the start. There are many other features, see below:Permissions needed for Ads*Features*1. Complete email re-write and not based at all on the standard Android mail client2. IMAP Idle Push for all IMAP email servers3. Save/Download Attachments from email to SD card using ES Explorer, Astro, or any other file explorer. You can also use the built in File Manager.4. Settings Support for signature, font size, ring tone, led color, icon selection etc.5. Custom Mail Rules (like outlook and thunderbird)6. Spell Check7. Search your mail online (for IMAP only) or offline for both IMAP and POP8. Password Protection9. Microsoft Exchange 2003,2007,2010, Office 36510. Full WYSIWYG editor11. Split screen for tablets12. Calendar integration13. Cloud storage integration (dropbox, box.net, google drive)14. Customize your inbox styles to your preference15. Spam Filter Plugin16. Email Conversation Threaded Mode 17. Mobile View options18. Different notification styles and icons19. Identities or Aliases20. Backup SMTP Provider capability21. Much more....PLEASE NOTE THAT ACTIVESYNC IS NOT SUPPORTED AT THIS TIME!PLEASE NOTE THAT SPAM SUBSCRIPTIONS DO NOT CARRY OVER TO THE PRO VERSION.Please email support if you have any questions or see any issues.kw:mail,email,yahoo,yahoo mail,yahoo email,aol,hotmail,msn,live mail,blackberry,mail system,droid mail,droidmail,mail droid,gawab,fastmail,gmx,aol mail,gmail,google mail,IMAP,POP3, outlook, thunderbird,365,office 365,gmx,mail.comRecent changes:3.06+ Added to styles menu no line, thin, thicker, thickest for separators + Added to styles menu no bold, bold subject only, bold subject and sender for unread mail  + Added to styles menu the ability to move checkbox location from right to left side of screen+ Option to set a default compose color + Option to now show date and time in message list+ Option to set a default compose color + Ability to modify the helo hostname+ Many bug fixes for exchange 2010 and office 365+ More..'
+p4
+tp5
+tp6
+.

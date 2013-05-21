@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Myxer '
+p1
+tp2
+(S'Description:'
+p3
+S"- Create custom ringtones from the music stored on your phone, or by recording your voice- Browse, preview, and customize FREE ringtones from Myxer's huge catalog - Cut the precise section of the track you want to set as your ringtone- Select from the most popular song sections as chosen by other Myxer users- Browse millions of free and premium MP3s and download straight to your music playerRecent changes:What's in this version:1. Fix issues with some ringtones getting corrupted after editing.2. Bug Fixes."
+p4
+tp5
+tp6
+.

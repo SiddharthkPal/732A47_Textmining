@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Funny pictures '
+p1
+tp2
+(S'Description:'
+p3
+S'We are absorbed in the collection of funny pictures and classical cartoons, show you the best you like. Support share by one key on Tencent micro-blog, Sina micro-blog and mailbox. Update the data of the famous humor website  www.laifu.org everyday and full of materials.'
+p4
+tp5
+tp6
+.

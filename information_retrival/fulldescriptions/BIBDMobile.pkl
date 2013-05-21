@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BIBD Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'BIBD Mobile offers you a convenient and safe way to perform your everyday banking needs direct from your Android phone. With an array of features similar to BIBD Online, BIBD Mobile is the perfect mobile banking Application[App] to have whenever and wherever you are. This downloadable mobile App comes with an enhanced user interface and is optimised for your Android device, Features include: \xe2\x9c\x93 Make enquiries on your account balances in your Current, Savings, investment, Financing and Credit Card accounts; \xe2\x9c\x93 View transaction history and get up-to date information; \xe2\x9c\x93 Transfer money between BIBD accounts, locally within other banks in Brunei and also internationally; \xe2\x9c\x93 Pay Bills for all major merchants in Brunei including your BIBD credit cards; \xe2\x9c\x93 Perform Instant Electricity (DES) and Mobile (DST) Top-ups; \xe2\x9c\x93 Inquire about latest foreign currency exchange rates; and \xe2\x9c\x93 View latest BIBD news and promotions. Registration to BIBD Mobile is simple and hassle-free, without the need to visit a branch and sign any forms. Simply download the BIBD Mobile Application, provide your ATM/Debit Card number along with PIN and follow the simple steps to register yourself online. If you are already a BIBD internet banking user, simply use your existing username and Internet PIN along with the hardware token to start using BIBD Mobile. For even more convenience, simply create a mobile password that can be used in place of your hardware token. With BIBD Mobile, you can now manage your finances whenever and wherever you are. -------------------------- Powered By SilverlakeRecent changes:\xe2\x98\x85 Improved customer notifications\xe2\x98\x85 Cosmetic changes to support new Android phones\xe2\x98\x85 Minor bug fixes'
+p4
+tp5
+tp6
+.

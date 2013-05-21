@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SketchBook Mobile Express '
+p1
+tp2
+(S'Description:'
+p3
+S'Autodesk SketchBook Mobile Express is a professional-grade paint and drawing application designed for android devices with screen sizes of 7" and under. SketchBook Mobile Express offers a dedicated set of sketching tools and delivers them through a streamlined and intuitive user interface.Use it to digitally capture your ideas as napkin sketches or produce artwork on-the-go. With the same paint engine as the renowned SketchBook Pro software, SketchBook Mobile Express delivers sophisticated brushes and pencils.Features:\xe2\x9c\x93 Full Screen work space with on demand UI\xe2\x9c\x93 Multi-touch navigation with a 2500% zoom\xe2\x9c\x93 Up to 3 layers you can merge and toggle visibility\xe2\x80\xa2 Opacity control on each layer\xe2\x9c\x93 Import layer from the Gallery on your device or Camera\xe2\x9c\x93 Save to the Gallery on your device\xe2\x9c\x93 6 Preset Brushes, including Flood fill tool\xe2\x80\xa2 Synthetic pressure sensitivity (brush fade-off)\xe2\x80\xa2 Smooth brush stroking\xe2\x9c\x93 Add text to current layer\xe2\x9c\x93 Dynamic symmetric drawing\xe2\x9c\x93 Color Wheel and Customizable Color SwatchesRecent changes:\xe2\x9c\x93Now supports 9 languages (English, French, Italian, German, Spanish, Simplified Chinese, Traditional Chinese, Korean, Japanese)\xe2\x9c\x93Performance enhancements\xe2\x9c\x93Access SketchBook news from Help pages\xe2\x9c\x93Support for Android 4.2\xe2\x9c\x93Refreshed UIV2.0.1 \xe2\x9c\x93Bug FixesV2.0.2 \xe2\x9c\x93 Bug Fix'
+p4
+tp5
+tp6
+.

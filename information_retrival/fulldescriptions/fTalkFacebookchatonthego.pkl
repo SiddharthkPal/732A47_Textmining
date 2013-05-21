@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'fTalk: Facebook chat on the go '
+p1
+tp2
+(S'Description:'
+p3
+S"You can now enjoy fTalk Facebook chatting on the go and beyond the confines of your computer! The clean interface makes it very simple to use and the light design won\xe2\x80\x99t drain your smartphone. fTalk\xe2\x80\x99s new app is colorful, easy and fun.Simplify your social media activities and start enjoying fTalk mobile now!Recent changes:- Fun emoticons to add more moods, humor and zest to your Facebook chats- Update your status and receive real time notifications when friends come online- Clean and colorful interface that is easy to use- Light app that won\xe2\x80\x99t drain your batteryWhat's new in version 1.2.3882:- Bug fixes and other improvements to app performance"
+p4
+tp5
+tp6
+.

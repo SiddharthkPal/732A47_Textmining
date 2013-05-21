@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zello Walkie Talkie '
+p1
+tp2
+(S'Description:'
+p3
+S"Turn your phone or tablet into a walkie talkie with this lightning fast free push-to-talk (PTT) app, which works between Android, iPhone, BlackBerry, and PC. Talk to your contacts privately or join public channels to engage in a hot debate. Zello features:- Real-time streaming, high quality voice- Contacts availability and text status- Public and private channels for up to 300 users- Option to map hardware PTT button- Bluetooth headset support (selected phones)- Voice history- Call alert- Push notificationsWe are working hard to improve the app so please expect frequent updates. We can't reply to comments on Google Play so if you have questions or issues send us an email at support@zello.comVisit our website http://zello.com/ to get Zello Walkie Talkie for your PC or different platform.Connect with other Zello users on Facebook: http://facebook.com/ZelloMeFollow us on Twitter:http://twitter.com/zelloRecent changes:Update 2.11 fixes bugs of 2.10 release. - Fixed a bug with interruptions in Zelect channels- Improved contacts authorization flow, added options to decline / block all, and resend contact request- Missed messages counters are clickable now- Update Recents when alert is sent or received- Save alerts to history- Save log of users blocked in a channel history- Improved UI- Added options to delete account and change passwordMore updates are coming, please support Zello by rating the app!"
+p4
+tp5
+tp6
+.

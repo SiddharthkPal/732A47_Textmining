@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nike+ Running '
+p1
+tp2
+(S'Description:'
+p3
+S"Nike+ Running just got even more motivating.  Now you can add friends and see how you stack up.  Keep tabs on who's logging the most runs and miles, then get out there and beat them. -\tFrom the trail to the treadmill, your phone's GPS and accelerometer accurately record your distance, pace, and time. In-run audio feedback lets you know these metrics at every mile, so you can stay focused on your run.-\tNo sensor or additional products needed, just grab your phone and go.-\tGet in-ear cheers from your friends on Facebook when you broadcast that you\xe2\x80\x99ve started a run. Tag the friends you ran with and share a map of your route with friends and family.-\tHave a song that gets you pumped? Set up PowerSongs to give yourself a boost with the tap of a button.-\tNeed extra motivation? Add a widget to your phone\xe2\x80\x99s home screen to show when you ran last, display your total mileage, and for even quicker access into a run.-\tSome features such as Share Run and Cheer Me On require users to be connected to a wireless network for full functionality. Please note that continued use of GPS running in the background could dramatically decrease battery life.-\tNeed help? Get support at nikeplus.com/support. Nike+ Running Handset Supported - Tested\xe2\x80\xa2\tMotorola Droid2 Global \xe2\x80\xa8* HTC ThunderBolt \xe2\x80\xa8* HTC Incredible2 \xe2\x80\xa8* HTC My Touch 4G Slide \xe2\x80\xa8* Samsung Galaxy Nexus \xe2\x80\xa8* Samsung Galaxy S III, Samsung Galaxy S II, Galaxy SNike+ Running Devices NOT Supported-\tAll Sony Ericsson Xperia devices-\tAll LG devices-\tTabletsRecent changes:BUG FIXESWe are continually working to give you the best possible running experience. This update includes improvements related to performance stability and crashes. We appreciate your feedback."
+p4
+tp5
+tp6
+.

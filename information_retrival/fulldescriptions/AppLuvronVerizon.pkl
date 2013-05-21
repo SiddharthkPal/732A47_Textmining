@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AppLuvr on Verizon '
+p1
+tp2
+(S'Description:'
+p3
+S'There are a lot of apps out there. Cut through the noise with AppLuvr - get personalized app recommendations based on your own apps and interests, read expert reviews, and search for what you like. AppLuvr v2.2 is now available on Verizon Android phones and tablets!Features:\xe2\x80\xa2       Get personalized recommendations based on your app interests and the existing apps on your device\xe2\x80\xa2\tSee what\xe2\x80\x99s hot by browsing top trending apps\xe2\x80\xa2\tRead independent advisor reviews, and get app suggestions from category experts\xe2\x80\xa2\tSee what apps your friends have and what they have to say about them\t\xe2\x80\xa2\tSearch for apps by keywordAppLuvr on Verizon was developed by Brand Mobility in partnership with Verizon Wireless and Appolicious.Recent changes:AppLuvr 2.2- Minor changes related to Facebook integrationAppLuvr 2.1- Minor adjustments for Facebook login tokenAppLuvr 2.0- Extended compatibility for Android phones and tablets- Support for Android OS v2.x, 3.x, 4.x- Integration with Google Play and Verizon Apps for app downloads- New My Profile for one-stop personalization- Custom Advisor Reviews for the hottest phone apps'
+p4
+tp5
+tp6
+.

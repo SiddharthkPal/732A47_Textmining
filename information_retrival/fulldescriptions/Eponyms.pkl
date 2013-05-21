@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Eponyms '
+p1
+tp2
+(S'Description:'
+p3
+S"Eponyms brings a short description of more than 1'700 common medical eponyms to your Android device. A perfect tool to quickly look up the meaning of any eponym.It uses the beautiful eponym database from Andrew Yee (http://www.eponyms.net/), updates can be installed right from within Eponyms."
+p4
+tp5
+tp6
+.

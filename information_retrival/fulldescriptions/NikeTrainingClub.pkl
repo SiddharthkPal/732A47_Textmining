@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nike Training Club '
+p1
+tp2
+(S'Description:'
+p3
+S'Nike\xe2\x80\x99s most popular training app continues to grow and get better on Android. Sign up to Nike Training Club to get your own personal trainer, anytime, anywhere. Get lean, toned and strong with more than 100 custom-built workouts. Take your goal further with all-new NikeFuel and calorie data. Unlock exclusive extra workouts from Rihanna\xe2\x80\x99s personal trainer Ary Nu\xc3\xb1ez and professional athletes like Hope Solo, Serena Williams and Paula Radcliffe. Detailed instructions and audio support are on hand to help you perfect each of Nike Training Club\xe2\x80\x99s dynamic drills. Choose a workout that fits your goal. Set it to your music, share your progress, earn your rewards. And just see the results.- Full-body workouts for 30 or 45 minutes. Targeted and professional athlete workouts for 15 minutes. Set a favorite workout as your Quick-Start.- Multi-dimensional, multi-directional drills build on the fundamentals of strength, cardio, interval and core training.- Exclusive rewards including workouts from Hollywood Trainer Jeanette Jenkins, professional athletes, celebrities, yoga instructors and more. - Simple functionality optimizes every workout. Select your goal and fitness level, then choose from a list of workouts that meet your criteria.- Set your workout to your own music.- Audio guidance keeps you on track and motivated while working out.- Access step-by-step instructions and video demonstrations for every drill at any time.- Track details of your workout history and training progress.- Share your workout and reward status on Facebook and Twitter.- NTC Training Essentials help you gear up and get the most from every workout.Recent changes:\xe2\x80\xa2\tRegistration/sign-up required to access your NTC workouts\xe2\x80\xa2\tApproximate calorie and NikeFuel data for every workout\xe2\x80\xa2\tBonus workouts from professional athletes Serena Williams, Lakey Peterson, Carmelita Jeter and Gabby Douglas\xe2\x80\xa2\tMore Training Essentials to help you perform to your best'
+p4
+tp5
+tp6
+.

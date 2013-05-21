@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Manga Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"Read manga in their native language is convenient and easy!More than 4000 manga!Easy navigation and search!Excellent for both phone and tablet!Page manga in HD quality!ATTENTION! Friends! On the server problems. We're sorry. Soon all will fix that.If you did not find your favorite mangaemail us we will try to will add it for is for you!ATTENTION! If you are reading this is not in your native language, then email us and leave a comment which language manga for us to add and we will add it.keywords:manga, reading manga, reading, One-Piece, Naruto, BleachRecent changes:* Added switching to adjacent titles* Added the ability to mark read a chapter"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hindu Calendar '
+p1
+tp2
+(S'Description:'
+p3
+S'Follow us on http://www.facebook.com/hinducalendarapp- Panchang for any day. Tithi (date) along with paksha (shukla and krishna), yoga, karana, nakshatra and vaar (day of week). Also shows the year, maah (month purnimant and amavasyant),zodiac of moon and the ritu (Season), along with their end times. Has Vikram Samvat, Vikram Samvat Kartak and Indian National Calendar (Saka). - Get detailed panchang view including moon rise and moon set, sunrise and sunset, Day and Night Choghadiya, Rahukalam, Yama Ghantam, Guli Kalam, Dur Muhurt and Abhijit. All calculated for your chosen location.- Griha (Planet) Positions and rise set times, (including shani, rahu and ketu).- Find all the celestial objects, nakshatras, rashis and grihas in the sky.- Support for custom location. Choose from over 3000 cities, or choose your own location.- A monthly Calendar view highlighting the Ekadashi, Chathurthi, Poornima and Amavasya. Shows the monthly list of festival. Also showing the moon phase for each date.- Save and track your own tithis. - Shows the date of hindu festivals and allows to add the festivals in your calendar.: Diwali (Deepawali), Chhath, Karwa Chauth, Holi, Maha Shivaratri, Ramnavami, Rakshabandhan etc- Also has 4 widgets showing the moon phase, and the lunar date, and one showing moon rise, moon set and sun rise sun set timings.- ** Widgets only work when app is on Phone and not on SD card **Recent changes:==4.5==* Added Ishtkaal, Sunrise in Kundli.* MyTithi shows the next date of the tithi.* Added festival Akshaya Tritiya, fixed calculations for festivals like Ramnavami.* Added Balance of dasha and mahadasha in Kundali.* Fix for Solar month name==4.4.1==* Added Marathi Language. (only for devices Android ICS 4.0 or later )* Added Nakshatra and Rashi Lord, Nakshatra Paya Gana, Yoni, Nadi , Varna in Kundali* Bigger font size for Tablets* Solar tithi and month (needs  testing)'
+p4
+tp5
+tp6
+.

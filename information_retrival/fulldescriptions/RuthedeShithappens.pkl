@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ruthe.de - Shit happens '
+p1
+tp2
+(S'Description:'
+p3
+S"Einfache App, die die Comics von www.ruthe.de anzeigt.Zeitbeschr\xc3\xa4nkte Version, da der Autor, also der Hr. Ruthe, eine eigene App plant - dann hei\xc3\x9ft es umsteigen auf die offizielle App. Bis dahin gibt's diese hier.Keine offizielle App, unterst\xc3\xbctzt bitte Ralph Ruthe durch Kauf seiner Produkte und Besuch der Homepage!Recent changes:Zeitverl\xc3\xa4ngerung"
+p4
+tp5
+tp6
+.

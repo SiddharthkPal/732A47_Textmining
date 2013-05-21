@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'KBB.com Car Prices & Reviews '
+p1
+tp2
+(S'Description:'
+p3
+S'KBB.com Car Prices & ReviewsThis free, interactive car app will provide you with trusted Kelley Blue Book\xc2\xae Values and the information you need to simplify the car buying process!From the dealership lot (or just about anywhere), find the value of what your current car is worth, or research new or used car prices for your next car. This KBB.com car app gives you direct access to car pricing and information to help you make a confident car buying decision. Find a local car dealer and access detailed maps and directions. You can access 360\xc2\xb0 car photos and instant video car reviews right in the palm of your hand. The car app also features kbb.com\xe2\x80\x99s Twitter feed, giving you insight into the latest automotive information from Kelley Blue Book\xe2\x80\x99s team of car experts and enthusiasts. With the KBB.com app, you\xe2\x80\x99ll have the expert car advice of Kelley Blue Book at your fingertips (literally)!Features\xe2\x80\xa2 Search new car prices and used car values \xe2\x80\xa2 Read expert and consumer car reviews \xe2\x80\xa2 Browse car photos and videos \xe2\x80\xa2 Compare multiple cars side-by-side\xe2\x80\xa2 Find car dealers in your area (by zip code)\xe2\x80\xa2 Request a car quote from local dealers\xe2\x80\xa2 Access our Twitter feed directly from your smartphoneUse the Kelley Blue Book mobile car app to do research before you buy a new or used car. Find cars for sale, compare new car prices and used car values, discover local car dealerships, contact car dealers, and start your car buying process. What kind of cars can you find? New cars, used cars, pre-owned cars, pickup trucks, vans, SUVs, sedans, and more.Recent changes:We have updated our privacy policy.'
+p4
+tp5
+tp6
+.

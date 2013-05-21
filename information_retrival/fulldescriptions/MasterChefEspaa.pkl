@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MasterChef Espa\xc3\x83\xc2\xb1a '
+p1
+tp2
+(S'Description:'
+p3
+S'MasterChef es un concurso culinario que busca al mejor cocinero amateur de Espa\xc3\xb1a. S\xc3\xb3lo 15 elegidos compiten por el t\xc3\xadtulo de MasterChef, un premio en met\xc3\xa1lico de 100.000 euros y la publicaci\xc3\xb3n de un libro con sus recetas.Tres prestigiosos profesionales de la cocina forman el jurado de MasterChef: Pepe Rodr\xc3\xadguez, Jordi Cruz y Samantha Vallejo-N\xc3\xa1gera. A ellos les corresponde decidir en cada programa qu\xc3\xa9 concursante es el expulsado.MasterChef es la gran apuesta de Televisi\xc3\xb3n Espa\xc3\xb1ola para la temporada 2013; una producci\xc3\xb3n realizada con la colaboraci\xc3\xb3n de ShineIberia. Este talent show ha triunfado en todo el mundo, con una audiencia de m\xc3\xa1s de 200 millones de espectadores en los 145 pa\xc3\xadses en los que se ha emitido.'
+p4
+tp5
+tp6
+.

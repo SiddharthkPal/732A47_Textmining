@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lig TV '
+p1
+tp2
+(S'Description:'
+p3
+S"D\xc3\x9cNYANIN FUTBOLU AVUCUNUZUN \xc4\xb0\xc3\x87\xc4\xb0NDE! T\xc3\xbcrkiye'nin lider futbol kanal\xc4\xb1 ve futbol sitesi olan Lig TV'nin resmi Android uygulamas\xc4\xb1 Google Play'de.Lig TV Android uygulamas\xc4\xb1 ile nerede olursan\xc4\xb1z olun, g\xc3\xbcncel futbol haberleri ve futbol videolar\xc4\xb1n\xc4\xb1 takip edebilir, Spor Toto S\xc3\xbcper Lig, Fransa Ligi, \xc4\xb0ngiltere Ligi, Beko Basketbol Ligi ma\xc3\xa7 \xc3\xb6zetlerini ve gollerini ma\xc3\xa7 bittikten hemen sonra Android \xc3\xbczerinden izleyebilirsiniz. Ayr\xc4\xb1ca tak\xc4\xb1m\xc4\xb1n\xc4\xb1z\xc4\xb1n veya takip etmek istedi\xc4\x9finiz ligin en son haberlerine, iddaa listesinde yer alan b\xc3\xbct\xc3\xbcn ma\xc3\xa7lar\xc4\xb1n canl\xc4\xb1 skorlar\xc4\xb1na Lig TV Android uygulamas\xc4\xb1yla kolayca ula\xc5\x9fabilirsiniz.Recent changes:S\xc3\xbcr\xc3\xbcm 1.3.1- Hata ay\xc4\xb1klama.S\xc3\xbcr\xc3\xbcm 1.3.0- Gol Krall\xc4\xb1\xc4\x9f\xc4\xb1 ve Asist Krall\xc4\xb1\xc4\x9f\xc4\xb1 eklendi.- Oyuncu ma\xc3\xa7 istatistikleri eklendi.- Yay\xc4\xb1n Ak\xc4\xb1\xc5\x9f\xc4\xb1 eklendi.- Hata ay\xc4\xb1klama."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Samsung SMART CAMERA App '
+p1
+tp2
+(S'Description:'
+p3
+S'The new smartphone app, Samsung SMART CAMERA App. hasintegrated three existing apps to save time and effort. When using your Samsung SMART CAMERA, the app automatically connects to your smartphone for convenience. And you can launch a trio of SMART CAMERA apps (AutoShare, MobileLink, and Remote Viewfinder) from your smartphone with a single touch.- You can only connect to Samsung cameras manufactured in 2013 or later. ( DV150F, ST150F, WB200F, WB250F, WB30F, WB800F, NX300 )- You can use the application on Android phones with resolutions of WVGA or higher running Android OS 2.3.3 or higher.- This application is not available for some Android devices.'
+p4
+tp5
+tp6
+.

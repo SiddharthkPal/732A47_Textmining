@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'S.O.S. by American Red Cross '
+p1
+tp2
+(S'Description:'
+p3
+S'Be safe, prepared and informed when a medical emergency strikes with the American Red Cross\xe2\x80\x99s S.O.S. App for Android.The American Red Cross has teamed up with Dr. Oz and Sharecare to create the ultimate emergency care application. S.O.S. provides step-by-step instructions on dealing with a variety of emergencies, including choking, broken bones, strokes, allergic reactions and more. Not sure what the problem is? We\xe2\x80\x99ll help you figure that out, too.This free app includes:- An expansive Emergency Guide for easy access to emergency care information.- A questionnaire to help you determine an emergency\xe2\x80\x99s severity and proper treatment.- Dozens of videos, narrated by Dr. Oz, to coach you through emergency protocols. Particularly complex techniques, such as unconscious choking and CPR also include an audio and visual counter for real-time CPR compressions.- Quick Care factoids to help you stay ahead of the curve before an emergency strikes. These range from knowing which foods can help motion sickness to the medical use for kitty litter.- Easy access to 9-1-1. If you\xe2\x80\x99re not in the US, we\xe2\x80\x99ve got you covered \xe2\x80\x93 the app will determine what country you\xe2\x80\x99re in and dial the appropriate emergency number.- Alerts from the Red Cross to make it easy to help out in the case of a major disaster.Emergency care protocols were developed and reviewed by prestigious medical and educational panels from both the American Red Cross and the American College of Emergency Physicians (ACEP).Recent changes:- Improved UI and navigation, same great emergency app- Quick Care factoids to help you prepare for an emergency- International emergency numbers- Alerts from the American Red Cross when natural disasters occur- Easy way to donate to the American Red Cross'
+p4
+tp5
+tp6
+.

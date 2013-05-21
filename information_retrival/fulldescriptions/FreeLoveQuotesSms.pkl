@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free Love Quotes Sms '
+p1
+tp2
+(S'Description:'
+p3
+S'Sms love, an application that allows you to send sms love to your sweetheart or lover.This application contains hundreds of thousands of sms love.Thanks to this application you will no longer have to write sms to your lover just open the application and click the refresh button to see a new sms.Sms love can work very well without the Internet, download this application and put all the chances on your side. Your sweetheart will be very pleased to receive this sms breathtaking.Ability to save the phone number of your love This application is available in two languages \xe2\x80\x8b\xe2\x80\x8bEnglish and French.'
+p4
+tp5
+tp6
+.

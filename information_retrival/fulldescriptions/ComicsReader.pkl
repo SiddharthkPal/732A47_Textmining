@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Comics Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"A simple comics viewer under GPLv3 license which provides some innovative features such as comics browser with thumbnails, optimized animated fling to switch between pages, page switcher with thumbnails, two ways scrolling to move in a page if larger than screen, several view modes optimized for small or large screens, etc. Supports PNG, JPEG, GIF, CBZ, CBR and CBT formats.Please don't hesitate to fill a bug report or request a new feature on :http://code.google.com/p/android-comicsreader/issues/listRecent changes:- right to left reading direction settings- added animation speed settings- added edges resistance settings- GIF and CBT/TAR format support- improvement of generator.php to support CBR and CBT format- viewer font size increased for tablets- ZIP files extraction optimization- some bugs and crash fixes"
+p4
+tp5
+tp6
+.

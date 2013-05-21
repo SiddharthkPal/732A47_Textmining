@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Italian Manga Browser '
+p1
+tp2
+(S'Description:'
+p3
+S'Italian Manga Browser is the manga reader that allows you to read your favorite mangascan directly from your smartphone, in Italian!FEATURES:- Read manga from Itascan.info database- Add manga on favourites- Search for new chapters available- Bookmark to the last read chapter- View in portrait - landscape- Navigate between pages using buttons- Navigate between pages scrolling- Pinch-to-zoom- Download on sdcard- Visualization options- Chapter read/unread management- Crash and feedback reportingNOTE: If you encounter problems with IMB, tap on the "Send feedback" button on the app, to give suggestions or ask for help, or write an e-mail before sending a negative comment.Permissions - This app requires: - Internet permission to download manga- Writing to external storage permission to save chapters on sdcard- Access to network stateRecent changes:Updated data sync with Itascan.infoAdded feature to scroll pagesFixed : Download images ***** NB ***To fix app data I had to delete the app db. Sorry for the inconvenient.'
+p4
+tp5
+tp6
+.

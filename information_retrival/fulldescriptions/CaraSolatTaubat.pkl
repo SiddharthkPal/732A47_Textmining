@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cara Solat Taubat '
+p1
+tp2
+(S'Description:'
+p3
+S'Ingin mengetahui Cara Solat Taubat dan permasalahan - permasalahan sekitar pelaksanaan solat taubat. Kami kongsikan maklumat ini didalam aplikasi ini. Terdapat 60 persoalan beserta jawapannya sekali yang disedakan oleh ahli - ahli panel dari islamgrid.gov.myPihak kami hanya menyediakan maklumat ini dalam bentuk yang mudah dibaca oleh pengguna. Kami juga tidak mempunyai sebarang afiliasi dengan pihak islamgrid.gov.mySemoga Bermanfaat.Segala cadangan / komen / soalan , sila hantar ke admin@greatestwebapp.com'
+p4
+tp5
+tp6
+.

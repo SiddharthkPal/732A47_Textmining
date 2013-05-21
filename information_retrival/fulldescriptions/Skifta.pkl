@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Skifta '
+p1
+tp2
+(S'Description:'
+p3
+S"Skifta for Android is a DLNA Certified(R) software app that combines media shifting with DLNA/UPnP and lets you play your digital music, photos and videos on connected devices anywhere \xe2\x80\x93 no wires, no downloading. Control digital media on your phone, from the Internet, or remotely from home, and stream it over WiFi to your TV, PS3 or stereo. Check out more at www.skifta.com.Recent changes:Huge numbers of fixes, particularly if you have a Motorola handset.  We've improved a number of other UI elements and a bunch of other things.If you experience issues using Skifta, please mail us at support@skifta.com or head over to our forums at http://forums.skifta.com."
+p4
+tp5
+tp6
+.

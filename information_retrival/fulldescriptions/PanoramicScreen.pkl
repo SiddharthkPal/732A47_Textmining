@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Panoramic Screen '
+p1
+tp2
+(S'Description:'
+p3
+S'Panoramic Screen is a Live Wallpaper which creates 3D panoramas from ANY regular wallpapers and 2D images. No battery drain!Based on an original idea, Panoramic Screen featured many cool settings and options, including various panorama modes, sensors support, dynamic ripple effect, build-in image gallery, slideshow (premium) and more!You may use slideshow with or without panoramic effect. Double tap with two fingers on the screen to force change current slideshow image.Ideal for HD backgrounds of any type, especially for nature and abstract images. Supports Full HD, no quality loss. Works well on phones and tablets, any screen size, landscape or portrait. Compatible with all launchers that supports live wallpapers, such as Nova launcher, Apex launcher, GO launcher and so on.For any questions, suggestions or bug reports please email us hamsters@hamsterbeat.comHamster Beat Team.All delicious android apps by hamsters drummers.Recent changes:+ Slideshow fixes'
+p4
+tp5
+tp6
+.

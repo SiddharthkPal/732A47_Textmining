@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CNET '
+p1
+tp2
+(S'Description:'
+p3
+S"If you are a tech-lover, and you have an Android phone, you need CNET's free app. We keep you living in the future with award-winning tech news, reviews, and trend coverage. Find opinions and help from your favorite, trusted CNET editors all in a fast, beautiful, and easy-to-use package. Download it now from the Android Play Store. It's free! Key features: > NEW! Discover the best of 2013 CES! News, awards, photos, videos, and live coverage.> All the latest and most entertaining consumer technology news, reviews, photo galleries, and videos directly to you in real time > Your favorite CNET blogs, including Crave, Green Tech, and the Cutting Edge > On-demand and live video > Photo galleries > Product finder> Share your favorite CNET content via e-mail, Facebook, or TwitterRecent changes:Bug Fixes"
+p4
+tp5
+tp6
+.

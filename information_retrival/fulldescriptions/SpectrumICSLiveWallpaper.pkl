@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Spectrum ICS Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Spectrum ICS live wallpaper, beautiful abstract colors with floating particles.Also great for new Android 4.0 Ice Cream Sandwich themes and Jelly Bean devices.If you like this wallpaper, please support us by purchasing Pro version with more themes and features.https://play.google.com/store/apps/details?id=com.xllusion.livewallpaper.spectrumproFeatures- Beautiful abstract colors- Dust- Light element- Parallax effect- Use 3D hardware to render images, save battery- Support most resolutions including Android 3.0 tablet- Android 4.0 ICS readyInstructionHome -> Menu -> Wallpapers -> Live WallpapersNote: It is live wallpaper so you can\'t open the app, you will need to follow the instruction above in order to set the wallpaper. Also slower/older devices (shipped with Android OS below 2.1) can\'t run it too, currently it has been tested on Samsung Galaxy S3, Galaxy Nexus and Sony Arc S so any mobile devices that is equivalent to them should run fine. If you have put the app on SD card and restarted the phone, the wallpaper will reset to default since the system couldn\'t find the app first. FAQ:1. Why is there "Internet access" permission?It is for Google ads on setting screen only, nothing else. Pro version is ads free with more features.2. Wallpaper resets to default after reboot/restart the phone?Please move the app to phone instead of SD card.Recent changes:v1.2.3- Reduced file size- Updated to latest Android 4.2.2 SDK- Updated Google Admob SDK- Updated core engine to improve memory management- Removed "Download free game" link'
+p4
+tp5
+tp6
+.

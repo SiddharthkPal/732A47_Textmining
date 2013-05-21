@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Frases Jos\xc3\x83\xc2\xa9 Mota '
+p1
+tp2
+(S'Description:'
+p3
+S'##ATENCION##: Descargar la aplicaci\xc3\xb3n por WIFI, tengo muchos reportes de gente que le da fallo la aplicaci\xc3\xb3n, eso es debido en mayor parte a la descarga, que no se hace de manera correcta.Aplicaci\xc3\xb3n para escuchar la mejores frases y sonidos del gran Jose Mota en su programa de T\xc3\xa9lecinco.Partete de risa con las mejores frases de los Sketchs de la Vieja al Visillo, Berengario el Tractorista, Si te digo la verdad miento, las canciones interpretadas por Jose Mota, el Aberroncho, Ricardo Boquerone, Tomas, La Blasa, El Cansino, Yeti-Roncho, Papa Style, Juego de Tronos, etc...M\xc3\xa1s de 150 frases/canciones.Si te gusta la aplicaci\xc3\xb3n, por favor, vota con 5 estrellas y con un +1.Si quieres m\xc3\xa1s aplicaciones y m\xc3\xa1s frases, por favor ayuda al desarrollador visitando la publicidad de nuestros anunciantes dentro de la aplicaci\xc3\xb3n, gracias.Por el tama\xc3\xb1o de la aplicaci\xc3\xb3n, es recomendable la descarga por Wifi.La aplicaci\xc3\xb3n se actualizar\xc3\xa1 semanalmente con nuevas frases y canciones.  Compatible con Tablet.Eres mu tonto si no te bajas la aplicaci\xc3\xb3n, pero no solo eres tonto tu, tonto tu padre, tonto un abuelo tuyo que se tuvo que ir a Finlandia a trabajar en la Chapa, que era el mas tonto del mundo y lo devolvieron certificao en un paquete.Si alguien tiene alg\xc3\xban problema cuando ejecuta la aplicaci\xc3\xb3n, por favor, env\xc3\xaden un correo, indicando modelo de tel\xc3\xa9fono y versi\xc3\xb3n de android, gracias.A\xc3\xb1adidas nuevas frases del \xc3\xbaltimo programa y frases a petici\xc3\xb3n popular.Recent changes:A\xc3\xb1adidas nuevas frases del \xc3\xbaltimo programa y frases a petici\xc3\xb3n popular.'
+p4
+tp5
+tp6
+.

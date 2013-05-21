@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Worldictionary Free '
+p1
+tp2
+(S'Description:'
+p3
+S'A smart tool for learning foreign languages. Point your phone\'s camera at any word and Worldictionary will instantly define and translate it. No need to manually type words or take pictures. This app will be your indispensable travel tool primed to give you translation on-the-go. 1. The instant "View and Translate" feature allows you to get instant translation simply by pointing your phone\'s camera at a word you want to look up.2. Worldictionary recognizes and translates 15 languages, ranging from: Traditional Chinese, Simplified Chinese, English, Japanese, Korean, French, Germany, Italian, Spanish, Portuguese, Dutch, Swedish, Finnish, Danish, and Norwegian. No need to type any words to look it up! 3. To proceed with looking up additional words or knowing more about the usage of particular words, you can first snap a picture of the text and then point the word you want to look up in focus one by one.4. Optionally, you can select an image from your phone to get the translation immediately without typing words in. 5. Worldictionary automatically saves your search records. You can even build your own word database to increase translation efficiency. 6. Provide Google/Wikipedia/YouTube Search7. Provide translation of phrases. 8. Support audio pronunciation for 15 languages.Please Note: Network connection is required.ps: free version does not support bookmark functionkeywords: dictionary, lens input, translation, translator, collins, \xe8\x92\x99\xe6\x81\xac, worldcard, penpowerRecent changes:[v1.2.20121122]minor bug fix'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DatPiff Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'DatPiff Mobile brings DatPiff\'s MASSIVE mixtape collection to you, wherever you are! You can also view videos, news, favorites and rate and comment on them all! Stream, search, comment, rate, download and favorite on the go!--If you have errors when upgrading, try removing and re-installing the app.Please be sure you have a strong connection. You are streaming full-size mp3 and video files!** Please note we are working on an update to the app to fix the streaming and downloading issues **Recent changes:--Added feedback for the % of the track loaded--Fixed "track downloading" errors requiring reinstall--Other minor changes.Please note that we have discovered that some tracks will not play on tablets (such as the Galaxy Tab). We\'re working on a solution, but in the meantime, please email us if you run into this issue. Please include the device you are using, the mixtape and specific track you tried to play.Thank you'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Canadian Tire '
+p1
+tp2
+(S'Description:'
+p3
+S'The free Canadian Tire App is essential for planning your next shopping trip!Sale Alerts We\xe2\x80\x99ll alert you when items you\xe2\x80\x99ve added to your Shopping List go on sale.FlyerSee this week\xe2\x80\x99s flyer and an exclusive peek at the upcoming flyer every Wednesday.Barcode ScannerScan UPCs and QR codes for ratings & reviews, product information and pricing.Ratings and ReviewsFind out what other customers have to say about a product before making a decision.Instructional VideosHow-to videos and Buying Guides with active demonstrations to follow along with.GPSFind the closest Canadian Tire Store for directions or product availability.ZoomView your products up close in the image gallery to prevent any surprises.We love your feedback! Email us at customerservice@canadiantire.ca and let us know what you think or what enhancements would help to make the Canadian Tire app even betterRecent changes:\xc2\xb0 Now compatible with Android tablets!\xc2\xb0 Improved flyer viewing experience for all devices\xc2\xb0 Shopping list reminders so you never forget a thing\xc2\xb0 Garage reminders to keep your car happy'
+p4
+tp5
+tp6
+.

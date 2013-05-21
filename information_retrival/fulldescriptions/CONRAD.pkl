@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CONRAD '
+p1
+tp2
+(S'Description:'
+p3
+S'Ob Anwender, Bastler oder Freak - wir liefern clevere Ideen und praktische L\xc3\xb6sungen f\xc3\xbcr jeden Technik-Einsatz.Entdecken Sie mit der CONRAD-App unser umfangreiches Sortiment von \xc3\xbcber 350.000 Produkten.Suchen und bestellen Sie ganz einfach unsere Produkte im Conrad-Shop. Nutzen Sie unseren praktischen Scanner um schnell zu den Produktdetails zu gelangen.Finden Sie ganz einfach den Standort und alle wichtigen Informationen zu Ihrer n\xc3\xa4chsten Conrad-Filiale. Lassen Sie Sich bequem durch Ihren integrierten Routenplaner zum Ziel f\xc3\xbchren.Die Features der Android-App im \xc3\x9cberblick:- Shop mit allen Kategorien und Produkten- Barcode scannen, um schnell alle Produktinformationen sowie aktuelle Preise und Verf\xc3\xbcgbarkeiten zu erhalten- Alle Conrad-Filialen im \xc3\x9cberblick mit Routenfunktion- Produkte einfach Freunden und Familie weiterempfehlen, per Facebook, Twitter und E-MailDie CONRAD App ist exklusiv f\xc3\xbcr Smartphones konzipiert und l\xc3\xa4uft nicht auf Android-Tablets. Eine spezielle Tablet-Version ist in Arbeit.Wir freuen uns auf Ihr Feedback. Bitte schreiben Sie uns Ihre Fragen und Anregungen per E-Mail an webmaster@conrad.de. Bitte stellen Sie Ihre Fragen nicht in den Rezensionen - hier fehlt uns die M\xc3\xb6glichkeit, Ihnen zu antworten.Hinweis: Die Kaufabwicklung in der App ist im Augenblick nur f\xc3\xbcr Privatkunden m\xc3\xb6glich.Recent changes:Version 1.1.4- Absturz beim Nachladen von Kategorielisten behobenVersion 1.1.3- Support f\xc3\xbcr Smartphones mit Full HD Aufl\xc3\xb6sungVersion 1.1.2- Verbindungsprobleme behoben'
+p4
+tp5
+tp6
+.

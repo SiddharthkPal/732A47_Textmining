@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'imgur for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'imgur for Android allows you to upload images to imgur from your android device, directly from the app or from the share menu. Multiple selected image upload are supported from the gallery now. It not only keeps a history of uploaded images but also includes imgur account support.Consider the donate version!The Imgur logo and \xe2\x80\x9cIMGUR\xe2\x80\x9d are trademarks of Imgur LLC and are used here for informational purposes only.  imgur for Android is not affiliated with Imgur and has not been reviewed or approved by Imgur.Recent changes:4.1.7Better looking action bar iconsShow albums as thumbnailsVarious fixes.4.1.6Display larger images when viewing image details4.1.5Fix file extension when accessing via a notificationPass more information about failed loginsMore fixes4.1.4Fix login bug where the screen would stay white.Other bug fixes.4.1.3Faster image display in gallery.Various bigfixes.4.1.2Fix database bugIncrease size of images in gallery.'
+p4
+tp5
+tp6
+.

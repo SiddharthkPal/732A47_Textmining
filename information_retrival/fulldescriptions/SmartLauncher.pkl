@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart Launcher '
+p1
+tp2
+(S'Description:'
+p3
+S'Smart Launcher is an innovative launcher characterized by a minimalist design, low memory usage and an user-friendly UI  that let you start any application with a few taps. It is currently the only launcher on the store to features automatic cataloging of installed apps!The project is developed by only me, so if you have any idea about how to make Smart Launcher better or you have some mockup to show me, contact me by email.  If you like this app consider to buy the PRO version for more features and to support the project! Minimal doesn\'t means under-featured!- Main screen with Quick Start- Drawer organized by categories- Ready to use without special configurations.- Support for Live Wallpaper and screens of different sizes.- Widget support (PRO version only)- Support of set of icons for Launcher Pro, ADW Launcher, APEX- Possibility to change a single icon in the drawer.- You can hide every app you want by long pressing an app, then select menu \xe2\x86\x92 hide.- Fast search.- Global theme now change every elements of the UI.- Easy access to app\'s infos. - Landscape mode.- Option to hide the statusbar.Recent changes:version Jarvis: - Global themes now change every elements of the UI. - You can use new styles for clock and bubbles by installing global themes. - New edit flower mode. - Preferences panel improved.  - Transitions between widget pages is now smoother. - Option to hide statusbar. - Now you can change app by app every icon in the drawer.    - I remind you that it\'s already possible hide an icon by long pressing on it, then select "menu" \xe2\x86\x92 "hide". - Tons of bugfix and optimizations.'
+p4
+tp5
+tp6
+.

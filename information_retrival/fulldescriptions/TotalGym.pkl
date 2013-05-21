@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Total Gym '
+p1
+tp2
+(S'Description:'
+p3
+S'Total Gym is a fitness guide for this sport\xc2\xb4s fans. Total Gym offers you a big amount of info that will help you to reach your goals.Total Gym has the following sections:Exercises GuideMore than 100 different exercises to do at the gym with explanation of the exercise, info about involved muscles, images and an explanation videoWorkoutsDifferent workouts that will help you to schedule your weekly work, as hard as you want or you canChallengesTry to beat yourself and reach some of the goals that Total Gym proposes you, try to do your best training with these workouts.My ProgressTotal Gym helps you to monitorize your improvements with this section. Here, you will be able to control your BMI (body mass index), Fat %, and your strength.UtilitiesTotal Gym offers you the way to calculate your IMC, Fat %, and your Strength.Fitness TweetsTotal Gym helps you to take a look to the newest fitness tweets. Use hashtag #totalgym!!This app is completely free, we only ask you for your positive rating so that more people knows the app and we can keep improving itWe hope you like it!!'
+p4
+tp5
+tp6
+.

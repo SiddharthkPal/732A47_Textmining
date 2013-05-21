@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Colourform (HD Widgets Theme) '
+p1
+tp2
+(S'Description:'
+p3
+S'* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *THIS WILL NOT WORK WITHOUT HD WIDGETS* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *Colourform features over 60 colorful new ICS / Jellybean-style widgets for Android phones and tablets. Everything is colorable: icons, text, separators, background\xe2\x80\xa6 you can even color each part of the clock! Backgrounds are layered with settings for color, opacity, tiles, and textures - or just do no background at all.This light-weight pack (only 2MB) focuses on a simpler, more minimal, flat UI design while allowing more flexibility and customization than ever before.What\'s new?- All of it!- 58 more widgets for phones & tablets- ICS / JB style- tons of color settings w/ full color range- background opacity, tiles, & textures- new Quick Settings & Indicators- more Roboto fonts including the 4.2 hipster clock* * * * * * * * * * * * * * * * * * * * * * * * *This is an add-on pack for HD Widgets 3.9 & up.HD Widgets 3.9 or later must be installed and running on your device.You can find HD Widgets here:https://play.google.com/store/apps/details?id=cloudtv.hdwidgets* * * * * * * * * * * * * * * * * * * * * * * * *KNOWN ISSUES- 2.3 devices can\'t use background tiles (OS limitation)- background tile images sometimes stretch instead of tile on third-party launchers- still testing on small screen phones & third party launchersFAQHow do I install it?Just install from the Play Store. HD Widgets will look for it automatically.How do I use it?Colourform widgets will be in the top menu.What sizes are available?(2)  1x1(5)  2x1(36) 4x1(12) 4x2(36) 5x1(12) 5x2(1)  6x1(2)  6x2 (tablets)Recent changes:1.1- 30+ 5x sized widgets- fix for 2.3.x devices1.0.4- another fix for clocks*- removed permissions 1.0.1 - 1.0.3- reduced apk size- added permissions- min sdk 91.0- Brand New!* Sorry for the hassle. We tracked it down to a class that works fine in development and in the free test, but dies in the paid version. Same code, only difference was "paid" (except permissions, but that didn\'t work either). Such weird bugs...'
+p4
+tp5
+tp6
+.

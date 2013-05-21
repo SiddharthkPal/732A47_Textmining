@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cover Photos for Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S"New pictures every week!We provide a huge selection of quality pictures to customise the Cover Photo of your Facebook Page Timeline.Some pictures are created in-house while others are licensed from our partners.We have everything from beautiful, quirky and witty to random, funky and fun.Personalise with photos and text and if you\xe2\x80\x99re the creative type you can design your own cover to be published in the app (providing we like it!).With this app you can do something different with your Cover Photo every day.The app is constantly updated and you'll find the latest additions in the 'new' section.Download now and all the Cover Photos are free to use. Choose the one you want and the application will upload it to Facebook.The Facebook logo and name are trademarks of Facebook Inc with which this app is not in any way connected.FAQ - WHAT DO I DO IF THE APP ISN'T SHOWING THE 'JEEGO FB COVERS' ALBUM?This is probably because you haven't given the app permission to create a photo album and post pictures. You can follow the guide below to rectify this.  3. Go to your desktop and login to Facebook.4. Choose \xe2\x80\x98Privacy Settings\xe2\x80\x99 from the dropdown menu on the Facebook page.5. Click edit settings for  \xe2\x80\x98Ads Apps and Websites\xe2\x80\x996. From the list \xe2\x80\x98Apps you use\xe2\x80\x99 click \xe2\x80\x98Edit settings\xe2\x80\x997. Click edit for \xe2\x80\x98Cover Photos, from Jeego\xe2\x80\x99 and then click \xe2\x80\x98Remove app\xe2\x80\x998. Confirm \xe2\x80\x98Remove\xe2\x80\x99 on a pop up window.Then go back to your app \xe2\x80\x93 go to the info page and log out from Facebook.  Close and then reopen the app. After you login you will be asked for your authorisation. You must tap the \xe2\x80\x98Install\xe2\x80\x99 button in the top right corner of the page and then on next page please tap \xe2\x80\x98Allow All\xe2\x80\x99.Recent changes:* Pinch to zoom and rotate your own images."
+p4
+tp5
+tp6
+.

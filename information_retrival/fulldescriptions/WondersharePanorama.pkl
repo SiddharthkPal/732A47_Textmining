@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wondershare Panorama '
+p1
+tp2
+(S'Description:'
+p3
+S'The simplest and most creative panorama app ever!Photographers used to need expensive, very wide-angle lenses, special shooting skills and tedious manual work to fully bring out the impact of breathtaking landscapes, city scenes and nature in one panoramic image. Now, with Wondershare Panorama, seamless panoramas can be easily created in seconds with a single tap. Just tap the Capture button and move your phone slowly and steadily from left to right. Once done capturing, the frames will be stitched into one awesome panorama automatically. What\xe2\x80\x99s described above doesn\xe2\x80\x99t rock you?  Check this out. Amazing effects are also provided for taking a panoramic image. Select the effect you like before capturing, Four Seasons, Crossprocess, Old Photo, Sketch, and dozens of magic effects; and your panorama becomes a masterpiece immediately after taking. Can\xe2\x80\x99t wait to share your creativity with family and friends? No problem! Panorama supports one-tap upload to the most famous social networks in the world: Facebook, Twitter, Flickr, and sending email. \xe2\x80\x83Find Us:Website: http://powercam.wondershare.com/ Facebook: http://www.facebook.com/PowerCamAppTwitter: https://twitter.com/#!/PowerCamAppTumblr: http://www.powercam.tumblr.com/Pinterest: http://pinterest.com/powercam/pins/Recent changes:Bugs fixed.'
+p4
+tp5
+tp6
+.

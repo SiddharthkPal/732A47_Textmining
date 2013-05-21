@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Komik Reader - Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Komik is the first comic/manga viewer and collection manager designed specifically for Android tablets and phones. I would love to hear any suggestions from you.* CBR, CBZ, and image directory comic support* Comic collection browser with thumbnails* Quickly zoom in locally on a section of a page* Page thumbnails to quickly scan through comics* Continuous bookmarking for all comics* Gracefully handles dual-spread pages* Easy collection management from the library* Easily zoom into pagesSTAY TUNED FOR:* Search across your entire collection* A homescreen widget to quickly jump to your comicsThe free version is ad-supported. Please check out the paid application to get an ad-free version.TAGS: CBR, CBZ, comics, comic reader, comic viewer, manga, manga reader, manga viewer, graphic novelRecent changes:* Added a "thumbnail generation" dialog* Added a preference to disable the "thumbnail generation" dialog* Improved the speed of the file browser* Added several performance tweaks to improve speed, cpu usage, and stability'
+p4
+tp5
+tp6
+.

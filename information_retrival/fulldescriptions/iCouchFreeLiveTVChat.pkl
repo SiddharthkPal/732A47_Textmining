@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iCouch- Free Live TV Chat '
+p1
+tp2
+(S'Description:'
+p3
+S"Chat LIVE while watching TV programs- customized specifically for TV viewers and channels. Chat around your favorite TV programs (drama soaps) or events like Cricket/Football with friends & fans. iCouch tries to partner with TV channels to give an enhanced experience where fans from all over the world can come on the same platform and chat while the program is running on TV. What's more- Contests running everyday, Channels and Casts participating (only for partnered programs) & popular chats running as ticker on TV (currently Zee Cafe). WHY USE iCOUCH FOR TV:\xe2\x98\x85 BEST PROGRAMS: iCouch is launching with Grey's Anatomy's new season in India (in partnership with Zee Cafe) which is hugely popular. But hang on- it will soon have many of your favorite programs.\xe2\x98\x85 LOTS OF FUN: iCouch specially brings partner shows/events so that you can enjoy the content of a program like never before. Get trivia, exclusive wallpapers, videos & play quizzes, polls all from within the app.\xe2\x98\x85 RICH CHATS: Capture your favorite scenes from TV and share, Like chats and checkout popular chats/friends' chat in separate tabs. Celebrity chats are verified.\xe2\x98\x85 BIG CONTESTS: Play quizzes and contests almost everyday for multiple programs. Win big prizes, merchandises etc.\xe2\x98\x85 FRIENDS: Integrates seamlessly and pulls out friends automatically from your contact list. Whatsapp style integration and friend's invitation. Send free TV alerts to friends (coming soon).\xe2\x98\x85 SURPRISES: See your chats LIVE on TV screen with few of our partner shows. For now you would be able to see chat ticker on Zee Cafe channel during Grey's Anatomy telecasts.-------------------------------------------------------------We would love to hear from you. In case of any questions, problems & feedback you can always write toicouch@idubba.com or follow us on Twitter @icouchappiCouch is a product from iDubba (www.idubba.com)Recent changes:*CRITICAL BUG* Fixes the critical bug- User's participating are not able to enter the chat room!"
+p4
+tp5
+tp6
+.

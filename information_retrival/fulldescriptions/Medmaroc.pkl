@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medmaroc '
+p1
+tp2
+(S'Description:'
+p3
+S'Annuaire des m\xc3\xa9decins au Maroc.Medmaroc est une application gratuite, simple et surtout utile, elle vous aide \xc3\xa0 trouver les coordonn\xc3\xa9es de votre m\xc3\xa9decin recherch\xc3\xa9 \xc3\xa0 partir d\xe2\x80\x99une base de donn\xc3\xa9es de plus de 7000 m\xc3\xa9decins, r\xc3\xa9partis en 39 sp\xc3\xa9cialit\xc3\xa9s et se situent dans 39 villes diff\xc3\xa9rentes du Maroc.Elle vous offre la possibilit\xc3\xa9 de faire des recherches par sp\xc3\xa9cialit\xc3\xa9, ville ou nom/pr\xc3\xa9nom, vous pouvez m\xc3\xaame ne saisir qu\xe2\x80\x99une partie du nom ou du pr\xc3\xa9nom, comme vous pouvez faire des recherches avanc\xc3\xa9es en utilisant des crit\xc3\xa9res mixtes.Via une interface simple et \xc3\xa9l\xc3\xa9gante, Medmaroc vous offre la liste des m\xc3\xa9decins correspondants \xc3\xa0 votre recherche et vous pouvez acc\xc3\xa9der aux coordonn\xc3\xa9es (t\xc3\xa9l & adresse) du m\xc3\xa9decin de votre choix.Avec Medmaroc, Ne perdez plus la trace de votre m\xc3\xa9decin!T\xc3\xa9l\xc3\xa9chargez l\xc3\xa0 mnt, et gratuitement!Recent changes:- Suppression de la pub'
+p4
+tp5
+tp6
+.

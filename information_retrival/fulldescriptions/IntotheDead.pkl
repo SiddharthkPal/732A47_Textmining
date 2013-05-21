@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Into the Dead '
+p1
+tp2
+(S'Description:'
+p3
+S'In a world overrun with the Dead, you have survived\xe2\x80\xa6 but for how long? Into the Dead throws you into the gruesome world of the zombie apocalypse where there are no second chances. Do what you have to in order to stay alive, keep moving as fast as you can, and protect yourself by any means necessary. When the Dead are rising, run! FEATURES: \xe2\x80\xa2 Intense gameplay with stunning visuals & sound depicting a grim zombie apocalypse \xe2\x80\xa2 Unlock an arsenal of powerful weapons and perks to help you stay alive \xe2\x80\xa2 Missions and minigoals provide constant challenges to overcome \xe2\x80\xa2 Tablets supported\xe2\x80\xa2 Challenge your friends to beat your high scores\xe2\x80\xa2 Ongoing updates to deliver new modes, features, and content ________________________________ OTHER PIKPOK GAMES Flick Kick Field Goal Flick Kick Football Super Monsters Ate My Condo ________________________________ NEWS & EVENTS Website http://www.pikpok.com Facebook http://facebook.com/pikpokgames Twitter http://twitter.com/pikpokgames Youtube http://youtube.com/pikpokgames Store http://store.pikpok.com Music http://pikpok.bandcamp.comRecent changes:Small fixes for restoring In-App-Purchases and memory reduction.Better support for zombie pack versioning.'
+p4
+tp5
+tp6
+.

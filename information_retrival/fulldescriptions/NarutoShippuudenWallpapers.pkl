@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Naruto Shippuuden Wallpapers '
+p1
+tp2
+(S'Description:'
+p3
+S"Fan-based application for japanese animation - Naruto Shippuuden !Features including:1. Naruto Shippuuden Anime Countries and Hidden Villages Profiling / Introduction2. Beautiful characters' pictures that can be set as wallpaper3. No annoying push notificationsCome and join the Naruto and friends, by downloading this application - by a fan, for the fans !*** Legal Notice ***All copyrights and credits of the images and information belong to their respective owners and editors.This application is not endorsed by, or affiliated with, Naruto Anime or their affiliated entities.Recent changes:Version 1.11 - Added volume adjustment barVersion 2.01 - Correction to the 'Landscape' Wallpapers forced closed issue"
+p4
+tp5
+tp6
+.

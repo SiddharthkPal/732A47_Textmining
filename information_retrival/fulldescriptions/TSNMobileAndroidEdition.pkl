@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TSN Mobile: Android Edition '
+p1
+tp2
+(S'Description:'
+p3
+S'Preview Release Number 2!TSN Mobile brings you the world of sports from Canada\xe2\x80\x99s sports leader, TSN. You\xe2\x80\x99ll get scores, standings, stats and the latest news from the major leagues, plus comprehensive coverage of all your favourite sports. What\xe2\x80\x99s inside?> For the NHL, CFL, NFL, MLB and NBA:- Full season schedule and results- Live scores- In-progress game stats/boxscores- Sortable player stats (regular and post-season)- Transactions and injuries- Standings, including wild card races- Top news stories> Hockey Canada (World Juniors, Men\xe2\x80\x99s Worlds)> Curling (Season of Champions, Men\xe2\x80\x99s/Women\xe2\x80\x99s WCT)> Tennis (ATP and WTA)> Golf (PGA, LPGA, Champions, European, Nationwide, Canadian)> Soccer (Bundesliga 1, English Premier, France Ligue 1, Liga Espana, MLS, Serie A)> Auto Racing (Formula One, IndyCar, NASCAR, Nationwide, Camping World)> NCAA Basketball and Football> MMA> Boxing> Plus TSN breaking news, blogs and tweets> Plus TSN and TSN2 TV schedulesAnd TSN Mobile: iPhone Edition has plenty of features that make it simply the best free sports information app in the store:> Look for Player Cards throughout \xe2\x80\x93 touch an underlined player\xe2\x80\x99s name for bio and stats> Customize the home screen: add/remove sports icons, and drag them into any order you like> Remembers the last screen you were on when app restarts> Highlight your favourite teams from the major leaguesRecent changes:This is our second preview release. We\'ve made the app more friendly to handhelds with larger screens and tablets: users can now go into "Settings" and toggle the app between a smaller window and full-screen, depending on personal preference.'
+p4
+tp5
+tp6
+.

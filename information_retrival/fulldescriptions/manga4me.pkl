@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'manga 4me '
+p1
+tp2
+(S'Description:'
+p3
+S"!! Manga4me is not an application dedicated to manga scans reading. App in French based on French manga volumes !! With manga4me, your manga collection is always with you, right in your pocket. A precious tool for manga fans that you can also use in book stores. manga4me is your personal pocket guide that helps you manage your manga collection. Find the series you love, add volumes you own, and receive the publishers planning. Are you interested in a new volume ? Scan its barcode with your smartphone and get information on the series, on the publication state, on the characters... Do you want to add new volumes to your collection ? Add them directly to your list with manga4me and never miss news related to those series. Do you want to discover new series ? Folllow manga news in real time and consult the whole french manga catalogue, daily updates included.For additional questions or information, please contact us at support@manga4me.frAll information are gracefully provided by manga-news.comRecent changes:0.9.7- Ajout d'un bouton dans les d\xc3\xa9tails d'un volume de votre liste d'achat pour l'ajouter directement \xc3\xa0 votre collection.- Rajout d'un r\xc3\xa9glage permettant de ne pas afficher la popup de confirmation de suppression de la liste d'achat lors de l'ajout \xc3\xa0 la collection.- Mise en conformit\xc3\xa9 de l'application avec manga-news, fournisseur du contenu de l'application manga4me (merci \xc3\xa0 eux !)- Correction de divers bugs"
+p4
+tp5
+tp6
+.

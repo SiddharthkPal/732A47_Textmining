@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Business Organizer '
+p1
+tp2
+(S'Description:'
+p3
+S'Keep all the information about your events and tasks in one place! \xc2\xabBusiness Organizer\xc2\xbb - is a fast, easy-to-use time scheduler, complete:- Calendar of events;- Geo-services for the optimal path planning. Now you can see all the places on the map - business meetings, negotiations, and you can take it into account in planning new activities;- The ability to add a personal rss feed and always be aware of interesting events;- News block will take time on the road and will be aware of the global trends and events;- Important events are always reminded of their approach.'
+p4
+tp5
+tp6
+.

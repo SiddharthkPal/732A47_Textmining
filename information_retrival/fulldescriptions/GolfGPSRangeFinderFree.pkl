@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Golf GPS Range Finder Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Simple, Accurate Golf Gps Range Finder. Calculate range/distance to any point on the course. No need to download course maps, works with Google maps and GPS technology to give you quick, accurate range finding.Easiest and most effective Golf Gps for Android!  Download it and test the accuracy for yourself!Uses advanced GPS distance algorithms for the most accurate range finding. Tried and tested on the golf course, this app will help you bring your game to the next level without breaking the bank on an expensive rangefinder. All of the accuracy without the cost.Google Maps will let you easily see all course markers and obstacles. Measure the distance from yourself to any point with only one tap. Tap again and measure the distance from that point. Easily plan out all of your shots and knock a couple strokes off your Golf game.Features-Measure multiple distances to plan out your shots-Zoom back to your location with one tap-Easily clear all measurements-Turns off GPS when in background to save battery-Switch between Yards, Feet, Meters, and more -Easily find how far you hit the Golf Ball with the new measure to me button.This rangefinder uses GPS technology to quickly and accurately find the distances that you need to keep your  golf game on the fairway.Recent changes:-Improved Stability and Memory Usage-Enabled Install to SD Card-Fixed menu compatibility on new Android devices-Added button to place point on yourself-Fixed problem for users where a comma is the decimal point-View total distance-New Improved Golf Gps Icon-Name change to Golf Gps Range Finder Free'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'biNu - Meet, Chat, SMS '
+p1
+tp2
+(S'Description:'
+p3
+S"Join the millions of people around the world who use biNu to meet, chat, SMS, share photos, have fun and even fall in love! All for FREE!!biNu is:- a social network with profiles, friends, updates, news feed, photos, chat and messaging, free SMS, \xef\xbb\xbf\xef\xbb\xbfvoicechat, email and more- super-fast, even on slower mobile networks- data-lite and saves you money- your 'smart phone in the cloud'- heaps of fun!biNu also has a big range of other content such as:- News from all over the world, in many languages- Worldreader to read books and stories- biNu Football for live soccer scores (including EPL and La Liga)- biNu cricket for live cricket scores- online games- Quran in many languages- Bible in many languages- and many morePlus with biNu you can also access a range of other online services such as YouTube, Facebook, Twitter, Google Search, Google Translate, Wikipedia, Wordnik English dictionary, horoscopes, Yahoo Weather, FX rates etc., all within the one app and all at super-fast speed!Recent changes:Photo and file upload, app frame, native Android menus accessible from the menu key, native Android back button support, performance and usability improvements."
+p4
+tp5
+tp6
+.

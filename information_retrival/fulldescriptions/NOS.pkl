@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NOS '
+p1
+tp2
+(S'Description:'
+p3
+S"Altijd, overal op de hoogte zijn van het laatste nieuws via de NOS app. De NOS app voor smartphones brengt het beste van nos.nl snel naar je mobiel via de gratis NOS app:- Het laatste nieuws en sportnieuws - Nieuws- en sportvideo's- Actuele verkeersinformatie - Actuele weersinformatie- Live video (ondersteund vanaf Android 4.0 en hoger) - Sportevenementen (nieuws, video)Recent changes:Nieuw in versie 1.2> Liveblog, voor het volgen van een groot verhaal van minuut tot minuut> Vernieuwde navigatie die beter aansluit bij Android> Toegankelijk voor tablets, wij zullen de tablet ervaring later verder verbeteren> BugfixesNieuw in versie 1.1.1> Bugfix te snel verticaal doorscrollen in artikelen> De nieuwslijsten zijn sneller en soepeler> Bij push berichten wordt de tril instelling van de telefoon gerespecteerd> Algemene bugfixes"
+p4
+tp5
+tp6
+.

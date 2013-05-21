@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PC Plus '
+p1
+tp2
+(S'Description:'
+p3
+S'Enjoy the smart new rewards program from Loblaws \xe2\x80\x93 all from your phone.The official PC Plus\xe2\x84\xa2 app brings all the benefits of being a PC Plus\xe2\x84\xa2 program member to your phone. Get offers on the food you love and the products you like to buy. When you use these offers at participating stores, you earn points. Save up your points and redeem them for dollars off your grocery bill!Smart features include:PERSONALIZED OFFERSThe app lets you know when you have new offers, so you can load them right on your phone and then head in-store to earn your points when you buy the qualifying items.RECIPE SUGGESTIONSFind delicious recipe and product suggestions tailored to what you buy most and what\xe2\x80\x99s on sale. It\xe2\x80\x99s pure culinary genius!SHOPPING LISTPlan your grocery shopping with the list that remembers what you regularly buy, organizes your recipe ingredients and highlights your offers. ACCOUNT MANAGEMENTKeep track of your transactions, view your points balance and regularly update your preferences and settings for a more personalized experience.'
+p4
+tp5
+tp6
+.

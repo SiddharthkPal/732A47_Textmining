@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Clipper - Clipboard Manager '
+p1
+tp2
+(S'Description:'
+p3
+S"Clipper is a simple but powerful clipboard manager & clipboard history tool for your phone or tablet. Don't worry about losing your clipboard's contents: Clipper automatically remembers everything that you've copied. Open Clipper at any time from the notification bar to copy, view, edit or share old clippings. Save and organize clippings into different lists. Store repetitive pieces of text in Clipper as clippings and copy them whenever you need to.Take control of your clipboard today with Clipper - download it now, or get Clipper Plus for only 1.49 euros:\xe2\x9c\x94 Synchronize your clippings across multiple devices and online!\xe2\x9c\x94 Keep more than the 20 newest clipboard clippings!\xe2\x9c\x94 Search clippings!\xe2\x9c\x94 Unlock new preferences and customization options!\xe2\x9c\x94 Insert dynamic values like the current date or time to your quick clippings!(After installing Clipper, you will need to start it once to activate monitoring. You will see a quick start tutorial. Task killers may interfere with Clipper.)If you need help or have any suggestions or complaints, please don't hesitate to e-mail us at contact@rojekti.fi. Your feedback is very important to us. (We can't reply to Store comments!)Permissions:Receive boot completed - for automatic startup (can be disabled in the settings)Write to external storage - import/exportRecent changes:2.1.0.5: Fixed a tablet crash, added an option to disable pauseSAMSUNG USERS: Some devices have a randomly occurring bug that may cause the clipboard to crash in any application. This is unfortunately out of our control. If you are experiencing this problem with your device, please contact Samsung support for assistance.http://rojekti.fi/clipper/changelog/"
+p4
+tp5
+tp6
+.

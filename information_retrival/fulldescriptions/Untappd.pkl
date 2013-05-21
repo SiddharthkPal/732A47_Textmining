@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Untappd '
+p1
+tp2
+(S'Description:'
+p3
+S'Get ready to drink socially with Untappd!Untappd is a social discovery and check-in network for anyone that enjoys beer. It gives you the ability to easily find nearby craft beers and bars, see what beers are trending, as well as see where your friends are drinking. Check out the personalized recommendations and use Untappd to find the nearest location you can get the beer you want. Once you\xe2\x80\x99ve got that delicious beer in your hand, use Untappd to track, rate, take a photo, and share it with all your friends. As you explore more beer styles and locations, you will uncover a variety of badges!Features:- Easily discover new beers and bars near your location- See where you\xe2\x80\x99re friends are drinking and meet up with them- Personalized beer recommendations based on the tastes of you and your friends- Find where you can get a specific beer nearby- Share ratings, reviews and photos of your favorite beers with your friends- Post your activity and photos to your Twitter, Facebook and Foursquare- Create a wish list of beers you want to try in the future- Unlock a variety of badges for trying different styles and placesFor help and support, visit http://help.untappd.comFollow us on Twitter: http://twitter.com/untappdLike us on Facebook: http://facebook.com/untappdUntappd reminds you to please drink responsibly.Recent changes:New in Version 2.2.4- Improved Facebook Login- Changes to Nearby Bars (Popular versus Nearby)- Small Design Tweaks to Header / Nav Bar- General Bug Fixes'
+p4
+tp5
+tp6
+.

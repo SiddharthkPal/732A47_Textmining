@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'American Academy of Pediatrics '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85Access all the best AAP apps, websites, articles, tools, and resources from one centralized app.\xe2\x98\x85 Stay connected with the latest authoritative information from the American Academy of Pediatrics (AAP) to provide the best care for children and adolescents. Log in at the My Account area to have Single Sign On access to all of your subscriptions and member benefit sites.FEATURES:\xe2\x97\x8f Convenient gallery of AAP web links. \xe2\x97\x8f Updates and messages from AAP when new information and apps are available \xe2\x97\x8f Drag icons into the Favorites row for quick access to the resources you use most often\xe2\x97\x8f Education materials and articlesSINGLE SIGN-ON ACCESS TO AAP SITES AND SUBSCRIPTIONS:\xe2\x97\x8f AAP.org\xe2\x97\x8f Pediatric Care Online\xe2\x97\x8f Red Book Online\xe2\x97\x8f Patient Education Online\xe2\x97\x8f My AAP\xe2\x97\x8f Pediatrics and Pediatrics Weekly\xe2\x97\x8f Other AAP journalsLinks to all free and subscription-based AAP apps, websites, and articles will appear on the app\xe2\x80\x99s main screen, giving you direct access to your free and subscription resources. Clicking a link that requires a purchase or subscription will take you to the app store where you can purchase if desired.'
+p4
+tp5
+tp6
+.

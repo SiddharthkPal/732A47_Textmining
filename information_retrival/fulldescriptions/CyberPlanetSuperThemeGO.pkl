@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cyber Planet Super Theme GO '
+p1
+tp2
+(S'Description:'
+p3
+S"Cyber Planet -- another Super Theme of GO Launcher is coming! Click the robot at the edge of the screen to check full version features! This is a premium GO Launcher EX Super Theme. This theme is free to download, you can apply it with icons and wallpapers.If you want Super Theme effects, you can choose upgrade to full version by:1. Pay with IAP ( In app purchase ) 2. Get it for free with Getjar GoldFar reaches of the universe located a junkyard which is forgotten. Discover this Cyber Planet with a little sweeper robot!#featureClock: pull down & releaseSphere: long hold to drop the laserMeteor: touch to explodeSweeper: clickableInteractive effects:Touch: little particles of lightSlide: lighting dropShake: Laser swing, junk drop#Notice1.Super Theme effects is only available for phones with GO Launcher EX V3.27 or above. Search \xe2\x80\x9cGO Launcher EX\xe2\x80\x9d on Google Play Shop and install it for free.2.If you've got any problems on this theme, please send us feedback.Recent changes:(Fix) some bugs may cause crash(Fix) Getjar SDK updated"
+p4
+tp5
+tp6
+.

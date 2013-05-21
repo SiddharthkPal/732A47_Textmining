@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Equibase Today's Racing "
+p1
+tp2
+(S'Description:'
+p3
+S"Keep up with Thoroughbred racing when you\xe2\x80\x99re on the go with the free Today's RacingTM app from Equibase Company - Thoroughbred racing\xe2\x80\x99s official source for racing information and statistics.Need to know when your favorite track is running? Or catch the replay of a race you just missed? The Today\xe2\x80\x99s Racing app brings it all to your fingertips - entries, changes, results, replays and handicapping products \xe2\x80\x93 for every North American Thoroughbred track!  By presenting a rolling two days of entries and results information, you\xe2\x80\x99ll never miss out on playing your favorite track.FeaturesResults Charts with Replays \xe2\x80\x93 Get current day and the previous day\xe2\x80\x99s results for every race, including links to replays!  Result charts offer a comprehensive recap of the entire race, including complete order of finish, descriptive narrative for each horse, odds, payoff information and more.At-a-Glance Result Information \xe2\x80\x93See the first, second and third-place finishers for every race with payoff information and a complete order of finish. Entries -Get current and next day\xe2\x80\x99s entries for every race from every track. Each entry contains detailed race information, post time, post position, morning line odds, and more. Convenient links to handicapping products are also provided to ensure you will be ready to make an informed wager from where ever you are! Changes - Be the first to know about scratches and changes, plus get access to the current weather conditions at the track.Racing Schedule - Check out the complete listing of every track\xe2\x80\x99s opening and closing dates and easily find out when your favorite track is scheduled to either start or end it\xe2\x80\x99s live racing meet.Purchase is required for replays and handicapping products.Recent changes:1.3.7 - o\tAdded the ability to add and delete horses from your Equibase Virtual Stable (free account required)."
+p4
+tp5
+tp6
+.

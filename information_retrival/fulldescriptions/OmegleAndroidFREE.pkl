@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Omegle Android FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"Talking to strangers has never been easier. Chat with a person picked randomly from thousands of users on Omegle.com web site. Conversations are totally anonymous. Simple, fast and clean interface, for the best mobile Omegle experience!This is the lite version, ad-supported. No limitation.New:- Random chat with common interests- Spy mode- Captcha reduction systemFeatures:- Random chat in standard mode- Random chat with common interests- Spy mode- Real Omegle look (and night and day themes)- Share conversation online with your friends on Facebook, Twitter, email... and save to your SD card.- Browse web links sent by strangers without leaving the app- Rotate your screen, it's fun!- Fill Omegle captcha directly in application- Stay connected while app is in the background- Analyze network problems with the embedded Connectivity Wizard.If you wish to report a bug, please use about menu in the app. Feedback is welcome.Requires permission to write to SD card in order to save conversations, when you wish to do so.For those with device memory problems: if there is not enough memory left, please shutdown other apps or reboot your phone. If you have connectivity problems, please try via WiFi. Thank you.App does not support video chat at the moment.Recent changes:Added random chat with common interestsAdded spy modeAdded captcha reduction systemThank you all for the reports."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Saudi e-Government Mobile App. '
+p1
+tp2
+(S'Description:'
+p3
+S'Saudi e-Government National PortalKingdom of Saudi Arabia'
+p4
+tp5
+tp6
+.

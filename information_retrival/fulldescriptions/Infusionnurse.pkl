@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Infusion nurse '
+p1
+tp2
+(S'Description:'
+p3
+S'This app is made by a nurse. It is intended on nurses and others who work with infusions and medicine.The purpose is to make everyday calculations easier and safer.This app lets you calculate dilution, infusion rates and more.Recent changes:New feature: Calculate your drop rate! Just tap the screen as the drops fall, and the drop-rate will be calculated!Some minor graphical changes.Changes on the menu-button.'
+p4
+tp5
+tp6
+.

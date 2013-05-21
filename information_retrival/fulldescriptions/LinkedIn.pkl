@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LinkedIn '
+p1
+tp2
+(S'Description:'
+p3
+S'In the know. On the go. The smarter LinkedIn app for Android.Redesigned with you in mind! The new Android app makes it even easier to connect and grow your network, engage with professional content and gain insights right from the stream. The new intelligent navigation is personalized just for you based on how you use LinkedIn everyday.Features:\xe2\x80\xa2 Find and connect with more than 200 million members worldwide\xe2\x80\xa2 Stay up to date with people in your network\xe2\x80\xa2 Follow Influencers to get insights and original content from industry leaders in your stream\xe2\x80\xa2 Update your profile from within the app\xe2\x80\xa2 View and save recommended jobs\xe2\x80\xa2 Read the latest industry news\xe2\x80\xa2 Follow and learn more about companies\xe2\x80\xa2 Keep up with your favorite groups\xe2\x80\xa2 Purchase and upgrade your account to a LinkedIn Premium Subscription from within the app- Android app available in German, French, Spanish, Italian, Portuguese, Swedish, Korean, Chinese, Japanese, Indonesian, Malaysian, Turkish, Dutch and Norwegian.Recent changes:What\xe2\x80\x99s new in this version:\xe2\x80\xa2 New beautiful and simpler design \xe2\x80\xa2 Now you can invite, follow, like, share and comment on content right from the updates stream\xe2\x80\xa2 New personalized and customizable navigation for quicker access to your favorite features on LinkedIn\xe2\x80\xa2 Ability to follow Influencers to get access to original insights and content'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Garmin Connect\xc3\xa2\xe2\x80\x9e\xc2\xa2 Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Garmin Connect Mobile turns your Garmin Edge 510 or 810 cycling computer into a connected device capable of sharing your activities as they happen and wirelessly uploading rides to Garmin Connect. The app also allows puts weather data and alerts right at your fingertips. Never Ride AloneWith the live tracking feature, your friends and family can follow your races and training activities in real time. Invite followers using email or social media so they can view your live data on a Garmin Connect tracking page. Once they get your email invite, they can follow your position on a map*, as well as track time elapsed, distance, speed and elevation in real time. If you\xe2\x80\x99re using ANT+ accessories like a speed/cadence sensor or heart rate monitor, they can view that data as well.Upload Activities, Download Courses Garmin Connect Mobile allows you to wirelessly upload your completed activities so you can instantly store, share and analyze every aspect of your ride. You choose whether activities upload automatically or manually. Once your workouts post to Garmin Connect, your \xe2\x80\x9cconnections\xe2\x80\x9d can view and comment on them. You can also share them with your social media networks. The app also lets you search your courses and workouts and send them directly to your Edge 510 or 810. From there, you can use them for navigation or to race against your previous times using the Virtual Partner\xc2\xae feature.   Track Weather\tGet real-time weather conditions, forecasts and alerts directly on your Edge 510 or 810 when it\xe2\x80\x99s paired with Garmin Connect Mobile on your phone. It puts the decision-making data you need at your fingertips while ensuring that your phone can stay safe and dry. *Use with caution. Any time you post via Facebook or Twitter, the link will be available to anyone with access to your Facebook or Twitter profiles.Recent changes:Now allows workout downloadsBug Fixes'
+p4
+tp5
+tp6
+.

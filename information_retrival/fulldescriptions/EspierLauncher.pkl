@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Espier Launcher '
+p1
+tp2
+(S'Description:'
+p3
+S'Espier Launcher is the best iOS-style home application for your smartphone or tablet which is based on Android 2.2 or later. It brings you an entirely new interaction experience, and makes your smartphone and/or tablet to be different from the rest.Main Features: - iOS-style UI/UE to render and arrange the icons.- Widget page to show Android widgets.- Design the appearance of icons by yourself.- Rename the title of the icons or hide the icons.- Dozens of themes (more and more) available to decorate your home screen.- Dozens of plugins (more and more) available to extend the functions.- You can get your favorite wallpapers from our online wallpaper library easily.From v2.0, Espier Launcher will keep free for ever!Usage Notes:If you are using the old version before V2.0, you should uninstall the old versions. Please backup the icon settings from Launcher Setting screen, uninstall the old version and install the new 2.0 version, then restore the icon settings.Please set Espier Launcher as the default home app and restart your system. Or in some situations, the launcher may be killed by the system automatically when you run some applications which use much mamory (such as browser and video player).For more problems, please visit the following webpages:Release Notes: http://m.espier.org/en/developers/blog/espier-launcher-v2.0-released/FAQs: http://m.espier.org/en/apps/launcher/faq-2.0/Communcate with the developer: http://3g.espier.mobi/en/sns/app-community?pack_name=mobi.espier.launcherRecent changes:1) Remove some devices from tablet model list;2) Remove the "drop-down" gesture which can pull down the system notification page. Fixed Bugs:1. Some bugs which cause crashes.'
+p4
+tp5
+tp6
+.

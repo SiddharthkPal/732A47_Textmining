@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PriceRunner '
+p1
+tp2
+(S'Description:'
+p3
+S"Want the latest hot deals straight to your mobile? With the PriceRunner app, you can search or browse to find the best available prices, the closest stockists and the latest product reviews for over 3 million products. The barcode scanner makes this app handy to use on-the-go, ensuring you\xe2\x80\x99re bagging a bargain whenever you\xe2\x80\x99re shopping.Find deals on everything from computers to contact lenses, game consoles to golf clubs, TVs to telephones and everything else in between. PriceRunner compares deals from hundreds of the UK\xe2\x80\x99s best-loved shops and websites like Amazon, Debenhams, Dixons, Tesco, Boots and Toys R Us to small specialist retailers so you'll find the best deal on whatever you're looking for.If you can\xe2\x80\x99t wait to get your hands on a product then you can choose to see the closest shops on a map. Or get a second opinion by posting a product on Facebook or Twitter, or sending to a friend by email or text.Download the PriceRunner app today and you\xe2\x80\x99ll never pay over the odds again.Recent changes:- Fixed products for JellyBean- Fixed categories for JellyBean- Updated barcode scanner"
+p4
+tp5
+tp6
+.

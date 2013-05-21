@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Talking Pocoyo Free '
+p1
+tp2
+(S'Description:'
+p3
+S"Pocoyo wants to play with you! And with this new application you can become his best friend. With Talking Pocoyo, you can talk to Pocoyo and he will repeat everything you say in a funny voice. You can also tickle him, make him dance, play lots of instruments and even try to guess which animal Pocoyo is imitating!  All the fun you can imagine for your kids and for you, too! Talking Pocoyo is an interactive game in which you can do all these things: Play with Pocoyo: Pocoyo reacts when you touch any part of his body. Try to discover all his reactions! In addition, you can talk to Pocoyo and he will repeat your voice in a funny way. Musical Pocoyo: Play lots of instruments with Pocoyo and show everyone what a great composer you are. Guess the Animal: Can you guess which animal Pocoyo is imitating? Pocoyo Dances: Enjoy watching Pocoyo\xe2\x80\x99s incomparable, distinctive dances. Imitate his steps and have a great time! With Talking Pocoyo, your kids will always have their favorite character nearby! You can also unlock 4 new dances and 3 new musical instruments (drum, electric guitar and cymbals). Try it, and you will never forget the look on your kids' faces!"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free English Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Free English Dictionary, a fast and reliable English Dictionary and Thesaurus.Definitions for over 200,000 words.Gives over 33,000 example sentences to show words in context. Over 260,000 related words.Accepts voice input.Includes Word of the Day and Random word.Stores previously searched words in the History. Download size of only 211K so uses much less file space than other free dictionary apps. A Free English Dictionary and Thesaurus with Word of the Day and History!Free English Dictionary gives you over 200,000 word definitions at your fingertips in seconds. Type in an English word and the definition is quickly retrieved from the dictionary. Suggested words are given as you type so don\xe2\x80\x99t worry if you\xe2\x80\x99re not sure of the spelling. If your device is running android 2.1 and above you can also speak and search without having to type the word. Dictionary definitions are given with examples and notes so you can see the word used in a sentence.  Once you have looked up a word in the dictionary, the Thesaurus button quickly finds words with similar meaning (synonyms) and opposite meaning (antonyms). You can also search the thesaurus directly. Touch a word displayed in the thesaurus results and the dictionary definition is provided.The Word of the Day function offers an interesting and unusual words retrieved from the dictionary with definitions, examples and notes. Need more than just one new word a day? Click on the random button in the word of the day page and a new random word, with definitions and examples, will be retrieved from the dictionary. The History function displays a list of words previously looked up in the dictionary. If you need to check that definition again,  just click on the word in the history and the dictionary definition is shown. Free English Dictionary is regularly updated to enhance performance and user experience.Look out for new features coming soon to Free English Dictionary:Audio function - hear how a word is pronounced.More dictionaries to choose from.Enhanced graphics.Free English dictionary, it\xe2\x80\x99s quick, easy and very useful!Recent changes:Free English Dictionary v1.4Now with audio play-back for pronunciation. Don\'t know how to pronounce words such as "naive", "pneumonia" or "cocoa". Now all you have to do is press the audio play-back button and listen to how words should be pronounced.Free English Dictionary with audio play-back, no more pronunciation ambiguities!'
+p4
+tp5
+tp6
+.

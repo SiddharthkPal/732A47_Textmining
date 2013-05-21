@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Apps 2 SD (Move app 2 sd) '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x86Notification when you installed an app can be moved 2 SDcard\xe2\x98\x86fix bug Nexus S (android 2.3)A must-have application!!! Save phone memory by identifying and listing all applications that can be moved to SD Card!A great UI that makes it easy to 1) move apps from phone to SD Card2) move apps from SD Card to phone, and 3) uninstall apps+Filtered system appsappManager.SeriesRecent changes:Add app version infos'
+p4
+tp5
+tp6
+.

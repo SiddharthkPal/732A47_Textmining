@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Diets for losing weight '
+p1
+tp2
+(S'Description:'
+p3
+S'This app is going to help you to follow a diet showing you the menu for today and for the following days of the diet you chose. It is going to give you the shopping list with the ingredients you need for your diet, and you are going to be able to save your weight in a graph so that you can see your improvement, self-motivate and share it with your friends. Moreover, it contains ideal weight, body mass index (BMI) and daily calorie intake calculators.This app is completely free, you are going to be able to see 30 weight loss diet plans for free and to choose the one you like the most depending on the time you have, your strong will, what you like to eat...\xe2\x80\x9cDiets for losing weight", in only a few months, has already helped more than 80.000 people to lose weight.A large number of free diets for losing weight in English. A large number of weight loss diets in English for free. With "Diets for losing weight" you are going to be able to choose between a large number of different weight loss diets. Dukan diet, the anti diet, the pineapple diet, burn fat diet, dissociate diet, Ravenna diet, salad diet, emergency diet... And more. Why "Diets for losing weight"?- It is completely free and it contains a large number of different diets. You are going to be able to chose one to follow depending on the time you have, your strong will, what you like to eat...- It is in English.- It is frequently updated with new diets.- Diets description: when you are going to be choosing your diet, a part from their menus, you are going to be shown their descriptions and the weight that can be lost following each one.- Evolution graph of your weight: if you save your weight from time to time, you are going to be able to see your evolution in a graph. It is going to help you to keep motivated and to see how many kg you have to lose to achieve your objective.- Ideal weight, body mass index (BMI) and daily calorie intake calculators.Key words:Diet, diets, diet plans, lose weight, calculators, calculate BMI, calculate body mass index, calculate ideal weight, calculate daily calorie intake, weight graph, vegetarian diet, Dukan diet, the anti-diet, pineapple diet, salad diet, burn fat diet, anti cellulites diet, lose belly fat diet, no tyres diet, shopping list.Recent changes:- Possibility to create a list of favorite diets.- Possibility to send the sopping list by email.- New diets (Low carb diet, no hunger diet, Atkins diet, bikini body diet)'
+p4
+tp5
+tp6
+.

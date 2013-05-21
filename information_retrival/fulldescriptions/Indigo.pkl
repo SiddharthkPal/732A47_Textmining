@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Indigo '
+p1
+tp2
+(S'Description:'
+p3
+S'Hello Indigo\xe2\x80\xa6 Indigo is the newest and cleverest voice-enabled personal assistant available.  Indigo is the only personal assistant who can seamlessly carry on a conversation with you from your smartphone to your tablet to your desktop and back again, perfect for users on the move.  Indigo can:\xe2\x80\xa2\tUpdate Facebook  \xe2\x80\xa2\tRead, retweet and send Tweets \xe2\x80\xa2\tFind recommended local restaurants and bars\xe2\x80\xa2\tDirect you to nearby locations and amenities \xe2\x80\xa2\tCreate and store diary entries\xe2\x80\xa2\tSave notes and reminders, alerting you at a specific time if needed\xe2\x80\xa2\tRead and send text messages and emails\xe2\x80\xa2\tPlay videos on YouTube\xe2\x80\xa2\tSearch the internet for the answer to any question\xe2\x80\xa2\tContinue the same conversation across multiple online devices\xe2\x80\xa2\tAnd much more \xe2\x80\x93 all you have to do is ask!Indigo runs on Nexus 4, 7 and 10 tablets, and the Samsung S3 smartphone.  It requires Android Ice Cream Sandwich (v4.0 upwards) or Jelly Bean (all versions) OS.  Indigo is currently a Beta app, which means you may experience minor glitches as we refine it.  Please get in touch if you experience persistent issues.Questions, comments or requests?We\xe2\x80\x99d love to hear from you.  Email us at suggestions@hello-indigo.com or tweet us @hello_indigo.See a demo here: http://youtu.be/xF7zRLBaTM0Recent changes:Bugfixes'
+p4
+tp5
+tp6
+.

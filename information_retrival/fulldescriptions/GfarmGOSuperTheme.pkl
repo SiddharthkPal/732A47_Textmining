@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gfarm GO Super Theme '
+p1
+tp2
+(S'Description:'
+p3
+S"New super theme for GO Launcher available!It's specially designed for those who are so busy in daily life . Relax and enjoy yourself with this vivid theme! Feel freely with Gfarm super theme.\xe2\x9d\xa4How to use this theme:1. After downloading and installing this theme, go to Menu -> Themes -> Installed -> choose your theme -> Apply"
+p4
+tp5
+tp6
+.

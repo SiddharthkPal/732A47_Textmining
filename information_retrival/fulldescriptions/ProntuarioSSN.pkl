@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Prontuario SSN '
+p1
+tp2
+(S'Description:'
+p3
+S"Il Prontuario dei Farmaci (Prontuario SSN) contiene l'elenco di tutti i farmaci prescrivibili, del Sistema Sanitario Nazionale,in commmercio in Italia. La ricerca di ogni farmaco pu\xc3\xb2 avvenire o attraverso il Nome Commerciale oppure attraverso il Principio Attivo. Di ogni farmaco ne \xc3\xa8 riportata la categoria terapeutica nonch\xc3\xa8 le formulazioni e confezioni, inclusa la classe di dispensazione, l'eventuale Nota AIFA ed infine il prezzo.L'APP, per la tipologia di contenuto ed informazioni, \xc3\xa8 destinata ai Sig. Medici per cui, come disposto dal Ministero della Salute, l'accesso \xc3\xa8 riservato ad Essi tramite password, rilasciata esclusivamente tramite il sito di autenticazione www.opendoctor.itRecent changes:*************** ATTENZIONE ***************In caso di crash a seguito dell'aggiornamento dalla versione precedente, si consiglia di rimuovere e re-installare nuovamente l'applicazione.**********************************************"
+p4
+tp5
+tp6
+.

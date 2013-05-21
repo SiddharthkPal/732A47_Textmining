@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VPN by Private Internet Access '
+p1
+tp2
+(S'Description:'
+p3
+S'Protect your privacy with the world\'s leading VPN Service.  Private Internet Access VPN SERVICE encrypts your connection and provides you with an anonymous IP to protect your privacy.Rated 4.5 out of 5 stars by PC Magazine and given the PC Magazine Editors\' Choice denomination, Private Internet Access provides multiple layers of privacy and security, including but not limited to:IP CloakingHide your IP address in order to stop websites from tracking your browsing and search activity.  Your internet activity is very personal and private.  For safe browsing, always use protection.\xe2\x84\xa2Data EncryptionStop snoopers and thieves from capturing your data transfers/internet activity.Public Wifi SecurityProtect yourself while on unencrypted public wifi networks or hotspots by using your own Private Internet Access\xe2\x84\xa2.Unblock WebsitesUnblock blocked websites/georestricted sites when you are traveling abroad.  With 9 countries available and over 260+ servers, you will be able to be "home" from anywhere.Data CompressionIn many cases, our data compression is able to speed up internet activity!  This is especially useful on mobile networks.Our Android application provides most of the unique features of our desktop application, including but not limited to:* Save your login credentials* Auto connect on start* Auto connect on device boot* TCP or UDP Connection Mode* Various ports including 80 and 443 via TCP (HTTP/HTTPS)* Bind to different local port* Check latency for best connectionPrivate Internet Access is available at https://www.privateinternetaccess.com/EDITORIAL REVIEWS"Private Internet Access, one of Lifehacker readers\' favorite VPN service providers, makes it easy to surf privately and securely from anywhere." -- Lifehacker"There have been several Editors\' Choice VPN services recently, as one product tops the next, but Private Internet Access out-performs and out-features the competition. With 4.5 stars, Private Internet Access sets the bar high and is truly the Editors\' Choice, trumping all our previous favorites." -- PC MagazineGENERAL NOTES* Application is available for Android 4.0+ with Direct VPN Support* Application is available for Android 2.0+ as a shortcut to the VPN SettingsRecent changes:1.0.0 - April 5, 2013* Application exits beta for full release1.0.1 - April 9, 2013* Fixed server connection settings1.0.2 - April 12, 2013* Fixed crashes on some devices'
+p4
+tp5
+tp6
+.

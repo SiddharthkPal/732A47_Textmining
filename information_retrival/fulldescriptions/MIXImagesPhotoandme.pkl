@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MIX Images..."Photo and me" '
+p1
+tp2
+(S'Description:'
+p3
+S"This is the APP to mix two photos.just take your photo or choose one from gallery,and seems just like you visit somewhere nice place.Now try for free !You can share the mixed photo via facebook or twitter.for iPhonehttps://itunes.apple.com/us/app/photoandme/id600802419Recent changes:v2.6 add HeadHead featurev2.5 add text message when you'd share photo via SNSv2.4 BigHead featurev2.3 Manganizationv2.2 revised UIv2.1 fix tiny bugs v2.0 store imagedata to serverv1.1 optimized memory usagev1.0 released"
+p4
+tp5
+tp6
+.

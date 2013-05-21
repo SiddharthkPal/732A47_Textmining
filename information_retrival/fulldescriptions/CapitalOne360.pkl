@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Capital One 360 '
+p1
+tp2
+(S'Description:'
+p3
+S"Hey, Mobile Saver, ING DIRECT is now Capital One 360. We have a new name and a new look on the outside but you can expect the same awesome experience on the inside with the Capital One 360 Mobile App. Capital One 360 goes where you go. Grab the App and:- View balances, move money and pay bills on the fly - Make mobile check deposits  with CheckMateSM- Find over 38,000 fee-free  AllPoint\xc2\xae ATMs - Send Person2Person Payments- Bump money to your budsRecent changes:What's New in Version 3.2.1- Bug fixes- New name and coat of paint on the outside- A new Capital One 360 app icon- Same focus on keeping our Savers Mobile"
+p4
+tp5
+tp6
+.

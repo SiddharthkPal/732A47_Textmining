@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PhotoChron - daily timelapse '
+p1
+tp2
+(S'Description:'
+p3
+S"*** V2 Released - Including ability to back up photos to the cloud! ****Take a photo every day, week or month and build it into a timelapse video for you to share with your friends.- Watch yourself change over time- Track your \xe2\x80\x98tache for Movember- Keep a record of your baby growing up- Track your appearance as you start a new workout routineFeatures:- Cloud backup - Don't lose those photos, turn on back up and your photos will be backed up to your Google Drive account.- PhotoChron can remind you to take a photo a day, week or month- HD or SD video output- Share the videos to YouTube, Facebook, Google+ or simply email- Align your photo with using a simple guide or overlaying it with the last photo you took- Didn\xe2\x80\x99t line up the photo quite right? Edit the photo afterwards to make the perfect time lapse- Add photos you might have already taken that are in your phone galleryIf you see any problems email me: andrew.dyersmith@gmail.comRecent changes:v2.5 - very long photo series now work better, and importing photos from the same day works.vv2.3  - Will now warn you if you try to backup over mobile data, backed up photos are now visible in your Google Drive accountv2.2 - Fixed crashes on start for some devicesv2 - Backup your photos to Google Drive! (use 'backup/restore' under the options menu on the home screen)."
+p4
+tp5
+tp6
+.

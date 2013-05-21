@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Calls Blacklist '
+p1
+tp2
+(S'Description:'
+p3
+S'Call blocker and SMS filter. This application both blocks unwanted calls and SMS, and helps manage a blacklist. Easy and lightweight, it does not consume any of your device\'s battery power. If you are looking for a call blocker or SMS spam filter, this application is what you need.You can either block any number from your contacts list, calls, and messages logs, or add unwanted number manually.Numbers from the blacklist are blocked quietly and without any signs of a call. Whatever you do, you will not be distracted by phone calls or SMS.Calls Blacklist saves all blocked calls and SMS in a journal. Don\'t worry, you will never lose any important call or message.This application also boasts some convenient setting options, such as the ability to block private numbers, or to disable notifications.Features:- Numbers blacklist (blocking incoming calls and SMS)- Blocked calls and SMS journal- Blocking anonymous (private) numbers- Blocking all incoming calls- Blocking all incoming SMS- Notification of blocked calls and SMS (can be disabled in the settings)- Password protectionAdvantages:- works on all devices- easy to use- lightweight and robust- does not consume memory or CPU resourcesAnd it\'s totally FREE!If you have any questions about the program, please let us know by e-mail: support@vlmob.comRecent changes:1.20:MMS blocking bug fixed.1.19:Supported languages added: Chinese, Korean, French, Spanish, Italian, Portuguese.Translations corrected: German, Japanese.MMS blocking added.Bugs fixed.1.18:Improved SMS blocking.Bugs fixed.1.17:Option "ask password on start" was added (available in PRO version).Bugs fixed.1.16:Bug on blocking SMS on some devices was fixed.Bug on blocking private calls was fixed.Stability was improved.Journal records now can be deleted one by one.'
+p4
+tp5
+tp6
+.

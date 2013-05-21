@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PriceOn '
+p1
+tp2
+(S'Description:'
+p3
+S'Daugelis \xc5\xbemoni\xc5\xb3 sugai\xc5\xa1ta daugyb\xc4\x99 laiko ie\xc5\xa1kodami geriausi\xc5\xb3 pasi\xc5\xablym\xc5\xb3, kiti gi perka i\xc5\xa1kart, abu atvejus lydi nusivylimas jei v\xc4\x97liau ty\xc4\x8dia ar nety\xc4\x8dia randamas geresnis pasi\xc5\xablymas.Net ir \xc5\xa1iame IT am\xc5\xbeiuje rasti patikim\xc4\x85 preki\xc5\xb3 informacij\xc4\x85 yra gana sunku. Daugeliu atveju J\xc5\xabs rasite reklaminio turinio arba tik elektronini\xc5\xb3 parduotuvi\xc5\xb3 pasi\xc5\xablym\xc5\xb3 informacij\xc4\x85. Spr\xc4\x99sdami \xc5\xa1i\xc4\x85 problem\xc4\x85 suk\xc5\xabr\xc4\x97me PriceOn.PriceOn - tai vieta, kur susitinka pirk\xc4\x97jai, gamintojai ir platintojai, vieta, kur gal\xc4\x97site rasti prekes ir j\xc5\xb3 apra\xc5\xa1ymus, palyginsite kainas ne tik elektronin\xc4\x97se, bet ir \xc4\xafprastose vietin\xc4\x97se parduotuv\xc4\x97se, esan\xc4\x8diose \xc5\xa1alia J\xc5\xabs\xc5\xb3 nam\xc5\xb3.----------------------Su \xc5\xa1ia program\xc4\x97le nuskenavus prek\xc4\x97s kod\xc4\x85 arba \xc4\xafvedus prek\xc4\x97s pavadinim\xc4\x85 \xc4\xaf paie\xc5\xa1kos langel\xc4\xaf matysite prek\xc4\x97s informacija, kain\xc4\x85, akcijinius pasi\xc5\xablymus. Taip pat program\xc4\x97l\xc4\x97je rasite preki\xc5\xb3 krep\xc5\xa1elio funkcij\xc4\x85. Krep\xc5\xa1eliu galima dalintis su kitais PriceOn vartotojais - tokiu b\xc5\xabdu gal\xc4\x97site kurti ir valdyti bendrus pirkinius.Recent changes:Kritini\xc5\xb3 klaid\xc5\xb3 pataisymai.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'QVC (US) '
+p1
+tp2
+(S'Description:'
+p3
+S"Take the Q with you \xe2\x80\x93 fashion, beauty, jewelry, electronics, and more! * Speed Buy\xc2\xae in stock & Wait listed items* Today's Special Value\xc2\xae, One Time Only Values, Item On Air* Items Recently On Air* Full 16:9 HD live stream* Customer ratings & reviews* Search by category* Create an account* Order status* Program GuideRecent changes:The ability to write product reviews and performance improvements."
+p4
+tp5
+tp6
+.

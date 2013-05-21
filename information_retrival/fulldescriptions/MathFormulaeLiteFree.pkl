@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Math Formulae Lite (Free) '
+p1
+tp2
+(S'Description:'
+p3
+S'Math Formulae Lite is one unique and comprehensive app that is particularly designed as a one-stop solution for College Grade/Higher Grade Students. It lists out all the important formulas/topics in Algebra, Geometry, Trigonometry and Calculus. Regular review of these formulas/concepts will definitely help improve your grades. The topics covered include:ALGEBRABasic Properties and FactsFactoring and Solving FormulasFactoring and solving Methods (completing the squares methods etc...)Functions and GraphsCommon Algebraic ErrorsGEOMETRYPoints and LinesAnglesTrianglesQuadrilateralsPolygonsCirclesCoordinate GeometryMeasurement FormulasTRIGONOMETRYDefinitionsFacts and PropertiesFormulas and IdentitiesUnit CircleInverse Trigonometric FunctionsLaw of Sines, Cosines and TangentsCALCULUSLimitsDerivativesIntegralsLaplace TransformsRecent changes:Change log 1.8:-Included topic "Coordinate Geometry"'
+p4
+tp5
+tp6
+.

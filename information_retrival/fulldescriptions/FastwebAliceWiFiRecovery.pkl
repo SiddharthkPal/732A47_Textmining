@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fastweb.Alice.WiFi.Recovery '
+p1
+tp2
+(S'Description:'
+p3
+S"Questa applicazione Calcola la Password Di default del Wi-Fi di alcuni modem forniti da Fastweb e Telecom.Non Funziona con tutti i modelli e se la password viene cambiata.E' intesa come applicazione per recuperare una eventuale password smarrita, e non per entrare nella rete del vicino di casa :)Non vi \xc3\xa8 nessuna garanzia che funzioni, infatti \xc3\xa8 gratuita,tuttavia se le condizioni necessarie si verificano, non ha mai fallito.Provatela e mandate un feedback."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SketchBook Express for Tablets '
+p1
+tp2
+(S'Description:'
+p3
+S'Autodesk SketchBook Express for Tablets is a professional-grade paint and drawing application designed for android devices with screen sizes of 7" and above. SketchBook Express offers a dedicated set of sketching tools and delivers them through a streamlined and intuitive user interface.Use it to digitally capture your ideas as napkin sketches or produce artwork on-the-go. With the same paint engine as the renowned SketchBook Pro software, SketchBook Express delivers sophisticated brushes and pencils.Features:\xe2\x9c\x93 Full Screen work space with on demand UI\xe2\x9c\x93 Multi-touch navigation with a 2500% zoom\xe2\x9c\x93 Up to 3 layers you can merge and toggle visibility\xe2\x80\xa2 Opacity control on each layer\xe2\x9c\x93 Import layer from the Gallery on your device or Camera\xe2\x9c\x93 Save to the Gallery on your device\xe2\x9c\x93 15 Preset Brushes, including Flood fill tool\xe2\x80\xa2 Synthetic pressure sensitivity (brush fade-off)\xe2\x80\xa2 Smooth brush stroking\xe2\x9c\x93 Add text to current layer\xe2\x9c\x93 4 Different draw styles\xe2\x9c\x93 Free Transform Tool for current layer  \xe2\x9c\x93 Dynamic symmetric drawing\xe2\x9c\x93 Color WheelRecent changes:\xe2\x88\x9a New Icon!\xe2\x88\x9a Portrait Mode\xe2\x88\x9a Quick color picker access\xe2\x88\x9a Fixed UI layout issues on HD devices\xe2\x88\x9a Bug Fixes and performance improvements'
+p4
+tp5
+tp6
+.

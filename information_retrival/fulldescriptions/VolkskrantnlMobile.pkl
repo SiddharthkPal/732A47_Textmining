@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Volkskrant.nl Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Download nu de nieuwe Android-app van Volkskrant.nl, de nieuws- en opiniesite van de Volkskrant.Met altijd het laatste nieuws, de mooiste beelden en de scherpste analyses. De app van Volkskrant.nl biedt helemaal gratis de volgende diensten: - De meest gelezen artikelen van Volkskrant.nl, handig op een rij - 24 uur per dag het laatste nieuws, overzichtelijk gegroepeerd - De app biedt vooral veel politiek nieuws, uit Den Haag en de rest van de wereld- De rubriek In Beeld met elke dag nieuwe opzienbarende fotospecials - Opinie: Prikkelende columns en opini\xc3\xabrende bijdragen over de onderwerpen uit het nieuws. - Deel de artikelen die je via de app leest via e-mail, Facebook, Twitter en Hyves. De nieuwsredactie van Volkskrant.nl wenst je veel plezier met deze nieuwe Android-app!Recent changes:-/ Deze update corrigeert een aantal problemen in de huidige versie.-/ Voor oude Android toestellen is het menu om te sharen en te reageren opnieuw beschikbaar.-/ Ook andere crashes - binnen 24u nieuws en tijdens het swipen tussen artikels - werden opgelost.'
+p4
+tp5
+tp6
+.

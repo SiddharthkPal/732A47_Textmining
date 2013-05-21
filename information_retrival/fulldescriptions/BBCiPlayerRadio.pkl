@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BBC iPlayer Radio '
+p1
+tp2
+(S'Description:'
+p3
+S'Features:- Take BBC Radio with you wherever you go- Listen to live radio from all the BBC\xe2\x80\x99s UK radio stations over Wi-Fi and mobile networks- Quickly switch between stations with a simple radio tuner dial- See what\xe2\x80\x99s on-air across all stations via the Full Programme Guide- Listen to on-demand programmes from the past 7 days- See the currently playing track on music stations- Find out what music and guests featured in on-demand programmes- Set an alarm to wake up to your favourite station- Set alerts for upcoming programmes- Watch video clips including music sessions- Find hundreds of BBC Podcasts to listen to- Browse programmes by Schedule, Category, Featured and Most Popular- Listen in the background or in standby, with quick access to what\xe2\x80\x99s playing via the notifications panelPlease note:Streaming radio is a data intensive service. The BBC does not charge for mobile content, but your network operator\xe2\x80\x99s charges for using the internet over mobile networks will apply and may be significantly higher when roaming outside of the UK. Connecting via WiFi is recommended where possible. Known Issues: - Some Samsung Galaxy S3 users may find that audio playback does not work for them for live or on-demand programmes.  This is due to a problem with a specific recent firmware version for this device. Devices purchased independently of your network operator should not be impacted.  A firmware fix has been deployed by Samsung but may take some time to be rolled out across all networks.  Podcast and video playback should not be affected.- This issue may also apply to other Samsung devices including some S2s- On demand/catchup programmes from local and regional stations are not yet available- Video clips are not currently available for Intel-based devices, such as the Motorola Razr-i, or Orange San DiegoRecent changes:Thanks for the feedback so far, we are taking the issues with some Samsung devices (in particular S3, S2 and Note running 4.1.2) very seriously, and we are working with Samsung and the mobile operators to rectify this firmware bug as soon as possible. This update provides increased reliability with audio stream playback, although it will not fix the above firmware issue we are seeing with some Samsung devices.'
+p4
+tp5
+tp6
+.

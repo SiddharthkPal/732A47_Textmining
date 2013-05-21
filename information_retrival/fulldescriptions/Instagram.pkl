@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Instagram '
+p1
+tp2
+(S'Description:'
+p3
+S"100 million users love Instagram! It's a free, fun, and simple way to make and share gorgeous photos on your Android. Pick from one of several gorgeous filtered effects or tilt-shift blur to breathe a new life into your mobile photos. Transform everyday moments into works of art you'll want to share with friends and family. Share your photos in a simple photo stream with friends to see - and follow your friends' photos with the click of a single button. Every day you open up Instagram, you'll see new photos from your closest friends, and creative people from around the world. Features:\xe2\x80\xa8\xe2\x98\x86 100% free custom designed filters and borders\xe2\x98\x86 Lux works its magic by making your photos more vibrant and brings out details in your photos you couldn't see before\xe2\x98\x86 Linear and Radial Tilt-Shift blur effects for extra depth of field. \xe2\x98\x86 Instant sharing to Facebook, Twitter, Tumblr, Flickr, and Foursquare\xe2\x80\xa8\xe2\x98\x86 Interact with friends through giving & receiving likes and comments\xe2\x80\xa8\xe2\x98\x86 Works with Android versions 2.2 and above that support OpenGL ES 2\xe2\x98\x86 Full front & back camera support\xe2\x80\xa8\xe2\x98\x86 And much much more...Recent changes:New in 3.5.2:- Important fixes for Galaxy S4 and some HTC devicesNew in 3.5.1:- Important bug fixes for international users New in 3.5.0:- Introducing Photos of You! Add people to your photos & share who's with you- Significantly improved quality of uploaded photos (for devices on Ice Cream Sandwich & above)- Grid guides for the camera"
+p4
+tp5
+tp6
+.

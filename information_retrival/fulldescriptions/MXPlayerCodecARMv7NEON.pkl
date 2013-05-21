@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MX Player Codec (ARMv7 NEON) '
+p1
+tp2
+(S'Description:'
+p3
+S'MX Player Codec for ARMv7 NEON CPUs.MX Player - The best way to enjoy your movies.** IMPORTANT NOTICE: This is a software component for MX Player, therefore, MX Player has to be installed first. MX Player will test your device and show you the best matching Codec automatically if necessary. You do not need to install Codecs unless MX Player asks you to do so.'
+p4
+tp5
+tp6
+.

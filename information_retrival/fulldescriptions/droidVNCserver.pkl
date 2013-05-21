@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'droid VNC server '
+p1
+tp2
+(S'Description:'
+p3
+S'Allows you to remote control your android within your computer!Your device must be ROOTED!Features: - Password authentication- Rotate/Scale- Wifi & USB & 3G (when supported by carrier)- Mouse & Kb emulation- Open-source- Clipboard support- ...You need a ROOTED device.How-to:  http://goo.gl/JE1Qhttp://github.com/oNaiPs/droid-VNC-serverRecent changes:- ICS support- Changed to official libvncserver v0.9.9.- Decoupled native screen grabber from jni sources, you wont need to have AOSP anymore, just the precompiled libs.- Fixed misc random segfault- Added display rotation to 180, for zte'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'In Case of Emergency ICE-Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'Emergency, Medical & Contact information for emergency services and first responders In Case of Emergency (ICE). SOS message.  Supported languages: \xe4\xb8\xad\xe6\x96\x87\xef\xbc\x88\xe7\xb9\x81\xe9\xab\x94\xef\xbc\x89, \xc4\x8ce\xc5\xa1tina, Dansk, Deutsch, Espa\xc3\xb1ol, Fran\xc3\xa7ais, \xe6\x97\xa5\xe6\x9c\xac\xe8\xaa\x9e, \xed\x95\x9c\xea\xb5\xad\xec\x96\xb4, \xe0\xa4\xb9\xe0\xa4\xbf\xe0\xa4\xa8\xe0\xa5\x8d\xe0\xa4\xa6\xe0\xa5\x80, \xd7\xa2\xd7\x91\xd7\xa8\xd7\x99\xd7\xaa, Italiano, Magyar, Nederlands, Norsk, Polski, Portugu\xc3\xaas, P\xd1\x83\xd1\x81\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9, Suomi, Svenska* Custom screen lock \xe2\x80\x93 app can be accessed through password protected screen lock. In Case of an Emergency - emergency services & hospital staff will only have access to ICE Emergency app.* SOS \xe2\x80\x93 sends SOS message to your Emergency Contacts, automatically includes GPS location* Emergency Contacts \xe2\x80\x93 Call or SMS from App* Medical History \xe2\x80\x93 vital information for first responders and hospital staff:AllergiesBlood group Diabetic informationThe number of situations which can give rise to an emergency are infinite . . .Matrix Mobile Application\xe2\x80\x99s In Case of Emergency app is the most comprehensive emergency app for Android and can help save your life in an unexpected emergency.Keywords: in case of emergency, ice, emergency, emergency contact, hospital, doctor, pharmacy, dentist, SOS, emergency services, ambulance, fire, police, hospital, hospital listing, doctor, doctor listing, medical history, allergy, blood group, diabetic, medical condition, medication, vaccine, medical insurance, emergency call, automatic update, lock screen, silent call, silent mobile, silent phone, best silencer, call blocker, block email, block text, SMS blocker'
+p4
+tp5
+tp6
+.

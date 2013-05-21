@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tapporo (Make Money) '
+p1
+tp2
+(S'Description:'
+p3
+S"After paying more than $500,000 on Web - we go Mobile!Earn prizes and $$$ with Tapporo by watching videos, downloading free apps and more!With Tapporo you can get Google Play Gift Cards. Amazon Gift Cards , PayPal Cash , Facebook Credits, Minecraft account, Hulu account, Game cards , Mobile accessories, Gadgets and many more\\!Be Rewarded. Anytime. Anywhere. It's Tapporo.Discover exciting brands by watching videos and downloading free apps to earn ORO Coins.Pick your reward at the Tapporo Store and redeem it with your ORO coins!Spoil yourself or your loved ones with prizes from the Tapporo Store! You can even spoil your mobile with one of many mobile accessories available at the Tapporo Store!Share the Tapporo experience with your friends - Earn from every friend who signs up and uses your invite code (up to $0.6 from each friend).Tired of app that promise too much and deliver too little, such as Whaff and CashKing? Then it\xe2\x80\x99s time to switch to Tapporo!Recent changes:Issues with small screens was fixed."
+p4
+tp5
+tp6
+.

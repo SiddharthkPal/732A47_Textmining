@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iTunes to android wireless '
+p1
+tp2
+(S'Description:'
+p3
+S"Synctunes wireless is an iTunes to Android syncing application that allows you to sync your iTunes music, podcasts and videos from your computer to to your Android device over WiFi. User guide is available here http://www.bitstudio.eu/synctunes-wireless/Mac-users: It does not work with mac yet, our team is working on the development of mac versionImportant: It is not a music player neither it downloads music from internet.Features:Sync to internal or external sdcardSync Podcasts from your PC to android.Sync Music tracks from PC to android.Sync Playlists.Sync tracks from itunes storeSync album artOrganizes songs in android by artist/albumsYou can filter your tracks to be synced (by size, length , date etc)Important: It does not remove DRM copyright music tags, so you may not be able to play the protected music.----------------------------------------Free version vs Paid Version:-----------------------------------------This is a free version listing. Free version has a limit of syncing 100 songs/videos and one playlist. Pro vesion removes this limit and lets you sync unlimited media files and playlists.Paid version can be download from herehttps://play.google.com/store/apps/details?id=mahmed.net.synctuneswirelessproComputer Installation: Synctunes desktop app can be downloaded from http://www.bitstudio.eu/synctunes.msi Synctunes desktop app should be installed on your PC to connect to Synctunes mobile app.System requirements:Android Phone, PC with WindowsiTunes installed on WindowsTranslations:We want to translate this app into different languages, if you can help, please contact us.Keywords: itunes for android, itunes music downloader, iTunes, android, iPod, Music, podcast, Sync, mp3, playlistsiTunes is a trademark of Apple Inc registered in the U.S. and other countries.Recent changes:1.14: Supports syncing to external sdcard1.11 : connection issues on slow machines fixed1.8  Bug fixed when transfering 2GB files/movies the server would give an error failed to write to transport layer, now fixed1.7: changes include redirection to new help site1.6: previous release 1.5 has issues with nexus 7, that's been fixed now"
+p4
+tp5
+tp6
+.

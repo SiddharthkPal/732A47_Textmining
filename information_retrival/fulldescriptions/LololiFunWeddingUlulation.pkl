@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lololi Fun Wedding Ululation '
+p1
+tp2
+(S'Description:'
+p3
+S'Welcome to Lololi (Egyptian wedding sounds) Application.Lololi ... A folkloric wedding application for Egyptian wedding sounds and actions.Lololi has seven band characters with an interesting show of each one of them:1- \xe2\x80\x9cNossa\xe2\x80\x9d the gifted drummer. (Three different solo drumming)2- \xe2\x80\x9cZico\xe2\x80\x9d the melody master. (Four different flute solo play)3- \xe2\x80\x9cHooda\xe2\x80\x9d the king of dough. (One cool greeting music track)4- \xe2\x80\x9cSonya\xe2\x80\x9d the queen of finger cymbals. (Three different music tracks with cymbals)5- \xe2\x80\x9cZoba\xe2\x80\x9d the dazzling belly dancer. (Three different dancing music tracks)6- \xe2\x80\x9cHima\xe2\x80\x9d the king of pop. (One beautiful folkloric song)7- \xe2\x80\x9cZizi\xe2\x80\x9d the girlie singer. (Two beautiful wedding songs)Besides the band members above, there are five lololating girls from different places with different lololations.1- Alexandria.2- Cairo.3- Upper Egypt.4- Sinai.5- Nuba.Features list:- Full wedding scene.- Interactive scene objects (characters, chair, wedding gun, lips and bulbs line).- Seven animated characters with a solo show for each one of them with many sound scenes.- Folkloric songs and music of Egyptian wedding.- Five animated lololating girls.- Funny view for lololating lips.- Three different audio backgrounds for Egyptian wedding. (Can be accessed from the stereo speakers on the stage).- Recording a name and listen to it in a special greeting from the man who throws money.- Folkloric bulbs line making real visual effects.- Break the bulbs to decrease wedding lights.- Use the tracks of each character as ringtones.- Help page.- Characters\xe2\x80\x99 pictures sharing with funny greetings (Facebook, Twitter and Email).- Sharing greetings can be in one of two languages (English and Arabic).'
+p4
+tp5
+tp6
+.

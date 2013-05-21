@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BBC iPlayer '
+p1
+tp2
+(S'Description:'
+p3
+S"Features include:- Watch live TV- Watch over Wi-Fi and 3G networks- Scroll through and find Featured and Most Popular programmes- Browse through the schedule for upcoming programmes We have developed the BBC Media Player app to improve video playback on Android devices. You will need to install this separately from the Google Play marketplace.To make installation of the BBC Media Player as easy as possible, BBC iPlayer will prompt you to install it when you first play a programme.The BBC iPlayer app uses standard Android app permissions that are defined by the Google Android platform. The 3 permissions the BBC iPlayer Android app asks to use are:ACCESS_NETWORK_STATE - Allows the app to access details about network connectivity i.e. whether the device is on Wi-Fi or 3G. INTERNET - Allows the app to access the internet. WRITE_EXTERNAL_STORAGE \xe2\x80\x93 allows the app to save images and metadata externally.Recent changes:We promised and we're delivering! Watching BBC programmes on popular devices like the S3, Note 2 & Nexus 4 is now a much improved experience.Like magic, from now on we will be improving video quality on as many handsets as possible independent of app updates.BBC iPlayer now works on the latest 1080p phones from Samsung, Sony, HTC etc.More bugs squished in this release.Next stop on the iPlayer train is support for bigger tablets, while we continue to work on Downloads!"
+p4
+tp5
+tp6
+.

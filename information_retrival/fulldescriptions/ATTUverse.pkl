@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AT&T U-verse '
+p1
+tp2
+(S'Description:'
+p3
+S"Take the U-verse experience with you; schedule your DVR recordings and watch hit clips, shows and movies on your Android phone with the U-verse app from AT&T.  The U-verse app gives you access to your AT&T U-verse DVR at home to schedule and manage recordings, view and search within your channel guide, and set favorite shows & channels.  U-verse customers can also download or stream popular shows from the mobile library to watch on their phone.Browse TVBrowse or search your personal TV programming guide to find your favorite shows.Schedule one time or series recordings on your DVR at home. Set your favorite channels to bring them to the top of your guide view and tag favorite shows for quick access.RecordingsEasily view and edit your scheduled and recorded shows on your U-verse DVR at home.WatchDownload or stream select shows available in the U-verse application library for viewing on the go.  MoreSee U-verse feature highlights and available apps, configure settings, view the user guide and more.  We don't yet have the rights to make shows available on all devices, or to make more shows available for download and watch.  We're working hard to continue to gain rights for mobile access.The U-verse application can be accessed via cellular or Wi-Fi connectivity.Recent changes:\xe2\x80\xa2 Performance optimization for Guide Favorites"
+p4
+tp5
+tp6
+.

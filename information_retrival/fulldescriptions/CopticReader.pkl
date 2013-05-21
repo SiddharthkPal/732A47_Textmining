@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Coptic Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"We kindly ask that any content errors or questions of rites be emailed to us directly rather than posted as a review; thus affording the developers the ability to ask specifics regarding the inquiry. Connect with Coptic Reader on Facebook: http://www.facebook.com/copticreaderJoin our mailing list to get updates on new features and bug fixes: http://www.suscopts.org/mailman/listinfo/users.copticreader_suscopts.orgContact us directly at: copticreader@suscopts.orgCoptic Reader Wiki: http://suscopts.org/wiki/Coptic_ReaderCoptic Reader contains the Coptic Diocese of the Southern USA's official translation of the Coptic Book of Hours (i.e., Agpeya), the Psalmody, the Holy Pascha, the three Divine Liturgies with integrated Service of the Deacons, the expanded readings for the entire liturgical year including the Synaxarion, the Distribution Melodies book, and much more. These publications were masterfully integrated into this application to make it easy for the end user to access any prayer or hymn they desire. You only need to open the desired service and the application will automatically generate all of the appropriate hymns, doxologies, rites, instructions, and readings of the current day in the correct order. You may also select any feast or day of the year and the application will automatically update the prayers to match the rites of that day. English, Coptic, and Arabic languages are supported. (Note: Arabic is not correctly supported on Western devices prior to Android 3.0)Coptic Reader is fully customizable and allows the user to show/ hide different liturgical roles (i.e., Priest, Deacon, and Congregation), inaudible prayers, rubrics/comments, and languages. Optimized graphical themes are available to choose from with the ability to change document text size.  The application also allows the user to control which saint or archangel commemorations will be shown throughout the app in doxologies, hymns, responses, and other prayers for your church's intercessors.Recent changes:See http://suscopts.org/wiki/Coptic_Reader#Release_Notes"
+p4
+tp5
+tp6
+.

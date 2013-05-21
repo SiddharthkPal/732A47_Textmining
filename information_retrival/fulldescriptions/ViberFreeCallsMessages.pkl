@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Viber : Free Calls & Messages '
+p1
+tp2
+(S'Description:'
+p3
+S'Viber allows you to call, text, and send photos worldwide for free to over 175 million users. Viber is available for Android, iPhone, Blackberry, Windows Phone and many more devices and platforms. Viber lets everyone in the world connect. Freely.***WHY VIBER?**** Free calls with HD sound quality* Free text and photo messaging * Simple to use* Always on* Ad free* 100% free (*)__________(*) Network data charges may applyRecent changes:Support for Intel devices.One-sided audio on several Xperia devices has been resolved.Other bug fixes. And all the great features from Version 2.3:- Share stickers with friends, making messaging fun- Include emoticons in text messages- Send any locations as messages - Enhanced messaging experience with new interface and sounds- Connect with your friends in group conversations of up to 40 participants- Option to use your device\xe2\x80\x99s sounds instead of Viber\xe2\x80\x99s'
+p4
+tp5
+tp6
+.

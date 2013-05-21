@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Runtastic Heart Rate '
+p1
+tp2
+(S'Description:'
+p3
+S'Check your heart rate anytime, anywhere - when you wake up, before and after exercise, or before a big meeting. The Runtastic Heart Rate App will measure your heartbeat with great accuracy, using your smartphone camera sensor!Instant, free, and excellent for the health and fitness community. Download the Runtastic Heart Rate App today.FREE FEATURES:* Measure your pulse with the camera on your smartphone* See your HRM results in a graph* Variety of different, instant measurement types: resting HR, maximum HR, and HR before/after cardio* Upload, store, and analyze your exercise results on the runtastic fitness site, www.runtastic.com* Share your HRM results via your social networks: Facebook, Twitter, Google+ and E-mailTIPS FOR USE:* Place and lightly hold your index finger against the back camera lens* Do not press too hard, otherwise blood circulation will not be accurate and results could be affected* Remain calm and try not to move too much during the measurement, as this can affect the instant results* Do not measure with cold fingers, when blood circulation is poor, as this leads to inaccurate measurements of your pulse* If you are using a smartphone without a flashlight, be sure to be in a well-lit area for accurate heartbeat measurementDownload the Runtastic Heart Rate App for free today. Check your heart rate regularly, monitor your pulse, and track accurate results before and after your cardio routine or preferred fitness exercises!WARNING: This is not a medical product!Keywords: Pulse, Instant, Cardio, Blood Pressure, Health, Fitness, Heartbeat, Exercise, EKG, ECG, HRM, Camera Sensor, FreeRecent changes:Bugfixes:- fixed measuring problems on many devices  (e.g. Galaxy Ace, Motorola Droid, HTC One X ...)Note: Measurement is working without flashlight too'
+p4
+tp5
+tp6
+.

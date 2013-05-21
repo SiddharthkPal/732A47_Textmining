@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Karikat\xc3\x83\xc2\xbcrizm '
+p1
+tp2
+(S'Description:'
+p3
+S'Android Karikat\xc3\xbcrizm Karikat\xc3\xbcr okuma uygulamas\xc4\xb1 ile cep telefonunuzdan yada tablet cihaz\xc4\xb1n\xc4\xb1zdan rahat ve h\xc4\xb1zl\xc4\xb1 bir \xc5\x9fekilde pop\xc3\xbcler karikat\xc3\xbcr dergilerinden derlenen karikat\xc3\xbcrleri okuyabilirsiniz.Uygulama i\xc3\xa7erisinde bulunan mizah dergileri- Uykusuz- Penguen- G\xc4\xb1rg\xc4\xb1r Mizah- Lama- Leman- L-Manyak + F\xc4\xb1ratKarikat\xc3\xbcr okuyabilmek i\xc3\xa7in cep telefonunuzun internet ba\xc4\x9flant\xc4\xb1s\xc4\xb1na sahip olmas\xc4\xb1 gerekiyor. Herg\xc3\xbcn kategorilenmi\xc5\x9f \xc5\x9fekilde yeni karikat\xc3\xbcr eklenmektedir. Karikat\xc3\xbcr g\xc3\xbcncellemeleri uygulama g\xc3\xbcncellemelerinden ba\xc4\x9f\xc4\xb1ms\xc4\xb1z tutulmu\xc5\x9ftur. S\xc3\xbcrekli uygulama g\xc3\xbcncellemek zorunda kalmayacaks\xc4\xb1n\xc4\xb1z.Recent changes:Resim \xc3\xa7\xc3\xb6z\xc3\xbcn\xc3\xbcrl\xc3\xbckleri art\xc4\xb1r\xc4\xb1ld\xc4\xb1.Yeni FIRAT karikat\xc3\xbcrleri eklendi.'
+p4
+tp5
+tp6
+.

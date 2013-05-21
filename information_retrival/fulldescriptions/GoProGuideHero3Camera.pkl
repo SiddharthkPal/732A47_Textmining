@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GoPro Guide - Hero 3 Camera '
+p1
+tp2
+(S'Description:'
+p3
+S"Easy-to read manual for GoPro Hero1, Hero2 and Hero3 cameras.You don't need long, long-worded, highly technical books, manuals and DVD's anymore. With GoPro Guide from Fatboy Studios you simply choose from the list of Subjects\xe2\x80\xa6click and quick and easy instructions appear with expert advice on: * features* connectivity* camera Modes* assemblyMost great video opportunities won't wait for you to 'figure it out' \xe2\x80\x93 it's click it or miss it. With GoPro Guide from Fatboy Studios you're only seconds away from the tips you need to get the right shot, every time, out of your GoPro Hero Camera. The GoPro Cameras (HD Hero 3, Hero 2 and Hero1) is among the best action cameras on the market today. Used by amateurs, professionals, and action sports enthusiasts alike.HAve stoked out more professional and amateur athletes, adventurers and filmmakers than any other camera in the world. GoPro gives you the ability to capture and share life's most passionate experiences.Please contact us at gopro@fatboystudios.com with any issues, as we are unable to respond to comments on the market to assist with the problem.*** We are working hard to bring you new features. Please stay tuned. ****** LEGAL **This app is not endorsed, sponsored, affiliated with or otherwise authorised by GoPro \xc2\xae** Important: This is NOT official GoPro app for Wi-Fi BacPac **Recent changes:- Fix for opening details from the list- Filtering Guides for Hero 3"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Farmacia di Turno '
+p1
+tp2
+(S'Description:'
+p3
+S"Stai cercando la farmacia aperta pi\xc3\xb9 vicina a te?FARMACIA DI TURNO, sfruttando la geolocalizzazione, ti indica le prime 3 farmacie di turno pi\xc3\xb9 vicine al punto in cui ti trovi.Avviando semplicemente l'applicazione, riceverai le informazioni delle 3 farmacie di turno pi\xc3\xb9 vicine a te ( indirizzo, contatti, orari).Inoltre, con un solo gesto, puoi contattarle telefonicamente e avviare il navigatore di Google Maps per raggiungerle nel pi\xc3\xb9 breve tempo possibile.Con l'opzione StreetView, puoi visualizzare le immagini ed effettuare un tour virtuale nel luogo dove \xc3\xa8 presente la farmacia.L'applicazione, per funzionare correttamente, necessita di una connessione internet attiva e, per determinare la posizione attuale necessita dell'utilizzo del GPS.Per abilitare la geolocalizzazione:impostazione -> posizione e protezione -> usa reti wirelessimpostazione -> posizione e protezione -> utilizza satelliti GPSRecent changes:Con questa versione potrai vedere le prime 3 farmacie di turno vicine a te!bug fixedimpostazione -> posizione e protezione -> usa reti wirelessimpostazione -> posizione e protezione -> utilizza satelliti GPS"
+p4
+tp5
+tp6
+.

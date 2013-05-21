@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zoolz GO '
+p1
+tp2
+(S'Description:'
+p3
+S'Take your files, photos, music on the go with Zoolz GO app. Zoolz is a comprehensive solution  for businesses for backing up, archiving, data management, and collaboration by backing up Windows PCs and Servers, External drives, Network locations and more for easy data access and sharing.Zoolz makes it easy to backup, access and share all your files easily from the web, Android device, iPhone, iPad or iPod touch anytime anywhere. You can also preview all your photos, stream your backed up music and videos with a tap that are stored on your Windows PCs, Mac, external and network drives. Your backup is secure and durable thanks to 3 levels of encryption, deduplication, a powerful backend residing on Amazon AWS, and more.Thanks to cold storage, backing up all your files can cost as low as $0.03/month per GB!If you do not have an account to can sign up for a free 15-day trial directly from your mobile Zoolz GO Features\xe2\x80\xa2 Photo Preview of all your backed up pictures\xe2\x80\xa2 Share any file no matter how large to anyone\xe2\x80\xa2 Access your encrypted files from your mobile\xe2\x80\xa2 Multiple computer viewing support \xe2\x80\xa2 Search for your files on Zoolz\xe2\x80\xa2 Read your documents\xe2\x80\xa2 On a plane, no problem! Listen to your music offline \xe2\x80\xa2 Save your photos to your photo galleryWhy Zoolz?\xe2\x80\xa2 Pure, secure and reliable Cloud Solution\xe2\x80\xa2 One solution to protect all\xe2\x80\xa2 Save more money with Cold Storage(TM)\xe2\x80\xa2 Complete Users Management\xe2\x80\xa2 Copy, Encrypt, and Ship(TM)\xe2\x80\xa2 Easy Deployment (1000s in just 5 mins)\xe2\x80\xa2 Protect Servers\xe2\x80\xa2 Elastic plan at an extremely low costComplete list of features at:http://www.zoolz.comRecent changes:Minor bug fix.'
+p4
+tp5
+tp6
+.

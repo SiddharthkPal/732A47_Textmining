@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GChord  (Guitar Chord Finder) '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a guitar chord finder for beginners.GChord is not an application that displays all the chord diagrams.Each chord shows four registered patterns, which are selected as most simple and useful.Please understand that unregistered diagrams cannot be searched.The app supports left handed.This is a free version.Three versions of the GChord.  GChord (Free)  GChord (ad-free)  GChord2 (multi-function)Recent changes:Fixed a small bug.'
+p4
+tp5
+tp6
+.

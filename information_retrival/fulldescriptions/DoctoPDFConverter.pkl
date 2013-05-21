@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Doc to PDF Converter '
+p1
+tp2
+(S'Description:'
+p3
+S'Any one can easily convert his/her document file to PDF format.Support .doc and .jpg format to convert .PDF formant.It is very easy to install and user friendly.This application support above Android 2.3 versionRecent changes:None'
+p4
+tp5
+tp6
+.

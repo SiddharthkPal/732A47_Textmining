@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Toddler Counting 123 Kids Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Learning to count is as easy as 1, 2, 3! Watch your toddler discover the simple joy of learning as they tap and count along. Designed for young minds and tiny fingers, the gameplay is simple and without fuss - filled with heaps of lighthearted fun and even more room to grow!NO FUSS Children don\xe2\x80\x99t need to sort through complicated menus. Jumps straight into the fun with just one tap! Parents can determine the pace of learning with the customizable options available via settings, including:- The smallest and largest number to play (1 to 20)- Count in order of smallest to largest, or by random- Choose from 10 categories of real life objectsA FUN EXPERIENCE  Count along and learn the names of all your favourite animals, toys, household objects and more! Learn in a fun environment complete with cool sound effects, clear and pleasant voice narration, as well as positive feedback to encourage and to help young players stay motivated. COUNT AROUND THE WORLDAll recorded by native speakers, you can now learn to count in 8 exciting languages. So count away! Includes: English, French, Spanish, Japanese, German, Swedish, Chinese Mandarin and Italian. Features:\xe2\x9c\x94 Child-friendly interface with no complicated menus\xe2\x9c\x94 More than 130 objects to count along to\xe2\x9c\x94 10 categories: animals, transport, shapes, household objects, musical instruments, toys, insects, food, ocean creatures and outdoor objects\xe2\x9c\x94 Clear and pleasant voice guide spoken by native speakers\xe2\x9c\x94 Available in 8 languages: English, French, Spanish, Japanese, German, Swedish, Chinese Mandarin and Italian\xe2\x9c\x94 Fully adjustable game settings \xe2\x9c\x94 Beautiful real life photographs of objects\xe2\x9c\x94 Cheery background music track that can be easily switched on or offKeywords: Counting, Toddler, Preschool, Kids, Games, Count, 123, Game, GamesRecent changes:- Fixed an error which occurred only when user are on secondary user accounts.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rage Comic Maker '
+p1
+tp2
+(S'Description:'
+p3
+S"Rage Comic Maker for Android is an application that lets users easily create rage comics on their Android devices.The most downloaded Rage Maker in the Market! Thanks for all users!IF YOU CAN'T FIND THE FACES: many users seem to miss this, but you need to find the MENU button on your device. It's usually along the bottom of the screen, sometimes says MENU, sometimes it's just some horizontal lines.Here's a shot of the menu button on the Sony Experia Arc: http://i.imgur.com/rBH2b.jpgUsing this menu you'll have different options depending on the mode you are in, for example in Manipulate mode you can add images, and in Draw mode you can set the color and brush width.IMPORTANT: If you have problems please e-mail me directly with your phone version and exact details of the problem.Follow me on Twitter: http://twitter.com/TamasPlusPlusFind out about us: http://www.tmarki.com/apps/Looking for volunteer translators! If you'd like to see this app translated into your native language, and you think you could do it, don't hesitate and contact me!This application is completely free and open source, but features a small ad on the top to support the developer (it cannot be turned off). If you prefer an ad-free version please contact me.Some of the key features: *  Flexible number of panels (1-20) *  Pan and zoom the comic canvas, as well as image elements *  Undo and redo your moves *  Different text styles and sizes *  Save and share your creations *  Use drafts to save comics in progress *  Draw straight lines or free curves with different brush sizes and colorsKeyboard shortcuts:Directional pad - move object/canvasW/S - scale object/canvasA/D - rotate objectSPACE - move object to front or send to backBACK - undoR - redoBACKSPACE - delete selected objectOver 200 built-in rage faces (also known as meme faces, troll faces, reddit faces, 9gag faces, tumblr faces, etc.)!** PERMISSIONS **Internet access: for the ads and some anonymouse usage statistics (Flurry)Write external storage: for saving the comics on the SD cardRecent changes:Rage Comic Maker is now licensed under GPLv3"
+p4
+tp5
+tp6
+.

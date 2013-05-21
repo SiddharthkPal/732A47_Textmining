@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Byggvaror '
+p1
+tp2
+(S'Description:'
+p3
+S'Byggmax \xc3\xa4r den ledande byggvaruhandlaren i Sverige med b\xc3\xa5de butiker och e-handel. Denna app ger dig tillg\xc3\xa5ng till hela BYGGmax sortiment med full produktinformation f\xc3\xb6r samtliga varor. Annan funktionalitet i appen \xc3\xa4r:* Ink\xc3\xb6pslista: Planera dina ink\xc3\xb6p genom att skapa inkl\xc3\xb6pslistor.* Butiksinformation: Hitta n\xc3\xa4rmsta butik, ta reda p\xc3\xa5 \xc3\xb6ppettider samt kontaktinformation.* Kundtj\xc3\xa4nst: Kontaktinformation till kundtj\xc3\xa4nst samt direktl\xc3\xa4nkar till nyttig information p\xc3\xa5 BYGGmax hemsida.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Auto Parts Warehouse '
+p1
+tp2
+(S'Description:'
+p3
+S'The Auto Parts Warehouse app is now the easiest way to order car parts from your Android device. We\xe2\x80\x99ve taken our online catalog of auto parts and made it simple to research and order items from wherever you are. Tell us the car you drive and we\xe2\x80\x99ll show you exactly what will fit your vehicle.Since we\xe2\x80\x99re fully integrated with www.autopartswarehouse.com you can access all the great features of our website:\xe2\x80\xa2 Order tracking \xe2\x80\xa2 An Address Book for fast checkout \xe2\x80\xa2 Full support from our customer service center \xe2\x80\xa2 Saving vehicles in My Garage to find matching parts \xe2\x80\xa2 Checkout securely through PayPal or APWAnd as a special treat for our mobile customers, use the coupon code MOBILE at checkout for 5% off your order, with no minimum required! Some restrictions apply. http://f.chtah.com/i/37/1333916810/Restrictionlist1.jpgRecent changes:\xe2\x80\xa2 Minor bug fixes'
+p4
+tp5
+tp6
+.

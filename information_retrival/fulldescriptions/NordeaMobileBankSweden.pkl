@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nordea Mobile Bank \xc3\xa2\xe2\x82\xac\xe2\x80\x9c Sweden '
+p1
+tp2
+(S'Description:'
+p3
+S'The most common daily banking features in one app!In this app you can: - View account balances and transactions, - transfer money between your Nordea accounts and- make payments to your accounts in other banks or to other people and companies. Tip! Try the quick feature \xe2\x80\x93 drag the \xe2\x80\x98from account\xe2\x80\x99 to another account or beneficiary for faster transactions! New features will be developed and released on a regular basis, so make sure to update the app when you get an update alert! Until more functionality is included, you can still use the mobile services in the web browser \xe2\x80\x93 you find a direct link in the menu of the app, or surf to m.nordea.se.In order to use the Mobile Bank you need to:- be at least 11 years old- have an agreement for Nordea\xe2\x80\x99s Internet and phone services- have an Android phone where you can download apps.You easily log in with your Personal identity number and Personal code. You can also choose to save your Personal identity number for even easier future logins! Some functions in the app, such as external payments, also require that you confirm with your card reader.Recent changes:NEWS FOR 1.1.2 RELEASE:- Connectivity fix for certain phone models.'
+p4
+tp5
+tp6
+.

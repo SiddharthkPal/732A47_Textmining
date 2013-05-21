@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lync 2010 '
+p1
+tp2
+(S'Description:'
+p3
+S'IMPORTANT: Microsoft Lync 2010 for Android requires a Lync Server or Office365/Lync Online account and will not work without it. If you are unsure about your account status, please contact your IT department. Lync 2010 for Android extends the power of Lync to your mobile device \xe2\x80\x93 including rich presence, instant messaging, audio conferencing, and calling features from a single, easy-to-use interface. Key Features:-  View colleagues\xe2\x80\x99 availability in real time and select the best way to communicate \xe2\x80\x93 initiating an instant message (IM), email, or a phone call.-  Connect to Lync conference calls with a single touch, without requiring long numeric passcodes or conference numbers. -  Forward or simultaneously ring calls to your Enterprise Voice (Lync ID) number so you\xe2\x80\x99ll never miss a call.-  Lync 2010 for Android provides transport layer security (TLS) and perimeter/internal network protection without requiring a VPN, so your communications experience is safer no matter where you are or what network you use.IMPORTANT: THIS SOFTWARE REQUIRES CONNECTIVITY TO VALIDLY LICENSED COPIES OF MICROSOFT LYNC SERVER 2010 OR OFFICE365/LYNC ONLINE AND WILL NOT WORK WITHOUT IT.  UPDATES TO MICROSOFT LYNC SERVER 2010 MAY BE REQUIRED FOR PROPER PERFORMANCE.  SOME FUNCTIONALITY MAY NOT BE AVAILABLE IN ALL COUNTRIES.  IF YOU ARE UNSURE ABOUT YOUR COMPANY\xe2\x80\x99S LICENSE TO AND/OR DEPLOYMENT OF LYNC, PLEASE CONTACT YOUR IT DEPARTMENT.Recent changes:This release includes:\xe2\x80\xa2 Fix for a sign-in issue for users on Jelly Bean (4.2 and newer).\xe2\x80\xa2 Other bug fixes.Recommended: Users who are updating from older versions of Lync client, may need to sign out and sign in again, after installation is complete.'
+p4
+tp5
+tp6
+.

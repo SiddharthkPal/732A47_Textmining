@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Mixtapez '
+p1
+tp2
+(S'Description:'
+p3
+S'Your one stop to get all your Favorite mixtapes on the go!Key features:Download Unlimited Mixtapes Stream Unlimited MixtapesShare music statuses with your friendsStream selected Videos Use the "Recently Added" Button to see the Latest MixtapesHow to use My Mixtapez:My Mixtapez brings you the newest & hottest mixtapes on the go. Download and Stream your favorite Artist, Dj\'s, producers, & Groups.Sharing your favorite mixtapes to social networks is simple and fast; post what you downloaded to Facebook, Twitter and Instagram so you can interact with friends or the Artist themselves.Discovering great new music has never been simpler. Use the powerful search feature to search for specific mixtapes, artist or groups. Whether you are seeking Rap, R&B, Hip Hop or the latest trend, you can find it on My Mixtapez.Disclaimer: All mixtapes on this app are provided from DJ\'s and Artists for promotional use only. All ads help us pay for Bandwidth and Administrative costs. Any Questions, please email us.Recent changes:4/29/2013 - search button icon added'
+p4
+tp5
+tp6
+.

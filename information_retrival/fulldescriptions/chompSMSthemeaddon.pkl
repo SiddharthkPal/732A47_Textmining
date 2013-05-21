@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'chomp SMS theme add-on '
+p1
+tp2
+(S'Description:'
+p3
+S"This is an add-on to the chompSMS application that allows you to choose from a number of predefined themes.** This add-on requires the chompSMS app (at least v5.19) to be installed **Once installed, to access the themes in chompSMS, see settings, Customize Look, Themes.We'll be adding more themes soon!Recent changes:New 'Abbas SGS2' Theme"
+p4
+tp5
+tp6
+.

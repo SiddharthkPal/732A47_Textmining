@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zalando Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Experience Zalando on your smartphone now The Zalando app brings all the advantages that shopping with Zalando has on to your phone and turns it into your portable wardrobe! Buy your favorite products wherever you are, whenever you want. Our 100-day free returns and free delivery policy is always guaranteed for you. All features at a glance: \xe2\x80\xa2 Fashion trends and styles in the magazine \xe2\x80\xa2 Inspirations for new outfits with the styleshaker \xe2\x80\xa2 Safe shopping on Zalando\xe2\x80\x99s secure server \xe2\x80\xa2 User friendly search function \xe2\x80\xa2 Smooth synchronisation of your shopping bag and wish list with your customer account on zalando.de \xe2\x80\xa2 Barcode scanner \xe2\x80\xa2 Browse the various product categories \xe2\x80\xa2 Save items in your wish list Be inspired by our News & Style section for the latest outfits and discover the latest trends. Browse quickly and easily through our wide range of products and choose the nicest trends: from clothing, shoes and accessories, to sports and premium items. Furthermore, adding items to the wish list is as easy as it is to shop safely. Aside from the shopping, there are other features. The styleshaker brings some variety to your wardrobe - simply shake your Phone and allow yourself to be surprised by the outfit suggestions! Is your favourite item out of stock? With the barcode scanner you have a convenient way of searching for your favourite items on the market, all thanks to the Zalando app. Download the Zalando app to your phone and discover a whole new shopping experience!Recent changes:\xe2\x80\xa2 Performance improvements and minor bugfixes'
+p4
+tp5
+tp6
+.

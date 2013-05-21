@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Alphabet Puzzles for Toddlers! '
+p1
+tp2
+(S'Description:'
+p3
+S'your kid loves puzzles and do you want to teach your child the alphabet ? This is the app for you!alphabet puzzles for toddlers is an educational and entertaining game.It is a nice, simple, fun, and colorful game for toddlers and kids! Play with alphabet puzzles!A lot of different puzzles with letters and numbers to keep your kid busy.Easy to learn and to control:-touch the screen and drag the letter on the right place-interact with all the elements on the screen when a puzzle is solved-when a puzzle is completed tap the arrow to change to the next levelAvailable for all screen resolutions and devices, including tablet device as Kindle and Samsung !Simple and intuitive, your baby will have lots of fun for hours!This educational game will help your toddler to improve skills in problem solving, logical and cognitive skills, concentration and memory.Features:- high quality puzzle game for toddlers and preschool kids from ages 0 to 7 with colorful letters!- Easy to use and control- fun for children- learn to recognize letters, numbers and their sounds- Simple for toddlers and babies with increasing difficulty- Toddlers develop their fine motor skills by dragging and dropping puzzle pieces- Play with your child or let them play alone- use it to keep your baby or toddler occupied- A lot of alphabet puzzles! 22 in the FULL version- randomly generated puzzles! this educational game will never get old!This is the FREE version (Ads supported),If your kid likes this app, then you can buy the FULL versionwith more puzzles and no adshttps://play.google.com/store/apps/details?id=co.romesoft.toddlers.puzzle.alphabetFullFun and enjoyable to learn and play with great colorful puzzles, this is a must have app!A lot of educational puzzles for toddlers and young kids!!Your child will learn letters, numbers and will hear the pronunciation!Recent changes:- various fixes* you can unlock all alphabet puzzles and remove the advertising in the app-ATTENTION: If on your android phone the game is not working, please send to the email support the model, Thanks'
+p4
+tp5
+tp6
+.

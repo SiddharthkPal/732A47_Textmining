@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dolphin Battery Saver '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x9cNot only saves battery, but also makes the browsing faster and protects browsing security!"Optimize your Dolphin Browser by easily saving battery, browsing faster all while protect browsing security. Key Features:-  Battery saver: Save power and extend your smartphone\xe2\x80\x99s battery life with \xe2\x80\x9cONE CLICK OPTIMIZE\xe2\x80\x9d-  Browse faster: Improve your browsing speed by ending unnecessary background apps.-  Security manager: Protect your browsing security, by getting a warning when on a website with untrusted WOT ratings. Also shows you the security info (WOT ratings) of each page. Dolphin Battery Saver is an exclusive Add-on for Dolphin Browser\xef\xbc\x88Formerly Dolphin Browser HD\xef\xbc\x89. Just search \xe2\x80\x9cDolphin Browser \xe2\x80\x9d in Android Market or download here: http://bit.ly/D-AndroidWhat is an Add-on?Beef up your Dolphin Browser\xef\xbc\x88Formerly Dolphin Browser HD\xef\xbc\x89 by installing your favorite Add-ons. Similar to a desktop Plug-in, each Add-on will provides additional functionality on mobile device. Forgot password? Password Manager can help. Want a new look for your Dolphin? Download Shiny Shake to change colors. Want to read a webpage in French? Get Dolphin Translate. Click here to learn more: http://bit.ly/AndroidAdd-onListThe fine print: Dolphin Battery Saver is only compatible with Dolphin Browser HD v7.2 and higher.Other popular Dolphin Add-ons:\xe2\x80\xa2 Bookmark to SD\xe2\x80\xa2 Dolphin YouTube Search\xe2\x80\xa2 Web to PDF\xe2\x80\xa2 Dolphin Google Services\xe2\x80\xa2 Google Reader NotifierJoin the Dolphin community!Facebook: http://www.facebook.com/DolphinFans Twitter: https://twitter.com/DolphinBrowserAny further suggestions, please contact at support@dolphin-browser.com.Recent changes:* Adjusted interface design to match the latest design of Dolphin Browser.* WOT: security improved.* Low battery/security notification in Add-on bar.* Various stability and performance improvement.'
+p4
+tp5
+tp6
+.

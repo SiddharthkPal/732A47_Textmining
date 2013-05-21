@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Diabetes Log '
+p1
+tp2
+(S'Description:'
+p3
+S'"Diabetes" tracks and analyzes key diabetes data like glucose level, description, tags, which you can edit, view on interactive graphs or send them directly to your doctor! The simplest diary for diabetics.Key features:\xef\x81\xb6 Outstanding and easy to use User Interface\xef\x81\xb6 Tracking data: o Innovative TAGS feature for describing any type of an action o Date and Time o Blood glucose level - (mg/dl) or (mmo/l) o Comment / description\xef\x81\xb6 Support for many users\xef\x81\xb6 Innovative, interactive and scalable graph\xef\x81\xb6 Send your data to your doctor of anyone you want in 5 seconds!\xef\x81\xb6 Export data to: o CSV o XMLDefine with TAGS any action you like, for instance: before/after breakfast, lunch, dinner, medication, exercises, jogging. Countless possibilities in your hand! Diabetes tracking application has never been so helpful for diabetics.Just download for FREE and take control of your diabetes!Keywords: diabetes journal, diabetes diary, blood glucose diary, diabetes management, diabetic, glucose levelRecent changes:Auto range in graph.Fixed scroller sensitivity.'
+p4
+tp5
+tp6
+.

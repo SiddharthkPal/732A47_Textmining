@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Contacts EX '
+p1
+tp2
+(S'Description:'
+p3
+S'Brought to you by GO Dev Team , GO Contacts EX is yet another powerful tool, ideal replacement of stock Contacts and Dialer. It is featured by fast search, grouping, duplicates merge and secure backup/recovery. Features: 1. Quick find: by any letter, name, company, keyword.2. Group contacts: Drag&group; batch SMS or email by one-key press.3. Merge duplicated identified by name,phone number or by email address.4. Smart dialing: Only remember fraction of contact\xe2\x80\x99s number or name? No problem, just press keys, it will give the matches.5. Speed dial:press on keys call someone.6. IP Dial:Chinese area IP dial supported.7. Theme supported: Dark (included) and Spring, Ice Blue (download separately)8. Backup / restore: Save contacts to or restore them from SD card, safe and secure.9. Number attribution: Show the registered location of phone number (Only available in Chinese version. Plugin download separately).Recent changes:V2.08 Update\xef\xbc\x882012-9-17\xef\xbc\x89 1.Fixed search results abnormal.2.Fixed some other bugs.'
+p4
+tp5
+tp6
+.

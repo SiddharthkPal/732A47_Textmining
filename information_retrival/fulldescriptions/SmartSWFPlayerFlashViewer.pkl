@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart SWF Player- Flash Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'About Smart SWF Player:It is a tool application to play flash file(.swf) stored locally on the device (including sd-card).with it,to play and run swf files is now possible and easy.If you like flash animations,games,apps you will need it!Key features:\xe2\x9c\x93Can play flash animations\xe2\x9c\x93Can play flash games\xe2\x9c\x93Can play flash apps \xe2\x9c\x93Support play control\xe2\x9c\x93Support landscape full-screen mode\xe2\x9c\x93Support portrait full-screen mode\xe2\x9c\x93Very small program sizeInstallation:You need to install Adobe Flash Player Plugin before using this player.Popular Installed Device:LG Optimus 2XLG RevolutionHTC DesireHTC IncredibleHTC InspireHTC ThunderBoltHTC SensationHTC Evo 4GHTC DragonMoto Droid XMoto Droid X2Moto MilestoneMoto DefyMoto AtrixSamsung EpicSamsung Galaxy TabSamsung Galaxy S2Sony Ericsson XperiaNexus SSamsung Epic 4GMoto XT800Moto XoomAcer LiquidAcer StreamDell VenueSHARP IS03/05 SHARP SH-12C Bug Report:If you have any request or you want to notify a bug, contact me using e-mail(andy.bian.developer@gmail.com). #FAQQ - Why not work?A - Please check do you install adobe flash player plugin after that kill smart flash player task and restart it.Q - How to install adobe flash player plugin?A - You can download adobe flash player plugin on android market (https://market.android.com/details?id=com.adobe.flashplayer). But not all android2.2 device can meet the minimum hardware requirements for adobe flash player plugin . Good Luck !Q - What is SWF file?A - SWF is one of the most popular Flash container formats and it\'s used for most of the animated content and video clips on today\'s websites.Q - How to use?A - You can download flash files(.swf) from internet and copy to sd-card. Play them with this tool.Q - Why does need Internet and Phone state permissions?A - The Internet and Phone state permissions are only used to show ads.The paid version is on sale right now. It\'s called "Smart SWF Player Pro" Thank you very much for your support!#KWFlash,Flash Player,Adobe Flash File Player,SWF File Player,Flash Game Player,Flash Online Game PlayerRecent changes:-v1.38:  \t\t\t\t\t  *Mini bug fix'
+p4
+tp5
+tp6
+.

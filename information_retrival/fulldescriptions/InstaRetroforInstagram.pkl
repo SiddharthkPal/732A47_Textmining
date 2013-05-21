@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaRetro for Instagram '
+p1
+tp2
+(S'Description:'
+p3
+S'The best Retro Camera app that helps you make amazing photos with old cameras!Main features* 25 cool effects to choose from* Square format of photos* Combine them to create more than 500 unique photos* Share to Instagram* Customize frames for photos * Real emulation of vintage 10 films. Some of them are * Pinhole camera - black and white camera. * Bad Film - emulation of lomo style. * Cinema - emulation of old camera.* Share to Facebook, Flickr, Twitter* All cameras and effects are freeShare your photo with Instagram, Facebook, Gmail, Evernote and others.Important: to post photos to Instagram please make sure that you have Instagram app installed at your phone.NOTE: You need to install Instagram application before start using Retro Camera.Recent changes:Version 1.0Hey hey! We have finally shipped it! We will update the app soon!'
+p4
+tp5
+tp6
+.

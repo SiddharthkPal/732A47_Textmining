@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Virtual Guitar '
+p1
+tp2
+(S'Description:'
+p3
+S"Virtual Guitar - the best guitar for your Android! You can perform various chords and songs. It features a studio quality sounds.Guitar has 3 modes of playing live music* chord - you can pick from wide range of predefined chords* advanced chord - the chords are placed between guitar's frets so you can easily play all chords with just one touch* soloGuitar gives you 4 sound effects* clean* distortion / overdrive* country* reverbYou can tune your Guitar with pitch tunning option.The songbook gives you access to many songs with pre-arranged chords so you can play songs from various artists such as Eric Clapton, Eagles, Adele, Pink Floyd, Bob Dylan, Elvis etc.Use this great guitar if you are a guitarist or you want to become one.Recent changes:start screen redesignbug fixes"
+p4
+tp5
+tp6
+.

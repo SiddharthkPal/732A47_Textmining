@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free Wine Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Want to learn more about wine vocabulary and wine regions? Want to know how to pronounce the foreign words on the labels? This app is for you. It explains, in plain English, all the fancy words used to describe wine. This dictionary contains the words used to describe the taste of wine, which grapes are used in which wines or wine regions, and much more! It will help you increase your knowledge and appreciation of wine.With this free Wine Dictionary app you can:\xe2\x80\xa2 Browse the list of more then 900 words and definitions\xe2\x80\xa2 Search directly for a wordsIf you like wine, this app is for you!Recent changes:\xe2\x80\xa2 Now available for Android 2.3\xe2\x80\xa2 More words and definitions'
+p4
+tp5
+tp6
+.

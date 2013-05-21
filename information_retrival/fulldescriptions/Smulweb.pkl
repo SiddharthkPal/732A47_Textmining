@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smulweb '
+p1
+tp2
+(S'Description:'
+p3
+S'Met de Smulweb app zoek en blader je eenvoudig in de +350.000 recepten en meer dan 15.000 restaurants op Smulweb.nl. Met deze app zet je altijd iets lekkers op tafel.Je favoriete recepten op Smulweb bewaar je automatisch in de "cloud", zodat je ze via deze app overal direct bij de hand hebt.Alle recepten voor kerst, oud en nieuw, snel & simpel, gezond, bekend & beroemd maak je in een handomdraai.OOK NIEUW!De tientallen handige kookvideo\'s van smulweb.tv zijn te bekijken in de app, super handig met je iPhone in de keuken.Functionaliteiten:- zoeken in ruim 360.000 gratis recepten en bewaren in je eigen profiel.- recepten delen via e-mail, twitter en facebook- boodschappenlijstjes- foto\'s van recepten toevoegen- receptenvideo\'s- recepten zoeken op gerecht, keuken of thema- restaurants zoeken in de buurt en online reserveren.Recent changes:BugfixesNieuw logo en opstart icoon.'
+p4
+tp5
+tp6
+.

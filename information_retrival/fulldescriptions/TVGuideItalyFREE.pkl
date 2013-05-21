@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TV Guide Italy FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"TV Guide Italy brings the complete TV schedules of the next 7 days for more than 70 Italian channels, including all Rai channels, Mediaset (including La5 and Italia 2), Mediaset Premium, La7 and RSI.See what's on TV or scheduled for prime time, or look for a program with the search functionality.Keywords: Guida TV, palinsesto, programmiRecent changes:Bug fixing"
+p4
+tp5
+tp6
+.

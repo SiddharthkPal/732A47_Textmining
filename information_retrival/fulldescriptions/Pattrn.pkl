@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pattrn '
+p1
+tp2
+(S'Description:'
+p3
+S'Pattrn is an unique wallpaper app for phones and tablets that gives you access to the huge collection of patterns created by the COLOURlovers community.Features:* Set wallpaper automatically every day/week with the patterns of your choice* Browse the latest and most popular patterns* Search patterns by keyword or color* Keep a list of your favorite patterns* Save patterns to your Android Gallery* View community stats and color palettes of each pattern* Share patterns with your friends* Use specific patterns as your Android wallpaper* Touch devices back-to-back to transfer patterns (Android Beam)Pattern in the Feature Image:"jacked up rainbow" by freeflight (CC-BY-NC-SA)Recent changes:Twelfth beta release: * Ability to remove patterns from Favorites and Wallpapers   patterns lists (long tap to start selection) * New menu option to refresh pattern lists * Ability to clear search history from the Settings screen * Link to official website in the About screen * 3 top crash fixes * Misc UI tweaks'
+p4
+tp5
+tp6
+.

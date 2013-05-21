@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Clock Widget (Pro Edition) '
+p1
+tp2
+(S'Description:'
+p3
+S'Pro Clock Widget is a useful, hassle free, clock widget which besides showing the local time on a classic analog view, gives you the date, the local temperature, plus the current day on lunar calendar, and the present zodiac position of the moon. And what\xe2\x80\x99s more it will give a nice view to the screen of your device!Features and functions:1-\tThe Clock: shows the local time on a two-hand analog clock; DST can be set.2-\tCalendars:\tA-\tThe Digital Calendar (see fig.): in a frame locate lower part of the clock disc, you can choose for it to show either day of the week, or the date according to Gregorian, solar Hijri, or lunar  Hirjri calendars.\tB-\tThe Ring Calendar: one the outer ring of the clock disc (see fig.), a hand shows which day of the month we are (based on Gregorian or Persian calendars).3-\tThe Moon Window (see fig.): shows which day of current lunar month we are, and shows the     present moon phase.4-\tZodiac Moon Indicator (see fig.):  gives you the present zodiac position of the moon.5-\tPresent Local Temperature (see fig.): to show this feature your device must be connected to the internet, otherwise it will not show.6-\tTimes of fajr (dawn), noon, and maghrib (twilight): of these times the one which is the first forthcoming at the moment will be shown in lower half of the clock disc (see fig.).'
+p4
+tp5
+tp6
+.

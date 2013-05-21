@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ASTRO File Manager / Browser '
+p1
+tp2
+(S'Description:'
+p3
+S'ASTRO File Manager has over 40 million downloads on the Android Market and 345,000 reviews!  Organize and manage your files and content such as pictures, music, videos or documents on your phone, tablet, PC (via networking) or on cloud services like Facebook Photo Albums, Dropbox, Google Drive, SkyDrive or Box.  It\'s like Windows Explorer or Mac\xe2\x80\x99s Finder with connections to the most popular clouds.  It\xe2\x80\x99s picture view works better than standard galleries and  ASTRO is in dozens of Top Ten Android App lists and has been recommended in books. DOWNLOAD NOW.RECENT CHANGES:** Click "My Files" for file management (copy/move/delete/etc) *** NEW: Facebook Photo support* NEW: New Picture Gallery* NEW: Image Viewer enhancements including rotate picture* SkyDrive, Google Drive, Dropbox support- SWIPE SCREEN RIGHT to get to Clouds, Network Locations or Saved Searches fast- SWIPE SCREEN LEFT to get to Tools (App Backup, Task Killer, SD Card Usage), Settings and HelpIt also gives you the ability to stop processes that burn battery life and backup your apps in case you lose or change phones. Features include:  file management, cloud storage with Facebook, Google Drive, Dropbox, Box and SkyDrive, android file browser, file and/or app backup, image and text viewers, networking, Bluetooth, SFTP, Zip/ Tar, downloader, thumbnails, search files, application manager, task manager, attachments and more\xe2\x80\xa6Please visit our new support portal for a Quick Start Guide, FAQ\'s and Documentation.  http://support.metago.net.Screen Searches tabASTRO currently supports 11 languages including:  English, French, Spanish, Italian, German, Japanese, Korean, Traditional Chinese, Simplified Chinese, Russian & Portuguese.Recent changes:Changes to Music and Picture files will now update the media players correctly.Box integration. View Settings allows you to change size of icons. Fixed:ASTRO NO LONGER RUNS IN BACKGROUNDShortcut (the Star) Creation & Deletion worksSearch & Advanced Search** Click "My Files" for file management (copy/move/delete/etc) *** NEW: Facebook Photo support* NEW: New Picture Gallery* NEW: Image Viewer enhancements including rotate picture* SkyDrive, Google Drive, Dropbox support'
+p4
+tp5
+tp6
+.

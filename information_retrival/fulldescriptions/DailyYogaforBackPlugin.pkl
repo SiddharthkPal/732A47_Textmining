@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Daily Yoga for Back (Plugin) '
+p1
+tp2
+(S'Description:'
+p3
+S"This is a plugin of 'Daily Yoga (All-in-One)'. *** This app does not open on its own. ***Please first install the main app 'Daily Yoga (All-in-One)' from Google Play before using this plugin:http://goo.gl/yuDqJor you can download from our homepagehttp://www.dailyyoga.comDaily Yoga for Back includes back muscles and fit figure building routine based on 22 yoga asanas, with durations of 10 minutes, 15 minutes and 20 minutes. Demonstration videos are available to guide you through the whole sequence. Voice narration and graceful music tend to help you become more active in Yoga Learning.How does yoga practice actually build your back?Yoga practices advocates an all-around training with correct postures, healthy breathing and rational arrangement of movements. Modern people tend to suffer from hunch back and round shoulders caused by sedentary habits, as well as constant backache. Daily Yoga for Back tends to:- Build and strengthen your back muscles group, correct hunch back and cultivate good standing and sitting habits.- Activate the whole body with full hot stretching, effectively burning fats.- Relax back muscles; also alleviate waist and back pains.- Enhance flexibility of your spine by constant stretching, boosting your immunity as well.- Promote balancing, attention focus and stress relief."
+p4
+tp5
+tp6
+.

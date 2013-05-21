@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaG '
+p1
+tp2
+(S'Description:'
+p3
+S"# It's not official instagram app.# This app is made using Instagram open Api.# so it has some limitation they don't supported on Api.# I explain main features and limitations below.* main feature- sign in on instagram - follow / unfollow on detail user view by click user name- save picture on sdcard by long click main pictures- set wallpaper by long click main pictures- show near pictures recently updated.- search tag / user name (not support following private user yet)- share picture link to twitter, Facebook etc.- like / unlike- comment*Limitation (not support until instagram open the api)- upload / modify picture - user profile modify- sign upRecent changes:- delete old cached image files when it start up- improve image quality for saving sdcard (it depend on phone memory)- added more button in tag search. - fixed name search bug- support Arabic.- several bug fixed."
+p4
+tp5
+tp6
+.

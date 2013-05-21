@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OpenRice Hong Kong '
+p1
+tp2
+(S'Description:'
+p3
+S'OpenRice is Hong Kong\xe2\x80\x99s Most Popular Dining Guide You Can\xe2\x80\x99t Miss!  Features:- Comprehensive information with over 30, 000 restaurants and 550, 000 reviews - Navigate the restaurants nearby with GPS- Search for restaurants by using keyword, cuisine, district, type of restaurants, price range and other special features - Over 100 offer discount coupons from various types of restaurants (include mobile coupons) - Add Restaurant to Favorites- Photo uploader ^ The following smartphone models are tested: Sony Ericsson Experia Arc (Android 2.3.4), Sony Xperia S (Android 2.3.7), Samsung Galaxy SIII (Android 4.0.4), Samsung Galaxy SII (Android 2.3.7), Samsung Galaxy S (Android 2.3.6), Galaxy ACE S5830 (Android 2.3.7) and Google nexus (Android 4.0.2); All Android smartphone models are supported; Android is a trademark of Google Inc. Comment & Enquiry: Mobile@OpenRice.comRecent changes:1)\xe2\x80\x9cOpenRice Best Restaurant Awards 2013\xe2\x80\x9d Finalists Announced2) Minor bug fixes'
+p4
+tp5
+tp6
+.

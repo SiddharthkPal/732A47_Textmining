@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Android System Info '
+p1
+tp2
+(S'Description:'
+p3
+S'ASI provides a lot of technical infos(Hardware, System, Telephony...),Task Manager, App manager, logs viewer, battery stats, manifest viewer and more* WIDGET WONT WORK IF YOU MOVE ASI TO SDCARD (it is an android limitation)*** please contact me if your sdcard isnt shown properly**** new features coming soon! **Follow me on twitter: @3lectricSheepCredits for translations:- Dutch: Idsert Joukes- Italiano: AJtriple- \xc4\x8de\xc5\xa1tina : ond\xc5\x99ej vacul\xc3\xadk- Norsk : Torgny Seland - Spanish: Dr. Carlos Ariel FregosiniSome people are suspicious about permissions used in apps. As Android System Info use a lot of them, here are some explanations:- android.permission.INTERNETUsed for admob (to get ads) and also for flurry which gives me some infos for bugs tracking. A request can also be made to my server to check if a new version is available.- android.permission.READ_PHONE_STATEUsed to read telephony informations for the System tab.- android.permission.ACCESS_COARSE_LOCATIONUsed by admob.- android.permission.READ_LOGSUsed to read logs for the Logs tab.- android.permission.ACCESS_NETWORK_STATEUsed, in the System tab, to access betwork informations.- android.permission.GET_PACKAGE_SIZEUsed to know applications informations, for Application Manager tab.- android.permission.WRITE_EXTERNAL_STORAGEUsed to write logs to the sdcard.- android.permission.ACCESS_WIFI_STATEUsed to read wifi informations.-android.permission.RESTART_PACKAGESUsed by the task killer feature.-android.permission.CAMERAUsed to read camera informations. On some devices(like the motorola droid), accessing to camera info will make some sound.KW: android dashboard system info informations application uninstall logs radio event task process manager killer widget multitouch manifest viewerRecent changes:1.25.2: removed debug info (toast showing sdcard path).1.25.1: update for devices Asus TF700, Prestigio 7 Prime. Widget bug fix1.25.0: update for device: Toshiba AT570, language can now be changed in menu settings.1.24.1 Update for devices: Galaxy S3 LTE, HTC Rezound, HTC PH39100, HTC EVO 4G, huawei ascend D1, Liberty tab G100, Motorola Xoom.1.24.0: better handling of external sdcards1.23.1: small bug fix1.23.0:-Faster Application manager-Installer name in Application Manager'
+p4
+tp5
+tp6
+.

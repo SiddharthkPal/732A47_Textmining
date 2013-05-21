@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PubMed Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Search PubMed database with over 21 million citations for biomedical articles and life science journalsFeatures  Keyword search with options  Save search query  Save citations  Email citations  View abstract  link to full article if available  Post a comment for an article to public  Write a note to yourself  View public comments for an article  search by PubMed ID, just enter the id in the search boxPro version has more feature. Please give a tryRecent changes:Fix the title-cut problem.Add function to save into EvernoteAdd view all article link in the email'
+p4
+tp5
+tp6
+.

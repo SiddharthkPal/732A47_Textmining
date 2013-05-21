@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Weebly '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 WeeblyWeebly gives everyone a surprisingly easy way to create a high-quality site that they are proud to share. Millions of people have started a site, blog or online store on Weebly and you can too. Featured in Newsweek, The BBC and TIME, Weebly sites work brilliantly on computers, phones and tablets.From your Android, start a new blog and manage it on the go. \xc2\xa0As a site owner, check your site stats, view your form entries, and respond to customers from anywhere.Weebly for Android lets you:- Start a new blog with our powerful drag & drop creator and modern themes- Create new blog posts while on the go- Easily add text and photos to your blog posts- Receive push notifications for blog comments and form entries- Instantly respond to blog comments & form entries- Share new blog posts to Facebook & Twitter with one click- Check your site stats from anywhereWe love to hear your feedback. Please send your comments & suggestions to support@weebly.com.Recent changes:New Feature- Save new post as draftBug fixes- Fixed crashes during post publishing for some users'
+p4
+tp5
+tp6
+.

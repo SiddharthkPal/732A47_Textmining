@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Citrix Receiver '
+p1
+tp2
+(S'Description:'
+p3
+S"Citrix Receiver lets you access your enterprise files, applications, and desktops to help you be as productive on the go as you are in the office. If your company uses Citrix, you have the freedom to work on your favorite device from wherever you are. Just ask your IT department how to get started.What you can do with Citrix Receiver:Experience simple, consistent, and delightful file and app access from all of your devicesSecurely share files with anyoneIf your company doesn\xe2\x80\x99t use Citrix yet, you can install Receiver and see what it's like by using the demo - http://citrixcloud.net.For more information about Citrix Receiver, visit http://citrix.com/receiver.If you\xe2\x80\x99re looking for an app to connect to your Mac or PC, try GoToMyPC, the secure remote access app from Citrix.Recent changes:\xe2\x80\xa2  Enable the external keyboard special keys in an ICA session (Ctrl, Shift, Alt)\xe2\x80\xa2  Ability to launch a XD session from a XenDesktop version 4\xe2\x80\xa2  Reverted the Predictive text settings\xe2\x80\xa2  ASUS Nexus Device specific issue: enable the backspace button in ICA session\xe2\x80\xa2  Honor server side setting from Admin on whether the user password is saved in Receiver"
+p4
+tp5
+tp6
+.

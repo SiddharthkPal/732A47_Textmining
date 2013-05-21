@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sleep as Android Unlock '
+p1
+tp2
+(S'Description:'
+p3
+S'Unlocks the "Sleep as Android" application - the alarm clock with sleep cycle tracker. Install this "Unlock" and enjoy all features without any limitations every day: sleep tracking, graph history, sharing graphs on FaceBook, nature alarms (birds, sea, storm...), fall in sleep with music (volume down when asleep), captcha.Recent changes:- Japanese localization (many thanks to our contributor)- Protection for alarms and sleep graph when application auto-updates during sleep tracking'
+p4
+tp5
+tp6
+.

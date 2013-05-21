@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TV SideView '
+p1
+tp2
+(S'Description:'
+p3
+S'TV SideView is an application that works with selected Sony home devices such as  BRAVIA, Blu-ray Disc(TM) Player, Blu-ray Disc(TM) Home Theater System, Google TV from Sony, etc.With it, you can operate devices easily and enjoy your TV more through your smartphone or tablet device.- Key features1. Enjoying TV more: You can get details on the program you are watching on TV or disc etc., and see what people are tweeting about.2. Easily find content across various services or devices: You can search from TV programs, home network, Video Unlimited, Music Unlimited, YouTube, Netflix, web sites, applications and recorded programs on BRAVIA.3. Send a message about what you are watching to social network sites via your smartphone or tablet device.4. Others  - Remote: Use almost the same button layout as you would have on an actual remote control.  - Keyboard: Easier typing using the full QWERTY touch-screen keyboard.  - Free cursor: Enjoy more control of the free cursor with free pointing.- Additional information1. \xe2\x80\x9cTV SideView\xe2\x80\x9d will work only if your mobile device and your home device are connected to the same wireless network.2. Some functions and services may not be supported by certain home devices.3. Some functions and services may not be supported in certain regions/countries.4. The seamless link to services such as YouTube etc., is subject to change or termination without notice.Recent changes:Improving the quality of operation'
+p4
+tp5
+tp6
+.

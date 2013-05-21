@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Al Rajhi Bank '
+p1
+tp2
+(S'Description:'
+p3
+S'Al Rajhi Bank offers this free App for Android smart phone users to explore a new innovative dimension of online and mobile banking. The app consists of vibrant graphics, user friendly interface, convenient navigation combined with the latest security.The App allows you do most of your banking transactions in addition to various exciting and useful tools such as Currency Converter and ATM Locator. Android App guarantees your satisfaction and will make your banking experience useful and enjoyable.To use the online banking service you are required to provide your Al Mubasher Retail Internet Banking User ID and Password, if you are not registered, please follow the link to register on Al Mubasher Internet banking https://www.almubasher.com.sa/registration/logon.doSo, gear yourself with our latest e-banking facility and do all your banking on the move, wherever and whenever !Works best with smartphones using Android version 2.3.6, 4.0 and above.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CAIXA '
+p1
+tp2
+(S'Description:'
+p3
+S"Atualize seu aplicativo CAIXA e aproveite as novidades. Instale o aplicativo CAIXA e conhe\xc3\xa7a a nova \xc3\xa1rea \xe2\x80\x9cAcesse sua Conta\xe2\x80\x9d. Ela agora tem um novo visual, e est\xc3\xa1 muito mais simples, moderna e f\xc3\xa1cil de usar. E voc\xc3\xaa ainda pode pagar contas sem complica\xc3\xa7\xc3\xa3o usando o novo leitor de c\xc3\xb3digo de barras, conferir seu extrato, fazer transfer\xc3\xaancias e acompanhar investimentos E voc\xc3\xaa tamb\xc3\xa9m acompanha os resultados das Loterias CAIXA, localiza os canais de atendimento e os telefones CAIXA e simula as parcelas do seu financiamento. \xc3\x89 praticidade na palma da sua m\xc3\xa3oRecent changes:Novo layout do 'Acesse sua conta' Leitor de c\xc3\xb3digo de barras"
+p4
+tp5
+tp6
+.

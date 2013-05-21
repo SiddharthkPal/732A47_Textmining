@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GLARAB '
+p1
+tp2
+(S'Description:'
+p3
+S"Welcome to the world\xe2\x80\x99s most powerful WebTV technology! GLWebTV's GLARAB service offers Arabic live television programming broadcasted from around the world over the high speed public internet. The GLARAB feature-rich WebTV service provides an enhanced viewing experience in Arabic language that suits every taste and preference. GLARAB's state-of-the-art Application allows for the Arabic-speaking communities from all Arab communities living around the globe to tap into GLARAB's rich and comprehensive source of cultural, educational, musical and entertaining content from anywhere, at anytime. Now you can access hundreds of live TV Channels and international Radio Stations on your Android device. Plus, coming soon, the Video-On-Demand feature will allow you to watch thousands hours of your favourite Movies and TV series directly on your mobile device! Download the GLARAB App today and start enjoying your favourite television programming on your Android device from anywhere in the world.Recent changes:Minor fixes.Fix the freezing issues on some devices."
+p4
+tp5
+tp6
+.

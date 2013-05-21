@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VirtuaGym Fitness Home & Gym '
+p1
+tp2
+(S'Description:'
+p3
+S"* full workouts for home & gym* clear 3D demonstrations* exercise instructions* earn badges* personal trainer Brad Fit :) * NEW also download our free GPS cardio app!When you create a (free!) online profile, you will get access to 400+ exercises, 100+ workouts and 150+ badges to earn. Find workouts online, add them and synchronize with your app to workout at home or in the gym.Check www.virtuagym.com, online fitness & lifestyle platform for many extra tools, like a personal profile, free nutrition plan, goal setting and much more.Like our app? Please rate 5 stars, so we can keep improving it. Thanks!Have errors? Please let us know at apps@virtuagym.com and we'll fix it asap. Giving a 1-star rating is not going to help us much, since we then won't have a clue what's wrong.We think VirtuaGym is the most extensive and fun health and fitness solution available: it combines jefit and myfitnesspal like strength and weight training (but with 3D animations) with points and achievements like in Fitocracy and cardio tracking as with  endomondo / runkeeper; download our free separate cardio app and sync it with your online account. Get started now, it's free and we hope you like it! :)Two permissions are required: internet access to allow syncing, and storage for the exercises.Recent changes:- filter exercises by muscle group- reorder workouts by dragging the icons- optional extra countdown before workout starts- new pause screen: show upcoming exercise- fixed calculations of burned calories- updated translations"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RMVB AVI MP4 Media Player '
+p1
+tp2
+(S'Description:'
+p3
+S'This software RMVB AVI MP4 Media Player allows you to enjoy your movies to the full extent.Come on to download it to your phone.This is a new version media player.And it has increase some function for the better use.We change a new interface.Cute and fresh.At the left corner,there is a folder icon.Click it and you can collapse and expand all the files.There is a video browser icon with a musical note.Tap it and you will go to sd card directly.Open the folders which store the video files to play.While playing,you can do some operations.1.Move back or forth by clicking the process line.2.Take screenshots to save to your sd card for future use.3.Set screen mode:Crop,stretch,fit screen and 100%.4.Pinch to zoom-easily to zoom in and out by pinching and swiping across the screen.5.Adjust the brightness and volume by sliding the screenThis app is really worth your downloading.I firmly believe this app will not disappoint you.Please rank the application if you like.Screenshots can be used for demonstrating a program, a particular problem a user might be having, or generally when display output needs to be shown to others or archived. For example, after being emailed a screenshot, a Web page author might be surprised to see how his page looks on a different Web browser and can take corrective action.NB:Notification ads or icon ads are included for better service and keeping all these great apps free.Please contact us in case of bugs.'
+p4
+tp5
+tp6
+.

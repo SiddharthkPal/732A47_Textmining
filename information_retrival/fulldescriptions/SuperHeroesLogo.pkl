@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Super Heroes Logo '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a widget and not a normal application(so you won\'t find it with other applications), before giving any rating please learn how to install a widget and depending upon that give it rating.(this is added after number of users failed to know the difference between widget and apps, and down voted) To Add this Widget.Home->Menu->Add->Widgets->My Super Hero Clicking on the Logo provides more Logo Options. We bring to you the comic book stars of all time logos.Just add these Brilliant Widgets to your Phones Home Screen and feel like a Super Hero your Self. We provide different categories of super heroes Stickers/Logos from 1)Super man, 2)Spider Man, 3)Batman, 4)Green Lantern,5)Avengers6)Flashand Many More check it for your self.All these Logos are waiting desperately to take place on your Home Screen.We welcome all types of suggestions.Please provide us your feed back at blackdroidinc@gmail.comCheers and Enjoy.We have partnered with AppLovin Corporation to bring you a more social experience including but not limited to tools that allow you to: more easily invite your friends to your app, receive alerts from your friends, and receive social advertising. To serve you this experience we may share your personal data with AppLovin, and the use of your data by AppLovin is subject to AppLovin\'s Privacy Policy and Terms of Use. Both policies are available at www.applovin.com.Recent changes:Added 1x logo sticker for adjusting more number of logos in a fixed area.Added fast scroll with Alphabet Reading of the section.Added "Black lanter corps logo","Fantastic 4 figure","son of goku figure"\t\t\t,"Thor figure","War Machine figure","X men Beast figure"\t\t\t,"X men hope figure","X men storm figure","Judge dredd figure"For any suggestion/Request, please email us at blackdroidinc@gmail.com'
+p4
+tp5
+tp6
+.

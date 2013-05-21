@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WiFi Manager '
+p1
+tp2
+(S'Description:'
+p3
+S'Find, connect, manage WiFi networks. Improve connection quality with a graphical channel radar. Discover open networks around you.Includes home screen widgets: one displays detailed connection info, another lets you switch among your favorite networks with a single tap, and yet another toggles WiFi Access Point.New and improved:\xe2\x80\xa2 Better graphics, including a dark color theme;\xe2\x80\xa2 Assign your own descriptions and icons to individual WiFi networks - never forget what that "XYZ1234" network is;\xe2\x80\xa2 Switch among your favorite networks with a single tap by using the WiFi Network Switcher widget. It will even enable WiFi if needed.\xe2\x80\xa2 Automatic switching between fixed and dynamic (DHCP) IP addresses (Android Settings in 2.* can\'t do this);Some features require that you purchase the $1.75 premium package, available right in the application through Google Checkout (safe, secure).These features are: advanced per-network options (description, icon, IP address), the one-tap network widget, and two widget themes inspired by Android 4.0.All the other - essential - features are free: the widget with detailed connection info (four sizes, two free themes), scanning and connecting to networks, the network list view, the network signal radar.Orders are processed and saved by Google and can be reactivated after a phone reset / flash, or on a new phone.About requested permissions:"Change system settings" is needed to switch between fixed and dynamic IP addresses, if configured so."Prevent phone from sleeping" is needed so you can enable automatic scanning and discover open networks around you."Market billing service" is needed to make purchases.\xe2\x80\xa2\xe2\x80\xa2\xe2\x80\xa2Since version 2.5, supports per-network IP address and proxy server settings on Android 3.* / 4.*, included in the free version.\xe2\x80\xa2\xe2\x80\xa2\xe2\x80\xa2Google provides no way for developers to respond to comments. If you have an issue or a question, please contact me at kmansoft@gmail.com (email is also shown in the about box and below).\xe2\x80\xa2\xe2\x80\xa2\xe2\x80\xa2Also - a visually matching Bluetooth toggle widget. Find it below under "Related" and "Developer Info".Recent changes:*** Crashes after updating? Uninstall / reinstall often helps.2.6.8Fixed compatibility of the one-tap switcher widget with Android 4.1-4.2Added Portuguese-Brazilian translation.'
+p4
+tp5
+tp6
+.

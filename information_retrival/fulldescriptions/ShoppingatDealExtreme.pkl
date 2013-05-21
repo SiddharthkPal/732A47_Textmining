@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shopping at DealExtreme '
+p1
+tp2
+(S'Description:'
+p3
+S'Shopping at DealExtreme is designed for mobile users, which is officially approved by DealExtreme.com. With the software, you will be able to follow DX whenever and wherever you are. DealExtreme is an e-commerce platform with a wide selection of gadgets, consumer electronics, flashlights, toys, iPhone & iPad & iPod accessories, cell phones, digital cameras and camcorders, life style gadgets, DIY parts and game accessories.We dedicate to bring you a sensible shopping experience at unbeatable price and worldwide free shipping.Features:1.New Arrivals.2.Promotion Campaigns.3.Top Sellers.4.Online Payment(Paypal).5.Shopping Cart.6.Product Details: Show you SKU overview / specifications / images / reviews.7.Gadgets of the Week: Check every weekly hot deals.8.Products Searching.9.Product Categories Browsing10.Account Log in/out and Sign up.11.Wish List Management.12.Orders Tracking. online shopping,buy,dealextreme,dx,dx mobile,free shipping,store,cool gadgets, tablet pc,computer,toy, diy,cool gadgets,flashlight,electronic,Car AccessoriesRecent changes:1. Add Promotion Campaigns2. Add Top Sellers.3. Add $2 Gadgets.4. Add Online Payment(Paypal).5. Add Shopping Cart.'
+p4
+tp5
+tp6
+.

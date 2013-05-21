@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'brands4friends: Mode&Lifestyle '
+p1
+tp2
+(S'Description:'
+p3
+S'Tada! Das sind wir:-\tDeutschlands No. 1 Shopping-Club -\tBei uns gibt es die besten Must-Haves aus den Bereichen Fashion, Beauty & Home-\tJeden Tag starten dazu neue Aktionen von hochwertigen Designerlabels-\t\xe2\x80\xa6 und das um bis zu 70%* reduziert-\tDie Angebote laufen nur f\xc3\xbcr 1-3 Tage, weil wir jeweils eine limitierte St\xc3\xbcckzahl haben-\tInsgesamt sind das pro Monat ca. 150 Marken zum Freundschaftspreis Eine sichere Nummer: -\tWir sind ein Tochterunternehmen von eBay -\tVon Trusted Shops zertifiziert (Siegel f\xc3\xbcr 100% sicheres Online-Einkaufen)-\tIm Besitz des EHI Zertifikats (und erf\xc3\xbcllen damit deren Standards bzgl. Seriosit\xc3\xa4t, Datenschutz, Zahlungs-und Datensicherheit)Deine Vorteile mit der App-\tSei gleich dabei, wenn dein Lieblingsbrand den Verkaufsstart antritt-\tEgal ob im Zug oder auf dem Riesenrad: Du kannst \xc3\xbcberall shoppenLos geht\xe2\x80\x99s!-\tWenn du schon Mitglied bist, kannst du dich wie gewohnt einloggen und losshoppen-\tWenn du noch kein Mitglied bist, registrier dich kostenlos in der App oder auf www.brands4friends.de -\tDie Nutzung der App ist ohne Kaufverpflichtung oder MindestbestellwertRecent changes:* b4f Logo f\xc3\xbchrt jetzt zur\xc3\xbcck zur Aktions\xc3\xbcbersicht* Mehrere Bugfixes'
+p4
+tp5
+tp6
+.

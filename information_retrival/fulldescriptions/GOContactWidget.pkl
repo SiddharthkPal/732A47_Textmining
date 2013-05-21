@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Contact Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'GO Contact Widget makes you contact your favorite friends just directly on home screen of GO Launcher EX. You can start making a phone call, sending a message, viewing their info, sending an e-mail or having a Google talk chat with them by just one click - without opening the contacts app. To make it work, you must install the latest version of GO Launcher EX which is the most popular home launcher app in Android Market.It also supports one touch action for direct dial, send sms and view contact\'s profile. To enable this function, you can long press the contact in the widget and select the action you want in the pop-up window.Like other GOWidgets, theme is also supported.It\'s a resizable widget! You can long press it and use the "resize" option to change the size.Available Size:- 1x4- 4x4Actions:- Quick Action - Quick Contact Badge (for android 2.1 and above)- View- Call- Message- E-mail- Start Google Talk chat (Google Talk name must be set for a contact)How to add GOWidgets on your home screen?- Long press on your home screen in GO Launcher EX. Press the GOWidget option and choose the widget you like. Make sure you have enough room for the widget.Recent changes:1.\xef\xbc\x88Fix\xef\xbc\x89small problems'
+p4
+tp5
+tp6
+.

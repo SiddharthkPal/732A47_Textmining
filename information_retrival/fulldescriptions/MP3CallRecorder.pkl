@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MP3 Call Recorder '
+p1
+tp2
+(S'Description:'
+p3
+S'Mp3 Call RecorderRecord directly into high-quality MP3 files!The application "MP3 Call Recorder" supports:- Record all incoming and outgoing calls automatically in MP3 format.- Share records per Email, Skype, Bluetooth, Dropbox.- Play/Stop/Pause records using Audio Player.- Rename records.- Delete all calls from phones.- Turn ON and Turn OFF recording of calls.- Turn ON and Turn OFF toast messages.- Audio Channel is configurable. You can use Mono or Stereo. Channel Mono is guaranteed to work on all devices.- Supports the sample rate expressed in Hertz. 44100Hz is currently the only rate that is guaranteed to work on all devices,  but other rates such as 22050Hz, 16000Hz, and 8000Hz may work on some devices.All calls are saved in the folder MyCallRecordings on SD Card of your phone.Try to record with different configurations until you find best solution for your phone.Support english, russian, german, italian, french, arabic, hindi, japanese, korean, chinese(simplified), spanish, portuguese, polish, \xd1\x81zech, swedish, norwegian, dutch, danish, thai localizationIf you have any questions or suggestions please send to crabitmobile@gmail.comRecent changes:Version 1.20Support english, russian, german, italian, french, arabic, hindi, japanese, korean, chinese(simplified), spanish, portuguese, polish, \xd1\x81zech, swedish, norwegian, dutch, danish, thai localization'
+p4
+tp5
+tp6
+.

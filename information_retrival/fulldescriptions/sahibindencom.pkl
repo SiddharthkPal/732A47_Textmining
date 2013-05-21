@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'sahibinden.com '
+p1
+tp2
+(S'Description:'
+p3
+S'sahibinden.com Android Uygulamas\xc4\xb1 ile cep telefonunuzdan detayl\xc4\xb1 arama yapabilir, "Yak\xc4\xb1n\xc4\xb1mda Ara" fonksiyonunu kullanarak etraf\xc4\xb1n\xc4\xb1zdaki emlak ilanlar\xc4\xb1na ula\xc5\x9fabilir, \xc3\xb6zel mesaj okuyup g\xc3\xb6nderebilir ve ilan sahiplerini tek tu\xc5\x9f ile arayabilirsiniz.Recent changes:v1.1.1- S\xc4\xb1ralama ile ilgili sorun giderildi.- \xc3\x87oklu se\xc3\xa7imle yap\xc4\xb1lan arama daraltma i\xc5\x9flemindeki sorun giderildi.v1.0.11- Yedek Par\xc3\xa7a, Aksesuar, Donan\xc4\xb1m & Tuning kategorisi eklendi.v1.0.10- Arama daraltma ile ilgili bugfix.v1.0.9- Emlak kategorisine "geli\xc5\x9fmi\xc5\x9f s\xc4\xb1ralama" se\xc3\xa7ene\xc4\x9fi eklendi.- Mesaj almak istemeyen kullan\xc4\xb1c\xc4\xb1lara mesaj g\xc3\xb6nderilmesi engellendi.- Logo yenilendi.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ROP - Royal Oman Police '
+p1
+tp2
+(S'Description:'
+p3
+S'This is yet another initiative from Royal Oman Police (Sultanate of Oman) in enhancing its services. It benefits users by enabling the various ROP e-services on smart phones which can be availed from any location at any time.This app provides the following services and information:Services:1. Traffic offense enquiry2. Visa application status enquiry3. Call and locate nearby Police Stations listed based on GPS coordinates4. Make emergency calls to 9999Information:1. Latest news from ROP categorized as ROP news, accident news, announcements and crime.2. Information on various services provided by ROP including Procedures, Required documents, service locations and fees.3. Frequently Asked Questions about various services4. ROP Telephone Directory InformationTeam DGIT / ROPRecent changes:* Update stations lists.* Some Fixes.'
+p4
+tp5
+tp6
+.

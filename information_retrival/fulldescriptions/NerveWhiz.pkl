@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nerve Whiz '
+p1
+tp2
+(S'Description:'
+p3
+S'Designed by a neuromuscular neurologist at the University of Michigan, Nerve Whiz is a free application for medical professionals interested in learning the complex anatomy of nerve roots, plexuses, and peripheral nerves. Select which muscles are weak, or point to areas of sensory loss, and the application can provide you with distinguishing features and detailed information, complete with relevant pictures and diagrams.Features\xe2\x80\xa2\tNerve and Muscle Charts. This comprehensive inventory of the most clinically relevant muscles in the upper and lower extremities can be sorted by root, trunk, cord, peripheral nerve, action, or muscle name. \xe2\x80\xa2\tMuscle Localizer. Select muscles as weak or strong, and the application provides a list of possible localizations (root, plexus, or nerve), along with distinguishing features about each.\xe2\x80\xa2\tNerve Diagrams. Choose any localization (root, trunk, cord, or nerve), and see a diagram of that nerve in the context of the brachial or lumbosacral plexus. Toggle to \xe2\x80\x9cMuscle View\xe2\x80\x9d and the diagram shows you the muscles supplied by your chosen nerve, and from where their innervations arise. \xe2\x80\xa2\tSensory Localizer. Touch a picture of an arm or leg and Nerve Whiz suggests localizations with beautiful graphic representations of the sensory distributions of nerve roots, parts of the plexus, and nerves.NOTE: Nerve Whiz is intended to be an educational tool only. Nerve distributions vary between patients, and central or multifocal processes can mimic focal peripheral lesions. As such, this application should not be relied upon to make clinical decisions.Designed by Zach London, MDDepartment of Neurology, University of MichiganThis application was funded through the generosity of the Jerry Isler Neuromuscular Fund.'
+p4
+tp5
+tp6
+.

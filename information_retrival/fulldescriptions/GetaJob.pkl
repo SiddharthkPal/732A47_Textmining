@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Get a Job '
+p1
+tp2
+(S'Description:'
+p3
+S'This application lets you search for jobs in a multitude of countries. You can specify country, location and description of the job.You can also keep a list of favorite jobs proposals.It uses the well known indeed engine.Send me mail if you find a problem/bug.Recent changes:- Performance improvement- Bugfixes'
+p4
+tp5
+tp6
+.

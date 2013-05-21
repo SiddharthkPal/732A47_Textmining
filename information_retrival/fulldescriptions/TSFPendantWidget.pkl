@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TSF Pendant Widget '
+p1
+tp2
+(S'Description:'
+p3
+S"TSF Pendant Widget is one of TSF Shell's characteristics. It can decorate your desktop. users can change the photo,slide it around and create animation effects by clicking.Characteristics:\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d\xef\xbc\x9d1. click into settings and select a photo to crop.2. slide around photo with your finger to get animation effects.Notes:========================1. TSF Pendant Widget should be run on TSF Shell.To download TSF Shell, please access to the following link:https://play.google.com/store/apps/details?id=com.tsf.shell2. If you like our applications please give it a mark. If you have any question or suggestions about our applications please email to service@tsfui.com.========================Key Words: TSF Shell, TSF Pendant Widget, TSF Gallery widgetRecent changes:version 1.0.2bug fix;"
+p4
+tp5
+tp6
+.

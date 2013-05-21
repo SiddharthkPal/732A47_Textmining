@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Electrocardiogram ECG Types '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn to identify different types of electrocardiogram, ideal for students.Include brief explanations of the graphs.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'First Aid - American Red Cross '
+p1
+tp2
+(S'Description:'
+p3
+S"-- One of \xe2\x80\x9c8 New Apps You Don't Want To Miss\xe2\x80\x9d (6/16/2012) \xe2\x80\x93 Mashable-- One of \xe2\x80\x9c10 Great Apps for Android Tablets\xe2\x80\x9d (9/2012) \xe2\x80\x93 Mashable-- First Aid By American Red Cross is a fix for what ails you.\xe2\x80\x9d - Appolicious-- One of the 50 Best Apps for Parents of 2012 \xe2\x80\x93 Babble.com-- First Aid American Red Cross App Should be Installed on Every Phone \xe2\x80\x93 Android Police-- One of \xe2\x80\x9c8 Ways Your Phone Doubles as a Wilderness Survival Tool\xe2\x80\x9d (7/2012) \xe2\x80\x93 Mashable-- One of \xe2\x80\x9c10 apps that can save your life during a natural disaster\xe2\x80\x9d \xe2\x80\x93 ComplexTech-- One of \xe2\x80\x9c10 Online Resources to Prepare for the Mayan Apocalypse\xe2\x80\x9d \xe2\x80\x93 Mashable Accidents happen.  The official American Red Cross First Aid app puts expert advice for everyday emergencies in your hand. Get the app and be prepared for what life brings. With videos, interactive quizzes and simple step-by-step advice it\xe2\x80\x99s never been easier to know first aid. Features:\xc2\xb7 HEAT STROKE AND RELATED CONTENT NOW INCLUDED IN LEARN AND EMERGENCY TABS\xc2\xb7 Simple step-by-step instructions guide you through everyday first aid scenarios.\xc2\xb7 Fully integrated with 9-1-1 so you can call EMS from the app at any time.\xc2\xb7 Videos and animations make learning first aid fun and easy.\xc2\xb7 Safety tips for everything, from severe winter weather to hurricanes, earthquakes and tornadoes help you prepare for emergencies.\xc2\xb7 Preloaded content means you have instant access to all safety information at anytime, even without reception or an Internet connection.Interactive quizzes allow you to earn badges that you can share with your friends and show off your lifesaving knowledge.The app is ad-free and spam free.System requirementsThis app requires an SD card with 40MB of free space, and it\xe2\x80\x99ll work on Android 2.2 or upwards.Recent changes:--Version 1.3--Fixed issue with crashes on ICS devices--Version 1.2--Bug fixesContent updatesFixed crashing for certain devices--Version 1.1--Heat Stroke and related content added in Learn and Emergency Fixes most crashing for certain devicesAdded tablet supportFixed other various bugs/glitches"
+p4
+tp5
+tp6
+.

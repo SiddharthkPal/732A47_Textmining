@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Burger - Big Fernand '
+p1
+tp2
+(S'Description:'
+p3
+S'Burger is coming back! This time with a French Touch! Once again, the famous Magma Mobile burger-serving game is coming back for your best enjoyment! In association with up and coming trendy French restaurant, Big Fernand, we are bringing you a French touch to your favorite tasty game! This time, you are a brand new employee at Big Fernand and your job is to serve as many clients as fast as possible. You take orders from your customers, serving the customized sandwiches and burgers, deserts and sodas. The more you play, the more ingredients will appear in this \xe2\x80\x9c\xc3\xa0 la fran\xc3\xa7aise\xe2\x80\x9d fast-food! The faster you are, the more tips you can collect! Take up the challenge and try the Career Mode to cope with a higher difficulty each day of the year! Work from Monday to Saturday and reach your goal to get more money and new ingredients for the service. Then if you are a great employee, you will even get the opportunity to unlock all the game\xe2\x80\x99s achievements! Time is money! Try also to do your best in the Time Attack Mode to collect a maximum of coins within the time limit! This time management game will definitely entertain and challenge all the family! Features of Burger - Big Fernand Edition: -\xe2\x80\x9c100% Made in France\xe2\x80\x9d ingredients\xe2\x80\x99 list: bread, beef, pickled onions, poitrine fum\xc3\xa9e (bacon), grilled eggplant, chicken \xe2\x80\x9cmaison\xe2\x80\x9d, marinated peppers, Raclette, Fourme d\xe2\x80\x99Ambert (French blue-veined cheese), gravlax mayonnaise, barbecue sauce \xe2\x80\x9cmaison\xe2\x80\x9d, Fernandines (homemade fries), cheesecake Petit Beurre, Franstache, choco-cookie milk, organic lemonade and fruit juice. -More than 300 levels and 40 achievements for Burger addicts! So come play now Burger - Big Fernand Edition and become the master king of burgers \xe2\x80\x9c\xc3\xa0 la fran\xc3\xa7aise\xe2\x80\x9d!'
+p4
+tp5
+tp6
+.

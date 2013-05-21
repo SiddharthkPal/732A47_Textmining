@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Current Essentials of Medicine '
+p1
+tp2
+(S'Description:'
+p3
+S'The perfect quick reference on the wards and in the clinic! Current Essentials of Medicine is a practical, point-of-care pocket handbook that offers "nutshell" information on the diagnosis and treatment of more than 500 medical disorders seen in both primary care and hospital settings. Perfect as a quick reference on the wards or in a busy clinic, this is THE ONLY pocket guide to offer disease essentials in a one-disease-per-page bulleted format. Practical pearls, for which the authors are well known, are offered for almost all conditions.Features:*  To-the-point information on the diagnosis and treatment of more than 500 of the most common diseases seen in clinical practice*  Convenient one-disease-per page presentation*  Bulleted data for each disease covering Essentials of Diagnosis, Differential Diagnosis, Treatment, Pearl, and Reference*  Encompasses both ambulatory and inpatient medicine*  Includes internal medicine, plus specialties such as obstetrics/gynecology, surgery, and pediatrics*  Updated clinical manifestations, diagnostic tests, and treatment considerations throughout A search tool Featuring various search options to help you find the words you need more easily, including:   * A quick search of words while you type   * A \'fuzzy filter\' for when you are not sure of the correct spelling of a word   * A \'keyword\' search for finding key words within phrasal verbs   * A wild card search facility which can replace a letter or a group of lettersA learning toolThe dictionary app includes a number of features which help you to expand your vocabulary further:   * A \'Favourites\' feature allows you to create your own categories and lists of words   * Your last visited words are all saved in your \'History\', so that you can quickly look back at recently checked words   * Discover a new word every day with the \'Daily\' feature   * Ability to have dictionary Word of the Day as a widget on the device home screen   * See words in context with example sentences   * Online and offline modes supported, the offline mode allows you to download the whole dictionary and work independently from data connectionsRecent changes:New Features in version 4.2.048 *New stylish design *Ability to bookmark words and create favorites lists *Two pane design for tablets *Optimization for tablets with hardware keyboard'
+p4
+tp5
+tp6
+.

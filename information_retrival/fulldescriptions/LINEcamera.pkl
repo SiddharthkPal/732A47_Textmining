@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LINE camera '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85We have over 30 million users from 210 countries worldwide!\xe2\x98\x85Hola! Thanks to all you lovely users in Spain we have reached the no.1 spot in the Camera category at Google Play. Thank you all! Gracias!\xe2\x98\x85The number 1 app in the camera category of Google Play in 17 countries, including Spain, Japan, Thailand, Taiwan, Hong Kong, Singapore, Iceland, Latvia, Estonia, Cyprus, Luxembourg, Nicaragua, Kenya, Ghana, Cote d\'Ivoire, Cameroon and Senegal!With "LINE camera" you can decorate all your photos easily! This free app lets you have fun with cute and hilarious designs! Of course, we have included the usual popular characters  from the LINE app for you to use with your photos easily. \xe3\x80\x90LINE camera Features\xe3\x80\x91 \xe2\x99\xa5Many different frames and stamps are available Decorate to your heart\xe2\x80\x99s content with over 100 different frames and 1000 fabulous stamps including popular ones from the LINE app. \xe2\x99\xa5Cute and fashionable filters Create and fine-tune your ideal photos with our special filters. \xe2\x99\xa5Brushes and texts that can be used as stamps  Design and use your own unique stamps with illustrations and messages. \xe2\x99\xa5Share your photos with ease You can use LINE, Facebook and other SNS services to share your photos. ======================  \xe3\x80\x90Camera and Decorations\xe3\x80\x91   \xe3\x83\xbbTimer Function \xe3\x83\xbbOver 1000 Stamps \xe3\x83\xbbOver 100 Frames \xe3\x83\xbb20 Unique Filters \xe3\x83\xbb186 Brushes \xe3\x83\xbbCreate stamps with brushes & texts\xe3\x80\x90Share Photos with\xe3\x80\x91 \xe3\x83\xbbLINE  \xe3\x83\xbbFacebook  \xe3\x83\xbbTwitter  \xe3\x83\xbbmixi  \xe3\x83\xbbweibo  \xe3\x83\xbbCyworld  \xe3\x83\xbbme2day \xe3\x83\xbbrenren ======================Recent changes:\xe2\x97\x8fYou can check the details of all our updates by going into Settings > Notices. \xe2\x96\xbc2.11.1 \xe2\x98\x85Improvements to features.     \xe2\x98\x85Fixed bugs. \xe2\x96\xbc2.11.0 \xe2\x98\x85Added a Stamp Shop.  \xe2\x98\x85Added \xe2\x80\x9cBaby Skin\xe2\x80\x9d filter. \xe2\x98\x85New Free Crop Feature.  \xe2\x98\x85Added a function to adjust exposure when taking photos. \xe2\x98\x85Added a Grid Function.  \xe2\x98\x85Improvements to features.    \xe2\x98\x85Fixed bugs.'
+p4
+tp5
+tp6
+.

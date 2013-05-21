@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fast Food Coupons Pizza & More '
+p1
+tp2
+(S'Description:'
+p3
+S"Coupons for thousands of fast food restaurants, online and retail stores. Contributed and voted on by a community of thousands of deal savvy shoppers.Fast Food Coupons and Food Deals for many major restaurants, including:Dominos, Papa Johns Pizza, McDonalds, KFC, Wendys, Arbys, Taco Bell, PandaExpress, Popeyes, Subway, Sonicdrivein, Jack in the Box, Quiznos, SUBWAY FRESHBUZZ, Carls Jr, Culver's, Sonic Drive-In, Hardees, Dominos Pizza (Malaysia), Fazoli's, In-N-Out Burger, White Castle, BK Crown Card, Del Taco, Taco Cabana, krystal frist food, A & W Restaurants, The Flame Broiler Home, Blimpie, Which Wich?, Hardee's Spicy Buffalo, Abbott's Frozen Custard, Inc., letsdish.com, Harvey's, QuickDISCLAIMER: This website is very similar in utility to Google Search. Just the same as companies don't necessarily endorse their presence on Google Search, companies also do not necessarily endorse their presence within this application. The coupons within this application are user-contributed, and although not all of them will work, many of them do, and they are making thousands of people around the world very happy right now!"
+p4
+tp5
+tp6
+.

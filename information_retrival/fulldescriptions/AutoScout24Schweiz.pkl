@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AutoScout24 Schweiz '
+p1
+tp2
+(S'Description:'
+p3
+S'Durchst\xc3\xb6bern Sie auf Ihrem Android-Ger\xc3\xa4t das gesamte Fahrzeugangebot von AutoScout24. Die Auswahl ist riesig: Ob g\xc3\xbcnstige Kleinwagen f\xc3\xbcr Neulenker, ger\xc3\xa4umige Familienvans oder exklusive Sportwagen. Beim gr\xc3\xb6ssten Online-Marktplatz f\xc3\xbcr Fahrzeuge in der Schweiz finden auch Sie Ihr neues Fahrzeug. Die wichtigsten Funktionen im \xc3\x9cberblick\xe2\x98\x85 \xc3\x9cbersichtliche Suche: Die beliebtesten Marken sind mit Logo hinterlegt\xe2\x98\x85 Echtzeit Angebotsanzeige (z.B. Audi A3: 1250 Treffer)\xe2\x98\x85 Suchauftr\xc3\xa4ge speichern und bearbeiten\xe2\x98\x85 Markieren von Fahrzeugen f\xc3\xbcr die pers\xc3\xb6nliche Favoritenliste \xe2\x98\x85 Bildergalerie-Funktion (Zoom-In)\xe2\x98\x85 Pers\xc3\xb6nliche Merkliste und Suchauftr\xc3\xa4gen werden mit Ihrem Konto auf autoscout24.ch synchronisiert (Login notwendig)\xe2\x98\x85 Einfache Kontaktm\xc3\xb6glichkeiten mit dem Verk\xc3\xa4ufer (Anrufen oder E-Mail senden)\xe2\x98\x85 Feedback-M\xc3\xb6glichkeit direkt in der App\xe2\x98\x85 Kontakt zum Kundendienst von AutoScout24F\xc3\xbcr Fragen und Anregungen zur App stehen wir Ihnen gerne unter helpdesk@autoscout24.ch oder Tel. +41 (0)31 744 17 37 zur Verf\xc3\xbcgung.Viel Spass mit der Android-App von AutoScout24!Das AutoScout24 Mobile TeamRecent changes:Danke f\xc3\xbcr die R\xc3\xbcckmeldungen zur App!\xe2\x98\x85 Leasing- und Finanzierungsoptionen direkt auf der Detailansicht abrufbar\xe2\x98\x85 Optimiertes Laden von Fahrzeugbildern (abh\xc3\xa4ngig von der Netzverbindung)\xe2\x9c\x93 Fehler behoben & Stabilit\xc3\xa4t verbessert'
+p4
+tp5
+tp6
+.

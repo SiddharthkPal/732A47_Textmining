@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PAYBACK mobil '
+p1
+tp2
+(S'Description:'
+p3
+S'Jetzt geht\'s APP - Das einfache und mobile Punktesammeln mit PAYBACK.- Schon \xc3\xbcber 1 Million Downloads!Ihre Vorteile: \xe2\x9c\x94Sie m\xc3\xbcssen Ihre Papiercoupons nicht mehr mitnehmen, denn Sie haben Ihre eCoupons (elektronischen Coupons) immer dabei\xe2\x9c\x94So verpassen Sie keine Extra-Punkte mehr\xe2\x9c\x94 Sie k\xc3\xb6nnen sich jederzeit \xc3\xbcber Ihren aktuellen Punktestand informieren\xe2\x9c\x94Der Filialfinder zeigt Ihnen immer den k\xc3\xbcrzesten Weg zu den PAYBACK Partnern\xe2\x9c\x94Sie erhalten Infos zu allen aktuellen PAYBACK-Aktionen \xe2\x9c\x94 Sie sehen, bei welchen zus\xc3\xa4tzlichen Unternehmen Sie mobil Punktesammeln k\xc3\xb6nnen (Amazon, eBay, zalando, weltbild\xe2\x80\xa6)\xe2\x9c\x94 Profitieren Sie au\xc3\x9ferdem von weiteren Extra-ServicesSie sind noch kein PAYBACK Kunde? Kein Problem: Melden Sie sich hier direkt \xc3\xbcber die App zum Programm an - Herzlich Willkommen bei uns :)Hinweis:\xe2\x9c\x98Um alle Services der PAYBACK App in vollem Umfang nutzen zu k\xc3\xb6nnen, ist eine aktive Internetverbindung und die Zulassung zu den Ortungsinformationen notwendig.\xe2\x9c\x98Die Extra-Punkte, die Sie mit den eCoupons sammeln, werden getrennt von den Basispunkten des Einkaufs verbucht. Dies kann einige Tage dauern - alle Details dazu finden Sie auf jedem eCoupon unter "So funktioniert\'s".\xe2\x9c\x98 Jeder eCoupon kann im G\xc3\xbcltigkeitszeitraum nur einmal eingesetzt werden.Viel Spa\xc3\x9f beim mobilen Punkten w\xc3\xbcnscht das PAYBACK Team!Recent changes:\xe2\x9c\x94Nur ein paar Bugfixes.'
+p4
+tp5
+tp6
+.

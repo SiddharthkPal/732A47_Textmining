@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Personal Finance (Extra Full) '
+p1
+tp2
+(S'Description:'
+p3
+S'Finance is an application that allows you to manage your personal finances in an agile, fast, safe and simple.Registers expenses, see the summary of their accounts, and send them via mail graficarlas in Excel format.Full version and FREE.Languages \xe2\x80\x8b\xe2\x80\x8bSupported:- German- English- Spanish- French- Hindu- Italian- Japanese- Korean- Portuguese- Russian- Chinesefeatures:- Save money new revenues with date, amount and detail of income.- Save money new spending with date, amount and detail of egress.- Configure repeatable income weekly, monthly, quarterly, semi-annual and annual basis.- Configure repeatable expenses weekly, monthly, quarterly, semi-annual and annual basis.- View a summary of accounts with income and expenses.- Modify the money income and expenditure recorded.- Remove money income and expenditure recorded.- View account summary in different time periods.- See the full balance of revenues and expenditures.- Check the balance of income and expenditure for a selected period of time.- Plot your statement (income, expenses and balance).- Send by mail summary of accounts in excel format.- Share the summary of accounts via Bluetooth, Gmail, Hotmail, Skype, Google Drive, Dropbox, SkyDrive, SugarSync, instant messaging clients.- Change the background color of the application screen.- Change the language of the application.- Change the currency used in the application.- Data security with password using- Backup and recovery of the database.- And much more ...Download it Now!For suggestions, questions or problems about the application send an email to digammapps@gmail.comRecent changes:Version 1.21:- Lebanese Pound currency is added- Added main screen balance- Improvements in line graph- Bug fixesVersion 1.20:- Fixed error sending files by email- Allows you to export the account summary to Excel- Allows to move the application to SD card- Added Grivna and Rupiah currency- Added button to see period in the summary of accounts'
+p4
+tp5
+tp6
+.

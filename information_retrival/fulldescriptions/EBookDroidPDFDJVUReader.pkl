@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'EBookDroid - PDF & DJVU Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"EBookDroid is an open source (GPL'ed) document viewer for Android based on the VuDroid code base.Supported formats:PDF, DjVu, XPS (OpenXPS), Comic books (cbz,cbr), FictionBook (fb2, fb2.zip)Supported internet protocols for collaboration with electronic publications sites:OPDS (http://en.wikipedia.org/wiki/OPDS)If you find any issues or problems, please inform us here: http://code.google.com/p/ebookdroid/If you have any issues with specific document displaing please provide us this document.ATTENTION!!!!EbookDroid use mime types to handle different file types. But android and lot of file managers does not support some types. This cause that you can not open files from this file managers. Some file managers has ability to add new mime types and associate it with extension. Refer to your file manager manual or use internal file manager. Mime types supported by EBookDroid you can find in our wiki pages.Keywords: djvu, DjVu, djv, PDF, pdf, XPS, xps, comic book, cbz, cbr, reader, viewer, openxps, OPDSRecent changes:http://code.google.com/p/ebookdroid/wiki/ChangeLog- The actual version is targeted for devices with Android 2.2+- Backward scrolling fixed- Mouse wheel scrolling support added- Old predefined OPDS feeds removed- Various OPDS fixes- Various bugs fixed"
+p4
+tp5
+tp6
+.

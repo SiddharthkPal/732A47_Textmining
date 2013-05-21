@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Morre Diabo '
+p1
+tp2
+(S'Description:'
+p3
+S'"N\xc3\xa3o interessa pra voc\xc3\xaa, palha\xc3\xa7o"Leve com voc\xc3\xaa as frases marcantes do "Morre Diabo"Deixe que ele fale por voc\xc3\xaa naquelas situa\xc3\xa7\xc3\xb5es inusitadas.Recent changes:* Vers\xc3\xa3o 1.001- "N\xc3\xa3o interessa pra voc\xc3\xaa, palha\xc3\xa7o"- Agora, eMilho entra em rage quando pressionado- Vozes no Android 2.2~3 arrumadas, fal\xc3\xb4 Maluco?'
+p4
+tp5
+tp6
+.

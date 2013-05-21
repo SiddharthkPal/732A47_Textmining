@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kalori Cetveli '
+p1
+tp2
+(S'Description:'
+p3
+S'Temel besinlere ait kalori de\xc4\x9ferlerini bulabilece\xc4\x9finiz h\xc4\xb1zl\xc4\xb1 bir uygulamad\xc4\xb1r. Ayr\xc4\xb1ca hangi spor ile ne kadar kalori harcad\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1z da listeye eklenmi\xc5\x9f durumdad\xc4\xb1r. Boy kilo endeksini de hesaplayarak kilo durumunuzu \xc3\xb6\xc4\x9frenebilirsiniz. \xc4\xb0nternet ba\xc4\x9flant\xc4\xb1s\xc4\xb1 gerektirmez.Recent changes:Menu tu\xc5\x9funa \xc3\xa7\xc4\xb1k\xc4\xb1\xc5\x9f butonu eklendi.Geri tu\xc5\x9fu ile bir sayfa geriye gidebiliriz.'
+p4
+tp5
+tp6
+.

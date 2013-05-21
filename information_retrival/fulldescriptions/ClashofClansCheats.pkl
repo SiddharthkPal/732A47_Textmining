@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Clash of Clans Cheats '
+p1
+tp2
+(S'Description:'
+p3
+S'Clash of Clans Cheats & Tips is the walkthrough with full solution and tips, tricks + guide.Have fun with this application!If you are a copyright owner and you feel that our fan application violates your terms, please contact us first before submitting complaint to Google Play - we always willing to cooperate with you and we will make all required changes or remove the application.We love creating apps, and want to keep them free forever. In order to keep our development running we are using a search service to generate some revenue from this free app. This app will add a couple search links on your device in the form of an icon, bookmark link and browser homepage. You may delete them easily (drag to the trash or delete the link for the browser), if you choose to use them, thanks!'
+p4
+tp5
+tp6
+.

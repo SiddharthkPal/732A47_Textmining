@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Basic English Teacher '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn Basic English practicing in only 45 steps.  This app shows you the first 10 steps free!  Ourteacher can hear you, correct your accent, speak and check your grammar...  Multimedia vocabulary, grammar lessons, varied examples of everyday life, interactive exercises.\xe2\x98\x85 1000 vocabulary words with images, pronunciation and sentence examples\xe2\x98\x85 Text-to-speech capability\xe2\x98\x85 Integrated speech recognition for pronunciation exercises\xe2\x98\x85 Syntax checker\xe2\x98\x85 Offline mode\xe2\x98\x85 Basic English Vocabulary \xe2\x98\x85 Numerous themes\xe2\x98\x85 Free 10-step demo appComplicated text, even scientific or technical material, can be changed into Basic English too! Visit: www.simplish.orgInstallation instructions:In order for the app to run correctly it is necessary to configure the voice recognition module in Android by selecting configuration, voice input and output, voice recognition configuration needs to be set to United Kingdom English voice recognition.  The speech synthesis module also needs to be configured to generate United Kingdom English as the language selected.  If the SVOX library is not installed in your device, Google Play will automatically open the relevant page so it can be downloaded for free, as it is required in order for the app to run properly.   Note: Do not close the Python service that is enabled on the upper left-hand side as the app is opened, since this is required for its correct operation.Recent changes:You can now pause the voice generation at any time and use a zoom function on images.  We continue to work to improve the app and also get the full course with 45 steps ready soon.  For translation of complicated text in English into Basic English, visit: www.simplish.org where you can convert text into Basic english for free!'
+p4
+tp5
+tp6
+.

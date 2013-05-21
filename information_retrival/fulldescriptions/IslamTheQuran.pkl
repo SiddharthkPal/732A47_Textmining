@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Islam: The Quran '
+p1
+tp2
+(S'Description:'
+p3
+S"This application contains all the suras of the Quran (\xd8\xa7\xd9\x84\xd9\x82\xd8\xb1\xd8\xa2\xd9\x86).Each verse of the Qur'an (also called Ayat) is accompanied by its original version in Arabic, its translation and transcription so as to facilitate reading to non-Arabic speakers.You can listen to each Surah (many quranic reciters are available) and each verse separately. The reciters of Quran who are available are:- Mishary Alafasy- Saad Al-Ghamidi- Abdul Basit (Murattal and Mujawwad)- Ali Al-Hudhaify- Ibrahim Walk (English only)- Menshawy- Su'ud as-Shuraym- Maher Al-Muaiqly- Husary- Shamshad Ali Khan- Ibrahim Al-Dosary- As-Sudais- Ash-ShatreeA bookmarks system is also available.For people reading arabic, it is possible to choose among 4 differents typefaces.Each verse is translated in different languages\xe2\x80\x8b\xe2\x80\x8b:- English language- German Language- French language- Spanish Language- Italian Language- Indonesian Language- Malaysian Language- Dutch Language- Russian Language- Hindi Language - Turkish Language- Bosnian Language- Urdu Language- Chinese Language- Swahili Language- Albanian LanguageIt is possible to make word searches in the Quran for direct access to a Sura or verse one.To facilitate suras learning, is it possible to make the application repeat a range of ayats.Please note that there can be bugs or errors. If this happens, do not hesitate to contact me by email.Tags: Quran, Qur'an, Quran al-karim, the Noble Quran, muslim, islam, islamic, Allah, quranicRecent changes:Now you can choose to playback the audio from the ayat you clicked on, or you can (as it used to be) only playback the selected ayat."
+p4
+tp5
+tp6
+.

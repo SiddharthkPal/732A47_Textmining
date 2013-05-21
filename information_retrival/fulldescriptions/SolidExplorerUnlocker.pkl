@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Solid Explorer Unlocker '
+p1
+tp2
+(S'Description:'
+p3
+S"This is the full version unlocker for the Solid Explorer.IT IS ONLY THE UNLOCKER, the main app has to be installed too.===== Important ========To ensure, the unlocker will work properly, please do not use any software which will block permissions against the Solid Explorer.The READ_PHONE_STATE permission is used to generate unique hash of a device. No private data is being stored anywhere.========================Remember to install only the main app first and play with it for some time. Make sure you will purchase this unlocker only when you are fully satisfied with performance of the application.In case of any problems don't hesitate to visit the support page.If you want a refund, send an email with [REFUND] tag and order number in the title. Orders older than 2 days will not be taken into consideration."
+p4
+tp5
+tp6
+.

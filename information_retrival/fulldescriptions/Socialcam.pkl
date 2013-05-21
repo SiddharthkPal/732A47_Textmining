@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Socialcam '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 Socialcam With over 20 million downloads, Socialcam is the easiest way to capture, share and view videos on your Android phone. Now with video filters, front facing camera, upload from gallery, and a complete redesign. NYTimes: \xe2\x80\x9cThe most talked about video app\xe2\x80\x9dFeatures: \xe2\x9c\x94 Unlimited video length and storage \xe2\x9c\x94 Private accounts and private videos \xe2\x9c\x94 Video filters \xe2\x9c\x94 Share to Facebook, Twitter, Youtube, Email/SMS \xe2\x9c\x94 Fast upload in the background (no spinners) \xe2\x9c\x94 Videos stored in the cloud \xe2\x9c\x94 Watch on any smartphone, computer, or tablet \xe2\x9c\x94 Upload existing videos from your camera roll \xe2\x9c\x94 Browse, like, and comment on friends\xe2\x80\x99 videos \xe2\x9c\x94 Instantly notified when your friends take videos \xe2\x9c\x94 Live feed of your friend's favorite videosThe app is under active development, more is coming soon!Recent changes:Version 2.2.0:\xe2\x9c\x94 New expanded profile with cover image\xe2\x9c\x94 Trending hashtags\xe2\x9c\x94 Hashtags & mentions clickableVersion 2.0 & 2.1:\xe2\x9c\x94 Most views have a new design\xe2\x9c\x94 New video edit, tagging and user search interface\xe2\x9c\x94 Repost videos\xe2\x9c\x94 Bugs fixes + Major speed improvements\xe2\x9c\x94 Video filters\xe2\x9c\x94 Front facing camera\xe2\x9c\x94 Works on newest Android phones"
+p4
+tp5
+tp6
+.

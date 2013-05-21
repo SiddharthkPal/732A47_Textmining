@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NeoSoar eBooks PDF&ePub reader '
+p1
+tp2
+(S'Description:'
+p3
+S'NeoSoar eBooks is a powerful PDF & ePub reader, no need to sign in to use, it can import your favorite or any Internet download PDF and ePub, select text and look up dictionary directly, multi-language whole sentence translation, Internet resources and Wikipedia search , the results can be add into note directly in one click, not need to type or copy-paste. Provide full-page and sticky notes, color strokes, full-text search functions. Support Adobe DRM. Supported Formats:1. PDF 2. ePub 3. Adobe DRM PDF 4. Adobe DRM ePubKeywords: ebook, etextbook, pdf, epub, neosoar, adobe, drm, reader, wiki, dictionary, note, best, book, textbook, read,Recent changes:+ Fix the bug that highlight / underline not working in some situation+ Greatly improve performance. PDF rendering is now 2.25x faster than previous versions.+ Support hardware acceleration+ Support page scrolling+ Improve selection accuracy of Dictionary, Wiki and Google Search window+ Support installing on SD card+ Refine user interface on high ppi devices+ Improve network exception handling when downloading eBooks+ Fix crash on Android 2.2'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Holy Bible (NIV) '
+p1
+tp2
+(S'Description:'
+p3
+S'The Holy Bible, New International Version.The Old Testament and The New Testament included.* Note: The installation size of the application is 1.9 MB--- IMPORTANT ---You can switch New/Old Testament from application main menu (menu button). Depending on device model, main menu could be with different symbol and position.Verse numbers are on the right side of the screen.The color of verse numbers is slightly brighter than verse text.If you have problem with notice verse numbers, please contact us via mail.---The first version of the application comprises:- Daily and nightly mode for reading- Adjust the text size- Search verse by word or phrase using "quoted text"- Bookmark favorite verses- Mark favorite verses with specific color and add notesRecent changes:v1.3- New Search functionality. Accessing from application menu or search button.- The issue with font size on Samsung Galaxy Note and S3 was fixed.v1.2- New functionality. Viewing of user markers and favorites.- The verse numbers are darker.- The issue with showing more than 99 verses was fixed.Special thanks to Paul C.v1.1- The issue with application Menu was fixed.Menu option was not shown for Android v3 and higher.P.S. It would be nice to update your "1 star" rating :)'
+p4
+tp5
+tp6
+.

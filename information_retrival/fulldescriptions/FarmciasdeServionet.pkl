@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Farm\xc3\x83\xc2\xa1cias de Servi\xc3\x83\xc2\xa7o .net '
+p1
+tp2
+(S'Description:'
+p3
+S"The web site Farm\xc3\xa1cias de Servi\xc3\xa7o.net brings the reliability of it's service to the Android platform.Now you can get the on duty Pharmacies in Portugal, with their respective location and contact information, always available on your Android phone.Features:- Set your home town for a quick access to its on duty Pharmacies- Search for on duty pharmacies all over Portugal- Get the list of the Portuguese pharmacies closest to you, using your device's location- Get a list of pharmacies organized by their status, including those only open during regular business hours- Contact the pharmacies directly from the AppFor more information, go to:http://www.farmaciasdeservico.net"
+p4
+tp5
+tp6
+.

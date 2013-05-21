@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Media Converter '
+p1
+tp2
+(S'Description:'
+p3
+S"Media Converter allows you to convert all kinds of media formats to popular media formats: mp3, mp4 (mpeg4,aac), ogg (theora, flac) , 3gp (h263, aac), avi (mpeg4, mp3), mpeg (mpeg1, mp2), flv (flv, mp3) and wav. Also audio profiles:  m4a (aac-audio only), 3ga (aac-audio only), oga (flac-audio only) are available for convenience.You may also chop/clip a media file, or extract the audio to make a ring tone.You may specify the parameters including video/audio bit rate, resolution, frame rate, audio sample rate.It is easy to pick/specify the parameters with the special designed UI.Enjoy!Recent changes:0.6.1 What's new:1. Fixed: Output durations are cut for some media files.2. Improved: Can browse to root folder by return key.3. Fixed: Sometimes app force-closes when listing media files."
+p4
+tp5
+tp6
+.

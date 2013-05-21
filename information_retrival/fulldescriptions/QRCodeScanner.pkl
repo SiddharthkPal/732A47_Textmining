@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'QRCode Scanner '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your phone into a powerful professional QR Code scanner\xef\xbc\x81QRCode\xe2\x80\x99s superfast algorithms read 2D and 3D codes in the easiest manner: simply hold your phone\xe2\x80\x99s camera over the QR code and QRCode automatically decodes the mysterious black bars, without the need of taking a photo. It cannot be any easier. Once an item has been scanned, execute various actions: copy text to your clipboard, find additional information in the Web, add addresses to the address book, bookmark your favorite items, and share your results with your contacts.Special Feature: Scans medical info and search with google, to learn more about the medicine you are taking!Other Features\xe2\x80\xa2\tAutomatic detection and analysis of QR codes and barcodes using your phone\xe2\x80\x99s camera.\xe2\x80\xa2\tEasy-to-use interface.\xe2\x80\xa2\tSuper fast and highly efficient.\xe2\x80\xa2\tHistory of scanned items.\xe2\x80\xa2\tBookmark you favorite items.\xe2\x80\xa2\tLook up additional information.\xe2\x80\xa2\tShare your scan results.\xe2\x80\xa2\tFREE! No hidden costs!Feel free to contact our support if you have any questions and improvement suggestions, we want you feedback so that we can improve the app!Advertisements: the app will display a few ads to help us continuing to develop this app and to offer it for free. If you want to support us, check out the advertised products!Permissions: the app requires the permissions in order to show relevant and localized results to you. All permissions are completely harmless.'
+p4
+tp5
+tp6
+.

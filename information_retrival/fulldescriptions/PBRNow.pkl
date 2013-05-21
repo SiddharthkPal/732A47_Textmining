@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PBR Now '
+p1
+tp2
+(S'Description:'
+p3
+S"This application provides fans with access to all of the happenings around the Professional Bull Riders' (PBR) Built Ford Tough Series.The application includes news content, event information and live content and scoring.Recent changes:The world finals section has been replaced with a schedule of all upcoming and past events.You can now view the draw card in the live section for the world finals.News articles now appear in full on the app.1.0Initial release of application."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Panduan Untuk Musafir '
+p1
+tp2
+(S'Description:'
+p3
+S'Nota Panduan untuk musafir di seluruh umat Islam di seluruh Malaysia. Ia amat berguna untuk setiap muslim yang selalu bermusafir tidak kira untuk urusan kerja ataupun balik kampung di musim perayaan.Aplikasi ini tidak memerlukan sambungan internet untuk menggunakannya kerana ia akan mendownload semua kandungan pada installation pertama. Ini amat bersesuaian untuk mereka yang tiada sambungan internet di telefon mudah alih. Penerangan yang ringkas merangkumi1. Pengertian solat untuk musafir2. Hukum dan Syarat3. Niat Solat Qasar, Jamak Taqdim & Takhir4. Panduan solat di atas bot5. Panduan solat di atas kapal terbang6. Tayamum7. Cari Masjid (GPS & Internet connection)'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Official Pepsi IPL 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'Download the Official Pepsi IPL 2013 app on your Android phone to watch the latest IPL action, with live scorecard and video timeline of all matches. Stay abreast of the 6th edition of the IPL with detailed schedules, live scorecards, tournament schedule, player information, stunning Photo Galleries & latest News. Get to watch post-match video clips of fours, sixes, wickets, man-of-the-match, fun moments & lots more. Send your comments and suggestions to ipl.android@indiatimes.co.in The Official Pepsi IPL 2013 website > http://www.boxtv.com/ipl/Recent changes:* Fixed crashes on widget'
+p4
+tp5
+tp6
+.

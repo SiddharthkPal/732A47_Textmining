@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Daily Bible '
+p1
+tp2
+(S'Description:'
+p3
+S'DailyBible is the most liked Bible app on Android. Daily Bible Verse Daily Bible Reading PlanEasy & Fast Search any Bible verse of topic.Daily Bible devotionals.Bible IndexSupports many versions( NIV, KJV, ESV, etc.)Save or Share Bible verse or plan or devotions easily  on Facebook, Twitter, etcHome widget for daily Bible verse------------------------------------Daily Bible Verse :    - Start your day with a daily Bible verse. You will get automatic daily notification. You can read or just listen. Choose Bible verse in different versions like KJV, NIV, ESV, etcDaily Bible Reading Plan :   - Choose from a wide range of Bible reading plans and read Holy Bible. DailyBible can play back the reading plan. You can read or just listen.Easy & Fast Search any Bible verse or topic:  - Easily search any verse of any topic. Search from a wide range of Bible Versions like KJV, ESV, NIV and lots more. Just speak to search.Daily Bible devotionals.  - Listen to a wide range of Biblical Christian Devotions. Choose from a huge list of devotional podcasts. Read or listen from devotions.   - Save a Bibe devotional podcast and listen to it offline - Bible Index   Read or Listen to any chapter from any book in Holy Bible easily. Supports multiple Bible versions like KJV, NIV, ESV, etc.   - Save or Share Bible verse or plan or devotions easily  on Facebook, Twitter, email, text etc.-----------------------Permissions requested by DailyBible, how it is used and why it is needed-------------------------1) android.permission.INTERNET - Needed to refresh daily Bible verse, daily Bible plans, devotions and searches.2) android.permission.READ_PHONE_STATE - To automatically stop the audio (devotions, daily verse, etc) playing if any, when an incoming call comes.3) android.permission.WRITE_EXTERNAL_STORAGE - To Save verse, plan and podcasts to external storage, when you choose to save it.4) android.permission.WAKE_LOCK - So that the audio can be played in background without stopping when phone goes to sleep.5) android.permission.RECEIVE_BOOT_COMPLETED - For refreshing daily verse after phone is rebooted.---------------------------------------Recent changes:Fix for a crash seen on older firmwares'
+p4
+tp5
+tp6
+.

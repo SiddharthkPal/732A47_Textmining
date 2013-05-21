@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Floor Escape '
+p1
+tp2
+(S'Description:'
+p3
+S'Introducing one of the most addictive "Room Escape" puzzle game for Android.Solve the enigmas and open the door to escape from the collapsing skyscraper.Features:- One of the best door exit game available for ANDROID- Completely free- Mini escape games which are perfect to kill your free time- Amazing Artwork- Complete utilization of your devices special features!- Addicting mini puzzles!- Realistic graphics and Sound- Balanced difficult level from very easy to very hardHow to play - Solve the puzzle and unlock the current door to get the next level- Each level has a different puzzle to be solved- Use any possible way to unlock: Drag, Shake, Touch the floor, Swipe, Tap,Tilt ,Push Buttons and so on- Many different items availableRemember that in some rooms of the first floors you have to complete the heist in order to open the doors and advance in the game.Recent changes:Like us ? Hit the +1 button and suggest the app to your friends!2 New Levels added & several optimization and improvements on other levels.Thanks for your suggestions and comments.'
+p4
+tp5
+tp6
+.

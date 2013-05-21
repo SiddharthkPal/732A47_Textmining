@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Blendr - Chat, Flirt & Meet '
+p1
+tp2
+(S'Description:'
+p3
+S'Find nearby dates with Blendr, the free, socially flirtatious chat-to-meet app. Blendr uses your Android\xe2\x80\x99s location services to connect you with the fun singles closest to you who share your interests and want to chat it up!With more than 155 million users around the world, Blendr is the best way to break the ice with more people around you.\xc2\xa0So, are you looking to find new people or what? Blendr is free to join and use. No excuses -- get your Blend on already! The 155 million people of Blendr are waiting to chat with you.Recent changes:Blendr, the best app for chatting and meeting new people, gets even better in this new update. Chat now and find new friends in your area!- Bugs fixed and other performance enhancements'
+p4
+tp5
+tp6
+.

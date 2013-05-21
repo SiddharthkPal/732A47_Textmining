@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'XonoMail BETA- Smart Email App '
+p1
+tp2
+(S'Description:'
+p3
+S'* Current BETA restrictions *  - Available in US only. - Does NOT support Exchange enterprise email.- Does NOT support enterprise gmail account.- Categories only available with Gmail and with English email.We are working hard to bring XonoMail official version to everyone.Support / FeedbackContact us at: support@xonomail.com XonoMail is the first mail app that automatically categorizes your email. In the inbox, our smart app adds a category icon next to your email so at a quick glance, you see what the email is about. Support:- Supports email protocol:  POP3 and IMAP with Push IDLE- Automatic setup with major email accounts: Gmail, Hotmail, Yahoo, Aol...- Multiple email accounts with Unified inbox.Key Features:- Inbox: automatic category icons (Gmail only)- XonoHub: Automatic email organization by category (Gmail only)- XonoHub: Automatic email organization by Contact photo (all email accounts)Other Features:- Push mail with IMAP IDLE (Gmail, AOL...)- Email threads support- Customizable options...Disclosure:XonoMail Beta is based on the open source project K9-mail.Learn more at:XonoMail.comTwoRoadsSoftware.com'
+p4
+tp5
+tp6
+.

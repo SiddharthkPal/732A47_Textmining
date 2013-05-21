@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Belajar Tajwid '
+p1
+tp2
+(S'Description:'
+p3
+S"=English=Belajar Tajwid will help you how to learn basic Tajwid (Tajweed), it's easy and simple. Providing examples and how to pronounce, simply touch the speaker icon. Once this app installed, internet connection is not required (offline). Get started learning Tajwid!-Recommended to use 2.3.x above#Feedback please email: ecosolutionsystems@gmail.com=Bahasa=Belajar Tajwid akan membantu anda bagaimana belajar Tajwid dasar. Diberikan contoh (ayat) dan bagaimana cara mengucapkannya (sentuh ikon speaker). Setelah aplikasi ini terinstall, maka koneksi internet tidak diperlukan lagi (offline).Mari Mulai Belajar Tajwid!Rekomendasi: Android 2.3.x ke atasRecent changes:-New look - fresher menu-Recompile package (refresh package) to solve a.payment.pmx issue as reported.-To minimize error 703 (known issue) once play audio."
+p4
+tp5
+tp6
+.

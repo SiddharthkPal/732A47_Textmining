@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mp3 Media Converter '
+p1
+tp2
+(S'Description:'
+p3
+S'New Media Converter released, please visit following to try:http://market.android.com/details?id=com.AndroidA.MediaConverter Media converter allows you to convert your media (videos of flv, 3gp, mp4 and more...) files to mp4 or mp3; Advanced options supports setting  start and end positions, allows you to extract short audio from a movie to create your  ring tone.Notes:This app uses LGPL ffmpeg and mp3lame libraries as underlying codecs.Recent changes:Check out the new Media Converter at following:http://market.android.com/details?id=com.AndroidA.MediaConverter 1.2.1 Update:WImproved: Make more media format types visible, e.g. 3ga.1.2 Update:1. Added: Add advanced convert options.2. Fixed: Setting new output directory does not work.3. Improved: Mkv and more other formats support.4. Fixed: Separate codecs from app to a new package.'
+p4
+tp5
+tp6
+.

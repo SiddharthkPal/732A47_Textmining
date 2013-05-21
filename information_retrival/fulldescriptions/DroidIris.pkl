@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DroidIris '
+p1
+tp2
+(S'Description:'
+p3
+S'IMPORTANT NOTICE : Since August 1st, Bing is no more supported and will be removed from next version of the app. The reason is the API is no longer free for developers which is not suitable to keep DroidIris search free and ad-free. Thanks for your understanding, please do not post bad ratings, I don\'t really have a choice on this one.Search and browse thousands of images with this superb and smooth 3D gallery.-Free and ad-free.-Search with your favorite engine :   *Google   *Picasa  *Flickr  *Youtube  *Visualizeus   *DeviantArt  *and more to come ...-Works on Android 2.1+ and is optimized for Honeycomb tablets-Intuitive multi-touch gestures : scroll, fling and pinch-to-zoom-Save, set as wallpaper and share images you like-Integration to global search-Create home shortcuts to favorite searchContact me by mail for suggestions or support request.If you like my work you can buy DroidIris+ and browse : *SD card *Picasa/Google+ albums *Facebook albumRecent changes:2.7-New Tumblr engine-New "Mix\'em engine" for mixing search engines-Fullscreen settings and better zooming-Bugfixes and optimizations.2.6-Removed Bing (See notice in description)-Added Wikimedia-Added Vsync option for even more smoothness2.5-New 500px search engine-Lots of bugfixes2.3-More smoothness-Tweaked for ICS (Galxy Nexus)-New DevianArt engine2.2:-New pinch to zoom out gesture-Select navigation mode-This version will remain free and ad-free'
+p4
+tp5
+tp6
+.

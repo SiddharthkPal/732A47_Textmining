@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Receipts by Wave Beta '
+p1
+tp2
+(S'Description:'
+p3
+S'Help test Receipts by Wave for Android beta. We\'re working hard to give you the best app we can so we\'d love to get your feedback! Please report bugs and suggestions to support@waveapps.comTake photos of your receipts, upload it into Receipts by Wave and have it flow seamlessly into your small business accounting. No more paper clutter!Digitized data for your small business is where it\xe2\x80\x99s at. Easily track and categorize all of your receipts and connect them to Wave\'s 100%-free accounting tools built for you and your small business. KEY FEATURES:\xe2\x98\x85 Snap photos of your receipts, confirm the details and upload it into your accounting\xe2\x98\x85 Automate your bookkeeping by synching up with Wave\'s 100% free accounting tools \xe2\x98\x85 Receipts are stored in the cloud and linked to an accounting transactionKNOWN ISSUES:\xe2\x98\x85 If your Wave account was created via the Google Apps Marketplace, the "Receipts by Wave" app is incompatible at this time. We\'re currently working on a solution to this issue. Featured in: The New York Times, Forbes, Mashable, CNBC, Inc.Learn more: http://waveapps.com/wave-university/receipts'
+p4
+tp5
+tp6
+.

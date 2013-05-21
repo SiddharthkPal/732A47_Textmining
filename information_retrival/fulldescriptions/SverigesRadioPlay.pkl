@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sveriges Radio Play '
+p1
+tp2
+(S'Description:'
+p3
+S'Lyssna p\xc3\xa5 hela Sveriges Radios utbud i samma app. Alla direkts\xc3\xa4nda kanaler, och alla program f\xc3\xb6r efterhandslyssning. Poddradioprogram kan du ladda ned och lyssna p\xc3\xa5 offline. Notera att appen kr\xc3\xa4ver Android 2 eller h\xc3\xb6gre.Recent changes:Following your feedback, we have made a number of improvments: - Stability and performance. - Play is now using our new and improved API wich makes the app faster to use. Thank you for helping us improve Play. Stay in touch and keep mailing us at: mobil@sverigesradio.se.'
+p4
+tp5
+tp6
+.

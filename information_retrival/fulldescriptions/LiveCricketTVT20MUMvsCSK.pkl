@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Live Cricket TV T20 MUM vs CSK '
+p1
+tp2
+(S'Description:'
+p3
+S"Application Provides Live Streams of All Live Cricket Matches Daily.Note: We Do not Send Unwanted Notification or Spam or Shortcuts.Updated Cricket Live Streaming Daily.Features:''''''''''''''''''''''''''--No  Flash Player Required, No SignUp Req.--Quick Score Updates--Latest Cricket News & Happenings--Points Table--Cricket Highlights (T20I, ODI, Tests) + Player Profiles--Also Covers all Domestic and International T20, ODI, Test Matches Played across the World.--Full Schedule of All FormatsOur Aim:'''''''''''''''''''''''''To Build a WonderFull App which is Far Better than ESPNCricinfo, CricBuZZ & Yahoo!. For this Ur Support is Necesary. Pls Rate Us to Encourage.Contact Us:'''''''''''''''''''''''''''''''''R V Missing Anything? or Do U think we can Improve a Lot through Ur Suggessions? or Something Else? Pls dont Look Back. Just Mail us at CSFOCUS.LABS@GMAIL.COM .Happy Birthday to Sachin Tendulkar.Thanks, Hope U Enjoy Cricket with US!CSFOCUS LABSRecent changes:Mumbai Indians vs Chennai Super Kings10:30am GMT (4:00pm IST), Sunday 5th May 2013Rajasthan Royals vs Pune Warriors India2:30pm GMT (8:00pm IST), Sunday 5th May 2013Provides all the information of Ongoing Indian Domestic T20 ChampionshipIndian T20 Information provided.1) Live Coverage of T20 Match.2) Schedule.3) Latest News and Development.4) Teams information.5) Points Table.6) Statistics."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Next Music Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'Next Music Widget is a kind of distinctive plug-ins that is based on Next Launcher. The glorious visual elements and vivid playing effects of phonograph will absolutely give you unique visual enjoyment. Available Size:-2x2Actions:- Flip the widget to switch songs.- Flick left and right to switch between different songs in full screen mode.- Choose or edit the songs after entering the page of song list.How to add Next Widgets to your home screen?- Long press home screen of Next Launcher. Press the Widget option and choose the widget you like. Make sure you have enough room for the widget.If you encounter any problems or have any suggestions for our Next Launcher, please do not hesitate to tell us. Thank you very much!E-mail: golauncher@goforandroid.comFacebook: www.facebook.com/NextLauncherBlog: golauncher.goforandroid.comRecent changes:V1.61.(New) Custom scanning2.(Fix) Some FC bugs'
+p4
+tp5
+tp6
+.

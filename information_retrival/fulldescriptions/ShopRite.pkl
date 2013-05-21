@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ShopRite '
+p1
+tp2
+(S'Description:'
+p3
+S'Introducing ShopRite from Home from your Android!  Now you can order your groceries from your phone. Only supports mobile phone devices, not Android tablets.  With the newest ShopRite App for Android you can browse and purchase all your ShopRite grocery needs from your phone, and continue to use all the great tools to help you get things done at your ShopRite store; view weekly specials, create and edit your shopping list, clip coupons, view recipes \xe2\x80\x93 everything you expect from ShopRite.ShopRite from Home, Shop from your Phone, Shop from Anywhere:Start shopping on your desktop, and finish on your phone, or vise versa.Your ShopRite from Home lists and cart synchronize automatically from phone to desktop. Never ordered groceries before?It\xe2\x80\x99s easy and we\xe2\x80\x99ll even load your ShopRite in-store purchases for you, you just decide what to add to your cart. Same variety of items available in store, online and now Mobile! Running low on Shampoo?Scan barcodes from your pantry, fridge or bathroom to get real time pricing and add to your cart. Can\xe2\x80\x99t remember what you bought last week?No problem. View your past purchases and add them to your cart. Are you brand loyal or shopping by price?The filter button will be your new best friend. Don\xe2\x80\x99t like your bananas green?Add a note and let us know. We\xe2\x80\x99re shopping for you and you\xe2\x80\x99re the boss. Choose a Pick up or Delivery time.Again, you\xe2\x80\x99re the boss. Place your order quickly and easily. Save money by adding the most current Weekly Specials items to your list. The improved store locator maps out the closest ShopRite to where you are or your zip code. One tap adds Coupons your PricePlus card and your shopping list, no scissors required. Dinner panic? We have thousands of quick and easy recipes \xe2\x80\x93 add ingredients to your shopping list with one tap. Email your shopping list, and task someone else to do the shopping!The standard ShopRite Mobile App works with all ShopRite stores in Connecticut, Delaware, Maryland, New Jersey, New York & Pennsylvania.  ShopRite from Home services, including via Mobile, where available.Recent changes:What\xe2\x80\x99s new in this Version (2.1):- Enter promo codes at checkout to receive extra savings- Predictive search shows possible product searches for easier shopping- PayPal is now supported as a payment option during checkout- Save your order as a list for future shopping'
+p4
+tp5
+tp6
+.

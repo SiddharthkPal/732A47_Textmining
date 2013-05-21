@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo Effects Plugin by Aviary '
+p1
+tp2
+(S'Description:'
+p3
+S"** NOTE: You must have Friendcaster, TweetCaster, or Slices installed in order to use this plugin and requires Android OS version 2.2 or higher **Photo Effects Plugin by Aviary provides hundreds of filters, effects and enhancements options for your Twitter and Facebook photos. WIth this plugin, you can now apply these effects directly from within Friendcaster, TweetCaster or Slices and publish in seconds.Features include:+ Apply a Variety of Photo Effects+ Auto-Enhance: fix any photo with one click!+ Crop, Flip, Rotate+ Sharpen and Blur+ Redeye Removal+ Adjust Colors and Saturation+ Adjust Brightness and Contrast+ Teeth Whitening... seriously, no kidding.+ Draw On Your Photos+ Apply Text+ Stickers!+ Meme Generator+ And Much More** NOTE: You must have the latest version of Friendcaster, TweetCaster, or Slices installed in order to use this plugin. After taking a photo or selecting a photo you can edit the photo which will launch the plugin with all it's features **Recent changes:+ Latest version of SDK+ Overhauled Effects and Stickers tools with completely redesigned UI+ Updated default effects: effects are now more subtle and generally usable, based on feedback+ Fixes issue where some add-on effects were not working properly** NOTE: You must have the latest version of Friendcaster, TweetCaster or Slices  installed in order to use this plugin. After taking a photo or selecting a photo you can edit the photo which will launch the plugin with all it's features **"
+p4
+tp5
+tp6
+.

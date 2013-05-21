@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MercadoLibre '
+p1
+tp2
+(S'Description:'
+p3
+S"The official MercadoLibre Android app!Search and buy what you are looking for among the thousands of products and services published, wherever you are with your Android device, using a simple, fast and secure user interface.\xef\xbf\xbc\xef\xbf\xbcAvailable in Argentina, Brazil, Chile, Colombia, Costa Rica, Ecuador, Mexico, Panama, Peru, Portugal, Dominican Republic, Uruguay and Venezuela.Keep track of your favorite items, share them with your friends by email, Facebook, twitter and SMS, compare prices, ask questions to the sellers and buy them.MercadoLibre Mobile features:- Buy and ask questions- Search suggestions- Search filters: Item condition, buying mode, item categories, localization. - Order results by relevance and price- Bookmarks to keep track of what you are interested in- View the most relevant information of each item such as questions, description and feedback received - Pictures gallery with zoom option- Share products by email, SMS and through social networks to your friendsAnd much more!Recent changes:Version 2.4.0:- We have improved the overall app stability and our checkout flow is faster than ever- Now you can pay with your MercadoPago's account money (Only available in Argentina, Brazil, Mexico and Venezuela)- We have added support to items accepting MercadoEnvios, choose your shipping destination and calculate the shipping costs (Only available in Argentina and Brazil)- We have fixed several bugs."
+p4
+tp5
+tp6
+.

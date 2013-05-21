@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Root Browser Lite '
+p1
+tp2
+(S'Description:'
+p3
+S"Root Browser is the ultimate file manager for rooted users. Explore all of Android's file systems and take control of your Android device.Check out ROM Toolbox which has included this app and added many more features.For fast and friendly support please email us at jrummy.apps@gmail.com. We will be glad to help answer your questions and troubleshoot with you. Features include:\xe2\x98\x86Two file manager panels \xe2\x98\x86 Batch copy/paste, zip, tar, delete, move any file or folder\xe2\x98\x86 Explore apk, rar, zip & jar files\xe2\x98\x86 Change file permissions and ownership\xe2\x98\x86 View and edit any file\xe2\x98\x86 sqlite explorer\xe2\x98\x86 Move, copy, rename, and delete files.\xe2\x98\x86 Create and delete directories (folders).\xe2\x98\x86 Send files by email.\xe2\x98\x86 Add new files & folders in any directory\xe2\x98\x86 Install zips using clockwork recovery\xe2\x98\x86 Execute script files\xe2\x98\x86 Show list of files with thumbnails for images.\xe2\x98\x86 Bookmark any folder\xe2\x98\x86 Open files and folders with other apps\xe2\x98\x86 Change the theme (double tap home button)\xe2\x98\x86 Sort by name, size & date\xe2\x98\x86 Extract single files from zip/apks/jars\xe2\x98\x86 Search for files or folders"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Plants vs Zombies Tricks '
+p1
+tp2
+(S'Description:'
+p3
+S'Follow our cheats, tips, guides and jump to the next gaming level! Welcome to our unofficial video guide walkthrough for the game specially designed for Android devices where you will find super relevant information to brag to your friends including:\xe2\x80\xa2 Game reviews and gameplay \xe2\x80\xa2 Tricks, tips, secrets, hidden objects, and more\xe2\x80\xa2 Walkthrough\xe2\x80\xa2 Official sources like Facebook, Twitter and Youtube as well as other unofficial online gaming leagues when availableThis is not a game, but only a guide to play the game and it needs an internet connection to work.If allowed, this app will install an additional app to your home screen that links to more games and apps, including android tricks coming from a mobile site. if you do not want these awesome features, you can delete it or ignore it, but if you use it, we get help by promoting the app making a few cents, thus motivating us to develop more great free apps for you.This guide is not authorized or created by the authors or legal representatives of the video game for which this guide was made for. This application complies with US Copyright law guidelines of "fair use". If you feel there is a direct copyright or trademark violation that doesn\'t follow within the "fair use" guidelines please contact us to discuss.'
+p4
+tp5
+tp6
+.

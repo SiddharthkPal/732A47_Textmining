@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Messenger Play! '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Now with Facebook Chat! \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Enjoy a faster, smarter, richer Windows Live Messenger (MSN) on your phone or tablet.Stay in contact and send messages with all your friends!\xe2\x98\x85 Chat with Facebook friends (new !)\xe2\x98\x85 Access Hotmail and Skydrive (new !)\xe2\x98\x85 Get free push notifications so you never miss a message \xe2\x98\x85 Stay connected in background mode\xe2\x98\x85 Update your status and profileSEND FREE UNLIMITED messages to your friends on WLM (MSN), Facebook, Yahoo ! All you need is a 3G or Wifi connection!-----------------------------------------------------------------We are always excited to hear from you ! Help us to improve the application by sending feedback, questions or concerns at : android-support@live.comRecent changes:Improved connectivityPerformance and stability improvementsBug fixes on conversations'
+p4
+tp5
+tp6
+.

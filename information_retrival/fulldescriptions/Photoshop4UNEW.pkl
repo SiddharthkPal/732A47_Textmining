@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photoshop 4U NEW '
+p1
+tp2
+(S'Description:'
+p3
+S'with this application, you can learn Photoshop for free at no charge.free videos Tutorials:*Face retouching*Professional image editing*Web DesignThe most popular tips and tricks of Adobe Photoshop CS5 & CS6....And much more!!!'
+p4
+tp5
+tp6
+.

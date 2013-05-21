@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Ginger's Birthday "
+p1
+tp2
+(S'Description:'
+p3
+S"Talking Ginger is turning 5 and it's time for the best birthday party ever - with awesome food, fun games and a happy little kitten. And yes, you're invited! Pick from a variety of yummy snacks to feed Ginger and make his tummy happy. Grab a party whistle and blow it until you\xe2\x80\x99re out of breath. And what\xe2\x80\x99s a good birthday party without a huge cake, right? Help Ginger blow out all the pesky little candles now! Every time you feed Ginger, make some noise with the party whistle and blow all the candles out, you unlock new puzzle pieces of Ginger's birthday party memories. There are 40 jigsaw puzzles to unlock (with more to come!), so you better get started fast. ;) HOW TO PLAY - Talk to Ginger and he will repeat. - Poke or swipe Ginger to see his funny reactions. - Blow out the candles on the birthday cake. Great mini game! - Feed him with snacks. - Blow the party whistle. - Press the jigsaw puzzle button to see all the images you've collected. - You can even scatter the puzzle pieces and put them back together. - Press the feeding button to eat with Ginger. HOW TO GET SNACKS - Every 24 hours roll the Wheel of Fortune and win free snacks. - Subscribe to a feeding reminder and get free snacks (you will receive a push notification). - Watch a video or choose one of the other ways to earn free snacks. - Make an in-app purchase. You can even get an infinite supply of snacks and never worry about it again.Recent changes:- No more black screen on launch (some devices).- We fixed other minor bugs."
+p4
+tp5
+tp6
+.

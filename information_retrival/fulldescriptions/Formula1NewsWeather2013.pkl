@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Formula 1 News & Weather 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'Formula 1 Weather & News is the all-in, must have app for all F1 fans! This app keeps you updated on everything you want to know about the F1!** Updated for the 2013 season!\xe2\x98\x86 Highly detailed weather forecasts, displayed in separate event days: Practice, Qualification and Race (Temperature, wind-chill, humidity, air pressure, wind speed, wind direction, visibility, overall wind and weather conditions) \xe2\x98\x86 F1 News (available in 75 languages/regions! You can select your region in the settings menu.)\xe2\x98\x86 Weather Radar images for every GP weekend\xe2\x98\x862012 Qualification, Race and pitstop data, and same data for 2013 when it comes available!\xe2\x98\x86 F1 Championship standings\xe2\x98\x86 Championship Calendar (With time zone conversion option)\xe2\x98\x86Detailed Track information (details like: Track length, GP length, track record, record driver and more!)\xe2\x98\x86Historical race information from 1950 to now (Ergast.com)\xe2\x98\x86\xe2\x98\x86 Unlike most apps all weather forecasts are the exact time of the event, not the entire day! And the weather forecasts are pinpointed on the exact location of the track not the entire city or region!All dates and times can be converted to your own time zone. You\xe2\x80\x99ll know exactly when to turn on the TV so you won\xe2\x80\x99t miss a second!All distances can be converted from Kilometers to Miles, and temperatures from Celsius to Fahrenheit.Updated very frequently, so if you encounter any issues please contact me at info@grandprixweather.com and I\xe2\x80\x99ll fix it quiclky!Note: Comments and suggestions are always appreciated. If you enjoy using Formula 1 Weather & News, please leave a rating!Find us on Twitter: @F1WeatherCopyright:This App is unofficial and is not associated in any way with the Formula One group of companies.  F1, FORMULA ONE, FORMULA 1, FIA FORMULA ONE WORLD CHAMPIONSHIP, GRAND PRIX, FORMULA ONE PADDOCK CLUB, PADDOCK CLUB and related marks are trade marks of Formula One Licensing B.V.Recent changes:1.67:This release should fix the crash some people are experiencing during the start/loading of the app.If the app still crashes please remove and reinstall OR empty cache and temporary files from the Android settings menu.'
+p4
+tp5
+tp6
+.

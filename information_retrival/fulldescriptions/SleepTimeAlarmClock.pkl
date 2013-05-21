@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sleep Time - Alarm Clock '
+p1
+tp2
+(S'Description:'
+p3
+S"Introducing Sleep Time by Azumio, the next generation sleep cycle alarm clock that will leave you feeling rested after every night's sleep!Sleep Time uses the sensitive accelerometer in your Android to detect movements during the night. Our advanced algorithm determines your phase of sleep, and sets off the alarm at the perfect moment. You will never wake up from a deep sleep feeling groggy again. Find out why over 30 MILLION users love our apps!FEATURES\xe2\x98\x85 Set the alarm clock with a single gesture\xe2\x98\x85 Alarm rings even in silent mode\xe2\x98\x85 Choose from any of our 20 built in alarms\xe2\x98\x85 Sleep Lab\xe2\x84\xa2 with sleep cycle analysis\xe2\x98\x85 Advanced wake-up optimization algorithm\xe2\x98\x85 Full history and graphs make comparison easy\xe2\x98\x85 No glasses needed for our easy to read interface!Let us know how you like the app! Visit us at: www.azumio.comSweet Dreams!Recent changes:Tab switching reliability and speed improvementsGUI updates"
+p4
+tp5
+tp6
+.

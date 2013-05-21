@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Grammar & Spelling Keyboard '
+p1
+tp2
+(S'Description:'
+p3
+S'Ginger Grammar and Spelling Keyboard is a free, simple-to-use app that corrects typos, errors and misused words with a single click.Ginger "...allows users to send better, less embarrassing texts and higher quality writing" \xe2\x80\x93 TechcrunchGinger is the only English grammar and spell checker online that works on any app, any time. It\'s the best way to communicate on your Android! The Keyboard understands your context, and helps you send messages without spelling typos and grammar errors.Use it to correct your text messages, Whatsapp messages, Gmail and Outlook emails, and even social media apps such as Facebook, Twitter and more- it\'s the only grammar and spelling app that understands your terminology, names and even slang!Unlike text-correction software in which you need to copy and paste your texts to proofread them, the Ginger Keyboard contextually understands your writing and corrects your mistakes as you type.Download Ginger Grammar and Spelling Keyboard for free! To use Ginger Keyboard:1. When the installation wizard opens, enable Ginger on your device input list. Don\xe2\x80\x99t forget to click Back after completing step 1!2. After Ginger is enabled, set it as your default keyboard.The Keyboard can be integrated with any Android device \xe2\x80\x93 no need to download any additional software!** Internet connection required **Ginger supports devices that use these languages: ArabicAzerbaijaniBulgarianCatalan CzechDanishDutchEnglish (US)English (UK)English (AU)SpanishEsperantoFinnishFrenchGeorgianGermanGreekHebrewHungarianItalianKoreanKoreanNorwegianPersian PolishPortugueseRussianSerbianSlovakSlovakianSwedishThaiTurkishVietnamese** Ginger respects your privacy. The Grammar and Spelling Keyboard does not keep any password fields.Use of this app falls under our privacy policy: htttp://www.gingersoftware.com/termsandprivacy/. **Recent changes:* Better correction abilities* Improved tutorial screens* Share with your friends!'
+p4
+tp5
+tp6
+.

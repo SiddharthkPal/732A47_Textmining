@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lo sapevi che '
+p1
+tp2
+(S'Description:'
+p3
+S"Simpatica applicazione che raccoglie moltissime STRANEZZE del mondo da poter condividere con i propri amici tramite Facebook Messenger, Whatsapp, Viber,e-mail o semplicemente tramite messaggi.Recent changes:LO SAPEVI CHE 2.0 -Aggiunte piu' di 1000 curiosita'-Grafica leggermente migliorata-corretti alcuni bug"
+p4
+tp5
+tp6
+.

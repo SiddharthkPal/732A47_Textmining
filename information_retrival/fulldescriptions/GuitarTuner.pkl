@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Guitar Tuner '
+p1
+tp2
+(S'Description:'
+p3
+S"A Guitar TunerIf guitar tuner audio is too quiet, please email me your phone model, thanks!Select string in Guitar Tuner, then tune your guitar string to that note. G.This guitar tuner works like a pitch pipe for guitar.Don't know which notes to tune the strings of your guitar to? This app shows you with a graphical guitar, and by playing the guitar notes for each string. With this mobile phone guitar tuner, you'll never forget a tuner for your guitar again!Be a guitar hero, tune your guitar!NEW: - Guitar notes are acoustic - Guitar tuner is louder"
+p4
+tp5
+tp6
+.

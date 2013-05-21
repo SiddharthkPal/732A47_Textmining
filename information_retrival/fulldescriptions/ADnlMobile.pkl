@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AD.nl Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Download gratis de app van AD en blijf ook onderweg op de hoogte van het laatste nieuws. Alle artikelen van AD.nl nu ook op je Android phone! AD.nl Mobile biedt jou helemaal gratis de volgende nieuwsdiensten aan: - De belangrijkste actuele gebeurtenissen in Nederland en in de wereld, onmiddellijk op onze startpagina- Top 10 meest gelezen: een selectie van de meest gelezen artikelen op AD.nl- 24u Nieuws: de klok rond een overzicht van al het nieuws, gegroepeerd in de rubrieken die je al kent van AD.nl: Nieuws, Sportwereld, Showbizz, You, Consument, Digitaal & Planet Watch- 24u Sportwereld: al het sportnieuws op \xc3\xa9\xc3\xa9n overzichtelijke pagina- 24u Showbizz: al het showbizznieuws op \xc3\xa9\xc3\xa9n overzichtelijke pagina- Nieuws, Sport en Showbizz in Beeld: de mooiste en spectaculairste foto's, met onderschriften en beschikbaar als slideshow- Geef je mening over actuele thema's in onze polls- Lees de commentaren op de artikelen en geef zelf jouw ongezouten mening- Deel de artikelen die je leest via e-mail, Facebook, Twitter en HyvesAlgemeen Dagblad is een uitgave van De Persgroep Nederland.Recent changes:-/ Deze update corrigeert een aantal problemen in de huidige versie.-/ Voor oude Android toestellen is het menu om te sharen en te reageren opnieuw beschikbaar.-/ Ook andere crashes - binnen 24u nieuws en tijdens het swipen tussen artikels - werden opgelost."
+p4
+tp5
+tp6
+.

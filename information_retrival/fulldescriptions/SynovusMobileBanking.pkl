@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Synovus Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'Synovus Mobile Banking App for Android\xc2\xaeDownload at no charge for customers of any Synovus Bank division.*You\xe2\x80\x99re always on the go, and now your bank is too! When you don\xe2\x80\x99t have time to stop in and speak with us, use this free app to:- Check Account Balances - View deposit, loan and credit card account balances- Review Account Activity - View recent account transactions- Transfer Funds - Transfer funds between your consumer accounts with us, including loans and credit cards- Pay Bills - Make online bill payments and manage pending payments- Locate Us \xe2\x80\x93 Search for branches and ATMsGetting StartedTo use the Synovus Mobile Banking app, you must be registered in OnLine Access Internet Banking. SecurityTo use this app, you will be required to provide login credentials including a username, password and responses to security questions. Your account information is protected through advanced encryption technology, and full account numbers are never displayed or transmitted.Divisions of Synovus Bank include:The Bank of Tuscaloosa, CB&T Bank of East Alabama, Coastal Bank and Trust of Alabama, Community Bank & Trust of SE Alabama, The First Banking of Jasper, First Commercial Bank, First Commercial Bank of Huntsville, Sterling Bank, Coastal Bank and Trust, First Coast Community Bank, Synovus Bank of Florida, Synovus Bank of Jacksonville, Tallahassee State Bank, AFB&T, Bank of North Georgia, Bank of Coweta, CB&T Bank of Middle Georgia, Citizens First Bank, The Coastal Bank of Georgia, Cohutta Banking Company, Columbus Bank & Trust, Commercial Bank, Commercial Bank and Trust, First Community Bank of Tifton, First State Bank & Trust, Georgia Bank & Trust, SB&T, Sea Island Bank, NBSC, Trust One Bank and The Bank of Nashville*We will not charge you for downloading and using this app. Check with your mobile carrier for information on messaging and data rates.Recent changes:Software Update.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Complete Alex Jones '
+p1
+tp2
+(S'Description:'
+p3
+S"The Ultimate Alex Jones experience for android devices!  You can listen to Alex's live stream. You can stream or download previous episodes of the Alex Jones Show to your device.  Comes with an optimized built in player (or you can use an external one).  Watch all of Alex's videos on youtube. Keep up with the latest news and hottest topics from prisonplanet and Alex's twitter feed.  If you want Alex, this is the only app you need!  Keep those feature requests coming.Alex Jones is an American talk radio host, actor and filmmaker. His syndicated news/talk show The Alex Jones Show, based in Austin, Texas, airs via the Genesis Communication Network over 60 AM, FM, and shortwave radio stations across the United States and on the Internet. His websites include Infowars.com and PrisonPlanet.com.Curious about the permissions? Read more at http://goo.gl/GPXJ2Recent changes:Added in-app donations to remove banner ads (check the menu)fixed several shoutcast bugs for incoming calls/notificationsmajor re-factoring of the audio sub-systemimproving battery issuesfixed many crashesI'm 110% dedicated to making this a flawless app, but I'm one guy doing this in my spare time.  I want to say thanks to those of you who contact me (info@droidworks.com) and report bugs, it really helps."
+p4
+tp5
+tp6
+.

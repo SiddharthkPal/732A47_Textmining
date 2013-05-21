@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glasgow Coma Scale '
+p1
+tp2
+(S'Description:'
+p3
+S'Assessing the level of consciousness on a scale Glasgow coma in 3 clicks, the lack of advertising, the minimum application size. Nothing in excess!The proper support for devices with different screen sizes (including tablet PC) has been done.The application is available in the following languages:- English- Russian- German- French- Ukrainian (With support from Beloshapka Andrew)- Spanish   (With support from Carlos Andres Campos)- Turkish (With support from Cemalettin \xc3\x87al\xc4\xb1k)- Italian (With support from Alexander945)Any suggestions, inquiries, and requests for adding other languages are welcomed by e-mail to drchernj@gmail.com with the "Android-Glasgow" mark in the subject line. Please, help us to make the application available in your own language.Keywords: Glasgow Coma Scale, assessment of consciousness, neurology, critical care medicine, anesthesiology, pediatrics, drug and alcohol abuse, toxicology, diagnosis, calculatorRecent changes:v.2.4- Italian localization (With support from Alexander945)v.2.3- Turkish localization (With support from Cemalettin \xc3\x87al\xc4\xb1k)v.2.1- German localization- French localizationv.2.0- Added the possibility of recommending the program to friends- Optimized to work with different orientations of the screenv.1.8- Spanish (With support from Carlos Andres Campos)'
+p4
+tp5
+tp6
+.

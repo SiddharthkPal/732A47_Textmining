@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cardiology '
+p1
+tp2
+(S'Description:'
+p3
+S'The Focus Concise Animated Dictionaries are the world\xe2\x80\x99s first ever comprehensive animated dictionaries in any discipline. Dictionaries that provide definitions of medical terms using lifelike 3D animations apart from text is a long felt need in the medical sciences and these Concise Animated Dictionaries fulfil that need quite effectively. They cover a range of medical terms in each discipline, making them a complete reference source. These dictionaries are user friendly, and arranged alphabetically making search quite easy. Being unique visual dictionaries, they are excellent reference sources for health professionals, students and health consumers. The videos play independent of the internet once downloaded. The FOCUS CONCISE ANIMATED DICTIONARY OF CARDIOLOGY is the first ever animated dictionary in the subject. A valuable reference for physicians and students alike, it covers over 365 Cardiology & related terms. All the definitions are explained through 3D animated videos.Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

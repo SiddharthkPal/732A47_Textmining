@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mondo Volantino '
+p1
+tp2
+(S'Description:'
+p3
+S'Mondo Volantino (*) \xc3\xa8 la nuova applicazione per consultare dove vuoi e quando vuoi i volantini e cataloghi presenti in Italia. Con questo App potrai trovare in tempo reale le offerte nei negozi e supermercati sotto casa tua.(*) Con Mondo Volantino PLUS, potrai scaricare i PDF dei volantini per leggerli quando vuoi e dove vuoi.Il database di Mondo Volantino \xc3\xa8 aggiornato in tempo reale tutti i giorni. Sono coperti tutti i tipi negozi e catene a livello locale o nazionale nei diversi settori:-Grande distribuzione (supermercati e ipermercati).-Elettronica e tecnologia,-Faidate e arredamento,-Discount,-Cash & carry,-Cosmetici,-Giocattoli,-Biologici,-Farmacie,-e tanti altri ...Qui puoi vedere tutte le promozioni e offerte presenti nei cataloghi e volantini dei principali marchi per sapere dove conviene e quando conviene:-Ipercoop-Carrefour-Conad-Esselunga-Auchan-E.Leclerc-Simply-Mercatone Uno-Ikea-Leroy Merlin-Lidl-Mediaworld-Euronics-Expert-e centinaia di altri marchi...L\xe2\x80\x99App disponibile per Android ti permette di vedere agevolmente il tuo preferito fra i Centinaia di volantini pubblicati.Tra le funzioni principali abbiamo:-Consultazione Offline e Online dell\xe2\x80\x99elenco volantini.-Ricerca dei volantini per Catena di distribuzione e Categoria di merce.-Ricerca volantini in base ai contenuti.-Filtro in base alla localizzazione corrente dello smartphone/tablet.-Aggiornamento Online dell\xe2\x80\x99elenco volantini.-Visualizzazione (Online) dei volantini.-Visualizzazione Punti Vendita in mappa.-Sezione Anteprima.-Sezione Preferiti.-Schermata di avvio con le novit\xc3\xa0.-Gestione preferenze.-Possibilit\xc3\xa0 di spostare i dati sulla memoria esterna (SD card).e ancora nelle prossime versioni:-Nuovo visualizzatore nativo pi\xc3\xb9 performante e agevole.-Possibilit\xc3\xa0 di scaricare volantini e cataloghi sulla SD card per vederli offline quando ti pare.-Integrazione coi social media.Recent changes:- Ora si pu\xc3\xb2 spostare sulla scheda SD.- Sono stati risolti alcuni malfunzionamenti.'
+p4
+tp5
+tp6
+.

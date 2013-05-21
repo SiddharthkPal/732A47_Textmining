@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iKatastr '
+p1
+tp2
+(S'Description:'
+p3
+S'Map and information from Czech cadastral office available directly in a field according to a location context. Application makes possible to show not only cadastral maps (\xc4\x8c\xc3\x9aZK) but also other layers as aerial images, protected zones, polluted areas (CENIA) or number of buildings and parcels. Layers with flooded area by 5, 20 and 100 years floods (DIBAVOD) are also available in the application.Support communication with portal www.ikatastr.czAvailable map layers:Cadastral mapStreet and ortofoto mapNUmber of buildings and parcelsFlood in Czech Republic 2006 Flooded area for 5, 20 a 100 years water floodPolluted areasProtected areasMaps are available from WMS sources of \xc4\x8cesk\xc3\xbd \xc3\xba\xc5\x99ad zem\xc4\x9bm\xc4\x9b\xc5\x99ick\xc3\xbd a katastr\xc3\xa1ln\xc3\xad (\xc4\x8c\xc3\x9aZK), \xc4\x8desk\xc3\xa9 informa\xc4\x8dn\xc3\xad agentury \xc5\xbeivotn\xc3\xadho prost\xc5\x99ed\xc3\xad (CENIA) a DIgit\xc3\xa1ln\xc3\xad B\xc3\x81ze VOdohospod\xc3\xa1\xc5\x99sk\xc3\xbdch Dat (DIBAVOD)Recent changes:Fixed mailing address to ikatastr.cz.'
+p4
+tp5
+tp6
+.

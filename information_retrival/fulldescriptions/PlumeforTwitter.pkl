@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Plume for Twitter '
+p1
+tp2
+(S'Description:'
+p3
+S"Plume is a beautiful and completely customizable Twitter app that will revolutionize the way you use Twitter! Brought to you by the authors of the popular Beautiful Widgets, Plume is one of the best Twitter clients for Android! (Plume was formerly known as Touiteur)- Colorize your timeline/friends from Twitter- Multiple twitter accounts support- Scrollable widgets to display your twitter timeline on your home- Lockscreen widget (Android 4.2+)- Mute twitter users, word or applications- Facebook timeline & posting- Live Streaming in app- Picture preview in timeline, large view of images with pinch to zoom- Twitter geotagging- Swipe scrolling- Very customizable- Internal browser- Autocomplete twitter hashtags and username- Share photo with Twitter, Twitpic, YFrog, Mobypicture, MyPict.me- Bit.ly support for your URLs- Inline twitter conversation- Display replies to a tweet- Display twitter profiles- Pull to refresh- a lot more! Plume is a beautiful, highly customizable Twitter client, which will change the way you feel about Twitter!Recent changes:2013/04/17- fix a crash when detecting Twitter 'Black Out' periods- misc. crash fixes2013/04/11- notify the user when TweetMarker times out on reading- fix adding a Twitter account not working in some cases- fix picture rotation on Twitpic, Mypict.me and Twitgoo- fix the uploaded picture link with MyPict.me, MobyPicture, Twitgoo- fix Twitter URL handling from emails- show the selected viewer account in the ActionBar- speed up loading conversations- misc crash fixes"
+p4
+tp5
+tp6
+.

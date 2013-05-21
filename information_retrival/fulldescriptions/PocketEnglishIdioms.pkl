@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pocket English Idioms '
+p1
+tp2
+(S'Description:'
+p3
+S'- An idiom reference application.- More than 3000 idioms.- Search for idioms.- Quiz with idioms.Recent changes:Add quiz'
+p4
+tp5
+tp6
+.

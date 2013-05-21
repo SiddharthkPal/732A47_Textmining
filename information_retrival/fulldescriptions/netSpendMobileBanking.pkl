@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'netSpend - Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S"Your money stays with you wherever you go. The NetSpend mobile banking App gives you the power to manage your account on the move. Never worry about whether or not you've got enough cash to buy lunch. When you get the app, you'll be able to check your balance in just a few seconds. You can also see your recent transactions, find the closest load location and call Customer Service with one tap - all from your Phone! Secure, Fast, and Free The security of your money and information is our highest priority. The app was built using the highest standards of mobile web security to ensure only you can access your account. Your account number is never shared and no private data is ever stored on your phone. Your account can be accessed using the same username and password you've already established on the web. Best of all, the NetSpend mobile banking App is FREE!"
+p4
+tp5
+tp6
+.

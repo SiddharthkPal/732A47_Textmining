@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaMessage '
+p1
+tp2
+(S'Description:'
+p3
+S"InstaMessage allows you to connect directly with nearby users or anyone you like on Instagram, privately!Want to talk privately with Zooey Deschanel, friends or any other Instagram user? Your dream has finally come true. Feeling too shy to post a comment on Instagram? WE UNDERSTAND. Now with InstaMessage you can enjoy a totally private conversation with any Instagram user whose photos attract you the most. Features:\xe2\x9c\x93 Chat with friends or any Instagram user privately\xe2\x9c\x93 Browse profiles of anyone you are interested in and start chatting immediately\xe2\x9c\x93 Discover popular InstaMessage users automatically via our smart recommendation engine\xe2\x9c\x93 Sign in with your Instagram Account, NO registration\xe2\x9c\x93 View nearby InstaMessage users and begin chatting\xe2\x9c\x93 Block List: Prohibit selected users from contacting youDownload the app, and start talking with anyone you like right now!------------------------------------------------------------------------------------------InstaMessage fans be sure to check us out on Twitter, Facebook and Instagram. Big things to come. Find out first! - Like us on Facebook: facebook.com/Instamessage- Follow us on Instagram: @instamessage- Follow us on Twitter: @instamessagekeywords:Instagram message texting messenger chat talk free appsRecent changes:- View which users have 'Liked' your profile- Receive a notification when somebody 'Likes' your profile- Has an option to turn 'Like' notifications ON or OFF"
+p4
+tp5
+tp6
+.

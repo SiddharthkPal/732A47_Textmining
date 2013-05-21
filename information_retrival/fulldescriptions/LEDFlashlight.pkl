@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LED Flashlight '
+p1
+tp2
+(S'Description:'
+p3
+S'Flashlight free app. It has beautiful combination of flashlight and clock. This is the brightest, simple and very useful camera led flashlight and clock app. Never be caught in the dark without a light again. FEATURES- Camera LED flashlight : Use camera LED as a light source.- Screen flashlight : Use screen as a light source. You can change colors and brightness. - Camera view : \xe2\x80\x98Camera + flashlight\xe2\x80\x99 enables you to see even the dark and narrow space like under the furniture.- Digital clock : Watch the big digital clock while using phone as a flashlight.PERMISSIONS- Camera, Flashlight : Camera flash, LED light, Camera view- Internet, Access network state : AdsKEYWORDSflashlight, torch, brightest, LED, flash, best flashlight app, free flashlight, strobe, best flashlight, color flashlight, brightest flashlight, night, LED flashlight, light, clock, lantern, galaxy flashlight, flash, lightDEVICESSamsung Galaxy flashlight, Galaxy S flashlight, LG Optimus G flashlight, Optimus L flashlight, Google Nexus flashlight, Sharp aquos flashlight, HTC One flashlight, Sony Xperia flashlightRecent changes:- Camera LED flashlight : Use camera LED as a light source.- Screen flashlight : Use screen as a light source. You can change colors and brightness. - Camera view : Use camera + flashlight to find well under the furnitures.- Digital clock : Watch the big digital clock while using phone as a flashlight.'
+p4
+tp5
+tp6
+.

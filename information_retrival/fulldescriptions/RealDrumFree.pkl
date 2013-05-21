@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Real Drum Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Here is an simple and handy music application that makes a real drum kit out of your device ! Real Drum includes only professional Hi-Fi sounds sample and has an incredibly realistic graphic. The application suits musician amateurs as well as experienced drummers.\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Main Features \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x9c\x94 Many popular drum set and loop (Rock, Hip-Hop, Jazz, Drum and Bass, Break Beat and more)\xe2\x9c\x94 Different visual styles\xe2\x9c\x94 Bonus percussion drum sets: Bongos, Congas and Taiko drums\xe2\x9c\x94 The fastest response time, low latency (without any delay)\xe2\x9c\x94 Animated visual effects\xe2\x9c\x94 Special sound settings for each instrument (snare drum, bass drum, cowbell, hi-hat, ride and crash cymbals, tom-tom drums)Official Android version ! iPhone version can be found at http://www.itunes.com/apps/RealDrumFreeRecent changes:Performance and stability improvements'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MangaHello |15000+Manga Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"~Manga Hello~ a Manga Reader that can let you read the mangas English, French, German, Chinese..., You can searching by genre, name, and by the author.You can read the manga offline even if you don't have the Internetit can let you download and read 15,000+ manga on your telephone handset or tablet.It support the mangas fromEnglish:GoodManga, MangaReader, MangaKiss,MangaFox....French:AnimeFrGerman: MeinMangaFor the latest information please go to our facebook.facebook:http://www.facebook.com/MangahelloMangaReaderFeatures:- Search manga with a keyword(then there'll be a real-time suggestion appeared)- Search by genre, author, state- Read manga offline.- set the screen oriantation with  gravity sensor/landscape/portrait- Download manga to SD card.- Delete manga from SD card.- Background Download - bookmark- add your favorite manga into your favorite basket..- a gallery which can zoom in/out that can help you read the manga.- share picture by facebook, tweeter, gmail, sms ...- choose the color of interface you likeNote: If you wanna use your computer to watch the mangas, you can go to your sdcard directory /sdcard/mangareader/ to take it out.If anyone has a suggestion, no matter it's the graphic interface, or any inconvenience of the manipulation, please give us a mail or on the facebook, we'll consider it seriously to make a better MangaApp for you.What we promise you is that we will improve the app and make you more convenient to use it, and before there're many users leave us messages by mail or facebook, we're very glad, and we take every opinions into consideration. Like searching by genre, chinese/Germany manga, and we'll continue improving it.Manga Reader, Make U Happier Everyday ;)"
+p4
+tp5
+tp6
+.

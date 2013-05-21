@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dolphin Youtube Search '
+p1
+tp2
+(S'Description:'
+p3
+S'**Dolphin Browser Add-on**Search YouTube video without visiting youtube.com, saving you time and the hassle of traffic.V1.1*"App to SD"*Fix bugsRecent changes:Various stability and performance improvements.'
+p4
+tp5
+tp6
+.

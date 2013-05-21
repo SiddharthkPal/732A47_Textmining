@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Music Therapy for Refreshment '
+p1
+tp2
+(S'Description:'
+p3
+S"Music Therapy for Refreshment is another Alpha Wave music application for Android users. Medium Speed Alpha Wave (10Hz) set in 5 melodic music pieces provides a most relaxing way to restore your vigor, to bring about a refreshed mind. Different from leisure music, subliminal music therapy embeds Alpha Wave to various musical pieces by setting the rhythm to a certain frequency. Listening to such music, our sub-consciousness is awakened. It is guiding us to a brand new discovery of our potentials, to relaxation and to creativity.To generate Alpha Wave in one's mind, binaural beats are applied. For example, if the left ear is presented with a steady tone of 500Hz and the right ear a steady tone of 510Hz, these two tones combine in the brain. The difference, 10Hz, is perceived by the brain.Features:- Graceful tunes with string music and natural sounds - Install Location to SD card- Well-designed interface and easy operating- Quick mental refreshing- For relaxation at any timekw: Android applications music therapy refreshment mental refreshing restore vitality regain vigor energies relaxation leisure brainwave sub-conscious health fitness"
+p4
+tp5
+tp6
+.

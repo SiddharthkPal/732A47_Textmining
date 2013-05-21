@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'File Manager '
+p1
+tp2
+(S'Description:'
+p3
+S'Full featured file manager on Android, fresh UI design and user friendly functions!Includes:* 3 sets of commercial icons for 80+ different file types, toolbar and menu items* Multiple resolution support* Support 19 languages* Cut, copy, paste and cancellable progress dialog* List and grid view for file browsing* Compress and decompress support* Search and share files* Multiple selection and sorting support* Support both local and remote(LAN/SMB) file systems* Support FTP, FTPS, SFTP and WebDAV* Play streaming media from LAN/FTP/WebDAV without download* Support cloud storage including Dropbox, Box, Google Drive, SkyDrive and SugarSync* Support FTP file sharing, access device files freely without data cable* Thumbnail for photo, video and apk files* Support file shortcut on Home screen for easily access* Root Explorer for rooted devices* Built-in text editor, image gallery and swf playerKeywords: file manager file explorer file browser wireless WIFI LAN SMB galleryRecent changes:Version 1.15.10* Support FTP share when device is used as hotspot.* Update Italian translation, thanks to Roberto Boriotti!* Improve memory usage when caching thumbnails.* Support "override all" action for paste conflict.Version 1.15.8/1.15.9* Add support for FTP file sharing.* Backup donation record to Google server, no need to activate after re-install. (for android 2.2+)* Minor UI adjust for progress notification, icons, etc.* Fix digest auth bug for WebDAV.'
+p4
+tp5
+tp6
+.

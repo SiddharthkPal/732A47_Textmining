@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Discount Calculator '
+p1
+tp2
+(S'Description:'
+p3
+S"Best Discount Calculator!Out shopping and see an item on sale? Quickly determinate how much you will save and what the final price will be after applying the store's discount with Discount Calculator.KW:discount discount discount discount discount calculator percentage calculator price calculator discount calculate percentage calculate price calculate discount calc percentage calc price calc price cut shopping deal deals coupon coupons promotion shop savvy percentag percentage percentage percentage percentage percentage percentage shopping shopping shopping shopper shopper shopper coupon coupon coupon coupon coupons coupons promotion promotion promotion shop shop shop shop shop bestbuy bestbuy best buy best buy walmart walmart walmart walmart shopping list shopping list shopping list shopping list discount calculator discount calculator discount calculator calculator discount calculator discount calculator discount discount discountRecent changes:Fixed some errors.*Improved the user experience, now the seekbar works better.Thanks for your patient :)"
+p4
+tp5
+tp6
+.

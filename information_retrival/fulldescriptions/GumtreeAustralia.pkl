@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gumtree Australia '
+p1
+tp2
+(S'Description:'
+p3
+S'Gumtree Australia is Australia\xe2\x80\x99s leading free, local classifieds website. Gumtree Australia offers a convenient, fun, and easy way for people to buy and sell goods and cars, find jobs, housing, pets, and more. Now Gumtree is coming to the Android market as Gumtree Australia! The Gumtree Australia application for  Android is specially designed to run on the Android operating system. Using an interface built for Android, Gumtree Australia users in Australia can now search local classifieds ads, reply to listings, and post ads with just a few simple taps while on the go. The Gumtree Australia Android app makes it even easier to buy or sell everything from clothes to cars, find a job, adopt a pet, rent an apartment, and do so much more, right from your mobile device. Plus, it\xe2\x80\x99s completely free. FEATURES:- Find ads near you- Edit and manage your ads- View full ad descriptions with high resolution photos- Contact posters from within the app- Refine search in search result- Post an ad with pictures from your smartphone or take new pictures- Track ads on your watch list- Share ads via SMS (as well as Facebook, Twitter, and Email)'
+p4
+tp5
+tp6
+.

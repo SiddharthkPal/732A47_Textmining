@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BabyBump Pregnancy Free '
+p1
+tp2
+(S'Description:'
+p3
+S"*****UPGRADE TO BABYBUMP PRO FOR THE COMPLETE PREGNANCY EXPERIENCE***** Featured by The Huffington Post, CBS News, Fit Pregnancy Magazine, The iPhone Blog, Parents.com and many more... Also check out our app Pink Pad, a female hub and period tracker! BABYBUMP FREE FEATURES BabyBump Free is comprehensive pregnancy app that keeps soon-to-be parents informed about their pregnancy progress and enables tracking and sharing the experience with family and friends. PREGNANCY FORUMS \xe2\x9c\x94 Meet other parents from around the world \xe2\x9c\x94 Mobile / Android friendly forum, custom built for use on all Android devices - fast and easy to use BABYBUMP SHOP\xe2\x9c\x94 Curated shop of the best pregnancy and baby products\xe2\x9c\x94 Expert editorial and review of all productsPREGNANCY COUNTDOWN \xe2\x9c\x94 Enter due date or calculate from Last Menstrual Period (LMP) \xe2\x9c\x94 Beautiful progress bar showing time remaining until delivery \xe2\x9c\x94 Weeks and days remaining and trimester information \xe2\x9c\x94 Personalize your countdown screen with a profile photo DAILY & WEEKLY INFORMATION & IMAGES\xe2\x9c\x94 Schematic embryo picture of your baby each week \xe2\x9c\x94 Daily tips and weekly details about your baby's size and weight and development\xe2\x9c\x94 Common symptoms, cravings, and bodily changes you can expect to experience each week JOURNAL/WEIGHT TRACKING\xe2\x9c\x94 Track daily weight/waist measurements \xe2\x9c\x94 International: use lb/kg or in/cm or a mix \xe2\x9c\x94 Daily tracking of mood, energy, appetite, cravings, morning sickness, and other notes \xe2\x9c\x94 Calendar view with icons PHOTO JOURNAL & SLIDESHOW MODE \xe2\x9c\x94 Add photos of your pregnancy from your camera or library \xe2\x9c\x94 Create a slideshow of your growing baby bump \xe2\x9c\x94 Email photos or save them to your libraryRecent changes:5.1.0: Nicer nav bar and theme on all screens5.0.0 is huge!  All new storefront, profile redesign, and left slider.  - See your belly photos and a snippet of the day's info right on your profile screen and share with your friends.  - New Storefront where you can purchase your favorite pregnancy products directly within the app.  Please email us at support@alt12.com with any bugs or suggestions instead of posting them in an app review.  We welcome your feedback!"
+p4
+tp5
+tp6
+.

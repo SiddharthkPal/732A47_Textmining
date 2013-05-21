@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MP3 Cutter & Ringtone Maker !! '
+p1
+tp2
+(S'Description:'
+p3
+S'Cut the best part of your audio song and save it as your Ringtone/Alarm/Music File/Notification Tone. Make your own MP3 ringtones fast and easy with this all in one new app.The cut results are stored in "/mnt/sdcard/media/audio". You can even record a live audio and this new MP3 editor can edit and trim the best parts from it. All totally FREE to tone your music!!Mp3 Cutter & Ringtone Maker is a Music Editor/Alarm Tone maker/Ringtone maker/Notification Tone creator. Supports MP3, WAV, AAC, AMR and most other music formats.1.Select mp3/music from your mobile or from Recordings.2.Select area to be chopped from your audio.3.Save as Ringtone/Music/Alarm/Notification. Features:- Record button at top left of app to record an audio/music for editing.- An Inverted Red Triangle to Select and Edit Mp3/Music from your Mobile/SD.- Option to delete (with confirmation alert) the created Ringtone/Music/Alarm/Notification Tone.- View a scrollable waveform representation of the audio file at 4 zoom levels.- Set start & end for the audio clip, using an optional touch interface.- Tap anywhere on the wave & the built-in Music player starts playing at that position.- Manually set the Start & End time(in seconds) by typing the values in text boxes at bottom of app.- Option to Name the new cut clip while saving it as Ringtone/Music/Alarm/Notification Tone.- Set the new clip as default ringtone or assign ringtone to contacts, using this ringtone editor.An MP3 Converter & Ringtone Maker app to style old songs a new way, just for your use FREE!This MP3 Cutter & Ringtone Maker app has inbuilt:-Own Audio\\Mp3 Player-Own Audio\\Mp3 Cutter-Own Audio Recorder'
+p4
+tp5
+tp6
+.

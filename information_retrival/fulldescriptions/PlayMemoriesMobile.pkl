@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PlayMemories Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Use your Sony camera with built- in Wi-Fi\xc2\xae (*1) more conveniently with "PlayMemories Mobile".You can enjoy these features by connecting your Sony camera with built-in Wi-Fi\xc2\xae to your Smartphone or Tablet with "PlayMemories Mobile" :- Wirelessly transfer your photos from your camera to your Smartphone or Tablet.- Control your camera remotely using your Smartphone or Tablet as a remote controller. (Feature available on selected models only)(*1) See http://www.sony.net/pmm/ for details on Sony camera with built-in Wi-Fi\xc2\xae.[Operating environment]OS version: Android 2.1 \xe2\x80\x93 4.2This application is not guaranteed to work on all Smartphones and Tablets.Recent changes:-This update provides support for Android 4.2-Several minor bugs were fixed'
+p4
+tp5
+tp6
+.

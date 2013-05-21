@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rotation Locker '
+p1
+tp2
+(S'Description:'
+p3
+S'Bothered by having your phone flip to portrait or landscape while laying down? Too lazy to look around Android settings to enable/disable autorotate? This app is the solution.This is a very simple free app that allows you to do the following:- Lock your screen\'s rotation in Landscape, Portrait or Auto. When you launch the app, you\'re faced with these three options.- Includes a Tasker/Locale plugin so you can automate the rotation switch based on different profiles.- Ability to launch the app from any window in Android by long pressing on the search key. (Only for devices that have a physical search button).- Long press on any orientation profile to activate a persistent background service. (This is useful if your phone seems to exit the locked orientation all of a sudden due to low memory resources).- A widget is provided so you can lock into whatever your current orientation is. (Useful for reverse landscape for example).I\'ve searched the Market for an app that will lock my screen\'s autorotate to landscape and found only one paid app that runs a service continuously in the background (regardless of chosen screen orientation) so I wrote this up. It\'s free and the background service is optional.It should work on any device sporting Android 2.1 (Froyo) and higher.keywords: screen control autorotate landscape portrait rotate rotation orientationRecent changes:v1.4+Added a footer note to the menuv1.3+Added a widget to lock into whatever your orientation happens to be at the time of click. This is useful for reverse landscape for example.v1.2.2+Short click on portrait/auto will behave like default android portrait/auto. If you want to enforce "auto" long press on it (that way, even the apps that don\'t go into landscape will).+Added ability to run a persistent background service for both Portrait and Auto modes.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free SMS India '
+p1
+tp2
+(S'Description:'
+p3
+S'Don\xe2\x80\x99t pay for SMS packs when you can send them for FREE!Send unlimited SMS for free right from your Android Phone!Free SMS India is Android application by which you can send SMS to anybody all over India without spending single penny.  User Interface of Free SMS India is very sleek and simple, even a kiddy can operate the app. All you need is working GPRS connection to send SMS. Application is optimized to decrease data usage and your SMS is sent in few Kb of data. In our latest version of Free SMS India, following gateways/services are enabled:- Way2SMS- FullonSMS- Site2SMS- 160by2- SMS440- IndyaRocks- YouMint - Ultoo- FreeSMS8If you want us to add any new gateway/service do send me email at freesmsindia.help@gmail.com As soon as I get your request I will start working on it and in next update you will surely find that gateway.If you already have account with above given sites, download app and start using their services right from your phone. SMS are delivered in few seconds !!Find Official Review of Free SMS India here: http://www.geekygyaan.com/review-free-sms-india-android-app.htmlBy Geeky Gyaan. 5/5 ratings!To stay updated about Free SMS India follow the links below:- http://freesmsindia-android.blogspot.com/- http://trickstree.com/free-sms-india-android/- http://www.facebook.com/FreeSMSIndiaAndroidIf you are facing any kind of problem do mail me as replying your queries here is not possible.I\xe2\x80\x99ll do my best to solve your query Disclaimer:"Free SMS India" is not developed by/associated with/licensed from orin any other way officially linked with Way2SMS or FullonSMS or anygateways/services appearing in the app. This is not an official app for any ofthe SMS gateways/servicesRecent changes:v7.3Fixed Ultoov7.2Added contactsbadgefixed indyarocks character limit to 240fixed site2smsfixed ultoo v7.0:Added feature to hide SMS Sending ProcessUpdate main Inbox list on new messagesFixed UltooFixed Freesms8(with Captha support)Added SMS collectionAdded option to disable vibrationv6.4:Final fix for Way2sms/160by2 Update now !!v6.2:Fixed 160by2 gatewayWay2sms bugs fixed'
+p4
+tp5
+tp6
+.

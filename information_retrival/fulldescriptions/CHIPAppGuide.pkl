@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CHIP App-Guide '
+p1
+tp2
+(S'Description:'
+p3
+S'Sie wollen wissen, was in der App-Welt gerade passiert? Unser AppGuide versorgt Sie immer und \xc3\xbcberall mit Apps des Tages, Schn\xc3\xa4ppchen & App-Charts. Der CHIP App-Guide ist der perfekte Ratgeber von CHIP Online rund um das Thema Android-Apps. Wir zeigen Ihnen t\xc3\xa4glich aktuell alle App-Highlights \xe2\x80\x93 getestet, bewertet und t\xc3\xa4glich erweitert von der CHIP Online Redaktion. Erhalten Sie zuerst wichtige Must have-Apps auf Ihrem Android-Handy und verpassen Sie keine App-Empfehlung aus der Redaktion mehr. Damit nicht genug: Mit dem integrierten CHIP App-Navigator k\xc3\xb6nnen Sie selbst in den beliebtesten Programmen des App-Stores st\xc3\xb6bern. Dort finden Sie nicht nur die beliebtesten Apps der Redaktion und unserer Leser, sondern k\xc3\xb6nnen die Top-Listen nach Belieben filtern und sortieren. Suchen Sie mit ein paar Fingertipps nach der g\xc3\xbcnstigsten App, der am besten bewerteten App oder durchk\xc3\xa4mmen Sie einzelne Kategorien wie Spiele, Foto-Apps oder Navigation. Wir freuen uns \xc3\xbcber Lob, Kritik und Verbesserungsvorschl\xc3\xa4ge; entweder per Mail an app-guide@chip.de, \xc3\xbcber forum.chip.de oder in unseren Channels auf Facebook, Twitter und Google+. Nutzer aus dem Gro\xc3\x9fraum M\xc3\xbcnchen laden wir auch gerne zu einem User-Test bei uns im Hause ein: http://www.chip.de/usercenter/usability-testerRecent changes:Ab sofort k\xc3\xb6nnen sie sich vom CHIP App-Guide benachrichtigen lassen, sobald eine neue App des Tages oder ein Best-of f\xc3\xbcr Sie bereitsteht. Diese Funktion k\xc3\xb6nnen Sie jederzeit ein- und wieder ausschalten. Daf\xc3\xbcr ben\xc3\xb6tigt die App eine neue Berechtigung:** IHRE KONTEN: Authentifizierung-Berechtigungen f\xc3\xbcr Konto verwenden. **Diese Berechtigung wird ausschlie\xc3\x9flich verwendet um Ihnen Ihre pers\xc3\xb6nlich ausgew\xc3\xa4hlten Benachrichtigungen zu senden.Weitere \xc3\x84nderungen:+ Performance-Optimierung+ Bugfixes'
+p4
+tp5
+tp6
+.

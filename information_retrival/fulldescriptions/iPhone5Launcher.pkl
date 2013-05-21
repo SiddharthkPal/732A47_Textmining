@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iPhone 5 Launcher '
+p1
+tp2
+(S'Description:'
+p3
+S'iPhone 5 Launcher is an iPhone iOS 6 UI style launcher app.  You can get the iPhone user experience in Android Phone!Major Feature- Support iPhone iOS 6 UI Style - Support all iPhone Launcher feature- Support Same look and touch feeling with iPhone- Support Search desktop: a convenient search applications, contacts, SMS, e-mail.- Support for Themes to choose a different style desktop.- Support iPhone Wallpaper Setting- Support iPhone Icon Folder- Support High Quality Icons- Support restore default feature- Support customize application icon & name;- Support hide application icon;- No difference between the icon rendering and arrangement and iPhone- No Ads- Support iPhone Lock ScreenMajor Operation Mode- Long press icon to enter into the icon editing mode- Under Edit mode you can drag the icon position- Under Edit mode you can click on the icon in the upper-left corner of the "X" icon to quickly delete the shortcut or uninstall applications- Under Edit mode you can click on the icon in the upper-right corner  icon to hide and rename applications.- Under Edit mode you can drag and overlap icon to create a folderTag: iPhone Style, iOS, Launcher, Folder, Wallpaper, If you meet any issue, pls don\'t just rate one star. We hope your email the issue to iPhoneatandroid(at)gmail.com, we will definitely feedback and resolve your issue asap.Enjoy it!Will provide more theme later!You can get more iPhone Style Apps in "iPhone Style Studio".Thanks!Recent changes:v1.31.Add iPhone slide lock screen. By default it\xe2\x80\x99s disable, pls open it in Launcher setting2.Add wallpaper selection logic;3.Fix bug: unread mms/missed call notify cannot be updated sometimes;4.Fix icon position self-change & position changed during restart bugs;5.Fix icon name display issues;6.Update theme preview image;7.Fix calendar icon name display bug;8.Some other bug fix'
+p4
+tp5
+tp6
+.

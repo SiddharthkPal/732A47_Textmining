@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MotoGP 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'This application allows a complete unofficial depth study of the season 2013 of MotoGP.There are five sections. In the first you can see the 20 races in detail as: maps, length, wins, records and descriptions. The second section discusses about the teams with their description and their details, furthermore also links to Wikipedia for further information. There is also detail of the drivers with their personal page in Wikipedia\xc2\xac. In the third section you can read the latest news from the world of the MotoGP. There is the section with the classifications updated. The last section is for videos clip with highlights of the races and the interviews.In this version there is:- Races- General Info- Records- Circuit Map- Teams- Drivers- News- Rank- VideosInformation taken from the site www.yahoo.comFor suggestions, comments or concerns please contact us via email: appreate@gmail.com'
+p4
+tp5
+tp6
+.

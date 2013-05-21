@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Marbel Shalat '
+p1
+tp2
+(S'Description:'
+p3
+S"Marbel Shalat learning games, contains interactive learning books spesific on Learning Shalat for Kids.Step by step learning Shalat for:- Morning Prayer (Subh / Shalat Subuh)- Noon Prayer (Zuhr / Shalat Dzuhur)- Afternoon Prayer (Asr / Shalat Ashar)- Evening Prayer (Maghrib / Shalat Maghrib)- Night Prayer (Isha / Shalat Isya')Contains description for:- Arabic Letter (Tulisan Arab)- Latin Description (Bacaan Latin)- Indonesian Language (Arti Bahasa Indonesia)- English Language (Arti Bahasa Inggris)Voice and Audio for prayer in every movement=================================Sangat menarik untuk belajar anak-anak, belajar agama Islam, belajar shalat di usia dini. Memiliki fitur-fitur menarik termasuk audio yang membantu anak belajar dengan mendengarkan. Gambar-gambar setiap gerakan dan urutan shalat.Selamat Belajar dan Bermain!"
+p4
+tp5
+tp6
+.

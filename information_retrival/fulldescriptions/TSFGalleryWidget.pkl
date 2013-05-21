@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TSF Gallery Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'TSF Gallery Widget is a TSF Shell characteristic\xe2\x80\x99s 3D widget. It can be showed on desktop as a decoration, you can also enter its 3D selection mode by clicking on it to quickly open pictures or change album cover. You are able to achieve pictures lists with the settings filter.Features:========================1.click to open 3D selection mode, rotate the gallery by sliding left and right2.go to settings screen to select the picture lists that you want to play3.At the first loading it will create thumbnailsNotes:========================1. This widget should be run on TSF Shell.To download TSF Shell, please access to the following link:https://play.google.com/store/apps/details?id=com.tsf.shell2. If you like our applications please give it a mark. If you have any question or suggestions about our applications please email to service@tsfui.com.========================Permission1  Reading memory cardGetting pictures from memory cardKey Words: TSF Shell, TSF 3D Gallery, TSF Gallery widgetRecent changes:Version 1.0.6;1.bugs fix2.this version only for TSFShell 1.9.9+#Tips#Clear app data to flush the cache.'
+p4
+tp5
+tp6
+.

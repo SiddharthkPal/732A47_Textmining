@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MySosh '
+p1
+tp2
+(S'Description:'
+p3
+S"MySosh est une application qui permet de suivre votre consommation, g\xc3\xa9rer votre compte, consulter vos derni\xc3\xa8res factures et d'acc\xc3\xa9der et \xc3\xa9changer sur les rubriques du site sosh.fr en toute mobilit\xc3\xa9 sur votre mobile Android.Retrouver ainsi :- mon compte : consultez votre suivi conso, t\xc3\xa9l\xc3\xa9chargez vos derni\xc3\xa8res factures en PDF et g\xc3\xa9rez vos options.- l'espace communautaire Sosh : Sosh News, Sosh Conseil, Sosh IdeasRecent changes:Le suivi conso data, fonctionnalit\xc3\xa9 souhait\xc3\xa9e par nombre d'entre vous, est enfin disponible !Nous avons \xc3\xa9galement am\xc3\xa9lior\xc3\xa9 la restitution du hors forfait et apport\xc3\xa9 diverses am\xc3\xa9liorations mineures.Merci pour vos retours !"
+p4
+tp5
+tp6
+.

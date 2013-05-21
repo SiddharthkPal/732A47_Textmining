@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Veetle '
+p1
+tp2
+(S'Description:'
+p3
+S'Veetle lets you broadcast and watch live video on your Android phone or tablet. With Veetle you can easily browse, view and share live videos. You can also "Go Live" from your Android devices with Veetle. Create your own live video broadcasts and share your live video broadcasts with friends and family.What can you do with Veetle?* Watch live video from around the world* Share live streaming video with others* See popular video broadcasts from the Veetle community* Broadcast live video of what\'s happening around you in an easy to use interface with one button broadcasting * Quickly share your events with friends and familyRecent changes:*More bug fixes*Fix broadcasting issues with Android 4.2 devices*Please upgrade if you want to allow smooth broadcast'
+p4
+tp5
+tp6
+.

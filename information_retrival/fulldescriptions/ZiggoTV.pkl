@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ziggo TV '
+p1
+tp2
+(S'Description:'
+p3
+S"De Ziggo TV app biedt het actuele programmaoverzicht van meer dan 160 zenders uit het aanbod van digitale televisie van Ziggo, een catalogus van titels die via On Demand van Ziggo te bestellen zijn alsmede kijktips en tv- en medianieuws. Klanten van Ziggo, die een abonnement hebben op TV Standaard en Internet Z1, Z2 of Z3, dan wel een abonnement hebben op Alles-in-1 van Ziggo, kunnen bovendien gebruik maken van de dienst TV Kijken via deze app. Ook zakelijke Office Basis klanten kunnen hier gebruik van maken.Om gebruik te maken van TV Kijken dient u in te loggen met uw Mijn Ziggo-accountDe dienst TV Kijken via de Ziggo TV app is bedoeld voor gebruik in en om het huis. Deze dienst is alleen beschikbaar over de vaste internetverbinding, die door Ziggo aan de betreffende klanten geleverd wordt. De dienst TV Kijken is in ontwikkeling en kan zonder opgave van reden door Ziggo inhoudelijk, technisch of anderszins gewijzigd, of zelfs be\xc3\xabindigd worden.\xe2\x80\xa8\xe2\x80\xa8 De Ziggo TV app samengevat:\xe2\x80\xa8 \xe2\x80\xa2 Compleet programmaoverzicht van meer dan 160 zenders \xe2\x80\xa2 Een aantal zenders is ook live via deze app te bekijken \xe2\x80\xa2 Iedere dag het actuele tv-nieuws\xe2\x80\xa8 \xe2\x80\xa2 Iedere dag andere kijktips\xe2\x80\xa8 \xe2\x80\xa2 Volledig Video On Demand overzicht \xe2\x80\xa2 Eenvoudig zelf een persoonlijke TV-Gids samenstellen\xe2\x80\xa8 \xe2\x80\xa2 Zelf de zendervolgorde in de gids aanpassen \xe2\x80\xa2 Zenders selecteren mogelijk op basis van abonnement en locatie\xe2\x80\xa8 \xe2\x80\xa2 Programmafavorieten instellen \xe2\x80\xa2 Favoriete programma's met \xc3\xa9\xc3\xa9n klik bekijken\xe2\x80\xa8 \xe2\x80\xa2 Alarm in te stellen voor uw favoriete programma'sLet op! TV Kijken is nu beschikbaar voor abonnees met TV \xc3\xa9n internet van Ziggo. Om gebruik te maken van TV Kijken dient u in te loggen met uw Mijn Ziggo-account. Het afspelen van video wordt alleen ondersteund vanaf Android OS-versie 2.3 tot en met versie 4.1. Daarnaast kunnen alleen toestellen met OpenGL 2.0 video afspelen.Recent changes:Nieuw in 3.0.2\xe2\x80\xa2 Oplossing voor probleem in TV Gids met overgang naar wintertijd\xe2\x80\xa2 Diverse bugfixesNieuw in 3.0.1\xe2\x80\xa2 ondersteuning voor TV Kijken voor apparaten met Android OS-versie 4.1\xe2\x80\xa2 bugfixesNieuw in 3.0.0\xe2\x80\xa2 Inloggen via Mijn Ziggo ten behoeve van de dienst TV Kijken\xe2\x80\xa2 U kunt een selectie maken van uw favoriete zenders in TV Kijken"
+p4
+tp5
+tp6
+.

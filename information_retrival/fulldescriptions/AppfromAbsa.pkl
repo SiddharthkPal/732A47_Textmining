@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'App from Absa '
+p1
+tp2
+(S'Description:'
+p3
+S'Banking shouldn\xe2\x80\x99t disrupt your life \xe2\x80\x93 the Banking App from Absa allows you to bank at your convenience! The Banking App has been designed with you in mind \xe2\x80\x93 screens are customised to suit your device and you can choose to view the app in English or Afrikaans. Download the Banking App from Absa to get access to the following services:\xe2\x80\xa2\tGPS-driven Absa ATM & branch locator \xe2\x80\xa2\tEasy-to-use investment, savings, car and home loan calculators \xe2\x80\xa2\tThe latest foreign exchange rates \xe2\x80\xa2\tThe latest Absa promotions \xe2\x80\xa2\tAccount balances\xe2\x80\xa2\tTransactional activity on a graph\xe2\x80\xa2\tTransfer money between accounts\xe2\x80\xa2\tCreate and manage beneficiaries \xe2\x80\xa2\tTag your favourite beneficiaries\xe2\x80\xa2\tMake payments\xe2\x80\xa2\tBuy prepaid airtime\xe2\x80\xa2\tSend money using CashSend\xc2\xa9 2011 Absa. Copyright 2011 Absa. All Rights reserved Absa Bank limited registration number: 1986/004794/06Recent changes:Fixes implemented for logon issues on Android v4.2 which includes Nexus devices'
+p4
+tp5
+tp6
+.

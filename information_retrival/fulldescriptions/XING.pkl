@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'XING '
+p1
+tp2
+(S'Description:'
+p3
+S'The free XING app for your Android smartphone means you\xe2\x80\x99re never out of touch with your network when out and about. Millions of members all over the world use XING to boost their career and business. On XING you can connect with business partners and work colleagues to make sure you\xe2\x80\x99re up to date on the latest news. And now you can do all that while on the go from the comfort of your mobile device. Tested on Android Smartphones.XING becomes the first social european platform to offer a business card scanner and reader that allows you to efficiently expand your network and manage your contacts.Permissions:Needed for Contacts Sync and NotificationsACT AS AN ACCOUNT AUTHENTICATORMANAGE THE ACCOUNTS LISTWRITE SYNC SETTINGSDISCOVER KNOWN ACCOUNTSNeeded to read QR codesTAKE PICTURES AND VIDEOSNeeded for the location-based HandshakeCOARSE (NETWORK-BASED) LOCATIONFINE (GPS) LOCATIONNeeded for the Xing Beam featureCONTROL NEAR FIELD COMMUNICATIONNeeded to get information from Xing.comFULL INTERNET ACCESSNeeded to write your Xing contacts in the Android PhonebookREAD CONTACT DATAWRITE CONTACT DATANeeded to send the notifications on new contact requests and messagesCONTROL VIBRATORNeeded to follow your preferences and Sync only on Wifi or 3GVIEW NETWORK STATEPlease send us your issues and/or feedback to android@xing.com.Recent changes:- We solved a bug concerning special characters and we highly recommend downloading this update.'
+p4
+tp5
+tp6
+.

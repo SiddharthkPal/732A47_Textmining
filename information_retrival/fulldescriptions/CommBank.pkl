@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CommBank '
+p1
+tp2
+(S'Description:'
+p3
+S"The CommBank app brings you banking on the go with real time access to your accounts, financial tools and calculators, Branch and ATM information and more.- Access to CommBank Kaching, the revolutionary banking and payment app. It is the new face of NetBank Mobile! Check account balances and recent transactions on the go, transfer money to existing accounts or address book payees and billers. Plus with CommBank Kaching you can log on quickly with a 4 digit PIN, pay to any Australian mobile phone number, email address, or Facebook\xc2\xa9 friend, all without needing the recipient's bank account details.- Access NetBank Mobile, the traditional CommBank mobile banking experience.- Log on to CommSec for mobile share trading & investing.- Locate your nearest Branch or ATM with the GPS locator. Use our enhanced search filters to find our new 'Cash and Cheque In' ATMs or a branch that may speak your language. Also get real time ATM updates including hours of access and availability, view branch opening hours and get directions.- Use the Foreign Exchange Toolkit to access currency rates, a currency converter & set alerts, so you are notified when your desired rate has been reached.- Stay connected with us through Facebook, Twitter, YouTube or access contact details.Customers not registered for NetBank can visit www.netbank.com.au to register. Normal data charges apply; please check with your mobile phone service provider for details.MasterCard, the MasterCard brand mark, and PayPass\xe2\x84\xa2 are registered trademarks of MasterCard International Incorporated.Commonwealth Bank of Australia ABN 48 123 123 124.Recent changes:Bug fixes."
+p4
+tp5
+tp6
+.

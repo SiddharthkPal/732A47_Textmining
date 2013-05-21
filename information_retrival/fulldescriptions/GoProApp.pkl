@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GoPro App '
+p1
+tp2
+(S'Description:'
+p3
+S'Connect. View. Control.NOTE: A CAMERA SOFTWARE UPDATE IS *REQUIRED* before using your GoPro Wi-Fi-enabled device(s). Please visit http://gopro.com/update for a free download.With the GoPro App you can now control your GoPro camera remotely using an Android device.  Features include: full control of all camera settings; live, remote viewfinder/preview of your Wi-Fi-enabled GoPro HERO2\xc2\xae or HERO3\xc2\xae camera for easy shot framing, and more.The GoPro App also gives you access to GoPro\'s "Photo of the Day" & "Video of the Day" channels to keep you in touch with the latest radness from the GoPro Network. The GoPro App is compatible with HERO3 White, Silver and Black Edition cameras as well as HD HERO2\xc2\xae cameras (with an attached, optional Wi-Fi BacPac\xe2\x84\xa2).COMPATIBILITY REQUIREMENTS: The GoPro App has been tested on the HTC Thunderbolt, Motorola Droid X2, Samsung Galaxy Nexus 4G, Samsung Galaxy Tablet, Google Nexus 7 and the HTC One X, with Android versions 2.x and 4.x. The GoPro App has also been tested\xe2\x80\x94and performs well\xe2\x80\x94on NVIDIA Tegra-enabled devices. There are some known issues with the Motorola RAZR running Android 4.x and other Android 4.0 devices, resolved by using the video preview software decoder.The GoPro App is not compatible with the Original HD HERO camera.Recent changes:\xe2\x80\xa2 Now supports features in HERO3 cameras\xe2\x80\xa2 New, selectable software decoder setting which addresses unreliable hardware support of video preview on some Android devices.'
+p4
+tp5
+tp6
+.

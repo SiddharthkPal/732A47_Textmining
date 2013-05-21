@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sleep Diary Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'Get a better start to the day using your Android device to wake up feeling refreshed and relaxed.Sleep Diary is an all-in-one sleep cycle alarm clock that analyzes your sleep patterns to help you get a better rhythm improving your wellness and fitness.  In conjunction with the Smart Alarm, that wakes you in the light sleep phase, Sleep Diary can help to improve your overall heath and feel fit for the day.Use the statistics report and your own personal diary entries to understand your sleep cycle and get a better rhythm for a good nights sleep.Simple to use. Place on your bed and just press "Start".Features:* Sleep Cycle monitors you movement during sleep using the phone accelerometer.* Advanced statistics and charts to help you visualize and understand your sleep cycle. * Record your entry sleep in the diary.* Smart Alarm that awakes you in the light sleep phase so that you feel fit and fresh.* Using our Soft Alarm the gradually increases in volume is more relaxing then most alarms. * Configurable Alarms including sound & music selection, snooze time and activities.* Auto backup option to keep your data safe along with export options (export data as CSV and charts) so you can further analyze your personal statistics.* Resume Tracking feature allows you stop and restart the tracking within 10 minutes* Works great as an alarm & diary without tracking, if so required.* Optimized to minimize battery usage* Italian, English,German Languages Supported.The Sleep Diary should by placed in your bed in order to monitor movement.* Lite version limited to 7 entries.** PermissionsPREVENTS PHONE FROM SLEEPING required for some older phones that have problems with the accelerometer.  This option has be enabled in the general settings of the app.*** SupportIf you have any problems please contact us and we do our upmost to help you.  service@froggyware.comRecent changes:Fix Full Moon image was not always displaying the full moon image correctly due to timezone differences.Increase font size in sleep calculatorFix sleep calculator time calculationFull Screen Charts in landscape.  Rotate device to view charts at full screen.'
+p4
+tp5
+tp6
+.

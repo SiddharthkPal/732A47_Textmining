@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pogoplug '
+p1
+tp2
+(S'Description:'
+p3
+S"Pogoplug is cloud storage for your mobile life. Access all your files, photos, music and movies wherever you are.  Automatically import your phone's camera roll to your cloud so you can share the photos and videos on your phone seconds after you capture them\xe2\x80\x94friends and family can watch your videos instantly!Pogoplug gives you 5GB of free cloud storage, enabling you to store, stream and share your files and media wherever you are. If you ever need more storage, Pogoplug offers infinite expansion by letting you buy more online storage or host your own cloud with a Pogoplug device.With Pogoplug you can:\xe2\x80\xa2\tStore: Automatically upload photos and videos from your mobile phone to your Pogoplug Cloud--no sync required.\xe2\x80\xa2\tShare: Instantly share anything in your cloud through email, Facebook, Twitter and Google+. Create shared folders and collaborate with friends and colleagues.\xe2\x80\xa2\tStream: Stream HD videos, photos and music from your Pogoplug Cloud to your phone.- READ CONTACT DATA - for sharing with people from the address book- READ PHONE STATE AND IDENTITY - to stop music on an incoming phone call.Recent changes:5.0.26 (supports Android 4+):- Multi-select delete- Holo Light theme with blue split actionbar - Overflow button- Added permissions to get push notifications- Rename- Capture and upload photo/video- Languages: es, fr, ru, ko, pt, tr, it, zhs, zht, pl, nl- Bug fixes- Video overlay- Link overlay- Image viewer shows videos- Supports HLS- Hide/show action bar in image viewer- Combined duplicate songs/albums/artist/genres- Show progress when downloading a file upon click"
+p4
+tp5
+tp6
+.

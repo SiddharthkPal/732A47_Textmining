@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Meridian Media Player Fusion '
+p1
+tp2
+(S'Description:'
+p3
+S"The video and music player with most customizable space.Convenient gestures to control.Advanced media folder settings, you can set including and excluding folders -- in ANY DEPTH. Not only one level under /sdcard now.PlayQ rather than playlists, can handle videos, musics, and their MIXTURE. Also, you can put a folder, an artist, an album or like that into a PlayQ.Other features:- Music tag editing (mp3, flac, ogg, mp4 audio, etc.)- .srt subtitle support- Song rating, can synchronize with PC in Pro version- Play video as music, for your music videos- Toolkit to rescan SD card, clean media database- Folder browsing and index browsing- Customizable tabs...and more.Search keyword: Music Player, Video Player, Meridian Player, PlayQ, Customize, AudiobookRecent changes:2.7.5c (2013-04-24)- Fix app open f/c bug- Fix PlayQ editing f/c bug- Fix Audiobook can't resume bug"
+p4
+tp5
+tp6
+.

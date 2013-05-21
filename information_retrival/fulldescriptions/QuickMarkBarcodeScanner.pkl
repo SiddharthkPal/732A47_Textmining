@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'QuickMark Barcode Scanner '
+p1
+tp2
+(S'Description:'
+p3
+S"QuickMark is a mobile barcode scanner app that allows auto-scanning of multiple barcode formats from your phone. (Quick Code, QR Code, Data Matrix, EAN 8/13, Code39, Code128, Interleaved 2of5)Use mobile barcodes to access web links, add contacts, navigate maps, and much more! Works with QuickMark's Chrome browser extension!Lite version also available with slightly less Permission requirements (which results in less functions).Update Log: http://goo.gl/NYSLFFeel free to contact us here if you have any questions:http://facebook.com/QuickMarkApphttp://twitter.com/QuickMark***********************About app Permissions***********************Network StateRequired for the ad networks we are using.ContactsIf you scan a QR Code that contains someone's business card information, you can save it directly to your phone's address book. And if you want to share someone's business card with another person, you can just as easily create a QR Code from one of your existing contacts.Bookmark HistoryJust like sharing a contact, you can also share links of interesting websites that you have visited. Again, by generating a QR Code on your mobile screen and have your friend scan it.Write to External StorageSome users have wanted to share the QR Codes generated from our app with others, which is why we need a place to store the image.NOTE: If the app for some reason fails to init the camera of your device or run into some other issue and you are interested in helping us fix the problem, please contact us at service@quickmark.com.tw or find us on Twitter or Facebook. Thanks!==KW: QR, generator, contact, url, shorten, application, share, phone, number, calendar, event, text, geo, quickmark geolocation, location, sms, processor, encoder, creator, maker, reader, decoder, private, privacy, permission, qr code reader, qr reader, biz, qr scanner, qr code scanner, barcode scanner, 2d barcode reader, barcode scaner, barcode scan, color, qr droidRecent changes:Campaign event feature (Taiwan only)Want to know more about QR Codes? Like us on Facebook http://facebook.com/quickmarkapp or follow on Twitter http://twitter/quickmark"
+p4
+tp5
+tp6
+.

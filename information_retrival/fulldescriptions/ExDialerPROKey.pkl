@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ExDialer PRO Key '
+p1
+tp2
+(S'Description:'
+p3
+S"It's the PRO Key for exDialer. With this app installed, exDialer will be turned into PRO version. This app is not a standalone app, and do not have launcher icon or user interface. Purchase it to support my work on exDialer.Thank you.\xe2\x96\x8cNo credit card?It's possible to pay with PayPal from AndroidPit.comhttp://www.androidpit.com/en/android/market/apps/app/com.modoohut.dialer.donateRecent changes:Renamed"
+p4
+tp5
+tp6
+.

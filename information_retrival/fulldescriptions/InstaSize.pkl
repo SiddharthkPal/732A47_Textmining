@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaSize '
+p1
+tp2
+(S'Description:'
+p3
+S"InstaSize - Post Entire Photos On Instagram Without CroppingThousands already love InstaSize! It's the easiest and fastest way to post and share entire photos on Instagram without cropping. *** Best App For All Instagram Lovers!! *** \xe2\x98\x85FEATURES\xe2\x98\x85 \xe2\x9c\x93 Easiest and fastest app on the App Store! \xe2\x9c\x93 Post entire photo from camera roll without cropping. \xe2\x9c\x93 Take photo on app and upload onto Instagram. \xe2\x9c\x93 Choose between black and white background. \xe2\x9c\x93 Allows you to choose filters on Instagram. \xe2\x9c\x93 High Resolution export to Instagram (1500x1500) \xe2\x9c\x93 It's FREE! **In-App Upgrade to Ad-Free Version Available** ===================================== \xe2\x9c\x93 Removes all ads. \xe2\x9c\x93 Even faster app! \xe2\x9c\x93 Support your favorite app for Instagram. Have any issues or problems let us know! Twitter: @InstaSize Email: instasize@gmail.com"
+p4
+tp5
+tp6
+.

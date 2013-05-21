@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ustream '
+p1
+tp2
+(S'Description:'
+p3
+S'Broadcast live and watch live video on your phone or tablet - anytime, anywhere!* Watch live and recent videos, discover upcoming events* Broadcast live to any number of viewers using the camera of your device* Interact with your audience by issuing a poll or chatting* Access your Ustream Crowds and events that you\xe2\x80\x99re attending* Enjoy your Ustream Premium Membership ad-free experience on your device* Go live right from your Home Screen using the new Quick Broadcast widgetNOTESDo you have questions or ideas? Tell us at: http://community.ustream.tv/ustreamFor Sony Tablet S users experiencing install problems:* first, please uninstall the preinstalled app* then search the app on the Android Market using keyword \xe2\x80\x9cUstream\xe2\x80\x9d and installRecent changes:The latest version includes an important connectivity update for live content. It also features various performance and stream handling improvements.'
+p4
+tp5
+tp6
+.

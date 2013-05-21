@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Independent '
+p1
+tp2
+(S'Description:'
+p3
+S'This is the free official App for users who take their news seriously - from The Independent and Independent on Sunday, titles that are internationally renowned for the standard of their analysis.Read articles and view the photographs on the go. The App has been created so you can continue reading offline, even when your mobile signal is intermittent or not available. Downloading the 150-plus stories that the Independent publishes on the App every day takes about a minute on a Wi-Fi connection and a few minutes on a normal mobile connection. Stories can be read whilst you are downloading.Features include: \xe2\x80\xa2\tAll the key articles from The Independent updated regularly throughout the day including  UK and World News, Sport (including a strong Football section), Business, Opinion, Travel, Arts and Entertainment and Life & Style.\xe2\x80\xa2\tFull article and picture download (including galleries), allowing offline browsing when fully downloaded. No frustrating waiting for links to pages when you don\xe2\x80\x99t have a signal.\xe2\x80\xa2\tSave articles to read later\xe2\x80\xa2\tShare articles through email, Facebook and Twitter\xe2\x80\xa2\tAlert symbol when new articles are added.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo Editor by Aviary '
+p1
+tp2
+(S'Description:'
+p3
+S'********************"A one-stop shop for any photo editing need." -Mashable"A very comprehensive photo editor and pretty much everything you could ever want to do on your phone." -LifeHacker"A solid, simple camera editing app." -USA Today*********************Aviary is a powerful photo editor which we created because we wanted a quick and easy way to edit our photos on the go with no fuss. We\xe2\x80\x99ve included all the tools you need, in a super intuitive interface so you can get right to editing.Features:+ One-tap auto enhance + Gorgeous photo effects and frames+ Fun stickers+ Color balance+ Crop, rotate, and straighten your photo+ Adjust brightness, contrast, color temperature, and saturation+ Sharpen and blur+ Color temperature ("Warmth")+ Color Splash+ Focus (Tilt Shift)+ Draw and add text+ Create your own memes+ Cosmetic tools: fix redeye, remove blemishes and whiten teeth...and we\xe2\x80\x99re adding new tools all the time :) Got a feature request?? It may already be in the works! Check out the list of upcoming features or submit your own idea at http://aviary.uservoice.comBonus:+ Purchasable effect packs! (We provide 12 effects for free, but if you\'d like to add on more you can.)+ High resolution output+ Drag and drop to customize the toolset+ Scroll through your recent photos in a cover photo-like view from the home screen+ Long press on photos on the homescreen to see options (including deleting the photo from your device)>> Developers: Want to add this editor to your own app? You can choose the tools you need, change the colors of the UI, and more. Download our SDK for free to embed Aviary directly inside your app, or create your own customized plugin - learn more at aviary.com.If you have any questions, please email android@aviary.com.------Permissions: android.permission.INTERNET (for error reporting)android.permission.WRITE_EXTERNAL_STORAGE (for saving your edited photos)android.permission.VIBRATE (for some fun tactile feedback which we bet will make you smile!)android.permission.NFC (used to share photos via NFC from the main screen)Recent changes:+Minor Bug Fixes and Optimizations.+Additional location info added to on-device photo details.+Check out the new Toy Camera Effects Pack, also available now in the Google Play Store! http://play.google.com/store/apps/details?id=com.aviary.android.feather.plugins.filters.toycamera'
+p4
+tp5
+tp6
+.

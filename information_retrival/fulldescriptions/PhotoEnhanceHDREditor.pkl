@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo Enhance HDR Editor '
+p1
+tp2
+(S'Description:'
+p3
+S'Boost detail in your photos, crop, adjust brightness, contrast, saturation, white-balance, hi-impact mono.Photo Enhance uses a unique process to boost detail, particularly in the darker parts of your image. Better, clearer photos, without the need for a better camera. Or simply use Photo Enhance as an easy-to-use, quick photo editor.This free version saves and shares at web-resolution -- upgrade to Photo Enhance HDR Editor Pro for enhanced, detailed, full sized high definition images. For now, full one-week refund promise for Photo Enhance HDR Editor Pro.Load images from Gallery or share from the Camera app, image editor, etc.Save your results to SD card or share by email, upload to Twitter, Facebook, Google+, send to Messaging, Photoshop, painting apps, photo editors, ...Fully compatible with Android 3 Honeycomb tablets and Android 4 Ice Cream Sandwich and Jelly Bean.App screenshots are are un-retouched screen dumps of photos being edited in Photo Enhance with Enhancement set to "maximum". Photos taken on a Samsung Galaxy Nexus.Version 2: much faster effects.Recent changes:Fixed a bug that caused Adjust to crash in Android 4.2 (Jelly Bean).'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Baby Tracker '
+p1
+tp2
+(S'Description:'
+p3
+S"Wondering if your newborn\xe2\x80\x99s getting enough to eat? Sleeping enough? Growing and hitting milestones fast enough? Make the most of every amazing moment of your little one\xe2\x80\x99s first 12 months with the FREE What to Expect Baby Tracker \xe2\x80\x94 your mobile partner in parenting. Stay on top of your baby\xe2\x80\x99s development and pick up pointers on baby care and behavior with this new app from Heidi Murkoff\xe2\x80\x99s best-selling parenting guide, What to Expect the First Year. At home or on-the-go, you\xe2\x80\x99ll find everything you need to know to help you make the most of your baby's first year \xe2\x80\x94 right at your fingertips. You\xe2\x80\x99ll get: \xe2\x80\xa2 A month-by-month guide to baby development and behavior \xe2\x80\xa2 Practical advice on baby care, doctor visits, colic, and more \xe2\x80\xa2Ideas for games and activities, no matter how old your baby is \xe2\x80\xa2 Access to the What to Expect message boards so you can get support and ideas from other baby mamas (and dads) \xe2\x80\xa2 And much, much more!Download the free Baby Tracker today so you can start feeling like a pro in all things baby. And join Heidi and a whole community of other new moms and dads \xe2\x80\x94 and their babies\xe2\x80\x94 at WhatToExpect.comRecent changes:General bug fixes"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RealPlayer\xc3\x82\xc2\xae '
+p1
+tp2
+(S'Description:'
+p3
+S'RealPlayer: The popular media player for video, music and photos on your Android. The all-in-one player supports music, videos, MP3, YouTube video search and playback, and radio on your Android device. Download RealPlayer for free to play your playlist, podcast and more to get the best all-in-one experience.  RealPlayer Features \xe2\x80\x93 available with the free RealPlayer app\xe2\x80\xa2 Online video search, that searches YouTube, Bing and other sites.\xe2\x80\xa2 Voice commands for search\xe2\x80\xa2 Videos, Music and photos all in one place\xe2\x80\xa2 Available in 9 languages\xe2\x80\xa2 Auto bookmarking of videos\xe2\x80\xa2 Optimized graphics for high-res devices\xe2\x80\xa2 Playlists\xe2\x80\xa2 lastFM scrobbling\xe2\x80\xa2 Control playback when phone is locked\xe2\x80\xa2 Sharing on popular social media sites\xe2\x80\xa2 Move application to SD card\xe2\x80\xa2 Set your favorite song as a ringtone\xe2\x80\xa2 Headphones controls\xe2\x80\xa2 Home screen widgets to control media\xe2\x80\xa2 Access any file format your device supports Additional Features \xe2\x80\x93 available through an in-app upgrade\xe2\x80\xa2 Graphic equalizer with ability to save custom settings\xe2\x80\xa2 Metadata discovery using the Gracenote database\xe2\x80\xa2 Manual metadata editing\xe2\x80\xa2 Cross fading for a seamless music experience\xe2\x80\xa2 RealAudio and RealVideo (rmvb) support\xe2\x80\xa2 No advertisementsRecent changes:\xe2\x80\xa2 Online video search.\xe2\x80\xa2 Graphic equalizer with ability to save custom settings* \xe2\x80\xa2 Music identification with metadata and cover art from Gracenote database*\xe2\x80\xa2 Metadata editing*\xe2\x80\xa2 Music crossfading with settings*\xe2\x80\xa2 RealAudio and RealVideo (rmvb) support*\xe2\x80\xa2 Available in nine languages\xe2\x80\xa2 last.fm scrobbling\xe2\x80\xa2 No advertisements**These features are available through an in-app upgrade.'
+p4
+tp5
+tp6
+.

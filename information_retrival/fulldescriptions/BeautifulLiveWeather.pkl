@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Beautiful Live Weather '
+p1
+tp2
+(S'Description:'
+p3
+S'Beautiful Live Weather is a Live Wallpaper for your Android phone!Display a sunny weather, but combined with Beautiful Widgets (from the market), you will be able to watch the real weather conditions, rain, snow, storms, etc!Does not work on Eris, Hero and Moment!A better version, OpenGL accelerated and with more features is included within Beautiful WidgetsRecent changes:Hotfix for the Google weather icon name change'
+p4
+tp5
+tp6
+.

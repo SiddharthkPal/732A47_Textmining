@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fancy Widgets '
+p1
+tp2
+(S'Description:'
+p3
+S'Personalize your Android home screen with highly customizable clock widgets, weather widgets, home (clock & weather) widgets, forecast widgets, and more with lots of customization options.Basic features:- Clock with customizable time and date format- Current weather condition and 3/4-day weather forecast- Choice of Google or AccuWeather for weather forecast- Celsius and Fahrenheit temperature support- Geo-location for weather or search city by name/zip code- Configurable refresh interval- Additional information (e.g., battery level) on the widget- Customizable widget tap actions- Automatic sunrise/sunset time calculation- Moon phase calendar- Different widget sizes and styles with skin support- Access to the Fancy Widgets Market and convenient skin management- Many customization options to make your beautiful widgetsFull version exclusive features:- Multiple location support for both clock and weather- Additional weather providers: WeatherBug, MSN Weather, and The Weather Channel- Current temperature notification- Severe weather alerts with customizable notification options- Easy backup/restore of your widget settings- Over 400 clock and weather skins to decorate your home screen- Fancy weather animations (rain, storm, snow, etc.)- Fancy Widgets 1x1: weather icon, moon phase, date, battery- Fancy Widgets 2x1: forecast, digital/flip clock, date- Fancy Widgets 4x1: digital/flip home (clock and weather), weather, forecast, digital/flip clock- Fancy Widgets 4x2: digital/flip clock- Even more customization optionsNOTE: Please exclude Fancy Widgets from your task killers. Otherwise, the widgets will not be able to update properly.If you purchased Fancy Widget Pro from the Android Market or Amazon Appstore before, you may request a free license key on our website using your Google/Amazon order number.Please read the FAQ and head to our forum for support.http://forum.anddoes.com/Recent changes:v3.5.5* Fixed a force close bug when trying to unlock on devices running Android 2.1 or earlier* Changed the reporting option to allow users to opt out of anonymous usage reportv3.5.4* Added support for XHDPI screens (e.g., Galaxy Nexus)* Fixed a bug with clock updates on the forecast screen* Fixed a minor issue with weather alerts (full version only)* Improved mechanism to get the next alarm time* Updated language translations'
+p4
+tp5
+tp6
+.

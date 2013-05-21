@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PrintBot '
+p1
+tp2
+(S'Description:'
+p3
+S"Network printer driver for Android. Directly print your photos from your Android device over your WIFI network. No need to install anything on your PC!Lets you print images and PDF documents from all applications (e.g. browser, email). Simply click on file or use send/share, then choose PrintBot.Print emails from K9Mail using Forward/Alternative.HTML printing for static web pages. This won't work for dynamic pages or for pages where a login is required. Printing images on web pages is only supported in Pro version.If you have any problems setting up, please use the integrated setup help (Menu -> Help)- Supports more than 2800 printer models from all leading manufacturers (e.g. HP, Canon, Epson, Lexmark, Brother, Samsung). Works with most Airprint\xe2\x84\xa2 enabled printers.- Supports printing over JetDirect, LPR and IPP protocol.- Auto scan for printers- Free version allows printing of 3 images or PDF documents per month (maximum file size is 1MB)- Pro version allows unlimited printing and printer profilesRecent changes:- No new drivers in this version- Small bug fixes"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bloomberg for Smartphone '
+p1
+tp2
+(S'Description:'
+p3
+S'Get business/finance news, market data and stock tracking tools from the most trusted source financial professionals around the world rely upon. Get comprehensive news coverage along with easy-to-understand charts and graphs that illustrate the impact of important business trends and issues.Recent changes:* Minor update adding support for  - Sony Xperia Z - HTC DNA / ButterflyNote: Users may face audio sync issue with Live TV on HTC DNA / Butterfly due to a known issue with the HTC handset* Bugs/crash fixesNew in last update 1.2.0:* News article screen improvements: - Font size selector - Contrast mode (Black on White) - Swipe to next news article - Social Sharing (Facebook, LinkedIn, Twitter)* Top videos from Bloomberg TV. Live TV on ICS or higher* Search assist in Stock Finder'
+p4
+tp5
+tp6
+.

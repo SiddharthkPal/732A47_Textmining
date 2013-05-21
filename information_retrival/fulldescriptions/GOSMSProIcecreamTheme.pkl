@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO SMS Pro Icecream Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Icecream Theme for GO SMS Pro is available now! Designed and developed by GO SMS Dev Team,in the style of Android 4.0(Icecream),going well with the new interface of the latest GO SMS Pro version, you\'ll like it for sure!Important:1. This is not a standalone app, you need to download the LATEST version of GO SMS Pro app in order to apply this theme. (Search \xe2\x80\x9cGO SMS Pro\xe2\x80\x9d to download)2. To apply the theme within GO SMS Pro,download it from Menu->Settings->Appearance Settings->Theme shop(or Plug-in UI->Theme shop). After downloaded, it will displayed in "Installed themes" Tab, click and apply it.GO SMS Pro theme gosmstheme'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Super Clock Wallpaper Free '
+p1
+tp2
+(S'Description:'
+p3
+S'THIS IS A LIVE WALLPAPER - NEEDS ANDROID 2.1 OR ABOVE.*NOW FULL ANDROID 4.1 JELLY BEAN SUPPORT! HD QUALITY LIVE WALLPAPER ON YOUR SMARTPHONE AND TABLET!**CHECK OUT MY NEW RLW LIVE WALLPAPER! LIVE WALLPAPER WITH THEME SUPPORT!**THE APP OPENS CORRECTLY, DON\'T TRUST THE COMMENTS SAYING THAT THE APP DOESN\'T OPEN - READ HOW TO USE SECTION IF YOU DON\'T KNOW HOW TO USE LIVE WALLPAPERS*If you want to see the LWP in action, take a look to the related VIDEO!!Super Clock Wallpaper Light is the Free version of Super Clock Wallpaper Pro.It is designed both for Phones and for Tablets. Android 3.0 Honeycomb is completely supported with Hardware Acceleration!Super Clock Wallpaper is Android 4.0 Ice Cream Sandwich -ready!**PLEASE LEAVE A GOOD COMMENT AND RATING IF YOU LIKE IT!****GET THE PRO VERSION TO GET ALL THE AMAZING CUSTOMIZATION OPTIONS!**It is studied to be featherweight and keeps your battery life safe!With Super Clock Wallpaper you can unleash your creativity and give your phone a unique and personal look!--------If you want more features, or find something that doesn\'t look cool or crashes, write me an e-mail and I\'ll do my best to improve the wallpaper for the next release!--------***HOW TO USE: ******1)To apply the wallpaper, follow these steps:Tap your homescreen -> Wallpaper -> Live Wallpapers ->  Super Clock Wallpaper Light2)To set a custom background:-In Super Clock Wallpaper Settings, Click on Background Appearance-Uncheck "Use Color Background"-Click "Set Custom Background"  and choose your desired background!IMPORTANT: on phone, please set your wallpaper while keeping the device in portrait mode (vertical). Don\'t rotate the phone when selecting custom backgrounds, this can cause FC.Keywords: live wallpaper, clock, wallpaper, wall, font, customize, theme, color, custom, customization, size, resize, widget, widgets, performance, battery, lifeRecent changes:*NEW FONT: Roboto added! -  It is the default font for Android 4.0+!* Performance Improvements* Bug Fixes'
+p4
+tp5
+tp6
+.

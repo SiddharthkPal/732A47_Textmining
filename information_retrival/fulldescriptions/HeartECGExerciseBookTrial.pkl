@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Heart ECG ExerciseBook - Trial '
+p1
+tp2
+(S'Description:'
+p3
+S'***** ECG ExerciseBook *****After the big success of Heart ECG HandBook, here it is Heart ECG ExerciseBook!After studied various ECG in your HandBook, download your personal ExerciseBook with Stats function to better your knowledge step by step!Choice among three different levels of difficulty and test your skills: Easy for begginners, Medium for advanced and Hard for experts. What level your kwnoledge corresponding to? Discover it60 different quiz and tests, 20 for level (soon new tests available!) with different answers.A lot of quiz are related to ECG charts, to better and maximize your learning.***** Main Features *****- Three difficulty level- ECG chart for numerous quiz- Stats function to better your learning- Chart for each Quiz: is some quiz hard?- Big quiz database (60 different quiz), ever updated, divided by level- Suitable function to see quiz individuallyFeatures above and more others: download it today!This is a Lite version with limited quiz consultation. To have unlimited number of consultations is available a cheap Full Version.Note: this App doesn\xe2\x80\x99t claim to be a medical application.Recent changes:20.01.2013, v1.1- Bug fix for wrong answer in some quiz- Bug fix layout in device with low resolution'
+p4
+tp5
+tp6
+.

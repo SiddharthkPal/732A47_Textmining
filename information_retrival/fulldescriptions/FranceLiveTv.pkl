@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'France Live Tv '
+p1
+tp2
+(S'Description:'
+p3
+S"France Live TvCompletely free.* No need to uses extra devices, extra utilities.* Just use your mobile device (phone,tablet, etc.) .* Easy to use. Just click and watch. * Some of the channels included:Air, Alsace20, Arte HD, BFM TV, Canalplus 1, Canalplus 2, Canalplus 3, Canalplus 4, Canalplus 5, Clubbing TV, Euronews, Fashion TV, Gulli, KTO, La Deux, La Trois, La Une, Men's UP TV, Mirabelle TV, PTC, Weo, Yvelines Premi\xc3\xa8re. Streams have been updated : 13.03.2013 (If you see a channel that does not work, please send us email instead of giving one star.) Add your comments and give stars on the market! Thanks.If you want us to add a new channel, send us email with channel name and a link to the channel. We will add it! This is not the official application of the different channels. This application uses internet connection. Wifi/3g/4g are supported connection protocols. Wifi is more economic and more robust internet connection,so we recommend to use wi-fi.Recent changes:Version 0.0.8: Refreshed stations list - added channels"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MiniDict Arabic/English '
+p1
+tp2
+(S'Description:'
+p3
+S'Arabic/English offline simple and fast dictionary that gathers the most frequently used words nowadays.Recent changes:Minor fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Outlook.com '
+p1
+tp2
+(S'Description:'
+p3
+S'The official Microsoft Outlook.com app gives you easy access to Outlook.com so you never miss a thing. Send and receive emails on the go from your Android device. Sign in using your existing Microsoft account, usually your Outlook.com email address and password. Key features include:- New intuitive design, look and feel - Get emails right away with push notifications - Sync with your device Calendar and Contacts- View and sync standard and custom folders, including sub-folders- Group your email conversations with Conversation Threading- Send, receive, and view photos and other attachments- Easy to use search functionality - Use with multiple Outlook.com accounts \tTips- Filter your emails (all, unread or flagged) by clicking on Inbox in the top menu.- Access your standard and custom folders by clicking on the top left Menu. - To view your Sent, Draft, Deleted or custom folders, from the app menu select Account Settings, Folders\xe2\x80\x99 and Refresh folders. Then select from the list which folders you would like to automatically sync to receive updates. Android versions supported: 2.3, 4.0, 4.1 and 4.2Recent changes:- New look and feel - Filters for unread and flagged messages- Conversation threading- Marking messages as junk'
+p4
+tp5
+tp6
+.

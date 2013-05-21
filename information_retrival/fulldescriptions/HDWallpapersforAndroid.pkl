@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HD Wallpapers for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'Qualitative and convenient  for application of HD Wallpaper for Android. Here you will find more than 50 000 qualitative wallpapers specially chosen for the Android. You can choose wallpapers for the mood, tricks, friends, a family and relatives. Wallpapers are sorted on category (39 categories), so you can easily find what you want. With HD Wallpaper for Android you can easily conveniently   establish liked wallpaper.The advantages of the application:-The application is available for everyone and it\'s free-The quality and speed of loading-The database is updated every day-The division into categories-Quick Search-The base-over 50 000 wallpaper-Wallpapers specially chosen for the Android-Possibility to save the wallpaper-SlideshowWhy should you pay for application if you can download it free? In function and quality of our application is not inferior to pay.Even if you can not choose all of the proposed wallpapers for you, the button "Random" will help you. You can also choose the background color when you are viewing the wallpaper . It is impossible not to see the slideshow, which is beautifully prodemontriruet wallpaper in the selected category.Categories:3D graphics,  Abstraction,  Aircraft, Auto, Anime, Helicopters, Glamour, Cities, Girls, Children, Food, Animals, Sunsets, Games, Ships, Computers, Space, Cats, Creative, Love, Macro, Motor, Men,  Music,  Cartoons, Drinks,  Moods,  Holidays,  Funny,  Nature, Beach,  Rendering, Airplanes, Dogs, Sport, TexturesRecent changes:2.1'
+p4
+tp5
+tp6
+.

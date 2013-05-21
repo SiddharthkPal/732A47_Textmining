@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Overstock.com Shopping App '
+p1
+tp2
+(S'Description:'
+p3
+S"Find brand-name products at up to 70% off when you use the Overstock.com app on your Android device to browse, search, select, and purchase any item that's available on the Overstock.com website. \xe2\x80\xa2\tShop site sales wherever you are.\xe2\x80\xa2\tFind brand-name items at up to 70% off MSRP.\xe2\x80\xa2\tTrust our best price promise. We compare 500,000+ prices every week, so you know you'll save money.\xe2\x80\xa2\tContact our award-winning customer service center.\xe2\x80\xa2\tExclusive access to Lott-O discounts.\xe2\x80\xa2\t*Free standard shipping on orders $50 and up applies to U.S. orders only. For expedited shipping, additional charges will apply. Offer applies to the lower 48 states. Offer excludes Alaska, Hawaii, APO/FPO and international orders. Sales tax and charitable donations are excluded from subtotal for purposes of this offer."
+p4
+tp5
+tp6
+.

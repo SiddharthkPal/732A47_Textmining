@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kekanto - Bares e Restaurantes '
+p1
+tp2
+(S'Description:'
+p3
+S"Kekanto is the social network of word of mouth online where you exchange reviews and recommendations about places and services. Download the app now for free and star exploring the city!Kekanto helps you finding the best places near your location, with comments, ratings and reviews from customers just like you. Now you can get to know the best of each place you visit.Using Kekanto you will be able to:\xe2\x98\x85 Finding restaurants, bars, hotels, clubs, cafes, etc. near you;\xe2\x98\x85 Share your experience of places you visited;\xe2\x98\x85 Follow your friends' reviews and check-ins;\xe2\x98\x85 Get to know better the business near you;\xe2\x98\x85 Share your reviews in Twitter and Facebook;\xe2\x98\x85 Home screen widget to check business nearby (Android newer or equal 3.0);\xe2\x98\x85 Favorite establishment widget (all Android versions); and much more!Recent changes:This new version is stabler, faster and has new features! Check it out:\xe2\x98\x85 Improved app performance in many screens;\xe2\x98\x85 The app tells you when there is no data connection;\xe2\x98\x85 Your friends notifications are now groupped togethers in the side menu;\xe2\x98\x85 New layout in the login and add friends screens;\xe2\x98\x85 New types of friends activities notifications: badges, comments in reviews and much more!"
+p4
+tp5
+tp6
+.

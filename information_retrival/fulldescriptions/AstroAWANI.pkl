@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AstroAWANI '
+p1
+tp2
+(S'Description:'
+p3
+S'AstroAWANI is your one-stop destination for breaking news, information, live TV, business, entertainment, sports, videos and photos from Malaysia. Read and watch the day\xe2\x80\x99s biggest stories in English and Bahasa Malaysia. Simply use the toggle button to switch to your preferred language.Features:-Breaking news notifications-News by the minute: Breaking news, latest updates, videos and photos across various categories.-Bi-lingual application \xe2\x80\x93 a single destination to view in Bahasa Malaysia or English-Watch Live TV on the move-Entertainment, Business, Sports and World news videos-Native integration for Facebook and Twitter sharing.-Also share via email and SMS (on phone)-iPhone app allows you to be a citizen journalist and share photos and videos from your device with AstroAWANIRecent changes:Download this app update to follow live coverage of Malaysia Memilih 2013 on May 5th. Get real-time updates, interactive maps and more from each state.Also some minor bug fixes.'
+p4
+tp5
+tp6
+.

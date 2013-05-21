@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Oogdruppelen '
+p1
+tp2
+(S'Description:'
+p3
+S'Bij het oogdruppelen is het van belang dat u dit op de juiste manier doet en met de juiste regelmaat. Deze app geeft u een duidelijke instructie over hoe u uw ogen en die van een ander druppelt. Daarnaast kunt u meldingen instellen waardoor u een herinnering krijgt als u moet druppelen. Het druppelen van de ogen is een belangrijk onderdeel van het behandelplan van de pati\xc3\xabnt. Bij het druppelen van de ogen is het dan ook erg belangrijk dat dit op de juiste manier en met regelmaat gebeurt. Alleen dan kan een veilige, hygi\xc3\xabnische en effectieve behandeling gegarandeerd worden. In de praktijk blijkt dat het druppelen bij jezelf of bij een ander zeer lastig is. Veel mensen gebruiken de oogdruppels op een onjuiste manier. De druppels worden niet goed en op verkeerde tijdstippen toegediend. Dit verlaagt de effectiviteit van de behandeling. In enkele gevallen heeft verkeerd gebruik van oogdruppels zelfs een oogbeschadiging tot gevolg. Voordelen van de app: \xc2\xb7 U kunt instructies snel en op elk moment oproepen; \xc2\xb7 De app geeft u informatie over het druppelen bij uzelf of bij een ander; \xc2\xb7 De oogdruppelinstructie kunt u door de app laten voorlezen; \xc2\xb7 U kunt voor uw specifieke oogdruppel(s) de tijden en frequentie instellen, de app is hiermee een actieve geheugensteun om tijdig te druppelen.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dictionnaires Fran\xc3\x83\xc2\xa7ais '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x9d\xa1 Tapez un mot et Recherche Dictionnaires Fran\xc3\xa7ais simultan\xc3\xa9ment.\xe2\x9d\xa1 Dictionnaires- Reverso- Reverso Synonymes- Reverso Littre- FreeDictionary- Le Conjugueur- Larousse- Larousse Encyclop\xc3\xa9die- Larousse Archives- CNRTL- CNRTL DMF- ATILF- CRISCO- Othonet- Dictionnaire1905\t- Artflx\t- dvlf- dicfro- sensagent- Mediadico- Linternaute- Acad\xc3\xa9mie- Les Verbes- Panoccitan- Le Dictionnaire- Synonymes- Conjugaison- iladit- Wiktionnaire- Wikip\xc3\xa9dia- Google- Google Actualit\xc3\xa9s- Google Images- Google LivresC'est tr\xc3\xa8s pratique.[tag]Dictionnaire de fran\xc3\xa7ais recherchefrench dictionary search copyharuki studio"
+p4
+tp5
+tp6
+.

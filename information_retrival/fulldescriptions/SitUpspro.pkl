@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sit Ups pro '
+p1
+tp2
+(S'Description:'
+p3
+S'How to use: Hold your phone above the chest with two hands.Tip: Since Android OS limitation, please install on your Phone instead of SD card if need notification work normal after restart phone.Sit Ups! Train with your Device! Your personal trainer for free.The best Sit Up app is coming with its unique design and powerful function.This is a real personal fitness trainer. This is a cool body builder. Sit Ups not only helps counting the number of Sit Ups you do, but also calculates the calorie you lose during every excise and makes the training plan based on your daily training and body status.In training mode, the app will make a reasonable training plan based on your age and body status. The plan will be divided in to six levels with each level containing several groups of Sit Ups. Training plan for next group or level will be based on your current training result. In each new level the app will re-evaluate your body status to make sure the plan is customized.You can not only count the Sit Ups using proximity sensor but also enter the training data manually.Check out how this app helps you build up your body through doing push up. It will not disappoint you.Features:* Gravity Induced Counting * Enter training data manually* Graphs and Statistics* Training mode* Freestyle Mode* Training data back up and restore* Training Notification Tag: Sit up, Sit, Up, Body, fitness, beauty, girl, beautiful, tip, body building, body builder, training, push up, pushups, press ups, exercises, fitness, coach, strength,Recent changes:V2.05* New layout for training test page.* New resolution support 1280x800 for Nexus7.* New feature click on the screen count also.* New feature slide to switch month in chart.* Fix grammar mistakes for Traditional Chinese, thanks to Canvas Lue.* Add Polish lanuage. thanks to Bartosz.* New language Spanish. thanks Mario corona partida.'
+p4
+tp5
+tp6
+.

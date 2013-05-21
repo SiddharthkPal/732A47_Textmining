@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Livestream for Producers '
+p1
+tp2
+(S'Description:'
+p3
+S"Livestream for Producers lets you create events and GO LIVE for free!The Livestream for Producers mobile app is a full suite of live event coverage tools exclusively for New Livestream - now including broadcasting live video from your Android device.Everyone can take advantage of the New Livestream with the first ever free, ad-free live streaming and live blogging service.  The New Livestream is the next generation in live event coverage combining live video with real-time photos, text, and video clip updates. Features on the New Livestream includes the industry's most advanced live video player along with an array of tools that allow more people to discover your event, interact with it and share it across the web.** Android App FEATURES **- Broadcast Live video to your event page (Live Video)- Create a free, ad-free new livestream account- Manage your New Livestream Account (Create, delete, publish events)- Create event posters from phone photos (Live Event Page)- Post Photos which appear in real-time on your event page (Live blogging)- Post Videos which appear in real-time on your event page (Live blogging)- Post Text Updates which appear in real-time on your event page (Live blogging)- Remote control and preview of the Livestream Broadcaster Device (Live Video)- Moderate comments during live events and on archived posts - Built-in FTP server to receive live photos from Wifi equipped DSLR cameras. (Live Blogging) Find out more http://bit.ly/HnHvej** What is the Livestream Broadcaster? **The Livestream Broadcaster is a new hardware device that lets you broadcast HD Live video to the web without a PC. Connect to any HDMI camera or mixer and broadcast live to the web and mobile devices over a wired, wireless or 3G/4G Internet connection. You can control the Livestream Broadcaster using the iOS app from anywhere in the world. You can learn more and purchase the Livestream Broadcaster by visiting:http://store.livestream.com/products/livestream-broadcaster for more information.Recent changes:- A fix to remove a buzzing noise that was affecting Motorola Razr HD phones when live streaming- Various bug fixes to improve event editing and audio during live video streaming. - Enhancements to the app for better overall performance"
+p4
+tp5
+tp6
+.

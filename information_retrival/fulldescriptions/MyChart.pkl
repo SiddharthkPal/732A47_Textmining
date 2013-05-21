@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MyChart '
+p1
+tp2
+(S'Description:'
+p3
+S"MyChart gives you access to your lab results, appointment information, current medications, immunization history, and more on your mobile device. With MyChart you can: \xe2\x80\xa2 View your health information \xe2\x80\xa2 Stay in touch with your physician \xe2\x80\xa2 Manage your appointments \xe2\x80\xa2 Access your family's health information You must first create an account through your healthcare provider in order to access your information through MyChart. If your healthcare provider is not listed, or if you require support accessing your existing account, contact them directly about accessing your account through the MyChart app.Recent changes:2.1.2\xe2\x80\xa2 Ability to view and pay bills for organizations that support mobile billing\xe2\x80\xa2 New versioning scheme for all Epic apps1.11.01\xe2\x80\xa2 Spanish and Dutch text now appears as expected.1.11\xe2\x80\xa2 Schedule an appointment, request medication refills, attach images or videos to messages, or access the app in Spanish. (Only for participating healthcare providers)"
+p4
+tp5
+tp6
+.

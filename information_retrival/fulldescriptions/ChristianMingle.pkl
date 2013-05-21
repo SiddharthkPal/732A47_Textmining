@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ChristianMingle '
+p1
+tp2
+(S'Description:'
+p3
+S'As the largest and fastest growing online community for Christian singles, ChristianMingle.com is proud to provide you with a fun (and FREE) new way to search for Christian singles near you! This App allows you to: \xc2\xb7         View Member Photos\xc2\xb7         Read Member Profiles\xc2\xb7         Send \xe2\x80\x9cSmiles\xe2\x80\x9d\xc2\xb7         Favorite Your Top Matches\xc2\xb7         And More! The ChristianMingle App was designed specifically for Christian singles to browse member photos in an easy and fun way while on the go! Don\xe2\x80\x99t forget \xe2\x80\x93 you can go to m.ChristianMingle.com to enjoy even more ChristianMingle features from your smartphone like sending emails, Instant Messaging and playing our Secret Admirer game! Download our FREE App and find Christian singles near you today! We love hearing from our members! Tell us what you think about the ChristianMingle App by sending your feedback to Apps@ChristianMingle.com. The ChristianMingle App presently runs on OS 2.3.3 and above.Recent changes:- Instructions appear after first login- Bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nexus 7 Camera Starter '
+p1
+tp2
+(S'Description:'
+p3
+S"This app starts the default Nexus 7 camera app. The Nexus 7 has a front camera, but by default there is no icon to start the camera app. You need this app to start the default Nexus 7 camera app. It's simple. It's fast and the best of all, it's free. Download it now and have fun with your Nexus 7 camera!+ Default camera type (video, foto) to start is configurable+ Simple, effective and fast camera start+ Really beautiful camera icon from \xe2\x80\x9cIcons by: LazyCrazy\xe2\x80\x9d made by www.artdesigner.lvPermissions============Network communication, Full Internet access:Needed by the Nexus 7 Camera launcher for completely anonymous statistics.Links============homepage: http://gabenative.comfacebook: https://www.facebook.com/gabenativetwitter: https://twitter.com/gabenativegoogle+: https://plus.google.com/101886319928380975453Sources:============+ Camera Icon: \xe2\x80\x9cIcons by: LazyCrazy\xe2\x80\x9d (http://www.artdesigner.lv)+ Logo Font: Probert by Neale Davidson (http://www.pixelsagas.com/)Recent changes:Fixed: Camera didn't start on some Nexus 7 devices. Improved compatibility with more Nexus 7 devices.Fixed: Shows an informative message dialog when no camera was found."
+p4
+tp5
+tp6
+.

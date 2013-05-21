@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mp3 Music Search & Download '
+p1
+tp2
+(S'Description:'
+p3
+S"Search and download mp3 music through the best music search engine.Search and download mp3 music from public domain via public search engines.With this new version of Mp3 Search and Download you can edit the songs, cut them and set them as the call ringtone, notification and single contact ringtone!After download, you use your default music player to play the song! You don't have to move the songs! Only try to refresh your music library!Do not get angry with other bad applications that promise you miracles. Not invasive like all the others!Tested on: Galaxy Nexus, SGS2, SGSIII, Nexus 7, Nexus S, Nexus 10, Nexus 4, HTX One X, HTC One S, Desire HD, Desire S, Optimus 3D, Motorola Razr, Sony Xperia series, Asus, all Xperia family, Transformer Prime, Xoom and various TEGRA 2-3-4 devices...Both Jelly Bean and ICSRecent changes:With this new version of Mp3 Search and Downlaod you can edit the songs, cut them and set them as the call ringtone, notification and single contact ringtone!"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quick Manga | Manga Reader '
+p1
+tp2
+(S'Description:'
+p3
+S'Quick Manga is a free, fast, powerfull manga reader with library of more than 10000 mangas in many languages include English, French, German, Italian, Spanish, Russian. You can browse manga by categories, by name, last updates, popularity. Features:- Preload pages while you are reading for your smoothly enjoy- Bookmark reading manga- Check bookmarked manga for new chapters- Download to SD card to read offlineRecent changes:Fixed Mein Manga parsing error'
+p4
+tp5
+tp6
+.

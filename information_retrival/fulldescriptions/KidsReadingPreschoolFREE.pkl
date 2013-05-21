@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kids Reading (Preschool) FREE '
+p1
+tp2
+(S'Description:'
+p3
+S'The paid version has 15 extra words in the first and the third activities as well as child-lock functionality that can be enabled in Preferences.  Please note that child lock functionality is not available on tablets.Kids Reading (Preschool) FREE (a.k.a. Kids Learn to Read) will teach you children to:- Blend sounds into words- Read simple words- Form simple wordsKids Learn to Read is the 4th app in our Alphabet Curriculum Series.  It is preceded by Kids ABC Letters, Kids ABC Phonics, and Kids ABC Trains. \xe2\x98\x85 Prerequisites:Knowledge of letter names and sounds (if not, first get Kids ABC Letters, Kids ABC Phonics and Kids ABC Trains)Kids Reading is a delightful game that invites your children to practice blending sounds together to form, read and spell words that are all made up of only three letters of the alphabet, such as "dog","sun", and "big".\xe2\x98\x85 What won\'t my children learn?They won\xe2\x80\x99t learn to read words longer than three or four letters.Kids ABC Reading assumes that your kids already know the sounds that the letters of the alphabet make. If your children do not know these sounds yet, we recommend our Kids ABC Phonics app.Kids Reading assumes that your kids already know the sounds that the letters of the alphabet make. If your children do not know these sounds yet, we recommend our Kids ABC Phonics and Kids ABC Trains apps.And if your children have not had a chance to learn the names of the letters, we recommend that you download our Kids ABC Letters app. It\'s the most enjoyable way ever for kids to learn the names of the letters of the alphabet.To summarize:Kids ABC Letters teaches lettersKids ABC Phonics teaches soundsKids ABC Trains teaches letters and phonicsKids Learn to Read (i.e. this app) teaches your children to read simple wordsRecent changes:Improved compatibility with Google Nexus 7'
+p4
+tp5
+tp6
+.

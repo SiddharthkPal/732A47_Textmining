@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Dr. Panda's Daycare - Free "
+p1
+tp2
+(S'Description:'
+p3
+S"Let your kids try the FREE version of the fun and interactive Dr. Panda\xe2\x80\x99s Daycare! Play with 3 of the cute animal babiesthat are included in the full version. Don\xe2\x80\x99t forget to put them to sleep and make them happy! Get the full version to unlock more animal babies, more rooms, more interactions, and more FUN! Imagine and play in Dr. Panda\xe2\x80\x99s Daycare! Dr. Panda\xe2\x80\x99s Daycare is a virtual play app which stimulates creative thinking. Animal parents bring their babies to Dr. Panda\xe2\x80\x99s Daycare and it is your kid\xe2\x80\x99s job to take care of them! You can play with them, put them to bed or have a birthday party, this game allows for nearly endless possibilities! For kids from 2 to 6 years old. FULL VERSION\xe2\x80\x99S KEY FEATURES:- More than 1000 different interactions as well as role play elements like playing, putting animals to sleep, cooking, feeding them, making music and much more - Educational values: Stimulation of imagination and creativity, feeling of responsibility - Create your own music in the music room! - Kids and Parents Friendly: Easy-to-use interface and no reading required - Kids Safe: No third party advertisement or any in-app purchase Dr. Panda's Daycare is certified by the kidSAFE\xc2\xae Seal Program. To learn more, click on the seal or go to www.kidsafeseal.com. Check out other Dr. Panda games: - Dr. Panda's Beauty Salon- Dr. Panda's Restaurant - Dr. Panda's Hospital - Dr. Panda, Teach me! - Dr. Panda's Veggie Garden - Dr. Panda's SupermarketABOUT Dr. Panda Dr. Panda creates kids games with educational values that teach kids about life and the world around them. http://www.drpandagames.com If you have any further questions or are interested in how we designed the app together with kids, feel free to contact us any time. Just drop an email to support@drpandagames.com or contact us via Facebook http://www.facebook.com/drpandagames.KEYWORDSkids, nursery, school, toddler, play, music, for, daycare, house, games, dollhouse, app, girls, doll, children, toy,"
+p4
+tp5
+tp6
+.

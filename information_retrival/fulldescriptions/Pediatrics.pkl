@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pediatrics '
+p1
+tp2
+(S'Description:'
+p3
+S"PEDIATRICSDigital Abstracts EditionStarting with the December 2010 issue, you can now get the abstracts of every Pediatrics article, both print and online, compiled together into one convenient mobile format. This new edition is composed to replicate the design of our award winning print journal, and in addition to all the article abstracts it also features the full-text of AAP Policies, Commentaries, and Perspective columns.Get the low-down on leading research, special features, reviews, and case studies at your fingertips\xe2\x80\x94and all with 24/7 access. It fits into any busy schedule. Find out today why you can't afford to miss a single issue.And if that wasn\xe2\x80\x99t enough, it\xe2\x80\x99s Free!\xe2\x80\x9cThe content of the journal is intended to encompass the needs of the whole child in his physiologic, mental, emotional, and social structure.The single word, PEDIATRICS, has been chosen to indicate this catholic intent.\xe2\x80\x9d-Hugh McCulloch, PEDIATRICS, January 1948PEDIATRICS is the official peer-reviewed journal of the American Academy of Pediatrics and a long-time leader in the field. The journal has been publishing original research, clinical observations, and special feature articles on a monthly basis since 1948. The journal serves authors and readers of the general medical profession as well as pediatricians, and contributions relevant to pediatricians are also included from disciplines such as nutrition, surgery, dentistry, public health, child health services, human genetics, basic sciences, psychology, psychiatry, education, sociology, and nursing. Now you can enjoy the full-range of the print and online editions in a format as mobile as you are!The PEDIATRICS Digital Abstracts Edition Android app includes:-Stunning typeset format, designed after the print edition.-Text-formatted articles, for maximum mobile readability.-Downloadable issues for easy offline reading.-Searchable archive of available issues.-Bookmarking capabilities for your favorite articles.-Ability to share your comments with other readers.-Weekly RSS feeds.____________________About Texterity  This application is powered by Texterity, a leader in digital publishing technology, provider of hundreds of online digital publications, and coverleaf.com. Check the Android Market for more apps from your favorite magazines! This app is currently designed for phones only."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'EP Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"EP Mobile provides tools for cardiac electrophysiologists, cardiologists, cardiology fellows, internists, emergency room physicians, medical students, nurses, technicians, and other health care workers who deal with cardiac arrhythmias. If you have suggestions, features you'd like to see, or complaints, please email us! EP Mobile -- The Swiss Army Knife of Electrophysiology!Features: - Drug dose calculators: dabigatran, dofetilide, rivaroxaban, \tsotalol and apixaban- Warfarin clinic weekly dose calculator- Interval to rate conversion- QTc calculator (Bazett, Fridericia, Sagie and Hodges formulas)- Atrial fibrillation risk scores (CHADS2, CHA2DS2-VASc)- Bleeding risk scores (HAS-BLED, HEMORR2HAGES)- Hypertrophic Cardiomyopathy risk score calculator- CMS (Medicare) ICD guidelines calculator- VT localization algorithms\t- Epicardial vs endocardial VT\t- Outflow tract VT\t- Mitral annular VT- WPW accessory pathway location (Arruda,  Modified Arruda, and Milstein)- Atrial tachycardia localization algorithm- Entrainment mapping- Date calculator- Long QT diagnosis, subtypes and ECG patterns- Long QT drugs- Short QT syndrome diagnosis- Brugada syndrome diagnosis- Brugada drugs- LVH ECG criteria, including Romhilt-Estes score and others- ARVC/D 1994 and 2010 diagnostic criteria- Normal EP valuesCategories: Medicine, Cardiology, Electrophysiology, Arrhythmia.EP Mobile is free, open source, and available under the GNU GPL v3 license.  Source code is at https://www.github.com/mannd/epmobile.Recent changes:EP Mobile v2.0.1 Release NotesChanges since v2.0* Fixed spelling errorsChanges since v1.5.1* Added Atrial Tachycardia Location module* Added Date Calculator* Added Entrainment Mapping module* Added external links for Brugada and Long QT drugs* Updated Apixaban calculator to match final package insert* Reference section is now Reference & Tools* Improved formatting of calculator results"
+p4
+tp5
+tp6
+.

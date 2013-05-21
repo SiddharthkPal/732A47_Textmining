@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SVT Play '
+p1
+tp2
+(S'Description:'
+p3
+S'SVT Play f\xc3\xb6r Android erbjuder SVT:s program n\xc3\xa4r och d\xc3\xa4r det passar dig b\xc3\xa4st. Titta p\xc3\xa5 ditt favoritprogram, klipp och lives\xc3\xa4ndningar direkt i mobilen. V\xc3\xa5rt m\xc3\xa5l \xc3\xa4r att visa samma utbud p\xc3\xa5 samma s\xc3\xa4tt i din telefon och surfplatta som i din dator. SVT Play \xc3\xa4r fri television, \xc3\xa4ven i mobiler och l\xc3\xa4splattor.F\xc3\xb6r att kunna titta p\xc3\xa5 video fr\xc3\xa5n SVT Play beh\xc3\xb6ver du ers\xc3\xa4tta din tidigare app med den h\xc3\xa4r appen. Den nya appen \xc3\xb6ppnar svtplay.se i telefonens webbl\xc3\xa4sare. N\xc3\xa4r du startar en video spelas den upp med hj\xc3\xa4lp av denna app.F\xc3\xb6r b\xc3\xa4sta m\xc3\xb6jliga videokvalitet rekommenderar vi anslutning till SVT Play via tr\xc3\xa5dl\xc3\xb6sa n\xc3\xa4tverk (Wi-Fi).F\xc3\xb6r att appen ska fungera kr\xc3\xa4vs en ARMv7-processor med en klockfrekvens p\xc3\xa5 minst 550MHz samt minst 256 Mb RAM.Recent changes:3.0:- Integrerad webbvy i appen som g\xc3\xb6r att man inte l\xc3\xa4ngre beh\xc3\xb6ver en extern webbl\xc3\xa4sare- Funktionen att \xc3\xb6ppna videospelaren via en extern webbl\xc3\xa4sare finns dock kvar om man f\xc3\xb6redrar det2.1.1:- M\xc3\xb6jlighet att starta om videon n\xc3\xa4r man l\xc3\xa4mnat spelarl\xc3\xa4get- F\xc3\xb6rb\xc3\xa4ttrad videouppspelning2.1:- F\xc3\xb6rb\xc3\xa4ttrad videospelare- Valbar textning- M\xc3\xb6jlighet att pausa och spola tillbaka i lives\xc3\xa4ndningar- Ers\xc3\xa4tter den webbaserade HLS-spelaren f\xc3\xb6r Android 4'
+p4
+tp5
+tp6
+.

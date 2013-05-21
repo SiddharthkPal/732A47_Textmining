@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quick Settings (Plugin) '
+p1
+tp2
+(S'Description:'
+p3
+S'This is the Quick Settings plugin for All-In-One Toolbox. This app could not work on its own, please install the main app All-In-One Toolbox before using this plugin.You may download All-In-One Toolbox via Google Play: http://goo.gl/qC1KKAll-In-One Toolbox Quick Settings integrates all basic settings in one plugin, to make your life easier. Features of this plugin: Easy access to control on Wifi, Bluetooth, Auto Sync, GPS, Mobile Data, Haptic Feedback, Rotate; to adjust the screen brightness, screen timeout without going to the settings regularly. This plugin aims at making your life easier via All-In-One Toolbox, and it complements on All-In-One Toolbox, to make it a more all-in-one tool. Advantages:- Easy and quick access to all basic settings you need in your daily life.- Integrates different features in one plugin- Shortcut for homescreen- Free of chargeKey Words: Quick settings, Wifi, Bluetooth, Android, Android system settings, Auto Sync, GPS, Mobile Data, Haptic Feedback, Rotate; to adjust the screen brightness, screen timeout, All-In-One Toolbox, all-in-one settings.'
+p4
+tp5
+tp6
+.

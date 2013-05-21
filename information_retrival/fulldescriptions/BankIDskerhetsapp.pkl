@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BankID s\xc3\x83\xc2\xa4kerhetsapp '
+p1
+tp2
+(S'Description:'
+p3
+S'BankID Security App is part of Mobile BankID - an electronic personal identification system for mobile phones and pads used by various service providers.Mobile BankID is issued by Danske Bank, Handelsbanken, L\xc3\xa4nsf\xc3\xb6rs\xc3\xa4kringar, Nordea, SEB, Skandia, Sparbanken Syd, Sparbanken \xc3\x96resund and Swedbank.More information (in Swedish) for developers of electronic services can be found at www.bankid.com/rp/info.Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rage Face Photo '
+p1
+tp2
+(S'Description:'
+p3
+S"Rage Face Photo is a fun photo application that can detect faces and replace them with rage faces (otherwise known as meme faces or tumblr faces).This is the only application of this type featuring a live preview, which lets you see and change the rage faces before taking the photo and see how it will look!Like us on Facebook: https://www.facebook.com/pages/Rage-Face-Photo/103039869820189Check out our online merchandise store: http://tamasplusplus.spreadshirt.com/* IF YOU STILL HAVE PROBLEMS: distorted/too small preview, crashes, face detection not working? Please e-mail me with your phone's model name, Android version, and screenshot, if possible. You would help in the advancement of the application tremendously.It is also possible to import previously taken pictures and photos, and have their faces replaced with rage faces.Resize, reposition and change rage faces before saving or sharing your new photo with the world.Features over 200 of the most popular rage/troll faces, but you can also load your own images!This application is fully featured, and displays a small ad when connected to the internet.Permissions:Internet - for the ads (not required)Camera access - for the live preview modeExternal storage - for saving the pictures on SD cardRecent changes:Remove text object when text is deletedCheck your own gallery submissions (sadly only for new submissions)Interface cleanupAnd of course new faces!"
+p4
+tp5
+tp6
+.

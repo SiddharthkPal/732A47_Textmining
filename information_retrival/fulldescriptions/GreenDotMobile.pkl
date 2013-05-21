@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Green Dot Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Safe, simple and secure, the Green Dot\xc2\xae Mobile App gives you account access on-the-go. Managing your money just got a whole lot easier.You can check your available balance, add money to your card, find ATM and reload locations via GPS and even track your progress toward the Monthly Fee Waiver.Recent changes:Changed in version 2.0.7Various Bugfixes'
+p4
+tp5
+tp6
+.

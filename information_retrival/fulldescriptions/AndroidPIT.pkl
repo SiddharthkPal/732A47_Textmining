@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AndroidPIT '
+p1
+tp2
+(S'Description:'
+p3
+S'The AndroidPIT app is a one-stop shop for Android. Downloading our app gives you immediate access to http://www.androidpit.com with thousands of app reviews, an active Android forum and up-to-the-minute news about Google, Android and smartphone manufacturers like HTC, Samsung and Motorola. Find out which apps are worthy of a download by reading our daily-updated app reviews.Get your technical questions answered, find out how to root your phone and share tips and tricks with our active community on our Android forum. Read exclusive reviews of the newest phones, apps and accessories on our blog.Register to receive discounts on some of the most useful apps - at savings of up to 70%.With so many apps to choose from, you need a trusted source to tell you which ones are worthy of a download. You need the AndroidPIT app.Recent changes:* Permission "Read phone state and identity" is not required anymore.* Permission "Approximate location" is not required anymore.* Ad banner in news moved to an unobtrusive location.* No push notifications when app is started (except app updates).* "Apps" tab moved behind "Tests" tab.* "Apps" tab contains information about "My apps".* New setting: which tab is displayed by default.* Fixed freeze shortly before recommendation popups appear.'
+p4
+tp5
+tp6
+.

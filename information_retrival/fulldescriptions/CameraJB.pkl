@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Camera JB+ '
+p1
+tp2
+(S'Description:'
+p3
+S"Camera JB+ is the ultimate camera & gallery app based on the latest version of Android Jelly Bean (Android 4.2).It also includes a complete photo editor that lets you retouch the pictures in a very simple way.--- FEATURES ---\xe2\x97\x8f CAMERA:- 3 modes: camera, video recorder & panorama- Silent mode (no shutter sound, might not work on some devices)- Pinch to zoom- Configurable volume keys- Wide screen pictures- Picture quality setting (low/medium/high/ultra)- Configurable storage source (Internal/SD card)- Timer- Burst mode- Guidelines- Video/Audio quality configurable- More cool features soon ...\xe2\x97\x8f GALLERY:- Ultra fast photos & videos viewer- Configurable thumbnail size- Grid view/Filmstrip view- Hide unwanted folders- Slideshow mode- Trim videos\xe2\x97\x8f PHOTO EDITOR:- High quality photo editing- New filters and borders--- FAQ ---\xe2\x97\x8f How can I view the latest photos/videos taken?Slide the viewfinder from right to left to quickly access the gallery/filmstrip view. You can quickly delete photos you do not like dragging the unwanted picture up or down.\xe2\x97\x8f  Where can I change the camera settings?You can access this mode by pressing the button on the bottom right or also with a long press on the camera viewfinder\xe2\x97\x8f  Why have you taken so long to upgrade to last Jelly Bean 4.2 camera version?This new version has been completely redesigned  from the previous version. We have worked hard to ensure compatibility with most Android devices.\xe2\x97\x8f  Why Photo Sphere is not included within the app?Unfortunately this part of the code is not open source and can not be included within the application.\xe2\x97\x8f  I'm not happy with the app and I want a refund.Please, send us an email to moblynx.us@gmail.com with the order number and we will refund you the money. No problem.--- THANKS ---\xe2\x97\x8f Thanks to everyone who buys our applications. Your purchase helps us to keep working hard on this project. Please contact us at moblynx.us@gmail.com if you have any issue. We are delighted to receive any feedback.\xe2\x97\x8f Thanks to Google for releasing the Android open source project. Without their great contribution to the developer community our work would not be possible.Recent changes:2.0.1Fixed problems with flash on Samsung devices2.0Updated to Android Jelly Bean 4.2 interface"
+p4
+tp5
+tp6
+.

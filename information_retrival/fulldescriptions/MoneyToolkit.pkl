@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Money Toolkit '
+p1
+tp2
+(S'Description:'
+p3
+S"Easy banking and budgeting for Android. View your UK bank accounts in one place on your phone. Automatically group your spending with tags.Check out your finances on the web as well...https://www.moneytoolkit.com/app/goMoney Toolkit is read only, we can't transfer money. Innovative security system - keeps your details totally safe. see https://www.moneytoolkit.com/security for more details.We support:Co-Operative BankSantander (newer accounts only)Lloyds TSBNatWest BankRBSSmile BankHalifax BankFirst DirectPlease note we are not affiliated with or endorsed by the banks we support. Money Toolkit is a private limited company.Simple personal budget setting with transaction categorisation and spending targets. Automatic synchronisation between the phone and the web app.We have also begun work on integration with BarclaysRecent changes:V213Fix for strange First Direct cookie behaviour.V210More bugs squashed - including NatWest and RBS fixes, and some force closes.V208Bugs fixed, thanks to user reports.V206Major release with all the tagging and targets, click on a transaction to start adding tags.V134Bug fix the bug fix release: Force close on update in background."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mercador '
+p1
+tp2
+(S'Description:'
+p3
+S'Te invitam sa te bucuri de o navigare usoara pe telefon sau tableta prin aplicatia mobila Mercador.ro, disponibila acum pentru Android. Anunturile sunt la indemana ta!Functionalitati:- Postezi anunt direct din aplicatieEste usor si rapid. Faci o poza cu telefonul sau tableta la produsul respectiv si postezi anuntul in cateva secunde. Anuntul va putea fi administrat atat prin aplicatie, cat si de pe site.- Cauti anunturiSe pot cauta anunturile in acelasi fel ca si pe site, in functie de categorie, subcategorie, locatie, cautare avansata prin filtre sau cuvinte cheie.- Esti informat prin notificariPrimesti notificari pentru  mesajele primite de la cumparatori sau vanzatori, in cazul in care s-a initiat o discutie, chiar daca aplicatia nu este activa.Widget: ai posibilitatea sa-ti descarci pe dispozitivul mobil un widget, prin care ai acces usor la mesajele noi si la anunturile salvate.- Share-uiesti pe alte canaleAi posibilitatea de a distribui anunturile pe Facebook, Twitter, Mail , SMS s.a.Instaleaza aplicatia de Android si vezi ce usor functioneaza.'
+p4
+tp5
+tp6
+.

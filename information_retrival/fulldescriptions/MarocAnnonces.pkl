@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Maroc Annonces '
+p1
+tp2
+(S'Description:'
+p3
+S"Avec cette application, vos petites annonces sont \xc3\xa0 port\xc3\xa9e de main, vous pourrez consulter le m\xc3\xaame contenu du site sous une nouvelle version mobile adapt\xc3\xa9e \xc3\xa0 vos terminaux Android: smartphone et tablette.L'application offre plusieurs fonctionnalit\xc3\xa9s:# Effectuer des recherches cibl\xc3\xa9es.# Consulter les annonces par cat\xc3\xa9gorie.# Contacter directement l\xe2\x80\x99annonceur par t\xc3\xa9l\xc3\xa9phone, Sms ou Email.# Sauvegarder vos options de recherches.# Partager les annonces pr\xc3\xa9f\xc3\xa9r\xc3\xa9es via Facebook, Twitter, Google+ ou Email.# Visualiser les derni\xc3\xa8res annonces sur l'accueil de votre smartphone gr\xc3\xa2ce au Widget.Cette application a \xc3\xa9t\xc3\xa9 r\xc3\xa9alis\xc3\xa9e par la soci\xc3\xa9t\xc3\xa9 Mobiacube.Recent changes:Ajout d'un filtre pour la cat\xc3\xa9gorie : MarriageSupport des tablettes non 3GCorrection de bugs"
+p4
+tp5
+tp6
+.

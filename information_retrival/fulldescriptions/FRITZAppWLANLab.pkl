@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FRITZ!App WLAN Lab '
+p1
+tp2
+(S'Description:'
+p3
+S'FRITZ!App WLAN Labor bietet FRITZ!Box-Anwendern einen Ausblick auf die kommende FRITZ!App WLAN. Mit FRITZ!App WLAN haben Sie Ihr WLAN immer fest im Blick. Nutzen Sie die FRITZ!WLAN App, um Ihr Android Smartphone oder Tablet komfortabel mit dem WLAN Ihrer FRITZ!Box oder einem beliebigen anderen WLAN Router zu verbinden. Dar\xc3\xbcber hinaus versorgt Sie FRITZ!App WLAN mit n\xc3\xbctzlichen Details zur bestehenden WLAN-Verbindung. Mit einer grafischen Ansicht schafft FRITZ!App WLAN zus\xc3\xa4tzlich Transparenz bei der Kanalbelegung der verschiedenen Gegenstellen in Ihrer WLAN-Umgebung. Funktionen in der Labor-Version wurden grunds\xc3\xa4tzlich getestet, bieten aber unter Umst\xc3\xa4nden noch nicht die endg\xc3\xbcltige Stabilit\xc3\xa4t.(Bei Update) WICHTIG: Es sollte immer nur entweder die regul\xc3\xa4re Version oder die Labor-Version installiert sein.Mindestvoraussetzung:- Smartphone oder Tablet ab Android Version 2.3Erl\xc3\xa4uterungen zu den erforderlichen Berechtigungen dieser App:\xe2\x80\xa2 Zugriff auf alle Netzwerke: Abfrage der FRITZ!Box Firmware/Modellnummer\xe2\x80\xa2 Inhalt USB-Speicher/SD-Karte \xc3\xa4ndern oder l\xc3\xb6schen: F\xc3\xbcr die Teilen-Funktion werden Informationen vor dem Versand lokal zwischengespeichert\xe2\x80\xa2 Zugriff auf gesch\xc3\xbctzten Speicher testen: Schreibberechtigung auf USB-Speicher/SD-Karte f\xc3\xbcr die Teilen-Funktion \xc3\xbcberpr\xc3\xbcfen\xe2\x80\xa2 Netzwerkkonnektivit\xc3\xa4t \xc3\xa4ndern: WLAN-Verbindungen herstellen und trennen\xe2\x80\xa2 Systemeinstellungen \xc3\xa4ndern: Sortierreihenfolge der Funknetze speichern\xe2\x80\xa2 WLAN-Verbindungen abrufen: Pr\xc3\xbcfen ob WLAN ein-/ausgeschaltet ist\xe2\x80\xa2 Netzwerkverbindungen abrufen: Status der WLAN-Verbindungen pr\xc3\xbcfenRecent changes:Vielen Dank f\xc3\xbcr den Zuspruch & die 5-Sterne-Bewertungen, das \xc3\xbcberw\xc3\xa4ltigt & motiviert uns!NEU:\xe2\x80\xa2 5 GHz Grafik integriert (Dank an Mario Langner, Norbert V.)\xe2\x80\xa2 Teilen-Funktion integriert\xe2\x80\xa2 Support f\xc3\xbcr Tablet-Bildschirmgr\xc3\xb6\xc3\x9fen (Dank an Pierre Cordes)\xe2\x80\xa2 Freies Drehen integriert\xe2\x80\xa2 Feldst\xc3\xa4rke jetzt mit Kreissegmenten\xe2\x80\xa2 Performance- und Speichernutzung der Diagramme optimiert\xe2\x80\xa2 Fix f\xc3\xbcr "WPA2-EAP" Erkennung (Dank an Elias Zimmermann)\xe2\x80\xa2 Farbliche Kennzeichnung offener/WEP-Netze\xe2\x80\xa2 FRITZ!Box Infos erg\xc3\xa4nzt'
+p4
+tp5
+tp6
+.

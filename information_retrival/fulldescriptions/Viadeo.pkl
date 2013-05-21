@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Viadeo '
+p1
+tp2
+(S'Description:'
+p3
+S"Networking - Business - Career: Viadeo is a social network that lets you connect with over 50 million professionals worldwide. Download our entirely revamped application, now optimized for your Android device. Enjoy richer features and an interface that's even faster and more user-friendly.Use the Viadeo app for Android to grow your professional network and improve online visibility.Stay in touch with your network anywhere, anytime:- Access your Viadeo address book.- Call professional contacts (by phone, on Skype, etc.).- Read and reply to messages.- Edit your profile.- Follow companies that interest you.Grow your professional network:- Search and view millions of professional profiles.- Add new contacts quickly and easily.- See who's visited your profile.- Get real-time notifications for new messages and connection requests.- Share the latest news from your industry.Already a Viadeo member? Download the application and use your existing username and password to log in. Want to join Viadeo? Registration is free of charge. Download the application and create your own profile in seconds. Viadeo \xe2\x80\x93 Your network is more powerful than you think.Recent changes:We keep improving our app thanks to your feedback!In addition to the new features we've added since the 2.0 version, this update also improves overall app performance and includes minor bug corrections."
+p4
+tp5
+tp6
+.

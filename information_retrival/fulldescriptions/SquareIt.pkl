@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SquareIt '
+p1
+tp2
+(S'Description:'
+p3
+S"Put your photo in square frame.Share to Instagram without cropping your photo.-Change background color-Quick share to Instagram.[NOTE]****Try compatibility mode and medium quality if you are unable to save image. Hope this fixes problem for HTC devices.****Settings menu is on the first screen.PLEASE email me if you have any comments or questions.\xe0\xb8\x82\xe0\xb8\xad\xe0\xb8\x9a\xe0\xb8\x84\xe0\xb8\xb8\xe0\xb8\x93\xe0\xb8\x97\xe0\xb8\xb5\xe0\xb9\x88\xe0\xb8\x8a\xe0\xb9\x88\xe0\xb8\xa7\xe0\xb8\xa2\xe0\xb8\xaa\xe0\xb8\x99\xe0\xb8\xb1\xe0\xb8\x9a\xe0\xb8\xaa\xe0\xb8\x99\xe0\xb8\xb8\xe0\xb8\x99\xe0\xb9\x81\xe0\xb8\xad\xe0\xb8\x9e\xe0\xb8\x84\xe0\xb8\xa3\xe0\xb8\xb1\xe0\xb8\x9aversion 0.7- Add custom color to color swatch. ( finally :P ) version 0.6- Improve image quality.- Compatibility mode for mid-end device. Support more variety of devices. - Option for image quality.- Default to lastest selected color. version 0.5.3-Support Jelly Bean.I have no access to JB device, so please report bugs.version 0.5.2-fixes force close when saving image.version 0.5.1- hot fix force close when saving some image (I'm sorry.), Exif data will not be preserved.version 0.5.0- Save images in highest resolution possible depends on images and devices.- Preserve Exif data.- Fixes occasionally force close bug. Please send error report if this still happens.Recent changes:- Add custom color to color swatch. ( finally :P )- Fix loading image fail with no orientation information on some devices."
+p4
+tp5
+tp6
+.

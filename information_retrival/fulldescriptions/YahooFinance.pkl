@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yahoo! Finance '
+p1
+tp2
+(S'Description:'
+p3
+S"The Yahoo! Finance app for Android brings you total coverage from your favorite financial source.You\xe2\x80\x99ve come to expect the highest quality financial coverage from Yahoo! Finance. Now you can get it all in an app built for you. Ranging from broad market indices to the details on a specific commodity, it\xe2\x80\x99s all here. This app has something for everyone, no matter what your need of financial detail may be.With Yahoo! Finance you can view the daily market summary and news, track tickers that you're interested in, add and remove stocks from your watch list, and view your Yahoo! Finance portfolios from the PC.If you have problems or questions, please contact our Customer Care service at http://help.yahoo.com/l/us/yahoo/mobile/.Recent changes:Bugs Fixes!"
+p4
+tp5
+tp6
+.

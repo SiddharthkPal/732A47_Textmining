@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'inFootball (Soccer) '
+p1
+tp2
+(S'Description:'
+p3
+S'inFootball is the one-stop-shop for the football (soccer) fan. Using inFootball, you keep up-to-date with all the news, highlights, videos, goals, live updates, team squads and much more for your favorite football teams from around the globe. inFootball covers top international leagues and championships such as Premier League, La Liga, Serie A, Bundesliga, Ligue 1, UEFA Champions League, MLS, Europa League and Continental World Cup Qualifiers . inFootball provides you with team squads, fixtures, live score, and standings. Simply, inFootball is the one-place-to-go resource of everything related to football. Just pick the teams and championships you like, and inFootball will grab you the latest updates and match highlights from the 18 top sources from around the world, including ESPN, FoxSports, SoccerNews, Goal.com, SkySports, Football411, Football365.com, FIFA.com, and many moreYou, the football fan, get immediate access to must-see content anywhere, anytime. Download it now for free and don\xe2\x80\x99t miss the joy!Supported Championships by inFootball:\xe2\x80\xa2\tLa Liga\xe2\x80\xa2\tSerie A\xe2\x80\xa2\tPremier League\xe2\x80\xa2\tBundesliga\xe2\x80\xa2\tLigue 1\xe2\x80\xa2\tMLS\xe2\x80\xa2\tUEFA Champions League\xe2\x80\xa2\tUEFA Europa League\xe2\x80\xa2\tContinental World Cup Qualifiers How\xe2\x80\x99s it work? inFootball pre-downloads content over WiFi or 3G (depending on your preference), so you can avoid painfully slow mobile video buffering. Smart as it is, it caches your favorite content before you even ask for it. Watch the game highlights whenever you want after that \xe2\x80\x93 even when you\xe2\x80\x99re offline. Choose the WiFi only option to avoid expensive data charges.  Features:\xe2\x80\xa2\tLive scores and match updates\xe2\x80\xa2\tUp-to-date fixtures and standings\xe2\x80\xa2\tGoals and highlight videos without annoying buffering delays\xe2\x80\xa2\tTeam squad information\xe2\x80\xa2\tPeriodic Automatic updates \xe2\x80\xa2\tPersonalize with your favorite teams and news sourcesRecent changes:- Making some bug fixes.'
+p4
+tp5
+tp6
+.

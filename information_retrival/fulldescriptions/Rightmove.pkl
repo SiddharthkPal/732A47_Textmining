@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rightmove '
+p1
+tp2
+(S'Description:'
+p3
+S'See all the property that\xe2\x80\x99s available on the Rightmove website in a sleek and clever property app.Learn about the area before your viewing by looking at property in the UK with Google Street View.Share property with friends and family on Facebook, Twitter, via email, SMS and directly from the app.What you\xe2\x80\x99ll love about the Rightmove property app:-\tSync and share your saved properties and searches on your desktop, with other smartphones and even your TV with \xe2\x80\x98MyRightmove\xe2\x80\x99.-\tView photos and floorplans in full screen.-\tFind stations and schools near a property.-\tEnquire about a property via phone or email in-app.Happy home-hunting!Recent changes:New features in 1.3.3:- Fixed a flickering issue affecting some tablets running on Jelly Bean and using language other than UK English.- Fixed an issue related to the management of saved properties / searches.- Other minor bug fixes and performance enhancement.New features in 1.3.2:- Request a property valuation from local agents- Overseas Hot Properties \xe2\x80\x93 due to demand Ireland added- Performance and stability improvements- Bug fixes'
+p4
+tp5
+tp6
+.

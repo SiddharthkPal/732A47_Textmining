@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AppSales. Best Apps on Sale '
+p1
+tp2
+(S'Description:'
+p3
+S'Get the best apps, games and wallpapers on sale!Features:\xe2\x80\xa2 Get notified about new sales\xe2\x80\xa2 Only the best apps\xe2\x80\xa2 Like and comment sales\xe2\x80\xa2 Price history\xe2\x80\xa2 Watchlist functionality: get notified on price drops of selected apps\xe2\x80\xa2 Set your own filter (discount, downloads, rating, category)\xe2\x80\xa2 Share sales with your friends or colleagues\xe2\x80\xa2 Get informed about other versions (e.G. free, lite, HD)\xe2\x80\xa2 Direct links to dev homepage and YouTube app trailerPlease note: The actual prices may vary depending on your location, currency and VAT-regulations.AppSales is Socialize Enabled.Recent changes:\xe2\x80\xa2 moved to new server/database\xe2\x80\xa2 minor tweaks on the notification system\xe2\x80\xa2 fixed layout issues on Android 2.3 devices\xe2\x80\xa2 fixed data-divider bug\xe2\x80\xa2 fixed data-loading bug on certain devices \xe2\x80\xa2 Socialize-Plugin updated to latest version\xe2\x80\xa2 removed Like and Comment Buttons from sponsored entries\xe2\x80\xa2 enabled the hardware-menu button'
+p4
+tp5
+tp6
+.

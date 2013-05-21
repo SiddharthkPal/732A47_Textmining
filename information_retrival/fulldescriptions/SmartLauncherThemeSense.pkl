@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SmartLauncher Theme Sense '
+p1
+tp2
+(S'Description:'
+p3
+S'A theme inspired by HTC Sense.This theme work only with SmartLauncher, and at the moment it only changes the appearance of the the drawer.You can download SmartLauncher here: https://play.google.com/store/apps/details?id=ginlemon.flowerfreeTo use it, open smart launcher, enter in the preferences, select Drawer, then Global theme. Tag: GSLTHEME'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Papa John's Pizza "
+p1
+tp2
+(S'Description:'
+p3
+S'PAPA\xe2\x80\x99S IN THE HOUSE!Papa John\xe2\x80\x99s Pizza, the leader in desktop and mobile web ordering, now delivers with the best pizza ordering application for your Android device!FEATURESTHE ENTIRE MENU - Our entire menu of delicious pizzas, sides, drinks, desserts, and extras!SPECIAL OFFERS - All the online special offers and coupons from your neighborhood restaurant.NO ACCOUNT REQUIRED - Order with or without a PapaJohns.com account.ANYWHERE \xe2\x80\x93 Change your location and order from any Papa John\xe2\x80\x99s in the USA.PAY YOUR WAY \xe2\x80\x93 Cash, Credit Card, most stores even take checks.ANY TIME \xe2\x80\x93 You can put together that order for lunch or this weekends party right now.QUICK PICKS \xe2\x80\x93 Just want a large Pepperoni (Sausage, Cheese, etc), we have you covered!FAVORITES and REPEAT \xe2\x80\x93 Order one of your pre-stored Favorites, create a new one, or just click repeat for that last order to be delivered again (account login required).FIND A PJ NEAR YOU \xe2\x80\x93 Use the Locator to find your neighborhood Papa John\xe2\x80\x99s and give them a call or get directions.PAPA REWARDS \xe2\x80\x93 Earn FREE pizza with our Papa Rewards program (account login required).BEST OF ALL - The only native Android application that can deliver a genuine Papa John\xe2\x80\x99s pizza!Better Ingredients.  Better Pizza.  Papa John\xe2\x80\x99s.For use at U.S. locations only.Recent changes:NEW Promo Code Price Match feature allows you to apply a promo code to eligible item(s) in your cart..Fixed map display issueVarious minor bug fixes and performance improvements'
+p4
+tp5
+tp6
+.

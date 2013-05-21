@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AutoTrader.com '
+p1
+tp2
+(S'Description:'
+p3
+S'The AutoTrader.com app is your solution for finding the right car or dealer, no matter where you are. Save cars and searches to your personal \xe2\x80\x9cMy AutoTrader\xe2\x80\x9d account, and retrieve them later from any mobile device or computer. The ultimate automotive marketplace is now in your hands. You can: \xe2\x97\x8f Search for new, used and certified cars near you.\xe2\x97\x8f Contact a seller by phone or email directly from a vehicle listing. \xe2\x97\x8f Map local dealerships, and view their services and amenities. \xe2\x97\x8f Use Keyword Search to find vehicles and specific dealer services and amenities near you. \xe2\x97\x8f Scan the VIN barcode of a car you like to search for similar cars near you, or save it for later. (Autofocus feature required.)\xe2\x97\x8f Create a free \xe2\x80\x9cMy AutoTrader\xe2\x80\x9d account to save your favorite cars and searches. \xe2\x97\x8f Access your saved cars and searches from any other mobile device or computer. \xe2\x97\x8f Revisit recent searches and vehicles you\'ve viewed right from the Find Cars section.\xe2\x97\x8f Share cars with friends and family on FacebookPlease share your comments with us via the "Feedback" button, which you\xe2\x80\x99ll find in the Settings section. Please note this app is not optimized for Android tablet devices.Recent changes:\xe2\x98\x85 We\'ve added a "Sell Your Car" button in the navigation menu to provide you with an easy way to reach us when you want to sell your car.\xe2\x98\x85 The "Scan & Find" feature has been moved to the Advanced Search section of Find Cars.\xe2\x98\x85 Removed the "disclaimer" section from private seller listings (this section only applies to dealer listings).'
+p4
+tp5
+tp6
+.

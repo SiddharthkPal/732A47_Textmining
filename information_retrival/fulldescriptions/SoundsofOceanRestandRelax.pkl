@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sounds of Ocean Rest and Relax '
+p1
+tp2
+(S'Description:'
+p3
+S'Best ocean sounds and waves application. Press and hold images to set ocean sound as ringtone, alarm or sms (mms)notification. Set timer for 10-20 minutes to fall asleep quickly while listening sounds of sea and beach waves.Ocean sounds is best application for relaxation, rest, and therapy. It will help you while doing yoga exercises, sport workout or singing lullaby for baby.Application contains 8 sea cost songs:* waves on beach* lapping waves and sea gulls* ocean waves crushing* boat on waves* beach waves* seagulls and wave* north sea* creek* waterfallFeatures of the ocean sounds:\xe2\x98\x85 install to SD card\xe2\x98\x85 sounds of the rainforest\xe2\x98\x85 good quality sound of rain to sleep\xe2\x98\x85 rainfall sounds and nature hd wallpapers\xe2\x98\x85 best nature sound effects\xe2\x98\x85 water sounds (brook, river, creek, lake, waterfall, beach sounds)\xe2\x98\x85 rain soundboard ringtones\xe2\x98\x85 tinnitus mask\xe2\x98\x85 white noise for baby sleep generator machine\xe2\x98\x85 rain fall relaxation music for therapy\xe2\x98\x85 yoga music for relaxation and meditation\xe2\x98\x85 best sleep machine\xe2\x98\x85 nature ringtones and rain alarms\xe2\x98\x85 meditation music\xe2\x98\x85 ocean waves sleep maker\xe2\x98\x85 bedtime music and bedtime sounds\xe2\x98\x85 thunderstorm sleep sounds\xe2\x98\x85 nature sounds: waterfall, creek, river, ocean sounds, sea sounds, birds songs\xe2\x98\x85 ocean alarm\xe2\x98\x85 waves noise ringtones\xe2\x98\x85 tropical rain forest sounds (birds songs, bird sounds, birds music, beach sounds)\xe2\x98\x85 music for children to sleep\xe2\x98\x85 lullaby of nature\xe2\x98\x85 sounds for little kids, babies, infants, newborns\xe2\x98\x85 animal soundsNature sounds (soothing music, bedtime sounds) could be used for: + Rest and relaxation. Our sound atmospheres will help you relax after a hard working day and forget about all unpleasant emotions.+ Pleasant recollections. In summer they will help you dive in the atmosphere of a cool rainy day or winter evening, and in winter you will recollect a sunny beach or the days of your childhood spent in the countryside.+ Meditation, therapy and massage. Our atmospheres serve as a perfect background for meditation and massage. They also have a calming influence on pets and hide undesirable sounds.'
+p4
+tp5
+tp6
+.

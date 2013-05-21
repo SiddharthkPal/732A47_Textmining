@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Advanced Task Manager - Killer '
+p1
+tp2
+(S'Description:'
+p3
+S'Kill tasks, free memory, speed up phone, save battery.ATM 3.0 with totally 4.0 style new UI is comming!#Feature\xe2\x80\xa2 Kill selected tasks\xe2\x80\xa2 Android optimizer\xe2\x80\xa2 Ignore apps when kill tasks\xe2\x80\xa2 Auto kill tasks on every screen off\xe2\x80\xa2 Regular kill\xe2\x80\xa2 Startup Kill\xe2\x80\xa2 One click task kill widget\xe2\x80\xa2 Quick uninstaller\xe2\x80\xa2 Show battery life\xe2\x80\xa2 Support android 1.5/1.6/2.2/2.3/3.x/4.x#DescriptionAdvanced Task Manager can list all the running tasks and you can select some to kill. It is also a task management tool to manage all the installed apps.Android >= 2.2 system changed the task manager mechanism. Task killer cannot kill services and notifications when killing apps. If you want to kill tasks thoroughly, long press the task that you want to kill, and click \xe2\x80\x9cforce stop\xe2\x80\x9d, you will see the application info system panel, then click the \xe2\x80\x9cforce stop\xe2\x80\x9d button. For android system >=2.2, click menu->service, you will see the running service system panel, and you can stop running services here.Any problem, it\'s better to send feedback to us to get help than low rate!#FAQQ: Why do apps restart again after killing?A: Some apps are restarted by system events. Apps cannot be prevented from restarting because of system limitation. We suggest you to enable auto kill in settings, and it will kill tasks on every screen off. It will help to save battery life and release memory for the phone.Q: How can I add apps to the ignore list?A: You can long press the task that you want to ignore, and then you will get a poped up context menu, click "Ignore". The ignored apps will not be shown in the task list, and will never be killed. You can manage the ignored apps in settings.Q: How can I manage startup apps?There is "Startup Kill" in settings. It can help you to kill tasks when system starts up.#Feedback------------------by Matt Meltzer--I honestly wish everyone who supports and uses ATK, would give your\'s a try.They\'d never go back to ATK!!!!ATM does SO much more than ATK!!!!A TON more features!!!!------------------------------------#TrademarkThe Android robot is modified from work created and shared by Google and used according to terms described in the Creative Commons 3.0 Attribution License.#KWapp killer, app manager, android boosterRecent changes:-v3.0.8#Fix a Force Close bug-v3.0.5#Fix a FC bug-v3.0.4#Game Booster Addon'
+p4
+tp5
+tp6
+.

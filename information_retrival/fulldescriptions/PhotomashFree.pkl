@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photomash Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your photos into custom creations with Photomash. Simply take a picture, erase portions of the picture with your finger, and take another picture to occupy that space. Take multiple pictures within pictures to create fun, interesting, or humorous images. Photomash allows you to combine as many photos as you want. When you\xe2\x80\x99re done, save your Photomash to share with friends on Facebook and Twitter. Taking a picture has never been so fun! Mash it up! Participate in challenges and create photomashes and share them with your friends!Features\xe2\x80\xa2\tUtilizes the built-in camera\xe2\x80\xa2\tFinger swipes activate the erase functionality\xe2\x80\xa2\tUnlimited photos within any creation\xe2\x80\xa2\tSave your creations within the app\xe2\x80\xa2\tFeature your creations on the Photomash website by sharing on TwitterSupportIf you have any questions, suggestions or encounter any problems with Photomash, please contact us at support@photomashapp.com.See our website at http://www.photomashapp.comFollow us on twitter @photomashappBecome a fan at facebook.com/photomashappPlease leave a review on  if you like the app! We appreciate it.Recent changes:Minor Bug Fixes'
+p4
+tp5
+tp6
+.

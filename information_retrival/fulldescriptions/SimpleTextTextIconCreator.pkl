@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simple Text-Text Icon Creator '
+p1
+tp2
+(S'Description:'
+p3
+S'Simple Text is an application creating minimalistic text icon for LauncherPro, ADW Launcher, Go Launcher, Desktop Visualizer... If you love Clockr or Minimalistic Text, you\'re gonna love this one :PWith this app you can create bunch of text icons really fast without using Photoshop or any photo editors"Icons created with Simple Text look surprisingly good as dock icon replacements, giving it a unique, elegant look." - addictivetips.com"Easy and customizable text icon makes screen minimalistic." \xe2\x80\x93 appeggs.comSince version 3.0, you can use Simple Text icon or image as a widget ( just like Desktop VisualizeR )FEATURES:- Widget supports- Save style- RGB color picker- Enter color in hexa value- Alpha transparency- Adjustable background color, shape- Adjustable text position, alignment, size...- Gradient Effect- Text rotation- Cusomizable shadow effect- Font supports:-- Default fonts-- External font directory: /sdcard/Simple Text/fonts...How to use with ADW Launcher or ADW Launcher EX:1. Long-press an app icon2. Select "Edit"3. Tap on the app icon4. Select "ADWTheme IconPacks"5. Choose Simple Text 6. Create your icon7. Press Menu, then "Save Icon"How to use with other Launchers ( LauncherPro, GO Launcher... ):1] Run Simple Text in your application list2] Create your icon3] Press Menu, then "Save Icon"4] Use your launchers specific change icon option and browse to your images ( stored in /sdcard/Simple Text )FAQs:[Q] How do I can add more fonts?[A] Put your fonts into /sdcard/Simple Text/fonts ( only supports TTF format )[Q] Can I enter color in hexa value?[A] Yes, you can. Open color picker dialog and click on new color rectangle[Q] How to enter slider value manually?[A] Just click on slider\'s text valueThanks to Daniel Nilsson for his awesome color picker ;)Thanks to Christian, Eddie for screenshots.Thanks to coldfustion for tutorial videoPlease don\'t use comment to request features or report bugs. Email me insteadIf you have any questions, feedbacks or you think you can help me in translating to another language, don\xe2\x80\x99t hesitate to contact me via redphoenix89@yahoo.com. I would really appreciate thatRecent changes:#3.6.3: 11/13/2012[-] Fix: ThemeX icons issues ( when creating Shortcuts or Widgets )[-] Fix: Keyboard didn\'t show up on some devices#3.6.2: 11/09/2012[-] Fix: fonts didn\'t show in font dialog on 2.x devicesDon\'t forget to buy donated version/comment if you want to support me :)'
+p4
+tp5
+tp6
+.

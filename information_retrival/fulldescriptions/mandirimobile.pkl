@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'mandiri mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'mandiri mobile is a secure and convenient banking application to access your account anytime, anywhere.Here, you can download the non-full version, and for mandiri sms banking registered user can continue to download full version.Non-full version provides you non-financial transactions below:-\tfind our atm and branch location-\tcheck rates-\tcontact mandiri call 14000-\tetc. While mandiri mobile full version gives you acces to do the financial transactions:-\tbalance inquiry-\tfund transfer-\tpurchase-\tpayment-\tchange pin mandiri smsHere is how to get started. First, you can download mandiri mobile application available at Google Play, thus you can do any non-financial transactions. To have the full menu of mandiri mobile, you can tap on \xe2\x80\x98download full version\xe2\x80\x99 button (available only for mandiri sms registered user)Furthermore, mandiri sms user can tap \xe2\x80\x98activate\xe2\x80\x99 button to continue the application to be able to do financial transaction. The application will require you to:\xe2\x80\xa2\tAccept the term & condition and create your own password to access mandiri mobile.\xe2\x80\xa2\tAfter the activation process is successful, you will be directed to main menu and enjoy all mandiri mobile features. \xe2\x80\xa2\tPassword is needed to access mandiri mobile and pin mandiri sms is needed to authorize financial transactions.To register as a mandiri sms user, you simply go to atm or bank mandiri branch and register your cellular phone number.Alternative way to download mandiri mobile for all customers who already registered as mandiri mobile banking users is send keyword \xe2\x80\x9creg mobile\xe2\x80\x99 to 3355 and follow the instruction.For further assistance, please contact mandiri call at 14000 or +62 21 52997777Recent changes:First release version'
+p4
+tp5
+tp6
+.

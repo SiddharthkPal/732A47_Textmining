@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PVR Cinemas '
+p1
+tp2
+(S'Description:'
+p3
+S'Movie watching made so simpler now at PVR Cinemas, the most premium and leading multiplex chain in India! This application allows you to look up showtimes for movies running in PVR Cinemas near you and across India. You can watch trailers, get movie information and book your tickets securely just by using your mobile phone.1. Check show times for movies running in your vicinity2. Choose seats of your choice & book movie tickets by paying through your credit card in a secured environment. This app also allows you to hold your tickets and pay later at the box office.3. Check out a movie synopsis, watch high-quality trailers & view movie posters4. Get information on latest and upcoming releases5. Keep a track of your booking history6. Receive discount offers & deals7. Prebook your tickets even before the movie is released.8. Add cinemas, movies & movie genres to favorites.9. Order Food n Beverages along with tickets.10. More payment options e.g. Kotak mCoupon & gift cards.11. 3D Secure credit card Payments.12. Pay for Tickets using NFC Wallet.Recent changes:- Overall App redesigned to have better look-n-feel and usability.- Gift Card Payment mode Option added.- 3D Secure credit card Payments.'
+p4
+tp5
+tp6
+.

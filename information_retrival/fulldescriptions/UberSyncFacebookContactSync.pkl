@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UberSync Facebook Contact Sync '
+p1
+tp2
+(S'Description:'
+p3
+S'Synchronize your Facebook contacts on Android. To configure, add the account or check status, go to "Settings => Accounts".Depending on how many friends you have, the first import might take a while, so be patient. IMPORTANT:* Facebook does not allow to export phone numbers.* Facebook users have the option to block one or all apps. If they opt for that, they will be EXCLUDED from your friends list. Please send bug reports or any kind of feedback.Consider submitting bugs directly on GitHub. (link below) https://www.facebook.com/ContactSynchttps://plus.google.com/u/0/100286050370302911737https://github.com/loadrunner/Facebook-Contact-SyncRecent changes:New in v1.2.1* fixed some crashesNew in v1.2.0 (ICS+ only)* added notification Service - gets high-res photos only on demand, when you open the contact* detects and uses the max supported photo size* changed the way high-res photos are retrieved from Facebook (now it works even for contacts that don\'t give access to photo albums)* added sync status bar* other optimizations and bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AKatastr '
+p1
+tp2
+(S'Description:'
+p3
+S"View Czech cadastral maps on Your Android\xe2\x84\xa2 phone. Just three step to get record: open AKatastr, define point, tap on bubble window. You are done!If you buy this app you will support us!Category winner work, business, enterprise in competition Aplikace roku 2011.If you have any probles, don't hesitate to contact me. Thank you!Twitter @JiriProchazkaFunctions:Two step for show cadastral record (only in Czech). Possibility to choose showed layers for cadastral map. Optimalization for tiles, loading only for Czech Republic area. Possibility to store tiles on SD card. Share location and plot information.  Searching by address, plot number, ownership sheet and cadastral area. Based on google maps. Actual user position + compass. Different location format. Possibility to navigate to plot. Invoke external navigation to defined point.Favorite items.Extended information in callout.Restricted only for \xc4\x8cR.Key word: Maps, Cadastral, Cadastral record, Cadastral map, WMS, CUZK.Recent changes:Fixed app resume in plot detail.Fixed plot searching on some devices.Tile loading fix."
+p4
+tp5
+tp6
+.

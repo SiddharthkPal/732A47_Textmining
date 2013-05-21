@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Aeropostale '
+p1
+tp2
+(S'Description:'
+p3
+S'Aero\xe2\x80\x99s on the go! Sync style and convenience with Aeropostale\xe2\x80\x99s Android  app! Now you can instantly access Aeropostale with a single tap from wherever you are! Never miss out on a sale again! Search, browse, shop, track orders, locate nearby stores and more! The app also allows you to save your log-in credentials so you can more readily access your account! Fashion has never been so fun!Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

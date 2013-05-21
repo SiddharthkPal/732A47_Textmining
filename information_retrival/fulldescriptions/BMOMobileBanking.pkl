@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BMO Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S"With the BMO Mobile Banking app you can bank anywhere, anytime - quickly and securely. ACCESS:To use BMO Mobile Banking, you must be registered for BMO Online Banking. Simply sign in to Mobile Banking exactly as you would sign in to Online Banking. If you are not registered for Online Banking, go to www.BMO.com/onlinebanking to register today.  BMO MOBILE BANKING FEATURES:- Check balances, transaction history, and search transactions- Pay Bills, review bill payment history and cancel payments- Transfer funds- Find BMO branches and ATMs- Manage your alerts. BMO Alerts can send you information on your bank accounts including low balances, withdrawals, deposits, e-Statement availability and unusual activity on your BMO Debit Card.- Languages: English / French SECURITY:As always, your money is protected by the BMO Online Banking guarantee for personal banking customers. In the event of an unauthorized transaction, we\xe2\x80\x99ll reimburse you 100% for any resulting losses.Learn more at:www.BMO.com/mobilewww.BMO.com/alertsBMO Bank of Montreal www.BMO.com*Screenshots are of the AppRecent changes:What's New in Version 3.2\xe2\x80\xa2 Improved amount validation, error handling, performance on certain devices\xe2\x80\xa2 Fixed unexpected keyboard freeze\xe2\x80\xa2 General fixes and improvementsWe thank you for your valued comments and welcome additional feedback as we continue to improve BMO Mobile Banking for you.You can reach us at feedback@bmo.com"
+p4
+tp5
+tp6
+.

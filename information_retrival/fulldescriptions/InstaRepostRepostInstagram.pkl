@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaRepost - Repost Instagram '
+p1
+tp2
+(S'Description:'
+p3
+S"Stop taking low quality screenshots or resizing images to repost Instagram photos!Be more creative and customize pictures you are going to repost by moving watermark, choosing its transparency and removing logo.InstaRepost is a simple way to share inspiration with your friends! With InstaRepost you can repost any photos you like in your own Instagram photo stream. With all reposts you are giving credits to authors. You like a beautiful picture? One of your friends posted a photo with you in Instagram? Now you can share them (with the author\xe2\x80\x99s username superimposed) in your Instagram photo stream with your followers by simply tapping the \xe2\x80\x98Repost\xe2\x80\x99 button. Furthermore, Instarepost is an awesome discovery tool for Instagram with its catalogue of beautiful pictures! It allows you to discover interesting and popular photos to suit any taste: humor, cars, sport, quotes, world news etc. Features: - repost any photo you like directly from your instagram feed - move watermark to any side of your pic- change watermark transparency- save original photo- search for instagram users and hashtags - search through 'following' list and photos you liked - discover new interesting stuff with instarepost catalogue and share your inspiration with friends - catalogue updates every dayRecent changes:New in version 1.3.3:- fixed the crashes and photo uploading problemLots of great updates in version 1.3:- now you can move watermark to any side of your pic- and change watermark transparency- save original photo- repost already reposted photosThank you for all your feedbacks!We work our fingers to the bone to make your wishes become new options of InstaRepost."
+p4
+tp5
+tp6
+.

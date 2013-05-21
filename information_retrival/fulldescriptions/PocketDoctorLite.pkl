@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pocket Doctor Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'Pocket Doctor Lite is our free comprehensive medical health encyclopedia written specifically for mobile by a UK Doctor. Originally available on WAP in 2001 our latest version is made specifically for Android. This version features all of the extensive medical content, with A-Z listings of medical conditions as well a diagnosis by body area.Additionally in the lite version there is a BMI (Body Mass Indicator) calculator and Doctor Q with advice on questions you can ask your doctor when you need additional information on your condition or diagnosis.Recent changes:Changes in v1.13==============1) Fixed BMI calculations'
+p4
+tp5
+tp6
+.

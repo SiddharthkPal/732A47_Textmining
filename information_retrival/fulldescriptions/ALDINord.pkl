@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ALDI Nord '
+p1
+tp2
+(S'Description:'
+p3
+S'Mit der kostenlosen ALDI App informieren wir Sie umfangreich mobil auf Ihrem Android Smartphone oder Tablet. Zus\xc3\xa4tzlich erhalten Sie erweiterte Informationen zu unserem Standardsortiment.Folgende Funktionen bietet Ihnen die ALDI App:* Neben den Artikeln aus den aktuellen Angeboten finden Sie in der ALDI App auch neue bzw. wieder in das Sortiment aufgenommene Artikel sowie einen schnellen \xc3\x9cberblick \xc3\xbcber eine Auswahl der ALDI Marken.* Dabei k\xc3\xb6nnen Sie sich durch ein umfangreicheres Bildmaterial in hoher Aufl\xc3\xb6sung noch besser \xc3\xbcber die Produkte informieren.* Verpassen Sie keine Angebote mehr, indem Sie gew\xc3\xbcnschte Artikel in Ihre pers\xc3\xb6nliche Erinnerungsliste \xc3\xbcbernehmen. * Mit dem erweiterten Einkaufszettel planen Sie Ihren Einkauf bei ALDI noch praktischer, indem Sie z. B. eigene Notizen erg\xc3\xa4nzen.* Lassen Sie sich \xc3\xbcber Angebote informieren, auf die Sie warten. Tragen Sie dazu einfach die entsprechenden Begriffe (wie z. B. \xe2\x80\x9eFahrrad\xe2\x80\x9c) in Ihre Mitteilungsliste ein und Sie werden beim n\xc3\xa4chsten zutreffenden Angebot umgehend durch Ihr Android Smartphone oder Tablet informiert.* In Ihrem pers\xc3\xb6nlichen Bereich \xe2\x80\x9eMein ALDI\xe2\x80\x9c sehen Sie auf einen Blick Ihre n\xc3\xa4chste ALDI Filiale, Ihren Einkaufszettel, Ihre Erinnerungen und Ihre Mitteilungen.* \xc3\x9cber den \xe2\x80\x9eFilialfinder\xe2\x80\x9c k\xc3\xb6nnen Sie au\xc3\x9ferdem nach Filialen suchen und u. a. sehen, in welchen ALDI Filialen frisch f\xc3\xbcr Sie gebacken wird und wann diese ge\xc3\xb6ffnet sind.* Bl\xc3\xa4ttern Sie auch auf Ihrem Android Smartphone oder Tablet durch das aktuelle ALDI Magazin.Hinweise: Die ALDI App ben\xc3\xb6tigt Zugriff auf die Geoinformationen Ihres Android Smartphone oder Tablets, damit die aktuelle Position bestimmt werden kann und somit die Filialen in der N\xc3\xa4he ermittelt werden k\xc3\xb6nnen.Recent changes:- Kleinere Optimierungen'
+p4
+tp5
+tp6
+.

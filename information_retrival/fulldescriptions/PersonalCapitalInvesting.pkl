@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Personal Capital Investing '
+p1
+tp2
+(S'Description:'
+p3
+S'Personal Capital is the only money management tool you\xe2\x80\x99ll ever need \xe2\x80\x93 and it\xe2\x80\x99s FREE. The app helps you manage your money by giving you a holistic view of all of your accounts. Track your income, spending, savings and investment performance. Understand your asset allocation and pinpoint potential risks to your investment portfolio. "Best 5 Apps to Invest Smarter" -CNN"Top 50 websites of 2012" -Time Magazine"The investment account information seems more detailed than the information provided on Mint." -ForbesGet started with Personal Capital now to:\xe2\x98\x85 Easily manage your money \xe2\x98\x85Track your income and spending and easily view your transactions with Personal Capital Cash Manager.\xe2\x98\x85 Monitor transactions to prevent fraud \xe2\x98\x85See all account transactions and filter between Cash, Credit, Investments, and Loans.\xe2\x98\x85 Track your investments \xe2\x98\x85View all your investment accounts, transactions and holdings in one place.  Monitor your gainers and losers, compare your performance through your \xe2\x80\x9cYou Index\xe2\x80\x9d to major market indices and monitor your asset allocation.\xe2\x98\x85 Talk with a Financial Advisor (RIA) \xe2\x98\x85As a Registered Investment Advisor (RIA), Personal Capital provides customized and objective financial advice. Talk with us if you want, how you want. No country club membership needed.\xe2\x98\x85 Keep your information secure \xe2\x98\x85Personal Capital\xe2\x80\x99s unique multi-factor authentication allows you to manage access remotely, and requires multi-layer authentication from any new device. Our engineers invented online financial security. Seriously.\xe2\x98\x85 We\'ll take care of the rest \xe2\x98\x85Personal Capital integrates with over 10 thousand financial institutions to show you your complete financial picture at a glance. It only takes a minute to download the app and put Personal Capital to work for you.Recent changes:Revamped navigationExpanded date range options from settings, 30, 90, this yearAdditional manual account types, home, car, art, jewelryRedesigned Cash Flow featureManual investment portfolios and holdingsNew holdings view with You Index (tm) comparison to the marketIndividual holdings comparison to the marketUpdated allocation view'
+p4
+tp5
+tp6
+.

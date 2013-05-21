@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ringtone Cutter '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a must-have software .Create your own UNLIMITED ringtones\xef\xbc\x8calarm, or notification sound from an existing audio file. Just a few simple steps , you can get any ringtone you want .All you need to do is to choose the song you like, select the most exciting part of the song and press SAVE. That\'s all, create ringtone no easier than this!After clip ringtones , and can easily be found in the ringtones library . And can be edited , assigned , or delete operation .Ringtone Cutter is the first and only application that allows you to create ring tones and tone without any time limit .You can edit or cut your ringtones in various formats like : mp3, aac, ogg, wav, aiff, mid & many more.Still the envy of others ringtones nicely it? Do not hesitate , now download "Ringtone Cutter" , began to DIY your own ring tones !Features:- Shows WaveForm- Make Selection process easier with waveforms- Supports a variety of music formats, such as MP3, AAC, MP4, WAV, 3GPP, AMR.- Zoom in , zoom out waveforms- Tap anywhere on the waveform , the built-in Music player starts playing at that position.- Option to Name the new cut clip while saving it as Ringtone/Music/Alarm/Notification Tone.- Set the new clip as default ringtone or assign ringtone to contacts, using this ringtone editor.- With the media player , you can quickly play your edited ringtone .- Set ringtone, alarm , notification ringtones with single click- Record your own original ringtones;Ringdroid, Ringtone Maker, Ringtone Editor, Ringtones, sound, alarm, notification, Ringdroid, music, audio, media, creat, mp3 ringtone maker, mp3 search, mp3 find, mp3 song, song find, song search, ringtone find, free ringtones,'
+p4
+tp5
+tp6
+.

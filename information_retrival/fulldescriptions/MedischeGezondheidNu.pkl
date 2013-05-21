@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medische Gezondheid Nu '
+p1
+tp2
+(S'Description:'
+p3
+S'Met \xc3\xa9\xc3\xa9n druk op de knop, alle Huisartsen, Apotheken, Ziekenhuizen, Tandartsen, Mondhygi\xc3\xabnsiten en Fysiotherapeuten bij jou in de buurt!Het maakt niet uit waar je je in Nederland bevindt, start de Medische Gezondheid Nu applicatie en zie welke instanties er zich bij jou in de buurt bevinden.De resultaten worden op afstand van jouw locatie getoond en geeft je de volgende mogelijkheden:- Bel het gevonden resultaat- Toon de instanties bij jou in de buurt op de kaart- Plan een route naar het gevonden resultaat- Bekijk detailinformatie, zoals openingstijden- Bekijk Ratings & Reviews- Sla het gevonden resultaat op in je telefoon of deel deze met vriedenMedische Gezondheid Nu - als je nu hulp nodig hebt op medisch gebied!'
+p4
+tp5
+tp6
+.

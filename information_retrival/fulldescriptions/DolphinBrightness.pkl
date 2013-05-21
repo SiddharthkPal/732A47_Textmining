@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dolphin Brightness '
+p1
+tp2
+(S'Description:'
+p3
+S'**Dolphin Browser Add-ons**Easily change the screen brightness of your current web page.Recent changes:Update the app icon'
+p4
+tp5
+tp6
+.

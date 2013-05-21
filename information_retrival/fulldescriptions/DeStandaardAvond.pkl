@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'De Standaard Avond '
+p1
+tp2
+(S'Description:'
+p3
+S'Naast een ochtendkrant verschijnt nu ook een avondeditie van De Standaard. Ze zal beschikbaar zijn vanaf 17u00 en een bundeling bevatten van het belangrijkste nieuws van de dag. Na een niet-aflatende stroom van nieuwsberichten gedurende de dag neemt De Standaard Avond afstand om het kaf van het koren te scheiden, duiding te geven en conclusies te trekken uit het belangrijkste nieuws. De Standaard blijft met deze editie trouw aan de beginselen van de krant: betrouwbaar en met oog voor kwaliteit. Bovendien is deze editie een nieuwe stap in het gebruik van nieuwsmedia op tablet en is ze geschikt voor multimedia en interactie: tekst, beeld, infografiek en video zijn naadloos gebundeld in De Standaard Avond. De Standaard Avond schept een ander licht op de dag. Abonnees van De Standaard hebben gratis toegang tot De Standaard Avond (met uitzondering van weekendabonnementen).'
+p4
+tp5
+tp6
+.

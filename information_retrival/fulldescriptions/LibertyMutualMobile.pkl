@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Liberty Mutual Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'You\xe2\x80\x99re always on the go. Now you can take Liberty Mutual with you.Let Liberty Mutual take the stress out of managing your insurance policy with our newly updated mobile app.\xc2\xa0Use the same log in information you already use on our website and safely view your policies, pay bills, and report claims with the knowledge that your information is protected by encryption technology.MANAGE YOUR POLICY\xe2\x80\xa8Need your policy information while you are on the go? With the Liberty Mutual Mobile App you can quickly and easily:\xe2\x80\xa2 Pay your bill\xe2\x80\xa8\xe2\x80\xa2 View your policy\xe2\x80\xa8\xe2\x80\xa2 View your auto insurance ID cards\xe2\x80\xa8\xe2\x80\xa2 Update your contact information\xe2\x80\xa8\xe2\x80\xa2 Go Paperless, and much more\xc2\xa0REPORT OR TRACK A CLAIM\xe2\x80\xa8With the Liberty Mutual Mobile App you can be assured you have all the information you need to set your claim in motion and follow it through the claims process.\xe2\x80\xa2 Map your location using GPS\xe2\x80\xa8\xe2\x80\xa2 Take pictures of damage\xe2\x80\xa8\xe2\x80\xa2 Collect contact information\xe2\x80\xa8\xe2\x80\xa2 Submit the claim\xe2\x80\xa8\xe2\x80\xa2 Search for auto repair shops and schedule an inspection\xe2\x80\xa8\xe2\x80\xa2 Request a rental vehicle, and much moreCONTACT LIBERTY MUTUALNeed assistance? Liberty Mutual is there for you. With the touch of a button, you can be on the phone with a customer service representative, a home or auto claims specialist or 24-hour roadside assistance.\xc2\xa0\xc2\xa0Recent changes:\xe2\x80\xa2 You asked for it and we heard you! You can now access our great mobile self-service features inside the app.\xe2\x80\xa2 Track your claim and perform various actions like searching for a repair shop, scheduling an inspection, viewing photos and requesting a callback from your Claim Representative.\xe2\x80\xa2 View Coverage Details and Billing Options for Life contracts.\xe2\x80\xa2 Various updates to improve user experience throughout the app.'
+p4
+tp5
+tp6
+.

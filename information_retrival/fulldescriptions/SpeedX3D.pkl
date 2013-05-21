@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SpeedX 3D '
+p1
+tp2
+(S'Description:'
+p3
+S'SpeedX 3D remastered returns to Android! With over 15 million downloads SpeedX 3D is the most played accelerometer-controlled tunnel racer worldwide!\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 REVIEWS \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85"A slick, stylish and addictive Android exclusive." - PocketGamer.co.uk"Challenging and addictive gameplay." - AndroidAndMe.comSpeedX 3D is a free game from the studio that brought you the best-selling Doodle Fit, Monster Shooter, League of Heroes and Rage of the Gladiator.FOLLOW US and stay in touch to get all the latest information about SpeedX 3D and future updates:www.facebook.com/gamelionwww.twitter.com/gamelionRecent changes:\xe2\x9e\xb1 Problems with installation for players with old version have been fixed\xe2\x9e\xb1 Multiplayer module has been redesigned\xe2\x9e\xb1 Optimizations and bugfixing done'
+p4
+tp5
+tp6
+.

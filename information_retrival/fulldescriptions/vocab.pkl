@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'vocab ++ '
+p1
+tp2
+(S'Description:'
+p3
+S'Featured on XDA-Developers, and AndroidZoom.com\'s "Pick of the Day" on April 12!Now with the spelling test!FEATURES:\xe2\x80\xa2 Images curated for each word by hand\xe2\x80\xa2 101 high-frequency words for each study set (more words will keep flowing through regularly!)\xe2\x80\xa2 Want us to focus on something other than GRE, SAT and TOEFL? Just send us a request!\xe2\x80\xa2\xc2\xa0Work on your spellings too, with our gamified spelling test!Want to REALLY boost your vocabulary? Then you need something more than just regular flashcards. You need vocab++, where we\'ve curated images by hand that assist in helping our users remember the words thanks to visual association. Remember the illustrated books when you were a kid, that helped you learn words? That\'s the basic principle.TAGS: Test preparation, GRE, SAT, TOEFL, CAT, GMAT, Vocabulary, vocab, visual, flashcards, hand curatedRecent changes:V 1.1.01. Introducing our new Spelling Bee! Learning words alone is insufficient, you got to know how to write them. Our specially designed test helps you learn in a gamified manner.2. Bug fixesV 1.0.01. New study set!2. New communication channel with developer!3. Share the app with those who you feel would benefit!4. Minor bug-fixes5. Some performance improvements'
+p4
+tp5
+tp6
+.

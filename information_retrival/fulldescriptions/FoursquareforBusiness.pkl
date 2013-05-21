@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Foursquare for Business '
+p1
+tp2
+(S'Description:'
+p3
+S"Get more customers walking through the door with Foursquare\xe2\x80\x99s free app for businesses! Post photo updates, manage specials, view analytics, and more. For business owners, this app is a handy sidekick that lets you: \xe2\x9c\x93 Attract customers by posting beautiful photo updates. \xe2\x9c\x93 Share Foursquare updates on Facebook and Twitter. \xe2\x9c\x93 View your location's recent check-ins. \xe2\x9c\x93 Drive traffic to your stores with Foursquare specials. \xe2\x9c\x93 Learn more about your recent and most loyal customers. Have more than one business or location? This app helps you manage them all. To get started with Foursquare for Business, make sure you\xe2\x80\x99ve already signed up and claimed your locations on Foursquare (check out business.foursquare.com for simple instructions).Recent changes:\xe2\x9c\x93 Fix a page loading error occurred in some countries\xe2\x9c\x93 Bug fixes"
+p4
+tp5
+tp6
+.

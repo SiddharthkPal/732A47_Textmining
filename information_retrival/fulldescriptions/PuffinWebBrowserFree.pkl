@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Puffin Web Browser Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Puffin Web Browser is wicked fast. Once users experience the thrill of using Puffin, regular mobile Internet just feels like torture. Puffin Free is the free version of Puffin family, and comes with two weeks trial of Adobe Flash support.Features:\xe2\x98\x86 Incredible Loading Speed \xe2\x98\x86 Adobe Flash Support\xe2\x98\x86 Download to Cloud (Up to 10M per file)\xe2\x98\x86 Virtual Trackpad (Mouse Simulator) \xe2\x98\x86 Virtual Gamepad\xe2\x98\x86 Add-ons functions (Pocket, Evernote, Facebook, Translator and more)\xe2\x98\x86 Fastest JavaScript Engine\xe2\x98\x86 Full Web Experience \xef\xbc\x88Desktop view and mobile view\xef\xbc\x89==== Limitations ====* The data centers of Puffin Web Browser are in the US and the cloud servers can only access public web sites from US geolocations. * For users outside the US, local content, especially videos of local interest, may not be accessible from the US due to geo-restrictions in your home country.For more information, please check our FAQ: http://www.puffinbrowser.com/faq.html==== Suggestion ====For all users, we suggest trying the free version before buying the full version. At this moment in time, the only difference is the 2-week trial of Adobe Flash support for the free version.Recent changes:\xe2\x98\x86 Download from Cloud to Dropbox directly (Up to 10 per file)\xe2\x98\x86 Add-ons functions (Pocket, Evernote, Facebook, Translator and more)\xe2\x98\x86 File Upload \xe2\x98\x86 Autofill Forms\xe2\x98\x86 Save Passwords\xe2\x98\x86 Find in Page'
+p4
+tp5
+tp6
+.

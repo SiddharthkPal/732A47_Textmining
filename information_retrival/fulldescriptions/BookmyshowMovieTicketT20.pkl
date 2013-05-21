@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bookmyshow.Movie Ticket.T20 '
+p1
+tp2
+(S'Description:'
+p3
+S"Buy Online Tickets. Movie Tickets Booking. Book T20 Tickets, T20 Cricket, Music Concerts, Sports, Plays, Events, Theater, Cinema & Match Tickets. Cricket Schedule, Match Reviews, Movie Reviews, T20 Match News.With BookMyShow's application you can now book tickets for movies, plays, concerts and many other events happening in your city.Most of the renowned cinemas in the country like INOX, AGS Cinemas, Apna Cinema, CineMAX, City Gold, DT City Centre, E-SQUARE, Cinepolis, Fame Cinemas, Fun Cinemas, Glitz Cinemas, Gold Cinema, Gopalan Cinemas, HDIL Broadway, INOX, Movietime, Prasads, Q Cinemas, Rajhans Cine World, Satyam Cineplexes, SRS Cinemas, Storm 5D, Wave and many more have tied-up exclusively with BookMyShow.If that's not enough, you can also book tickets for theaters like NCPA Mumbai, Prithvi Theatre Mumbai, Epicenter Gurgaon, Yours Truly Alma Banglore, Ranga Shankara, Jagriti Theatre, Lamakaan Hyderabad, Comedy Store, Alliance Francaise Chennai, Alliance Francaise Delhi and many more.BookMyShow's application is definitely your one-stop shop for all your ticketing and entertainment needs. Reviews, Tamil movie tickets, Telugu movie tickets, play tickets, comedy shows, T20 tickets, music concert tickets and more - You want it, we got it!Download our app for FREE and book tickets on the go. The box office at your fingertips.Like us on Facebook:- http://www.facebook.com/BookMyShowINFollow us on Twitter:- https://twitter.com/BookMyShowRecent changes:-Making payments will become easier with BookMyShow My Payments. Store your details once and payments are a breeze the next time onwards.- Connect to BookMyShow using member login and fConnect.- fConnect to see exactly where your friends are sitting and book tickets right next to them and share  it on your wall.- Add cinemas as your favorites and also get directions to the cinema from where you are.- Get detailed BookingHistory.- Minor bug fixes."
+p4
+tp5
+tp6
+.

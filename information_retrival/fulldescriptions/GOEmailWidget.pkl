@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Email Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85Multi-Account is supported now\xef\xbc\x81\xe2\x98\x85Are you still worried about missing your important emails? Are you still searching for a simple and useful email app? Now you have GO Email Widget.Once you have it, you can just send/receive emails directly on your screen. Absolutely no need to open any email app!GO Email Widget supports most of the popular email boxes in the world. It provides you a fast and simple way to configure your account. You can do everything you want just like how you do it in any email app.To make it work, you must install the latest version of GO Launcher EX which is the most popular home launcher in Android Market.If you have install the beta version of the Email Widget, Please uninstall it first before you install the V1.0.Available Size:- 4\xc3\x974Actions:- Send/Receive emails- Support POP3/IMAP- Download/Send Attachment- Change ThemesHow to add GOWidgets on your home screen?-Long press on your home screen in GO Launcher, press the GOWidget option and choose the widget you like. Make sure you have enough room for the widget.How to set the Yahoo Email?-You should Manual setup your account.-If you choose the IMAP,please enter the "android.imap.mail.yahoo.com" in the IMAP sever-If you choose the POP3,please enter the "pop.mail.yahoo.com " in the POP3 serverRecent changes:1. (Improve) Support to manually add Yahoo E-mail through \'IMAP\'2. (Fix) Log-in to Yahoo E-mail and fail to load GO Launcher EX3.\xef\xbc\x88Fix\xef\xbc\x89Problem when load on Andrdoid 4.2'
+p4
+tp5
+tp6
+.

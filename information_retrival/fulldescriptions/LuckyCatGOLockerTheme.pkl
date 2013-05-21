@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LuckyCat GO Locker Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Specially designed for GO Launcher EX. Want an extreme makeover for your phones?Try it now!Notice1. Please make sure you have installed GO Launcher EX V2.58 and GO Locker V1.12 or above. 2. Click Menu>Plugins>GO Locker, choose a theme you like and apply it to your phone.Thank you for your continued support. Any advice or suggestion is appreciated. Feel free to contact us if you have any problems or suggestions.'
+p4
+tp5
+tp6
+.

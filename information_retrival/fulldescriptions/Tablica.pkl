@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tablica '
+p1
+tp2
+(S'Description:'
+p3
+S'Darmowe og\xc5\x82oszenia z Twojej okolicy teraz w zasi\xc4\x99gu Twojej r\xc4\x99ki. Dzi\xc4\x99ki naszej mobilnej aplikacji w dowolnym miejscu i o dowolnej porze mo\xc5\xbcesz szybko dodawa\xc4\x87, przegl\xc4\x85da\xc4\x87 i edytowa\xc4\x87 og\xc5\x82oszenia. Z aplikacj\xc4\x85 Tablica.pl na Androida masz r\xc3\xb3wnie\xc5\xbc sta\xc5\x82y dost\xc4\x99p do swoich og\xc5\x82osze\xc5\x84 jak i odpowiedzi, a komunikacja z u\xc5\xbcytkownikami serwisu sta\xc5\x82a si\xc4\x99 o wiele prostsza.Najwa\xc5\xbcniejsze funkcje:- przegl\xc4\x85danie og\xc5\x82osze\xc5\x84 wed\xc5\x82ug tekstu lub kategorii, dopasowane do Twojego urz\xc4\x85dzenia,- wyszukiwanie og\xc5\x82osze\xc5\x84 w ca\xc5\x82ym serwisie lub w wybranej kategorii,- szybkie dodawanie zdj\xc4\x99\xc4\x87: prosto z kom\xc3\xb3rki do Twojego og\xc5\x82oszenia - nie musisz ju\xc5\xbc szuka\xc4\x87 kabla, \xc5\xbceby po\xc5\x82\xc4\x85czy\xc4\x87 si\xc4\x99 z komputerem,- \xc5\x82atwe i szybkie dodawanie og\xc5\x82osze\xc5\x84: wystarczy wybra\xc4\x87 kategori\xc4\x99, umie\xc5\x9bci\xc4\x87 kr\xc3\xb3tki opis i do\xc5\x82\xc4\x85czy\xc4\x87 zdj\xc4\x99cia z telefonu,- powiadomienia Push: powiadomienie o ka\xc5\xbcdej nowej odpowiedzi wprost na telefon - nawet je\xc5\x9bli aplikacja nie jest w\xc5\x82\xc4\x85czona.Recent changes:- istotna poprawka dla u\xc5\xbcytkownik\xc3\xb3w telefon\xc3\xb3w HTC'
+p4
+tp5
+tp6
+.

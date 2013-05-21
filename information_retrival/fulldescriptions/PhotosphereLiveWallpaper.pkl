@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photosphere Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S"Take advantage of Android's unique Photosphere feature by viewing one right on your home screen!  Photosphere Live Wallpaper properly displays a Photosphere image on any Android device, with appropriate camera controls when swiping between home screens and tilting your device!Includes one example image (Beach!), and the ability to select your own Photosphere images.TO USE: Home Screen -> Long Press -> Live WallpapersIf you enjoy this, please help support us by checking out our other products!Recent changes:v1.01:  - Fixed occasional crash on Galaxy S3  - Fixed default image name  - Fixed scaling on built-in images"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Lowe's "
+p1
+tp2
+(S'Description:'
+p3
+S'Discover the redesigned Lowe\xe2\x80\x99s app with lots of new, easy-to-use features, available for your Android!As always, the handy Lowe\xe2\x80\x99s app enables you to search and shop the entire online catalog, make your purchase for in-store pickup or have items delivered directly to you. And of course, find a Lowe\xe2\x80\x99s anywhere.With MyLowe\xe2\x80\x99s, you can access your purchase history, Home Profile, and MyLowe\xe2\x80\x99s card anywhere, anytime. Create shopping lists, upload and save photos, and bookmark products so you\xe2\x80\x99re always ready for your next project.Real-time ratings and reviews.See what everyone else is saying before you buy. Get the inside scoop on products and how others use them to accomplish their DIY dreams.Everything you need to get started.View how-to videos and tutorials and browse hundreds of thousands of designer rooms, showcasing money saving projects, captivating d\xc3\xa9cor and the latest trends to spark your imagination so you can create your own work of art.Instant information.Scan in-store barcodes, QR codes and Microsoft Tags with integrated scanning capabilities for ratings and reviews, videos, and even quick buying options.Recent changes:* Totally redesigned app* Left menu helps you find stores, browse inspiration photos, view videos & order gift cards* Right menu controls your MyLowe\xe2\x80\x99s experience so you can view your MyLowe\xe2\x80\x99s card, see your Purchase History and access your Lists and Home Profile* The tab bar lets you shop, scan products and view your cart* A new cart and checkout completes your transactions faster* Improved search results* View hundreds of thousands of inspirational photos* Support for Nexus 7'
+p4
+tp5
+tp6
+.

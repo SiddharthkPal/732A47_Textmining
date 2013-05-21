@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TeamSnap '
+p1
+tp2
+(S'Description:'
+p3
+S'TeamSnap is the award-winning web service for managing your sports team or group. The official TeamSnap mobile app makes it easy to take control of all aspects of your team: rosters, player availability, schedules, game and practice attendance and much more -- all on the go. Comprehensive messaging and maps lets you keep everyone in touch about last minute changes. A strong focus on usability and simplicity means that TeamSnap is software that people actually find fun to use.With enthusiastic customers in 135 countries, and teams representing over 100 different sports and (non-sport groups), TeamSnap has quickly become one of the fastest-growing team and group management solutions on the planet. Great for soccer, baseball, football, hockey, softball, basketball and so much more.Features include:* Add and edit teams - modify your team information* Complete Roster information -- your team at your fingertips. Add and edit players! Even invite players to create a TeamSnap account and join your team.* Team Schedule -- times, locations and maps of all your games and practices. Create and edit events!* Set and View Availability -- make sure you have enough players. Managers can set the availability for any of the team\'s players.* Claim or assign refreshments - bringing snacks to the game? Let everyone know!* View and upload photos  -- right from the game.* Read team messages from the manager and other players.* Comprehensive team communications -- email or text the entire team.* Google Cloud Messaging - get alerts right on your device when events are added or changed, scores are entered, and more.* Incredibly easy to use. -- smart, intuitive and simple.This application requires a TeamSnap account. Create your manager account and your first team right from the device, or sign your team up at http://www.teamsnap.com/Recent changes:- Fixed a bug that was preventing the creation or editing of a player roster or contact due to the "Receive Text Messages" feature being checked. (If you\'ve experienced difficulties creating or editing players or contacts, this is the update you want.)'
+p4
+tp5
+tp6
+.

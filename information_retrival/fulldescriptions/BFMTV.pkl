@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BFMTV '
+p1
+tp2
+(S'Description:'
+p3
+S"BFM TV \xe2\x80\x93 Toute l\xe2\x80\x99information en direct et en replay.Suivez toute l\xe2\x80\x99actualit\xc3\xa9 fran\xc3\xa7aise et internationale en direct avec  l\xe2\x80\x99application BFM TV mise \xc3\xa0 jour en temps r\xc3\xa9el gr\xc3\xa2ce :- Aux articles class\xc3\xa9s par th\xc3\xa8mes : \xc3\x89conomie, Politique, Soci\xc3\xa9t\xc3\xa9, High-Tech..- A la nouvelle rubrique 100% vid\xc3\xa9o pour suivre toute l\xe2\x80\x99actualit\xc3\xa9 en vid\xc3\xa9o- A la nouvelle rubrique les d\xc3\xa9p\xc3\xaaches pour ne rien rater des scoops, les infos de derni\xc3\xa8res minutesL\xe2\x80\x99appli BFM TV c\xe2\x80\x99est aussi l\xe2\x80\x99acc\xc3\xa8s \xc3\xa0 toutes les vid\xc3\xa9os et au live TV. Suivez en direct les \xc3\xa9missions de Jean-Jacques Bourdin, Ruth Elkrief, Christophe Delay, etc\xe2\x80\xa6Retrouvez \xc3\xa9galement toutes vos \xc3\xa9missions pr\xc3\xa9f\xc3\xa9r\xc3\xa9es gr\xc3\xa2ce aux replay de l\xe2\x80\x99application, comme Bourdin Direct, le 19h avec Ruth Elkrief, Culture Geek, la chronique de l\xe2\x80\x99\xc3\xa9co, les infos Bourse, la m\xc3\xa9t\xc3\xa9o etc\xe2\x80\xa6Vivez l\xe2\x80\x99actualit\xc3\xa9 gr\xc3\xa2ce \xc3\xa0 l\xe2\x80\x99application BFM TV !Important \xc3\xa0 savoir : le live TV  n'est disponible qu'\xc3\xa0 partir de la version 3.0 d'Android.Recent changes:- Le Live TV- Une nouvelle charte graphiqueUn acc\xc3\xa8s direct aux informations par th\xc3\xa8mes ( Politique, soci\xc3\xa9t\xc3\xa9, actualit\xc3\xa9 internationale, Sport, divertissement..)- Un acc\xc3\xa8s direct \xc3\xa0 toutes les \xc3\xa9missions en replay- Nouvelle rubrique \xc2\xab Les d\xc3\xa9p\xc3\xaaches \xc2\xbb Retrouvez toutes les informations exclusives de l\xe2\x80\x99antenne BFM TV dans cette nouvelle rubrique. - Meilleure stabilit\xc3\xa9, corrections de bugs- Optimisation des listes d'articles"
+p4
+tp5
+tp6
+.

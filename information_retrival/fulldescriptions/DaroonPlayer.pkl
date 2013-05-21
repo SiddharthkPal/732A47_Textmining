@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Daroon Player '
+p1
+tp2
+(S'Description:'
+p3
+S'Daroonplayer upgrades now for more stunning features, and owns a new name as\xe2\x80\x9cWondershare Player\xe2\x80\x9d. \xe2\x80\x9cWondershare Player\xe2\x80\x9d is an \xe2\x80\x9call-in-one video player & videos discovery app\xe2\x80\x9d, a superior version of Daroon Player. Search "Wondershare Player" on the Google Play or just drop to learn more on v.wondershare.com.Daroon Player is the most powerful free Android player in the market till now. It well supports media files in all major formats, streaming videos and live TV. With this intuitive tool, you can enjoy your favorite videos smoothly anytime and anywhere you like with high picture quality!Key Features of Daroon Player:* Support all popular video and audio formats, including AVI, MKV, MOV, FLV, WMV, RM, RMVB, ASF, M2TS, MP3, WMA, AAC, FLAC, etc.* Support HTTP, MMS, RTMP and RTSP/RTP streaming media protocols, including m3u8 (iPhone and iPad online media format) * Support playing DVD folders from SD card directly with DVD menu navigation* Support built-in subtitles for MKV, MP4, MOV videos and plug-in srt, ass, sub, saa subtitles * Support selecting from multiple audio and subtitle tracks* Support playlist and continuous playback* Automatically remember your last played position * Record playback history * Provide search function to help you quickly find the files you want to play* Support creating a media library with custom sorting * Support displaying video files with thumbnails* Run the player automatically when you are visiting a stream media website and save the web address * Kill the process automatically when exitingTags: Media Player, Video Player, Streaming Player, DVD Player, Music PlayerRecent changes:Fixed some bugs.'
+p4
+tp5
+tp6
+.

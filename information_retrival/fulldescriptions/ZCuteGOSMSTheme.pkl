@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ZCute GO SMS Theme '
+p1
+tp2
+(S'Description:'
+p3
+S"you can search \xe2\x80\x9cZ\xe2\x80\x9d to get more relevant theme\xef\xbc\x9b***This app only works with GO SMS Pro.***Install GO SMS Pro free from the market first.***How to Apply the Theme:1.Please Do Not open directly after it's installed.2.Back to GO SMS main screen: MENU > Theme.3.Choose and apply the theme.Thanks for your support!Problems and Suggestions to: qiuchunyi@gmail.com"
+p4
+tp5
+tp6
+.

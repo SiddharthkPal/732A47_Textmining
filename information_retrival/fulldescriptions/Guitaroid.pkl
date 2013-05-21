@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Guitaroid '
+p1
+tp2
+(S'Description:'
+p3
+S'No Ads, Just for free. Best guitar app ever!!You can play it or play your guitar with it.Useful tools help you to be a good guitar player.Or just play songs and have fun.- Most accurate Metronome with a variety of sound sources- Drum Rhythm Guide for practical training and jamming along to the beats- Vitrual Acoustic Guitar with improved Multi-touch support- Playing best guitar songs for fun, for reference- Ear Training- Simple and fast way to find chord position* More guitar songs and rhythm patterns will be added in next version* Any suggestions, bug reports are welcome, please feel free to contact me* gerosyab@gmail.com* http://gerosyab.net/apps* finger style songs, chord finder, chord dictionary, chord book, ear testRecent changes:Version 1.1.0 (2012/01/31)- Song Play Mode    * Error fixed in Canon Song    * Song added : No Surprises - Radiohead, Shape of My Heart - Sting    * Title Bar removed for efficient displayVersion 1.0.0 (2012/01/21)First Released!!- Metronome- Rhythm Guide- Virtual Guitar- Song Play- Ear Test- Chord Book'
+p4
+tp5
+tp6
+.

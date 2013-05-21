@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Valores de Laboratorio '
+p1
+tp2
+(S'Description:'
+p3
+S'Una aplicaci\xc3\xb3n de laboratorios de referencia... \xc2\xa1En Espa\xc3\xb1ol!Eres un trabajador de la salud, estudiante, curioso. Necesitas esta aplicaci\xc3\xb3n como referencia r\xc3\xa1pida de un valor normal de laboratorio.M\xc3\xa1s de 200 valores de laboratorio organizados en categor\xc3\xadas, en tu idioma, listas para cuando puedas necesitarlas, como recordatorio o como herramienta educacional.Recent changes:Primera versi\xc3\xb3n.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RTA Audio Analyzer '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your Android phone into a professional audio analyser. Supports one, 1/2 and 1/3 octave filter and calibration. Displays overall Peak and RMS value for acoustical measurements.Measure the frequency response of your audio equipment, identify tones and noises.v1.3: Samsung phones fixedBugs etc: info@radonsoft.netRecent changes:- Dynamic screen sizes added- various fixes- Install to SD'
+p4
+tp5
+tp6
+.

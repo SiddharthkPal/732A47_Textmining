@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Watch Football Live Streaming '
+p1
+tp2
+(S'Description:'
+p3
+S"Watch all football or soccer matches live on your Android devices free. If you are facing any issue on this app, i am here to support you. Please must contact me on azeemsheikh28@gmail.com.* Requires adobe flash player & High speed internet*If you don't have flash player then please email me on above id.This app has all live streaming of all football leagues.Watch Football Soccer live streampremier league live streamEPL live streamSpanish la liga live streamItalian serie A live streamchampions league live streamfrench leagueScottish premier leagueAfcon 2013 LiveAfrican Cup of Nations Live StreamEuropa league live streamLiga Espanola en vivoRugby live streamCoppa italiaFA Cup live streamCopa Del Rey live streamEnglish League CupUefa Super CupBeach soccerand many moreRecent changes:Add Highlights"
+p4
+tp5
+tp6
+.

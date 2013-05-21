@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazing Science Facts '
+p1
+tp2
+(S'Description:'
+p3
+S'Amazing Science Facts presents some of the most interesting science facts in the universe.  Ranging a broad array of science topics.  Learn something new with Amazing Science Facts.Enjoy these Amazing Science facts, sure to entertain.Features:- A constantly updated database of interesting science facts- Submit your own fact- Easily share an interesting science fact- Updated often to enhance user experienceRecent changes:1.4.1 Minor update1.1 Updated sdk1.0 Release'
+p4
+tp5
+tp6
+.

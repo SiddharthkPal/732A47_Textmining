@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Czech-German offline dict. '
+p1
+tp2
+(S'Description:'
+p3
+S'DIC-o Czech-German and German-Czech off-line dictionary (88000 translations).Recent changes:Added irregular German verbs'
+p4
+tp5
+tp6
+.

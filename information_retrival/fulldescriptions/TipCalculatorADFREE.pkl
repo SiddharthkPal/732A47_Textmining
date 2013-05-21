@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tip Calculator- AD FREE '
+p1
+tp2
+(S'Description:'
+p3
+S'Best tip calculator without AD!Ultimate powerful and very easy to use!The Best companion every time you need to calculate a tip or divide a meal between your friends.This tip calculator not only calculate tip quickly but also helps split the bill between any number of people.We hate AD too,if you like this app,please donate us\xef\xbc\x9a\xef\xbc\x89Features:*Easy to use*Support tax calc*Support calc more than 1 person*Quick tip & split calculate*Simple numeric soft keyboard*Round bill and tip support*AD Free*Fit for pad***************************INFOLIFE, Make Life Easier!***************************Choose the "Generous mode" to calc pay for others.Press the "setting" to set the tax value and calc mode.Press the "+" & "-" button to set the value of tip and number of people,the default percentage of tip is 10%.Toggle \'Round on\' to get a round result of bill and tip.Toggle \'Round off\' to get a exact result of bill and tip.Press the \'Clear\' button to reset the value of bill amount,shared people and tip.Press \'exit\' to quit Tip Calculator.Press the \xe2\x80\x98i\' button to get more information about Tip Calculator\xe3\x80\x82If you have any suggestion about "Tip Calculator",please let us know,we will improve it ASAP.***************************INFOLIFE, Make Life Easier!***************************Recent changes:-v1.3.6Support Ukrainian'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AlloCine '
+p1
+tp2
+(S'Description:'
+p3
+S"Discover the new AlloCin\xc3\xa9 application on your Android mobile: Films, trailers, cinemas, TV series, showtimes, stars and news:  All of AlloCin\xc3\xa9 available on Android... for free! Key features:- Database of 110,000 films, 8,000 series, 9,000 cinemas in France, 460,000 people and their filmographies.- Optimised search engine.- For each film find press and user reviews.- Find nearby film showings and cinemas thanks to GPS mapping.- For each serie getSeason and episode listings plus TV broadcasts.- High quality trailers and AlloCin\xc3\xa9 web shows.- All cinema, series and stars news in real time.- Rate and review films as soon as you leave the cinema! Save your favourites.- Share: Send a film or showtime to your friends via email, Facebook and Twitter.- Find all Android functionnalities : Widget, hard key menu, search in the app from the Android search. Coming soon:Book your cinema ticket from your phoneRecent changes:-  Performance improvement-  Galaxy Note's connection problem fixed"
+p4
+tp5
+tp6
+.

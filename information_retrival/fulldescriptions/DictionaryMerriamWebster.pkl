@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dictionary - Merriam-Webster '
+p1
+tp2
+(S'Description:'
+p3
+S'In addition to all the definitions from Merriam-Webster\'s Collegiate Dictionary, this app offers voice search \xe2\x80\x93 to let you look up a word without having to spell it \xe2\x80\x93 along with synonyms, antonyms, example sentences, Word of the Day, and more.  It\xe2\x80\x99s a great tool for reference, education, and vocabulary building.The app is free, and supported by ads. No internet connection is required to view the definitions or thesaurus (although you do need a connection to view illustrations, hear audio pronunciations, and use voice search). Features: * Synonyms & Antonyms* Voice Search* Example Sentences* Audio Pronunciations* Word of the Day * Favorites - lets you keep a list of words that are particularly interesting to you* For Tablets: Scrolling Index - lets you browse the entire dictionary* For Phones: Reader View - lets you hide navigation buttons to see text in full screen * Recent History - lets you keep track of the words you\'ve looked upRecent changes:* Over 800 new and enhanced entries, including definitions for recent terms like "bucket list," "gastropub," and "cloud computing"* Optimized for tablets, with Scrolling Index for browsing the dictionary* Fixed content, display, and audio playback errors* 2.1: Resolved update and permissions issues'
+p4
+tp5
+tp6
+.

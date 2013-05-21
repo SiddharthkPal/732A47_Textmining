@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Qoo10 SG '
+p1
+tp2
+(S'Description:'
+p3
+S"*Up to 80% Off on Fashion & Gadgets! Don\xe2\x80\x99t miss out incredible discounts & special offers everyday.1 million users choose Gmarket app, we are No.1 Shopping mall in S\xe2\x80\x99pore.Enjoy shopping anytime anywhere! Have a blast!!* CUSTOMER REVIEWS :\xe2\x80\xa2 It's now easier for me to shop as well as easier to find out the special deals for the day~ - Uknowmelia\xe2\x80\xa2 This app is easy to navigate and use, so I've purchased many items from this app and my experiences are 95% good. -ReencwqThank you to everyone who wrote the review!We do our best to make better App based on your suggestions.Recent changes:- left side menu changed - Category/Keyword Search UI Changed - Search in result added - Header changed - Group icon added to Home menu - Bestseller UI changed"
+p4
+tp5
+tp6
+.

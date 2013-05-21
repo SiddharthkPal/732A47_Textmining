@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VIERA remote2 '
+p1
+tp2
+(S'Description:'
+p3
+S'VIERA remote lets you comfortably operate Panasonic flat-panel VIERA TV.VIERA remote2 app lets you comfortably operate Panasonic flat-panel TV, 2011/2012/2013 VIERA with mobile devices running Android OS ("Android Device(s)").The VIERA remote app lets you control VIERA over wireless network (Wi-Fi) more intuitively than the ordinary remote controller. The VIERA remote App also lets you transfer pictures, videos, music or websites from your mobile display to VIERA TV, and vice versa.In order to use the VIERA remote2 app, all you need is to simply install the app to your Android Device. There is no complicated setting required to establish connection with VIERA. Give it a try.Recent changes:- Bug fix.- Added the vertical screen layout for Tablet.'
+p4
+tp5
+tp6
+.

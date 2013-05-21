@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Engadget '
+p1
+tp2
+(S'Description:'
+p3
+S'Engadget is the definitive source and final word for news on gadgets and technology. Engadget\'s team of expert editors and columnists cover the world of consumer electronics with unmatched passion and an obsessive attention to detail. From the latest smartphone news, to reviews and hands-on looks at laptops, HDTVs, gaming, and more, Engadget brings you all the tech news you need. The Engadget for Android app delivers that experience straight to your Android device, instantly.KEY FEATURES* A non-stop, daily stream of all the news on Engadget, Engadget Mobile, Engadget HD, and alt.Engadget* See Engadget\'s features, reviews, unboxings, and hands-on coverage as it happens* Check out Engadget photo galleries of the latest gadgets* Watch streaming video of "The Engadget Show" without leaving the app* Share Engadget news, photos, videos, and other tech stories via any app on your device at supports sharing* Get quick access to the Engadget Podcast which now supports background playback* Engadget Desktop Widget* Use the in-app option to tip Engadget on breaking news* Saving feature to bookmark articles and view while offline* Integrated mini web browser for viewing web content without leaving the app* Intuitive and clear interfaceRecent changes:* Replaced "Most Commented" with "Recent Reviews"* Numerous bug fixes relating to stability, background CPU usage, and videos* Restored access to Unboxing and Hands-On galleries* Download links for podcast articles now work (Gingerbread or higher)* Widget Refresh setting of "Never" now works* Commenting via Livefyre works* Tap an RSS link in a podcast article to subscribe with your podcast manager'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Gay Chat & Dating - Jack'd "
+p1
+tp2
+(S'Description:'
+p3
+S"Enjoy chatting with over 3.5 million gay guys in your area and around the world!FEATURES:- Push Notification support- Match Finder- 3 public pictures + 2 private pictures- List View & Gallery View for profile listings- Extended profile filtering- Scene selection- Favorites list & Followers list- Unlimited message exchangesTERMS OF SERVICE:- Do not upload any nude or illegal pictures.- Maximum of one Jack'd account per device.- You must be 18 years old or older to register.*** The full terms available at www.jackd.mobi/#termsNOTE:- User profiles inactive for more than three months may be deleted.- Messages older than three months may be deleted.Recent changes:- Minor performance optimization"
+p4
+tp5
+tp6
+.

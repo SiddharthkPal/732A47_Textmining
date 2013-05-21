@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'wedding frames '
+p1
+tp2
+(S'Description:'
+p3
+S'Free wedding photo frames for download. Easy to use format. Different beautiful wedding frames available for you to choose from. Just select any of the wide collection of picture frames and shoot your lovely wedding pictures. A beautiful wedding portrait is the culmination of the beautiful marriage, capturing the memorable moment of a couple tying the knot together.  Such memorable pictures should not settle for less but go for the most beautiful frames to complement them. Only then they are worthy to be kept in the wedding photos album.Photos with frames can be saved and share through your social media sites. Also included are some pretty love frames to complement your collection of romantic pictures with beautiful frames.This is one of the best camera apps you can have fun with on your mobile android smartphone or devices.'
+p4
+tp5
+tp6
+.

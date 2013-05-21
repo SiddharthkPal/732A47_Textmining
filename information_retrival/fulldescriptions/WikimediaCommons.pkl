@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wikimedia Commons '
+p1
+tp2
+(S'Description:'
+p3
+S"Donate your photos to Wikimedia Commons, the world\xe2\x80\x99s largest free media repository!The Commons app is a free, easy-to-use image uploading app with a mission. Images you upload via the app are added to Wikimedia Commons, a repository of freely-licensed media used to illustrate Wikipedia and its sister projects. By uploading your photos, you can help further the goal of spreading free knowledge around the world. You won\xe2\x80\x99t just be sharing your images with your friends \xe2\x80\x93 you\xe2\x80\x99ll be sharing them with Wikipedia\xe2\x80\x99s billions of readers around the globe.This app is 100% ad-free and non-commercial. Features include the ability to view a stream of your contributions, upload multiple files, and export to Commons using Android\xe2\x80\x99s share functionality.Share your images and and help illustrate free knowledge for billions of people worldwide!Tip: You can upload multiple photos simultaneously by selecting them all from your gallery and sharing to Commons. You can enable 'GPS Tag' in your phone's camera to automatically GPS tag your photos!Recent changes:v1.0 beta 8- Disable menu items for share and open browser when upload incomplete- Show recently-used categories- Prevent upload status from overlapping with the title of upload- Make template removal work properly- Relicense to Apache License- i18n updatesv1.0 beta 7- Added opt out from EventLogging- Remove {{Uncategorized}} template after adding categories- Be more consistent in syncing modifications- Add minimal About page- Add option to send feedback via email- i18n updates"
+p4
+tp5
+tp6
+.

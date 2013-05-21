@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'vente-privee.com '
+p1
+tp2
+(S'Description:'
+p3
+S'Snap up unique designer bargains with our specially designed Android appHand-picked products at the tap of a button: anytime & anywhere. - Be first in line: sign up now to receive email reminders when our sales open.- A truly mobile shopping experience. In bed? On the bus? Access irresistibly priced designer brands on the move.- Tingling with impatience? Take a quick peek at our sale trailers and track your parcel\xe2\x80\x99s progress.WHO ARE WE?The innovator of online private sales, we have more than 20 years of experience in selling exclusive fashion and homeware.- Over 1,200 designer brands: we love style, from fashion to fridges, holidays to heels.- Member-only prices with heart-fluttering discounts of up to 70%. - Fabulously free sign-up. - Thrilling flash sales (only 2-4 days, time is of the essence).SIGNING UP Join our chic shopping club for exclusive access to the vente-privee.com app.  Sign up directly via our app, or, even easier, navigate your way to our website: www.vente-privee.comWe won\xe2\x80\x99t share personal information without your permission, c\xe2\x80\x99est promis.Recent changes:Thanks to your feedback, vente-privee.com is constantly improving its services.This new version fixes several bugs and increases the speed of the application for even more comfort.We thank you for your trust.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jo-Ann '
+p1
+tp2
+(S'Description:'
+p3
+S"Your favorite fabric and craft store is now available on Google Play! The Jo-Ann app is stocked with features to make your Jo-Ann shopping experience even more rewarding. \xe2\x80\xa8\xe2\x80\xa8Access exclusive mobile coupons with a single tap within the app.  View upcoming coupons to help you plan your next trip.Browse the weekly sales flyer for even more great deals.  Find just what you're looking for with a search in the product catalog.Catch up on customer product reviews and share products via e-mail, Facebook and Twitter.\xe2\x80\xa8\xe2\x80\xa8Search for stores by address or your current location, plus get directions, call a store, and look up class schedules for participating stores.About Jo-Ann:\xe2\x80\xa8Jo-Ann is where sewers and crafters shop, discover and save! There\xe2\x80\x99s no better destination for product selection, ideas & inspiration, the value of real savings, and a vital creative community.  You\xe2\x80\x99ll find it all in almost 800 stores nationwide and at Joann.com.Recent changes:\xe2\x80\xa2\tEnhancement to weekly ad images"
+p4
+tp5
+tp6
+.

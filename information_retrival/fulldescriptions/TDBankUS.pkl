@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TD Bank (US) '
+p1
+tp2
+(S'Description:'
+p3
+S"DescriptionMobile banking with TD Bank is the quick, easy and secure way to manage your banking needs anytime, anywhere. View account information, transfer funds, pay bills, or find the nearest TD Bank Store or ATM \xe2\x80\x93 right at your fingertips.Store Locator-Locate the nearest TD Bank store and ATM in the U.S., or find the nearest TD Canada Trust branch and ATM if you\xe2\x80\x99re traveling in CanadaOne-Touch Calling- TD Bank: Convenient access to Live Customer Service 24 hours a day, 7 days a weekTD Bank Accounts- View your accounts- Check balances- View transactions- Transfer funds between eligible accounts- Pay billsBanking with your TD Bank mobile app is safe and secure, and backed by our commitment to online security.Recent changes:We've made changes to make our app even more convenient for you!\xe2\x80\xa2 New Main menu design \xe2\x80\x93 find what you need faster\xe2\x80\xa2 New Accounts menu \xe2\x80\x93 view balances, transfer funds and pay bills by logging in from this screen\xe2\x80\xa2 Contact information \xe2\x80\x93 if your debit, credit or gift card is lost or stolen\xe2\x80\xa2 Enhanced Locator \xe2\x80\x93 more detailed maps, driving directions, find and filter store/ATM information \xe2\x80\xa2 FAQs \xe2\x80\x93 get quick answers\xe2\x80\xa2 Share the app\xe2\x80\xa2 Swipe between screens \xe2\x80\xa2 Optional landscape orientation"
+p4
+tp5
+tp6
+.

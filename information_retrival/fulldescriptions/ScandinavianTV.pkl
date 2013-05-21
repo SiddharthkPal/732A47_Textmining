@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Scandinavian TV '
+p1
+tp2
+(S'Description:'
+p3
+S"Scandinavian TV (Denmark, Norway, Finland, Sweden, Iceland, Netherlands)Completely free.* No need to uses extra devices, extra utilities.* Just use your mobile device (phone,tablet, etc.) .* Easy to use. Just click and watch. * Some of the channels included:Denmark: 24Nordjyske (DK)DR 1 (DK)DR 2 (DK)DR Ultra (DK)LifeStyle TVTv2Nord (DK)Sweden:SVT1 (SE)SVT2 (SE)KarlskronaKanalenKLTVNorway:NRK 1 (NO)2 NRK (NO)TV2 Norge HD (NO)Kanal 10 - NorwayTv Haugaland - NorwayFinland:Tv7 plus - FinlandYle 1Yle 2Yle TeemaDinaTV 7Iceland:Gospel Channel EuropeNetherlands:RTLZSalto 1 TVSalto 2 TVRTV DrentheRTV OostRTV UtrechtUStadScandinavian TV is the best app for watching live Denmark, Norway, Finland, Sweden, Iceland, Netherlands channels in your android for free!If you have any issue/suggestion/improvements regarding the application, please feel free to mail us.Add your comments and give stars on the market! Thanks.If you want us to add a new channel, send us email with channel name and a link to the channel. We will add it! This is not the official application of the different channels.We don't have any connection with content providers or have any rights regarding content.This app is just a mean to view the content in an organized way.This application uses internet connection. Wifi/3g/4g are supported connection protocols. Wifi is more economic and more robust internet connection,so we recommend to use wi-fiRecent changes:Version 0.0.2: refreshed stations list"
+p4
+tp5
+tp6
+.

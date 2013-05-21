@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'adidas miCoach '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your phone into a personal coach. miCoach uses GPS and real-time voice coaching in your ear to pace you through easy to understand workout zones as you run. Choose a training plan tuned for your sport to build speed and endurance. Track and share your achievements with the app or at miCoach.com. Be Faster with miCoach!Features:- Syncs to miCoach.com to save and view detailed analysis of your workouts.- Measures your distance, pace, calories burned, and elapsed time.- Get daily planned workouts and coaching feedback delivered to your phone.- Easy access to your music during your workout.- Tracks your shoe usage with wear alerts.- Highly customizable audible alerts.In addition to the extensive cardio training plans already available, this new release enables access to more than 400 strength & flexibility exercises, making miCoach one of the most complete coaching apps on the market!Recent changes:Bugfixing release! This release especially fixes the issues around synchronizing to micoach.com.'
+p4
+tp5
+tp6
+.

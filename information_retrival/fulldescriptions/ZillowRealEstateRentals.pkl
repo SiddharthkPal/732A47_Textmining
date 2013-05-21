@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zillow Real Estate & Rentals '
+p1
+tp2
+(S'Description:'
+p3
+S'Is that home for sale? What is it worth? Where can I find foreclosures? Get answers on Zillow, the leading real estate network, featuring homes for sale and apartments for rent across the United States.***** \xe2\x80\x9cUser friendly with tons of great properties!!!!\xe2\x80\x9d ***** \xe2\x80\x9cExcellent Android App\xe2\x80\x9d ***** \xe2\x80\x9cThe best of Zillow\xe2\x80\x9dFind homes that are just hitting the MLS, or those for sale by owner (FSBO). Plus, Zillow has rental listings for any type of property: single-family homes, apartments, town homes, condos and more. For homeowners, check Zestimate\xc2\xae home values on 100+ million homes in the U.S.\xe2\x80\xa2 Only on Zillow: Get FREE access to foreclosure listings in your area, including pre-foreclosures, foreclosure auctions and bank-owned properties. \xe2\x80\xa2 Search four ways: from where you are (via GPS locater); type in an address; by voice search; or draw a custom region on the map. \xe2\x80\xa2 Filter searches by price, beds, baths, keywords, and more. \xe2\x80\xa2 Save your favorites and searches and access them across platforms: Zillow.com or from any mobile device\xe2\x80\xa2 Receive notifications when new listings hit the market, drop in price, show an open house date, or are sold so that you are always in the know. \xe2\x80\xa2 See the Zestimate of any home in the U.S. and see Rent Zestimates (estimated monthly rental price), on most homes and apartments\xe2\x80\xa2 Contact a Realtor\xc2\xae or local agent to tour a home. \xe2\x80\xa2 Get mortgage calculators, real-time mortgage rates, and personalized loan quotesZillow optimized for tablets: Enjoy home shopping on the big screen and compare homes side-by-side using the clever new home comparison tool.We love to hear from you! Please send any feedback or bug reports to the team at androidfeedback@zillow.com.Recent changes:\xc2\xb7 Integration of Google Maps V2: This enables you to tilt and zoom. You can even see buildings in 3D!\xe2\x80\xa2 Enhanced navigation options: We added a tool bar to make it easy to view homes in a list or a map. Easily access your filters, save a search, save homes to your favorites, or contact about a home any time.\xe2\x80\xa2 Per your suggestions, we added lots of additional info to the home details page under the \xe2\x80\x9cView more\xe2\x80\x9d link.\xc2\xb7 Bug fix: We fixed an issue with the home details view on Motorola devices.'
+p4
+tp5
+tp6
+.

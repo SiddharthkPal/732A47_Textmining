@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'REALTOR.ca '
+p1
+tp2
+(S'Description:'
+p3
+S'REALTOR.ca is a free app offered by The Canadian Real Estate Association. Itallows users to search for homes and property across Canada and to connectwith REALTORS\xc2\xae for more detailed information. The app will even connect youwith a REALTOR to view, buy or sell a property.REALTOR.ca is the most visited real estate website in Canada. The app willprovide consumers with the same functionality and detail they get fromREALTOR.ca while taking advantage of Android device features such as GPS.This app puts the functionality of REALTOR.ca in the palm of your hand. It usesyour handlheld\xe2\x80\x99s GPS capabilities to provide search results near your location,whether you\xe2\x80\x99re walking your neighbourhood, out for a Sunday drive, orcomparison shopping in a new part of town. Newly listed properties, openhouses with photos, and driving directions are all at your fingertips.Interactive BING mapping is embedded to help you find properties in a specificarea.Recent changes:Release v1.0.6Phone App will run on tablets nowRelease v1.0.5 features improvements to the map and to search results, and addresses a number of latency concerns.   Fixes include:\xe2\x80\xa2 Map: Pinch and Zoom issues\xe2\x80\xa2 Map: Latency & Refresh issues\xe2\x80\xa2 Random Crashes\\Forced Closures\xe2\x80\xa2 App fails to determine GPS location\xe2\x80\xa2 Other bug fixes'
+p4
+tp5
+tp6
+.

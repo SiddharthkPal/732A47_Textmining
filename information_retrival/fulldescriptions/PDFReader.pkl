@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PDF Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"Book and Document Reader with PDF and DjVu support for comfortable reading.If you are looking for a good PDF reader, stop here, you have found it.It does what you expect it to do. You can easily lay down and read pdf books and documents with this app. The amazing enhancement dims your screen in some way that it doesn't hurt your eyes. Easy to set and keep scrolling. The best functional from all readers.Functional:1) Read mode and control mode (single tap to switch)2) Fixate pages by width, saved on scroll3) Search in books 4) Table of content5) Night Mode6) Search ALL books (PDF, DjVu) on device7) Next Page or scroll pages by tap screen 8) Full screen mode9) Support e-reader keys like Nook, Kindle, Sony10) File navigation11) Recent Books12) Light and black theme13) Screen orientation: Portrait, Landscape, Automatic14) Text Bookmarks for page15) Links History, back to page16) Crop borders17) Automatic Scroll18) Swipe pages in lock mode 19) Support Intel Atom x86 CPUPRO Functional: http://tinyurl.com/pro-pdf-reader1) No Ads, No Internet permission2) Support password protected PDF Files3) Filter Search result4) Sort search result by Name, Path, Size (Ascending, Descending)5) Application screen brightness6) Set custom keys for scroll next previous pageThe best pdf reader for android.PDF Reader Tutorial: http://tinyurl.com/pdf-reader-tutorialDownload .apk directly: http://tinyurl.com/pdf-reader-dropboxFor questions, suggestions, improvements please write to ivan.ivanenko@gmail.comAlso possible to make build for mipsFOOBNIX PDF READERRecent changes:PRO PDF READER http://tinyurl.com/pro-pdf-reader==3.7.x==German translation (Vitali Fleming and Kofi Jedamzik) Preservation of the type paging for each book separately Saving the day and night for each book separately Save lock for each book separately Added icon type paging Improved performanceFixed recent books  (Jonathan P MARTIN)Improved brightness"
+p4
+tp5
+tp6
+.

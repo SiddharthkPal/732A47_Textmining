@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PRINCE2 & Project Mgt Resource '
+p1
+tp2
+(S'Description:'
+p3
+S'PRINCE2 and Project Management Learning ResourcesThis is a mobile learning resource for Best Practice in Project, Programme and Risk Management Methodologies such as PRINCE2 Project Management, MSP Programme Management, M_o_R Risk Management, APM Project Management, P3O Support Office, MoV Management of Value, MoP Management of Portfolios, Agile Project management, Agile DSDM framework, etc.Includes method overviews, qualification details, tests and videos on using and implementing best practice in your project and programme environments.Brought to you by SPOCE eLearning.'
+p4
+tp5
+tp6
+.

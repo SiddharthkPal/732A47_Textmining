@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Worldstarhiphop '
+p1
+tp2
+(S'Description:'
+p3
+S"WorldstarHipHop's Official Android App.  Worldstarhiphop.com selected by BET for two years running as the best website for hip hop fans around the world. The site includes exclusive interviews, music video premieres, celebrity gossip and outrageous user footage."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CBC Hockey '
+p1
+tp2
+(S'Description:'
+p3
+S"From CBC's Hockey Night in Canada, the home of hockey. Follow every player, every goal, every game with CBC's Hockey Night in Canada Android app. Instant access to LIVE box scores, stats and results from all games whenever and wherever you want them.Recent changes:- 2013 NHL Playoffs features. 2013 Playoffs stats will come online as the games unfold.- Videos on demand for Ice Cream Sandwich (Android 4.0) and up devices- Many stability and usability improvementsWe are committed to continually improving this app. Your suggestions and criticisms as well as encouragements are always welcome."
+p4
+tp5
+tp6
+.

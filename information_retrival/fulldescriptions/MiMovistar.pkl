@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mi Movistar '
+p1
+tp2
+(S'Description:'
+p3
+S'Mi Movistar te permite realizar las gestiones m\xc3\xa1s populares de tu cuenta Movistar a trav\xc3\xa9s de tu Android. La aplicaci\xc3\xb3n se encuentra disponible para usuarios particulares de tarjeta, contrato y aut\xc3\xb3nomos funcionando tanto con conexi\xc3\xb3n 3G o WIFI. El acceso y uso de la aplicaci\xc3\xb3n es GRATUITO y en caso de conexi\xc3\xb3n 3G no necesitas registrarte en ning\xc3\xban sitio para poder usarla. Tu identificador es la tarjeta SIM que tienes en el m\xc3\xb3vil aunque tambi\xc3\xa9n puedes utilizar algunas funcionalidades si no dispones de tarjeta SIM Movistar. En caso de utilizar WIFI, por motivos de seguridad, te solicitaremos que introduzcas el n\xc3\xbamero de tel\xc3\xa9fono que quieres consultar, el cual deber\xc3\xa1 coincidir con la tarjeta SIM que tienes en el m\xc3\xb3vil para poder acceder a la funcionalidad completa de la aplicaci\xc3\xb3n. Ten en cuenta que si utilizas la aplicaci\xc3\xb3n desde el extranjero, se te aplicar\xc3\xa1n los costes de transmisi\xc3\xb3n de datos en Roaming que correspondan al pa\xc3\xads en el que te encuentres. En este caso, te recomendamos que te conectes por WIFI para evitar costes adicionales.Si eres cliente de contrato, podr\xc3\xa1s: - Consultar el importe de tu \xc3\xbaltima factura y el consumo acumulado- Cambiar la domiciliaci\xc3\xb3n bancaria de tus facturas- Conocer los puntos que tienes acumulados y solicitar un canje.- Recargar una tarjeta con tarjeta de cr\xc3\xa9dito o contra tu factura.- Conocer don est\xc3\xa1n y contactar con las Tiendas Movistar - Solicitar un duplicado de tu facturaSi eres usuario de tarjeta, podr\xc3\xa1s: \xe2\x80\xa2 Consultar el saldo de tu tarjeta y solicitar un anticipo de saldo,\xe2\x80\xa2 Recargar tu tarjeta\xe2\x80\xa2 Cambiar tu tarifa Desde la aplicaci\xc3\xb3n tambi\xc3\xa9n puedes activar y desactivar el buz\xc3\xb3n de voz, as\xc3\xad como configurar los desv\xc3\xados de llamadas, conocer las tarifas, opciones de ahorro y las \xc3\xbaltimas promociones y novedades que te ofrece Movistar.Recent changes:Novedades de esta versi\xc3\xb3n:- Consumo de datos    o Si tienes contratada una Tarifa Plana de datos podas conocer tu consumo y el l\xc3\xadmite de la misma. Si no tienes Tarifa Plana \xc3\xbanicamente veras tu consumo de datos    o Conoce cuanto consumiste de bajada y cuanto de subida* Pr\xc3\xb3ximamente tu consumo Voz'
+p4
+tp5
+tp6
+.

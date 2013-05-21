@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Calculator '
+p1
+tp2
+(S'Description:'
+p3
+S"My Calculator is all-in-one calculator for daily needs. apart from your regular calculator functionality, you can find-out saving on discounts, calculate EMI's, Calculate Compound Interest.Recent changes:My Calculator is bundled with 16 various calculator for daily use.1. Regular Calculator2. Discount Calculator3. E.M.I Calculator4. Interest Calculator (Compound Interest)5. Tips/Split Calculator6. Fuel Economy Calculator7. Debt Free Calculator8. Mortgage Calculator(Loan)9. Retirement Savings Calculator10. Inflation Rate Calculator11. CAGR Calculator12. Paypal Calculator13. Salary Calculator14. Depreciation Calculator15. Profit Calculator16. Margin Calculator"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Plex for PlexPass '
+p1
+tp2
+(S'Description:'
+p3
+S'A preview release of the Plex app for PlexPass subscribers. See http://my.plexapp.com/subscription/about for more details. Please do not download unless you have a PlexPass subscription as it will not work for you otherwise.NOTE: This version WILL be made available as a FREE upgrade for existing users once it is out of beta! Note that Android 3.2 or higher will be required.Make sure you have installed Plex Media Server v0.9.7.18 or later, available here for PlexPass members ~ http://forums.plexapp.com/index.php/topic/62832-plex-media-server-preview-releases/?p=373940Recent changes:NEW  - Support for client side subtitles. We now support rendering subtitles (without transcoding) if they are external (not embedded in the video file) and of one of the following supported formats: SRT, SMI and ASS  - Add ability to browse "Up" from library content  - Move "Home" button to separate actionAnd lots of fixes\xe2\x80\xa6read the full list of changes here ~ http://forums.plexapp.com/index.php/topic/60585-plex-for-android-kepler/?p=386946'
+p4
+tp5
+tp6
+.

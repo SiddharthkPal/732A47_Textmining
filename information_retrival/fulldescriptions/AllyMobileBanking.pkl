@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ally Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S"The Ally Mobile Banking app puts everyday banking tasks at your fingertips. It\xe2\x80\x99s fast, it\xe2\x80\x99s secure and\xe2\x80\x94best of all\xe2\x80\x94it\xe2\x80\x99s free. All you need is an Ally account and an online username and password.What you can do\xe2\x80\xa2             Deposit checks remotely with Ally eCheck DepositSM\xe2\x80\xa2             Transfer money between your Ally and non-Ally accounts\xe2\x80\xa2             Make payments with the most commonly used Bill Pay features\xe2\x80\xa2             Find nearby ATMs and cash back locations\xe2\x80\xa2             View your balances and search transaction historyHow to get started\xe2\x80\xa2             Mobile Banking is free from Ally (but your mobile carrier's message and data rates may apply)\xe2\x80\xa2             Compatible with Android 2.2 and higher\xe2\x80\xa2             Use the same username and password that you do for Online BankingHow you\xe2\x80\x99re protected\xe2\x80\xa2             We never store personal or account information on your phone\xe2\x80\xa2             All transactions are encrypted with the same secure technology as Online Banking\xe2\x80\xa2             The login process is the same as in Online Banking, with your SafeKeys as an added layer of protection \xe2\x80\xa2             Our Online & Mobile Security Guarantee covers fraudulent transactions in Mobile Banking tooFor FAQs about Ally Mobile Banking, visit the Ally Help Center. To find out more about the benefits of branchless banking, visit allybank.com.\xc2\xa92009-2012 Ally Bank, Member FDICRecent changes:Minor fixes"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'App del Giorno - 100% Gratis '
+p1
+tp2
+(S'Description:'
+p3
+S'Finalmente "App del Giorno" ora \xc3\xa8 disponibile anche su Android! \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 Ogni giorno un\'app a pagamento diventa gratuita per 24 ore! \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85Tutti i giorni il team di "App del Giorno" seleziona una delle migliori apps Android a pagamento, presente sul Google Play Store, per negoziarla con il suo sviluppatore e farla diventare gratuita per 24 ore.Questo concetto gi\xc3\xa0 molto popolare negli Stati Uniti e in altri paesi europei, permette a tutti di utilizzare il proprio smartphone e di risparmiare centinaia di euro per l\xe2\x80\x99acquisto delle applicazioni.\xe2\x98\x85 Un piccolo consiglio: Se non volete perdervi nessuna applicazione, non dimenticate di ATTIVARE LE NOTIFICHE PUSH. \xe2\x98\x85Quello che i nostri utenti dicono di noi:"Ho scoperto tantissime apps molto utili e divertenti e per averle non ho pagato nulla.""Quest\'app si pu\xc3\xb2 scaricare automaticamente su tutti i smartphone.""\xc3\x88 come un Kinder Sorpresa, solo che ci sono le applicazioni al posto della cioccolata !"E Se l\xe2\x80\x99applicazione \xc3\xa8 di vostro gradimento, dateci un voto e lasciate un piccolo commento sul Google Play Store. Per noi \xc3\xa8 importante sapere qual\'\xc3\xa8 la vostra opinione :-)Contatti:Per qualsiasi spiegazione, un suggerimento o un semplice commento, scrivici a: android.info.it@appturbo.netSe invece sei uno sviluppatore e vuoi promuovere la tua app insieme a noi:  android.app.it@appturbo.netSe hai un problema tecnico: android.support.it@appturbo.net'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'JustUndi GE13 (PRU13) '
+p1
+tp2
+(S'Description:'
+p3
+S'Just Undi  is an polling App specially designed for Malaysia General Election 13 ( GE 13 / PRU 13 ). The main objective is to educate all users what is election all about and also enable the users to participate in election (decision-making) process of  voting. The polling process is real time and internet connection is required. This is just an education game and it would not reflect or affect the actual result of election.'
+p4
+tp5
+tp6
+.

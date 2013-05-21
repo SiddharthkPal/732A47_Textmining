@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dextr Email Beta '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 50% OFF WHILE BETA! \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85Dextr is a new mail experience that brings you closer to the people you love. Use Dextr to cut out the clutter of your inbox and focus solely on conversations with the most important people in your life (family, close friends, clients, partners or anyone you choose).We believe mail should be minimal, beautiful and personal. Build a list of your friends (or VIPs) and their messages will be collected in a unified stream. Browsing feels fast and light and remembering to follow up is effortless.\xe2\x98\x9e PLEASE NOTE: This is an early beta, so expect frequent updates and improved features. We want your feedback! Shoot us an email anytime to support@meetdextr.com.- We currently support only Gmail. Let us know if you're looking for something else.- Push notifications will be enabled in the next release.Recent changes:v0.9.3First release (beta)!"
+p4
+tp5
+tp6
+.

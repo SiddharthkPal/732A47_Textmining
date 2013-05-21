@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Groupalia '
+p1
+tp2
+(S'Description:'
+p3
+S"The most enjoyable and varied deals with discounts up to 90%.Has it been a while since someone has offered you a good plan? Well that\xe2\x80\x99s a thing of the past. Groupalia is here to offer you, everyday, the best offers your city can provide. Buy, Share and Enjoy!Everyday we offer you a different activity with an incredible discount...Share it with your friends! Each offer requires a minim amount of buyers. This way we can always guarantee the cheapest prices.The offer will be active during a certain period of time and will have a limited amount of buyers. Once either of the two are achieved, no more purchases will be accepted.What are you waiting for?At the end of the day, if we have achieve the minim amount of buyers, the charge will be made to your bank account.Because we are dynamic, we need action and we like to have fun.And now, all these offers from your Android!Groupalia's Plans are the way to go!Recent changes:New version with all the deals available on the web!Travel Products and Plans for today. Everything in your app for Android, quick and easy."
+p4
+tp5
+tp6
+.

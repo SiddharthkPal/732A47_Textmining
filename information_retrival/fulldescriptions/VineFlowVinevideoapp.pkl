@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vine Flow (Vine video app) '
+p1
+tp2
+(S'Description:'
+p3
+S'Vine Flow helps you discover new and interesting videos distributed through Twitter\xe2\x80\x99s popular Vine service. The app displays a stream of the latest posted Vine videos in real time. Since these are 6-second videos coming directly from Vine without moderation, expect to see a range of content\xe2\x80\x94from the creative, to the silly, to the just plain weird.****NOTE****: This app is for exploring Vine videos only. It cannot be used to upload new Vines videos. We are working on more exiting features for Vine Flow and other Vine video discovery ideas. Please feel free to send your suggestion at vineflow@beachfrontmedia.comExplanation of App permissions:Read Phone State, Write External Storage: required to allow pre Android 3 devices to play the videos.Recent changes:Fix for force close issue on some devices'
+p4
+tp5
+tp6
+.

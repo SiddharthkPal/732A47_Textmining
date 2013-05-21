@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Magic Next Launcher 3D Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Magic  Next Launcher 3D Theme===>Brief introduction:Magic theme, designed by Go Dev Team, is available now!  Get it and have a completely new makeover of your smartphone with android OS at once! ===>Mainly features:- Free for Next Launcher 3D- 20 special icons, covers the main apps of the phone such as dial, SMS, email and so on- Wallpaper of the topic- Show you a integral theme, screen preview and dock are included- New folder interface experience- Special app drawer skin===>Important tips:1. Make sure the latest version V1.15 of Next Launcher 3D has been installed! (Search \xe2\x80\x9cNext Launcher 3D\xe2\x80\x9d to download)2. Apply the Theme: MENU->Indicidual\xe2\x80\x94>Installed themes->Choose Purpet Sheep theme.3. Search \xe2\x80\x9cNext Launcher 3D\xe2\x80\x9d in the Google Play to get more fantastic themes.4. Other useful widgets in screenshots are our Next widgets. (Search \xe2\x80\x9cNext widget\xe2\x80\x9d in Google Play to find them at once!\xef\xbc\x895. This theme is developed by GO Dev Team!!! Recommended download!6. Icons copyright belongs to the original site.Want an extreme makeover for your phone? Action now!If you encounter any problems or have any suggestions for our Next Launcher 3D, please do not hesitate to tell us. Thank you very much!E-mail: golauncher@goforandroid.comFacebook:www.facebook.com/NextLauncherBlog: golauncher.goforandroid.com'
+p4
+tp5
+tp6
+.

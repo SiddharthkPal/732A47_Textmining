@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jobs - Job Search - Careers '
+p1
+tp2
+(S'Description:'
+p3
+S'All your job ads in one click!Careerjet provides access to all the job advertisements from the internet in one simple search.Job hunting couldn\xe2\x80\x99t be easier and faster with Careerjet\xe2\x80\x99s simple and easy interface, giving you access to all of Careerjet\xe2\x80\x99s services such as uploading your CV/resume, saving your favorite searches and customizing your email job alerts.Use Careerjet to:- Search job ads by key words, location, company name- View the job description without leaving the application- Apply for jobs directly from your mobile- Create email alerts to receive daily job ads matching your criteria- Send jobs by email \xe2\x80\x93 to yourself or to friends- Save your favorite searchesThe Careerjet application is free and there is no need to register to use it.This mobile version of Careerjet\xe2\x80\x99s job search engine is available to you -anywhere and anytime. Your dream job won\xe2\x80\x99t be able to escape from you this time!Recent changes:Added a lateral menu for smartphonesBug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sound Search for Google Play '
+p1
+tp2
+(S'Description:'
+p3
+S'The Google Play Sound Search widget can help you recognize music and songs playing around you. You can:-Identify songs, directly from your homescreen-Purchase identified songs straight from Google Play, and add them to your Play Music library-Keep a song identification history, synced across all of your Android devices, so you can purchase a song later-Add the widget directly to your lockscreen, so you can recognize songs even faster (for devices running Android 4.2)After you\xe2\x80\x99ve installed the Google Play Sound Search widget, go to the widget picker and drag the Sound Search widget onto your homescreen. Click on the widget to start recognizing.Recent changes:First Play store release.'
+p4
+tp5
+tp6
+.

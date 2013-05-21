@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Basic docx Reader '
+p1
+tp2
+(S'Description:'
+p3
+S'"It\'s not big and it\'s not clever", it is in fact a tiny and efficient docx (word 2007/2010) file reader. Support is limited to basic tables, lists and text but if you want a tiny app that lets you open a docx from dropbox, the web, email attachments or your local file system then this will get the job done.I\'ve tried to keep file size down and make sure the app runs on the oldest devices so if your device isn\'t up to much then maybe this will help.If you like it please leave a positive review, every little helps. If you don\'t like it, please email me to tell me what\'s wrong before leaving me a negative review.Features in development / being considered for future versions: - image support - Bookmarking - Search - free text/background colour choice*Development is on hold for a month or so as i\'m starting a new job.Recent changes:1.4 Bug fix: Stop app from offering to open non-docx files following error in last update.1.3 You can now open docx email attachments.1.2 Settings Menu: You can now choose the text size and invert the document colours if you prefer black text on a white background.'
+p4
+tp5
+tp6
+.

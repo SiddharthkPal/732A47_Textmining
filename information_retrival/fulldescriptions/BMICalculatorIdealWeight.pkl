@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BMI Calculator - Ideal Weight '
+p1
+tp2
+(S'Description:'
+p3
+S"This app is a free BMI and WHtR Calculator.You can calculate your Body Mass Index and Waist-to-Height Ratio to find your ideal weight based on age and gender.\xe2\x80\xa2 For everyone 7 years and older\xe2\x80\xa2 Metric and imperial systems are supported\xe2\x80\xa2 Optional saving of last entered valuesInfo:\xe2\x80\xa2 BMI: The Body Mass Index is an index for human body fat on the basis of an individual's weight and height. The BMI does not actually measure the percentage of body fat.\xe2\x80\xa2 WHtR: The Waist-to-Height Ratio is defined as the person's waist circumference, divided by the person's height. The WHtR is a measure of the distribution of body fat which is better for muscular persons.Awards:\xe2\x80\xa2 Top 10 Best Weight Loss iPhone & Android Apps 2012 @ Healthline.com\xe2\x80\xa2 One of the top 10 hottest apps @ AppBrain.com\xe2\x80\xa2 Featured app on The Fresh Living Project @ FreshLivingProject.com--Criticism, praise, problems with Body Stats? Feel free to contact: info@smayer.nethttp://smayer.netRecent changes:Version 1.8.x:\xe2\x80\xa2 PREMIUM: Unlock ad-free version\xe2\x80\xa2 TABLET: Layout optimized for 7-inch displaysVersion 1.7.x:\xe2\x80\xa2 DESIGN: Complete UI rebuild for maximum usability\xe2\x80\xa2 SETTINGS: Choose which values to save\xe2\x80\xa2 INPUT: Supporting Stones & Pounds\xe2\x80\xa2 LANGUAGE: New translations added"
+p4
+tp5
+tp6
+.

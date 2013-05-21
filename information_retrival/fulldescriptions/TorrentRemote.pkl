@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'\xc3\x82\xc2\xb5Torrent\xc3\x82\xc2\xae  Remote '
+p1
+tp2
+(S'Description:'
+p3
+S"Light. Limitless. Access \xc2\xb5Torrent\xc2\xae  (uTorrent) on your home computer from anywhere.What is \xc2\xb5Torrent\xc2\xae  (uTorrent) Remote?\xc2\xb5Torrent  (uTorrent) Remote is a simple and secure app that enables you to access \xc2\xb5Torrent  (uTorrent) on your home computer from anywhere on the internet. Just create an account from \xc2\xb5Torrent  (uTorrent) on your computer and you're done. There's no complicated network setup required.Features:Add, remove, start, stop downloads on your home computerCheck download progressCheck your RSS feedsAutomatically add torrents to your home \xc2\xb5Torrent\xc2\xae  (uTorrent) client from your mobile browserShift completed downloads to your Android device for local playbackHow do I get started?View more detailed instructions at https://remote.utorrent.com/signupFeature suggestions? http://www.utorrent.com/ideabankSupport and feedback? utandroidremote@utorrent.comRecent changes:* Bug fixes"
+p4
+tp5
+tp6
+.

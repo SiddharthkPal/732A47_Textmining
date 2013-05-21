@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FunForMobile Ringtones & Chat '
+p1
+tp2
+(S'Description:'
+p3
+S'Make friends; Chat, Talk, Play; Download wallpaper, ringtone, video made by other members. Share jokes, photos, videos, and ringtones; Have fun at fun for mobile.FFM new featuresHome \xe2\x80\xa2 Make custom ringtones from the music folder on your phone, or your voice recording\xe2\x80\xa2  Send greeting cards\xe2\x80\xa2 Play gif animations on your phone\xe2\x80\xa2 Play and download large selection of gif animations at FFM\xe2\x80\xa2 Large ringtone, wallpaper, video libraries.\xe2\x80\xa2 Color customization menu option\xe2\x80\xa2 Cool popup window for accessing private message, talks, multimedia messages, pokes, and friend requests\xe2\x80\xa2 Easy search against our large libraries of ringtones, wallpaers, and videos\xe2\x80\xa2 Cool management tool for ringtones, musics, and notification sounds\xe2\x80\xa2 Easy upload of ringtones, photos, and videos to your fun blog\xe2\x80\xa2 Cool management tool for all your photos and wallpapers\xe2\x80\xa2 Easy download of ringtones, photos, and videos from our large online public libraries or you blog.Chat\xe2\x80\xa2 Smileys\xe2\x80\xa2 Send Talk message to other chatter \xe2\x80\xa2 Poke\xe2\x80\xa2 Preset Text and voice input\xe2\x80\xa2 Share video and photos \xe2\x80\xa2 Access profile\xe2\x80\xa2 Voice ChatTalk\xe2\x80\xa2 Smileys\xe2\x80\xa2 Share photos, videos, voice notes on your phone\xe2\x80\xa2 Share photos, videos, voice notes on your FFM blog or online libraries\xe2\x80\xa2 Preset Text and voice input\xe2\x80\xa2 Customizable popup for new talk messagesKeywords: greeting cards  fun for mobile games ring tone manager alert videos chat ringtones message photos alarm free notifications tones wallpapers notification ringtone instant talk soundsRecent changes:.Tablet support.Fixed collage force close issue.Fixed popup issue with invite.Emergency bug fixes'
+p4
+tp5
+tp6
+.

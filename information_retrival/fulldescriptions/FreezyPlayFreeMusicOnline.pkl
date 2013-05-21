@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Freezy-Play Free Music Online '
+p1
+tp2
+(S'Description:'
+p3
+S"Listen to you favorite music on line. Take advantage of the player that finds any song of any singer. Enjoy listening to grooves and the melodies that will keep you in a good mood. Best tunes will randomly play mix of modern genres such as rock, hard rock, rock&roll, rap, jazz, fusion, lounge, acoustic, a capella, heavy metal, pop, soul, reggae, blues, trans, classical, folk, instrumental and other types.In nearest time u will be able to create playlists of artists and themes, see the album's photo on the background, and download music to cache.This music player is like a free pandora, spotify, soundhound, soundcloud, radio, grooveshark, fizy, youtube app. You don't need any membership.By using this free music finder, you can listen to the best songs of :2 chainzaventurabanda msbeyoncebruno marscalibre 50cheif keefChris brownDavid geuttadrakeeminemfarrukofuturegrupo exterminadorjenni riverakendrick lamarlike a g6lil waynelos acostalos bukislos caminanteslos inquietos del nortelos temerarioslos tigres del nortelos tucanes de tijuanalove sosamindless behaviornicki minajone directionrihannaskrillextaylor swifttemerariostierra calitygaushervicente fernandezvoz de mandowiz khalifaRecent changes:bug fixes"
+p4
+tp5
+tp6
+.

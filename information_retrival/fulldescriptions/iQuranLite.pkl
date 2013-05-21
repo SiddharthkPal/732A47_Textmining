@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iQuran Lite '
+p1
+tp2
+(S'Description:'
+p3
+S"*********** NEWS: iPray for Android is now out! Introductory sale 50% Off, ends soon!**********Read the Holy Quran in Arabic alongside its translation. Provides verse by verse audio playback, color coded Tajweed (pronunciation) rules, repeat functions, unlimited bookmarks, search, excellent navigational controls, several translations and reciters and much more.Apart from offering an immersed user experience, the free version of iQuran includes the following limitations only:* Full Landscape supported* Color coded Tajweed (Pronunciation) rules for the last Juz / Para* Bookmark and Tags. A maximum of 5 bookmarks and 3 Tags.* One english translation: Shakir* Search results limited to 20 per search* One recitation: Sheikh Husary* Powerful audio controls with an option to group playback of verses to aid in memorization* Quranic SupplicationsiQuran has been designed to work on all Android devices.NOTE: Permission to read phone state is required in order to pause recitation in case the phone ringsKeywords: Quran, Islam, Islamic, Koran, Qur'an, Muslim, Digital QuranRecent changes:This update contains a major code re-write along with a UI Facelift for a more consistent Android user experience. We pray that you enjoy this update.- NEW: Bookmark Tags- NEW: Improved user experience on Tablets- NEW: Quranic Supplications- NEW: Compare Translations- NEW: Friday alerts- NEW: Background downloading of audio- NEW: Manage audio files- NEW: Stop Signs- NEW: Move audio to SDcard- NEW: UI Facelift- Tons of bug fixeswww.facebook.com/iQuran"
+p4
+tp5
+tp6
+.

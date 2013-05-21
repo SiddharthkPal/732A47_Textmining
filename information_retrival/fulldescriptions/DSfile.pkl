@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DS file '
+p1
+tp2
+(S'Description:'
+p3
+S'*You must own a Synology NAS to run this app*DS file allows you to securely browse folders and files on your DiskStation with your Android device, as well as transfer files between the device and the DiskStation. Manage your files while you are away whenever an Internet connection is available, your Android device literally becomes a digital suitcase. In addition, you can download files to your device and access them locally when there is limited Internet connection, as well as sync files directly to your PC or MAC by enabling Cloud Station feature on DiskStation.With DS file on Android devices, you can:-Browse and manage files stored on your DiskStation -Stream video, audio files and viewer pictures directly-Save and open documents with reader apps-Download multiple files to your device for offline access-Manage files on your DiskStation-Upload files to your DiskStation from your device-Supports HTTPS for secure connection -All features available with DSM 4.2 and onwards -Supported on devices running Android 2.1 and onwardsWhat\xe2\x80\x99s new?-Complete folders can be downloaded to your mobile device   -Minor bug fixesRecent changes:What\xe2\x80\x99s new?-Complete folders can be downloaded to your mobile device   -Minor bug fixes'
+p4
+tp5
+tp6
+.

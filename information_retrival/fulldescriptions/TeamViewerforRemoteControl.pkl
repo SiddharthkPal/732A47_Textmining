@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TeamViewer for Remote Control '
+p1
+tp2
+(S'Description:'
+p3
+S"Mobile and flexible: remotely access computers from your android device!Easily support friends and family when they have computer problems - no matter where you are. You can also benefit from gaining access to your private home computer to edit documents or use particular software while you are on the road.more Features------------------------------ Both spontaneous support for friends & family and access to unattended computers (Windows, Mac, Linux) are possible - also during a telephone call- Transfer files from your Android mobile device to any computer and vice versa- Conveniently control remote computers using the multi-touch gestures: left click, right click, drag & drop, scroll wheel, zoom- Complete keyboard control incl. special keys such as Ctrl, Alt, Windows\xc2\xae- Meets highest security standards: 256 Bit AES Session Encoding, 1024 Bit RSA Key Exchange- Effortlessly access computers behind firewalls and proxy servers- Automatic quality adjustment- Remotely reboot the computer- Overview of friends and computers that are online - via the integrated computer list- Tablet readyPrivate use-----------------------------TeamViewer Free is intended for private use only, e.g. to access your private computers or help friends with their computer problems.Quick Guide-----------------------------1. Install and start TeamViewer Free from Google Play 2. Install and start TeamViewer full version on your computer (download under www.teamviewer.com) 3. Enter your computer's TeamViewer ID and password directly in the TeamViewer interface on your Android device to connect.Keyword: VNC, RDP, Remote Control, Remote DesktopRecent changes:\xe2\x80\xa2 \xe2\x80\x9cBest fit\xe2\x80\x9d changes the remote resolution to best fit your device screen\xe2\x80\xa2 Fixed double click\xe2\x80\xa2 Fixed right clicking by mistake\xe2\x80\xa2 Important info:. \xe2\x80\xa2 right click = Tap and hold. \xe2\x80\xa2 next monitor = monitor shortcut icon on session toolbar. \xe2\x80\xa2 open keyboard = double tap on minimized session toolbar\xe2\x80\xa2 Other minor fixes\xe2\x80\xa2 All new input method for Tablets: . \xe2\x80\xa2 Control the computer with direct touch gestures instead of moving the cursor. \xe2\x80\xa2 Connected to Windows 8: Use the Windows 8 native gestures"
+p4
+tp5
+tp6
+.

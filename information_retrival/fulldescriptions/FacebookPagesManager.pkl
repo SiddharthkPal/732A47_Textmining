@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Facebook Pages Manager '
+p1
+tp2
+(S'Description:'
+p3
+S"Pages Manager helps admins connect with their audience and keep up with activity on multiple Pages, all in one place.\xe2\x80\xa2 Post updates and photos and respond to comments as your Pages\xe2\x80\xa2 View and reply to private messages sent to your Pages\xe2\x80\xa2 Option to get push notifications for new activity, tips and reminders\xe2\x80\xa2 View your latest Page Insights\xe2\x80\xa2 Turn push notifications on or off for each Page\xe2\x80\xa2 Upload a photo to a specific album\xe2\x80\xa2 Attach a photo to a status update\xe2\x80\xa2 Change profile and cover photos\xe2\x80\xa2 Save a shortcut to a Page on your phone's home screen\xe2\x80\xa2 Share links from other apps to Pages ManagerRecent changes:\xe2\x80\xa2 Post and promote at the same time\xe2\x80\xa2 Turn an external link into a share post\xe2\x80\xa2 Share photos from other apps"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Auto Trader '
+p1
+tp2
+(S'Description:'
+p3
+S'Auto Trader\xe2\x80\x99s Android app brings the ultimate browsing experience to your Android device, allowing you to search the full Auto Trader listings anytime, anywhere. Once you have found your dream car, you can call the seller straight from the app, find and get directions to their location on Google maps, read the car specifications, or flick through high quality images. You can also see what other car owners thought about the car by reading Owner Reviews.Sign in to your Auto Trader account to manage your saved vehicles and searches. Open the sliding Garage drawer to view your saved vehicles in Gallery view, and access them again at any time from your PC.Our Android app makes it easy to speedily search, compare and store cars or bikes you like. Click \xe2\x80\x98Advanced Search\xe2\x80\x99 for a wider range of search options, including keyword search, age, mileage, fuel, transmission, and seller type, and save your commonly used searches for quick and easy access.About to buy a car or bike? Our Mobile Vehicle Check tool makes it quick and easy to check if there are any hidden problems before you buy.Auto Trader \xe2\x80\x93 the world of cars made easy.What\xe2\x80\x99s new:Various minor UI enhancementsBug fixingRecent changes:v2.4.3Addressing recent crash reportsMinor bug fixesv2.4.2Various minor UI enhancementsMinor bug fixesv2.4.1Addressing recent crash reportsMinor bug fixesv2.4Performance enhancements to generate speedier browsing.View up to 20 images of cars for sale.Various other minor enhancements.v2.3.4Minor bug fixesv2.3.3Bug fix addressing frequent crashes for some users'
+p4
+tp5
+tp6
+.

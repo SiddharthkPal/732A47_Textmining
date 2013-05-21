@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Expense Manager '
+p1
+tp2
+(S'Description:'
+p3
+S'Expense manager is great application for managing your expenses and incomes: \xe2\x80\xa2 Tracking expenses and incomes by week, month and year as well as by categories\xe2\x80\xa2 Multiple accounts in multiple currencies\xe2\x80\xa2 Schedule the payments and recurring payments\xe2\x80\xa2 Take a picture of receipt\xe2\x80\xa2 Payment alerts\xe2\x80\xa2 Budget by day, week, month and year\xe2\x80\xa2 Search and reports\xe2\x80\xa2 Import and export account activities in CSV for desktop software\xe2\x80\xa2 Dropbox and SD Card backup\xe2\x80\xa2 Customize expense categories, payer/payer, payment methods, date format, white or black background, button style etc\xe2\x80\xa2 Account transfer\xe2\x80\xa2 Auto fill\xe2\x80\xa2 Convenient tools such calculator, currency converter, tip calculator, sales and tax calculator and credit card calculator\xe2\x80\xa2 Charts\xe2\x80\xa2 WidgetsInternet Access is used to retrieve currency exchange rate.Camera permission is used to take picture of receipt.All data is saved on your phone or your Dropbox account. Nobody but you can access your account.Thanks for the help from:Emilio Blanco for Spanish translation. Christian Glass and Manuel Gruber for German translation.Michel Graciano, Gustavo de Freitas Leite and Ricardo Gomes for Portuguese translationCerrato Renaud for French translationPlease email question and feature request directly to developer.Recent changes:** Please send bug report and feature request directly to developer via email.Version 1.8.0/1.8.1 Feb 24, 2013 * Add account summary* Add budget rollover* Replace the password with passcode* Payee/Payer auto complete* Add Tag and Tax/VAT fields for a transaction* Update the mileage tracking feature* Add sorting feature for Auto Fill list* Update home page. User can go to Settings to customize home page.* Add expense calculator widget* Other minor improvements* Fix bugs'
+p4
+tp5
+tp6
+.

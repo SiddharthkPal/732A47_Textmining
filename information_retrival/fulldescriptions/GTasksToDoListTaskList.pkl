@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GTasks: To Do List & Task List '
+p1
+tp2
+(S'Description:'
+p3
+S"GTasks is a simple and efficient task management app with both local and google account mode. You can customize your to do list, set reminder, share tasks with your friends, family members or colleagues and sync with your google tasks perfectly. With it, you will never miss a task and focus more on real things.Try now to make sure everything is perfect done. ** Widget doesn't work if GTasks was installed on SD card, please move it back and reboot your device. ANDROID OS DOESN'T SUPPORT THAT!!! **Features:0. ICS(Android 4.0) style with bulk indent/move/set due date/delete and so on1. Rich gtask (google task) client, simple todo list, checklist, note/notes pad tool.2. Synchronize with multiple google accounts automatically, also support local mode. customize sync mode: auto,manual or sync when open/exit,background sync3. batch add tasks 4. scroll horizontally to switch between tasks/tasklist.5. order your todo by due date/name/create time/priority6. order your tasks easily by dragging them7. view your tasks on google calendar8. Indent, unindent, share, move easily9. repeat reminder enable, set reminder one-time/daily/weekly/monthly... and so on10. quick add task by pressing the search key11. quick add task via \xe2\x80\x98note to self\xe2\x80\x99 with Google Now 11. quick search task with autocomplete12. Widgets(scrolling in LauncherPro/ADWLauncher/GO Launcher)User Reviews:Arlyn: Most useful app on my phone. Best for note taking and tasks, and the Google synchronization is indispensable.Dennis_ua: Best GTD Android app\tWorks perfectly in pair with GMail Tasks side panel of my Firefox.Lord : Worth it and the best tool for Android\tOne of my most twice used apps. Simple, fast, complete. Great developer communication. Imprescindible for me.Robert : Best Task or To Do List Ever. The home screen widget is a must!keywords:GTasks, GTD, Getting Things Done to do list, todo list, task, tasks, notes, notepad,google tasks gmail calendar, DatoRecent changes:1.5.4- Repeat Bug fix1.5.3- Repeat Bug fix1.5.0- Screen Lock supports reminder pop-up- Mute reminder with volume key- Disable inactive account under 'Setting'- Recurring task feature improvement: keep recurring task in task list- Bug fix1.4.0- New Feature: note to self: quick add new task via voice with Google Now - Bugfix1.3.1- bugfix"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DarkMagic Super Theme GO '
+p1
+tp2
+(S'Description:'
+p3
+S"DarkMagic Super Theme, now available on Google Play!(ATTENTION: DarkMagic Super Theme effects only available on GO Launcher EX v3.27 or above. Please update your GO Launcher to the newest version.)Check full version features and upgrade option, please click the little zombie on the edge of the screen to open the upgrade window.This is a premium GO Launcher EX Super Theme. This theme is free to download, you can apply it with over 30 icons and 6 wallpapers.If you want Super Theme effects, you can choose upgrade to full version by:1. Pay with IAP ( In app purchase ) 2. Get it for free with Getjar GoldDracula is coming...#featureClock:In DIY setting you can choose moon or pot clockTree: click it to fly out of the bats The ghost: touch to stop it Interactive effects:Touch: little particles of lightSlide: Skeletons dropShake: Dracula will appear\xef\xbc\x81#Notice1.Super Theme effects is only available for phones with GO Launcher EX V3.27 or above. Search \xe2\x80\x9cGO Launcher EX\xe2\x80\x9d on Google Play Shop and install it for free.2.If you've got any problems on this theme, try to restart the launcher or re-apply this theme. If the problem is still unsolved, please send us feedback."
+p4
+tp5
+tp6
+.

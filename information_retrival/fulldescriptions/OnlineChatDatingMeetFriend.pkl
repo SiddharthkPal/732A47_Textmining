@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Online Chat Dating Meet Friend '
+p1
+tp2
+(S'Description:'
+p3
+S"Waplog is the fastest growing social network with millions of members from every country. Download the official android application and join this great community. Waplog finds you best matches and makes you socialize and meet new people. It\xe2\x80\x99s for FREE! You can register just in a few seconds or login with your facebook, google, yahoo or twitter accounts.FREE Waplog Android Application features:\xe2\x80\xa2 Find new friends.\xe2\x80\xa2 Live chat, send private messages.\xe2\x80\xa2 Upload and Share your photos.\xe2\x80\xa2 You can like pictures of your friends and you can comment on their photos.\xe2\x80\xa2 Thanks to the smart friend suggestion system of Waplog, you can easily reach the most appropriate user profiles.\xe2\x80\xa2 Find people nearby from your city and country and add them as friend in your buddy list.\xe2\x80\xa2 You can instantly get notified of every action (new messages, profile visits, friendship requests, etc.)\xe2\x80\xa2 Set your privacy settings so that no one can disturb you. Wherever you are in the world, you will meet new people and make new friends. You will be in contact and share everything with them. Waplog is the best social network, chat and dating site where you can chat live and find new friends. Application Requirements: \xe2\x80\xa2        Internet Access\xe2\x80\xa2        Works perfectly on Android version 2.2 or aboveYou can chat with cool boys or cute girls (ledies) via waplog chat app. Waplog is the best chat app for android users. Follow us on social media:Facebook: http://www.facebook.com/waplogcomTwitter: http://twitter.com/waplogWeb/mobile: http://waplog.com/chatYou can contact us via admin@waplog.com email address for any question and suggestions.Tags: Best chat app, free chat, live chat, chat with new people, chat with boys, chat with girlsRecent changes:What's new in this version:- State/City information added- Now you can enable notification sound from notification settings- Now you can copy messages- New languages added- Photo upload bugs fixed- Find new friends nearby via GPS- Better chat experience- Speed improvements- Login problems fixed"
+p4
+tp5
+tp6
+.

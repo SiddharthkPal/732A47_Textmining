@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AirSync by doubleTwist '
+p1
+tp2
+(S'Description:'
+p3
+S'Life Without Wires! Sync your iTunes music & videos over WiFi with AirSync.\xe2\x98\x85 Number one app in Newsweek\'s Top 10 Android apps for 2011 \xe2\x98\x85"iTunes for Android" - use your phone as an iPod!Life Without Wires! doubleTwist AirSync\xe2\x84\xa2 wirelessly syncs your iTunes music, photos and videos with your Mac or PC over your home WiFi network.Use in conjunction with the free doubleTwist desktop app to automatically import your iTunes music playlists, iTunes ratings & playcounts from your Mac or PC.\xe2\x99\xac Securely pair your Android device with your Mac or PC\xe2\x99\xac Automatic, wireless import of photos and videos from your Android to your PC.\xe2\x99\xac Automatically import MP3 purchases & downloads from your phone back to your Mac or PC.\xe2\x99\xac Wirelessly sync iTunes music, iTunes playlists, iTunes ratings and playcounts.\xe2\x99\xac Stream music, videos and photos to devices such as Xbox, PS3, Sonos, and Apple TV (black model; AirPort Express not yet supported).doubleTwist AirSync is an upgrade to the free doubleTwist Player.Need help with doubleTwist? http://doubletwist.com/help/The free doubleTwist desktop app requires MacOS X 10.5 or higher on your Mac, or WinXP SP2/Vista/Windows 7 on your PC.If you have comments or feedback on our app, or need additional support, please visit http://doubletwist.com/contact/. Thanks! doubleTwist Team, San FranciscoRecent changes:New in v1.8.0:* Compatibility with latest version of doubleTwist Player.'
+p4
+tp5
+tp6
+.

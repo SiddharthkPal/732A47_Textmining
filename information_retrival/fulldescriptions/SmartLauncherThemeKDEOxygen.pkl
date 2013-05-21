@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SmartLauncher Theme KDE/Oxygen '
+p1
+tp2
+(S'Description:'
+p3
+S"This app work only with SmartLauncher. It is a beta version and at the moment it ONLY changes the appearance of the categories' bar in the drawer.To use it, open smart launcher, enter in the preferences, select Drawer, then Global theme. Tag: GSLTHEME"
+p4
+tp5
+tp6
+.

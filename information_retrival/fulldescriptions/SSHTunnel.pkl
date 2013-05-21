@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SSH Tunnel '
+p1
+tp2
+(S'Description:'
+p3
+S'ROOT REQUIRED FOR ADVANCED FEATURES !Before you start, please read the following instructions carefully.If possible, please uninstall 1.4.X and any other previous editions before updating to 1.5.X."SSH Tunnel Provides a Secure Internet Connection for Your Android Device with One Click" -- LifeHackerSSHTunnel is a SSH tunnel app for Android System. With this app and a configured server (typically configured with sshd and nginx / squid), you can easily browse internet through a SSH tunnel on your android devices.NOTES: 1.To set proxy for the entire system or individual apps, you MUST ROOT YOUR DEVICES FIRST. For those ROMs without IPTABLES module, this app cannot work properly either.2. To work with your private/public key, please store your key (only OpenSSH format, not putty) as the file /sdcard/sshtunnel/key3. This App is DESIGNED ONLY FOR those guys blocked by Great Fire Wall in CHINA. If you\'d like to get a GENERAL SSH CLIENT, please search "connectbot" in the market. Sorry for the inconvenience.4. There exists a DNS Proxy in SSHTunnel to solve the DNS Pollution problem in China, which would try to fetch pre-defined HOSTS information from our web server. All these HOSTS files and source codes are open to public. 5. This project is published under the GNU General Public License v3.0. For more information, please visit our project site: http://sshtunnel.googlecode.comFollow us on twitter: @sshtunnel_devTags: SSH, Tunnel, Proxy, GFW, FirewallRecent changes:1.5.6:1. FIX: compatibility issues on Android 4.21.5.4:1. FIX: SECURITY ISSUE reported by SSHunTunnel2. FIX: bugs in app chooser1.5.3:1. Upstream Proxy, e.g cmwap (10.0.0.172:80) for China Mobile users2. Check finger print when connecting3. new redsocks'
+p4
+tp5
+tp6
+.

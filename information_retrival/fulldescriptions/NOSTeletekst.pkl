@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NOS Teletekst '
+p1
+tp2
+(S'Description:'
+p3
+S"De NOS heeft een speciale NOS Teletekst applicatie voor voor Android toestellen ontwikkeld. Met deze applicatie is het mogelijk om razendsnel toegang te krijgen tot de NOS Teletekst-pagina's, zoals het actuele algemene en financi\xc3\xable nieuws, verkeersinformatie en de sportuitslagen.Recent changes:Nieuw in versie 2.0.2- bug zwarte/leeg scherm bij specifieke Android versies verholpen (oa v3.1)- bug automatisch verspringen pagina's is verholpennieuw in versie 2.0.1- problematiek lokale opslag bij favorieten/startpagina verholpen- bug zwart/leeg scherm bij bepaald type toestellen opgelost- bij opnieuw openen van de app wordt de pagina automatisch ververst"
+p4
+tp5
+tp6
+.

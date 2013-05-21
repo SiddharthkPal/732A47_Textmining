@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CNN App for Android Phones '
+p1
+tp2
+(S'Description:'
+p3
+S"CNN connects you to the world, wherever you are.Stay informed with the latest headlines and original stories from around the globe. Follow up-to-the-minute reporting with breaking news alerts and live video. Lead the conversation by sharing today\xe2\x80\x99s news and dig deeper into the stories that matter most to you.\xe2\x80\xa2\tGet breaking news alerts and follow stories as they develop.\xe2\x80\xa2\tGo beyond the surface with international, politics, opinion, tech and entertainment stories and more.\xe2\x80\xa2\tWatch video clips and coverage of live events as they unfold. View your favorite CNN shows LIVE (as available; check with your cable, satellite or telco provider).\xe2\x80\xa2\tContribute your story or opinion to CNN iReport by uploading photos and video directly from your app. Follow other iReporters and see stories from their point of view.\xe2\x80\xa2\tChoose the font size that most appeals to you.Have questions or feedback on the CNN App? E-mail us at Android@cnn.com . We are always looking for suggestions on how to provide the best experience possible for you.Recent changes:\xe2\x80\xa2\tNow you can watch your favorite CNN shows LIVE on your Android Phone. \xe2\x80\xa2\tThe CNN Mobile app now features the iconic James Earl Jones 'This is CNN' welcome greeting.  This feature is optional and may be switched on or off at any time through the User Settings.\xe2\x80\xa2\tMinor bug fixes"
+p4
+tp5
+tp6
+.

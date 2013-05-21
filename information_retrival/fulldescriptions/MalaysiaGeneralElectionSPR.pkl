@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Malaysia General Election SPR '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x9c\x94 Are you ready for Malaysia's coming 13th General Election?\xe2\x9c\x94 Have you checked your voting status?\xe2\x9c\x94 Wonder where to check for your online voting information?\xe2\x9c\x94 MyGE(Malaysia General Election) makes it easier than ever for you to check your voting status and voting location on your mobile device. \xe2\x9c\x94 Aren't sure about where is your exact voting place?\xe2\x9c\x94 Now you can find your voting place on map with simply a click!\xe2\x9c\x94 More latest news and information about the election will be coming soon in our next version! \xe2\x9c\x94 Stay tuned and lets count down to 5 May 2013!This application was not officially built by the government. In fact, It was developed by my team to ease the public. Thanks for your support.Recent changes:\xe2\x80\xa2   SHARE: Now share MyGE with your friends & family! \xe2\x80\xa2   PLACE ON MAP: View your voting place on Google Map!"
+p4
+tp5
+tp6
+.

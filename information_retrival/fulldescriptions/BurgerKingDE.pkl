@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Burger King DE '
+p1
+tp2
+(S'Description:'
+p3
+S'Die offizielle App von BURGER KING\xc2\xae: Der schnellste Weg zu mehr Geschmack!Bereits mehr als 1 Million Downloads zeigen: Geschmack ist King!Die BurgerKing App vereint alle wichtigen Features und Funktionen f\xc3\xbcr Burger- und BK-Fans. W\xc3\xa4hrend der KING Finder das n\xc3\xa4chstgelegene der rund 700 BK Restaurants deutschlandweit anzeigt, erm\xc3\xb6glichen Mobile Coupons eine unkomplizierte und mobile Nutzung der Sparscheine vor Ort: Durch Vorzeigen des Displays k\xc3\xb6nnen die Coupons in allen teilnehmenden BK Restaurants Deutschlands eingel\xc3\xb6st werden. Viele weitere Features, wie aktuelle Aktionen und Specials, Informationen zu Produkten und Angeboten, sind mit der App nur einen Tap entfernt.   KING Finder via GPS\xe2\x9c\x93 Individuelle Restaurantsuche durch Filterfunktion: Drive In, Spielplatz, Tankstelle etc.\xe2\x9c\x93 Detailansicht der Restaurants mit Anschrift, Entfernung, Service und \xc3\x96ffnungszeiten \xe2\x9c\x93 Integrierter BK Kompass mit LivecamMobile Coupons\xe2\x9c\x93 Gro\xc3\x9fe Auswahl \xe2\x9c\x93 Wechselnde Angebote\xe2\x9c\x93 G\xc3\xbcltig f\xc3\xbcr alle teilnehmenden BK Restaurants in Deutschland Aktuelle BK Aktionen\xe2\x9c\x93 KING des Monats\xe2\x9c\x93 Wechselnde Specials \xe2\x9c\x93 Produktinformationenund vieles mehr!Recent changes:- Android 4.1 enabled (e.g. Samsung Galaxy S3)'
+p4
+tp5
+tp6
+.

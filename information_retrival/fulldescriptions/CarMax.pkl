@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CarMax '
+p1
+tp2
+(S'Description:'
+p3
+S'Makes finding your perfect car at CarMax even easier!The CarMax app lets you search our nationwide inventory of over 35,000 CarMax Quality Certified used cars by make, type, model, year, price, features, MPG, and more!See car details and photos, plus:\xe2\x80\xa2 Save cars and car searches\xe2\x80\xa2 Get alerts for saved car price drops, saved cars sold, and new matches for saved searches\xe2\x80\xa2 Make and save notes about cars and searches\xe2\x80\xa2 Compare up to 10 cars\xe2\x80\xa2 Calculate payments, affordability, and MPG savings\xe2\x80\xa2 Browse the lot at CarMax and scan window sticker QR or bar codes to access vehicle information\xe2\x80\xa2 See free Vehicle History Reports and expert and customer reviews.\xe2\x80\xa2 Share vehicles on Facebook and Twitter\xe2\x80\xa2 Find your nearest CarMax store and contact informationRecent changes:Version 1.1.32\xe2\x97\x8f Additional stability improvementsVersion 1.1.30\xe2\x97\x8f Additional stability improvementsVersion 1.1.28\xe2\x97\x8f Improved stability on more devices\xe2\x97\x8f Increased speed and performance \xe2\x97\x8f Fixed location issue for easier access to our entire nationwide inventory\xe2\x97\x8f New feature lets you rename existing searches then save againThanks for helping us get better\xe2\x80\x94we appreciate your feedback, ratings, and reviews.'
+p4
+tp5
+tp6
+.

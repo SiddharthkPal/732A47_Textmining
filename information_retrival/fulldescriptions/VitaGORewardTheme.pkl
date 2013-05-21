@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vita GO Reward Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a premium GO Launcher theme, you may1.       Pay with IAP ( In app purchase ) 2.       Get it for free with Getjar Gold\xe2\x9d\xa4How to use this theme:1. After downloading and installing this theme, go to Menu -> Themes -> Installed -> choose your theme -> Apply2. Choose pay with Google Checkout or Free with Getjar Gold.3. If you choose Getjar Gold, there will be several apps listed, just download some apps to earn gold and then purchase with Getjar Gold.4. After purchase, select Installed -> choose the theme -> Apply'
+p4
+tp5
+tp6
+.

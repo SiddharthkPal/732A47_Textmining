@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mobile ISP Service '
+p1
+tp2
+(S'Description:'
+p3
+S'Mobile Credit Card Payment Service'
+p4
+tp5
+tp6
+.

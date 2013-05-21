@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Chinese Medicine Life '
+p1
+tp2
+(S'Description:'
+p3
+S'This software is designed to facilitate the need to query the users of traditional Chinese medicine.The most content of software comes from the Internet, books, and Chinese medicine practitioners, all content just for reference only; If the disease-related issues please contact the nearest to seek Chinese medicine practitioners for medical treatment, please do not to delay the disease.The starting point of this software is not purely profit-making purposes, and the software from advertising revenue will be donated to charitable organizations. The exchange for advertising revenue receipts will from time to time posted on the website, thanks for your selfless sponsorship.If you have further cooperation needs please contact us by alemocni@gmail.comWeb site:http://chinesemedicinelife.blogspot.comReference Source:http://yibian.hopto.org'
+p4
+tp5
+tp6
+.

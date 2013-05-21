@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AroundMe '
+p1
+tp2
+(S'Description:'
+p3
+S'AroundMe quickly identifies your position and allows you to choose the nearest Bank, Bar, Gas Station, Hospital, Hotel, Movie Theatre, Restaurant, Supermarket, Theatre and Taxi.AroundMe shows you a complete list of all the businesses in the category you have tapped on along with the distance from where you are.Recent changes:4.1.5- Fixed localizations- Minor bug fixing4.1.4- Added Movies category- Minor bug fixing4.1.3- New details UI - Hotel information now includes free wifi, parking and photos.- New visualization mode: list and various map style.- Save result in contacts.- Facebook and Twitter sharing.- Hour of operations for 400.000 USA restaurants.'
+p4
+tp5
+tp6
+.

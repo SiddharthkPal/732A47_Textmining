@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FBReader '
+p1
+tp2
+(S'Description:'
+p3
+S'FBReader (FBReaderJ) is an e-book reader. Supports epub, rtf, fb2(.zip), mobi, and plain text file formats.FBReader is fast, highly customizable. Can use external TrueType/OpenType fonts. Includes hyphenation patterns for 16 languages.Includes a browser/downloader for network e-book catalogs/stores. Several popular English, French, Russian, Chinese and Polish libraries are included. Custom OPDS catalogs are supported too.Alternatively you can download books manually and put them into /sdcard/Books catalog on your device.FBReader is integrated with external dictionaries. Supports ColorDict, all Slovoed dictionaries (by Paragon Software), Fora Dictionary, FreeDictionary.org, LEO dictionary.Localized for 14 languages. Open-source (GPL).Similar applications: Aldiko, Cool Reader, Moon+ Reader, AlreaderKeywords: ebook, e-book, e-reader, reader, ePub, fb2, OPDSRecent changes:1.8/1.8.1:* Two column view in horizontal mode (optional, enabled by default for devices with screen >7")* Text highlighting* Fixed ePubs scanning1.7.*:* Mark books as read/unread* Loads library in background'
+p4
+tp5
+tp6
+.

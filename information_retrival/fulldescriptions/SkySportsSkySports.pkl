@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SkySports (Sky Sports) '
+p1
+tp2
+(S'Description:'
+p3
+S"Unofficial mobile client for Sky Sports. Tablet-optimised and phone-optimised design, offline reading and many others features. Just try it! Sky Sports is the brand name for a group of sports-oriented television channels operated by the UK and Ireland's main satellite pay-TV company, British Sky Broadcasting. Sky Sports is the dominant subscription television sports brand in the United Kingdom and Ireland. It has played a major role in the increased commercialisation of British sport since 1991, sometimes playing a large role in inducing organisational changes in the sports it broadcasts, most notably when it encouraged the Premier League to break away from the Football League in 1992.Unlike the other channels, Sky Sports News is provided as part of basic packages. Sky Sports is perhaps best known for its Premier League football coverage.Tags:sky sportssport newsskysportsfootballsky sports\xc2\xa0f1sky newsbreaking newssky sports\xc2\xa0onlinesky\xc2\xa0sport newssky sportnews24top newsskaylatest newssky sports\xc2\xa01sky sports\xc2\xa0livelive tvsky sport 1sports newsbbc newsespnfootball onlinesportsbbc sportscricketsky tvarsenalgoallive cricket scoresky sport onlinesky sports\xc2\xa0newssoccerbbcinternational newssports directfootball livefox newsnews 24cnn newsskynewscbs newsonline newssport news\xc2\xa0footballsoccernetfootball newsRecent changes:Added Football Results, Race Results and Cricket Scorecards.____________________________________Fixed mutiple bugs around DisQus commentUpdated mutiple language strings"
+p4
+tp5
+tp6
+.

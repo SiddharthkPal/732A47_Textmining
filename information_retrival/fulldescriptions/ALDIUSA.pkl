@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ALDI USA '
+p1
+tp2
+(S'Description:'
+p3
+S"ALDI is your home for never ending low prices on all your grocery needs. Stay up-to-date on all our latest offers with the ALDI App.Features:* Weekly Special Buy Updates: Have the latest Special Buys right at your fingertips. Check out each week's deals with one easy click.* New Low Prices: This feature will enable you to see the latest price reductions on the items you already love.* Create a Shopping List: You can use the shopping list tool to create your list of must-have special buy and new low price items with just a few easy clicks.* Store Locator: This GPS-enabled tool will help you find nearby ALDI stores by your current location. Get addresses, directions, maps and store hours.ALDI. Honest to Goodness Savings.Recent changes:* Minor bug fixes and improvements"
+p4
+tp5
+tp6
+.

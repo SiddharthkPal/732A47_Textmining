@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TwitPlus - addon for twitter '
+p1
+tp2
+(S'Description:'
+p3
+S'Add powerful function to  official Twitter app and all other twitter client.## If you have some trouble with purchasing, remove and reinstall.# This is not standalone twitter app. # Works best with "Twitter for android."- Image, video preview for known urls.- Text preview for long tweet.- Old style RT- Reply to all- Translation- Save image- Set wallpapertwitter,addonRecent changes:1.4.1* Add instagram.com image support'
+p4
+tp5
+tp6
+.

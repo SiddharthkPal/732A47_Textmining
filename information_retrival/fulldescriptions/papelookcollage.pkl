@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'papelook~collage~ '
+p1
+tp2
+(S'Description:'
+p3
+S'With over 4 million downloads and counting, papelook is a collage & photo crop application, popular among models. No registration is necessary..papelook is a free photo edit application that allows you to crop photos, edit layouts, decorate, insert text, and so on. Make your own scrapbook or collage book with papelook!How would you like to make your original scrapbook filled with pictures of friends and loved ones, or your favorite dresses and celebrities? You can even make surprise birthday scrap/message cards! [Layout function]Make a collage out of pictures taken on the spot or photos taken from facebook or camera roll.Swipe with your finger to crop photosCrop photos in a heart, star, or stamp shape.Enter texts (Select from various colours and fonts, including hand-written style fonts)Heart and star shaped stampsExpand/scale-down and rotate photos[Save]Save to camera roll[Share]Post on Facebook/Twitter[Re-edit]You can edit finished pictures at any time.No need to register!Edit your photos with papelook!Recent changes:Bug fixed.'
+p4
+tp5
+tp6
+.

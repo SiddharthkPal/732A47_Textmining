@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Copart Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'As a Copart member, you now have the ability to access and manage your account wherever you go!  Use your Android to search through our inventory of over 50,000 vehicles, view vehicle condition reports, create lists of your favorite cars, and even manage and place bids.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LDS Gospel Library '
+p1
+tp2
+(S'Description:'
+p3
+S'LDS Gospel Library is a free app that helps Church members worldwide deepen, broaden, and improve gospel learning by providing mobile access to scriptures, general conferences, magazines, manuals, and other published church content in an easy and immediate offline experience.  In addition to reading these materials, you can also create highlights, notes, tags, links, and bookmarks, which can then be synced to your study notebook on LDS.org using your LDS Account.If you have a problem or a suggestion, please use the "Email Developer" link. If you find a bug or a crash in the app, please use the "Report a Problem" feature from the "Help" menu.App Permissions: If you have questions about how/why we use app permissions, you can find out more here: http://bit.ly/gla-permissionsTerms of Service: LDS Gospel Library is provided, free of charge, to any person obtaining a copy of this software. Copyright is reserved on all content available within this application. We reserve the right to collect anonymous application usage statistics, to be used with the goal of understanding how the app is used and improving the overall quality of the app.Keywords: Jesus Christ, Scriptures, Bible, Old Testament, New Testament, Book of Mormon, Doctrine and Covenants, Pearl of Great Price, Ensign, New Era, Friend, Liahona, General Conference, Hymns, The Family A Proclamation to the World, The Living Christ, Handbook 2, Worldwide Leadership Training, Teachings of Presidents of the Church, Gospel Principles, Preach My Gospel, Sunday School, Primary, Relief Society, For the Strength of Youth, Seminary, Institute, Joseph Smith Translation, Bible Dictionary, Topical GuideRecent changes:Version 2.4.2.7:Fixed some content styling issuesFixed "audio playback timed out" errorFixed some text selection issues (more fixes on the way)Added basic inline image supportMiscellaneous bug fixesVersion 2.4.1.9:Miscellaneous bug fixes'
+p4
+tp5
+tp6
+.

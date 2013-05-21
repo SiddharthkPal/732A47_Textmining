@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Your Mirror HD '
+p1
+tp2
+(S'Description:'
+p3
+S'A pocket mirror in your phone or tablet. Now with high FPS mode, especially for Nexus 4!!!*** Change in permissions for camera features, shortcut addition through the settings and some other great soon-to-come features. Please look below for a full explanation for the permissions. ****** NOTE: YOUR PHONE MUST HAVE A FRONT-FACING CAMERA IN ORDER TO USE THIS APPLICATION ***Zoom in and out feature is now also available (on supporting devices only!). Use the volume up and down keys to control the zoom. If nothing happens - your phone\'s camera doesn\'t support zooming."it\'s a mirror app which can turn your phone into a wonderful mirror in your pocket" - AppEggs.comUses your front facing camera to show your face on the screen in a variety of nice frames (click the frame to replace it with another frame). Use this mirror to fix your make-up, put on your contact lenses, or just to make sure your hair is okay... :)Please report bugs, especially if it doesn\'t work well on your phone, it has been tested on a very small variety of phones.This app is supported via search. Please note that the following will be added to your device once you download the app \xe2\x80\x93 Search icon, bookmark link and browser homepage. You can delete/replace these search points easily. This is a way to make money from this app and giving it to you for free. Thank you for your understanding.**** PERMISSIONS EXPLANATION ****Camera - the most obvious one. :) This is used for accessing the front facing camera in order to function like a mirror.Internet and networking - Used for ads.GPS & Location services - Used for marking the photos with a location tag, so you\'ll be able to see where each photo was taken, and also for location targeted ads.Shortcut creation - Used for creating a shortcut for the application through the settings menu -> create shortcut.Read & write external storage - Used for saving photos on the sdcard.Recent changes:version 3.3.2.3:* bug fixes.* added new settings button, no ads button and extras bar button.* settings - new option to disable cross-promotion.version 3.3.2.0:* fixed a bug: the location of the zoom bar was on top instead of just above the buttons.version 3.2:* Added High FPS mode, to support for Nexus 4.version 3.1:* Rotating buttons for portrait/landscape modes.'
+p4
+tp5
+tp6
+.

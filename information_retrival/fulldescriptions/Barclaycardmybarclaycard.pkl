@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Barclaycard - mybarclaycard '
+p1
+tp2
+(S'Description:'
+p3
+S'Barclaycard - mybarclaycard* Please note that this app does not work on rooted handsets *mybarclaycard is a free mobile app for Barclaycard UK customers. Download now for easy and secure account management when you\xe2\x80\x99re on the move. - View your balances - Make payments - View your last 30 transactions - View your available credit limitBefore you get startedTo use the mybarclaycard app you\xe2\x80\x99ll need a UK mobile number and be the main cardholder of a personal Barclaycard issued in the UK.You\xe2\x80\x99ll also need your mybarclaycard online login or your full account details during registration.Are you a Barclays customerIf you\xe2\x80\x99ve got a Barclays current account and a Barclaycard, you\xe2\x80\x99re best to use the Barclays Mobile Banking app to view both your accounts together.  The mybarclaycard app will only show details of your Barclaycard account.Other things you need to know - The app is compatible with Android Gingerbread 2.3 and above, Honeycomb 3.0 and above and Ice Cream Sandwich 4.0 and above - Compatible mobile device, operating system and internet access are required - Standard network charges for data usage may apply. Check with your network service provider for mobile or internet use - Terms, conditions & restrictions apply - (www.barclaycard.co.uk/mybarclaycardapp) - Unfortunately the app is not available for Commercial or Partnership cards at this time but watch this space for updates - Sorry, the mybarclaycard app does not support rooted devicesThe fine printBarclaycard is a trading name of Barclays Bank PLC. Barclays Bank PLC is authorised and regulated by the Financial Services Authority and subscribes to the Lending Code which is monitored and enforced by the Lending Standards Board. Registered in England. Registered No. 1026167. Registered Office: 1 Churchill Place, London E14 5HP.Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

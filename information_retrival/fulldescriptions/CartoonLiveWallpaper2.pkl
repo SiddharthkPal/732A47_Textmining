@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cartoon Live Wallpaper 2 '
+p1
+tp2
+(S'Description:'
+p3
+S"A high quality Cartoon Live Wallpaper App.It's very beautiful and exciting Cartoon Live Wallpaper. If you like it\xef\xbc\x8cPlease set as Live Wallpaper for your phone!Thank you very much for your support! How to use:home screen>menu>wallpaper>Live Wallpaper"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ACCC Shopper '
+p1
+tp2
+(S'Description:'
+p3
+S"ACCC Shopper explains your refund, warranty and lay-by rights. It also tells you what to look for if you want to buy food that comes from a particular country, or if you're shopping for olive oil. You can use it to: - Find answers to common shopping questions such as 'Can I get a refund if I change my mind?' - Store your receipts as photos on your phone, so you never need to worry about a lost or faded receipt - Set reminders for your lay-bys, warranties and gift vouchers - Find out what claims like 'made in Australia' and 'extra virgin' mean The information in this app is based on the Australian Consumer Law. For further information about your consumer rights, contact the ACCC Infocentre on 1300 302 502 or visit www.accc.gov.au."
+p4
+tp5
+tp6
+.

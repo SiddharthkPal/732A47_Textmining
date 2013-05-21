@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ReceiptMatch from Amex '
+p1
+tp2
+(S'Description:'
+p3
+S'ReceiptMatch\xe2\x84\xa0 from American Express OPENA feature created exclusively for your Business Card from American Express OPEN.Simplify the way you manage your business receipts with the ReceiptMatch mobile app.   This feature of your Business Card stores and organizes your Card receipts for you.Just snap a photo of your Card receipt, add notes, and then let ReceiptMatch do the work of matching it to a corresponding transaction on your online statement. Once a receipt is matched, you can see the receipt, notes, and transaction details together in one place. ReceiptMatch helps save you the hassle of keeping track of your paper receipts and reconciling them with your transactions at the end of the month.  APP FEATURES \xe2\x80\xa2 Snap a photo of your Card receipt \xe2\x80\xa2 Add a note and upload the receipt to our secure storage center\xe2\x80\xa2 Using information like the purchase date and amount, ReceiptMatch scans the receipt and looks for a match to the corresponding transaction on your online statement\xe2\x80\xa2 Review matched receipts, notes, and transaction details together in one placeIf you want to learn more about ReceiptMatch, including how to print receipts or send receipts to your account through email, visit open.com/receiptmatch.Remember, ReceiptMatch is a feature created exclusively for American Express OPEN Cardmembers.  Don\xe2\x80\x99t have a Business Card from American Express OPEN? Visit OPEN.com to apply for one.All access to and use of this App subject to and governed by the American Express End User License Agreement, Terms of Service and Privacy Statement.Recent changes:\xe2\x80\xa2 Redesigned \xe2\x80\x9cTake the Tour\xe2\x80\x9d to guide users through the app \xe2\x80\xa2 Minor design enhancements based on user feedback'
+p4
+tp5
+tp6
+.

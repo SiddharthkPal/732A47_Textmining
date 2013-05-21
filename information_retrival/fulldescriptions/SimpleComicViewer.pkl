@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simple Comic Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'Is a simple comic viewer.Function- Tap, Double Tap, Flick, Pinch In/Out- Bookmark- Save the last page- Save recent file- Share- Page split- Grayscale mode- Brightness- Contrast Supported Formats-  zip, rar, cbr, cbz, jpg, png, gif, bmpSupported system language- Korean, EnglishRecent changes:20130131 update- external memory support- bug fixed20120723 update- bug fixed20120719 update- Support ICS20110905 update- Save recent file on/off- Click and tap delete using the recent history- Improve the speed of transition- Update auto Background colo'
+p4
+tp5
+tp6
+.

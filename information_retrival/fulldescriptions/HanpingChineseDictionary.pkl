@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hanping Chinese Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'This is the free edition of Hanping Chinese Dictionary Pro especially designed for Gingerbread (and higher) devices.Pro version (which has over 10,000 downloads) 25% OFF for limited time only: http://goo.gl/KFyksIf you cannot see paid apps (in China?) then read: http://goo.gl/YGonRFeatures:\xe2\x98\x85 Search Hanzi / Chinese, Pinyin or English. Also displays Zhuyin (Bopomofo)\xe2\x98\x85 Both Simplified and Traditional Chinese characters supported\xe2\x98\x85 Voice recognition (online only and only on supported devices)\xe2\x98\x85 Live search - dictionary results update as-you-type\xe2\x98\x85 Progressive results - as you scroll down, progressively deeper dictionary searches are seamlessly performed\xe2\x98\x85 Offline access to all dictionary features (unless specified)\xe2\x98\x85 Search history, Starred words, Word lists\xe2\x98\x85 Custom search using wildcards\xe2\x98\x85 Clipboard support - copy Chinese from dictionary\xe2\x98\x85 Night mode (black background)\xe2\x98\x85 Quick Search Box support\xe2\x98\x85 Useful links to websites e.g. YellowBridge Chinese dictionary and nciku Chinese sample sentences (online only)\xe2\x98\x85 Uses CC-CEDICT Chinese dictionary data (stored on SD card)\xe2\x98\x85 Seamless integration with our Hanping Chinese Camera app (for camera-based character recognition)\xe2\x98\x85 Supports Move to SD card**\xe2\x98\x85 No ads!The Pro features (not available in this app):\xe2\x98\x85 Mandarin audio - over 2,000 audio files of a real native Chinese speaker (stored on SD card 7.5MB)\xe2\x98\x85 Chinese handwriting recognition built-in\xe2\x98\x85 Lookup-by-radicals\xe2\x98\x85 Homescreen widgets\xe2\x98\x85 Supports professional ABC Chinese & English dictionaries (in-app purchases)For Chinese character input via pinyin, use Google Pinyin IME.Note - if you are having problems downloading the dictionary data, please read this: http://goo.gl/Aj6r3Note - if many Chinese characters appear as empty square boxes, or if you would like to use a nicer Chinese font, please read this: http://embermitre.com/?p=335Internal memory usage: 10MBExternal/SD card usage: 27MBPlease use the forum (see below) to report any bugs or suggestions.Blog: http://embermitre.comForum: http://embermitre.com/hanpingTwitter: http://twitter.com/embermitreRecent changes:\xe2\x98\x85 Minor bug fixesFor more see: http://embermitre.com/?tag=whatsnew-hanping-ce-lite'
+p4
+tp5
+tp6
+.

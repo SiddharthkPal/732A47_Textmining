@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AK Notepad '
+p1
+tp2
+(S'Description:'
+p3
+S'The easiest notepad for Android smartphones and tablets!Simple, clean design ideal for everyday use:* Capture text notes* Set reminders* Share notes via SMS, email & more* Pin notes directly to your home screen* Set note colors* Organize your notes with tags like #work #school #groceries* Sort & search* Export/import* PasscodeWorks with your free Catch.com account:* AK Notepad notes automatically back up to Catch.com* Share notes with Catch Notes for Android and iPhone* Email notes to note@catch.com and they appear in AK Notepad* Download Catch Notes if you want more features such as photo notes, voice notes, and checklists. You can use the same Catch account to find all your text notes.Recent changes:- Enables writable ContentProvider used by some backup programs- Restored feature: to duplicate a note, share it with AK Notepad'
+p4
+tp5
+tp6
+.

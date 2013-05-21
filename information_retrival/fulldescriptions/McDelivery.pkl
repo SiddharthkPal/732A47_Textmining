@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'McDelivery '
+p1
+tp2
+(S'Description:'
+p3
+S"Welcome to McDonald\xe2\x80\x99s McDelivery Mobile Ordering App!This app is published by McDonald's Delivery Service in Singapore for customers to place orders via the android devices. Customers are required to register with email and password before placing an order. The same login credentials can used for app and web (www.mcdelivery.com.sg) ordering.Please note that payment by credit card is currently not available on the McDelivery Mobile Ordering App."
+p4
+tp5
+tp6
+.

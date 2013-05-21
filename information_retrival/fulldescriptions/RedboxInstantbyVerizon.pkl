@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Redbox Instant by Verizon '
+p1
+tp2
+(S'Description:'
+p3
+S'Enjoy unlimited streaming movies when you download the one-and-only, super-official Redbox Instant by Verizon app.With Redbox Instant by Verizon, you can:- Instantly watch movies on your phone and tablet- Reserve movies at the box- Bookmark your favorite titles- Buy and rent movies, even without a subscription- Browse through thousands of popular moviesRedbox Instant is convenient, easy and affordable. Not only are DVD credits included when you subscribe, your FIRST MONTH IS TOTALLY FREE!* Check us out!Learn more at RedboxInstant.com.*Your Free Trial gets you a month of unlimited streaming movies, plus 4 DVD credits you can use at the Redbox kiosk.To learn more about how Redbox Instant by Verizon protects your privacy go to http://www22.verizon.com/about/privacy/Recent changes:New in version 1.0.3- Check out our design enhancements- Closed captioning is now supported for some titlesNew in version 1.0.0 - 1.0.2:- Instantly watch movies on your phone and tablet- Reserve movies at the box- Bookmark your favorite titles- Buy and rent movies, even without a subscription- Browse through thousands of popular movies'
+p4
+tp5
+tp6
+.

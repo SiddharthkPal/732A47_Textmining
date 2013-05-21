@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"TV'de Spor "
+p1
+tp2
+(S'Description:'
+p3
+S'TV\'de Spor; T\xc3\xbcrk televizyonlar\xc4\xb1nda canl\xc4\xb1 olarak yay\xc4\xb1nlanacak futbol, basketbol, tenis ve voleybol m\xc3\xbcsabakalar\xc4\xb1n\xc4\xb1n hangi g\xc3\xbcn, saat ka\xc3\xa7ta, hangi kanalda yay\xc4\xb1nlanaca\xc4\x9f\xc4\xb1 gibi bilgileri g\xc3\xb6steren ve isterseniz ma\xc3\xa7lardan \xc3\xb6nce hat\xc4\xb1rlatma mesajlar\xc4\xb1 ekleyebilece\xc4\x9finiz reklams\xc4\xb1z bir uygulamad\xc4\xb1r.---------------------------------------------------------Ayr\xc4\xb1ca izlemeyi planlad\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1z ma\xc3\xa7lar i\xc3\xa7in gerekli ayarlar\xc4\xb1 yap\xc4\xb1p telefonun size ma\xc3\xa7 saatini hat\xc4\xb1rlatmas\xc4\xb1n\xc4\xb1 sa\xc4\x9flayabilirsiniz. Bunun i\xc3\xa7in tek yapman\xc4\xb1z gereken listeden istedi\xc4\x9finiz ma\xc3\xa7\xc4\xb1 t\xc4\xb1klay\xc4\xb1p bildirim ayarlar\xc4\xb1n\xc4\xb1 onaylamak.* \xc4\xb0stedi\xc4\x9finiz say\xc4\xb1da ma\xc3\xa7 i\xc3\xa7in hat\xc4\xb1rlatma mesaj\xc4\xb1 ekleyebilirsiniz.* Ayarlam\xc4\xb1\xc5\x9f oldu\xc4\x9funuz bir bildirimi de\xc4\x9fi\xc5\x9ftirmek i\xc3\xa7in yeniden ayar yap\xc4\xb1yormu\xc5\x9f gibi o ma\xc3\xa7\xc4\xb1 se\xc3\xa7ip ayarlar\xc4\xb1 g\xc3\xbcncellemeniz yeterli.* 1.2 versiyonuyla birlikte art\xc4\xb1k ma\xc3\xa7lar i\xc3\xa7in hat\xc4\xb1rlatmalar\xc4\xb1 telefonunuzun varsay\xc4\xb1lan takvimine/Gmail hesab\xc4\xb1n\xc4\xb1za da ekleyebilirsiniz.(Harici uygulamalarla uyumlulu\xc4\x9fu test edilmemi\xc5\x9ftir.) * Men\xc3\xbcdeki bildirim ayar\xc4\xb1 butonuyla alarm\xc4\xb1n\xc4\xb1z\xc4\xb1 nas\xc4\xb1l ayarlamak istedi\xc4\x9finizi de\xc4\x9fi\xc5\x9ftirebilirsiniz. Program yapm\xc4\xb1\xc5\x9f oldu\xc4\x9funuz ayar\xc4\xb1 hat\xc4\xb1rlayacakt\xc4\xb1r. Her seferinde tekrar ayarlaman\xc4\xb1z gerekmemekte...* Program ma\xc3\xa7 verilerini g\xc3\xbcnde sadece bir kez indirerek ba\xc4\x9flant\xc4\xb1n\xc4\xb1z\xc4\xb1 m\xc3\xbcmk\xc3\xbcn olan en az miktarda kullan\xc4\xb1r.Uygulamayla ilgili problemleri ve isteklerinizi program i\xc3\xa7indeki "Geri Bildirim" men\xc3\xbcs\xc3\xbcn\xc3\xbc kullanarak iletebilirsiniz.Recent changes:v1.8- Son sat\xc4\xb1rdaki ma\xc3\xa7\xc4\xb1n g\xc3\xb6r\xc3\xbcnmemesi sorunu \xc3\xa7\xc3\xb6z\xc3\xbcld\xc3\xbc.v1.7- \xc4\xb0ki k\xc3\xbc\xc3\xa7\xc3\xbck hata d\xc3\xbczeltildi.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Moovit- Real-time Transit Info '
+p1
+tp2
+(S'Description:'
+p3
+S'Moovit public transit app shows you the fastest, least-crowded route, every time based on real-time data. Best of all, it\'s free and powered by the crowd.Moovit makes it easy to access real-time public transportation information:\xe2\x80\xa2\tLive map: Press on stops & stations to see nearby lines. Check schedules & track your next vehicle as it arrives live on the map!\xe2\x80\xa2\tTrip planner: Search for the fastest, least-crowded routes to your destination, across your favorite transit modes (bus, train, light rail, subway, ferry)\xe2\x80\xa2\tOn the go: Tap the best search result and hit "Navigate" to enjoy step-by-step guidance including walking segments. See your dynamic ETA, crowdsourced reports, and more.Moovit supports mass transit operators in metro areas across the US (Boston, Chicago, Los Angeles, New York-New Jersey, Philadelphia, Portland, San Francisco, Seattle, Washington DC-Baltimore) and Canada (Montreal, Ottawa, Toronto, Vancouver).International locations include: UK (England, Scotland, Wales), Australia (Sydney), Ireland (Dublin), Italy (Rome, Milan, Turin), Spain (Madrid, Barcelona), Brazil (Sao Paulo, Rio de Janeiro), Israel, and the Netherlands. How is Moovit "powered by the crowd"?Moovit is a real cooperative, community-driven project. We start with complete schedule-based public transit information, then add real-time data from operators and users. Just by riding with Moovit open, you help contribute live data back to the community. You can also send active reports about your ride or station from the report button.The more people use Moovit, the more real-time data we get about buses, trains, and subways. This data, in turn, provides everybody with better arrival estimates and route plans!Continuous use of GPS running in the background can dramatically decrease battery life.Ok, enough about us -- let\'s Moovit!Recent changes:Just in time for spring, a new version of Moovit!! Now it\'s easier than ever to personalize Moovit :)-Schedules are now easier to access! Check next arrival times with just 2 clicks.-Personalize your \xca\xbafavorite zone\xca\xba to have your favorite lines and routes at your fingertips.-Add your home and work addresses for quick navigation.And of course, we squashed some bugs along the way :)Happy travels!'
+p4
+tp5
+tp6
+.

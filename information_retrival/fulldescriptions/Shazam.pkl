@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shazam '
+p1
+tp2
+(S'Description:'
+p3
+S'Music -\xc2\xa0identify songs in as little as 1 second, preview or buy the track, get streaming lyrics, YouTube videos and more. TV - US fans, tag TV shows ANYTIME for music, celebrity buzz, trivia and more. Every channel. Every show.You can also:\xe2\x97\x8b Save and listen again (30 sec previews)\xe2\x97\x8b See streaming lyrics in time to the music\xe2\x97\x8b Buy tracks easily on Amazon MP3\xe2\x97\x8b View extra content as you watch TV\xe2\x97\x8b Watch music videos & concerts from YouTube\xe2\x97\x8b Listen to your tagged music in Spotify\xe2\x97\x8b Share on Facebook & Twitter\xe2\x97\x8b Discover new music in Shazam Friends & Charts\xe2\x97\x8b See when an artist is touring\xe2\x97\x8b Use it when you don\xe2\x80\x99t have a signal\xe2\x97\x8b When you see the Shazam prompt on TV, tag for extra content\xe2\x97\x8b Tag from your home screen with the Shazam Widget\xe2\x97\x8b Remember where you tagged a track with Location\xe2\x80\x9cThis is the best thing EVER!\xe2\x80\x9d\xc2\xa0 Hoda Kotb of NBC\xe2\x80\x99s Today ShowUpgrade to Shazam Encore for no banner ads and exclusive features like recommendations.Notes: * Previews available: US,UK,DE, FR, CH, AT * Lyrics and LyricPlay available: US, CA, UK, FR, IT, DE, ES, AU, NZ.* Spotify available:UK, US, FR, ES, NL, SE, NO, FI.* Shazam supports devices with cellular connection Tags: ID song, search music, recognize song, song identification, what\xe2\x80\x99s that song, track lyrics, tag radio, tag tv, tag television, TV Ad, Android BeamMIPS devices are not supportedRecent changes:Now you will have the option for your tags to appear on your Google+ profile. Share them with your Google+ circles.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'wehkamp.nl '
+p1
+tp2
+(S'Description:'
+p3
+S'Ontdek de wehkamp.nl app.Shoppen zoals shoppen bedoeld is. Blader in je eigen tempo door complete looks, de nieuwste collecties en je favoriete merken. Laat je inspireren door de laatste trends en het enorme productaanbod van wehkamp.nl. Geniet van de aantrekkelijke vormgeving, de eenvoudige navigatie en de vele extra\xe2\x80\x99s. Met de wehkamp.nl app vind je precies wat je zoekt, eenvoudig en snel, waar je ook bent.Dit is de wehkamp.nl app:- Laat je inspireren door de nieuwste trends;- Blader door complete looks en shop in ons Lookbook;- Navigeer, zoek en bestel eenvoudig en snel;- Bekijk de producten tot in detail door de verbeterde zoomfunctionaliteit;- Voel je zeker dankzij de vertrouwde omgeving en service van wehkamp.nlDownload nu de wehkamp.nl app en ontdek het zelf.Geef je mening.Opmerkingen over onze app? E-mail appfeedback@wehkamp.nl we horen graag van je!'
+p4
+tp5
+tp6
+.

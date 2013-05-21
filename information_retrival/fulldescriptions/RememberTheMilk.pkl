@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Remember The Milk '
+p1
+tp2
+(S'Description:'
+p3
+S'Take your to-do list anywhere with this feature-packed app; never forget the milk (or anything else) again. Remember The Milk (RTM) for Android connects with the popular online service of the same name. With millions of users worldwide, Remember The Milk is everywhere you are: from your phone, to the web, to your Google apps, and more."This app represents mobile task management at it finest." - MashableKey Features:\xe2\x80\xa2 Add and complete tasks on the go.\xe2\x80\xa2 Sync with Remember The Milk online (limit once every 24 hours). Great for backing up your tasks and notes.\xe2\x80\xa2 Organize the way you want to with priorities, due dates, time estimates, repeating, lists, tags, and more.\xe2\x80\xa2 Search your tasks and notes, and save your favourite searches as Smart Lists.\xe2\x80\xa2 See tasks nearby and plan the best way to get things done.\xe2\x80\xa2 And more! See www.rmilk.com/android for details.Pro Features:\xe2\x98\x85 Unlimited auto-syncing with Remember The Milk online.\xe2\x98\x85 Keep in sync with your tasks on multiple devices.\xe2\x98\x85 Get reminded with notifications for tasks due or nearby.\xe2\x98\x85 Widgets and badge goodness for your home screen.\xe2\x98\x85 And more! See www.rmilk.com/pro for details.Follow Us For Updates:twitter.com/rememberthemilkfacebook.com/rememberthemilkblog.rememberthemilk.comRecent changes:3.0.11:\xe2\x80\xa2 Fix an issue with lists not refreshing properly on day transitions.3.0.10:\xe2\x80\xa2 Fix an issue with the note editor when switching apps.\xe2\x80\xa2 Fix an issue with the Smart Add field in landscape mode not showing Smart Add icons on some devices.3.0.9:Remember The Milk for Android 3.0 is here! The app has been completely redesigned, and this version is built for tablets, too!Learn more at www.rmilk.com/android3'
+p4
+tp5
+tp6
+.

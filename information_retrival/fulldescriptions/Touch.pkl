@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Touch '
+p1
+tp2
+(S'Description:'
+p3
+S"Touch redefines how we stay in touch with close friends and family.Touch lets you:- Message your friends through Chats that feel like you are talking in person. Enjoy chatting with unlimited text, video, and voice messaging, delivery and read receipts, typing status, and top-notch speed and reliability.- Share your life with those closest to you through Experiences that make the distance fade away.Touch has been built to provide a personal, simple and powerful experience to let you maintain your closest relationships. Keep in touch with your friends on iOS, Android and BlackBerry through Touch.Recent changes:3.4.2:- Improved scrolling performance- Added image previews for JellyBean system notifications- Added shortcut feature for quick access to emoticons in conversations3.4: Introducing Collaborative Experiences!Collaborative Experiences let you create shared, real-time photo albums with selected friends and family. All members can capture moments as they happen by adding new photos after the Experience has been shared. You can even include friends and family who haven't yet joined Touch!"
+p4
+tp5
+tp6
+.

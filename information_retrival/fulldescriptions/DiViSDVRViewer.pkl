@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DiViS DVR Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'Client Viewer connecting DiViS DVR(CCTV) system.(Requirement: DiViS DVR Software version 12.10.1 (need to Patch) or later.)Version 1.2Support for new mobile phonesVersion 1.1Support Live view and Search.Live View1) 1, 6, 12 multi channel view support2) Landscape view support3) PTZ Camera control support4) Site favorite support5) Screen capture support6) Digital zoom support7) Multi site connection supportSearch1) Date, Time, Camera select search2) 1, 6, 12 multi channel view support3) Landscape view support4) Play, Fast play, Next image5) Screen capture support6) Digital zoom supportDiViS DVR Viewer Support: http://www.divisdvr.com/divis/sp_service.aspDiViS DVR Viewer Manual: http://www.divisdvr.com/divis/sp_manual.aspRecent changes:Function update'
+p4
+tp5
+tp6
+.

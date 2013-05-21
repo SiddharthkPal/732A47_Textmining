@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gilt for Android '
+p1
+tp2
+(S'Description:'
+p3
+S"Shop Gilt\xe2\x80\x99s daily sales, get notified so you never miss a sale again.Gilt provides access to today\xe2\x80\x99s best labels and experiences at up to 60% off. Download Gilt for Android today to shop styles for women, men, children, home\xe2\x80\x94wherever, whenever. Plus, enjoy mobile-exclusive sales, daily deals, and special offers. WITH GILT FOR ANDROID YOU CANShop QuicklyFast, seamless checkout means super-speedy shopping anytime, everywhere.Never Miss a SaleGet real-time alerts when Gilt sales start and check upcoming sales.Get Instant Insider AccessGilt on the Go allows you to browse and see what inspires you before becoming a member; you can register at the time of purchase. See Every DetailLarge swipe-able images highlight product details and promote quick product comparisons.YOU\xe2\x80\x99RE INVITED All sales take place exclusively on Gilt. The full selection of men's, women's, children's and home merchandise is always available at the start of the sale.  Each sale lasts a limited time and features hand-selected styles.  Be sure to sign in early and grab your items quickly!TELL US WHAT YOU THINK We would love to hear what you think about our app. Email us your feedback, suggestions, questions at android@gilt.comPRIVACY POLICYhttp://www.gilt.com/company/privacyRecent changes:New in v2.0.4:* Keep listening your music. The app will no longer interrupt your jam.* New controls over your notifications. \xc2\xa0Shut them off or keep them on so you never miss a sale.* Removed some bugs - We didn't think you'd miss 'em.* Now more stable on Motorola devices - less crashes!"
+p4
+tp5
+tp6
+.

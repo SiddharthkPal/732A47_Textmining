@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'eBay Kleinanzeigen for Germany '
+p1
+tp2
+(S'Description:'
+p3
+S'*Perfect for searching and posting free classified ads in your neighborhood in Germany. No matter if it\'s a used car, a flat for rent, second-hand furniture, a new job, or stuff for the kids. With the eBay Kleinanzeigen app, you can find over 4 million ads in more than 280 categories -\xc2\xad for free. Install the free app now and get started! *Features*[\xe2\x9c\x94] Post your ads for free----> Select a category, write a description, take a picture, and you\xe2\x80\x99re ready to go [\xe2\x9c\x94] Find ads near you----> Choose your location or use GPS to see all ads nearby [\xe2\x9c\x94] Always up-to-date----> The latest ads from your neighborhood wherever you are*In case of suggestions or problems, you can send us e-mails to androidsupport@ebay-kleinanzeigen.de or call us at 033203/851555 (available on weekdays from 10.00 am to 6.00 pm)* *In these categories, you can find, sell, buy, swap, and give away almost anything*\xe2\x80\xa2 Cars, bicycles & boats \xe2\x80\xa2 Family, baby & kids stuff \xe2\x80\xa2 Leisure, hobby & community \xe2\x80\xa2 Home & garden \xe2\x80\xa2 Jobs \xe2\x80\xa2 Flats & houses \xe2\x80\xa2 Pets \xe2\x80\xa2 Multimedia & electronics \xe2\x80\xa2 Music, film & books \xe2\x80\xa2 Fashion & beauty \xe2\x80\xa2 Tickets \xe2\x80\xa2 Free stuff & stuff to swap/trade \xe2\x80\xa2 Classes & lessonsIn case of suggestions or problems, you can send us e-mails to androidsupport@ebay-kleinanzeigen.de or call us at 033203/851555 (available on workdays from 10.00 to 12.00 am and from 2.00 to 5.00 pm)Recent changes:- New location screen with map view- Removed no longer required permissions ("Phone State" and "WIFI-Connections")- Fixed problem with repeating ads in search- Fixes for location search- Fix for the problem with rotated photos in picture upload- Further fixes of crashesIn case of further suggestions or problems, you can send us e-mails to androidsupport@ebay-kleinanzeigen.de or call us at 033203/851555 (available weekdays from 10.00 am to 6.00 pm)'
+p4
+tp5
+tp6
+.

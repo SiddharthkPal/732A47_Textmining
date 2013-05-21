@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LibriVox Audio Books Free '
+p1
+tp2
+(S'Description:'
+p3
+S"LibriVox Audio Books provides free access to over 6,000 audiobooks.  Each audiobook can be streamed over the internet or downloaded for later use without any charge.   The LibriVox Audio Books app includes listings for new recordings, featuring classic best sellers and out of print treasures.Audio books from LibriVox are free thanks to the dedicated work of hundreds of volunteers who record, edit and distribute the books.  New releases are prepared daily, and the entire catalog spans the breadth of world literature, including novels, history, biography, short stories, poetry and more in both fiction and non-fiction.The LibriVox audio book app makes it easy to search the LibriVox catalog of free audio books.  You can see the most popular books, browse by title, author or genre, look at new recordings, or search by keyword.  This app allows you to stop playback with a sleep timer, and unlimited bookmarks are available for each book.  You can save and listen to as many books as you like - all for free!  In addition to the LibriVox collection, the app provides access to other libraries, including thousands of old time radio dramas.This is a BookDesign app.  For more information visit www.bookdesign.biz.Recent changes:New ratings system!  View other's evaluation of the book, and share your own.Support for unlimited bookmarksSleep timerSee other books by the same authorSync favorite books across multiple devicesOptional Facebook sharing"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Guitar - Virtual Guitar Pro '
+p1
+tp2
+(S'Description:'
+p3
+S'It\'s an electronic programmable guitar. Stylish, portable and practical, it is suitable for the students, for the ones who want to play with it, for entertaining friends, to amaze your partner, \xe2\x80\xa6 Beware of imitation!\xe2\x80\xa2 Simple and complete Everyone can play, no corns on your fingertips, no complicate finger positions. Expert guitarists can always show their abilities, arpegging thanks to multitouch! \xe2\x80\xa2 Always with you On the beach, at a party, on the street, every moment is right for a serenade, karaoke or some jammin\'. You have a guitar in your pocket! \xe2\x80\xa2 Discreet Wear your earphones and practice on arpeggios and tablature. You will not bother anyone and no one will complain with you! \xe2\x80\xa2 A lot of songs are ready to be played!Choose an on-line chords sequence, or set it by yourself, save it on your device and share it with the world! Every time you touch the big chords-holder button, you switch sequentially between the chords. \xe2\x80\xa2 Shake... \xe2\x80\xa6 to play the chords! \xe2\x80\xa2 Clean or Distorted? Touching the "distortion" button you get the distortion effect. \xe2\x80\xa2 Stopped Chords Touching the STOP button you can immediately stop the chords. By keeping it pressed you get the "stopped chords" effect. \xe2\x80\xa2 More than 100 available chords Combine them to create new songs. All the chords that you need are in your hand! \xe2\x80\xa2 Power Chords included! Power Chords make VirtualGuitar suitable also for Rock, Heavy Metal and every genre where a distorted guitar is used. \xe2\x80\xa2 High Res Graphic, HD Sounds, hyper-realistic The graphic is optimized for the HD Display. The sounds are uncompressed. The chords truly vibrate! \xe2\x80\xa2 Free! You don\'t have to spend money thank\'s to the Ad support! \xe2\x80\xa2 Tips! For more informations and "how to" read the integrated help section. Connect your device to an external speaker for a better sound.Recent changes:- Virtual Guitar goes PRO! We added for FREE the distortion and the stopped chords effects; Power Chords has also been added- Now is possible to search a song in the songs list- Improved speed and app performance- Improved compatibility with tablet and phones- Added lefty mode for left handed people- Is now possible to enable and disable the animations- Minor bug fix- It\'s now possible to see and manage the songs that has been sent from your device'
+p4
+tp5
+tp6
+.

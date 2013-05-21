@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Santa Biblia Reina Valera 1960 '
+p1
+tp2
+(S'Description:'
+p3
+S'La Santa Biblia "Reina Valera" con AUDIO.Es totalmente en espa\xc3\xb1ol, clasificada en:- El Antiguo Testamento- El Nuevo Testamento- El Pentateuco- Libros Hist\xc3\xb3ricos- Libros Po\xc3\xa9ticos- Profetas Mayores- Profetas Menores- Los Evangelios- Ayuda BiblicaPosee funcionalidades como:- Agregar vers\xc3\xadculos a favoritos- Crear notas a los vers\xc3\xadculos- Buscador de palabras, frases completas o parciales- Pan de vida- Compartir vers\xc3\xadculos con los contactos por: Correo, SMS, Facebook, Twiter, etc.- Widget para el escritorio- Configuraci\xc3\xb3n de tama\xc3\xb1o de fuentes de t\xc3\xadtulos- Configuraci\xc3\xb3n de tama\xc3\xb1o de fuentes de vers\xc3\xadculos- Incluye opci\xc3\xb3n de audio para todos los cap\xc3\xadtulos de la biblia (Requiere Internet).- Leer las notas en modo "Solo lectura".- No requiere conexi\xc3\xb3n a Internet para su funcionamiento.- Contiene un breve resumen explicativo de cada libro.- Dise\xc3\xb1o e interfaz gr\xc3\xa1fica agradable, oscura para el ahorro de bateria.- Mover a la tarjeta externa SD. Web:http://www.lmontt.comFacebook:http://www.facebook.com/biblia.androidTwitter:https://twitter.com/#!/BibliaAndroidRecent changes:v5.3Nuevo dise\xc3\xb1o para mejorar la navegaci\xc3\xb3n de la aplicaci\xc3\xb3n.Nota: Para visualizar el widget debes pasar la app a la memoria interna del tel\xc3\xa9fono.Actualizaci\xc3\xb3n disponible desde Android 2.2+v5.4Correcci\xc3\xb3n de algunos nombres de libros que se visualizaban en ingles.'
+p4
+tp5
+tp6
+.

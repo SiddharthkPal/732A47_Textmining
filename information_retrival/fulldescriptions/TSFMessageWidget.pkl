@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TSF Message Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'TSF Message widget is TSF Shell unique 3D plugin which has pretty cool animation effect and can view & send message in a special way.Instruction:========================1. Before opening the message envelope, you could view the brief content of the recent messages and the number of the unread message.2. When opening the message envelope, you could view the content of the recent message, sending time, sender and its picture.  3. When opening the message envelope, you could reply by clicking the message, and you could click \xe2\x80\x9c+\xe2\x80\x9d button to create a new message.4. When opening the message envelope, you could quickly return to the first message by clicking the envelope cover or the top of the message widget.5. When opening the message envelope, if scrolling the list of messages to the top and you keep on scrolling down the message you could close the message envelope.Notice:========================1.This widget must run on the TSF Shell.TSF Shell download address: https://play.google.com/store/apps/details?id=com.tsf.shell2.Please rate if you like our application. Please kindly email to service@tsfui.com if you have any query or suggestion on our software.3.This widget must run on the TSF Shell 1.9.9+We are sorry for the inconvenience caused to you.Application permission:========================1. Read the messageView the message, display on the widget.2. View the contactsView the sender of the message whether comes from the contacts.Keyword: TSF Shell , TSF Message , TSF \xe7\x9f\xad\xe4\xbf\xa1 \xef\xbc\x8cTSF\xe4\xbf\xa1\xe6\x81\xaf \xef\xbc\x8cTSF 3d widgetRecent changes:Ver:1.61.To change touch range.Ver:1.51.To change the visual effects'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nest Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Remotely control your Nest Learning Thermostat*** Now works on Android tablets ***Control your home's temperature from your Android phone with the Nest Mobile app. Last-minute trip? Change the temperature from the ski slopes. Coming home early to a cold house? Turn up the heat on your way. The Nest Mobile app allows you to adjust your Nest Learning Thermostat from anywhere.Don't forget: the Nest Mobile app can only be used with a Nest Learning Thermostat. To buy a Nest thermostat, go to nest.com. - Check and change your Nest's temperature remotely - View and edit your Nest's schedule remotely - View when and for how long your heating and cooling system was on for the last 10 days  - Access the settings of your home's Nest Learning Thermostat  - Find out if you're saving energy with the Nest Leaf - Enable unique System Match energy-saving features tuned for your home and system typeRecent changes:- Schedule the fan to turn on daily, for a few minutes each hour, or on a timer.- View Sunblock and Cool to Dry in Energy History.- Tap and hold the tick on the thermostat icon to change the temp (in addition to tapping the upper or lower half of the icon).- Get messages for Filter Reminders. - Get messages for Seasonal Savings and Rush Hour Rewards and see their effect in Energy History (available with certain utility programs).- Overall improvements and bug fixes."
+p4
+tp5
+tp6
+.

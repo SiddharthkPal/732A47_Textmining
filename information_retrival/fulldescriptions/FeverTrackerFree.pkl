@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fever Tracker Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Suppose your doctor tells you to keep a track of your fever, but you may find it difficult to have a diary to keep a log all the time. So you can just get this App and make sure you have all your readings for ready reference to discuss and analyze with your doctor anytime you want. All your readings will be safe in your mobile!Now you don\'t need to rummage through pages to fill in your temperature, just get this app in your mobile, and store the temperature readings time to time.Keep as many Log entries as you want. For you, For your family, this app is for everyone!!\xe2\x97\x8f\tNow keep track of your and your family\'s health. Use this Application to Track and record their body temperature if they have Fever.\xe2\x97\x8f\tEnter your details like Name, Age, Gender, Blood Group, Height, Weight (SI/US units) etc.\xe2\x97\x8f\tEnter your and your family member\'s daily / periodic body temperature readings.\xe2\x97\x8f\tYou and your doctor can analyze the test history accurately any time it\'s required.\xe2\x97\x8f\tView the graphical representation of your body temperature changes.\xe2\x97\x8f\tMonitor the progress of your or your loved one\'s health.\xe2\x97\x8f\tDisplays body temperature regulation, measurement and causes for fever.\xe2\x97\x8f\tA list of symptoms and useful tips to help you improve your body temperature are also available in the app.You definitely cannot run to a doctor every time you have a little fever but you can and should keep a track of your temperature throughout the day, the doctor always asks for a record that you can recap for him! Fever tracker uses a simple user interface that is easy to understand and use. It is a very handy app that will help you improve your and your family\'s health! "Please don\'t leave negative remarks/complaints on this page. We do appreciate suggestions to make the application work better and would love to sort out the issues and your complaints.Our developers work hard to give you the best experience with our apps.If you are not satisfied with our application, mail your reviews, complaints, and suggestions to- support@migital.com "fever, tracker, temperature, body, family, ill, sick, doctor, reference, quick, easy, graphical, graph, mobile, efficient, health, save'
+p4
+tp5
+tp6
+.

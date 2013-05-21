@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shop India '
+p1
+tp2
+(S'Description:'
+p3
+S'Mobile app for shopping In India...!!Have all the Popular Sites in our country....!!Swipe Enabled UI...!!List Of Sites:Apparels:MyntraYebhi,Yepme,Jabong,Fashionandyou.Electronics:EbayFlipkartNaaptolSnapdealFuturebazaarFootwear:BestylishBagItTodayRediff ShopAdidasFreeCultrBuy n Sell:OlxQuikrCardekhoDealsandyouSulekhaMisc:PaytmFnpFastrackArchiesIndiaPlazaBasics LifeTradusShopcluesinfibeamjunglee(amazon)Speed Of the app depends on your internet speed!!Please Give rating and feedback!!Happy Shopping!!!!'
+p4
+tp5
+tp6
+.

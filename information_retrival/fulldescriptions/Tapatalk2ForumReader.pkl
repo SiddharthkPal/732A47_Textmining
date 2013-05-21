@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tapatalk 2 - Forum Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"The only and the best fully functional forum app in the Market, endorsed by over 50,000 of forums worldwide. 4.5/5 stars reviewed by ten thousands of power fellows. Why not give it a try?Online Communities at Your FingertipsIf you have ever tried to visit a forum using an Internet browser on your Android device you know what a nightmare it can be. The multitude of layouts you will encounter can have you scrolling, pinching, zooming, and swiping until your fingers are numb. Enter the Tapatalk Forum App.Tapatalk houses over 50,000 of the most popular public forums right inside the app. From online games to technology, animals to extreme couponing, there is a forum out there to suit your interests. Browse the 13 categories or search for a particular forum in Tapatalk's easy-to-use interface. You can find anything and everything with this app.Once you have found the forums you want to read it is easy to add them to your favorites for quicker access. Then you simply log in to the app and read your private messages or reply to current topics. You can also easily start a thread about something that piques your interest. You can also mark the topics you care about on your forums.Tapatalk contains all the features and capabilities found in your favorite browser but in a simple, straight-forward delivery. Easily see who is online, view board statistics, and even user profiles all without waiting for your phone's browser to connect to the Internet. Give it a try today.Recent changes:version 2.4.131. Fixed crash when viewing image/vedio.version 2.4.121. In-app YouTube Player - watch video and browse discussion at the same time!2. Bug fix - Promoted Topic over impression issue3. Ability to disable forum broadcast via Push Notification4. Other bug fixesversion 2.4.11Bug Fixes:- Remove Favorites.- Tapatalk ID Change Password- Uploaded Image not shown issue- Other bug fixes and UI improvement"
+p4
+tp5
+tp6
+.

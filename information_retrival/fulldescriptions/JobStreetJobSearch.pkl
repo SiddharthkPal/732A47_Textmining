@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'JobStreet Job Search '
+p1
+tp2
+(S'Description:'
+p3
+S'The JobStreet Android application allows you to find jobs easily from JobStreet.com any time and any where. You can also apply to jobs with 1 click once you have signed up for a JobStreet account at www.jobstreet.com. JobStreet.com is the leading job site in South East Asia, with operations across Singapore, Malaysia, Philippines, Indonesia, Thailand, Vietnam, India and Japan. Over 80 thousand employers use JobStreet.com to find employees, and over 10 million jobseekers find employment through JobStreet.com.Recent changes:- New country: Vietnam'
+p4
+tp5
+tp6
+.

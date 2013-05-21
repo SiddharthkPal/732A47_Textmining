@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sinonimi e Contrari '
+p1
+tp2
+(S'Description:'
+p3
+S'Versione Android totalmente gratuita e senza pubblicit\xc3\xa0 del famoso "Sinonimi Master" presente su internet da molti anni.Tutto il database \xc3\xa8 consultabile offline senza connesione internet, \xc3\xa8 sopportato il pich to zoom per una migliore fruizione dei contenuti.PS: i permessi richiesti sono dovuti al componente web necessario alla visualizzazione dei contenuti anche se non sar\xc3\xa0 inviato o scaricato nessun dato.Recent changes:- Aggiunto sinonimi fabbro (grazie x la segnalazione)- Corretto bug coniugatore di verbi- Nuova pagina impostazioni- Aggiunto Coniugatore di verbi regolari***Su alcuni dispositivi potrebbe non funzionare la ricerca delle parole, il problema si presenta su tutti i device Android 4.0 ICS che non accettano i collegamenti multipli all\'interno della stessa pagina (bug conosciuto da Google)- Aggiunta la possibilit\xc3\xa0 di disattivare la schermata introduttiva come segnalato da un utente nei commenti.'
+p4
+tp5
+tp6
+.

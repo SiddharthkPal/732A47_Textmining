@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bouzebal '
+p1
+tp2
+(S'Description:'
+p3
+S"Bouzebal, moroccan trolls, Brobl\xc3\xa9m A3chiri, Humour et fun \xc3\xa0 la marocaine. Application Android gratuite contenant des images bouzbal mis \xc3\xa0 jour par Internet.Vous pouvez partager les images de l'application Bouzebal sur Facebook, Twitter, WhatsApp, SMS, Gmail...Recent changes:Ajout d'une option qui permet de partager les images de l'application Bouzebal sur Facebook, Twitter, SMS, Gmail..."
+p4
+tp5
+tp6
+.

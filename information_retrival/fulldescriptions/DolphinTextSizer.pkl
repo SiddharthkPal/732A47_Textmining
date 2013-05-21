@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dolphin: Text Sizer '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x9cWhen I want to show something to my granddad, this is come handy.\xe2\x80\x9dQuickly adjust font size to help you browse small text with ease within Dolphin Browser\xef\xbc\x88Formerly Dolphin Browser HD\xef\xbc\x89. Web/Internet browsing and Internet browsing has never been so easy; resize, magnify, and change webpage and webpage text with just a click of a button.  -Helps you quickly adjust font size of the web page you are visiting.-You can adjust the text size on a web page from small to huge to fit your mobile browsing need with ease. Dolphin Text Sizer is an Add-on for Dolphin Browser \xef\xbc\x88Formerly Dolphin Browser HD\xef\xbc\x89and must be used with Dolphin Browser \xef\xbc\x88Formerly Dolphin Browser HD\xef\xbc\x89 which is the most popular web browser. Search \xe2\x80\x9cDolphin Browser \xe2\x80\x9d in Android Market or download from here. http://bit.ly/D-AndroidOther popular Dolphin Add-ons:\xe2\x80\xa2 Bookmark to SD\xe2\x80\xa2 Dolphin YouTube Search\xe2\x80\xa2 Web to PDF\xe2\x80\xa2 Dolphin Google Services\xe2\x80\xa2 Dolphin Screen CutJoin the Dolphin community!Facebook: http://www.facebook.com/DolphinFans Twitter: https://twitter.com/DolphinBrowserAny further suggestions, please contact at support@dolphin-browser.com.Recent changes:* Fixed the overlap problem between text color and background color* Changed the style of Color Splash'
+p4
+tp5
+tp6
+.

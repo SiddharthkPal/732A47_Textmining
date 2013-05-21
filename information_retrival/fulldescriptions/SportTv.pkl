@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sport TV '
+p1
+tp2
+(S'Description:'
+p3
+S"Sport TV is the best app for watching live sport channels ( Only Not Crypted Channels )It includes now sport channels of 12 countries : - Bahrain : Bahrain Sports- China : CCTV 5 Sports- France : Trace Sports- Italy : Sport Italia 24 , Telegromagna Sport- Kuwait : KTV 3 Sport- Morocco : Arriadia - Qatar : Al Kass TV- Russia : Russia Sport 1 , Russia Sport 2- Saudi Arabia : Saudi Sport 1- Spain : Real Madrid TV- Turkey : NTV Spor , TRT 3 Spor- United Arab Emirates : Abu Dhabi Sports 1 , Dubai Racing , Dubai Sports 3If you like the Sport TV please donate us by buying 'Sport TV Pro'Sport TV \xc2\xa9 Mejdeutch AppsEmail : contact@mejdeutchapps.comSite Web : http://mejdeutchapps.comFacebook Page : https://www.facebook.com/MejdeutchAppsRecent changes:Sport TV with a new look , more countries , more channels and totally freeEnjoy"
+p4
+tp5
+tp6
+.

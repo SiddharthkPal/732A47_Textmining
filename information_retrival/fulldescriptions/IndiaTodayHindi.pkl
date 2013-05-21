@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'India Today Hindi '
+p1
+tp2
+(S'Description:'
+p3
+S'India Today Hindi is the leading national news magazine in the Hindi market. India Today keeps track of each development that would trigger change in the vast Hindi heartland. India Today Hindi is solid on its integrity and ability to bring unbiased and incisive perspective to the region. Breaking news and shaping opinion, it is now a household name and the flagship brand of India\xe2\x80\x99s leading multidimensional media group. India Today publishes its Hindi edition keeping in mind the intricacies of each part of North India and not allowing it to be subsumed in the national discourse thereby giving each region its due attention. Be it Uttar Pradesh, Uttarakhand, Bihar, Jharkhand, Madhya Pradesh, Chhattisgarh and Delhi, readers from these regions will find the news that matters to them.Magazine Subscriptions are available for purchase inside this app.Three months subscription - $3.99  Six months subscription - $6.99  One year subscription - $9.99  Please go to www.magzter.com for privacy policy and terms of use.'
+p4
+tp5
+tp6
+.

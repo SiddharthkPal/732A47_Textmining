@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn Algebra '
+p1
+tp2
+(S'Description:'
+p3
+S'Want to learn algebra? Algebra is used every day in any profession and chances are, you\xe2\x80\x99ll run into algebra problems throughout your life! Any of the following sound familiar?- Trouble paying attention in class- Improper instruction- General disinterest in mathDon\xe2\x80\x99t worry! Come finals day, you\xe2\x80\x99ll be prepared with our comprehensive algebra app. Our app features everything you\xe2\x80\x99ll need to learn algebra, from an all-inclusive algebra textbook to a number of procedural problem generators to cement your knowledge.Features:- Abridged algebra textbook, covering many aspects of the subject- Procedural problem generators, ensuring you will not encounter the same problem twice- Problem explanations, demonstrating step-by-step how to do each problem- Quicknotes, reviewing entire chapters in minutes- Intuitive graphing interface, teaching proper graphing methods- Statistics tracking, helping you identify your weaknesses Plus, new chapters are added all the time!Keywords: learn algebra, algebra, math, free, graphing, algebra textbook, teach algebra, algebra tutor, algebra practice, algebra problems, review algebra, study algebra, algebra prep, algebra cheat sheet, algebra formulas, algebra notes, algebra quicknotes, pre-algebra, algebra 2Recent changes:Learn Algebra 6.2 (5/2/13):- Bug fixesLearn Algebra 6.1 (5/2/13):- Crash and bug fixesLearn Algebra 6.0 (5/1/13):- Chapter 8- Swipe down to hide keyboardLearn Algebra 5.1 (1/18/13):- Lesson and problem fixes- "Report problem" featureLearn Algebra 5.0 (1/8/13):- Chapter 7- Improved graphing interface- Cleaner About pageLearn Algebra 4.0 (12/18/12):- Chapter 6- Update detection- Problem fixesLearn Algebra 3.1 (12/7/12):- Problem fixes'
+p4
+tp5
+tp6
+.

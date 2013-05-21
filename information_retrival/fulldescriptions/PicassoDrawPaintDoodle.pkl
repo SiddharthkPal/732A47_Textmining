@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Picasso - Draw, Paint, Doodle! '
+p1
+tp2
+(S'Description:'
+p3
+S'Indulge your creative side with Picasso - Draw, Paint, Doodle.Decorate your photos with hearts, smileys, and comments.Draw in a mustache. Paint a castle in the background. Or doodle your way into abstract art.***Push menu to get Load, Save, Share Options******Try our Exclusive Brush Preview Mode! You can preview exactlywhat your brush size and effect will look like before you paint.When selecting your brush or eraser, use the preview panel in the middle tofreely test out what it will look like before you click Ok***(Only Android painting app with this must-have feature!)Unleash the Picasso in you with Picasso - Draw, Paint, Doodle*Pinch to Zoom for all devices with Android 3.0 or greater.*5 Undos including undo of Background color change(It will clear your currentdrawing when you change background. Use Undo to get it back)*Load your own Photo from Gallery or continue your old drawing by loading from Picasso***Push menu to get Load, Save, Share Options****Trying our Super Fun Random and Glow Mode! Use them together for double the fun~! (Best with Black background)*Fun to use and easy to master.*Share your masterpiece using Facebook, Tweeter, Email, and more.(requires those application to be installed on your device)***Push menu to get Load, Save, Share Options***Optimized for Phones and Tablets.Keyword: Paint, Draw, Doodle, Drawing Pad, Sketch, Fun, Glow, Easy, Masterpiece, Painting, Photo, Picture, Touch, Finger paint, Coloring, Color, PaintBrush, Painter, Free Sketch, Photo, Fun, Photography, Sketch Pad, Photo EditingRecent changes:Version 2.0.1Unresponsive undo for Zoom enabled devices fixed.Version 2.0Finally Pinch-Zoom comes to Picasso on devices with Android 3.0 or greater! Draw more precisely than ever before!Not supported on Android lower than 3.0, but no more crashes. It works normally without zoom function.Tablet "Load from Picasso" Crash fixed.'
+p4
+tp5
+tp6
+.

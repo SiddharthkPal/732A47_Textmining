@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yakaz - Free Classifieds '
+p1
+tp2
+(S'Description:'
+p3
+S"Yakaz lets you post and search real-time free local listings. It's the best place to find a car, a sofa, a babysitter right at your doorstep.- Discover what your neighbors are selling, saying or looking for.- Search millions of classifieds from the best websites.- Post ads easily from your Android phone for free.- Contact sellers directly.- Create your own trusted community.This app is the perfect way to find the hidden gems of your neighborhood.This Android app is the perfect way to find the hidden gems of your neighborhood.Sell, buy and search all local classifieds for free: real-estate, housing, apartment, flat, cars, motorbikes, jobs, pets and many more.Recent changes:-Fixed network connection issue"
+p4
+tp5
+tp6
+.

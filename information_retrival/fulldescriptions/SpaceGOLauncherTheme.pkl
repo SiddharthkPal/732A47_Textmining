@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Space - GO Launcher Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Premium theme for FREE!'
+p4
+tp5
+tp6
+.

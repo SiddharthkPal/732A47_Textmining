@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iMediaShare Lite '
+p1
+tp2
+(S'Description:'
+p3
+S"Play videos from your mobile to your HD TV! No box, no cables, no TV apps! Just pick a video and tap to play!Any time, any place, any screen - with iMediaShare in your pocket watch favourite videos, photos and music anywhere you happen to be, easily switching across to the screen size of your choice - phone, tablet or TV.A great selection to pick from - have fun with YouTube and Vimeo, stay informed with CNN or CNBC, laugh with Break, learn with Discovery or simply relax with family and friends, and the videos of happy times together.Share with friends and family - stream personal and online videos, photos and music to a large screen TV nearby - so that everyone can see.Upgrade to the the full edition of iMediaShare to get:\xe2\x9c\xa6 More online video channels in HD\xe2\x9c\xa6 Ad-free experience\xe2\x9c\xa6 Video playback from YouTube links\xe2\x9c\xa6 Video playback of arbitrary mpeg files from the internet and other appsSupported players: \xe2\x9c\xa6 Televisions from Samsung Smart TV (w/ AllShare), LG, Sony BRAVIA Internet TV, Panasonic Viera, Toshiba and many others. \xe2\x9c\xa6 Game consoles: Microsoft XBox 360, Sony PlayStation 3 (no remote control).\xe2\x9c\xa6 Network Media Players: Apple TV, Sony Blu-ray, Popcorn Hour, WD TV Live, and many others.\xe2\x9c\xa6 PC/Mac media servers: Twonky, Windows Media Player, and many others.\xe2\x9c\xa6 Other DLNA/UPnP/AirPlay compliant media players.Recent changes:4.55:\xe2\x9c\x93 Fixed critical issue causing force close of the app on some phones4.54:\xe2\x9c\x93 Extended social integration. Now sharing online videos with friends on Twitter and via email\xe2\x9c\x93 Added Settings menu (tablets only) to change Facebook and Wibi accounts settings\xe2\x9c\x93 Now you can review movie synopsis and cast before selecting it for watching; movie playback doesn't start immediately when tapping on movie poster\xe2\x9c\x93 Stability and performance improvements"
+p4
+tp5
+tp6
+.

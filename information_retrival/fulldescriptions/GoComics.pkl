@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GoComics '
+p1
+tp2
+(S'Description:'
+p3
+S"Want funny? Love comics? We've got your fix. The GoComics app, from Universal Uclick, is the mobile comics portal for many of the most popular comic strips worldwide. From iconic favorites like Calvin and Hobbes, Peanuts, Garfield, Doonesbury, Dilbert and Marmaduke to modern favorites like FoxTrot, The Boondocks, Big Nate, Pearls Before Swine and Get Fuzzy, we offer the most diverse set of comic strips and panels in one single app for FREE.The content within this GoComics mobile application updates daily, bringing you the latest work from critically acclaimed creators, Pulitzer Prize-winning political cartoonists and the hottest up-and-coming talents.Within the app, you have the ability to:- Bookmark your favorite comics.- Share comics via social media, e-mail and text/SMS (charges may apply).- Access over 20 years of back issues of comic strips. Read the first-ever Calvin and Hobbes strips! Rediscover Charlie Brown and the Little Red-Headed Girl! Share FoxTrot with a younger generation! See Huey and Riley before The Boondocks became a cult classic!- Leer en espa\xc3\xb1ol. GoComics tiene m\xc3\xa1s de 30 c\xc3\xb3mics que est\xc3\xa1n disponibles para nuestros Espa\xc3\xb1oles fans de habla.- Read our liberal, moderate and conservative editorial/political cartoonists represent that all sides. Collectively, they have won more than 20 Pulitzer Prizes for editorial cartooning.- Gain insight into the comics industry with our blog that's updated multiple times a week.- Check out burgeoning cartoonists before they break out in our Comics Sherpa section.Upgrade to an ad-free experience by going Pro at http://www.gocomics.com/help/proRecent changes:1.0.10 - Minor bug fixes.1.0.9 - Added up/down swipe navigation to Popular and New! comics lists.1.0.8 - Bug fixes.1.0.7 - Minor bug fixes.1.0.6 - Restored up/down swipe functionality to My Comics Page when navigating to My Comics Page from Home page horizontal scroll view.1.0.5 - Added validation for registration input fields to limit character set to match what backend accepts."
+p4
+tp5
+tp6
+.

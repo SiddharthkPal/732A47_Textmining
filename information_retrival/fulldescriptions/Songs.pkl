@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Songs '
+p1
+tp2
+(S'Description:'
+p3
+S'Get the latest and greatest hits from a collection of Bollywood Latest, Classics, Ghazals, Indipop & Punjabi music!Features: - Instantly get access to a huge library of high quality mp3 full songs. - A single click refresh to get the latest content!- No need to buffer & stream! Download on your phone forever!- Download Manager to take care of pausing and cancelling and resuming downloads!- Easiest app to use with the widest catalogue!- Latest songs are now at your fingertips - get them anytime, anywhere. - Browse through numerous categories including Compilations, Pop, Remixes, Ghazals, Love Songs, & Timeless Classics. - Search for songs by Album & Song Title- Updated regularly with the latest music!DISCLAIMER: The content provided in this app is not hosted by us and is available online. We do not upload any songs on our servers. This app is just an organized way to browse and view links available online.Keywords : Songs, songspk,music, gaana , songspk.pk,streamingRecent changes:Fixed File not found errors !'
+p4
+tp5
+tp6
+.

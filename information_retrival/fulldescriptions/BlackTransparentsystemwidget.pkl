@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BlackTransparent system widget '
+p1
+tp2
+(S'Description:'
+p3
+S'BlackTransparent Style widget, supports 4*1, 4*2, 2*1 sizes. It delivers the most accurate weather information from anywhere at any time.GO Weather EX - To Be Your Best Weather Prophet Forever!\xe2\x97\x86How to apply the theme?1. Make sure you have installed the latest version of GO Weather EX2. Open the GO Weather EX->Press the themes->Click the "Installed" Tab->Click the "Widget"3. Find the theme you have installed in "Widget" and click to apply it.4. GO to the launcher homescreen and add the goweatherex system widget\xe2\x97\x86How to add a Systerm Widget?1. Press \xe2\x80\x9cmenu\xe2\x80\x9d- choose \xe2\x80\x9cadd\xe2\x80\x9d-choose \xe2\x80\x9cWidgets\xe2\x80\x9d-Find GO Weather EX2. Make sure you have enough space for placing the widgets'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'pro.medicin.dk '
+p1
+tp2
+(S'Description:'
+p3
+S'App\'en indeholder information om medicin markedsf\xc3\xb8rt i Danmark inklusiv information om tilskud - og udleveringsregler. Informationen er m\xc3\xa5lrettet sundhedsfaglige og svarer til pr\xc3\xa6paratbeskrivelserne i pro.medicin.dk.V\xc3\xa6r opm\xc3\xa6rksom p\xc3\xa5, at data til applikationen skal opdateres hver 14. dag i takt med L\xc3\xa6gemiddelstyrelses "Medicinpriser". Da det er store m\xc3\xa6ngder data, der hentes, anbefaler vi, at du henter data et sted, hvor du har en hurtig internetforbindelse (helst en god wi-fi forbindelse). N\xc3\xa5r data er hentet, ligger de p\xc3\xa5 din telefon og kan tilg\xc3\xa5s uden ventetid.Recent changes:I denne version er indsat en "opdat\xc3\xa9r"- knap, s\xc3\xa5 du kan opdatere, n\xc3\xa5r det passer dig. Du har stadig kun lov til at uds\xc3\xa6tte opdatering fem gange, inden app\xe2\x80\x99en opdaterer af sig selv. \xe2\x80\x9dOpdat\xc3\xa9r\xe2\x80\x9d-knappen finder du nederst p\xc3\xa5 den side, der vises, n\xc3\xa5r du klikker p\xc3\xa5 knappen \xe2\x80\x9dOm medicin.dk\xe2\x80\x9d.'
+p4
+tp5
+tp6
+.

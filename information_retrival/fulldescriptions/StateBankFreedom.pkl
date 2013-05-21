@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'State Bank Freedom '
+p1
+tp2
+(S'Description:'
+p3
+S'!!!! THIS IS THE OFFICIAL STATE BANK MOBILE BANKING APPLICATION !!!!NEW :: DOUBLE TAP the MENUs to enter!Away from home, balance enquiries can be made and/or money sent to the loved ones or bills can be paid anytime 24x7!!! That is what State Bank FreedoM offers - convenient, simple, secure, anytime and anywhere banking.Visit Mobile Banking under Services at http://sbi.co.in for details!Recent changes:1.3.2 - 02    * Backwards compatibility restored    * Menu disappearance issue resolved    * Minor bug-fixes    In case of Black Screen issue, please disable Forced GPU Rendering from Android Settings 1.3.2 - 01    * IMPS Functionality Added    * Keyboard incompatibility issues fixed    * Full touch support functionality added!Now DOUBLE TAP the menus to enter !!'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bonde P\xc3\x83\xc2\xa5 K\xc3\x83\xc2\xb6pet '
+p1
+tp2
+(S'Description:'
+p3
+S'Med appen Bonde P\xc3\xa5 K\xc3\xb6pet kan du snabbt och enkelt ta reda p\xc3\xa5 om maten i butiken kommer fr\xc3\xa5n oss svenska b\xc3\xb6nder. S\xc3\xa5 fungerar det: Tryck p\xc3\xa5 knappen \xe2\x80\x9dScanna streckkod\xe2\x80\x9d. H\xc3\xa5ll telefonen s\xc3\xa5 att streckkoden syns p\xc3\xa5 sk\xc3\xa4rmen. Appen l\xc3\xa4ser d\xc3\xa5 automatiskt av streckkoden och ger dig svar. Det \xc3\xa4r enkelt, en vara som kommer fr\xc3\xa5n en svensk bonde f\xc3\xa5r tummen upp. Om inte s\xc3\xa5 f\xc3\xa5r den tummen ner. I appen kan du ocks\xc3\xa5 s\xc3\xb6ka p\xc3\xa5 specifika varor eller varum\xc3\xa4rken f\xc3\xb6r att l\xc3\xa4sa mer om dem. Om satsningen: Bonde P\xc3\xa5 K\xc3\xb6pet \xc3\xa4r en satsning fr\xc3\xa5n LRF och Sveriges b\xc3\xb6nder. Nu hj\xc3\xa4lper vi konsumenterna att v\xc3\xa4lja r\xc3\xa4tt i matbutiken och verkligen se vilken mat som kommer fr\xc3\xa5n svenska b\xc3\xb6nder och g\xc3\xa5rdar. Schysst f\xc3\xb6r dig, s\xc3\xa4kert f\xc3\xb6r alla och smart f\xc3\xb6r Sverige. Med v\xc3\xa5r egen digitala Bondehylla, sajt med fakta och underh\xc3\xa5llning samt den h\xc3\xa4r appen blir det enklare att veta vad man \xc3\xa4ter. L\xc3\xa4s mer p\xc3\xa5 bondepakopet.se Om LRF Lantbrukarnas Riksf\xc3\xb6rbund, LRF, \xc3\xa4r en partipolitiskt obunden intresse- och f\xc3\xb6retagarorganisation f\xc3\xb6r m\xc3\xa4nniskor och f\xc3\xb6retag inom de gr\xc3\xb6na n\xc3\xa4ringarna. LRFs drygt 171 000 medlemmar driver tillsammans 90 000 f\xc3\xb6retag och de gr\xc3\xb6na n\xc3\xa4ringarna st\xc3\xa5r f\xc3\xb6r knappt 7 procent av Sveriges BNP. LRF ska medverka till utveckling av f\xc3\xb6retag och f\xc3\xb6retagare med jord, skog, tr\xc3\xa4dg\xc3\xa5rd och landsbygdens milj\xc3\xb6, s\xc3\xa5 att de kan f\xc3\xb6rverkliga sina ambitioner om tillv\xc3\xa4xt, l\xc3\xb6nsamhet och attraktionskraft.Recent changes:Uppdaterad databas med fler produkterSt\xc3\xb6d f\xc3\xb6r installation p\xc3\xa5 SD-kortUppdaterade hj\xc3\xa4lptexter'
+p4
+tp5
+tp6
+.

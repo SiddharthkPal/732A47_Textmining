@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TouchUp Lite - Photo Editor '
+p1
+tp2
+(S'Description:'
+p3
+S'** NOTE: TouchUp Lite now supports saving, it is fully functional, though some advanced features are disabled **Maybe the easiest Photo Editor you\'ll ever use... Quick, clean User Interface lets you edit photos in a matter of seconds. In terms of ease of use, this is hands down the best Photo Editing application on Android today! Optimized for all screen sizes, it runs great on a handset, but feels absolutely perfect with your Tablet device. Gone are the clunky buttons, over-designed interfaces and boring menu\'s. We\'ve created a simple, lightweight interface that gets out of your way and lets you work with ease.Simple to use, but still powerful.Features Include: * Load pictures from Camera or Library* Red Eye Removal* Pimple / Blemish Removal)* Sharpness / Blur* Contrast / Brightness * Hue / Saturation * Rotation / Flip * Cropping * Resize on Save* Unlimited Undo / Redo * Extremely stable, no freezing/crashing TouchUp Pro has a number of "1-click" effects: * Auto-Contrast* Auto Brightness* Vintage Photo* B & W * Vignette * Sepia * Red Pop * Dark Pop * Deep Purple * Green Tint * High Contrast * Low Saturation * High Saturation All effects are stackable. Combine them to make a ton of different looks. We also offer a number of "Advanced Effects" which you can fine-tune:* Advanced Vignette* Advanced Vintage Photo* Advanced Sepia* RGB Channels[edit, photos, edit photos, edit pics, pictures, camera, sepia, redeye, red eye, crop, rotate, fx, effects, sharpen images, sharpen, picsay]'
+p4
+tp5
+tp6
+.

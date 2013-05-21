@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'XDA-Developers '
+p1
+tp2
+(S'Description:'
+p3
+S'The world famous XDA forums formatted for your Android phone! With this app you can browse the forums, read, post, send private messages, and more. We now have a Premium app that removes the ads, plus offers new features.Recent changes:2.0.1: - bug fix2.0.0:- Many UI changes to better coordinate with ICS- Long-press PM to mark unread- Bug fixes, performance improvements- To add a Favorite topic or forum, long press any topic or forum and hit "Subscribe". It will then show up in the Favorites tab.'
+p4
+tp5
+tp6
+.

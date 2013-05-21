@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo Editor for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'Photo Editor for Android is a simple and free image editor. With this application, users can turn their mobile device into a small studio for editing photos.Key features:- Sepia effect (a photo in an old-style);- The effect of the sketch;- The effect of blurring;- Control the brightness of the image;- Black and white picture;- Color balance;- Coups to 90 \xc2\xb0;- Mirroring (horizontal and vertical);- Function of reflection;- Rounding corners;- The imposition of noise;- Spray function;- Function of the relief;- Function of exposure;- Function of lubrication;- Function glow;- The ability to undo the last action;- Preservation of the obtained results.Recent changes:- Added drawing;- Fixed minor bugs.'
+p4
+tp5
+tp6
+.

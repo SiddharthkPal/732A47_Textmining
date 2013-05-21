@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Reader for Google News '
+p1
+tp2
+(S'Description:'
+p3
+S'Reader for Google News allow you to read news from Google in a clean and elegant way with the native look and feel. It support all countries and regions in google newsRecent changes:Remove unused permission and ad network'
+p4
+tp5
+tp6
+.

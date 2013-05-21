@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PES 13 - Soundtrack '
+p1
+tp2
+(S'Description:'
+p3
+S'PES 13 Soundtrack -> There are 9 songs to make your device even with the face of the new gaming sensation!PES 2013 - Pro Evolution Soccer* Does not require internet connection!* Interface simple and straightforward!Any suggestions, questions, complaints and problems, please contact us before making the qualification.ATTENTION: The name of the game, characters, logo and other details were created by their respective vendors.ALL RIGHTS MAINTAINED! Belonging IMAGES TO KONAMI.Pro Evolution Soccer 2013 (abbreviated to PES 2013 and known officially as World Asia Soccer: Winning Eleven 2013) is a professional football game and the twelfth edition of the Pro Evolution Soccer series developed and published by Konami. The game was officially announced by Konami on April 18, 2012. The game has been confirmed for the following platforms: PlayStation 3, Xbox 360, PC, PlayStation 2, PSP, Nintendo 3DS, and Nintendo Wii'
+p4
+tp5
+tp6
+.

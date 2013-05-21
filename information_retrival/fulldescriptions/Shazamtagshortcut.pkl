@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shazam tag shortcut '
+p1
+tp2
+(S'Description:'
+p3
+S'Often when I hear a nice song in a commercial, I want to find out what it\'s called. But when I start Shazam, it first shows me a splash screen, or when it was already running I\'m often lost in the menu. When I\'m finally ready to tag the song the commercial is already finished.Because of this, I made this shortcut. Only one press on the icon, and Shazam starts tagging immediately!Installation instructions:This isn\'t an app, but a shortcut, so it isn\'t listed in te application list. To create a shortcut, touch the plus sign on your homescreen or long press your home screen, click add shortcut and press the Shazam tag shortcut icon.You need to have Shazam preinstalled.Tested with the latest versions of Shazam and Shazam EncoreRecent changes:v1.1:- Changed label text from "Tag with Shazam" to "Tag now!"- Now works with both Shazam and Shazam Encore'
+p4
+tp5
+tp6
+.

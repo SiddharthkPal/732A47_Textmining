@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'World Map 2013 FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"*** NEW RELEASE ***View a large quick reference World Map on your Android today!Contains Up-To-Date World Maps!Did you know?-------------South Sudan became the world's 195th country following separation from Sudan on 9 July 2011Features---------- Political World Map- No internet connection is required. The map is stored on your Android and can be viewed Offline.A quick reference map to quickly find countries and cites like Australia, Sydney, Melbourne, Japan, Tokyo, China, Shanghai, USA, California, New York, Europe and More!Users Love World Map 2013!\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85This app is handy. Nice to open it when I want to know where a country is located on this BIG globe!!!- Vesta\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Very simple to use, and much easier than Google Maps for quick reference. No problems, Droid RAZR.- Crystal\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85It is really very useful application. it must be tried by students.- rajendraExplore the World Map on your Android today!Try it for Free!Recent changes:App can now be saved to device's SD card"
+p4
+tp5
+tp6
+.

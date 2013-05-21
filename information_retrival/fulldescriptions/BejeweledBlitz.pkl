@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bejeweled Blitz '
+p1
+tp2
+(S'Description:'
+p3
+S"*World's #1 Puzzle Game!*Supports Both Phone and Tablet Devices*New Users Get 100,000 Coins FreeTreat yourself to an exciting take on the world's #1 puzzle game from PopCap! Play for free on your Android as you match and detonate as many gems as you can in 60 action-packed seconds and compete with Facebook friends. Match 3 or more and create cascades of fun with Flame gems, Star gems, and Hypercubes. Add up to three Boosts at a time plus powerful Rare Gems to send your score soaring, and dominate the weekly leaderboards!Game FeaturesBoost your fun with Detonators, Scramblers and Multipliers. Match as fast as you can to earn Blazing Speed and blow gems away.Get a \xe2\x80\x98Last Hurrah\xe2\x80\x99 to pile up points even after your time expires. \xe2\x80\xa8Feast your eyes and ears on high-definition graphics and sound, optimized for Android devices. \xe2\x80\xa8Challenge your Facebook friends to beat your best score and dominate the weekly tournament leaderboards. \xe2\x80\xa8Propel your score into the stratosphere with the power of Rare Gems \xe2\x80\x94 featuring every Rare Gem from the Facebook game. \xe2\x80\xa8\xe2\x80\xa8Feeling lucky? Play the Daily Spin each day for your chance to win 1,000,000 FREE coins! \xe2\x80\xa8\xe2\x80\xa8Never played before? Use the interactive tutorial to quickly and easily learn how to play.\xe2\x80\xa8\xe2\x80\xa8-----------------------------------------------------------------------------------------------------------------AwardsBest Facebook Game \xe2\x80\x94 IGN**Refers to Facebook game, 2009\xe2\x80\xa8\xe2\x80\xa8-----------------------------------------------------------------------------------------------------------------We\xe2\x80\x99re sure you\xe2\x80\x99re going to love Bejeweled Blitz! Please be sure to rate the game and tell us what you think in our forums at PopCap.com. Your feedback helps us make the games you love even better. POPCAP MAKES LIFE FUN! Visit us at PopCap.com Follow us at twitter.com/PopCap Like us at facebook.com/PopCap------------------------------------------------------------------------------------------------------------------LEGAL:\xc2\xa92013 Electronic Arts Inc.  Bejeweled and PopCap are trademarks of Electronic Arts Inc."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Oman TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Sultanate of Oman TV application provided by the Public Authority for Radio and Television in the Sultanate of Oman to the user to put in his hands the possibility to watch the live broadcast of the tv through Internet. In addition to the possibility of viewing the program schedules for tvRecent changes:Update the channels links'
+p4
+tp5
+tp6
+.

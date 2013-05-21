@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ABBYY TextGrabber + Translator '
+p1
+tp2
+(S'Description:'
+p3
+S'50% OFF! ABBYY TextGrabber + Translator for only $2,99.ABBYY TextGrabber + Translator turns your smartphone into a multifunctional mobile scanner with full-text translation capability!An Internet connection is not required for OCR!Just take a picture of the text, and you can immediately edit and translate it, share via e-mail and SMS, or transfer it directly to other applications installed on your device - social networks, online storage services, etc. System requirements: OS Android version 2.2 and higher, 3 mega pixels camera or more with autofocusPowered by ABBYY\xe2\x80\x99s own award-winning Optical Character Recognition (OCR) technology, it provides highly accurate on-device text recognition and takes only a few seconds to accurately recognize plain text in more than 60 languages. With TextGrabber + Translator you can scan and translate: \xe2\x9c\x93 Documents \xe2\x9c\x93 Receipts \xe2\x9c\x93 Notes \xe2\x9c\x93 Articles \xe2\x9c\x93 Book fragments \xe2\x9c\x93 Manuals and instructions \xe2\x9c\x93 Product ingredients, etc. ------------------------ MAIN FEATURES: \xe2\x80\xa2 Accurate Internet-free text recognition in more than 60 languages, including English, German, French, Spanish, Portuguese, Russian, Greek, Chinese, Korean and others. \xe2\x80\xa2 Captured text can be easily edited or copied to the clipboard \xe2\x80\xa2 Instant translation from more than 40 languages (please note: an Internet connection is required for translation)\xe2\x80\xa2 Fast & convenient information sharing via email or SMS \xe2\x80\xa2 One-tap transferring of recognition results to other applications - social networks, online storage services, etc. via Android \xe2\x80\x98Share\xe2\x80\x99 function \xe2\x80\xa2 Search engine support \xe2\x80\xa2 All captured texts are stored in the app and can be easily found anytime in the \xe2\x80\x9cHistory\xe2\x80\x9d folder. ------------------------ OCR HINT: Please select the appropriate language (up to three at a time) before recognition ABBYY Mobile on Facebook: http://fb.com/abbyymobile FOLLOW US on Twitter @ABBYY_Mobilescanner, edit, text, translate, translation, recognition, recognize, capture, OCR, abby, aby, abyy, scan, share, language, grabber, optical, character, picture, fotoRecent changes:\xe2\x80\xa2 Improved the mechanism of Crop'
+p4
+tp5
+tp6
+.

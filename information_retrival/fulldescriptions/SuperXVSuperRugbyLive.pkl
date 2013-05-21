@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Super XV - Super Rugby Live '
+p1
+tp2
+(S'Description:'
+p3
+S'Australia\xe2\x80\x99s number one Union iPhone App is back for a massive 2013! Coming off our best pre-season yet, Union Live has remoulded the mouthguard and is ready to unleash more live content, new features and a faster overall experience. Best of all, it\xe2\x80\x99s free thanks to Sportsbet and Holden.The first version of Union Live for 2013 includes:Design:\xe2\x9c\x94 Brand new design\xe2\x9c\x94 Swipe navigation between pages\xe2\x9c\x94 Social media integration, keeping you in the know with the latest videos and Tweets.Extra Competitions:\xe2\x9c\x94 Rugby Championship.\xe2\x9c\x94 Australian internationals, including the Bledisloe Cup.\xe2\x9c\x94 June internationals.\xe2\x9c\x94 The Spring tour.\xe2\x9c\x94 Matches against the Barbarians and Lions.Editorial:\xe2\x9c\x94 Live text commentary.\xe2\x9c\x94 A heap more live stats include tackle and missed tackle counts (thanks to our new partnership with Fox Sports).Enhancements:\xe2\x9c\x94 Match day engine providing faster live scores and stats.\xe2\x9c\x94 Graphical scoring worm.\xe2\x9c\x94 Improved ladder, including extended overview and teams\xe2\x80\x99 next 5 games.  \xe2\x9c\x94 Head to head analysis \xe2\x80\x93 the perfect tool to give your tips the upper hand.\xe2\x9c\x94 Player profiles \xe2\x80\x93 including club & first grade debut, rep honours and previous years\xe2\x80\x99 stats. \xe2\x9c\x94 Integrated news from Australian Associated Press (AAP).\xe2\x9c\x94 Extensive pre-match coverage \xe2\x80\x93 including team selections, form streaks, latest odds, weather forecasts, and AAP match previews. There are plenty more updates in the pipeline, so keep an eye on our Facebook page for future announcements \xe2\x80\x93 http://www.facebook.com/sportsmatePlease send all feedback to info@sportsmatemobile.com or via @SuperRugbyLive.We actively use Twitter to let you know about updates, new features, interesting stats and anecdotes, plus respond to any questions that you may have.Enjoy the season!Recent changes:Changes:* Performance improvements* Push Notifications* News Widget* Loading Indicators'
+p4
+tp5
+tp6
+.

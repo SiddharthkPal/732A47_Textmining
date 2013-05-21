@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Chase Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Do your banking right from your Android\xe2\x84\xa2 device You can manage your accounts, make deposits, find ATMs and more. Now it\xe2\x80\x99s easy to do banking 24/7, right from your Android\xe2\x84\xa2 device. To start, just enroll in Chase Online.MONITOR YOUR ACCOUNT\xe2\x80\xa2 See account balances & transaction history\xe2\x80\xa2 View your credit and debit card rewards statusPERFORM TRANSACTIONS\xe2\x80\xa2 Pay bills and credit cards\xe2\x80\xa2 Transfer money between Chase accounts\xe2\x80\xa2 Make deposits with Chase QuickDeposit(SM) \xe2\x80\xa2 Send wire transfers\xe2\x80\xa2 Make changes to pending transactions\xe2\x80\xa2 Send and request money with Chase Person-to-Person QuickPay(SM)FIND LOCATIONS AND CONTACT CHASE\xe2\x80\xa2 Find the nearest Chase branches & ATMs\xe2\x80\xa2 Speak with a service representativeMANAGE YOUR CHASE CREDIT CARD\xe2\x80\xa2 View your credit card balance and activity\xe2\x80\xa2 Make payments\xe2\x80\xa2 View Ultimate Rewards information Disclosure:Some features are available for eligible customers and accounts only.Android is a registered trademark of Google, Inc. There is no charge from Chase, but message and data rates may apply. Such charges include those from your communications service provider. Delivery of alerts may be delayed for various reasons, including service outages affecting your phone, wireless or internet provider; technology failures; and system capacity limitations. Any time you review your balance, keep in mind it may not reflect all transactions including recent debit card transactions or checks you have written. A qualifying Chase transfer account is required to transfer funds via text.  Phone Alerts are not available for Chase Basic Checking(SM) account.Recent changes:- System enhancements to improve app performance'
+p4
+tp5
+tp6
+.

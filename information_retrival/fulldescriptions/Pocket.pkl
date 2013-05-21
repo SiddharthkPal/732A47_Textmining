@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pocket '
+p1
+tp2
+(S'Description:'
+p3
+S'When you find something on the web that you want to view later, put it in Pocket. It automatically syncs to your phone, tablet or computer so you can view it any time, even without an internet connection.New York Times, Business Week, and TechCrunch call it "DVR for the web."Previously the #1 paid Android news app, now free!Use Pocket when you discover an interesting article, video or web page, but don\xe2\x80\x99t have time to view it. Once it\'s in Pocket, it\'s on your phone, tablet or computer. You can read an article during a flight, see a web page while you wait in line or watch a video while relaxing at home.WHAT YOU CAN POCKETArticles, videos or pretty much anything you find online.VIEW EVERYWHEREIf it\'s in Pocket, it\'s on your phone, tablet, and computer.EASY ON THE EYESSee your articles, videos and everything else in a beautiful, easy-to-view layout.SAVE FROM ANY APPSave to Pocket from any app on your Android device. Just tap \'Add to Pocket\' when sharing a page.READ IT LATER USERSSimply log into Pocket using your Read It Later username and password for a seamless transition.Download Pocket today and start saving!Questions about requested permissions? See http://getpocket.com/permissionsRecent changes:Celebrating our first year as Pocket with some exciting new features!- Send to Friend makes it even easier to share content with friends- Receive shared items directly in Pocket- Completely new share menu that highlights your recent apps and friends- Instant Sync now works with multiple devices- Auto fullscreen in Article and Web View- Bug fixes and improvementsThe Read Contacts permission was added to this update to assist with sharing. More info: http://getpocket.com/permissions'
+p4
+tp5
+tp6
+.

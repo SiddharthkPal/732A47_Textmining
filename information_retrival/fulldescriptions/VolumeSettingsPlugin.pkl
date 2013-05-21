@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Volume Settings (Plugin) '
+p1
+tp2
+(S'Description:'
+p3
+S'This is the Volume Settings plugin of All-In-One Toolbox. This app could not open on its own, it works after you install the main app-All-In-One Toolbox.You may download All-In-One Toolbox via Google Play: http://goo.gl/qC1KKMajor Features of Volume Settings PluginAdjust ringtone, notification, media, alarm, voice call, system volume easily in one collective way, make the volume management easy and fast.Advantages:- Easy and fast adjustment of the volume.- User friendly interface.- Shortcut for homescreen- Free of chargeKey words: Volume, settings, All-In-One Toolbox, volume adjustment, all-in-one volume settings, system volume, media, ringtone, notification'
+p4
+tp5
+tp6
+.

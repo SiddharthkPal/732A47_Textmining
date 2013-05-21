@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Global TV Live Channels '
+p1
+tp2
+(S'Description:'
+p3
+S'"GLOBAL TV" is the only app here on the market with working live TV channels that you actually like to watch. We don\'t have re-runs of shows and movies from the 1950\'s or channels that you\'ve never heard  before. Here you will find nothing but  the best top quality, premium channels streaming live on your android device. No need to have flash . You will not be re-directed to a web-site with annoying pop-ups. You will not be asked to enter your e-mail or share other data. It\'s all in the app - download it, pick a country , pick a channel and enjoy free live TV the way it is supposed to be .We offer live streaming from over 30  countries and nearly 1000 channels. Shows, movies, sports, cartoons - we have it all live and free .Don\'t see your Favorite channel - send us an e-mail and we will do our best to add it. Got a problem using the app - again just send an e-mail. If using it on WiFi (highly recommended ) - make sure you are not blocked by a firewall . We hate to admit it, but not all channels will be available everywhere at all times - please try again later.IMPORTANT : This is a free but ads supported app ! Paid, ads-free version is coming soon but using this app  you will see a small banner or other ads from our advertisers pretty much the way regular TV is - every few minutes they show commercials .You  might get notifications in your notification tray. You can easily opt-out  by visiting http://www.airpush.com/optout . We were told that some antivirus apps will flag this advertising as a virus or " intrusive adware"- not the case here - all permissions are for these ads. Again - visit airpush.com for more info . If you wish a completely ads-free app - get the paid version , 99 cents is not that much ,right?We do not host or stream any content. All the channels are freely available on the internet, this app makes it more convenient for you to watch live television on your phone.All the logos and trademarks belong to their respected owners.In order to give you a free app and keep developing more free apps in the future, we are integrating a search tool to our application. This will add a few access points to your device (hence the permissions) to direct you to the web search service. Please consider using the search to help us keep creating apps. You may delete the search icon, bookmark, and homepage easily ( just drag to the trash bin ) . Thank you.'
+p4
+tp5
+tp6
+.

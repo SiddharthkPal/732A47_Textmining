@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Galactic Core Free Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'A stunning live wallpaper featuring a rotating spiral galaxy!  The perspective shifts as you touch the screen!  Rendered in OpenGL, and fully supporting both portrait and landscape views, Galactic Core also is also a fully functional Daydream on 4.2+ devices!If you enjoy this, please purchase the full version so we can keep making these! The full version has an extensive settings screen with lots of options, including alternate visual themes, orientation sensor usage, framerate control, rotation and camera speeds, and more!TO USE: Home->Long Press->Live WallpapersRecent changes:v2.31:  Bug Fix: Broken spin direction, sorry!v2.3:  New Feature: Daydream support on 4.2+ devices  Update: Simulated scrolling on some devicesv2.15:  Update: Adjusted layering on base themev2.1:  Update: Stability improvementsv2.0:  New Feature: Orbiting particle system  Update: Now using OpenGL 2.0  Update: Better performance on tablets'
+p4
+tp5
+tp6
+.

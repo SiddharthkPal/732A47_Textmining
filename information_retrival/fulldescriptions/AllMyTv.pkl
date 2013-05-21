@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AllMyTv '
+p1
+tp2
+(S'Description:'
+p3
+S'AllMyTv is the best Free TV app that brings the Italian and international TV channels on your Android.AllMyTv is a real mobile TV that allows you to easily reach via links to streaming public.AllMyTv is the evolution of TvItaliane!Not only that, find out what you want to see and AllMyTv will notify you if it aired: Enter the channel or the title of a program and find out where to see him at that time. AllMyTv also incorporates, where possible, the schedule of the channels.Key features:- Real-time streaming- Channel search by language, country, topic- Navigate the correct channels by topic or keyword- Over 1000 channels now available all over the worldAvailable on Smartphone, Tablet and Kindle Fire.AllMyTv: your TV in your hands!Technical notes - DMCA:All audio-visual content that you can take part of through the AllMyTv app is provided by and hosted on third party servers and discovered through the help of our search engine.we do not host, upload, store or index material such as audio-visual content in our app or in our servers. When you click on the name of the channel you are immediately and automatically moved to a third party hosted website and any audio-visual content that is made available to you on a third party hosted website is not in any way stored by us. Furthermore, we do not in any way control content found on third party hosted websites and we therefore cannot be held responsible for any content on these websites.If you are a TV broadcaster and you want your channel to be added / modified / removedAllMyTv application, please report it to us immediately via email at the address below.All My Tv !Recent changes:1.1.0Improved performance for low-end devicesGeniusTV. Login via facebook and GeniusTv will advise a channel for you.Improved identification user language'
+p4
+tp5
+tp6
+.

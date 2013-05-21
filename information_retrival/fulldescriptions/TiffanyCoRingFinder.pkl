@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tiffany & Co. Ring Finder '
+p1
+tp2
+(S'Description:'
+p3
+S'Find your perfect engagement ring with the Tiffany & Co. Engagement Ring Finder, now available as an Android\xe2\x84\xa2 app. Browse styles and try on rings using a photo of your hand. Share your favorite designs with friends and view the styles they like the most, determine your ring size and learn why a Tiffany engagement ring is the best there is.'
+p4
+tp5
+tp6
+.

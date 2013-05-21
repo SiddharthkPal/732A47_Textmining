@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SMS Scheduler '
+p1
+tp2
+(S'Description:'
+p3
+S'SMS Scheduler is a simple tool for automatic sms messages sending with chosen frequency. Have you ever forgotten about sending your mother happy birthday wishes ? Has your love one ever wanted to break up with you after not getting any sweet nothings on your anniversary ? Have you ever hoped for tightening up relations with your business partners by sending them Christmas wishes? Now you can do it in advance and just don\'t trouble with it anymore.****** Main features ******* recipients can be typed in directly or selected from contacts* multiple recipients can be chosen * flexible scheduling system - you can send sms once, every 5 minutes, 15 minutes, every hour ... * sent sms messages are added to the proper conversation threads* status bar notifications are triggered for sent messages and delivery reports* history of sent and delivered messages is available****** USAGE ******On the main screen you see information about scheduled SMS messages dispatches. Every entry specifies recipients, dispatch frequency and date and time of next sms transmission. You can edit every entry just by clicking on it. To add a new entry use a button on the bottom of a main screen. You can specify as many recipients as you want just by separating numbers with a comma. Remember that to schedule a new sms dispatch you have to provide a phone number and a message - those fields are required. Also if you want to send a message only once choose "Once" as a frequency.To see a status of last 1000 sms dispatches and deliveries press Menu button on the main screen and choose History. Every entry in the list specifies a recipient, original date and time on which sms should be sent, real date and time on which sending or delivery occurs and status of the whole operation ("Sent without problems" or "Successfully delivered" means that everything went well).In the menu on the main screen you can also choose "Preferences" option which lets you enable/disable notifications and conversation threads insertion.Now please enjoy!Recent changes:* bug fixes* UI update* added possibility to import/export data'
+p4
+tp5
+tp6
+.

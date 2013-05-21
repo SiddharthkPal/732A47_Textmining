@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IamResponding (IaR) '
+p1
+tp2
+(S'Description:'
+p3
+S'This App is a companion feature to the IamResponding.com system, which enables first responders to know who is responding to an incident, where they are responding, and when. This is used by thousands of fire departments, EMS agencies, and incident response entities and teams.  The IamResponding.com system also includes incident notifications, duty crew scheduling, inter-agency messaging, incident mapping with directions, and much more. This App brings all of the primary features of the IamResponding system to mobile users in the field, in an easy-to-use and access format. **You MUST be a member of an entity with a current IamResponding subscription in order for this app to work** For any technical support needs or inquiries, please contact support@emergencysmc.com, or during regular business hours (M-F, 9am-5:50pm ET) at 315-701-1372.  We do NOT monitor this page for technical support issues, and we cannot reply to support issues posted as user reviews in Google Play\xe2\x84\xa2. Please Note:  If your dispatch messages are not currently processed through your department\xe2\x80\x99s IamResponding system, that is a free configuration that can be done in most jurisdictions, and is included with your department\xe2\x80\x99s IamResponding subscription.  Your app will have more complete functionality if we enable that feature for you.  Have your local system administrator contact our customer support team at 315-701-1372 to set this up.Recent changes:Release 1.4.4 targets issues when loading the mapping module.Release 1.4.3 specifically targets an issue with Jelly Bean (4.2) that prevented users from logging in; a reinstall is required to clear this issue only.'
+p4
+tp5
+tp6
+.

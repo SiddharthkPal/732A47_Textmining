@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Multiple Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'GO Multiple Wallpaper is a wallpaper ex plugin with 9 preset exquisite wallpapers. GO Multiple Wallpaper enables you to set a unique wallpaper for each screen.Feature:1. Set a unique wallpaper for each screen2. Wallpaper can be chosen from  GO Multiple Wallpaper and the phone  memory3. Slide screen to show each screen\'s wallpaper with  shadow effect4. Change wallpaper automatically with gestures(coming with next version)Note:1. GO Multiple Wallpaper has special function entry( please search\xe2\x80\x9dGO launcher EX\xe2\x80\x9d to install for free )2. GO Multiple Wallpaper is available both in GO Launcher EX and otherlaunchers.3. To show the multiple wallpaper effect, please make sure your launcher surpports wallpaper scrolling(GO Luancher EX: menu - wallpaper - Display mode - Default mode)4. How to apply  GO Multiple Wallpaper?\xe2\x80\x94 With GO Launcher EX: long press screen to edit \xe2\x86\x92 tap \xe2\x80\x9cwallpaper\xe2\x80\x9d tab \xe2\x86\x92 tap  \xe2\x80\x9cGO Multiple Wallpaper\xe2\x80\x9d\xe2\x80\x94 With other launchers:  Home screen \xe2\x86\x92 menu \xe2\x86\x92 Wallpaper \xe2\x86\x92 Live Wallpaper5.Welcome to give us feedback and tell us the features you want. We will keep   going.Recent changes:1.(New)Support importing and saving local pictures 2.(New)Long press wallpapers under "Please select wallpaper" to edit and delete themPS:GO Multiple wallpaper is perfectly compatible with GO launcher EX'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'KD Collage Free '
+p1
+tp2
+(S'Description:'
+p3
+S'KD Collage - new application to create wonderful collages from your photos. The application includes about 70 collage patterns and over 80 background options. Added photo can be moved, rotated and zoomed in/out. You can also add a text with different fonts and styles. Completed collages can be saved in HD to SD memory card or in Favorites for further editing.We wish you the creative successes and breath-taking results!Recent changes:- New disign- New collage patterns- Border Width- Round Corners- Fixed some bugs'
+p4
+tp5
+tp6
+.

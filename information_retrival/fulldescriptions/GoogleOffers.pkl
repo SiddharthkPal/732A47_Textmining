@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Offers '
+p1
+tp2
+(S'Description:'
+p3
+S"Google Offers is a new way to get savings on products and services.Discover relevant offers from great brands and local businesses when you use Google Search on your phone, tablet, or desktop computer.Use them straight away, or the Google Offers app will remind you next time you're near the store. Once at the business, open the app to show and use your offer without printing anything.Recent changes:*Notifications for saved offers nearby"
+p4
+tp5
+tp6
+.

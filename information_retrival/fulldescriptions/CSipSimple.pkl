@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CSipSimple '
+p1
+tp2
+(S'Description:'
+p3
+S"OpenSource (GPL) project for SIP on Android. * High performances* Rewriting/filtering rules for integration with Android* SIP SIMPLE for Messaging* Record calls* Simple configuration* Fancy UI inspired from 4.x Holo theme * Many codecs (HD codecs, optimized codecs)* Supported crypto : TLS for SIP and SRTP/ZRTP for media* ThemesMore codecs (as the experimental Opus) and themes are available in plugins !About permission required by CSipSimple :http://code.google.com/p/csipsimple/wiki/PermissionsUsePlease report your bugs to the bug tracker of the project : it helps us to make a better software !!!Users make the apps : It's opensource ! This application is distributed under GPLv3 license terms (http://www.gnu.org/licenses/gpl-3.0.txt). You can also try the development version (nightly builds) available on the project website if you experiment problems with this version.keywords : SIP, codecs, voip, GPL, dialer, voice over IP, free softphone, sip softphone, sip phone, telephony, softphone software free, voip phone, softphone sip, pbxRecent changes:* Android 4.0 and upper compatibility* TLS, SRTP, ZRTP support* Bug fixes for 2.x devices and some armeabi-v7a"
+p4
+tp5
+tp6
+.

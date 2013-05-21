@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Klipster '
+p1
+tp2
+(S'Description:'
+p3
+S'Klipster \xc3\xa4r ett digitalt kupongh\xc3\xa4fte som ger dig tillg\xc3\xa5ng till attraktiva erbjudanden n\xc3\xa4ra dig. N\xc3\xa4r du v\xc3\xa4ljer ett erbjudande genereras en kod som du visar upp f\xc3\xb6r kassapersonalen i butiken eller anger som kampanjkod om det \xc3\xa4r ett webberbjudande. Kupongerna \xc3\xa4r alltid gratis att anv\xc3\xa4nda. Klipster k\xc3\xa4nner av vad du befinner dig och presenterar erbjudanden som ligger n\xc3\xa4rmast dig.Klipster \xc3\xa4r gratis och du beh\xc3\xb6ver inte registrera dig.Recent changes:\xe2\x80\xa2 Diverse krasch- och buggfixar'
+p4
+tp5
+tp6
+.

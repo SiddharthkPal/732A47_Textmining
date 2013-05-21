@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Candy Jewels '
+p1
+tp2
+(S'Description:'
+p3
+S"Are you a fan of jewels-matching games? If the answer is yes, CANDY JEWELS is the perfect game for you!CANDY JEWELS is a classic jewels-matching game with many new exciting features, awesome visual effects and special power-ups. Once you start, you can't stop!The orders are in. In this game you run a candy factory, but not a standard one. You are not selling simple candies, you are selling candy jewels. Swap the beautifully designed candies, match them and create powerful combos. Build your own candy-licious empire!As the fame of your candy factory spreads around the world, orders from your clients will become increasingly big and difficult to fulfill.You will need all your skills and expertise to keep delighting your clients and keep growing your business into the ultimate candy jewels empire.As you progress in the game you will unlock new and exciting game modes. Will you be able to master them all?Unlimited challenging and creative fun!CANDY JEWELS is a simple but extremely fun match 3 game. It is the ultimate time pass, a glorious explosion of fun and a joy for your eyes.By playing this casual game you will find yourself addicted to swapping the shiny and juicy candy jewels.The game adds several creative innovations to the popular gem-matching puzzle game genre, with 4 game modes, cool power-ups and challenging objectives.HOW TO PLAY:- Swap jewels to match 3 or more identical jewels and eliminate them- Match more than 3 jewels to activate special power-ups and create devastating combos- Push the chest towards the bottom of the screen to get extra points and reach your objectives faster!GAME FEATURES:- 4 game modes guarantee a great variety of entertaining challenges: CANDY TIME, CANDY MOVES, CANDY TRAIN, CANDY RELAX- CANDY TIME: reach the target score before time runs out!- CANDY MOVES: reach the target score before you run out of moves!- CANDY TRAIN: a fast paced, thrilling game mode- CANDY RELAX: Time to enjoy the beautiful graphics and chill out- Amazing power ups that make the game even more exciting- Stunning graphics, fluid animations and gorgeous visual effects- Easy to play, hard to stop!CANDY JEWELS has lots of great features make the game uniquely interesting and challenging.You will love the fun, creativity and excitement of this great casual game.What are you waiting for? Download CANDY JEWELS now!Recent changes:Fixed a bug reported by users"
+p4
+tp5
+tp6
+.

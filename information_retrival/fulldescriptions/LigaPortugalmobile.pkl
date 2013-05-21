@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Liga Portugal mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"On Liga Portugal's mobile app you can:\xe2\x80\xa2 Follow Liga Zon Sagres games in real-time and access to Second League and League Cup official info\xe2\x80\xa2 Check official match schedules e standings of Liga Zon Sagres, Second League and League Cup\xe2\x80\xa2 Access detailed info of all teams\xe2\x80\xa2 Access Liga Portugal's latest newsRecent changes:Minor bug fixes"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PIP Camera '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 PIP Camera is the best companion for self-snapshots! Make your photos extra fun with creative shots! \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85PIP Camera is a spinoff of FotoRus\xe2\x80\x99 popular Pic-in-Pic mode, and it is more powerful and more fun with the addition of the new PIP Frames mode!PIP Classic mode inherits FotoRus\xe2\x80\x99 original materials, but now you can export your creation at 960x960!Our Library will be constantly updated with new pic-in-pic materials, come back often to download!Recent changes:[Major Release] All new "Draw Mode" so you can paint your own PIP frames! Replace background photo for even more creative effects.Launch PIP Camera directly while browsing album photos.[Bug fixed]'
+p4
+tp5
+tp6
+.

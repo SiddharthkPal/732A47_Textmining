@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pixlr Express '
+p1
+tp2
+(S'Description:'
+p3
+S'Pixlr Express is a fun and free photo editor that lets you quickly crop, re-size, and fix any picture, remove red-eye, and whiten teeth. Then choose from more than 600 effects, overlays, and borders to personalize any image\xe2\x80\x94all for free. From the makers of Pixlr-o-matic, Pixlr Express will make you look like a pro, even if you\xe2\x80\x99ve never edited a photo before.\xe2\x9c\x93 Crop, resize, straighten and rotate images easily.\xe2\x9c\x93 \xe2\x80\x98Auto Fix\xe2\x80\x99 photos for a one-click fix to balance out colors, adjusting for dark photos and poor lighting conditions.\xe2\x9c\x93 Remove red-eye and whiten teeth with simple tools.\xe2\x9c\x93 Overlays help you adjust the mood \xe2\x80\x93 amplify the tone, cool it down, or add surreal shades.\xe2\x9c\x93 Lighting effects can add drama, sparkle or a grunge look. Easily adjust the intensity and orientation of each effect.\xe2\x9c\x93Finish off your photo process with the right border \xe2\x80\x93 pick a style that fits you.\xe2\x9c\x93Look like a pro with cool photo effects like focal blur, denoise and more.\xe2\x9c\x93Explore color tools to adjust contrast, brighten, or focus on one color with a color splash.\xe2\x9c\x93Keep track of your favorite effects and overlays with the favorites button.\xe2\x9c\x93Share your photo directly with your friends through Facebook, Instagram, twitter or any of your favorite sharing apps, or just save it back to your Gallery.\xe2\x9c\x93No camera required! Select a photo from your gallery and start applying filters. If your device has a camera, you can also snap a new picture from within the app.Recent changes:1.\tAdd Sticker.2.\tBug fixes.'
+p4
+tp5
+tp6
+.

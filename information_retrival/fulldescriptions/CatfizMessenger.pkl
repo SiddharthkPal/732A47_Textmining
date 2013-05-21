@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Catfiz Messenger '
+p1
+tp2
+(S'Description:'
+p3
+S"Welcome to Catfiz World, Private and Social interaction has never been this easy. Experience the android-only messenger with feature you'd love to have in your smartphone. Maximize your Android with this always-connected application. No phone-number required, you need only data plan in your GSM/CDMA or you can use wireless internet connection.No waiting state. Lightweight but powerful.Catfiz comes with rich-feature yet easy and simple to operate. Use Catfiz for personal, official, community or larger organization. Free, no hidden cost, no future subscription fee. Become Catfizer and enjoy the true messenger with Catfiz. Messages, Status,Comment, Like,Quote to,Group chat (Pool) with more than 1000 member, Promote,Photo share, Voice message, Video message, File share, Gallery,Theme, Emoticon, EmojiAnd more !A lot of coming feature in next updates that makes your current messenger, last choice.CATFIZ, THE ULTIMATE ANDROID MESSENGERCurrently available in English, Bahasa Indonesia, Arabic.tag: messenger, android messenger, chat, social network, group chat, blog, file share, multimedia share, catfiz, arabic, indonesia.Recent changes:-BUGFIX: Many bugs at version 1.0.7 and 1.0.8 fixed.-UPDATE: Arabic strings by Akram.-ADD: Compatibility support for some devices"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ArcNote '
+p1
+tp2
+(S'Description:'
+p3
+S'The easiest way to take perfect notes with your Android phone camera. Whether grabbing content from a whiteboard, slide projection, poster or brochure, ArcNote will automatically crop and correct skewed presentations into nice visual notes. No more jotting down messy notes.  No more missing important details.  Save your time. Free up your hands. All you need to do is take a snapshot and let the app do the rest. Instantly share your notes with colleagues and friends.Key Features:\xe2\x80\xa2Produce high quality images from projected, written or printed notes   - Excellent quality in indoor and low-light conditions- Store and manage all notes and share them in a PDF file\xe2\x80\xa2 Automatically detect and crop out note region from image- Include text comments on each note page- Record and add voice annotation to a note group\xe2\x80\xa2Correct skewed captures- Adjusts to straight viewing angle automatically\xe2\x80\xa2Share easily- Share directly to Facebook, Twitter and Flickr'
+p4
+tp5
+tp6
+.

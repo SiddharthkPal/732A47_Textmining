@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Electronic Music Maker '
+p1
+tp2
+(S'Description:'
+p3
+S"Electronic Music MakerMake cool electro, eletronic, house & dance music with your Android Device that will captivate your audience! The Electronic Music Maker puts the hottest song construction kits, samples and drum kits at your fingertips. Produce impressive results in no time even without any prior knowledge. Just by tapping the sample blocks you can develop your own hit songs/beats that will make your friends dance. Electronic Music Maker is a fun & creative sample machine and music sequencer. Play cool & hot drumbeats, cool kicks, cymbals, smashing power snares, phrases, melodies, stabs, chords, powerful synths and other sound effects. Create your own hit songs. Jam directly on your Android device. Plug in your headphones and enjoy the sounds & music. 12 Samplekits (336 Samples) to choose from and an easy-to-use high-tech interface makes this app real fun for everyone. Don't miss it. Use the easy-to-use, but powerful pattern sequencer to record, edit and save your Sessions. * 12 Sample-Kits * Pattern-Sequencer * Record your Tracks * Save/Load your Beats * Adjust the tempo in realtime * Metronome The most creative & fun music tool for your Android device."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sports Jazeera Guide TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Sports Jazeera GuideTV offers daily and weekly programming of 16 Al Jazeera Sport channels located on satellites Hotbird (13\xc2\xb0E), Nilesat (7\xc2\xb0W) and BADR6 (26\xc2\xb0E). Offer the possibility to view programs sort by sport category and also shows in one screen what is being broadcast right now in the 16 channels.Programming is displayed in the time zone.Channels: Al Jazeera Sport +1, Al Jazeera Sport +2, Al Jazeera Sport +3, Al Jazeera Sport +4, Al Jazeera Sport +5, Al Jazeera Sport +6, Al Jazeera Sport +7, Al Jazeera Sport +8, Al Jazeera Sport +9, Al Jazeera Sport +10, Al Jazeera Sport HD1, Al Jazeera Sport HD2, Al Jazeera Sport News, Al Jazeera Sport Global, Al Jazeera Sport 1 y Al Jazeera Sport 2.Languages: English, Spanish, French, German, Catalan.Follow us on Facebook: http://www.facebook.com/pages/Sports-Jazeera-Guide-TV/349629061773289Follow us on Twitter: http://twitter.com/SportJazeeraTVRecent changes:- New integrated notification system. Now you can tell the application to send a notification of an event before it starts. When the event is about to start you will be notified in this way, and you will not miss any game of your favorite team. - Some minor bugs fixed.If you like the application, please rate our aplication, thanks.'
+p4
+tp5
+tp6
+.

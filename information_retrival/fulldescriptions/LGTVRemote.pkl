@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LG TV Remote '
+p1
+tp2
+(S'Description:'
+p3
+S'[Caution] This application is compatible only with LG Smart TVs which are released in 2012 or later. Customers who own a LG Smart TV released in 2011 (not listed in supported models) will need to use the "LG TV Remote 2011" application."LG TV Remote" application is a Wi-Fi based remote controller which can control network-enabled LG Smart TV which is released in 2012 or later.After paring with your smart phone through WiFi connection, LG Smart TV can be controlled with this application.The 2nd TV feature will not be available for certain channels due to provision of contents under copy protection regulations.[Supported Models] LM9600, LM9500, LM9400, LM8600 LMG860, LM7610, LM7600, LM6710 LM6700, LM6690, LM6610, LM6600 LM6450, LM6400, LM6300, LM6250LM6200, LM6100, LM5900, LS5800LS5750, LS5700, PA6900, PA4700 Series @TV 2012 LA9700, LA9600, LA8800, LA8650LA8600, LA7900, LA7470, LA7450LA7410, LA7400, LA7100, LA6950LA6928, LA6910, LA6900, LA6800LA6680, LA6670, LA6650, LA6690LA6620, LA6610, LA6600, LA6500LA6410, LA6400, LA6205, LA6250LA6230, LA6200, LN6150, LN6130LN6100, LN5790, LN5770, LN5750LN5710, LN5700, LN5700, LN570BPH6710, PH6700, PH6600, PN6700PN5700, PH4700, PN4700 Series @TV 2013[Main Features] - MiniTV : Continuously watching live channels on your mobile device. (Only support from LM9600, LM9500, LM9400, and LM8600 in case of 2012 TV models) - Hot keys for volume/channel control, input list and channel list. - Mini Home : Access to premium Content Providers and MyApps service directly . - Touch Pad : Control LG Smart TV on screen pointer(like magic remote) using touch pad. - SmartText : Easy text input via smartphone. (Typing will be limited in some environments)- Capture and share: Capture the TV screen and share it with smartphoneThe below features are supported only in 2013 TV models.- Unified search: Searching for smart TV contents (like CP and Youtube contents) with keyword - Smartshare: Media files (listed from Smartshare on TV) are listed on mobile device and executed on TV as being chosen.- LG Social Center: Enjoy LG social center (already provided on TV) on mobile device as well.Recent changes:- bug fix'
+p4
+tp5
+tp6
+.

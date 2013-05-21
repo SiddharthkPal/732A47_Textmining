@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Canale Bianconero '
+p1
+tp2
+(S'Description:'
+p3
+S"Canale Bianconero: notizie di calcio sulla Juventus, risultati, rassegna stampa e molto altro ancora.Altre funzionalit\xc3\xa0:- Classifica Serie A dal 2007-2008- Calendario Serie A dal 2007-2008- Archivio fotografico- Widget Orologio (non funziona spostando l'app su SD)Canale Juventus di TuttoMercatoWebRecent changes:v2.3.1- aggiunta sezione Multilive. Risultati in temporeale con relativa cronaca.- aggiunta indicazione data/orari degli anticipi e posticipi nel calendario"
+p4
+tp5
+tp6
+.

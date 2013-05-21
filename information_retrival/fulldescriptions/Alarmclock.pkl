@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Alarm clock '
+p1
+tp2
+(S'Description:'
+p3
+S'Caynax Alarm Clock - more than just alarm clockSmart alarm clock plus reminder with great user interface from developers of daily ab workout app - Caynax A6W. If You have extreme problems with waking up or time management here\'s perfect solution - alarm clock plus todo list (tasks list) and tasks reminder. Application contains calendar for days selection so it can also be used as mini business calendar.Alarms were grouped into categories:- quick - make a note/alarm with two simple clicks- everyday - runs everyday- work days - runs on selected work days- cyclic - runs every x-th day- timer - simple timer (countdown) alarm - (ie. for pomodoro technique)- any - alarm that let you select days on calendar- annual - remember about birthday and anniversary (PRO version only)Alarm clock main features:- You can easily change alarm settings assigning them created profiles.- Alarm can be dismissed by simply clicking "Dismiss button", solving math problem or arranging/completing quotation.- Digital clock widget, analog clock widget- Features like: alarm message, days selection (calendar or days of week), any ringtone file, gentle alarm - increasing ringtone mode, custom snooze length or count and more...Free alarm clock version contains in-app ads.Check Privacy Policy for permissions description.Recent changes:If You don\'t see alarm clock after update please restart your device.Open alarm clock after update.6.5Cylic alarm can repeat every 1 day. Increased max repeat limit from 30 to 90 days (PRO only).Increased snooze count from 7 to 100 (PRO only).Any alarm can repeat every month (PRO only).'
+p4
+tp5
+tp6
+.

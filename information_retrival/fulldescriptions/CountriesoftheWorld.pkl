@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Countries of the World '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn about the countries of the world - capitals, populations, languages, GDPs, religions, flags & more.  Test your knowledge of world geography with quiz mode.  Audio is included to help with pronunciation. Find countries using the interactive map, search, or index.Recent changes:- Added South Sudan.- Improved UI on Nexus 4 and similar Android phones.- Minor bug fixes.Coming soon:  Updated data, including revised country debt figures.  Better labeling of disputed regions.'
+p4
+tp5
+tp6
+.

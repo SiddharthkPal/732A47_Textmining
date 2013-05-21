@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'KakaoTalk: Free Calls & Text '
+p1
+tp2
+(S'Description:'
+p3
+S'Check out the No.1 smartphone messenger for FREE calls and text. Make group calls in high-quality sound and schedule appointments in your chat room. Download now and enjoy animated emoticons, stickers, and themes - completely free! About Us:\xe2\x98\x85Chosen by more than 85 million users worldwide\xe2\x98\x85Fast, fun, easy way to communicate with friends & family\xe2\x98\x85Supports: Android, iOS, BlackBerry, Windows OS, BadaFeatures:\xe2\x80\xa2 Send FREE messages & enjoy unlimited calls (HD) \xe2\x80\xa2 Make high-quality group voice calls\xe2\x80\xa2 Create your own group chat (unlimited # of friends)\xe2\x80\xa2 Schedule appointments, lunches, gatherings (w/ reminders)\xe2\x80\xa2 Get creative using animated emoticons & custom themes\xe2\x80\xa2 Have fun during calls with Talking Tom & Ben\xe2\x80\x99s voice filters\xe2\x80\xa2 Share multimedia content: videos, photos, voice notes, etc.\xe2\x80\xa2 Make friends with top celebrities (K-Pop & local)\xe2\x80\xa2 Add to the fun with mobile gamesContact us at http://www.kakao.com/talk/en/contact   Like us at http://facebook.com/kakaotalk    Follow us at http://twitter.com/kakaotalkRecent changes:[v3.7.3]-Fixed problem for versions 3.7.1 and older, where the name of your friend changed into the name set by your friend when you tap mini-profile in the chatroom. [v3.7.2~v3.7.1]-Fixed problem where proximity sensor was not working when using Free Call in certain devices -Fixed a problem where KakaoTalk was not working on OS v2.1 (Eclair) and older versions'
+p4
+tp5
+tp6
+.

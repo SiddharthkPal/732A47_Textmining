@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dubstep DubPad Buttons FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"BIGGEST DUBPAD ON GOOGLE PLAY.I was tired of these only-drum-apps if you search for Dubstep Pads so I got inspired to make an app that already gives you the drum beats so you can play thick sounds over it.The soundboard is ~6*12, new sounds come at 15000 users (currently:7500+)Thanks to all people who do tutorials about all kinds of music applications and to stackoverflow.com.Sorry for the long starting time but I made this app very compatible for slower phones so people who don't have such an expensive phone can use it in the same way like others. Don't complain, that's just the little communist in me ;pRecent changes:1.2: - new audio drivers. I hope this app runs good now on your device1.3: - 18 NEW SOUNDS + 5 new drum patterns.1.4: - volume boost up for loos1.5: - MANY NEW SOUNDS, new start mechanism. START THIS APP IN WIDESCREEN MODE!!! If anybody can't start this app, make me aware of it and I will return to old version of the app and make a new start mechanism"
+p4
+tp5
+tp6
+.

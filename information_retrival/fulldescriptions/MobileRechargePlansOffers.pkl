@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mobile Recharge Plans / Offers '
+p1
+tp2
+(S'Description:'
+p3
+S'Before you recharge your prepaid mobile, find the most suitable recharge product / price for your exact need. iReff app is the quickest and easiest way to get the latest recharge plan and offer information. Browse through the common benefit categories - Topup, SMS, Data (GPRS / 2G and 3G), Local, STD, ISD. Or try the powerful full text search feature to find recharges matching your specific need.You can find details about Topup Vouchers, Special Tariff Vouchers (STV), Combo Vouchers and Full Talk Time offers.Data is updated daily for all operators, except BSNL which is updated weekly. The tariff shown is based on what is published on the operator website and is applicable for EC (easy) recharge from retail mobile recharge shops. For other modes of recharge, please confirm from your service provider if they support tariff published on the operator website.We currently support information across all applicable telecom circles for: * Airtel * Aircel * BSNL / MTNL * Idea * Loop Mobile * MTS * Reliance GSM * Reliance CDMA * Tata Docomo * Tata Indicom * T24 * Uninor * Videocon * Virgin Mobile CDMA * Virgin Mobile GSM * VodafoneThis is a Beta version and there may be some rough edges. We are continuously making improvements and feature additions. Please keep your app updated to the latest version. In case of any problems please email us at info@ireff.inThe user interface is currently not optimized for portrait layout or for tablets.Recent changes:Version 0.9.15 * Bug fix, performance tweaks * Running Ad trial for small number of users'
+p4
+tp5
+tp6
+.

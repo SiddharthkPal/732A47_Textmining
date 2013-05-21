@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'2dehands.be '
+p1
+tp2
+(S'Description:'
+p3
+S'2dehands.be is de grootste en bekendste zoekertjessite van Belgi\xc3\xab. Met de gratis 2dehands.be app kunt u simpel en snel in de hele site zoeken of bladeren. Bekijk alle afbeeldingen op volledig scherm en reageer meteen op elk zoekertje.- Doorzoek alle zoekertjes op 2dehands.be - De nieuwste zoekertjes in \xc3\xa9\xc3\xa9n overzicht bekijken - Reageer direct via e-mail of telefoon- Gemakkelijk filteren op prijs- Sneller vinden wat u zoekt op afdelings- en rubrieksniveau- Zoekopdrachten verfijnen met een trefwoord- Fullscreen foto\xe2\x80\x99s bekijken - Inloggen om eenvoudig berichten te kunnen versturenWij ontwikkelen nieuwe features op basis van feedback van onze bezoekers. Dus indien u commentaar of idee\xc3\xabn heeft, horen we het graag. U kunt ons contacteren via redactie@2dehands.be - Alvast bedankt!Recent changes:- Met deze update blijf je ingelogd op 2dehands.be, ook als je de app afsluit en opnieuw begint.'
+p4
+tp5
+tp6
+.

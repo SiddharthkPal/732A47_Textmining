@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Qloud Media Gold '
+p1
+tp2
+(S'Description:'
+p3
+S'Get the paid version of Qloud Media Gold for FREE by trying some new apps! Unlock the app using Getjar Gold, a virtual currency that you get by trying new apps recommended for you.You can easily share video, music and pictures from your PC to Android devices. No copy or encode is needed, just install proper server software on your PC and you can enjoy video, music and pictures anytime and anywhere!This app requires server software to function properly; you can get the server application from:http://j.mp/qloud-serverFeatures:- Support multimedia streaming from your PC to Android devices- Optimized for phone and tablet- Streaming over Wi-Fi and 3G network- Everything is transcoded on the fly, no copy or encode is needed- Supported video formats: AVI, MP4, RM/RMVB, MKV, WMV, MPEG, MPEG2TS- Supported subtitle formats: SRT, ASS/SSA, SAMI (typeface, scale and encoding is user configurable)- Supported audio formats: MP3, MP4, WAV, AAC- Supported image formats: JPEG, PNG, GIF, BMP- Automatic server discovery in local area network- Remote access setup by specifying Qiss PIN code- Remote access setup by specifying server address and port information- Folder access control by user account- Support NAT transversal via UPNP or NAT-PMPThe difference between the full version and the free version are:- No AD- Support file name search- Support image export- Support advanced video gesture control- Support Google TV- Support multiple themesNote:- DRM protected files are not supported- Other formats may work but not officially supported- Qloud Server is available for Microsoft Windows XP/Vista/7 and Mac OS X (10.6 or later)- For better video performance, dual core processor is recommended- Please make sure the free version can function properly before upgrading to full version- If you have difficulty with 3G streaming, please google "how to port forward" for tutorial, the default port is TCP 8888Support:You can get more help by sending mail to Recent changes:Get the full ad-free version for FREE. Brought to you by Getjar.'
+p4
+tp5
+tp6
+.

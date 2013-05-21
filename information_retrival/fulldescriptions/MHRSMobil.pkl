@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MHRS Mobil '
+p1
+tp2
+(S'Description:'
+p3
+S'T.C. Sa\xc4\x9fl\xc4\xb1k Bakanl\xc4\xb1\xc4\x9f\xc4\xb1\xe2\x80\x99n\xc4\xb1n sundu\xc4\x9fu \xe2\x80\x9cHastane Randevu Merkezi\xe2\x80\x9d mobil uygulamas\xc4\xb1, Android telefonunuz ve tabletiniz i\xc3\xa7in \xc3\xb6zel olarak tasarlanm\xc4\xb1\xc5\x9f olup, hem uygulaman\xc4\xb1n kendisi hem de randevu almak \xc3\xbccretsizdir. Uygulaman\xc4\xb1n k\xc4\xb1sa ad\xc4\xb1 \xe2\x80\x9cMHRS Mobil\xe2\x80\x9d dir.MHRS Mobil ile t\xc3\xbcm T\xc3\xbcrkiye\xe2\x80\x99de Sa\xc4\x9fl\xc4\xb1k Bakanl\xc4\xb1\xc4\x9f\xc4\xb1na ba\xc4\x9fl\xc4\xb1 Devlet Hastaneleri, A\xc4\x9f\xc4\xb1z ve Di\xc5\x9f Sa\xc4\x9fl\xc4\xb1\xc4\x9f\xc4\xb1 Hastaneleri ve Merkezleri (ADSH, ADSM) i\xc3\xa7in vatanda\xc5\x9flar\xc4\xb1n, istedikleri hekimden ve belirledikleri uygun olan tarihe randevu almalar\xc4\xb1 sa\xc4\x9flan\xc4\xb1r.  Bundan b\xc3\xb6yle hastanelerde uzun s\xc4\xb1ralar beklemenize gerek yok. MHRS Mobil uygulamas\xc4\xb1 yard\xc4\xb1m\xc4\xb1 ile kolay ve h\xc4\xb1zl\xc4\xb1ca muayene randevusu alabilir ve ald\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1z randevular\xc4\xb1 buradan takip edebilirsiniz. Randevu g\xc3\xbcn\xc3\xbcn\xc3\xbc, saatini, ve hekiminizin o g\xc3\xbcn hastanede g\xc3\xb6rev yap\xc4\xb1p yapmad\xc4\xb1\xc4\x9f\xc4\xb1n\xc4\xb1 \xc3\xb6\xc4\x9frenebilir, gidemeyece\xc4\x9finiz randevular\xc4\xb1n\xc4\xb1z\xc4\xb1 buradan iptal edebilirsiniz. Hastane Randevu Merkezine ula\xc5\x9fmak i\xc3\xa7in ayr\xc4\xb1ca internet \xc3\xbczerinden www.hastanerandevu.gov.tr adresini kullanabilir ya da ALO 182 MHRS \xc3\x87a\xc4\x9fr\xc4\xb1 Merkezini arayarak kendinize ve yak\xc4\xb1nlar\xc4\xb1n\xc4\xb1za randevu alabilirsiniz. Soru ve sorunlar\xc4\xb1n\xc4\xb1z i\xc3\xa7in mhrs@saglik.gov.tr adresimizi kullanarak bize ula\xc5\x9fabilirsiniz.Recent changes:v1.2-\xc3\x87e\xc5\x9fitli hata d\xc3\xbczeltmeleriv1.1-\xc3\x87e\xc5\x9fitli k\xc3\xbc\xc3\xa7\xc3\xbck hatalar giderilmi\xc5\x9ftir-Cinsiyet g\xc3\xb6sterim hatas\xc4\xb1 d\xc3\xbczeltilmi\xc5\x9ftir-Gerekmeyen cihaz eri\xc5\x9fim talepleri kald\xc4\xb1r\xc4\xb1lm\xc4\xb1\xc5\x9ft\xc4\xb1r.-Performans iyile\xc5\x9ftirmeleri.Yeni \xc3\xb6zellikler;-Hekim poliklinik de\xc4\x9fi\xc5\x9fikli\xc4\x9fi bilgilendirme (Uygulaman\xc4\xb1n bir sonraki kullan\xc4\xb1m\xc4\xb1nda)'
+p4
+tp5
+tp6
+.

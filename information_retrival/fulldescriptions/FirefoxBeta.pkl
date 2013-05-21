@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Firefox Beta '
+p1
+tp2
+(S'Description:'
+p3
+S"Help refine and polish the newest features almost ready for prime time. With Firefox Beta, you get to test the latest performance, customization and security enhancements before they make it to our next version. Have an impact by helping to put the finishing touches on features and functionality.**We need your help testing ARMv6! If you have an ARMv6 device, download Firefox Beta and tell us what you think.Visit https://bitly.com/FXinput to report issues or share your suggestions so we can make Firefox for Android more awesome. Find a bug? Report it at http://mzl.la/android_bugs. Want to know more about the permissions Firefox requests? http://mzl.la/PermissionsSee our list of supported devices and latest minimum system requirements at https://www.mozilla.org/en-US/firefox/mobile/platforms/. ABOUT MOZILLAMozilla is a proudly non-profit organization dedicated to keeping the power of the Web in people's hands. We're a global community of users, contributors and developers working to innovate on your behalf. When you use Firefox, you become a part of that community, helping us build a brighter future for the Web. Learn more at mozilla.org.Recent changes:- Per-tab private browsing- Gingerbread and Honeycomb support for H.264/AAC/MP3 hardware decoders- Top Sites in about:home are now customizable- System requirements have been lowered to 384MB of RAM and QVGA displays-  now supports blend modes- Various  and  improvementsLearn more: http://www.mozilla.org/en-US/mobile/21.0beta/releasenotes/"
+p4
+tp5
+tp6
+.

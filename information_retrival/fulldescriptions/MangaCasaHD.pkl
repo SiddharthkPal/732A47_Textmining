@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Manga Casa (HD) '
+p1
+tp2
+(S'Description:'
+p3
+S'Manga Casa (HD) provides 50,000+ HD Japanese Manga/Comics/Anime wallpapers, all the backgrounds are high definition and downloadable. Features:- Browse HD Manga and Anime backgrounds- Download and save HD wallpaper- Sort by freshness and download times- Exact size preview (scrollable wallpapers)- Keyword searching for the whole wallpaper database- Share wallpaper to facebook, twitter, SMS.- Small (fast speed) or Large (high quality) thumb viewing.- Fast and stable server connection.Our application is free, fast and offers the best collection of Manga, Comics high resolution wallpapers and backgrounds with FEQUENT UPDATES!MangaCasa supports device with high resolution (Samsung Galaxy Note, Galaxy S3, Nexus 7 tablet), it will auto-detect device screensize and assign the best resolution of wallpaper (and saving your bandwidth too!)We put much afford to categorize the wallpapers into a well define 2-level categories structure (500+ categories), including:- Angel Beats- Bakemonogatari- Black Rock Shooter- Bleach- Card Captor Sakura- Code Geass- Dealth Note- Detective Conan- Dragon Ball- Naruto- One Piece- Pokemon- Spice And Wolf- Tengen Toppa Gurren LagannRecent changes:v2.1.6- Keyword search supports English, Chinese and Japanese- Add more sub-categories e.g. "Chuunibyou demo Koi ga Shitai! / \xe4\xb8\xad\xe4\xba\x8c\xe7\x97\x85", "The Familiar of Zero / Zero no Tsukaima", "Kuroko Basketball \xe9\xbb\x91\xe5\xad\x90\xe7\xb1\x83\xe7\x90\x83"...etcv2.1.5- Total wallpapers reach 40,000 !- Allow user to download "Original size" wallpaper with 2.5MB filesize limit (previously is 2MB).'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'4oD '
+p1
+tp2
+(S'Description:'
+p3
+S'The 4oD app is free to download and hosts a wide selection of programmes from Channel 4, E4 and More4. This content is available to watch free of charge, with no limit to the amount you can watch, and is accessible via WiFi networks. Browse for programmes by date of broadcast, category type, A to Z list - or try our editorially curated collections.  Features:Free to download appWide selection of shows from Channel 4, E4 and More4Free and unlimited access to contentHuge 30-day catch up windowSome of the most memorable shows from the last 30 years Content accessible via WiFi networks Please note:Rooted devices are not supportedRecent changes:This version of the app includes minor bug fixes and new functionality:- Sign in to view exclusive premieres- Resume play on interrupted viewing'
+p4
+tp5
+tp6
+.

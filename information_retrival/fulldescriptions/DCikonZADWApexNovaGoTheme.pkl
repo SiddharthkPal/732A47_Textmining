@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DCikonZ ADW Apex Nova Go Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'This is theme & icons pack for most popular Launchers. This is NOT Launcher. You MUST have installed one of this Launchers to use this theme: "ADW Launcher", "Nova Launcher", "Apex Launcher" or "Go launcher EX".No ads, no permissions and it\'s free :) The main thread of this project is the XDA forum:http://forum.xda-developers.com/showthread.php?t=1972383You can send requests for specific programs icon on the forum or my e-mail.You can also help to develop this theme, details is on my website :)---- Please, click "MORE" and read how to apply this theme ----Elegant and toned theme & icons pack for ADW, Nova, Apex, Holo, Atom and Go launcher.Clock widget is NOT part of theme, this is "HD Widgets" available in Google Play :).\xc2\xbb FEATURES \xc2\xab- 1840 HD icons and growing.- 4 Wallpapers, please download my DCwallpaperZ app for more (for Nova this is necessary)- Dock for Go Launcher.- Works with Nova, Apex, Go, Holo, Atom, SmartLauncher, Espier4 and ADW Launcher. For TSF is separately app.\xc2\xbb INSTRUCTIONS \xc2\xabTo apply the theme:- Nova: press MENU > Nova Settings > Look and feel > Icon Theme ...- Apex: press MENU > Theme settings ...- Go Launcher: MENU > Themes > Installed ...- ADW: press MENU > ADW Settings > Themes Preferences ...... Choose the DCikonZ Theme from the list and apply it.To change app\'s icon on homescreen:- Nova/Apex: Long press app icon > Edit > tap the icon > Icon Pack > Select theme and you can select any icon.- Go LauncherEX: Long press app icon > Replace > Select theme from the top left corner dropdown > Select any icon.- ADW Launcher: Double tap app icon > Edit > tap the icon > ADWTheme IconPacks > Select theme and you can select any icon.If your launcher does not support theme/icons changing - it will not work.** Please rate and comment **Tag: GSLTHEMERecent changes:1.2.1 - 140 new icons + fixes and updates.1.2.0 - 100 new icons + fixes and updates.1.1.9 - 150 new icons + fixes and updates + SmartLauncher support.1.1.8 - 130 new icons + fixes and updates.1.1.7 - 120 new icons + fixes and updates.1.1.6 - 150 new icons.1.1.5 - 30 new icons + bug fixes + optimizations1.1.4 - 120 new icons.1.1.3 - 80 new icons.1.1.2 - Added and updated 70 icons + fixes.1.1.1 - Added 33 new icons and making some fixes.'
+p4
+tp5
+tp6
+.

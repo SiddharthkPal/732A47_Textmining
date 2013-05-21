@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Super Ruler Free '
+p1
+tp2
+(S'Description:'
+p3
+S"Super Ruler advanced version:The old version of Super Ruler owns several functions like Ruler, Diagonal ruler, Protractor and Distance Measurement). Besides, the new version adds other three new functions, Level Measurement, Vertical Measurement and Cross Vertical Measurement. And you can find the Distance Measurement function easier to use and the measuring result more accurate.The added functions:1.Level MeasurementUse this function to examine everything like your flooring to see whether it is level.2.Vertical MeasurementA vertical which is always plumb to the ground help you to check everything you want to.3.Cross Vertical MeasurementThe two mutually perpendicular lines help you to adjust everything like oil painting to be upright.The Distance Measurement function\xef\xbc\x9aThe process of the distance measurement is much easier and accurate in the new Super Ruler. If you want to know the height of something or the distance between you and something, Super Ruler can reach your goal with only three steps.Recent changes:Add dynamically measure function in Diagonal Ruler.Modify the Vertical unable to 90 degree's bug when phone is upright."
+p4
+tp5
+tp6
+.

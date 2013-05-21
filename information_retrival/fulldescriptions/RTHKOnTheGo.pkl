@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RTHK On The Go '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe3\x80\x8aRTHK On The Go\xe3\x80\x8b is created by the New Media Unit of RTHK. It supports smartphone with Android 2.1 or above. Android smartphone users may download the application from Android Market and install it in the Android smartphone free of charge - then enjoy live radio programmes, instant news and download our podcast highlights with Wi-Fi or mobile phone networks anytime, anywhere!While \xe3\x80\x8aRTHK On The Go\xe3\x80\x8b is a free service, data transmission fees may be incurred for receiving/transmitting data through mobile phones, and such function may be not applicable for your monthly plan. Please consult your mobile phone network on the actual fee arrangement before using the application.This app runs smoothly on Android 2.1 - 4.2Recent changes:Radio live: improve auto reconnect mechanism'
+p4
+tp5
+tp6
+.

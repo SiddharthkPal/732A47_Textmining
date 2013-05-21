@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Talking Mouth '
+p1
+tp2
+(S'Description:'
+p3
+S'Talking Mouth provides different funny mouths to play talking animation as you hold phone infront of your mouth and start talking funny. Talking Mouth helps you talk silly with your favorite funny mouth infront of your real mouth as you talk funny.The talking mouth gives you cover to talk funny with funny sounds to your friends. As you soon as you start talking funny mouth detects you are talking and starts moving lips as if you are talking.Funny mouth detects your talk and starts moving lips as if you are talking with silly mouth. Talking mouth provides male, female and vampire mouths so that you can be a vampire and play scary voice with your friends.'
+p4
+tp5
+tp6
+.

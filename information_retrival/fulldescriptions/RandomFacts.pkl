@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Random Facts '
+p1
+tp2
+(S'Description:'
+p3
+S"** UPDATE** Over the course of the next few weeks I will be doing a massive overhaul on the fact database. There's a lot to sift through, so bear with me.Random Facts  has thousands of facts. There are silly facts, animal facts, science facts, completely random out of the blue facts, and much more.Random Facts  is simple to use.  Just click back, next to navigate through the constantly growing database of facts, or roll the dice for a random fact!If there's a certain fact you want to see, click on the fact counter and enter a number to go to that fact. Play around with random numbers to see which facts you'll get.If you find a fact you think is funny, outrageous, interesting, or completely ridiculous; Share it with your friends or press the star to add it to your favorites list!We're always reviewing the database and adding new facts based on your input! So feel free to email us using the Comments/Suggestion button to send us your feedback.Note: The permissions are required for advertisements. We do not modify or collect any information from you.Note: Long facts are scrollable.kw:random facts, food facts, animal facts, space facts, facts, fun facts, cool facts, interesting facts, human factsRecent changes:v 1.42 - Fixed Menu Button, Updated Database"
+p4
+tp5
+tp6
+.

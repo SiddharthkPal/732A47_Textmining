@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'makoTV '
+p1
+tp2
+(S'Description:'
+p3
+S"makoTV by Keshet broadcasting offers a wide and rich video content.Watch the most successful Israeli shows such as Hatufim, Yom Ha'em, Kochav Nolad, Bet-Sefer Le'musica, Eretz Nehederet and Live channels such as the Israeli Music channel 24 and Channel 2 News * The app requires an Internet connectionEnjoy!Recent changes:- Live Channels 24/7: Channel 2, Channel 24, The news channel and more - Exclusive TV premieres - A rich children's section - Social activities over live video - An easy and fast search - New design"
+p4
+tp5
+tp6
+.

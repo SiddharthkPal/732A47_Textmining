@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RaceChrono '
+p1
+tp2
+(S'Description:'
+p3
+S'RaceChrono\xe2\x84\xa2 is a GPS based lap timing software. It can be used for almost all types of racing and outdoor sport. RaceChrono has rich lap analysis features suited especially for motor sports, making it a great alternative to traditional car, karting and motorcycle lap timers.RaceChrono has following major features:\xe2\x80\xa2 Lap timer for circuit and point-to-point tracks (both standing start and flying start is supported)\xe2\x80\xa2 Analysis mode with smooth scrolling configurable map and graphs\xe2\x80\xa2 Lap list with optimal lap time calculation\xe2\x80\xa2 Library of over 600 pre-made racing circuits\xe2\x80\xa2 Exporting to CSV and NMEA formats\xe2\x80\xa2 Intuitive track editor for creating your own track maps \xe2\x80\xa2 Virtually unlimited amount of saved sessions\xe2\x80\xa2 Virtually unlimited session length\xe2\x80\xa2 Bluetooth GPS support up-to 20hz (for superior accuracy over internal GPS)\xe2\x80\xa2 Internal GPS support\xe2\x80\xa2 Smooth graphics especially on devices that support hardware accelerationNotice, devices with Android 2.1 will get an older version of the application with slightly fewer featuresRecent changes:\xe2\x80\xa2 Improved graphics and usability\xe2\x80\xa2 Graphics acceleration support\xe2\x80\xa2 Update Rate channel for graphs\xe2\x80\xa2 Analysis map can be switched between Satellite, Roadmap and Simple modes\xe2\x80\xa2 Configurable map markers and driving line color \xe2\x80\xa2 Standing Start trap type'
+p4
+tp5
+tp6
+.

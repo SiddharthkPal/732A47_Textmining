@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Move! Bike Computer '
+p1
+tp2
+(S'Description:'
+p3
+S"The Move! Bike Computer is advanced GPS track logger and speedometer. You can use it for every activity and sport where speed and distance matters, like bike and bicycle riding, car driving. Run, walk, drive, sail with your phone, display any data you need on configurable main screen, or just save your trip's track to analyze them later on Google Maps, export routes to Google Earth, share with email, DropBox, or any other file sharing application to save your training for later analysis. Switch units between miles, kilometers, knots. Get your actual or average speed, check your altitude, compass bearing. All with your GPS enabled phone. If you are a pro user, just dump your trips data with raw format and use it as you want, or just export to Google's KML, or Garmin's GPX format to upload it to web site of your choice. You can also just keep your data on your phone or PC.Features:10 concurrent, configurable gauges.Miles, Kilometers and Knots.Current speed based on GPS receiver.Pace (minutes per mile/km).Maximum speed.Average speed (with or without idle time).Total trip time.Active trip time.Idle time.Altitude (GPS or GPS + barometric sensor if available).Total uphills.Total downhills.Bearing (GPS based).Position error.Visible / fixed satellites.And 20 others Track recording (works in background).Export track to KML, GPX or CSV. Save it to your SD card or email. Or just put it on your Google Drive and share your with friends.View track on a map, just in application or use your favorite software.Track statistics - view or share by any of your messaging apps.Extensive customization options.Raw data dump in CSV format with GPS position, speed, bearing, altitude and time.Recent changes:Added Pocket Change - collect points for using this application and get real rewards"
+p4
+tp5
+tp6
+.

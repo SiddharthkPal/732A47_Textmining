@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MangaZoo - Manga Reader Online '
+p1
+tp2
+(S'Description:'
+p3
+S'MangaZoo, the best manga reader with awesome user experience and latest manga books.You can browse by categories, search by name or tag, see the new books arrive, lastest updates, more viewed.Some feature:\xe2\x88\x9a Now is multi-source\xe2\x88\x9a Search option by Books or Author\xe2\x88\x9a Browse by category\xe2\x88\x9a Top viewed books\xe2\x88\x9a Surprise me option\xe2\x88\x9a Tablet ready\xe2\x88\x9a Landscape ready\xe2\x88\x9a Updated books direct access\xe2\x88\x9a Scans in HD\xe2\x88\x9a Books browser with covers.\xe2\x88\x9a Chapters with dated added and views.\xe2\x88\x9a Save and order your favoritesTested on:- Nexus 4 (4.2.2)- Samsung Galaxy Mini (2.3.5)- Samsung Galaxy Tab (2.2)- Samsung Galaxy Note 2 (4.1.2)- HTC Desire HD (2.3.2)- Sony Xperia P (4.0.2)- Asus Transformer (4.0.2)Some of the most viewed books manga at the moment:- Naruto- One Piece- Bleach- Desire Climax- Unbalance x Unbalance- Fairy Tail- NOBLESSE- Wolf Guy - Wolfen Crest- Love Monster- Beelzebub- Katekyo Hitman Reborn!- Eyeshield 21- Kaikan Phrase- Red River- Hajime no Ippo- FUTARI ECCHI- Detective ConanRecent changes:Email to support@ninecols.com if you have any trouble. Thanks.3.6.1:Some users have experience issues with favs due his device not updated the internal BD properly. We try to solve this strange issue. Otherwise, full reinstall is recommended.3.6.0:Added: MangaZoo now is multi source contentAdded: Serverless appAdded: Jump option on Swiping view Fix: Jump option not work properly on first picFix: Sort options on side menuFix: Coding error and other bugs'
+p4
+tp5
+tp6
+.

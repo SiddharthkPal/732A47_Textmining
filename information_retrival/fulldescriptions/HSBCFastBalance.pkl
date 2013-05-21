@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HSBC Fast Balance '
+p1
+tp2
+(S'Description:'
+p3
+S"HSBC FAST BALANCEWhat it is:You can now check your balance and latest transactions quickly and easily using HSBC Fast Balance.You can use Fast Balance with all HSBC Bank current accounts where HSBC have provided you with a debit card.This app is compatible with Android 2.2 and above.What you can do:- Check your balance- View your six latest transactions- Top-up your mobile phoneAccessing your account is easy. Once you\xe2\x80\x99ve downloaded HSBC Fast Balance and registered your details, all you need do to see your balances is click the HSBC Fast Balance icon, enter your passcode and then select \xe2\x80\x98Balance\xe2\x80\x99 from the menu. It's that simple.You don't have to log on to internet banking or use your Secure Key. How to register:1. Download HSBC Fast Balance and accept our terms and conditions2. Enter your details (you'll need your account information as well as your mobile phone number)3. Enter your debit card details to link the account to the app.4. When prompted, enter the activation code we send to your smartphone5. Create a passcode of between 5 to 8 digits.That's all there is to it. Terms and conditions apply."
+p4
+tp5
+tp6
+.

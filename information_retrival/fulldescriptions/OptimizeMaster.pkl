@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Optimize Master '
+p1
+tp2
+(S'Description:'
+p3
+S"The System Optimization Master is a professional, powerful Android tool that optimizes your phone's system, boosts operating speeds, and improves smartphone efficiency. Simple and powerful to use, it is an indispensable optimization tool for Android users. Main Features:Smartphone optimization with a comprehensive suite of functions. Single-key optimization. Simple and efficient. Intelligently shuts down background operations and cleans up unwanted processing to improve smartphone speed. Long press to keep necessary operations active and protect an app from closing. Cleans up app cache data to save space and free up memory. Automatic system optimization schedule to keep your smartphone running perfectly."
+p4
+tp5
+tp6
+.

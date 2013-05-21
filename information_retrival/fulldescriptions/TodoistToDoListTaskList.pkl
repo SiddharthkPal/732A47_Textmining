@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Todoist: To Do List, Task List '
+p1
+tp2
+(S'Description:'
+p3
+S"Join more than 500,000 loyal users who are getting more done with Todoist, the leading personal task and todo list manager!Featured by TechCrunch, New York Times, Lifehacker, ReadWriteWeb, Phandroid, Android Police, and many others, Todoist works wonderfully across all your devices and platforms (mobile, desktop, web browser and e-mail) so you can boost your productivity and do more each day.With Todoist\xe2\x80\x99s powerful free app, you get the best task management experience available on Android:\xe2\x80\xa2 Add and manage unlimited tasks\xe2\x80\xa2 Arrange your tasks into projects\xe2\x80\xa2 Get organised with powerful features such as due dates, sub-tasks, task priorities, and coloured projects\xe2\x80\xa2 Leverage amazing widgets, actionable notifications, and advanced settings\xe2\x80\xa2 Synchronise with the cloud and across all your devices and platforms\xe2\x80\xa2 Work online and offlineWith a premium Todoist account, you\xe2\x80\x99ll experience the most outstanding task management experience on the market:\xe2\x96\xb8 Set up and receive reminders through SMS, email, or push notifications\xe2\x96\xb8 Get even more organised using task notes, colourable labels, and powerful search filters\xe2\x96\xb8 Track and improve your productivity on Todoist.com\xe2\x96\xb8 Make use of our amazing support team, and vote on the features you want to see implemented\xe2\x96\xb8 And much, much more!\xe2\x9d\x9dTodoist gives you a suite of productivity tools in a very elegant, stylish and simple package. Those on Android 4.0 and higher will especially fall in love.\xe2\x9d\x9e \xe2\x80\x94 PhandroidFeel free to contact us directly if you need any kind of support: http://todoist.com/Support_Android/. We hope you love our app as much as we do \xe2\x80\x93 please let us know what you think!Recent changes:\xe2\x98\x85 What's new and improved:\xe2\x80\xa2 Full tablet support \xe2\x80\x94 it looks and feels gorgeous on all tablet sizes!\xe2\x80\xa2 Daily review \xe2\x80\x94 get a daily notification of your tasks!\xe2\x80\xa2 New icons\xe2\x80\xa2 Settings are now better organised\xe2\x80\xa2 Various improvements and bug fixesA lot of code was improved to adhere to the latest Android standards. If you have any issues or notice any hiccups, please contact us directly: http://todoist.com/Support_Android/. Thank you!We hope you enjoy this release as much as we do! :-)"
+p4
+tp5
+tp6
+.

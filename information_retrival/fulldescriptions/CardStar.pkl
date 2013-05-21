@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CardStar '
+p1
+tp2
+(S'Description:'
+p3
+S'Go Cardless with CardStar\xe2\x84\xa2 from Constant Contact. Fast, easy & secure! LIGHTEN YOUR WALLET and move your plastic loyalty cards, reward cards and membership cards to your phone so you never miss out on a reward, discount, or deal again. IMPORT YOUR CARDS IN MINUTES using your phone\xe2\x80\x99s camera for hundreds of national and regional retailers, libraries and associations. If we don\xe2\x80\x99t support a card, or if your card doesn\xe2\x80\x99t have a barcode, it\xe2\x80\x99s easy to create a custom card.BROWSE THOUSANDS OF DEALS AT YOUR FINGERTIPS including special offers, sales, daily deals and much more from your favorite places to shop. Save grocery coupons directly to your card \xe2\x80\x93 no clipping required. Get deals when and where you want them. CHECK OUT IN STYLE and have the cashier scan your cards directly from your phone. Note: this feature is designed to work with many models of handheld scanning guns, but not self-checkout stations or belt scanners. In the event that a barcode does not scan, have the cashier can enter your number by hand.YOUR INFORMATION STAYS PRIVATE AND SECURE with advanced features like card backup and passcode lock. Protect your cards from loss or unauthorized use.Recent changes:3.0.3/.4* Optimized background process to reduce battery usage* Show message counts and added ability to dismiss them (swipe or long press)* Bug fixes for card display & editing, restoring local backups, barcodes and more.3.0* New cleaner design following Google guidelines for modern UIs* Initial support for digital and partner cards; more coming soon!* Receive messages from CardStar about new cards* Enable hiding of barcodes (via editing) for cards where you only care about the number.'
+p4
+tp5
+tp6
+.

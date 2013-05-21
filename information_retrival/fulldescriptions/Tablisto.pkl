@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tablisto '
+p1
+tp2
+(S'Description:'
+p3
+S'Tablisto is an intuitive reader offering you the possibility to read a book, magazine or newspaper in either pdf- or ePub-format, without worrying about all kinds of settings and preferences. Our future kiosk gives you a clear overview of magazines or books, which are immediately available. Besides paid products, subscriptions, single (and earlier) issues you will also find sample copies you can download immediately. Books and magazines can be enhanced with interactive content like movie or audio clips, photo galleries and hyperlinks. Tablisto also offers readers the possibility to make comments on certain articles and read the remarks of others. If you have obtained a subscription to a magazine, any new issue will automatically literally drop on your virtual doorstep. If you run out of disk space on your tablet, you can safely remove any books or magazines you have already read by archiving them to your virtual attic. You can download them any time again if you decide to have a second look at them. Optimal usability Especially students will appreciate the \xe2\x80\x98dynamic bookmarks\xe2\x80\x99 Tablisto offers exclusively, enabling them to frequently switch between multiple locations in a book. You actually create multiple navigation sliders which will follow you throughout the book while reading, which is similar to keeping your fingers between different sections in a \xe2\x80\x98real\xe2\x80\x99 book. If a book contains a table of content, Tablisto offers you the unique search facility to search this index specifically. Finally, on your bookshelf you will find anything you have ever obtained and/or read, clearly categorized. You can even create storage boxes to keep everything tidy.Recent changes:Version 1.0.4 (18-04-2013)- Problem solved with white pages when tablet has view resources available- Problem solved with time zone settings and incorrectly expiring licenses - Many other small bug fixes'
+p4
+tp5
+tp6
+.

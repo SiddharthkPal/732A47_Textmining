@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CoolPix '
+p1
+tp2
+(S'Description:'
+p3
+S'"D10 CoolPix" brings 10 funniest pictures to you every day from around the world.  Our editors work around the clock to bring you the latest and most popular pictures from Facebook, twitter, Instagram, Flickr and Youtube. Entertain yourself with all these pictures. At least 10 pictures are added every day.'
+p4
+tp5
+tp6
+.

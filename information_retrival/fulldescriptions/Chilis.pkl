@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Chilis '
+p1
+tp2
+(S'Description:'
+p3
+S'Bold food demands a bold app! With our new app, you can find a Chili\xe2\x80\x99s restaurant, browse the menu, get coupons, and even order To-Go directly from your app! You\xe2\x80\x99re never too far from a Chili\xe2\x80\x99s and now it\xe2\x80\x99s easier than ever to order To-Go!- Find a Chili\xe2\x80\x99s using your current location, by Zip Code, or by City & State. - Get Maps & Driving Directions to Chili\xe2\x80\x99s. - See Chili\xe2\x80\x99s featured items & coupons. - Browse Chili\xe2\x80\x99s full menu. - Order online for To-Go service. - Sign up for the Chili\xe2\x80\x99s Email Club to be notified of current deals, promotions, and new menu items. - Follow us on your favorite social networks like Facebook & Twitter. - Scan QR codes in the restaurant with a new built-in code scanner.- NEW updated homepage \xe2\x80\x93 easier to find what you\xe2\x80\x99re looking for- Maps update - allows use of your native map applicationRecent changes:- Minor Enhancements and Bug Fixes'
+p4
+tp5
+tp6
+.

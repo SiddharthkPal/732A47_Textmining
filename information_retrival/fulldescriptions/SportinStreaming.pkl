@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sport in Streaming '
+p1
+tp2
+(S'Description:'
+p3
+S"Livesportweb.it \xc3\xa8 lieta di presentarvi la prima app su google play per guardare lo sport in streaming!Con Sport in streaming puoi guardare il meglio dello sport e del calcio direttamente sul tuo tablet/smartphone!Serie A, Bundesliga, Premier League, Primera Division, Champions League, Uefa Europa League, Formula1, Eredivisie e altri campionati.Ogni giorno verrano inseriti tutti gli eventi sportivi da vedere sul vostro tablet!Non garantiamo la visione di tutti gli eventi sportivi!L'app fornisce i canali presenti su Sopcast e TVUPlayer per la visione delle partite! Vengono utilizzati solamente i canali presenti su questi due software/app presenti gi\xc3\xa0 su Google play. Non utilizziamo altri servizi esterni.Per funzionare correttamente, sconsigliamo l'uso di reti 3G o mobili, consigliamo l'uso di reti wi-fi e consigliamo di aprire il canale qualche minuto prima che l'evento cominci per caricare la partita.Per qualsiasi problema contatta lo sviluppatore prima!!!E se ti piace l'app lasciaci un commento!App sviluppata da Gdg92ct in collaborazione con livesportweb.itPer qualsiasi domanda, dubbio, chiarimento o miglioramenti che ti piacerebbe che l'app abbia contattaci tramite:sitoweb: http://www.livesportweb.itforum: http://www.livesportweb.it/forumemail: info@livesportweb.itfacebook: http://www.facebook.com/livesportweb.itRecent changes:Versione 1.1:-Risolti alcuni bug-Tolto lo script che veniva visto come virus."
+p4
+tp5
+tp6
+.

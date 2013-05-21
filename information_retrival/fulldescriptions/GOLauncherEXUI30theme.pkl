@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Launcher EX UI3.0 theme '
+p1
+tp2
+(S'Description:'
+p3
+S'UI3.0 theme, designed by Go Launcher Dev Team, is available now! UI3.0 theme contains more than 100 beautiful original designed icons, includes most popular apps. Get it and have a completely new makeover of your smartphone at once!Features:- Design more than 100 icons for current popular apps- Special customized wallpaper- Adapt different kinds of screen resolution automaticallyNotice:- Make sure the latest version of GO Launcher EX has been installed! (Search \xe2\x80\x9cGO Launcher EX\xe2\x80\x9d to download) - Apply the Theme: MENU->Click \xe2\x80\x9cThemes\xe2\x80\x9d-> Choose UI3.0 theme in \xe2\x80\x9cInstalled\xe2\x80\x9dtab.- Icons copyright belongs to the original.Want an extreme makeover for your phone? Action nowRecent changes:1. (Add) Allsnow, Fancy, Feedly, Filemanager, Google keep, Google setting, Pulse, Pushbullet, Quora, Skala, Zaker, Baidu music, CMB, CoolAPK, Douban Dianying, Douban Goushu, Douban Huodong, Douban Reader, Duokan, Fuubo,Papa, Siciyuan, UCCN, Wangyi News, Weico, WeChat, Xiachufang.'
+p4
+tp5
+tp6
+.

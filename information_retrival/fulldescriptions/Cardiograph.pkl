@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cardiograph '
+p1
+tp2
+(S'Description:'
+p3
+S"Cardiograph is an application which measures your heart rate. You can save your results for future reference and keep track of multiple people with individual profiles.Cardiograph uses your device's built-in camera to take pictures of your fingertip and calculate your heart's rhythm - the same approach used by professional medical equipment!\xe2\x9c\x93 Measure your heart rateIt's never been easier to know what your heart rate is! Without any external hardware, just using the built-in camera of your smartphone or tablet, you can get accurate readings almost instantly.Knowing how fast your heart is beating can be very useful when exercising, if you're under stress, if you have a heart-related medical condition, or even just out of curiosity.\xe2\x9c\x93 Track your resultsEvery measurement you take is saved to your personal history, so you can keep track over time. \xe2\x9c\x93 Multiple profilesCardiograph is perfectly tailored to allow multiple people to use the app on a shared device. You can create profiles for each of your family members or friends, and each of them has their own individual measurement history.\xe2\x9c\x93 Clean and intuitive designInspired by real-life medical equipment, Cardiograph is a pleasure to use. The streamlined and clutter-free design makes it seem instantly familiar, so you can focus on using the app instead of navigating through series of confusing screens.\xe2\x9c\x93 Interesting FactsEnjoy dozens of interesting, insightful and fun facts about the heart while you measure your pulse. Just don\xe2\x80\x99t get too excited about them, it may interfere with the results...Please note: If your device doesn't have a built-in camera flash, you need to take your measurements in a well lit environment (bright sunlight or close to a light source).Check our other cool apps:\xe2\x9c\x93 Battery\xe2\x9c\x93 WeatherGet in touch with us and follow the latest news regarding our apps:http://www.facebook.com/macropinchhttp://twitter.com/macropinchKeywords: heart rate cardio measure beauty instant health fitness training jogging pulse camera heartrateRecent changes:* Fixed a crash and freeze on Tegra 2 devices (Droid X2, Atrix, LG G2x)* Fixed paper drawing on QHD resolution devices (Droid X2, Atrix, Galaxy Tab 7)* Better performance when dragging to delete a history record"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Excel to PDF Converter '
+p1
+tp2
+(S'Description:'
+p3
+S'Best Excel to PDF Converter!The Fastest and reliable converter in the market.Now convert all your excel documents to High quality PDF format, quickly and easily.We dont read or store your documents, WE JUST CONVERT THEM, so all your content will remain secure and private.FEATURES******************************************-Supports csv, xls, xlsb, xlsx, xlt, xltx formats-PDF will be exact replica of the your document.-Settings are available to Title, Author, Subject and Keywords to PDF-Share your PDF immediately via bluetooth, email etc.-Background conversion-Fast and accurate conversion-Requires working internet connection to use this service******************************************HOW TO USE------------------------------------------------------------- Browse the file to be converted- Long click on filename to get menu options- Select Convert to PDF option- PDF will get created in few seconds (based on your intenet speed)-----------------------------------------------------------KEYWORDS:PDF, Portable document format, convert, Excel, fast, free, simple, document, csv, xls, xlsb, xlsx, xlt, xltx, Microsoft, Open, Office'
+p4
+tp5
+tp6
+.

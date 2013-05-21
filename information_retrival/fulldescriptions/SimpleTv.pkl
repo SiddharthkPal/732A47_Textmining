@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simple Tv '
+p1
+tp2
+(S'Description:'
+p3
+S'Simple Tv is a free application which allows you to watch all free live TV streams on your mobile device gathered from different tech forums.*****Simple Tv is the best app for watching live tv channels from countries like :Albania, Bulgaria, China, Denmark, Finland, France, Germany, Greece, Iceland, Indonesia, Italy, Netherlands, Norway, Philippines, Portugal, Romania, Russia, Spain, Sweden, Turkey, UK, Ukraine, U.S.A., Vietnam channels in your android for free!*****Please note that for the tv streams you need to have a good wifi connection/4G.NOTES:-Some channels no broadcast live 24 hours a day, for this reason, in some moments of the day the display of a channel can be displayed in black or with some messages like "the program is not available".-Some channels may take several seconds to load.IMPORTANT: All content shown in the application \xe2\x80\x9cSimple Tv\xe2\x80\x9d are links to third parties, public domain and totally unrelated to the application.Recent changes:v1.0.8:-Indonesia and Philippines added-the channels from your own list are appearing correctly-the crash when they were opened is fixedv1.0.7:-"add channel" button added-"delete all" button added-own list added1.0.6:-design revamped 1.0.5-app is ad-supported-the 30 seconds limitation has been removed1.0.4-unregistered users can use the application for 30 seconds-fixed the crash when list was not retrieved-when screen orientation is changed the list is not downloaded again'
+p4
+tp5
+tp6
+.

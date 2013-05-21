@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OBDLink (OBD car diagnostics) '
+p1
+tp2
+(S'Description:'
+p3
+S'Convert your phone or tablet into a full-fledged diagnostic scan tool: read diagnostic trouble codes, clear the "Check Engine" light, check emissions readiness, estimate fuel economy and much more! **The OBDLink app exclusively works with OBDLink MX, OBDLink Bluetooth, and OBDLink WiFi adapters available from ScanTool.net. It will not work with any other brand of OBD adapter.***Key features:- Check and clear diagnostic trouble codes- Read freeze frame data- Display real-time data (over 90 parameters!)- Customizable dashboards- Emissions readiness for each US state- Fuel economy MPG, l/100km or km/l calculation- Multiple trip meters- Log data to CSV format (compatible with Excel)- Retrieve vehicle information including VIN number and calibration ID- Oxygen Sensor Results (Mode $05)- On-board Monitoring Tests (Mode $06)- In-performance Tracking Counters (Mode $09)- GPS tracking - plot vehicle parameters on a map in real-time- Full diagnostic report- English and Metric units- Free unlimited updatesRecent changes:- Fixed a bug that could prevent log files from opening on some cultures. Newer log files will now open correctly.- Fixed a bug that prevented logging from working on some devices.- Fixed a bug that prevented GPS updates when putting the application in the background while connected.- Improved communication stability for some vehicles.- Improved application stability.'
+p4
+tp5
+tp6
+.

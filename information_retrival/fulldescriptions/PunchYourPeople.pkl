@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Punch Your People '
+p1
+tp2
+(S'Description:'
+p3
+S"Punch Your People lets you show no mercy to your friends (or relatives, or coworkers or college partners, etc.).You just need a photo of your victim to get a three-dimensional version that you can punch or cut with a sharp knife (there will be more weapons in the future). The visual result is shocking. You will see how his skin gets bruised and bleedy wherever you hit. Eventually you'll get the skull exposed if you have much rage and mistreat him enough.All your victims will be archived so you can comfortably assault them again. Plus, you can at any time of the action take a snapshot of the results to share with friends via social networks like Facebook, by e-mail, etc.Highlights:\xe2\x98\x85 An advanced booth application\xe2\x98\x85 Stunning 3D graphics\xe2\x98\x85 Realistic sound\xe2\x98\x85 Blood effects\xe2\x98\x85 Weapons: fist and knife (more to come)\xe2\x98\x85 Option to take snapshot to share (Facebook, e-mail...)\xe2\x98\x85 Victim archive\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95\xe2\x80\x95Keep in touch through Facebook! http://facebook.com/PedrocorpbookStay tuned on Twitter! https://twitter.com/PedrocorpRecent changes:\xe2\x80\xa2 Picture quality is preserved\xe2\x80\xa2 Faster and more sensitive analysis\xe2\x80\xa2 Better-looking UI\xe2\x80\xa2 Bug fixes\xe2\x80\xa2 Other little improvements"
+p4
+tp5
+tp6
+.

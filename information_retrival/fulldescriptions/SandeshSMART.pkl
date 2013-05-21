@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SandeshSMART '
+p1
+tp2
+(S'Description:'
+p3
+S'Sandesh Smart is a free to download Augmented Reality Application (AR app). So everyday when you see the Sandesh newspaper then look for the \xe2\x80\x98Sandesh Smart\xe2\x80\x99 Logo. These news items when seen from the Sandesh Smart will unlock the world around you with exclusive information, entertainment and virtual experiences.\xc2\xa0So now it is time to \xe2\x80\x98Get Smart and Get More\xe2\x80\x99 of what you like from your favorite Gujarati daily.Just what can you discover with the Sandesh Smart app?  -> Watch exclusive videos from the world of news and entertainment directly from Sandesh Newspaper  -> Picture gallery of your favorite events and happenings   -> Share the views about the news with friends on Facebook, Twitter or via Email.  -> Save the articles directly to your device to read laterHow to use it:  -> Download the app  -> Open and point your device at Sandesh newspaper item with \xe2\x80\x98Sandesh Smart\xe2\x80\x99 Logo\xc2\xa0  -> Get more of what you like on your device using augmented realityInternet connection is required.Recent changes:Minor bug fixes.'
+p4
+tp5
+tp6
+.

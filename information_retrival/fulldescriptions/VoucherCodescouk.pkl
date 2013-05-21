@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VoucherCodes.co.uk '
+p1
+tp2
+(S'Description:'
+p3
+S"Get the best money saving vouchers from the nation's #1 voucher code website on the FREE VoucherCodes.co.uk App.Save up to 50% at your favourite restaurants, make big savings on the high street, get 2-for-1 at great tourist attractions and more!RECENT SAVINGS ON THE APP:* 30% off your Bill at Pizza Express* 25% off In-Store at New Look* Buy One Main Get Another for \xc2\xa31 at Prezzo* 30% off In-Store at Gap* 20% off at Frankie and Benny\xe2\x80\x99s* 30% off In-Store at The Body ShopThe VoucherCodes.co.uk App features only our biggest and best vouchers ready for in-store redemption; this means that you won\xe2\x80\x99t find every voucher code listed on our website as some of these vouchers are for online use only.----ABOUT VOUCHERCODES.CO.UKThe VoucherCodes.co.uk App is brought to you by VoucherCodes.co.uk, the UK\xe2\x80\x99s favourite vouchers website. We work with over 2,500 leading stores, restaurants and attractions to secure our 6 million members the biggest and best vouchers out there.PRAISE FOR VOUCHERCODES.CO.UK* 9/10 \xe2\x80\xa6 the deals are terrific - Daily Mail* Some of the best deals online are at VoucherCodes.co.uk \xe2\x80\x93 Daily Mirror* VoucherCodes.co.uk offer fabulous discounts from all your favourite high street stores \xe2\x80\x93 The Sun* VoucherCodes.co.uk discount deals on everything from theatre tickets to clothes to food \xe2\x80\x93 The Times-----We\xe2\x80\x99re always excited to hear your feedback. If you have any thoughts on how we can improve the App or suggestions for vouchers you\xe2\x80\x99d love to see, drop us a line at:help@vouchercodes.co.ukhttp://www.vouchercodes.co.uk"
+p4
+tp5
+tp6
+.

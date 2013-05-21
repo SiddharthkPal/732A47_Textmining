@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pregnancy Contraction Timer '
+p1
+tp2
+(S'Description:'
+p3
+S'60,000+ downloads, Amazing to think that my little app has helped so many people  :-)Easy to use single screen interface, Undo/Options press the menu key, NO ads ever, source code on web site. This app is dedicated to my son Arthur who arrived 2.5 weeks early, before I had a chance to write this app, doh!All the best for your labor, this contraction calculator is free but please let me know if is useful.Made in New ZealandRecent changes:Added small screen support, warning on reset'
+p4
+tp5
+tp6
+.

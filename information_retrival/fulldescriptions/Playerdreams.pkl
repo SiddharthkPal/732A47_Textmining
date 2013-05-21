@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Player dreams '
+p1
+tp2
+(S'Description:'
+p3
+S"Player dreams.Version with the ability to move to memory card can be downloaded from 48dreams.com (We remind you that if you move the application on a memory card, then the widgets will not work)Widgets:- Widget 2X1- Widget 2X2- Widget 4X1- Widget 4X2- Widget 4X4- Widget 5X1Why did you choose this player?- It's free.- You store a pause in any file.- The player knows where he was stopped.- A lot of widgets.- There are previewed.- There is a sleep timer.- The ability to search for skins on the Internet.- There is an equalizer.- Ability to save playlists.- Pause button during a call.- Pause at the time of speech recognition.- Ability to toggle songs with the volume keys.- Ability to start playing when the headset.- There is internet radio.- Support for Cyrillic.- Ability to customize the headset button.- Tag editor.- Support for M3U.- Search for lyrics online.- Translation for the lyrics.- There is visualization.- Auto Pause saving the files longer than 15 minutes.- There is a slide show of all pictures to the music.- Ability to split files......Currently supports the following formats: .mp3 .ogg .3gp .wav .mp4 .m4a .mid .xmf .mxmf.rtttl .rtx .ts (Android 3.0+) .aac (Android 3.1+) .flac (Android 3.1+) .mkv (Android 4.0+)Permission Required:- Change the audio settings: It is necessary to adjust the volume.- Read the identifiers of the state and the phone: It is necessary to pause when a call.- Key lock for the lock screen.- Permission to record with microphone for visualization.Recent changes:Fixes bugs.Ability to split files.(For example, for a ringtone or remove the empty beginning)"
+p4
+tp5
+tp6
+.

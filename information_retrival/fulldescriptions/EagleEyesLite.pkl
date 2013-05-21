@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'EagleEyes(Lite+) '
+p1
+tp2
+(S'Description:'
+p3
+S"What is AVTECH EagleEyes-lite ?AVTECH EagleEyes-lite is a free application for all valued customer of AVTECH Corporation only.The EagleEyes software for Android will fulfill all your remote surveillance desire through simply touch control on the phone screen. No matter where you are and what time it is, as long as your Android phone is able to connect to the internet, you will be able to directly access to AVTECH\xe2\x80\x99s products. About AVTECH Corporation:To provide the most competitive products is the best accomplishment AVTECH Corporation achieved these years,it also enabled AVTECH Corporation to be the winner in the market.AVTECH Corporation will continue to combine the distribution experience of semiconductor component and the leading supplier advantages of security surveillance.With these advantages, AVTECH Corporation insist its technology developing and keep promoting its digitalization, integration, and networking products.AVTECH will provide worldwide customers the best price, best functions, and best service.NOTE: 1. Need android 2.2 above.2. Support push video (event notify).Recent changes:1. Support EaZy Device.2. Fix NVR switch single channel bug.3. Fix HTC device can't use local search feature.4. Fix PTZ Control can't setup auto pan.5. Fix Push notification will lost issue."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart Receipts '
+p1
+tp2
+(S'Description:'
+p3
+S"---Please note that this is the free version of Smart Receipts.  Purchasing the full version supports further development of Smart Receipts and is truly appreciated.https://play.google.com/store/apps/details?id=wb.receiptspro\xe2\x98\x85DESCRIPTION\xe2\x98\x85Turn your phone into a receipt scanner and expense report generator with Smart Receipts! There's nothing to register for. Just take pictures of your receipts and email yourself a PDF and CSV file at the end of each week.Smart Receipts tracks receipt data and allows you to generate both PDF and CSV reports that can be shared with your email accounts. The PDF reports are tabulated to improve readability and look professional.By taking advantage of the customization features included within this app, you can save hours when submitting business expense reports at the end of each week.\xe2\x98\x85FEATURES\xe2\x98\x85\xe2\x96\xa0 Optimized for Speed and Ease of Use\xe2\x96\xa0 Flexible Receipt Reporting\xe2\x96\xa0 Use the Smart Receipts Camera or one of your choice\xe2\x96\xa0 Expense Report Price Tracking\xe2\x96\xa0 Built-in support for many different currencies\xe2\x96\xa0 Build Expense Reports as PDF files or CSV files for Excel\xe2\x96\xa0 Fully customizable CSV output for your needs\xe2\x96\xa0 Smart category prediction based on the time of day\xe2\x96\xa0 Fully customizable receipt categories (e.g. Lunch, Dinner, etc.)\xe2\x96\xa0 Battery efficient\xe2\x96\xa0 Open SourceThis app does not currently support OCR, but it is planned for a future release.DO NOT request features, report bugs, or ask for assistance in your review. I can't reply to them! Please e-mail me instead. Thank you!---------------------------------------------------This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of or FITNESS FOR A PARTICULAR PURPOSE.  See the Affero General Public License for more details.Recent changes:2.1.1 - Fixed some bugs that were crashing the new camera2.1.0 - Rewrote the Smart Receipts camera for all all versions of Android 3.0 and above. Made a number of changes to improve the performance and responsiveness of the app. Added the ability to rotate images after taken.2.0.2 - Fixed layout bugs, improved app consistency, and removed a few resolved a few force stop issues.2.0.1 - Fixed an issue that was causing receipts to disappear after updating to the newest version of Android."
+p4
+tp5
+tp6
+.

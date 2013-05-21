@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaQuote: add text to photos '
+p1
+tp2
+(S'Description:'
+p3
+S"Create beautiful text pictures for Instagram.Have you ever wanted to:\xe2\x9c\xad Add text to pictures\xe2\x9c\xad Add inspiring words to images\xe2\x9c\xad Add captions to photos \xe2\x9c\xad Or share your thoughts on InstagramThen you'll LOVE InstaQuote! \xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad DOWNLOAD NOW \xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xadWHY YOU\xe2\x80\x99LL LOVE INSTAQUOTE\xe2\x9c\xad 19 beautifully designed styles\xe2\x9c\xad Choose backgrounds from high quality background packs\xe2\x9c\xad Use your own photos for backgrounds\xe2\x9c\xad Export to Instagram or your device (export to Facebook, Flickr, Twitter from there)\xe2\x9c\xad Use As Background feature to layer different fonts\xe2\x9c\xad Customize your words \xe2\x80\x93 font size, color, alignment, position & line spacing\xe2\x9c\xad 50+ beautiful fontsWHAT OTHERS ARE SAYING\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xadAmazing, user-friendly app. Effortless design.\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xadEasy, fast, and amazing!\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xadI love instaquote! I use it all the time!\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xadTotally awesome! I can now express myself more deeply on Instagram! Thanks alot!\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xad\xe2\x9c\xadAll my followers comment on how much they like my captions.Recent changes:Version 1.1.0- NEW Feature: Tap words to add punch- NEW Fonts: The lovely Trend & Thirsty Script - Updated stylesVersion 1.0.2- Rotate images in crop view- Bug fixes:   - Better support for large and small text   - Fixed crash when external storage is unavailable"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'XnSketch '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your photos into drawing, cartoons or sketch images in one click to create instant works of art.Different effects easy to use with full control. Save your creations and share them with your friends through Facebook, Twitter, and Email.----- What people are saying -----+ Fantastic! Absolutely love what this program does. The effects are really beautiful. + This app is very well done+ Make it more beautiful I think this is absolutely awesome. Thank you! -----Features:\xe2\x98\x85 Different effects (black strokes, white strokes, pastel, pencil sketch, color sketch, cartoon, stamp, halftone, hatching, ...)\xe2\x98\x85 Edge strength, and opacity adjustement\xe2\x98\x85 Contrast, brightness, saturation adjustement\xe2\x98\x85 Save or share the result with your friends via Twitter, Facebook, Email, ...\xe2\x98\x85 No registration is required, and there are no watermarks, no limitations. Please help us to improve XnView Sketch by sending your bugs or requests on http://newsgroup.xnview.com or contact@xnview.comKeywords: watercolor, photography, sketch free, sketch me, pencil sketch, paper camera, cartoon camera, photography, photo effect, photo editor, camera effectRecent changes:\xe2\x98\x85 Bugs fixed'
+p4
+tp5
+tp6
+.

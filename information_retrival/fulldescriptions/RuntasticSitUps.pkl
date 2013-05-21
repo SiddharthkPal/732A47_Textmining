@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Runtastic Sit-Ups '
+p1
+tp2
+(S'Description:'
+p3
+S"Flatten your stomach, build muscle, and get those abs to start showing with the Runtastic SitUps App!With the free Runtastic SitUps app, you can now achieve your core strength and midsection fitness goals. The app is your personal sit up trainer, which implements an easy-to-follow, scientific sports training plan. The progressive plan will help you build strength and see constant improvement in your overall fitness and your overall strength training capacity.Unique recognition of your sit-ups: Sit-ups are counted automatically using the accelerometer on your smartphone or tablet.FEATURES:* One level with a sports science training plan* Accurate count of sit-ups using accelerometer* Automatic countdown timer for your break between sets* Voice Coach* Personal records and exercise statistics recorded and saved (i.e. monthly training statistics)* Upload workout activities to the Runtastic fitness site for future review, analysis, and comparison* Integrate Runtastic activities to your MyFitnessPal account* Social media sharing: Share your strength and personal records with friends via Facebook, Google+, Twitter, and E-mail.Users are encouraged to save all workouts on www.runtastic.com. By joining the Runtastic online community, you'll get further data analysis, coaching, and encouraging comparisons to friends! All these benefits can help you stay motivated while striving to reach your flat stomach, six pack, or overall health and fitness goals.Further strength training info and workout tips are provided by Runtastic's Fitness Coach, Lunden, on the NEW YouTube Runtastic Fitness Channel! Check it out here: http://www.youtube.com/runtasticfitnessDownload the free Runtastic SitUps App today to get fit, stay fit, and feel fantastic! #pumpitKeywords: situps, workout, exercise, core, strength, training, muscles, abs, fitness, six pack, stomach, sit up, sit-ups, freeRecent changes:Improvements:- better SitUp detectionBugfixes:- fixed crashes on upload"
+p4
+tp5
+tp6
+.

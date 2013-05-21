@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sleep as Android '
+p1
+tp2
+(S'Description:'
+p3
+S'Alarm clock with sleep cycle tracker. Wakes you gently in light sleep for pleasant mornings. Features: sleep graph history, sleep deficit and deep sleep statistics, sharing (FaceBook, Twitter), nature alarms (birds, sea, storm...) with gradual volume up, alarm playlists from your music, lullabies for pleasant asleep, CAPTCHA to wake up on time, sleep talk or snoring recording and more... (2 weeks trial) aka "Sleep as an Droid"More infohttps://sites.google.com/site/sleepasandroid/FAQ (answer questions related to permissions, battery life, how it works...)https://sites.google.com/site/sleepasandroid/q-a-faqRecent changes:-Experimental music player playlist support in ringtone picker-Smooth gradual volume increase-Backup of alarms,graphs,settings and partially noises through Google backup service (phone settings->privacy)-Ringtone picker sets alarm volume (not media)-Volume setting for irregular noises in lullabies-Baby tag-Fix in sleep graph sharing-2 hour ideal sleep (Uberman)-Fixes in time to bed-Fix for graphs not correctly saved if snoozed alarm was cancelled.-Updates in Finnish (many thanks Niko)'
+p4
+tp5
+tp6
+.

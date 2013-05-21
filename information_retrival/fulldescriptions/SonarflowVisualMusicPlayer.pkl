@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sonarflow Visual Music Player '
+p1
+tp2
+(S'Description:'
+p3
+S"For phones & tablets!Now with DUAL view! Browse your music by mood or genre!Switch views with one simple fingertip!Sonarflow is a fun, simple and interactive way to discover music on your Android device, tablet or handset. How do you find the music you like? Sonarflow makes it easy to find new bands and artists you'll love with just a few quick taps.FEATURES* One-touch access to your world of music* Discover new bands and artists* Listen to preview clips powered by 7digital directly in the app* Scrobble your tracks to last.fm* More features coming soon!Sonarflow Android version is still work-in-progress. Many exciting features are going to be added soon. So stay tuned for updates!To get started tap on any bubble. Play music, show related artists, or reveal more details.Sonarflow is powered by Spectralmind, a visual media discovery company based in Vienna, Austria.Recent changes:- Added DUAL view!     - Genre based     - Mood based- Better memory management"
+p4
+tp5
+tp6
+.

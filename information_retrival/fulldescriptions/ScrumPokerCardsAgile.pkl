@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Scrum Poker Cards (Agile) '
+p1
+tp2
+(S'Description:'
+p3
+S'Poker planning is a powerful tool, to make faster and more accurate estimations and most important of all, to make it fun!This app (among several other apps) can be used in scrum poker planning sessions anywhere. Meeting rooms, living rooms, kitchens, trains, ships, under water, outer space, etc. It includes the numbered cards along with infinity and the coffee cup card.With the built-in Scrum Baseline, you may always have a baseline for your stories ready at your fingertips for your future voting sessions.Note: It is strongly suggested not to use this app while riding a bike or driving a motorized vehicle!Your rates and comments are appreciated :)^_^ Thank you all for making this the #1 app for Scrum Poker planning ^_^Facebook: http://www.facebook.com/ScrumPokerCards-----tag: fun agile scrum poker plan planning cards t-shirt tshirt size voting custom theme color shake baseline fibonacci sequence seriesRecent changes:1.6.1: Updated Baseline UI1.6.0: New Fibonacci card deck & improved overall design1.5.0 & 1.5.1: Automatic number size & new launcher icon1.4.6 & 1.4.7: New T-Shirt Size voting1.4.5: New animations and about page1.4.4: New Tap to reveal option1.4.2 & 1.4.3: Improved ICS support1.4.1: Keep screen on & better card list1.4.0: New baseline feature1.3.0: New customizable color theme1.2.2: Move to SD card support1.2.0: Added new shake feature'
+p4
+tp5
+tp6
+.

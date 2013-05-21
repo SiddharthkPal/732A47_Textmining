@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NBA GAME TIME '
+p1
+tp2
+(S'Description:'
+p3
+S'NBA GAME TIME is the official mobile app of the NBA.It features 50+ new video clips per day and access to live and on-demand games through League Pass (blackouts may apply).NBA LEAGUE PASS gives subscribers access to every game* of the 2012-13 NBA Regular Season and Playoffs.Simply log into the NBA GAME TIME app using your existing NBA GAME TIME/NBA LEAGUE PASS username and password.The NBA GAME TIME mobile app also includes photos, scores and stats. With the NBA GAME TIME mobile app, you get the best of the NBA where ever you are!*Blackouts may apply in select markets.**Location services must be turned on for all video content and for blackout confirmationsRecent changes:Updated for playoffs. Various bug vises and additional support for packages and single games'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kids Drug Dosage Calc - PaedRx '
+p1
+tp2
+(S'Description:'
+p3
+S"Drug dosage for children are calculated based on age and weight of the child. With so many commonly used brand name available in the market, it is hard and error prone to calculate the right dosage. This leaves us the scope of prescription mistakes while Advising drug. To increase safety and operation efficiency FREE Drug Dosage calculator for your Android phone - PaedRx is created. This is an Android App which helps doctors, Medical students, nurses and Pharmacists to calculate and administer right dosage to children. More specifically this is helpful for PediatriciansAlthough we have taken utmost care while creating the database, we do not accept any responsibility arising out of of usage of this application. This app's calculation are to be used only for reference and should not be used as a last resort.Currently the database contains medicine name and commercial names of medicines available in Indian market.This app also has brief drug profile for most of the meds. The best part of it this App is 100% freeAlso, did we say this app does't have any advertisement :) smile"
+p4
+tp5
+tp6
+.

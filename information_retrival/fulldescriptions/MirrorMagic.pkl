@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mirror Magic '
+p1
+tp2
+(S'Description:'
+p3
+S'The most beautiful mirror app in android for free.Mirror MagicNow you can enjoy with Mirror Magic App.Mirror Magic app provides a great tool for putting makeup on, styling yourhair its digital zoom has an impressive detail and you can also freeze theimage to take a clean look. In addition, you can also capture, save andshare images of yourself with a single touch.In order to keep the app 100% free, you will receive the following \xe2\x80\x93Search shortcut icon on your home screen,Search shortcut on your bookmarks and browser homepage.This will help us bring you more cool apps like this in the future.You can delete the search shortcuts easily (Drag & Drop to the garbage), this will not affect the application in any way.'
+p4
+tp5
+tp6
+.

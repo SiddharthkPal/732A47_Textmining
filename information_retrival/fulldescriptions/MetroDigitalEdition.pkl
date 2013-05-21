@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Metro Digital Edition '
+p1
+tp2
+(S'Description:'
+p3
+S'Metro Digital EditionYour favourite FREE newspaper specially redesigned and optimised for your Android device.Get each new edition automatically downloaded to your phone or tablet every morning for the ultimate Metro mobile experience.  The responsive app has been specially created to suit all Android screen dimensions, without compromising on quality, for whatever device you\xe2\x80\x99re on.-\tRead it offline cover to cover or skip straight to your favourite sections at any time throughout the day.-\tVisually attractive and easy to navigate format, with all the best bits from the paper \xe2\x80\x93 plus even more exclusive content.-\tEmbedded video and audio clips allow you to watch news videos and film trailers, plus listen to music samples.-\tImpressive Window On The World photo gallery showcases amazing images from around the globe daily.-\tCompletely interactive, with an optimised on-screen reading experience to suit all Android devices.-\tBookmark your favourite pages and easily share articles with friends.We want you to enjoy and get the most out of your Metro Digital Edition.  Please email us your feedback at tablet@ukmetro.co.ukRecent changes:This update provides improved stability and support for a wide range of devices. We\xe2\x80\x99ll continue to develop and enhance our app to give you the best possible experience. If you do come across any problems please let us know by emailing your device details, operating system and issues to tablet@ukmetro.co.uk.  Thanks for your continued feedback and support.'
+p4
+tp5
+tp6
+.

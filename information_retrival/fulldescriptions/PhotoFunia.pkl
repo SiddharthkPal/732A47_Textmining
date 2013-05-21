@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PhotoFunia '
+p1
+tp2
+(S'Description:'
+p3
+S'Put your face on a billboard, a stamp, or in a Warhol-like work of pop-art. Become the Mona Lisa or a bodybuilder. You get over 300 scenes to play with. You\'re not cutting and pasting; instead, the app "finds" the face in your photo and integrates it with the scene of your choice.Note: All image manipulation is performed in the cloud therefore WiFi or 3G connection is required for application to work.Recent changes:-Bugfixes & UI improvements'
+p4
+tp5
+tp6
+.

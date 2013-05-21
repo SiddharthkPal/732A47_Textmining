@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Urdu News Online '
+p1
+tp2
+(S'Description:'
+p3
+S'Get the BREAKING NEWS from URDU NEWSPAPERS online easily ! We covered 8 news sources that cater the need of Urdu readers. This simple app make it easier for you to browse urdu news in ONE CLICK !INFO: This is just a simple app that help you browse all your favorite news in one place.List of Urdu News Sources:1) Daily Ausaf2) Daily Pakistan3) BBC Urdu4) Khabraingroup5) Akhbar E Khyber6) Nawaiwaqt7) Jang8) Urdu Voice Of AmericaWe hope that the development of this App will help you get all the breaking news fast !!DISCLAIMER:All the info in this app belongs to the respective news channel. We do not have any affiliation with them. We only built simple app that make it easier for you to view all the news from various newspapers / magazines in Urdu easily.Any feedback  / comments , please email to admin@greatestwebapp.comThanks.'
+p4
+tp5
+tp6
+.

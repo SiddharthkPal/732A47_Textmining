@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Daily Workouts FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"Your own personal trainer wherever you are! FEATURES: \xe2\x9c\x93 10 to 30 minute full body workouts\xe2\x9c\x93 50 exercises\xe2\x9c\x93 Workouts are randomly created and different each day\xe2\x9c\x93 Video showing how to do each exercise \xe2\x9c\x93 Developed by a certified personal trainer\xe2\x9c\x93 On-screen instructions and timerDaily Workouts FREE is a great 10 to 30 minute daily workout routine for men and women that steps you through some of the best exercises you can do in the comfort of your own home. Daily Workouts FREE combines all of the exercises from Daily AB Workout FREE, Daily ARM Workout FREE, Daily BUTT Workout FREE, Daily CARDIO Workout FREE and Daily LEG Workout FREE. Each workout is different as exercises are pulled at random from the 50 available exercises to create a great full body workout routine.These proven exercises, demonstrated by a certified personal trainer, target all major muscles. Spending just minutes a day can strengthen and tone your body.The routine's simple interface, complete with video and timer, allows you to easily follow along and understand each exercise. Simply select your routine and follow along!*If you like Daily Workouts FREE, check out the full version which features:   \xe2\x80\xa2 Over 2X more exercises  \xe2\x80\xa2 More workout routines  \xe2\x80\xa2 New workouts available via in-app purchase (Pilates, kettlebell, etc.)  \xe2\x80\xa2 Create custom workouts  \xe2\x80\xa2 Landscape mode  \xe2\x80\xa2 Ad-freeRecent changes:- Enhancements and bug fixesThanks for using the Daily Workout apps! www.dailyworkoutapps.com Facebook: facebook.com/DailyAbWorkoutApp Twitter: twitter.com/danielmillerapp"
+p4
+tp5
+tp6
+.

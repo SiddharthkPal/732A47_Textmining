@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ADW Theme Samoled '
+p1
+tp2
+(S'Description:'
+p3
+S'Please don\xc2\xb4t forget to RATE and post Comments. Thanks !Samoled Theme for ADW, ADW EX. Over 189 icons made by (Johnny quest):http://forum.xda-developers.com/showthread.php?t=1117986..-===[ REQUIREMENTS ]===-.Newer version of application (ADW or ADW EX Launcher) installed to apply the theme. This application is free and available in Android Market..-===[ APP2SD CARD ]===-.Yes. Must have Android OS 2.2 (Froyo) or newer..-=[ APPLYING THE THEME ]=-.1) Select the (ADW SETTINGS) menu; 2) Select the (THEME PREFERENCES) option;3) Select the theme you have downloaded and installed;4) Select APPLY;.-=[ MORE FROM DEVELOPER ]=-.Click on my Name profile to view all my Android themes and apps available..-=[ CUSTOMER SUPPORT ]=-.If you need any help or wish to contact me, send me an email. I try to reply emails daily, if not possible I\xc2\xb4ll reply in no more than 48hs. I do not reply emails in weekends, emails are replied from Monday - Friday..-=[ ABOUT REFUNDS ]=-.Refunds are available for 15 minutes, if you wish to cancel the order do it during this time. If this is a free theme you can cancel and try again several times. If it\xc2\xb4s a paid application and you cancel it, the second time you order it no refund will be available..-=[ DOWNLOADS ARE NOT COMPLETING? ]=-.Please, sometimes the Android Market servers becomes really slow with so many requests, if this happen you can try another time. I have no control over this issue. Some patience is required when it happens..-=[ COMMENTS AND RATINGS ]=-.To help other customers, your comments and ratings are welcome and I apreciate it. Also, if you need any assistance, please contact me first..-=[ UPDATES ]=-.All my themes are updated on a regular base to improve the theme with new features like more icons, wallpapers, etc. Requests for new icons are welcome.Recent changes:.-=[ UPDATED 1.07 ]=-.- Fixed desktop preview color;.-=[ UPDATED 1.06 ]=-.- Fixed the wallpaper stretched menu;.-===[ UPDATE 1.05 ]===-.- Fixed FC on wallpaper selection on some devices;.-===[ UPDATE 1.03 ]===-.- Added folder background;- Themed the ADW settings menu to match theme;- New dock style;'
+p4
+tp5
+tp6
+.

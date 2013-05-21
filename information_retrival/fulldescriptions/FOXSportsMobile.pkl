@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FOX Sports Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"FOX Sports brings you the most comprehensive sports app available.  Why download multiple apps for each of your favorite sports and teams?  The FOX Sports app does all of this for free.Sports covered:- NFL and NCAA Football - MLB- NBA and NCAA Men's Basketball- NHL- NASCAR - Golf - Tennis - Soccer (MLS, Premier League, UEFA Champions League, Serie A, Bundesliga, La Liga, and more)- MMA & BoxingFeatures:- News and exclusive analysis from the FOX Sports team of writers and on-air personalities - Scores, stats, standings and more for all major sports. - Video: highlights, pre- and post-game interviews, our hourly \xe2\x80\x9cFOX Flash\xe2\x80\x9d update of top stories, original programming from our \xe2\x80\x9cLunch With Benefits\xe2\x80\x9d series, and more. - Local content (news, video and analysis) from the Fox Sports Net (FSN) regional cable networksPersonalization:- Store your favorite Sports, Teams & Local FSN region to quickly get to the content you want.This app is optimized for devices running Android OS 1.6 and higher, including large and x-large screens (tablets).  Devices running Android OS 1.5 or less are not supported.Please see our Terms of Use and Privacy Policy at:http://msn.foxsports.com/other/page/terms-of-usehttp://msn.foxsports.com/other/page/privacy-policyRecent changes:- Updated MLB Standings- Updated UFC Schedule- Improved NBA GameTrax"
+p4
+tp5
+tp6
+.

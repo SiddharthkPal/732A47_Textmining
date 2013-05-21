@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iTranslate - free translator '
+p1
+tp2
+(S'Description:'
+p3
+S'The most popular iPhone translator app, now finally on Android!By combining voice recognition, machine translation and voice output iTranslate is the first app to make the legendary SciFi dream of a Universal Translator reality.\xe2\x9c\x94  Over 50 languagesTranslate words, phrases and even whole sentences into over 50 languages.\xe2\x9c\x94 DictionariesNow for many languages pairs: Dictionaries with additional translation results, meanings and suggestions!\xe2\x9c\x94 VoicesListen to high-quality voices in most languages.\xe2\x9c\x94 Voice recognitionSimply speak and instantly see your translation! Available for many languages\xe2\x9c\x94 Tablet ReadyiTranslate is optimized for use on your big screen tablet.\xe2\x9c\x94  Share, save & copySend a translated text via Email, post it on Twitter, save it to your favorite list or simply copy it.\xe2\x9c\x94  Landscape modeTurn your phone to the side and type faster with the landscape keyboard.Supported languages:Afrikaans, Albanian, Arabic, Belarusian, Bulgarian, Catalan, Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, Galician, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Irish, Japanese, Korean, Latvian, Lithuanian, Macedonian, Malay, Maltese, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tagalog, Thai, Turkish, Ukrainian, Vietnamese, Welsh, YiddishRecent changes:This update fixes some bugs for Text-to-Speech. We want to thank all our users for the great feedback and reviews! That keeps us working hard to further improve iTranslate.'
+p4
+tp5
+tp6
+.

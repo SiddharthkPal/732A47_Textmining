@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Video Tube (YouTube Player) '
+p1
+tp2
+(S'Description:'
+p3
+S'VideoTube is amazing YouTube utility which provides you with an advanced feature packed YouTube video player with a lot of functionality which makes watching YouTube Video a LOT MORE FUN !!! Application comes loaded with following features. PLAYER FEATURES VideoTube comes loaded with an advanced video player with features like 1) Shuffle/Video Repeat/ Playlist Repeat. 2) Background Play 3) Tempo control 4) AB Loop 5) Video position bookmarks 6) Orientation Lock. 7) Touch Gestures for quick rewind, quick forward, speed and track skip controls and a LOT MORE  Advanced Settings VideoTube provides you strong control over all major functions including 1)Background Playback 2)Video Quality Control (Low/High Quality) 3)Player Touch Gestures. 4)Playing positions 5)Visibility and usability of controls VideoTube also comes with comprehensive easy to understand super quick tutorial as well as comprehensive help which explains each and every feature and button in the application. If you face any difficulty using the app, our dedicated tech support team available at videotube@xellentapps.com answers back within 24 hours.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'A Comic Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'A Comic Viewer -previously known as Droid Comic Viewer- is a lightweight image, comic & manga viewer. Main features:* Opens CBZ/ZIP, ACV, CBR/RAR (beta), JPEG, PNG, BMP & image folders (long tap)* Read comics from SD card* Left-to-right or right-to-left reading* Use touch screen or trackball to zoom, scroll & navigate* Next & previous screen cachePREMIUM VERSIONA Comic Viewer has ads to support its continued development. Ads will never interrupt nor disrupt the reading experience. Still, a paid Premium version is available for those who wish to remove the ads and can be purchased from Settings. FEATURE REQUESTS & SUPPORTJoin the A Comic Viewer community at http://forums.droidcomicviewer.com/. The A Comic Viewer Forums are the best way to request features or ask for support.If you have any problems with the latest version, please request a previous version at http://forums.droidcomicviewer.com/.OPEN SOURCEDeveloper? A Comic Viewer is an open source project. Fork the source at https://github.com/robotmedia/droid-comic-viewer.Recent changes:Premium version for those who wish to remove the ads. Go to Settings > Premium to purchase it. Fixed bug that prevented opening comic files with ACV from external apps.Other minor bug fixes and performance improvements.'
+p4
+tp5
+tp6
+.

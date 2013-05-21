@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PlaceFace '
+p1
+tp2
+(S'Description:'
+p3
+S"Put your face on dozens of celebrities, movie characters or funny animals, at the touch of a button! Nearly 300 different templates to choose from!\xe2\x9c\x94 Become a cool new person with this great photo montage app.\xe2\x9c\x94 Make fun of your friends and enemies.\xe2\x9c\x94 Share via email, mms, facebook.\xe2\x9c\x94 The only photo montage app that works without network connection!Press the menu button for saving and sharing of pictures.Suggest new templates on our facebook page, http://www.facebook.com/Fotoquirk/ !NOTE: If you have a problem with this app, please contact support at placeface@fotoquirk.com before leaving a bad review. We can unfortunately not help resolve problems if you just leave a comment on the market, because google does not provide us with your contact details. We are always happy to resolve any issues quickly via email. What our users think:- First app I've seen that does not look fake. Download now, u will not be sorry!- Amazing how good our pictures blend into the templates. Lots of fun.- Thank you I love your apps they are so much fun!Recent changes:Fixed bugs in Facebook uploader."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Battle.net Authenticator '
+p1
+tp2
+(S'Description:'
+p3
+S"Do you play Blizzard Entertainment games like World of Warcraft or StarCraft II: Wings of Liberty? Protect your Battle.net account with Blizzard's official Battle.net Mobile Authenticator app for your Android device. The Battle.net Mobile Authenticator is an optional tool that offers an additional layer of security to help prevent unauthorized account access. Each time you log in to a Battle.net account, you\xe2\x80\x99ll use the Battle.net Mobile Authenticator to generate a unique, one-time use password to use in addition to your regular password. Log in with both and you can rest easy knowing that the account is more secure against unauthorized access.Airtime or Wi-Fi connection required for use. For more information on how to add the Battle.net Mobile Authenticator to your Battle.net account, visit www.battle.net/bma. * Simple and easy to use \xe2\x80\x93 just load the app to display the digital code on your Android device.* Convenient \xe2\x80\x93 Take your Android device wherever you play World of Warcraft, StarCraft II: Wings of Liberty, and future Battle.net games knowing that the account is secure.* Note: Battle.net Mobile Authenticator is not compatible with online play for \xe2\x80\x9cclassic\xe2\x80\x9d Battle.net games, including StarCraft, Diablo II, and Warcraft III. Languages Supported: * English * Fran\xc3\xa7ais * Deutsch * Espa\xc3\xb1ol (Latinoam\xc3\xa9rica) * Espa\xc3\xb1ol (Europa)* Portugu\xc3\xaas* Italiano* Polski * \xd0\xa0\xd1\x83\xd1\x81\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9 * \xed\x95\x9c\xea\xb5\xad\xec\x96\xb4 (Korean) * \xe7\xb9\x81\xe9\xab\x94\xe4\xb8\xad\xe6\x96\x87 (Traditional Chinese) * \xe7\xae\x80\xe4\xbd\x93\xe4\xb8\xad\xe6\x96\x87 (Simplified Chinese)\xc2\xa92012 Blizzard Entertainment, Inc. All rights reserved. World of Warcraft, StarCraft, Battle.net and Blizzard Entertainment are trademarks or registered trademarks of Blizzard Entertainment, Inc., in the U.S., and/or other countries. Android is a trademark of Google Inc. Use of this trademark is subject to Google Permissions.Recent changes:UI improvementsWidget has been updated. Once an authenticator widget has been created, press the refresh icon to get an authenticator code. This change was made to reduce battery consumption."
+p4
+tp5
+tp6
+.

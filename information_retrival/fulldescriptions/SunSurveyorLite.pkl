@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sun Surveyor Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'Sun Surveyor Lite predicts and visualizes Sun, Sunrise and Sunset positions and times with a 3D Compass!   Sun Surveyor Lite is useful for film and photography location scouting, solar panel positioning, architecture, gardening, real estate, Earth Science geekery, and more!Use the interactive controls to: - Visualize and plan for the "golden hour" - Find the time of year and angle to shoot a location at Sunrise or Sunset- Visualize the Sun throughout the day or through the year- Study the sun shadow ratio and projection to visualize the shadows cast from the SunFeatures:- Sun Bearing and Altitude, Sunrise & Sunset, Shadow Ratio, Dawn & Dusk Times- Golden Hour and Blue Hour Times- 3D Compass - A 3D projection of Sun positions and events overlaid onto a compass representing the device\'s bearing and orientation in the world- Time Machine Slider - Visualize events for a single day, or watch the days get longer and shorter and the Sun\'s path in the sky change- Compensation for Magnetic Declination----------Check out the Full Version of Sun Surveyor for: - Augmented Reality Camera View - Visualize sun and moon positions and paths overlaid upon the device\'s camera input; determine whether the sun will go behind a building or will come through a window- Interactive Map View - plan a remote shot or PV array placement, interact with a top-down perspective of sun and moon paths and events- Moon Information, Summer and Winter Solstice Paths & Equinox Paths- Offline Usage, Entering Coordinates, Searching, Saving & Loading Locations- Widgets (9 total) for home screen and lock screen+ More!Permissions Explained:* Internet Usage is for reverse geocoding - looking up the Address of your current Location, flurry analytics, and ads* Please email with any bugs or suggestions, if you have questions let me know and I can try to help you!Recent changes:v1.4- UI: Holo-themed updates, making use of the Action Bar for ICS+, some icon and graphic updates- fix for day length calculation in extremes of the world, when there is a rise but no set or vice versa'
+p4
+tp5
+tp6
+.

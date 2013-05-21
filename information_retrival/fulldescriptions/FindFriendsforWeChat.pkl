@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Find Friends! for WeChat '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Find Friends! \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Find Friends! is the app to find a new friend easily.Have you ever had a feeling which you wanna talk with someone, when you were boring?At that time, let's use Find Friends!! You can find your best friends on WeChat."
+p4
+tp5
+tp6
+.

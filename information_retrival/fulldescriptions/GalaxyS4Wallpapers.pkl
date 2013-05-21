@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Galaxy S4 Wallpapers '
+p1
+tp2
+(S'Description:'
+p3
+S'Samsung Galaxy S4 Wallpapers, save share with friends on facebook, twitter, whatsapp, viber ... etc.You can set all wallpapers as device wallpaper and save to SD card.In order to give you a free app and keep developing more free apps in the future, we are integrating a search tool to our application. This will add a few access points to your device (hence the permissions) to direct you to the web search service. Please consider using the search to help us keep creating apps. You may delete the search icon, bookmark and homepage easily. Thank you.'
+p4
+tp5
+tp6
+.

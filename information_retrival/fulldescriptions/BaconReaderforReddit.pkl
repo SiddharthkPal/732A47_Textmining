@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BaconReader for Reddit '
+p1
+tp2
+(S'Description:'
+p3
+S'***2013 Webby Award Nominee***Your MUST have bathroom news accessory, BaconReader will keep you more regular than fiber!The EASIEST Way to Reddit is now the ONLY reddit app with a "Redditorial" guide to the front page of the internet!  Now with a NEW SLIDESHOW MODE in addition to our simple list view, enjoy your news however you want it!!!\xe2\x80\x9cThis is the absolute best looking Reddit app around.\xe2\x80\x9d \xe2\x80\x93Android Police\xe2\x80\x9c\xe2\x80\xa6brings a lot to the table in terms of functionality and usability.\xe2\x80\x9d \xe2\x80\x93Droid Life\xe2\x80\x9cBaconReader Is A Great New Reddit App For Android\xe2\x80\x9d \xe2\x80\x93Addictive TipsBaconReader is tailored to the most experienced redditors and the newest redditors alike, making reddit so simple to use with instant access to news and post links, pics, comments, and everything else reddit. With features like subreddit grouping, keyword and domain filtering, and immediate picture uploading, you\xe2\x80\x99ve got all things reddit in one easy and delicious place: BaconReader. Follow us at r/BaconReader for the latest and upcoming BaconReader updates and features.Current Features/Benefits: * Jelly Bean compatibility with expandable notifications and other Jelly Bean features* Complete tutorial guide to reddit, for new and experienced redditors* FULL Screen mode* Tablet optimized design* Sharp, ICS inspired design, with easier reddit navigation and more sorting options* Full user profile support* Color coded comment threads* Full featured reddit inbox* Rageface and look of disapproval support* Easy access to subreddits using the subreddit sidebar with long-press* Search for new subreddits based on name or keyword and subscribe to them* Please let us help you with BaconReader or reddit bugs or problems by contacting our support team at support@onelouder.com.Recent changes:What\'s New in v2.9.1-\tAddressed force close and bugs-\tAdded User tab for search results-\tIncreased Spoiler tag support in subredditsWhat\'s New in v2.9-\tNow Draw on images before posting!-\tCategorized search results (posts and subreddits)-\tAdded NSFW option when posting-\tAdded ability to scale Quick View images-\tVimeo videos can now play inside the app-\tAdded themes to more pages-\tAdded post title in subject line when sharing-\tAbility to specify custom subreddit as default'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PdaNet+ '
+p1
+tp2
+(S'Description:'
+p3
+S'PdaNet+ now contains both PdaNet and FoxFi. Turn your Android phone into free WiFi hotspot or USB broadband modem. No rooting. No tether plan needed.With additional improvements, this is a complete tether solution of sharing phone Internet with computers or tablets. PdaNet+ supports USB, Bluetooth and WiFi. USB mode works for all Android phones. FoxFi/WiFi mode only works on some phones. Please see the supported list at http://pdanet.co/devicesFree edition of PdaNet+ will require you to turn back on after some usage, otherwise it is same as full version.Recent changes:FoxFi/WiFi mode now supports Jelly Bean you have a Verizon phone. Please install FoxFi 2.12 directly from Play Store to take advantage of latest updates. PdaNet+ contains version 2.10 only.SMS Agent and home screen widget has been removed temporarily in current build. Previous versions of PdaNet are still available at our website.Update: USB connection error "Communication with client has been broken" is fixed in 4.12.6.'
+p4
+tp5
+tp6
+.

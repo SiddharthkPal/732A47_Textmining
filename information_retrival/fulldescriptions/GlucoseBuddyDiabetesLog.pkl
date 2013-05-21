@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glucose Buddy : Diabetes Log '
+p1
+tp2
+(S'Description:'
+p3
+S"- Ranked #1 Diabetes iPhone Application by Manny Hernandez, Founder of TuDiabetes.com - As seen in American Diabetes Association's Diabetes Forecast Magazine, NYTimes, Wired Magazine, DiabetesMine.com, MedGadget.com, Mendosa.com, Diabetes Health Magazine, JDRF Newsletters and MobiHealthNews Glucose Buddy is a data storage utility for people with diabetes. Users can log their- BG - Carbs (Food) - Medication (Insulin Dosages)- Activities - A1C- Blood Pressure- Weight** Remembering to test your blood sugar is always a problem, that's why in GB there are reminders that are associated with events so you'll never forget to test again!Great visualization with calendar day by day quick view and be able to add multiple items all at once. Glucose Buddy is simple, quick, effective and proven!Manage your diabetes using glucose buddy and take control of your diabetes today!"
+p4
+tp5
+tp6
+.

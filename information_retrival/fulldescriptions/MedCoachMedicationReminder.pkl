@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MedCoach Medication Reminder '
+p1
+tp2
+(S'Description:'
+p3
+S"MedCoach is an easy-to-use medical  app that helps you remember to take your medications and pills at the right time and day.  Never forget to take your meds!  MedCoach can also connect to your pharmacy to refill your prescriptions. MedCoach is medication management and a medication reminder made easy!Features:\xe2\x80\xa2Personal medication schedule\xe2\x80\xa2Pill reminders and alerts when it's time to take your medications\xe2\x80\xa2Log the pills you took \xe2\x80\xa2Connect to your pharmacy to refill prescriptions\xe2\x80\xa2Create a list of your medications for your doctor or health provider\xe2\x80\xa2Look up pill and drug informationHighlights:\xe2\x80\xa2Simple and easy to use\xe2\x80\xa2Reliable alarm function\xe2\x80\xa2Low battery usage\xe2\x80\xa2Set multiple daily alarms\xe2\x80\xa2Set multiple daily doses\xe2\x80\xa2Automatic refill reminders\xe2\x80\xa2Medicine details and information available\xe2\x80\xa2Your data is backed up automaticallyRecent changes:Updated look and feel."
+p4
+tp5
+tp6
+.

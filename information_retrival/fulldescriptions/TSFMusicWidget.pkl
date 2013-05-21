@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TSF Music Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'TSF Music Widget is a 3D widgets of TSF Shell charateristics. By the mere touch of the player you will be able to unfold/fold the 3D album pictures. Meanwhile, you can chose your song only by changing the album pictures.Features:========================1. By the mere touch of the player you will be able to unfold/fold the 3D album pictures. Meanwhile, you can chose your song only by changing the album pictures.2. Choose the songs which you want after entering the setting.IMPORTANT========================1. This widget must be running on TSF Shell.TSF Shell link: https://play.google.com/store/apps/details?id=com.tsf.shell2. Please rate the app if you like it. If you have any questions or comments, please email us at: service@tsfui.com.========================Uses-Permission:1.Phone call:Automatic music pause for incoming calls.2.Headset:Automatic music pause on unplugging headset.Keywords & Tags: TSF Shell,TSF 3D Music Widget,TSF Music WidgetRecent changes:Version: 1.3.31.Fixed some bugs2.Restore the cover feature'
+p4
+tp5
+tp6
+.

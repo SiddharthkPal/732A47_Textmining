@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VirtualCards '
+p1
+tp2
+(S'Description:'
+p3
+S'RO: VirtualCard este o aplicatie web online care iti permite sa-ti administrezi cardurile tale de fidelizare pe telefon. Scapa de grija cardurilor si pastreaza-le comod pe telefonul mobil!Aplicatia permite introducerea numarului de card si/sau a codului de bare pentru stocare online sub parola si accesare pe telefon.Termeni si Conditii de Utilizare: http://virtualcards.ro/termeni-conditiiEN: VirtualCard is a web app that allows fidelity card administration via your mobile phone. Get rid of the countless cards in your wallet and use our friendly app to manage them!The app allows you to keep the card number and/or the bar code of your card online, password protected and accessing them via phone.Terms and Conditions of Use: http://virtualcards.ro/termeni-conditiiRecent changes:-Conectare in aplicatia via Facebook-Notificari oferte de tip push in functie de geolocatie.-Va puteti folosi cardurile si fara conexiune la internet in modul offline-Sincronizare carduri fidelitate offline cu online si viceversa-Adaugare clip tutorial cu voce in mediul nativ-Acum puteti vizualiza promotiile comerciantilor direct din aplicatie intr-un modul "user friendly;-Diferentierea cardurilor cu cod de bare sau fara;-Bugfix'
+p4
+tp5
+tp6
+.

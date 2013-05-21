@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Portable Wi-Fi hotspot Free '
+p1
+tp2
+(S'Description:'
+p3
+S"Turn on Portable Wi-Fi hotspotImprove your mobile computing experience.Simple and fast.**Before running the application configuration is required.SETTING: Settings->More..->Tethering & portable hotspot->Set up Wi-Fi hotspothttp://support.google.com/android/bin/answer.py?hl=en&answer=1650164Rename or secure your portable hotspotYou can change the name of your phone's Wi-Fi network name (SSID) and secure its Wi-Fi network when it's acting as a portable hotspot.Go to Settings > Wireless & networks > More > Tethering & portable hotspot.Make sure Portable Wi-Fi hotspot is checked.Touch Configure Wi-Fi hotspot.The Configure Wi-Fi hotspot dialog opens.Set your name and security options as follows:Change the NetworkTO USE: Just touch Portable Wi-Fi hotspot icon on / offRecent changes:Supportandroid 2.1 overICS, Jelly Bean"
+p4
+tp5
+tp6
+.

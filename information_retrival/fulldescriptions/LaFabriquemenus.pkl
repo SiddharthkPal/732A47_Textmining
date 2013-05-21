@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'La Fabrique \xc3\x83\xc2\xa0 menus '
+p1
+tp2
+(S'Description:'
+p3
+S'La Fabrique \xc3\xa0 menus, l\xe2\x80\x99appli mobile Avec La Fabrique \xc3\xa0 menus le nouveau service de mangerbouger.fr, vous avez g\xc3\xa9n\xc3\xa9r\xc3\xa9 vos menus pour la semaine ou quelques jours.  Pour ne rien oublier lorsque vous faites vos courses, ayez le r\xc3\xa9flexe La Fabrique \xc3\xa0 menus, l\xe2\x80\x99appli mobile. Gr\xc3\xa2ce \xc3\xa0 cette application gratuite, vous pourrez facilement :  - acc\xc3\xa9der \xc3\xa0 votre liste de courses hebdomadaires g\xc3\xa9n\xc3\xa9r\xc3\xa9e par la Fabrique \xc3\xa0 menus; - supprimer ou ajouter des produits ; - cr\xc3\xa9er des listes de courses suppl\xc3\xa9mentaires (ex : bricolage, fournitures, accessoires, etc.) ; - fusionner plusieurs listes de courses; - consulter vos menus et vos recettes en PDF ; - consulter vos anciennes listes de courses.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iMusic - iPhone 5 Style '
+p1
+tp2
+(S'Description:'
+p3
+S'iMusic is an iPhone Style and Android Capability Music . Very cool UI and easy to use. You can get the Exciting iPhone user experience and android capability in Android Phone!Major Feature:- Support iPhone iOS 6 UI Style and Music feature- Support same look and touch feeling with iPhone- Support seamless playback- Support browse by artist, album, song or genre media- Support create playlists and playlist shortcuts- Support play queue management- Support repeat and shuffle playback- Support playback widget at launcher- Support English,German, French, Spanish, Italian, Russian, Korean, Japanese, Portuguese and Chinese language- Support set song as ringtone Enjoy it!If you meet any issue, pls don\'t just rate one star. We hope your email the issue to iPhoneatandroid(at)gmail.com, we will definitely feedback and resolve your issue asap.Tag: iPhone Style, iOS, Record, Music Playback, Artist, Album, PlaylistThis app is ad-supported.You can get more iPhone Style Apps in "iPhone Style Studio".Thanks!Recent changes:v1.31.Add playback status bar with album art and playback controls2.Add album picture in home screen music widget 3.Optimize Album display effect in playback screen4.Optimize HVGA layout display5.Some bugs fix'
+p4
+tp5
+tp6
+.

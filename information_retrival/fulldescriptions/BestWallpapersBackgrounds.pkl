@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Best Wallpapers & Backgrounds '
+p1
+tp2
+(S'Description:'
+p3
+S'The best free wallpapers and backgrounds for your Android!Get your next HD background from this huge collection of beautiful free wallpapers:- Browse many popular backgrounds categories with our fast browsing interface- See the current and all-time popular backgrounds- Favorite & save wallpapers in HD for later use on the SD card- Live wallpaper to show gallery images as slideshow- Widget to quickly switch between your favorite wallpapers- All wallpapers / backgrounds are free of course (public domain / creative commons licensed) \xe2\x9c\x94Get your free cool background wallpaper now!Keywords: Free Backgrounds, Free Wallpapers, Wallpapers and Backgrounds, HD Wallpaper, Background, Wallpaper Widget, Live Wallpaper Slideshow wallpapers, backgrounds, background images, cute catsRecent changes:- Endless Scrolling- New Design- Cropping of wallpaper- Wallpaper preview- Bugfixes for Android Jelly Bean'
+p4
+tp5
+tp6
+.

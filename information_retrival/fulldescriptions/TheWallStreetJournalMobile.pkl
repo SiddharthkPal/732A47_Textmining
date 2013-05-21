@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Wall Street Journal Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Get on-the-go access from The Wall Street Journal with the latest news, in-depth analysis and real-time quotes. The Wall Street Journal Application for Android Smartphone provides you with access to award-winning news and information anytime, anywhere from WSJ.Read articles from Today\xe2\x80\x99s Paper and get updated news from Business, Tech, Life and Culture and more throughout the day.  Save your favorite WSJ articles for reading later and share with your friends via email, Facebook and Twitter. Experience rich multi-media from The Wall Street Journal including Photos of the Day, Video Center and Podcasts.All users have access to non-premium articles, videos, photos, radio and quotes. A subscription is required to access premium articles (denoted by a key icon). You can subscribe to WSJ from within the app to access all contentRecent changes:Version 1.5.0:  \xe2\x80\xa2 WSJ for Android Smartphone has a new look.  \xe2\x80\xa2 Enhanced support for Jelly Bean and Android 4.2.Version 1.4.8:  \xe2\x80\xa2 Additional content for Weekend EditionVersion 1.4.6:  \xe2\x80\xa2 Widget fixVersion 1.4.4:  \xe2\x80\xa2 Performance improvementsVersion 1.4.2:  \xe2\x80\xa2 Removes initial registration requestVersion 1.4.0:  \xe2\x80\xa2 Support for ICS (Ice Cream Sandwich)'
+p4
+tp5
+tp6
+.

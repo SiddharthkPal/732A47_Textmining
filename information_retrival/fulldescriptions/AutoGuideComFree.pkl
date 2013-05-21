@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AutoGuide.Com Free '
+p1
+tp2
+(S'Description:'
+p3
+S'The AutoGuide Free App empowers the members of the AutoGuide.Com Network to access content and Forums on-the-go.Recent changes:Fixes crashes on some devices'
+p4
+tp5
+tp6
+.

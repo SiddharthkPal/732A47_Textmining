@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Droid DNA Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Droid DNA Live Wallpaper, abstract background with floating particles.To use: Home -> Menu -> Wallpapers -> Live WallpapersTo develop more free great live wallpapers, we have implemented some ads in settings.Advertisement can support our develop more free great live wallpapers.This live wallpaper has been tested on latest devices such as Samsung Galaxy S3, Nexus 7, HTC Desire S and Sony Xperia S. Please contact us if your device is not supported.Note: If your wallpaper resets to default after reboot, you will need put the app on phone instead of SD card.Recent changes:- Initial release'
+p4
+tp5
+tp6
+.

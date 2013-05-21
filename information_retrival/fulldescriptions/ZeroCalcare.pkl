@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zero Calcare '
+p1
+tp2
+(S'Description:'
+p3
+S"Quest'app \xc3\xa8 pensata per chi segue Zero Calcare e non vuole perdersi neanche una storia pubblicata sul suo blog, l'app ti ricorder\xc3\xa0 di controllare se sono presenti nuove vignette su Zerocalcare.it.Per chi, invece, non conosce Zero Calcare \xc3\xa8 un'ottima occasione per iniziare a leggere le sue divertentissime storie.Buona letturaApp recensita su http://www.tuttoandroid.net ___________________________App non ufficiale di Zero CalcareAiutaci a migliorare questa giovane applicazione segnalandoci nuove funzioni ed eventuali malfunzionamenti.Recent changes:Versione 1.0.1:\xe2\x80\xa2 Inserita la possibilit\xc3\xa0 di disattivare le notifiche\xe2\x80\xa2 Aggiornamento ActionBar\xe2\x80\xa2 Correzioni bug riguardante i permessi"
+p4
+tp5
+tp6
+.

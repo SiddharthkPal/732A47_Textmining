@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ayurveda - Cures n Remedies '
+p1
+tp2
+(S'Description:'
+p3
+S'Ayurveda is an Ancient system of medicine which uses Herbal treatment to cure diseases.This app gives you cures and remedies on many diseases. For each disease there are 2-3 remedies. The cures mentioned are easy to prepare and uses common herbs that can be found in kitchen and gardenIf you like this app, try our other apps,Find Around MeiGaneshPersonality Reflector2012 DiaryWeather Around MeTarot TellerBrain BoosterChicks n EggsTap Tap WordsVita-MinFun n FlickKey Words : ayurveda, treatment, herbs, cure, remedies, medicine, disease, pain, doctor'
+p4
+tp5
+tp6
+.

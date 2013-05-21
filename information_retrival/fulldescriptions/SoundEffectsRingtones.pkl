@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sound Effects Ringtones '
+p1
+tp2
+(S'Description:'
+p3
+S'Aura Sound Effects Ringtones*Press and hold on icon for features!Features :*Includes 85 different sound effects*Press and hold on icon*Easy to use UI*Set as ringtone, notification, alarm and assign to contacts.Enjoy these funny sounds effects!Please feel free to contact us for any questions.Recent changes:* Bug fixes!'
+p4
+tp5
+tp6
+.

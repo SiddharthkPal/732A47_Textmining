@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Subway Surfers '
+p1
+tp2
+(S'Description:'
+p3
+S'DASH as fast as you can! DODGE the oncoming trains! Help Jake, Tricky & Fresh escape from the grumpy Inspector and his dog. \xe2\x98\x85 Grind trains with your cool crew! \xe2\x98\x85 Colorful and vivid HD graphics! \xe2\x98\x85 Hoverboard Surfing! \xe2\x98\x85 Paint powered jetpack! \xe2\x98\x85 Lightning fast swipe acrobatics! \xe2\x98\x85 Challenge and help your friends! Join the most daring chase! A Universal App with HD optimized graphics.By Kiloo Games and Sybo GamesRecent changes:1.10.3\xe2\x98\x85 Minor improvements and graphical adjustments1.10.0\xe2\x98\x85 Follow the Subway Surfers World Tour to Japan\xe2\x98\x85 Grind trains in the neon lit Subway and beneath blooming cherry trees\xe2\x98\x85 Join the thrilling Weekly Hunt in Tokyo and compete for weekly prizes \xe2\x98\x85 Get charming Harumi for your character collection\xe2\x98\x85 Put your skills to the test with new challenging Missions'
+p4
+tp5
+tp6
+.

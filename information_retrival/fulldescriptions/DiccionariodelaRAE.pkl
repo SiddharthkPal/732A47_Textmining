@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Diccionario de la RAE '
+p1
+tp2
+(S'Description:'
+p3
+S'DRAE es la aplicaci\xc3\xb3n oficial que la Real Academia Espa\xc3\xb1ola pone a su disposici\xc3\xb3n a trav\xc3\xa9s de la editorial Espasa Calpe para conectarse al Diccionario de la lengua espa\xc3\xb1ola.Resuelva al instante y de forma f\xc3\xa1cil cualquier duda sobre c\xc3\xb3mo se escribe una palabra, accediendo directamente a la base inform\xc3\xa1tica de datos de la Real Academia Espa\xc3\xb1ola.Explore, con una interfaz \xc3\xa1gil e intuitiva, las m\xc3\xbaltiples posibilidades de consulta (por lemas y formas; sin acentos, di\xc3\xa9resis ni may\xc3\xbasculas; aproximada, y escalonada, que combina las tres posibilidades anteriores), aplicada al conjunto siempre actualizado de las m\xc3\xa1s de 80 000 art\xc3\xadculos y a las formas conjugadas de los verbos.Recent changes:Mejoras en la usabilidad de la aplicaci\xc3\xb3n y optimizaci\xc3\xb3n de la conexi\xc3\xb3n a Internet.'
+p4
+tp5
+tp6
+.

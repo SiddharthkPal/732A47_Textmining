@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quotidiani Italiani '
+p1
+tp2
+(S'Description:'
+p3
+S"Quotidiani ItalianiBenvenuto nella migliore app notizie italianeQuesta \xc3\xa8 la migliore applicazione nella categoria, i giornali italiani;\xe2\x9c\xaa preferiti Imposta, questa funzione permette di        organizzare i vostri giornali per preferiti.\xe2\x9c\xaa Aggiungi giornale / rivista\xe2\x9c\xaa Elimina giornale, rivista\xe2\x9c\xaa dimensione del carattere registrabile\xe2\x9c\xaa Aprire con il browser internet standard\xe2\x9c\xaa One Finger accesso alle seguenti app Italiana Giornali:\xe2\x98\x85 libero\xe2\x98\x85 il messaggio\xe2\x98\x85 calciomercato\xe2\x98\x85 ansa\xe2\x98\x85 La Repubblica\xe2\x98\x85 virgilio\xe2\x98\x85 Corriere dello Sport\xe2\x98\x85 Il Giorno\xe2\x98\x85 Tgcom\xe2\x98\x85 Tutto Mercato\xe2\x98\x85 Tuttosport\xe2\x98\x85 Corriere della Sera\xe2\x98\x85 La Gazzetta dello Sport\xe2\x98\x85 Il Giornale\xe2\x98\x85 la stampa\xe2\x98\x85 metro\xe2\x98\x85 Quotidiano\xe2\x98\x85 Il Fatto Quotidiano\xe2\x98\x85 Il Mattino\xe2\x98\x85 Il Messaggero\xe2\x98\x85 Il Sole 24 Ore\xe2\x98\x85 Leggo\xe2\x98\x85 Il Secolo XIX\xe2\x98\x85 Il Gazzettino\xe2\x98\x85 il tirrenoE molti altri. Se non riesci a trovare i vostri giornali preferiti, basta personalizzare l'applicazione alle proprie esigenze.Oppure inviaci una e-mail.[P.s;! Attirare l'app ora mentre il suo ancora libero]"
+p4
+tp5
+tp6
+.

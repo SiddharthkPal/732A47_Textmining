@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'picq - Merge photos '
+p1
+tp2
+(S'Description:'
+p3
+S'Finally pictures made \xe2\x80\x8b\xe2\x80\x8bfrom "picq" Facebook, Twitter, etc. .... SNS sharing updates!Merge multiple photos into one!Express your daily life in one photo.picq can merge multiple photos into one.Share your photos on Facebook, Twitter or other SNS.......February 2013 Update -- Version 1.1.0* OS Version 2.2 support* Add SNS share(Facebook, Twitter..etc)* Change as a percentage of the original image,* Shapes download* Added Tapjoy * bug fixes[picq features]. set slideshow on the picq main screen with photos in your specified folder. merge multiple photos(max 9 photos) into one. lay out photos by moving each. Flower, Star, Heart etc.. more shape . set various effects to each photo to make your own photos. calibrate the color detail by Photo Correction feature. adjust the size of your photos or rotate. if paid with  the variety  stickers, backgrounds and frames you can decorate the pretty pictures.. support three resolutions to save your photos. photos are stored in the picq folder, you can see them in the gallery of your phone[What\'s New in Version 1.0.6]* added Login (before January 27 2013, if Register you can get 1000 Q)* added Paid decorating menu* added Package Item menu (Lower price than regular items)* fixed bugs[What\'s New in Version 1.0.5]* Fixed sometimes forced at the beginning of the program were terminated* Lack of capacity sd card check when you save a photo[What\'s New in Version 1.0.4]* added Shape Layout* added Sticker, Frame* Can download the Sticker,Frame and Background[What\'s New in Version 1.0.3]* quality improvement[What\'s New in Version 1.0.2]* Lists the latest photos from the Gallerye* Stability of the gallery is improved* You can swap a photo for the other photo with long touch* Arrangement rotating included* Picture frame rotation is available* Saving time is shortened* Menu position is changed* When you change arrangement of your photo, the effect and adjustment is not changed any more [updates] - version 1.0.1   * Buf fix on "Frame" menu   * Bug fix on "Rev" menu [OS Environment] Android    2.2  or higher keywords : photo, photo effect, merge photos, picq, puzzlepop, baeksang, qooala, shape, frame, sticker, picture, decorateRecent changes:We recommend that you use download here after you delete the existing picq ver 1.0.5'
+p4
+tp5
+tp6
+.

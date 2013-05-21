@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Music Player for Android '
+p1
+tp2
+(S'Description:'
+p3
+S"This is a very powerful, beautiful, and easy-to-use Music Player for Android devices. Listen to music with ease and elegance!This music player adds many features on top of the original project:- Automatically detect and organize all of your songs on your phone. You don't need to rearrange folders by yourself!- Lyrics support- Advanced Equalizer- Superior audio quality- Ability to play many file types including: mp3, mp4/m4a (including alac), ogg, wma*, flac, wav, ape, wv, tta, mpc, aiffThis music player is based on the open source Android Music Player developed by the Android Open Source Project (AOSP) team and adds many features on top of the original source code (some of which have been stated above). The original Android Music Player project is licensed by Apache 2.0 and its source code can be viewed here:http://android.googlesource.com/platform/packages/apps/Music.gitIf you would prefer to use the Android Music Player without our added features, a developer acleld JRTStudio has uploaded the unmodified source code here:https://play.google.com/store/apps/details?id=com.jrtstudio.musicIf you would like to try other Music Players to compare, we recommend you search for doubleTwist, Poweramp, PlayerPro, or Rocket Music Player as they are highly rated."
+p4
+tp5
+tp6
+.

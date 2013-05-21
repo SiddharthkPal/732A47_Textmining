@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'JobMo - Job Search '
+p1
+tp2
+(S'Description:'
+p3
+S'JobMo \xe2\x80\x93 Now with WorldWide localization. Find jobs near you in over 20 different countries. Looking for a better job? Job Mo allows you to search for millions of jobs and apply to them directly on your mobile device. View and compare salaries and trends for your desired jobs to find the best job available. Find jobs anywhere using Google Maps.  At Kiefer Consulting, Inc. we strive to provide the best engineered, easiest to use and feature rich products in the industry. Feel free to contact us via email at info@kieferconsulting.com, by phone (800) 794-1928 or blog about our applications.Interested in joining the Mobile Innovation Team? Send your resume to resumes@kieferconsulting.comDISCLAIMER: Job Mo uses job search aggregators as data sources. Job listings are obtained by vendors such as Indeed. However, this application is not affiliated with Indeed or any other job search aggregators.JobMo, Job Search, Job Finder, Find Jobs, Job Search Engine, Employers, Recruiters.Recent changes:Added search term history.Fixed a few bugs and issues.'
+p4
+tp5
+tp6
+.

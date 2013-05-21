@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Program TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Program TV is a TV guide application for Android.  Covers over 300 channels. This application supports only Polish language and region.Recent changes:Dzi\xc4\x99kujemy za Wasze uwagi i sugestieZmiany w wersji 2.2.1\xe2\x80\xa2 nowe stacje telewizyjne oraz ikonki\xe2\x80\xa2 drobne poprawki'
+p4
+tp5
+tp6
+.

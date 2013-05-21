@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Notepad '
+p1
+tp2
+(S'Description:'
+p3
+S'GO Notepad a new, comfortable and simple notepad right on your Android. Notepad is always at your hand, you just have to write down what you want to do or what you don\'t want to forget, you may even do not save it, it would do it for you.Choose any color you want to write notes, also you do have a chance to share notes with friends or relatives. If you like to leave a lot of articles and do not know where is the one you want? Your new notebook will find it easilyNotepad is fine for students in writing crib sheets.Features:- Search notes, drawings- Automatically save notes- Save images into SD in notepad folder- Painting the choice of color and brush size- The intensity of the brush saturation and color transparency- Undo in painting- Edit the name of the picture, or note- Eraser is used to remove areas of color from the active layer or selection of this layer, leaving behind transparency.- Supports plotting boards for sketching, like a graffiti in touch with choice of color, thickness, intensity- The "Add Bookmark" will help you to put Desktop shortcut of your note or drawing as a reminder.- Share notes  Icq, Gmail, Bluetooth, Skype, Facebook, Vkontakte, Flickr, Twitter- Drawing, Color picker- Photo notes drawing- Photo Editor- Photoshop- Photo notes text- Voice note- Reminders- Shopping list- Gallery notes- Background color- Backup/import/export to SD cardAutomatic backup schedule daily / weekly /- Video Notes- Password ProtectionAre you a creative person? You need to not only record your ideas but also do sketches as a picture, then this new notepad is for you!With this feature, you can quickly and easily create notes as sketches, drawings, or make a note in the form of handwriting.Bright palette and vibrant colors will help you to express all your feelings in the time of the drawing.An excellent option for the manuscript is a device Samsung Galaxy Note with its pen, you can create a masterpiece.Fast, easy, beautiful and accessible at any time. This is what you needRecent changes:\xe2\x98\x85 Video Notes\xe2\x98\x85 Password Protection\xe2\x98\x85 New desing for buttons\xe2\x98\x85 The records are stored in the list of top-down\xe2\x98\x85 Nine background colors to choose'
+p4
+tp5
+tp6
+.

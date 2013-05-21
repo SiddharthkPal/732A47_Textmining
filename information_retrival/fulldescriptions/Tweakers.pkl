@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tweakers '
+p1
+tp2
+(S'Description:'
+p3
+S"Lees het laatste nieuws en de beste reviews over smartphones, laptops, televisies, tablets en overige elektronicaproducten in de app van Tweakers. Vergelijk de prijzen van meer dan 350 winkels in Nederland en vind altijd de beste deal in de prijsvergelijker van Tweakers: de Pricewatch. De Pricewatch is dankzij prijzen en specificaties van meer dan 300.000 elektronicaproducten de bron voor iedereen die op het punt staat een nieuwe televisie, computer, smartphone of ander elektronicaproduct te kopen. Zoek een product, lees de uitgebreide productreviews en vind de goedkoopste winkel bij jou in de buurt via de exclusieve store locator-functie. De Pricewatch is niet voor niets uitgeroepen tot Beste en Populairste Prijsvergelijker van 2009, 2011 en 2012. Tweakers behoort tot de top twintig van drukst bezochte websites in Nederland, en is in 2009, 2011 en 2012 door het Nederlandse publiek verkozen tot onder andere Website van het Jaar, Beste Nieuws- en Informatiesite, Beste en Populairste Community en Beste en Populairste Vergelijkingssite. Bezoek Tweakers ook via de desktop of laptop via http://tweakers.net.Recent changes:Fixes 1.7.7:\xe2\x80\xa2 Externe links openen nu in de browser in plaats van in de app\xe2\x80\xa2 Inlogproblemen verholpen\xe2\x80\xa2 Bugs gefixed bij het plaatsen van een reactie\xe2\x80\xa2 Minor visuele tweaks\xe2\x80\xa2 Hardware acceleratie ingeschakeld\xe2\x80\xa2 Bugs gefixed bij het intern linken naar onze eigen artikelen\xe2\x80\xa2 Bugs gefixed met het afspelen van video's op Android 4.x\xe2\x80\xa2 Diverse overige bugs die crashes veroorzaakten gefixedFixes 1.7.6:\xe2\x80\xa2 App compatible gemaakt met de nieuwe versie van tweakers\xe2\x80\xa2 Diverse kleine bugfixes"
+p4
+tp5
+tp6
+.

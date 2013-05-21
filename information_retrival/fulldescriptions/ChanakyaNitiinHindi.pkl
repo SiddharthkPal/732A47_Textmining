@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Chanakya Niti in Hindi '
+p1
+tp2
+(S'Description:'
+p3
+S'Chanakya Niti in HindiChanakya was an Indian teacher, philosopher and royal advisor. Originally a professor of economics and political science at the ancient Takshashila University, Chanakya managed the first Maurya emperor Chandragupta\'s rise to power at a young age.Chanakya is traditionally identified as Kautilya or Vishnu Gupta, who authored the ancient Indian political treatise called Artha\xc5\x9b\xc4\x81stra. As such, he is considered as the pioneer of the field of economics and political science in India, and his work is thought of as an important precursor to Classical Economics. Chanakya is often called the "Indian Machiavelli", although his works predate Machiavelli\'s by about 1,800 years. His works were lost near the end of the Gupta dynasty and not rediscovered until 1915.'
+p4
+tp5
+tp6
+.

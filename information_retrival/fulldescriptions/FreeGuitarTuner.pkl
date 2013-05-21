@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free Guitar Tuner '
+p1
+tp2
+(S'Description:'
+p3
+S"'Guitar tuner' is a good accordance tool, really fast and easy in use.You can tune standart 6 or 7 string guitar and Drop D, Drop C guitar , 4 string bass guitar or even Ukulele.If you want to tune direct string - justpress the number of that string in application, otherwise the tunerwill automatically detect it and show you the tuning level.Features : Tonetic generator & automatical microphon sensibility alignment Application was tested on LG optimusp350 and Samsung Galaxy S2.Recent changes:1) Save Tuner choose2) Tune   Drop D ( 6 string guitar)  Drop C (6 string guitar)"
+p4
+tp5
+tp6
+.

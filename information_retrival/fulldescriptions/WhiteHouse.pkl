@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'White House '
+p1
+tp2
+(S'Description:'
+p3
+S'The official White House app brings you the latest from 1600 Pennsylvania Avenue, including news from the White House blog and press briefing room, photo and video archives, and live streams of events around the country with President Barack Obama and administration officials.Recent changes:* now uses Google Cloud Messaging for notifications'
+p4
+tp5
+tp6
+.

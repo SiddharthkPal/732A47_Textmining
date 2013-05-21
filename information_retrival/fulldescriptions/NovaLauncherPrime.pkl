@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nova Launcher Prime '
+p1
+tp2
+(S'Description:'
+p3
+S'Highly customizable, performance driven, home screen replacement for Android 4.0+Nova Launcher Prime unlocks the following features in Nova Launcher:Drawer Groups:  Folders in App Drawer  Unlimited custom tabsOrganize apps into tabs and folders in the app drawerGesturesQuickly start Nova Actions or Apps from gestures on the desktop, such as pinching, swiping or two-finger swiping.Hide AppsKeep a clutter free drawer by hidding never used apps.Dock SwipesGet more use out of your dock apps by setting swipe-actionsUnread CountsNever miss an email. Unread count badges for SMS, Missed calls and Gmail. Counts show in the dock, desktop, drawer and folders.More Scroll EffectsYou need to install the free version of Nova Launcher http://play.google.com/store/apps/details?id=com.teslacoilsw.launcher to use Nova Launcher PrimeFor download issues or Play Store errors such as Error 941 please contact Google at http://support.google.com/googleplay/bin/request.py?policy=apps&contact_type=contact_policyRecent changes:Fixed some licensing issuesUpdated IconUpdated textAdded button to Nova SettingsSee the changelog of Nova Launcher for updates related to the launcher http://play.google.com/store/apps/details?id=com.teslacoilsw.launcher'
+p4
+tp5
+tp6
+.

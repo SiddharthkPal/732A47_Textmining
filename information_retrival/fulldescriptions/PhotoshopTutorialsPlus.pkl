@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photoshop Tutorials - Plus '
+p1
+tp2
+(S'Description:'
+p3
+S'** We re-packed our very popular Photoshop Tutorial App with over 155,000 downloads and counting!**Easy to follow, step by step Photoshop Tutorials.  Learn how to create amazing text effects, brushes, textures, manipulate photos and use dynamic lighting/shading!Recent changes:- faster loading screens- Added Video Support- added some touch up graphics'
+p4
+tp5
+tp6
+.

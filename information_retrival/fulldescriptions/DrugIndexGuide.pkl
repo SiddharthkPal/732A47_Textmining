@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Drug Index & Guide '
+p1
+tp2
+(S'Description:'
+p3
+S"DrugIndex is the leading medical resource mostly used by physicians, medical students, nurses and other healthcare professionals for clinical information. DrugIndex delivers frequently updated, comprehensive, practical information on over 30,000+ brand name and 2000+ generic drugs. This powerful app contains everything you need to provide better care to your patients including information on dosing and administration, safety, interactions and patient teaching.It provides all the information required to protect themselves and their patients when administering drugs. This application delivers evidence base need to safely administer these drugs along with important patient monitoring instructions specific to each drug.APP FEATURES:Drugs:\xe2\x80\xa2\tPrescription & safety information of 2,000+ drugs and 30000 brands\xe2\x80\xa2\tDrug / Brand Search Features\xe2\x80\xa2\tBookmark useful drugs / brand drugs to a personalized \xe2\x80\x98saved\xe2\x80\x99 list for easy access\xe2\x80\xa2\tSpecial features of drugs, detailed information, safety details, available brands for each drugs etc.MEDICAL NEWS CHANNELS- RSS FEEDS\xe2\x80\xa2\tDefault category based news channels (RSS feeds)\xe2\x80\xa2\tAdd or remove new changes\xe2\x80\xa2\tAbility to save and email articles, share articles on Facebook and read offline without internet connectionSUPPORTED DEVICE AND OS INFORMATION\xe2\x80\xa2\tSupported OS: 4.0 , 4.0.3, 4.0.4 , 4.1NOTE: Users with 'rooted' devices and ad-blocker software installed may experience connectivity errors while using drugindex.Recent changes:2.4.11) Fix Nexus 7, Galaxy Nexus (Jelly Bean) problem2) Bug fix."
+p4
+tp5
+tp6
+.

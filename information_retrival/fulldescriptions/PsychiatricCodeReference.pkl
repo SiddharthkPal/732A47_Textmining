@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Psychiatric Code Reference '
+p1
+tp2
+(S'Description:'
+p3
+S'My heart goes out to the families in Connecticut. I\'ve posted a copy of a good article that I received in my work email today (12-17). It may help answer some questions.www.dotequals.com/helpPlease Read!  This app has a fairly large database that is populated on the first launch and on some updates. So, please be patient while the database populates for the first time.  If you download and immediately try to search for a code or diagnosis, the app will crash on some devices. Please be patient and give the app 30 second to populate the database (on first install only). Sorry for the inconvenience. I will be fixing this as soon as I have time*This is a small application that will allow you to search DSM-IV psychiatric codes by Code, Diagnosis or Category of Diagnosis.  This is a great tool for cross-referencing.  Clicked search results will open a webpage with information related to the disorder. If you find any errors or missed diagnosis please contact me so I can update the application.**To use the app just enter a full or partial psychiatric code or description and click the "Search" button.  Check the "Search by Category" button, enter a full or partial Category and click the "Search" button.***Please be aware that the first time you run the app after installation it will take several seconds before the interface displays due to the database being loaded. The app will run normally after install.Results layout:--Code--Disorder--CategoryAll ad money from this app will go to the Wounded Warrior Program.  So, please click those links! :) Thanks for your support!This app is for support purposes only.  Please do not rely on this app for diagnostic purposes.Recent changes:Crash reports are caused due to searches being submitted before database finishes loading.  Please allow 30 seconds after initial install before attempting a search.  This will be fixed.'
+p4
+tp5
+tp6
+.

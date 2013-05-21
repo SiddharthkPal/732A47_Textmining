@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Toucher '
+p1
+tp2
+(S'Description:'
+p3
+S'# V1.2 update infoWe\xe2\x80\x99ve heard from users\xe2\x80\x99 feedback, and we saw many users need a feature to set their default Toucher interface to \xe2\x80\x9cfavor apps\xe2\x80\x9d or \xe2\x80\x9cSwitches\xe2\x80\x9d, we take your advice into consideration, and we add a new feature: Remember last page.With this features on, once you leave Toucher from a page, example, favor apps, next time you click the point, Toucher will open favor apps as main interface.Meanwhile, we\xe2\x80\x99ve improved the animation of Toucher. Once you click the point to show main interface, point will auto-hide, another users feedback.#HOW TO HIDE THE POINTapp drawer - Toucher - Toucher Point Enabled, turn off.Toucher, enhanced version of TouchHelper, more themes and more features!Toucher is a tool application specially designed for Android devices. We expanded the concept of the iPhone AssistiveTouch, and redesigned for the Android devices, both mobilephones and tablets. Toucher gathers most commonly used and needed features of Android system in this suspending point.Besides, we\'re taking further steps on personalization and trying our best to bring you more themes, it may appears just like another suspending frame, or a full-screen theme(like what we did in WP theme and TouchHelper default theme"colorbar"), also the point skins. And we\'re aiming at being better than Assistive Touch. So, just try this on and keep focus on Toucher!#How to switch theme"App drawer - Toucher icon - theme settings"#How to uninstall"App drawer - Toucher icon - Uninstall"or "default theme - Touch - Uninstall"(Once you activate lock screen feature, you cannot uninstall Toucher in app drawer directly.)#Feature lists:*Lock Screen*Home - Long press to open recent app list*Favor app*Device switches (eighteen types in total)*Menu: right now you can change themes and uninstall Toucher.*Clean up memory*Recent apps*Themes: colorbar, WPLooking forward to your feedback!Recent changes:v1.2(Add) Remember Last Page. With this option on, click the point to open the interface where you left last. - Switch on the option: "Toucher \xe2\x80\x93 Touch \xe2\x80\x93 Preference \xe2\x80\x93 Remember Last Page", or "app drawer \xe2\x80\x93 Toucher \xe2\x80\x93 Remember Last Page"(Improve) Animation of Toucher, more smooth.(Improve) Point will auto-hide while main interface come out(Fix) recent apps unstable under Android 2.1.(Fix) bugs may cause crash while turn on the screen'
+p4
+tp5
+tp6
+.

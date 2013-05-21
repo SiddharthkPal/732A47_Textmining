@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cloud Print '
+p1
+tp2
+(S'Description:'
+p3
+S'Cloud print allows you to print files from your phone to your printer. In order to do this it uses the new Google Cloud Print service you should configure your pc following this guide: http://www.google.com/landing/cloudprint/(NEW)CONFIGURATION VIDEO :http://www.youtube.com/watch?v=rUjlaLtUCfAIf you have an Cloudprint ready printer (Epson, Kodak etc) or HP E-Print enabled printer you don\'t  need your pc to be on, for other printers your pc needs to be ON.Now with internal file browser that allows you to print from the app and with support for: pdf,jpg,jpeg,docx,ods,xls,xlsx,ppt,odp,txt,doc,xpsMain features:- Share printers with friends- mail printing- sms printing- print job management- internal file browser- webpage printing- printer managment ( Printer options )- Print from clipboardAwesome translation team :Fabrizio Alberti aka technofab (IT), Awesome Dutch user(NL),Awesome German user (DE),roaddan from Qu\xc3\xa9bec(FR), me (PT),Dani Mediavilla(ES)Using Cloud Print app you can print to any printer connected to Google Chrome!SEO: google cloud print printer networkWHY WE NEED SMS READING PERMISSIONS ?- because we allow you to print your smsWHY WE NEED CONTACTS READING PERMISSIONS ?- because we allow you to print your contactsNOTE TO ALL THE USERS: It is not possible to answer the comments you make on the market, so please report your issue using the button "feedback" button in the app and we will try to help you. Before report issues please try to print from  http://www.google.com/landing/cloudprint/  to confirm if the issue is google side.Recent changes:- Added support for Box.com service- Added Polish language- Improved integration with Samsung print menu option- Facebook improvements- General UI improvements- Bug fixing'
+p4
+tp5
+tp6
+.

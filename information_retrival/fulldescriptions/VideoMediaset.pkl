@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VideoMediaset '
+p1
+tp2
+(S'Description:'
+p3
+S'Il meglio della TV sul tuo telefono Android!Scopri la nuova app di  VIDEOMEDIASET! Innovativa, veloce, aggiornata!Da Uomini e Donne a Colorado, dai Cesaroni a Pomeriggio 5\xe2\x80\xa6 Tutti i tuoi programmi preferiti sono disponibili per te il giorno dopo la messa in onda Tv. Ieri sera ti sei perso la tua fiction preferita? Nessun problema finalmente puoi rivederla comodamente sul tuo Android ogni volta che vuoi!In pi\xc3\xb9 da oggi non dovrai pi\xc3\xb9 accontentarci delle clip, ma potrai finalmente rivedere dal tuo Android le puntate intere dei tuoi programmi e delle tue serie preferite: i Cesaroni, Beautiful, L\xe2\x80\x99onore e il rispetto e molte fiction.Inoltre se non riesci a finire di vedere l\xe2\x80\x99episodio, con un semplice tap, potrai inserire la puntata nella sezione \xe2\x80\x9cContinua a vedere\xe2\x80\x9d e riprendere in un secondo momento la visione da dove ti eri interrotto. Segui le dirette di TGCOM24, TG5, Studio Aperto e TG4 e guarda tutti i video dei programmi Mediaset.Vuoi coinvolgere i tuoi amici? Condividi i video con i tuoi contatti tramite Facebook, E-mail e Twitter.VIDEOMEDIASET, LA TV QUANDO VUOI TU!Recent changes:- Da oggi con la nuova versione potrai rivedere le puntate intere dei tuoi programmi e delle tue fiction preferite: i Cesaroni, L\'onore e il rispetto 3, Beautiful e tante altre.- Inoltre abbiamo aggiunto la funzionalit\xc3\xa0 "Continua a vedere": cliccando sull\'apposita icona potrai continuare a vedere un video precedentemente interrotto dal punto in cui eri arrivato.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BrainFraq - Theta Level '
+p1
+tp2
+(S'Description:'
+p3
+S"This Track will lower your brain frequency to Theta brain wave level (4-6 Hz) using binaural beats. This will make you feel more relaxed and it's a perfect way to start your meditation or just to chill out. Also a lower brain frequency will reduce your stress level, your learning time and help you by improving your concentration.For this app to work you need to use STEREO HEADPHONES! The sound volume should always be adjusted to a safe and comfortable level.WARNING: Do not listen to this track while driving or operating heavy machinery!!!"
+p4
+tp5
+tp6
+.

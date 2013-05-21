@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Twitch '
+p1
+tp2
+(S'Description:'
+p3
+S'Twitch is the world\xe2\x80\x99s leading video platform and community for gamers where more than 30 million gamers gather every month to watch and interact around the games they love. We are leading a revolution in video game culture, turning gameplay into an immersive entertainment media experience.  Watch your favorite streams over both 3G and WiFi networks, and switch between 2 different quality levels to optimize your stream based on your connection.  WHAT THE PRESS ARE SAYING:CBS News - \xe2\x80\x9cFor a video game lover, like myself, the site is addictive. Not only do I get to see games that I\'m interested in before deciding to buy, but also get to watch how other people play.\xe2\x80\x9dMashable - "If you\xe2\x80\x99re ditching cable, there are many alternative content destinations online. If you\xe2\x80\x99re a gamer, one of those is probably TwitchTV." PC World - \xe2\x80\x9cThe quality and selection simply blow most of the other live-streaming apps out of the water when it comes to game-specific channels."Recent changes:Version 1.0.6:- Fixed the last cause of the streams showing a black screen. Now, after a few seconds the stream should begin playing normally.- Fixed game box art which previously rarely loaded.Version 1.0.5:- Fixed user names showing up incorrectly.Version 1.0.4:- Occasionally, when trying to view a stream the screen would remain black. The biggest cause of this has been fixed.'
+p4
+tp5
+tp6
+.

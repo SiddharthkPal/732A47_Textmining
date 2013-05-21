@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kenteken opzoeken '
+p1
+tp2
+(S'Description:'
+p3
+S'Makkelijk informatie opzoeken met alleen het kenteken.Hoe oud is de auto, hoe hard kan deze, wat kostte hij nieuw (zowel o.b.v. BPM als de officiele catalogusprijs) en wat is hij als occasion nog waard? En wanneer is de volgende APK keuring?Alle eerder opgezochte kentekens worden bijgehouden in een handig overzicht.Ook het nummerbord van bijvoorbeeld een motor, aanhangwagen of bedrijfsauto kan ingevoerd worden. Voor deze is de informatie wel beperkt tot de RDW informatie.Om een regel te verwijderen uit de historie lang klikken op de te verwijderen regel.trefwoorden: car, zoeken, spotten, spotter, rdw, waarde,  apk, nummerbordontwikkelaar: Jaap BeetstraRecent changes:1.6.1: Oude invoermethode met scrollwieltjes en on-screen keyboard terug1.6.0: Vormgeving verbeterd, m.n. voor Android 4.0+'
+p4
+tp5
+tp6
+.

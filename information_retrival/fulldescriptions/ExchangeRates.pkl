@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Exchange Rates '
+p1
+tp2
+(S'Description:'
+p3
+S'An easy to use currency converter with no ads.* Integrated calculator* Every world currency* Multiple currency display* Override rates* Invert rates* Offline mode* Currency charts* Auto sync* Currency wikipediaThe about screen contains the latest version info.Please consider donating if you like the app :)Recent changes:Added change currency to context menuRemoved change currency from tap on flagImprovements to Italian translationAdded traditional Chinese translation'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simple Calendar Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'This widget calendar is analog of standard calendar widgetSupport a lot of configuration options:* Different skins* Possibility to choose which calendars to show* Font style and background customization* Show or hide current day of month* Possibility to choose which application to open* Support of tasks using Dato GTasks or Astridand more...F.A.Q* How to add widget to home screen  On phone home screen press "menu", then "add", click on "widgets" and choose "Simple Calendar Widget" from the list  (If you can\'t press add button for some reason, workaround is to press and hold any space on the home screen and a menu pops up)  On most of devices with Android 4.0 widget can be found under "Widgets" tab in app drawer* Can\'t find simple calendar in list of Widgets  Try to restart home launcher application (or device)* Re-size widget  Android 3.0+ supports by default. For older Android versions this can be dome by installing alternative home launcher application* Options missing since Simple Calendar Widget 2.3 update (Alternative layouts, Line color, Scrollable hack)  The options can be found in menu under Skin -> Simi Skin -> Alternative layouts/Options* Show weather forecast on the widget  Just set it up in settings of desktop version of Google calendar.  For steps just search for "Weather forecasts in your calendar" in Google.* Include more interesting calendars like holidays, birthday dates or sport news.  Search for "Add interesting calendars from Google Calendar" and follow the instructionsPermissions:READ CALENDAR - access to the calendar informationWRITE_EXTERNAL_STORAGE - Backup to sd-card, BILLING - Used by Donate button in order to communicate with Android MarketRecent changes:2.4.4* Fixed crash when opening settings on pre-honeycomb devices2.4.3* Fixed crash when gtasks is not available* Removed in-app donation2.4.2* SimpleCalendarWidget is now owned by MyColorScreen.com* Fix donation bug* Add icons and information* Other minor bugfixes'
+p4
+tp5
+tp6
+.

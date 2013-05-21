@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"My Baby's Graffiti\xc3\xaf\xc2\xbc\xcb\x86KIDS\xc3\xaf\xc2\xbc\xe2\x80\xb0 "
+p1
+tp2
+(S'Description:'
+p3
+S'2-4 years old babies are in the age of starting to do some graffiti works, which is the initial stage of paining. If you find that your baby starts scrawling, and make his/her clothes, furniture or walls dirty, please don\'t be so mad at him/her, because graffiti often accompany with his/her rich imagination. For example: the casual drawing lines may be refer to things he/she sees just like a car moving on a road or something... My Baby\'s Graffiti is a baby\'s painting app which can make your baby\'s painting more vivid. It can let your baby know his/her painting is so useful as to meet the psychological needs and cultivate his/her interest in painting.\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Products of Baby Bus\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85___________\xe2\x96\xb6design concepts\xef\xbc\x9aWe focus on inspiration, not just learning.We focus on capacity-building, rather than a single cognition.We focus on entertaining, rather than spoon-feeding teaching.Take the baby bus, which is loaded with a happy childhood!___________\xe2\x96\xb6The series introduction\xef\xbc\x9aBaby Bus is the first brand in early childhood educational software (field of mobile Internet), which is developed specifically for preschoolers, and includes two series which are the Age(1-3) and the Age(3-6). The series of the Age(1-3) combines the main concepts of early childhood education for 1-3 year-old babies and covers the cognitive development, games, songs and other relevant categories. The applications of Age(1-3) are designed to train the baby\xe2\x80\x99s cognition ability and hand-eye coordination skills.Tips: In the search bar, enter "Baby Bus" or " sinyee", to find all of our products. ___________\xe2\x96\xb6Welcome to contact us on\xef\xbc\x9aE-mail: ser@baby-bus.comwebsite: http://www.baby-bus.com'
+p4
+tp5
+tp6
+.

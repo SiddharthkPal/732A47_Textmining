@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CEME Physical Examination '
+p1
+tp2
+(S'Description:'
+p3
+S'Clinical Examination Made Easy - Cardiology, is an app designed for medical students and healthcare professionals. The app is mainly aimed at examination technique and the must have clinical knowledge related to cardiovascular system examination.**FEATURES*------------*Examination Techniques*15 Clinical cases*Heart Sounds - Murmurs of common clinical conditionsThe ad free version will be available soon.The content will be constantly updated.Recent changes:New Version* Fixed rotation bug*Added Holo theme'
+p4
+tp5
+tp6
+.

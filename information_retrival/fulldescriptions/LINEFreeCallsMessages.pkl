@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LINE: Free Calls & Messages '
+p1
+tp2
+(S'Description:'
+p3
+S'There are no limits! Call and message as much as you want!LINE is a new communication app which allows you to make FREE voice calls and send FREE messages whenever and wherever you are, 24 hours a day!LINE has more than 150 million users worldwide and is used in over 230 countries!LINE has been ranked no. 1 in the free app category in 44 countries including Japan, Taiwan, Thailand, Spain, China, Hong Kong, Singapore, Malaysia, Macau, Switzerland, Russia, Saudi Arabia, United Arab Emirates and more!More about LINE\xe2\x80\x99s Features:\xe2\x98\x85Free Voice Calls!All LINE smartphone users can enjoy free high quality voice calls, whenever and wherever you are.Talk for as much as you want and best of all, it\xe2\x80\x99s free!\xe2\x98\x85Messages Delivered to you Quick!Instead of taking time to email/sms your friends, use LINE\xe2\x80\x99s message function to send messages easily with colorful icons, photos and even location information.\xe3\x83\xbbExpress yourself using stickers and emoji.\xe3\x83\xbbSend photos and voice messages with ease\xe3\x83\xbbAvailable for PCs and smart-tablets\xe2\x98\x85Make it YOUR Social Network\xe3\x83\xbbHave fun with LINE\xe2\x80\x99s \xe2\x80\x98Home\xe2\x80\x99 feature: Share your moments with all your friends using photos, videos, and location info.\xe3\x83\xbbUse \xe2\x80\x98Timeline\xe2\x80\x99 to see what your friends have been up to and what they have posted! Leave comments, messages and enjoy your communication.Other LINE Features:\xe2\x98\x85New Sticker Shop! Find all your favorite characters here!Hilarious and fun stickers featuring famous characters from all over the world can be found here!\xe2\x98\x85Get the latest info with LINE Official AccountsAdd these accounts as friends and receive messages from popular celebs and singers, as well as money saving coupons from various businesses.*As with any other apps, data transfer fees may be incurred. We therefore recommend using the services on an unlimited mobile price plan.Technical Info for Seamless Usage:\xe2\x98\x85Android Devices: We recommend installing Android OS 2.1 or higherThanks for reading and we hope you enjoy LINE!Recent changes:- Now available in French and Portuguese (Brazil)- Other minor bug fixes'
+p4
+tp5
+tp6
+.

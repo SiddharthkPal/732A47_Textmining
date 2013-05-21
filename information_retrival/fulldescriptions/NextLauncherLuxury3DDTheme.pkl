@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Next Launcher Luxury 3DD Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'HD theme for NEXT LAUNCHER 3D! Without it, the theme will not work!Dark version of Luxury 3D (Color version looks much nicer! See my applications or http://goo.gl/InPZB)Gold version there: http://goo.gl/eu1cqFeatures:\xe2\x80\xa2 support for 4.1 + (require Next Launcher 1.25 +)\xe2\x80\xa2 beautiful icons in a underglass style.\xe2\x80\xa2 replace everything application icons (looks smooth)\xe2\x80\xa2 100 HD icons to replace the manually on your desktop- and sorry for the video. Filmed on my old Samsung Galaxy SL.Now you can make a donation to say thanks for this theme! Buy this: http://goo.gl/wA7cy\t\t\t\xe2\x80\xa2\xe2\x80\xa2\xe2\x80\xa2 If you have any problems with the theme, please email me! \xe2\x80\xa2\xe2\x80\xa2\xe2\x80\xa2\xe2\x80\xa2 How to apply the theme:1. Make sure the LAST (1.25 or above) Next Launcher 3D has been installed! (Search \xe2\x80\x9cNext Launcher 3D\xe2\x80\x9d to download)2. Apply the Theme: MENU\xe2\x80\xa2Personality\xe2\x80\xa2Themes\xe2\x80\xa2Installed -- Choose "Luxury 3D Dark" and Apply it.\xe2\x80\xa2 I hope you\'ll enjoy it. Comments, +1 and stars are welcome))\xe2\x80\xa2 Do not forget to visit my homepage! or Twitter @DmkDroidDesignTags and Keywords: next launcher theme, com.gtp.nextlauncher.theme, Next launcher 3d theme, next theme, dmk next theme, Luxury 3D next theme, Luxury 3D, Luxury next, dmk design, dmk android, dmk android designRecent changes:\xe2\x80\xa2 support for 4.1 + (require Next Launcher 1.25 or above)\xe2\x80\xa2 added 20 icons\xe2\x80\xa2 redesigned Next Indicator and his popup\xe2\x80\xa2 added new Next shortcuts'
+p4
+tp5
+tp6
+.

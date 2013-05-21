@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lawak Ustaz Azhar '
+p1
+tp2
+(S'Description:'
+p3
+S"Ustaz Azhar Idrus' sayings. It's fun!Recent changes:Moved main scripts to local storage instead on internet server..."
+p4
+tp5
+tp6
+.

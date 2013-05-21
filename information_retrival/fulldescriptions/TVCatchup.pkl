@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TVCatchup '
+p1
+tp2
+(S'Description:'
+p3
+S"TVCatchup enables you to watch FREE live UK TV on the move. Join over 7.3 Million users who enjoy:\xe2\x9c\x94 Over 50 Channels - Including BBC One, ITV, Channel 4, Five, Dave, CBeebies, 4Music, movies4men and Film4.\xe2\x9c\x94 First class support, just email support@tvcatchup.com\xe2\x9c\x94 Optimised Adaptive Streaming compatible with cellular networks and wifi\xe2\x9c\x94 Free of Charge\xe2\x9c\x94 What's on Now and Next  \xe2\x9c\x94 High quality streams \xe2\x9c\x94 TV Out support (May Require Cable Adapter)\xe2\x9c\x94 Share your thoughts with Twitter and Email\xe2\x98\x86Look out for even more great new features coming soon All channels are available to people within the UK with a TV Licence. Watch live UK TV on demand, with the convenience of an app. Select from a wide selection of freeview channels including, news, sports, movies, music, shopping, and children's TV. Use this app to watch TV on the move, on the bus, in a car, in the office, in your house, in your bed, in the kitchen or anywhere else or just use it to watch TV when somebody else is hogging the main screen. All logos, trademarks and registered trademarks are the property of their respective owners.App Design & Production by GZero\xe2\x84\xa2Recent changes:2.2.8-----Updated Theme for faster start time.Fixed no network bug.Fixed U.K. location error bug.Fixed Gingerbread Play Start Issue.2.2.5-----Fixed for Jelly BeanFixed registration error"
+p4
+tp5
+tp6
+.

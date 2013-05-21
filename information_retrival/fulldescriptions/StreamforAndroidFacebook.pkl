@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Stream for Android (Facebook) '
+p1
+tp2
+(S'Description:'
+p3
+S'Stream for Android it\xc2\xb4s a new Facebook client for Android with advanced features.For instance it allows you to:- Open at vey high speed the home pages- visualize any item of Facebook (comments, albums, pictures, events,...)- visualize and insert your \xe2\x80\x9elikes\xe2\x80\x9c about practicaly anything (pictures, posts, comments, notes,...)  - visualize and insert a tag in face detection pictures (very easy and precise feature)- create user and page events- answer to events invitations- visualize who\xc2\xb4s taking part in an event and who\xc2\xb4s not- notifications- management of your own pages- support the Black theme (with a huge energy save for the Galaxy serie) as well as the White one- app2sd (please note: once you activate it, the automatical start at the boot of the operating system won\xc2\xb4t work)- make an advance search of users, posts, events, pages or groups- delete any post from your wall (please note: due to the limitations imposed by Facebook, that is possible only if the post was formerly created by the same app)- visualize and create new checkins- visualize and send private messagesThe program is free of any charge and supported also by Ads.The Pro version has:- ad-free- chatIf you would like to have this program translated in your language, please contact me per e-mail (writing either in English or Italian) and help me translate itSpecial thanks to the all the translators:- en,de,es: HerCapo- en: Hakarune- pt-br: Marcio de Andrade, Twitter: @marciozomb13- hu: Peter G.- da: Ole I Christensen- es: Wackorp (wackorp@hotmail.com)- zh-TW: Orson Wang (orsonwang@gmail.com)Recent changes:v.1.9.8.5:- fix: bugfix- upd: librariesv.1.9.8.4:- fix: play videos tagged/uploaded- fix: upload picture notification- fix: immediate insert picture to gallery after download- fix: private groups notifications- upd: libraries- add: download and save videos tagged/uploaded'
+p4
+tp5
+tp6
+.

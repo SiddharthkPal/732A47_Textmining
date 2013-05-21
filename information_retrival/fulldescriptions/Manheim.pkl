@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Manheim '
+p1
+tp2
+(S'Description:'
+p3
+S'The Manheim app gives you the power of Manheim in the palm of your hand. Use the Manheim app to connect to Manheim\xe2\x80\x99s mobile universe. Current features allow customers to instantly scan a VIN barcode and pull results as well as search for vehicles and place bids or buy OVE vehicles and proxy bid on Simulcast vehicles. Also, customers have the ability to manage their Workbook as well as their OVE Buying Activity.    Note: This app is only for Manheim customers with an existing username and password. You must be a licensed automobile dealer with a valid AuctionACCESSS membership to register. To become a Manheim customer or for further assistance please call Manheim Customer Care at 1-866-MANHEIM. Current features include:-\tVehicle Search  -\tBid and Buy OVE vehicles-\tProxy bid on Simulcast vehicles-\tManage OVE Buying Activity-\tManage Manheim Workbook-\tManage your Saved Searches-\tSearch vehicles by location-\tLocation Information-\tMy MMR-\tInstantly scan VIN barcode to pull results.    - At a Manheim auction \xe2\x80\x93 Scan the VIN barcode that is located on the work order sticker.  This sticker is usually located on the top right-hand corner of the windshield or on the driver side window   - Not at a Manheim auction \xe2\x80\x93 Scan the VIN barcode from the manufacturer label on driver side door panel.  Please note that some GM vehicles do not provide a manufacturer label on the driver side door panel.Recent changes:- Bug Fixes'
+p4
+tp5
+tp6
+.

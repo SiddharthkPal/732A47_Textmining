@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'itunes to android sync - FREE '
+p1
+tp2
+(S'Description:'
+p3
+S'iTunes for Android Wireless Sync App :- Sync itunes songs, videos and podcasts, playlists to android Wirelessly. Best itunes downloader app to download itunes media from computer to android.Fully WiFi, cable free. Download PRO version for unlimited transfers. Using this iTunes to Android Syncing application, you can:  Sync iTunes songs, playlists to Android device,  Sync iTunes movies, Videos to Android,  Sync iTunes podcasts to Android deviceSystem requirements:  A Windows Computer with iTunes. (Mac version is not supported yet)  An Android DeviceSetup & Usage instructions available here : http://www.maximand.com/setupIf any issues email to : maximandapps@gmail.com** FREE / LITE VERSION: **Lite version has transfer limit of 12 songs per playlist.Get Full version for unlimited transfers : https://play.google.com/store/apps/details?id=com.itunesforandroid (http://www.bit.ly/YOvHrZ)Keywords:itunes converter, itunes for android, itunes app, itunes sync, itunes app for android, itunes music download, itunes podcast, wirelessly sync android to itunes, itunes for android, Music, mp3, playlists, podcast, Sync, sync itunes with android, itunes and android, sync itunes with android, android and itunes, itunes to android sync, itunes for android app, sync itunes to android, transfer itunes to android,itunes app for android, itunes android, itunes for android, itunes on android,itunes wifi sync, itunes wireless sync, itunes music downloader, iPoditunes, iPod are trademarks of apple inc. Android is a trademark of Google inc.Recent changes:version 2.0: connection improvements, adtimer set as 5 sec.version 1.0: Wireless sync iTunes to Android device.'
+p4
+tp5
+tp6
+.

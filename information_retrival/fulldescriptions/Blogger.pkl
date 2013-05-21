@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Blogger '
+p1
+tp2
+(S'Description:'
+p3
+S'Download the latest release of the official Blogger app, and start blogging on the go. With Blogger for Android you can:* Compose a post that you can save to draft or immediately publish* View list of your saved and published posts * Switch account/blog if you have more than one * Embed an image from the gallery, or, by taking a picture directly from the app* Add labels to your posts* Add location informationWith the Blogger app for Android, you can quickly and easily publish posts to your blog wherever you are.Recent changes:* Improved user experience* Additional language support* Ability to view a scheduled post time* Auto Sign in when you view a blog on web* Bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'eBay Annunci '
+p1
+tp2
+(S'Description:'
+p3
+S'No matter where you are, find ads in your neighborhood with the eBay Annunci app. Use the eBay Annunci app to find a used car, a flat, a new job, and anything else you need. Search more than 3 million ads in over 60 categories - for free! Do you have a couch to sell or a flat to let? Creating an ad is completely free also! The eBay Annunci app is simple and easy to use.\xe2\x80\xac\xe2\x80\xac\xe2\x80\xac\xe2\x80\xacStart buying and selling locally with the eBay Annunci app - anywhere, anytime!\xe2\x80\xac\xe2\x80\xacFEATURES:\xe2\x80\xac- Browse and search any category by keyword, price or any attribute\xe2\x80\xac- View, reply to, or forward ads\xe2\x80\xac- Sort by "price" or "date" in search refine- View all ad images on a single page\xe2\x80\xac- Follow ads with our handy Watch List\xe2\x80\xac- Super-easy ad posting with up to eight images from your camera or photo library\xe2\x80\xac- Manage your ads: post, edit and delete for free from your My Annunci accountRecent changes:- New eBay logo- Bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Eagles Official Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"This is the official mobile app of the Philadelphia Eagles for the 2013 season. Make your Android device a unique part of your game-day experience for Eagles games. Want to catch breaking news of the team? Keep up to date on OTA activity? See real-time statistics for every drive? Watch video-on-demand clips of press conferences and player interviews? Follow post-game blogs and pre-game previews of the matchups?Now, you can stay in touch with the Eagles anytime, anywhere, on your Android device.\xe2\x80\xa8\xe2\x80\xa8FEATURES:- News: Real-time breaking news from the Eagles, previews of upcoming matchups, post-game blogs- Video: Video-on-demand clips of Eagles' press conferences, coach and player interviews- Photos: Gallery of game-time action- Audio: Podcasts - Stats: Real-time statistics and scores from the official NFL stats engine, head-to-head stats of the matchup, player stats, drive-by-drive stats, box score, out-of-town scores around the league- Standings: Division and conference standings- Fantasy: Keep track of your favorite fantasy players- Depth chart: Shown by offense, defense and special teams- Social media: Check in to the stadium on game-day, one-click tweet of all media items, one-click facebook posting of all media items- Schedule: Schedule of upcoming games, and scores/stats of previous games from the season, ticket purchase for games- Concessions: Interactive map of the stadium with searchable concessions-stands and amenities- Evolving home-screen: Pre-game, in-game, post-game, off-season countdown, draft-dayFollow us @yinzcam on Twitter for updates or to ask questions and provide feedback.The Eagles Official Mobile app is created and maintained by YinzCam, Inc., on behalf of the Philadelphia Eagles.Recent changes:v.1.4.2- Eagles Cheerleader Calendar In-App Purchase - The Philadelphia Eagles Cheerleaders have become known for creating the most innovative calendars in the NFL. Now available on mobile, view this elite squad's annual calendar, including, photos, videos and more.v.1.4.3- 2013 NFL Draft update- Upgrade to Google GCM Notification system (improved performance/reliability)- bug fixes"
+p4
+tp5
+tp6
+.

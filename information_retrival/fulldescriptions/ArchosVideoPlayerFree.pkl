@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Archos Video Player Free '
+p1
+tp2
+(S'Description:'
+p3
+S'There is also an ad-free version of this application: http://play.google.com/store/apps/details?id=com.archos.mediacenter.videoARCHOS makes Video Player app available for all Android tablets and phones (requires Android 4.0 or later)!The critically acclaimed Archos video player app offers an uncompromised multimedia experience.- Hardware accelerated video decoding support for most devices and video formats;- Ability to play content from any computer/network storage in your local network (SMB and UPnP) or from an external USB storage device;- Automatic online retrieval of Movie and TV show information with poster and backdrop for both local and network content;- Integrated subtitle downloader;- Network indexing: import remote shared folders (SMB) in your multimedia library;- Video browsing with either folder or library based navigation;- Ubiquitous access to TV shows sorted in a series/season/episode hierarchical view;- Multi-device network video resume;- TV friendly: Keyboard/remote control compatible.* Note that if you experience any issue with video hardware decoding you can force software decoding in Archos Video Player application settings to watch your video.TAGS: Video Player, Video Browser, Video Library, UPnP, SMB, NAS, Hardware accelerated video decoding, Movie Library, Media Library, Indexing, TV Show, Season, Episode, Subtitles, MKV, MP4, AVI, SRTRecent changes:7.4.7 - March 26th, 2013- REALLY fix the crash occuring for some user when opening "Movies by genre" (was expected to be fixed in previous version...)7.4.5 - March 25th, 2013- New "Audio Boost" video player option (deactivated by default, check the player menu) that allows to perform audio compression with three levels (low/medium/high)- Fix a regression that prevented the "All movies" widget (was replaced by "All videos")'
+p4
+tp5
+tp6
+.

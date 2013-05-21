@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Next Task manager widget '
+p1
+tp2
+(S'Description:'
+p3
+S"Next Task manager Widget is a kind of distinctive plug-ins that is based on Next Launcher. It's the first real 3D widget for Next Launcher. To make sure the widget can work properly and to get the best performance, please make sure the Next Launcher is purchased. We DO NOT have free copies officially.Available Size:-4x1Actions:- One-click to kill general process, resident process- Show the apps which is running- Refresh the running apps listHint:- Please install the latest version of Next Launcher before use Next Task manager Widget.If you encounter any problems or have any suggestions for our Next Launcher, please do not hesitate to tell us. Thank you very much!E-mail: golauncher@goforandroid.comFacebook: www.facebook.com/NextLauncherGoogle+: https://plus.google.com/u/1/104540424317126374535/postsRecent changes:V1.01(Fix) Some FC bugs"
+p4
+tp5
+tp6
+.

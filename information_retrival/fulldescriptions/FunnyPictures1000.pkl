@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Funny Pictures 1000+ '
+p1
+tp2
+(S'Description:'
+p3
+S'Funny Pictures is a picture collection of funny signs, funny animals, funny people(More and more is adding) that ease your life, and reduce your stress, you can share with friends and family or share via facebook, google+, twitter and other social network tools/apps.Add animated gif picture support. now Funny Animation is available without install third party app.Pictures start to have descriptions.Better quality pictures!Ability to comment on the pictures.To see how many people like the pictures.New layout new UI.Options to setting receive notification or not.Options to set if update in background.Option to save picture to sdcard.Recent changes:fix some bugs.'
+p4
+tp5
+tp6
+.

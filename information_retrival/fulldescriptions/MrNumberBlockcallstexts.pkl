@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mr. Number-Block calls, texts '
+p1
+tp2
+(S'Description:'
+p3
+S'Mr. Number makes it easy to block calls and texts, reverse lookup phone numbers and get more info about US businesses that call your mobile phone.Features:- Block calls and texts from one person, an area code or the entire world- Reverse lookup mobile and landline numbers - Business Caller ID provides details and deals - Stop telemarketers and debt collectors before they waste your time- Automatically intercept calls and texts from private/unknown numbers- Report spam calls, SMS, and MMS to warn other users*** PCMag 100 Best Android Apps of 2012 ****** New York Times: \xe2\x80\x9cMr. Number is one of the most popular\xe2\x80\x9d ****** 2012 Appy Award for Best Communications App ***Block calls and texts from one number or the worldMr. Number is the most powerful call blocker and text blocker on the market. Block texts and calls from a person, a business, a prefix, or the world. Pick up and hang up on some callers and send others to voicemail - you decide. Keep the content of blocked texts or trash them. Browse comments from other users when you get a spam call or text. Add \xe2\x80\x98Suspected Spam\xe2\x80\x99 to your blocklist and Mr. Number blocks them all automatically.Reverse Lookup gives you more info about who\xe2\x80\x99s callingWe\xe2\x80\x99ve brought back Reverse Lookup so you can get more information about mobile numbers and landlines in the US. Reverse Lookup numbers that have called or texted you, or enter a number to see if we have a name to go with it. The first 20 Lookups are free; additional Lookups can be purchased through the app (20 for 99 cents).Business Caller ID provides details and dealsWhen you get a call from a business line, Mr. Number does a free Caller ID lookup to find a name. If we know who called, we\xe2\x80\x99ll display information about the business, including any offers they may have, their location and a link to their website. (You can also block the business from calling you with one tap.)Any questions? Read our FAQ (http://support.mrnumber.com/home) or send a note to support@mrnumber.com, and we\xe2\x80\x99ll get back to you quickly.Follow us on Twitter: @mrnumberRecent changes:Lots of bug fixes and improvements.'
+p4
+tp5
+tp6
+.

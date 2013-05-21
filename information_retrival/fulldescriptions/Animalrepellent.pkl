@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Animal repellent '
+p1
+tp2
+(S'Description:'
+p3
+S'Best mosquito repellent application as well as dog repellent, insects repellent, rats repellent, flies repellent and cockroaches repellent, all in one application.It works by transmitting ultrasound and high frequencies, not noticed by the human ear.You have several ultrasonic repellents running at once. You can set recorded sounds as favorites and even record a specific ultra-sound by mixing different animal repellents.It has a timer in which you can specify the time that the application should be running.It is definitely the best app to keep away all types of insects and animals in general.It is advisable to increase the volume of the phone as high as possible and choose the best frequency for each type of repellent animal and region.Not guaranteed to work 100% with all kinds of animals, depending on the type of animal and conditions.Anti mosquitos, anti dogs, anti rats, anti flies, anti insects, anti cockroaches and other bugs and vermin.Electronic repellent is a new type of high-tech electronic products. It uses high-frequency ultrasonic sweep circuit. Scientific research found that the mosquito, cockroach, rats and other pests in the scope of sound waves of this frequency. The effects of ultrasound on human and other animals are harmless, because people can not hear the sound waves more than 20KHZ.The solution for mosquito a insects bites. A good insect control, cockroaches control, and rats control.Powered by the tiger mosquito. Say goodbye to mosquito bites.'
+p4
+tp5
+tp6
+.

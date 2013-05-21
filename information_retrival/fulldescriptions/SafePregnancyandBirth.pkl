@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Safe Pregnancy and Birth '
+p1
+tp2
+(S'Description:'
+p3
+S'From the publishers of Where There Is No Doctor, the Safe Pregnancy and Birth App is the only comprehensive app on pregnancy and birth developed specifically for low-resource settings. Life-saving information is presented in clear, accessible language rich with illustrations, and an intuitive and friendly navigation\xe2\x80\x94perfect for working with community health workers or midwives with varied literacy levels.The app is ideal for those traveling to developing countries to work alongside community health workers or midwives. Once downloaded, this vital material can be accessed in the most remote communities, with no internet connection required.  Safe Pregnancy and Birth contains a wealth of information on:* how to stay healthy during pregnancy* how to recognize danger signs during pregnancy, birth, and after birth * what to do when a danger sign arises* when to refer a woman to emergency careOver 20 \xe2\x80\x9cHow to\xe2\x80\xa6\xe2\x80\x9d instructions for community health worker skills provide step-by-step explanations such as \xe2\x80\x9cHow to take blood pressure,\xe2\x80\x9d \xe2\x80\x9cHow to treat someone in shock,\xe2\x80\x9d  \xe2\x80\x9cHow to stop bleeding,\xe2\x80\x9d etc. In the trademark Hesperian Health Guides\xe2\x80\x99 style, the app demystifies health information, and is presented in a warm, conversational tone. As this is a beta release, we are aware that it still needs a little work in places. We welcome feedback and code contributions to help improve the experience.'
+p4
+tp5
+tp6
+.

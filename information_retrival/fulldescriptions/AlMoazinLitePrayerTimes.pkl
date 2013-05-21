@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Al-Moazin Lite (Prayer Times) '
+p1
+tp2
+(S'Description:'
+p3
+S"Al-Moazin prayer times application, is a must have companion for all Muslims. With Al-Moazin, you will not miss Salat again even if you traveled to a totally new country.GPS integration feature will help you get accurate prayer times wherever you are on earth!You don't need to ask anyone for Qibla direction anymore. with digital compass integration feature, Al-Moazin will show you the exact direction accurately.Application is equipped with a Hijri Calendar to be able to display and check dates in Hijri or  convert Hijri to Gregorian dates and vise versa.Follow Me feature will initiate an automatic location update when you travel or change location.Multiple set of notifications related to Prayer times to plan whatever actions you need related to Prayer times before or after.Features list:* Islamic prayer times with different calculation methods:    - Umm al-Qura, Makkah    - Egyptian General Survey Authority    - University of Islamic Sciences, Karachi    - Islamic Society of North America    - Muslim World League* Hijri calendar, and ability to correct it manually according to Hilal sighting.* Qiblah direction based on phone's compass capabilities* Follow me, update prayer time automatically while traveling using wireless mobile capabilities.* Fajr wakup notification, additional to the default notifications set before and after Prayers.* Follow phone ringer mode which make Azan notifications are played as audio, visual or vibration* Visual warning for the time left before the next Prayer comes in, using simple widget.Recent changes:** Enable more features for lite version:-  Qibla Direction integration with device's compass.-  Automatic location detection after install."
+p4
+tp5
+tp6
+.

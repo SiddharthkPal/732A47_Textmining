@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Adobe AIR '
+p1
+tp2
+(S'Description:'
+p3
+S'Enjoy your favorite web applications with Adobe AIR.Adobe AIR enables you to have your favorite web apps with you all the time. AIR apps run on your device without a browser, providing the convenience of a native app. You can learn more about AIR at\xc2\xa0http://www.adobe.com/products/air.html. See what the most popular AIR apps are right now at\xc2\xa0http://gaming.adobe.com/showcase/.Download size of AIR is compressed to 9.20MB. When installed, the binary is uncompressed to 25.98MB on the device. You also have the option to move Adobe AIR to the SD Card. The amount of data that can be moved is dependent on your OS version.By clicking "Install", you agree to the Software License Agreement found at http://adobe.com/go/eum.Recent changes:What\'s new in version 3.7.0.166:GameInput API, Bug fixes, Security enhancements. The complete set of release notes can be found at http://helpx.adobe.com/flash-player/release-note/fp_117_air_37_release_notes.html'
+p4
+tp5
+tp6
+.

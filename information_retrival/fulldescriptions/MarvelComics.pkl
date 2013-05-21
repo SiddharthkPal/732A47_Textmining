@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Marvel Comics '
+p1
+tp2
+(S'Description:'
+p3
+S"Introducing the MARVEL COMICS app on Android, featuring the world\xe2\x80\x99s most popular super heroes! Download hundreds of comic books featuring your favorite characters -\xe2\x80\x94 including Iron Man, Thor, Captain America, Spider-Man, Wolverine and more -- on your mobile device or tablet with the touch of a button. You\xe2\x80\x99ll experience Marvel\xe2\x80\x99s greatest series and stories like never before, with your choice of guided view (an animated, panel-by-panel path through the comic), or by using regular device controls to zoom and pan your way through pages of sizzling story and amazing artwork!Each of your downloads will be protected and backed up when you use your Marvel.Com account, meaning the next time you lose or upgrade your device you\xe2\x80\x99ll find your comics waiting to be read again!Not convinced? Check out our free downloads! Take the Marvel Universe with you anytime & anywhere!+ Access to over 3500 comics featuring the world's most popular super heroes!+ Free comics for download, updated weekly!+ Customizable reading experience -- choose between panel to panel, full page display, and more!Recent changes:New for 3.2.8.24200:* Significant bug fixes and app stability improvementsNew for 3.2.5:* CONTINUE! Automatically save your place\xe2\x80\xa6 so you can pick up reading where you left off on your devices.* Enhanced \xe2\x80\x9cDownloads\xe2\x80\x9d view: sort by Series, Creator and Genre.* Manage comics on your device from \xe2\x80\x9cDownloads\xe2\x80\x9d.* Several significant bug fixes and Network Optimizations."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Trova Farmacie '
+p1
+tp2
+(S'Description:'
+p3
+S"Hai bisogno di una farmacia aperta?TROVA FARMACIE usa la geolocalizzazione per trovare in pochi secondi la farmacia di turno pi\xc3\xb9 vicina al punto in cui ti trovi.Scarica la nuova versione dell'app che ti consente, con un solo gesto, di chiamare direttamente la farmacia che desideri e avviare il navigatore di Google Maps per raggiungerla nel pi\xc3\xb9 breve tempo possibile.Con l'opzione StreetView, puoi visualizzare le immagini ed effettuare un tour virtuale nel luogo dove \xc3\xa8 presente la farmacia.L'applicazione, per funzionare correttamente, necessita di una connessione internet attiva e, per determinare la posizione attuale necessita dell'utilizzo del GPS.Per abilitare la geolocalizzazione:impostazione -> posizione e protezione -> usa reti wirelessimpostazione -> posizione e protezione -> utilizza satelliti GPSRecent changes:Bug Fixed della versione 2.0Nuova graficaPossibilit\xc3\xa0 di avviare il Google NavigatorPossibilit\xc3\xa0 di avviare Google StreetViewPossibilit\xc3\xa0 di chiamare direttamente la farmacia desiderataimpostazione -> posizione e protezione -> usa reti wirelessimpostazione -> posizione e protezione -> utilizza satelliti GPS"
+p4
+tp5
+tp6
+.

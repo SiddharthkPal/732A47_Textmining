@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Economist '
+p1
+tp2
+(S'Description:'
+p3
+S"The best way to read The Economist on your Android device.The app is free to download and includes free access to the Editor's picks \xe2\x80\x93 a weekly selection of articles from each week\xe2\x80\x99s edition of The Economist.Digital and print subscribers to The Economist receive unrestricted access to each week\xe2\x80\x99s full print edition.FEATURES\xe2\x80\xa2 Each week\xe2\x80\x99s issue available from 9pm London time each Thursday\xe2\x80\xa2 Download each issue to your device to read without an internet connection\xe2\x80\xa2 Switch easily between reading and listening with The Economist in audio\xe2\x80\xa2 Store and access back issues\xe2\x80\xa2 Purchase single issues in app\xe2\x80\xa2 Subscribe from within the app for full access to The Economist on Android tablets, Android smartphones, iPhone, iPad, Windows 8, BlackBerry PlayBook, BlackBerry 10 and Economist.com\xe2\x80\xa2 Share articles via e-mail, Twitter and FacebookThe Economist on Android operates on tablets and smartphones running Gingerbread, Ice Cream Sandwich and Jelly Bean.ABOUT THE ECONOMISTThe Economist is a weekly international news and business publication, offering clear reporting, commentary and analysis on world current affairs, business, finance, science and technology, culture, society, media and the arts.SUPPORTShould you require any assistance using our app please visit http://www.economist.com/help/android for answers to frequently asked questions as well as ways to contact customer support.Recent changes:Dear reader,  This update of the Economist app  - adds support for Android Jelly Bean (4.1/4.2) tablets including Google Nexus 7 and 10.- includes various usability bug fixes We are aware of performance issues whilst navigating through the app and are already working to address with an update. If you require support please refer to the help section in the app. - The Economist Digital Team"
+p4
+tp5
+tp6
+.

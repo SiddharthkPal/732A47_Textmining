@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'kicker online '
+p1
+tp2
+(S'Description:'
+p3
+S'Mit vielen neuen Features in die Jubil\xc3\xa4ums-Saison. Wir haben unsere Android-App runderneuert und bieten viele neue Features an: Intuitive Navigation, \xc3\xbcbersichtlicher, neugestalteter Live-Ticker mit Konferenz, Amateur-Ergebnisse bis zur 10. Liga. Neu ist die Alert-Funktion im Live-Ticker. Au\xc3\x9ferdem bilden wir alle Kader der Bundesligisten mit detaillierten Spielerprofilen ab. Die App k\xc3\xb6nnen Sie individuell f\xc3\xbcr Ihre Liga, Ihre Teams oder Ihre Spieler konfigurieren. Umfangreiche Livescores, Berichte und Statistiken zu Eishockey, Basketball, Handball, Tennis und Formel 1 runden die neue App ab.Recent changes:- Neuer Hauptnavigationspunkt oben links, auch per Swipe erreichbar- Neuer Navigationspunkt \xe2\x80\x9eLigen\xe2\x80\x9c- Das Einblenden des Men\xc3\xbcs ist durch Antippen eines Artikels m\xc3\xb6glich- \xc3\x9cbersichtlichere Live-Konferenz und bessere Ticker-Performance- Vereinfachtes Buchen von Alerts- Trainer-Historie der Bundesliga-Klubs- Elf des Tages- Formel-1-Liveticker- Berechtigungen reduziert'
+p4
+tp5
+tp6
+.

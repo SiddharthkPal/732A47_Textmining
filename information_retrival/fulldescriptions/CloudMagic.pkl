@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CloudMagic '
+p1
+tp2
+(S'Description:'
+p3
+S'Magically find anything when you need it the most. Lightning fast search across Gmail, Hotmail, Twitter, Dropbox, Evernote, SkyDrive and much more. CloudMagic is free to download. Start using with a free plan that comes with 50 previews a month. Upgrade to CloudMagic Pro ($4.99/month) for unlimited previews.Reviews:\xe2\x80\x9cReally, really, really, fast\xe2\x80\x9d - TechCrunch\xe2\x80\x9cSuper fast search on super strong steroids\xe2\x80\x9d - Gizmodo"Supersearch service" - Android PoliceQuickly find things when you need it the most:- that important email when a customer calls- that spreadsheet on the way to your meeting- that airline ticket at the airport check-in desk- that restaurant your friend shared on your Facebook wallOne search box across all your data- Search across Gmail, Hotmail, Twitter, Dropbox, Evernote, SkyDrive and much more - https://cloudmagic.com/k/faq#serviceMultiple accounts- Add any number of accounts and search through all of them in one go. Got more than one email account? Add both and search through them together.One view of all your data- Get a quick snapshot of all recent updates across all your data.Rich previews and actions- Allows you to quickly preview content and take common actions like open attachments, reply, forward, retweet, etc. Partial word search- You can find what you are looking for in just a few keystrokes, or just using your voice.Multiple devices- Works across desktops, smartphones and tablets.Recent changes:Version 3.6- Support for pinch and zoom (for 3.0+)- Minor bug fixesVersion 3.5.9 CloudMagic for Android tablets is here. The all new tablet-friendly user interface takes advantage of the larger screens on tablets. It gives you best experience on both portrait and landscape mode with optimized views for each.'
+p4
+tp5
+tp6
+.

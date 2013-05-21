@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'7-Eleven, Inc. '
+p1
+tp2
+(S'Description:'
+p3
+S"Throughout your day, the 7-Eleven app keeps up with you, customizing and personalizing your experience from the minute you open it. Swipe around to navigate through all of the greatness 7-Eleven has to offer. Not only can you see 7-Eleven store locations near you, but you can star your favorites, filter locations by services like hot food, gas, propane and more. There\xe2\x80\x99s always something happening at your neighborhood 7-Eleven, like , Special Edition Slurpee Flavors\xe2\x84\xa2, and more. Find out what\xe2\x80\x99s going on now in the Events section. Whether it\xe2\x80\x99s sweltering at midnight, raining at six a.m., and anything in between, sneak a peek at The Goods for some enticing selections customized just for you. Did we mention there are coupons? See what products you can save on and tap to redeem at any 7-Eleven. Share when you\xe2\x80\x99re done to brag about your savings. To get exclusive coupons for your local 7-Eleven stores and customized product recommendations download our app today, it\xe2\x80\x99s like there's a 7-Eleven in your pocket. Features: Map: Find a 7-Eleven near you or on your way. Narrow down or filter your search by products and store services. Coupons: Explore exclusive coupons right on your phone and redeem in-store. Store Events: See what\xe2\x80\x99s going on at your 7-Eleven. Products: Get delicious suggestions personalized for you.Recent changes:New in this Release:*  More bug fixes"
+p4
+tp5
+tp6
+.

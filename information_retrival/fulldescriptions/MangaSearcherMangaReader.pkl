@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Manga Searcher | Manga Reader '
+p1
+tp2
+(S'Description:'
+p3
+S'"MangaSearcher" can help you Search & Read Manga.Read Over 10000 manga on your Android phone or tablet.Support 10 manga server.Better download speed.Larger manga database.Features:- Search manga with a keyword.- Download manga to SD card.- Read manga offline.- Delete manga in SD card.- Bookmark last read page.- Fling on the pages and Pinch zoom.- Lock Image in Auto, Partrait or Landscape mode.- Volume up/down to control page next/prev."MangaSearcher" is a free Manga Reader for Android. There are so many "Manga Reader", "Manga Books", "Manga Watcher", "Manga Viewer", "Comic Reader", "Comic Books", and "Comic Viewer" in the market. Compare with them, "MangaSearcher" is still young. But we promise: We will continue develop new features for "MangaSearcher" and update it from time to time.If you like this app, you can share it in facebook, google+ or twitter.Recent changes:v4.6.0- We support iphone/ipad now.   You can find us with searching keyword "manga searcher".We support up to 10 manga server now.Faster download speed.Larger manga database.'
+p4
+tp5
+tp6
+.

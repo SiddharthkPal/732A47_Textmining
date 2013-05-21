@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LoopStack '
+p1
+tp2
+(S'Description:'
+p3
+S"LoopStack is the ultimate Android looper.Features:- 4 independent recordable tracks.- Combine tracks via drag and drop.- High quality 44KHz 16bit recording and processing.- Control volume and reverb effect per-track.- Automatic latency calibration.- Built-in metronome.- Maximum loop time: 32 seconds- Export mixdown + raw tracks to WAV (unlock key required)See video below for a demo. It's VERY important to use headphones to keep the recordings clean and stop the app from re-recording itself.The app will start in trial mode and has the following limitations:- Loop will reset after 5 minutes.- Save/Load/Export are disabled.You can purchase the LoopStack Unlock Key (sold separate) to remove the trial limitations.------------------------------------------------------------This is the first release of LoopStack so if you experience any problems with recording or playback, please write me at the developer email below and we'll work it out.------------------------------------------------------------Permissions:Storage: LoopStack stores all projects and exported files on your SDcard.Record Audio: This one should be obvious.Wake Lock: The app will prevent your device from sleeping when running to avoid audio cutting out if you're jamming along.------------------------------------------------------------Graphics by Alex Cue."
+p4
+tp5
+tp6
+.

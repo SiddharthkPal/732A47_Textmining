@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Water Your Body '
+p1
+tp2
+(S'Description:'
+p3
+S"Do you drink enough water? Do you always forget to drink water regularly? This App reminds you to drink water every day and tracks your water drinking habits. You only need to enter your current weight and DrinkingWater will help you to determine how many water your body need everyday. When you have finished drinking a cup of water, you will need to add a cup in the app. Your next cup will be remained.    Benefits of drinking water: * You stay in shape, As it\xe2\x80\x99s calorie free * You can clear up your skin* You keep your skin and nails healthy* Your fitness will increase  Features include:Reminders that will remind you the water you need to drink in the rest of the dayCustomized cup and Imperial (oz) or Metric (ml) unitsCustomized starting and ending time to drink water within a dayGraph and logs of date record Tips for healthy drinking habit Stay healthy and drink enough water! Tag: health, body, water, drinking water, fitness, happy, fun, motivation, diet, beauty,tipRecent changes:2.56* Fix bug for can't change glass sizes.* Fix bug for crash.2.55* Fix crash bug that remove my cup of water.* Today%, Overall% are back, you can check the result easily.2.52* Chart page: add today's drink amount.              add  heaviest,lightest and current weight.* Log page: new layout and add today' drink amount.* Setting: layout update.* Notification title will disappear in 5 minuters when notification comes.* Bug fix"
+p4
+tp5
+tp6
+.

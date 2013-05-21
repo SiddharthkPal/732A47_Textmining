@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pregnancy Test Dr Diagnozer '
+p1
+tp2
+(S'Description:'
+p3
+S"The Pregnancy Test aplication form Dr Diagnozer series recognizes typical pregnancy symptoms and signs. Answering a set of Pregnancy Test questions helps you to answer the question 'Am I pregnant?'. The percentage score along with the result is displayed just after completing the quiz.Attention: the App is available only in English and Polish. Please do not evaluate it low for lack of other language versions!The aplication is optimized for smartphones and tablets with Android version 2.1 and later.Dr Diagnozer Pregnancy Test is totally free! It's available in English and Polish language. Try it now!If you have any problem with the application e.g. it's not working on your phone, don't rate it badly but let us know. We will try to fix any bug as soon as possible!Be aware the application and the quiz test do not confirm or discount a standard pregnancy test and cannot replace an ultrasound diagnosis.We recommend also our 'Name for baby' app:http://market.android.com/details?id=pl.extremedia.whatnameRecent changes:Version 1.1:- share test result option- minor bug fixesVersion 1.0:- major bugs fixed- optimized for Android 3 and 4 tablets"
+p4
+tp5
+tp6
+.

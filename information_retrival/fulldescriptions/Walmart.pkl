@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Walmart '
+p1
+tp2
+(S'Description:'
+p3
+S'2012 Mobile Retailer of the Year (Mobile Commerce Daily)2012 #1 in Commerce (Mobile Excellence Awards)Save money. Live better.Looking to grab great values on the go? The Walmart app helps you find and buy quality products at unbeatable prices whether you\xe2\x80\x99re at home, in our stores or anywhere in between. You\xe2\x80\x99ll also be able to stay up-to-date on exclusive app-only shopping events. You\xe2\x80\x99ll love using this handy app to:- Shop Rollbacks and save a bundle- Grab the Value of the Day before it\xe2\x80\x99s gone- Browse your store\xe2\x80\x99s Local Ad- Scan barcodes and QR codes for additional information- Check inventory and prices in stores- Find store hours and directions- Order refills and view $4 prescriptions- Access the app with one tap using our Value of the Day and Search widgets A note about Permissions:- The app requires access to your device\'s "Hardware controls for pictures & videos" to scan barcodes and QR codes. We do not use the camera for any other purpose.- The app requires knowledge of the "accounts on the device" to send notifications. This permission does not give us access to any passwords or personal information. You can turn off notifications anytime in the More menu. Ship for less:- Free shipping when you send your order to any Walmart store- Free shipping when you order $45 or more of Home Free items - 97-Cent shipping for select productsRecent changes:v1.4.2 - Place orders using guest checkout- View store prices for most items - See the Local Ad in full-page view with zoom- Purchase pre-orders and eGift Cards via the app - Bug fixesv1.4.1- Holiday updates v1.4- Updated Home screen design- Page through the Local Ad and tap items to learn more- Features to help you shop and save on holiday items- Bug fixes'
+p4
+tp5
+tp6
+.

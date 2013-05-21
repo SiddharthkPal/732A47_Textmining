@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Baseball Hero '
+p1
+tp2
+(S'Description:'
+p3
+S"Enter New Dynasty with Baseball Hero, the most authentic baseball simulation game on Google Play. With enhanced batting and pitching controls, players experience smart intuitive baseball as never before.Baseball Hero features improved graphics and intuitive one-finger controls to give you the ultimate baseball experience while on the go. Grow from MLB rookie to the major league's super star, blast away your best hits and become the Homerun legend in Baseball Hero. Enjoy the greatest baseball simulation game ever created NOW!Game Features:- 3 Game Modes: Quickplay, Career, Practice- High quality 3D graphics and animations- Realistic physics of ball movement- Earn gold coins to upgrade ability and buy power-upsHow to Play:- Use finger gesture to control batting and pitching of the ball- The more accurate you flick your finger to hit the ball; it is more likely that you will be a home-run hitterRecent changes:v1.1: Made the Career mode more challenging (increased difficulty) and fixed some bugs of the game"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Face Changer Video '
+p1
+tp2
+(S'Description:'
+p3
+S"Face Changer Video (previously called Talking Friends) lets you easily change and animate faces in photos. The people in the photo can move and talk. Use it to change your face, friends or change face in any image you find in the internet. Share the video with your friends.If you know apps like Talking Tom Cat, this is a talking version of you or of your friends.It's easy to create funny pictures and animations.Main features or Face Changer Video:* Voice tool: Select from many predefined voices, like a chipmunk, a cow, a robot and more.* Mouth tool: Select a mouth from many options. The mouth move when the character in the picture talks. You can customize the teeth too.* Object tool: Paste an object on top of the photo. The app comes with many animated objects: glasses, eyes in multiple colors, funny noses, scars, blood,  pimples and more.* Zoom tool: pan and zoom for fine grained control on smaller areas.* Smudge tool: make faces thin or fat, enlarge eyes or the nose. Make ears pointy, or extra wide. Make chin longer or smaller. Draw mouth edges up to down to create a smile or frown. Similar to Face Effects, Caricature Me or Photo Warp.* Undo and redo* All creations are automatically savedImage sources for Face Changer Video:* Open an image from your gallery.* Use the camera from within the app to take a photo and immediately change it.* Get images that your friends posted to Facebook* Do an image search from within the app, using Google or Bing, and modify the returned images. Using this feature, it is easy to change the face of celebrities.If you liked our Face Changer or Voice Changer, you will absolutely love this app.Recent changes:Recent changes* Better layout on tabletsPrevious Changes* Translated video upload strings to 14 languages* Added SHARE and SAVE features.* Fix bug in move after rotate* Added translations to many languages* Decrease memory usage for large pictures"
+p4
+tp5
+tp6
+.

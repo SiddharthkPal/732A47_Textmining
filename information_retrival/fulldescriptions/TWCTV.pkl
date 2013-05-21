@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TWC TV\xc3\xa2\xe2\x80\x9e\xc2\xa2 '
+p1
+tp2
+(S'Description:'
+p3
+S'** If TWC TV does not launch after the logo screen is displayed, you may need to restart your cable modem. Please disconnect power from the modem for 30 seconds, then reconnect. Ensure your Android device is connected to your home WiFi, then restart the TWC TV app. We are working to resolve this issue and apologize for any inconvenience. **Now you can watch your favorite shows* and control your TV using your Android smartphone or tablet.Turn any room into a TV room*- If you are a Time Warner Cable video subscriber, the FREE TWC TV\xe2\x84\xa2 app turns your Android 4.x smartphone or tablet into another TV screen and lets you watch selected live cable channels while in your home, through your wireless home network. Watch Bravo from your bedroom, take Food Network with you to the kitchen or catch up on CNBC news from the breakfast table.Find your favorite shows- Browse the interactive program guide with up to 7 days of TV listings- Search for shows by title or episode name, and filter the results by genre- Set favorite channels to create a personalized program guide- View detailed program descriptions with color photos and cast informationProgram your DVR or change channels from anywhere*- Schedule one-time or series recordings and change settings on compatible DVRs- Change channels using your Android smartphone or tablet and compatible DVR or cable boxParental ControlsTWC TV offers channel blocking. To learn how to activate parental controls, tap \xe2\x80\x9csettings," then parental control. To restrict all access to TWC TV, please remember to sign out by tapping \xe2\x80\x9csettings\xe2\x80\x9d, then sign out.Service requirements- Time Warner Cable video package at the Standard (Expanded Basic) level or higher- Home WiFi connection for live TV playback (Customers without Time Warner Cable provided Internet service should contact customer care for setup assistance.)- Time Warner Cable username and passwordHardware requirements- Live TV requires Android 4.x (Ice Cream Sandwich) or higher- Set-top box / DVR features require Android 2.1 or higher for smartphones and Android 3.x or higher for tablets.* Channels are subject to availability in your area and the video package to which you subscribe. Not all functions available in all areas. Navigator set-top box or DVR required; functionality for other set-top box models may vary by area. Live TV requires compatible Android 4.x or higher device.Recent changes:- Bug fixes'
+p4
+tp5
+tp6
+.

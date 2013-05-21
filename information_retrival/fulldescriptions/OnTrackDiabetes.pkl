@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OnTrack Diabetes '
+p1
+tp2
+(S'Description:'
+p3
+S'OnTrack is an application to help diabetics manage their diabetes by tracking various items such as blood glucose, food, medication, blood pressure (BP), pulse, exercise and weight.Features include:- easy to use interface makes it a snap to add new entries- Add multiple entries simultaneously, for example add glucose and medication at one time quickly and easily- a variety of detailed graphs and reports- a detailed log book with tables and graphs suitable for sharing with your doctor- Supports both US (mg/dl) and international (mmo/l) glucose units.- export your data in a variety of non-proprietary formats including CSV,HTML,XML- annotate each entry with a category (breakfast, lunch, dinner, etc)- customize categories, medications, exercise types and more by adding, removing or renaming as desired- automatically have OnTrack select the right category for new entries based on time of day- activate reminders on new entries, for example remind yourself to test two hours after eating food.- Your data is your data, backup and restore as needed and even move it from one phone to anotherNOTE: Before upgrading to a new version of OnTrack we always recommend backing up your data first using the backup option under the Tools button in the OnTrack dashboard.Recent changes:This release is primarily a bug fix release to clean up some of the few remaining issues. New features include:- Added Finish localization thanks to Mika- Added option to reminders to make a reminder insistent, in other words it continues to vibrate/sound until dismissed'
+p4
+tp5
+tp6
+.

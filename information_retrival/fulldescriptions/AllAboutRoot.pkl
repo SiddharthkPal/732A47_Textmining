@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'All About Root '
+p1
+tp2
+(S'Description:'
+p3
+S'** ROOT ACCESS IS NOT REQUIRED **** PLEASE EMAIL ME FEEDBACK REGARDING THE APPLICATION CONTENT!! I WANT TO IMPROVE THIS APPLICATION ** Ever wonder: What is Root? Why do people want Root? How does Root work? How would I obtain Root? How to verify Root?Accurate and correct information about root access can be difficult to obtain.This application answers these simple questions in a clear and concise manner. Definitions are provided, sources are cited and links are given. The goal is to help all users understand more about root. This application is at an early stage of accomplishing this goal. After much research and experience helping many many users understand what root is, why people want to root, how root works and some of the common methods taken for obtaining root access, I have put everything together into one simple application.Having received hundreds of the same questions via email from Android users across the globe regarding my Root Check application and specifically about root, I decided it would be most beneficial for all users to have a simple, easy and clear educational tool explaining All About Root. I plan to continue to refine and add information as I receive feedback.A "technical" section has been added to cover some of the more detailed and technical aspects of root including ownership and permissions, along with setuid and setgid attributes.Please let me know via email, IRC or posts on the common forums, whether the information is helpful, unhelpful, missing details, contains too many details, etc. I appreciate all feedback. Thank you for your support and reading all of my market description!!!SEO: root root access android root setuid setgid su su binary exploit superuserRecent changes:Version 1.2.6** Updated Why Root links** Updated FAQ** Minor bug fixes** Updated librariesVersion 1.2.5** Added to the FAQ** Added Whats New DialogVersion 1.2.4** Added "Night Reading" mode per request** Added Preferences panelVersion 1.2.3** Updated Root Quiz informationVersion 1.2.2** Added FAQ** Minor bug fixesVersion 1.2.1** Added simple 4 question quiz** Added ability to store on sdcard** Added credits section** Minor bug fixes'
+p4
+tp5
+tp6
+.

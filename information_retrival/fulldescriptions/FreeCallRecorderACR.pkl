@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free Call Recorder - ACR '
+p1
+tp2
+(S'Description:'
+p3
+S"Another Call Recorder is a free call recorder application. Tested on Samsung Galaxy S3 but reported to be working phones listed below. There is no guarantee that it will work on your phone. This is due to capabilities of different chipset/CPU each brand/model have.DO NOT USE ACR INJUNCTION WITH OTHER CALL RECORDERS AND TRY DIFFERENT RECORDING FORMATS (ogg,3gp,mp4,wav) TO FIND BEST ONE FOR YOUR PHONEWARNING! THIS APP ONLY TESTED ON SAMSUNG INTERNATIONAL GALAXY S3 AND MAY NOT WORK ON ALL PHONES! ACR reported to be working phones listed belowGalaxy S 4Galaxy AceGalaxy FitGalaxy NoteGalaxy Note II Galaxy S DUOSGalaxy S II Galaxy S III InternationalGalaxy S III MiniGalaxy SII SkyrocketGalaxy WGalaxy Y DuosHTC Sensation 4GHUAWEI Ascend P1KT KM-S300 Lenovo A790eLG Motion 4GLG Optimus 2X LG Spectrum VS920ZV8Optimus 4X HDOptimus L9 Sony Xperia ZLSony Xperia USony Xperia IonSony Ericsson WT19a WalkmanSony Ericsson Xperia Arc LT18i Sony Xperia S  Sony Xperia Z Sony Xperia GoSony Xperia X10 Mini Sprint Galaxy S III running latest CM 10.1 nightlyTurkcell Maxi Plus 5ZTE Racer II Permissions:Internet access only needed to send crash logs nothing else.READ_CONTACTS Needed to get contacts name and photo to display in recording log.LegalRecording calls without letting your caller may not be legal in some countriesRecent changes:If you have problems please report them to copluk+acr@gmail.com so i can fix them. What's new- NEW! Excluded numbers option. Add numbers that you do not want to record calls from or to.- Improvements to Dropbox Sync"
+p4
+tp5
+tp6
+.

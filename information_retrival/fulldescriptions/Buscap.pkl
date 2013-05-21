@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Buscap\xc3\x83\xc2\xa9 '
+p1
+tp2
+(S'Description:'
+p3
+S"The best comparison shopping service in Latin America, now more powerful than ever.Everybody knows that having the Buscap\xc3\xa9 Mobile application on your smartphone guarantees the best prices and purchasing decisions.Features such as: barcode reader, offer\xc2\xb4s map view, search refinement filters, details and product reviews, makes you a customer with supers powers.As the great digital commerce pioneer, Buscap\xc3\xa9 Mobile innovates once more and now also it helps you complete your purchase.Apart from comparing prices and deciding on the best products, after a simple unified registration process*, you will now be able to compare prices and choose the best products, making your purchase with a great practicality and safety at Brazil's major stores**.Even seated on your couch or inside a store, Buscap\xc3\xa9 Mobile offers many features that will make it your best shopping companion. There are more than 15 thousand stores and 10 million different products for you to compare, consult and also buy now! Try it now and become a customer with super powers!*Unified registration process for the creation of a Bcash account (www.bcash.com) for secure payment.**Available for stores in Brazil and system-compatible only.Recent changes:Thanks for your feedback! We have improved our app to make it even better. \xe2\x9c\x94Now you can buy more than one item of the same product in the Buscap\xc3\xa9 app;\xe2\x9c\x94Implementation of a new mechanism which avoids duplication of purchases;\xe2\x9c\x94Performance improvements and Bug Fixes. Stay tuned, we will have more news soon!"
+p4
+tp5
+tp6
+.

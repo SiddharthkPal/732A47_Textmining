@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bikemap \xc3\xa2\xe2\x82\xac\xe2\x80\x9c Your bike routes '
+p1
+tp2
+(S'Description:'
+p3
+S'You\xe2\x80\x99re a biking fan and always on the search for new routes? Then we have the perfect app for you!The Bikemap app let\xe2\x80\x99s you look for bike routes near you or in places you plan to visit. You can choose from more than 800 000 routes worldwide curated by our large community of passionate bikers.Our free app also assists you with navigation as it shows your current location on an interactive map in real time while cycling on Bikemap routes.Features - Search\xc2\xa0for a route near your current location or by entering a place View\xc2\xa0routes on a map with distance, description and rating - Interactive\xc2\xa0elevation profile. - Show\xc2\xa0current location\xc2\xa0while riding. - Routes are\xc2\xa0stored offline - perfect for biking vacations abroad. - Share\xc2\xa0routes with your friends - Login with Facebook or Bikemap.net (optional)Recent changes:Fixed login issuesRestores english as default language'
+p4
+tp5
+tp6
+.

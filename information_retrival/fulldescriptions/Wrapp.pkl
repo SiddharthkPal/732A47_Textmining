@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wrapp '
+p1
+tp2
+(S'Description:'
+p3
+S"Wrapp is the fun and easy way to give free and paid gift cards from top brands to your Facebook friends. Connect to Facebook, select a friend and choose a gift card. It\xe2\x80\x99s just that easy! \xf0\x9f\x8e\x81 Have you been celebrated? Congratulations! Download the app to receive and redeem your gift card. \xf0\x9f\x91\xab Need to send a gift? Get Wrapp now and give wonderful gift cards to friends in the U.S., U.K., Norway, Sweden and other countries soon. Celebrate your friends every day with Wrapp!Explanation of Android app permissions: - Access coarse and fine location: Used when redeeming a gift in a store.  - Access network state: Used to authenticate Android 2.1 devices. - Read contacts: Used to help you find a friend's address when sending gifts. Your address book is not sent to Wrapp.  - Write external storage: Used for image caches. - Vibrate: Used in push notifications and can be disabled in the settings.Recent changes:Version 1.9.8.1- New brand pages- Improved designVersion 1.9.7- Improved gift sharingVersion 1.9.6- New comment bar- Improved payment flow"
+p4
+tp5
+tp6
+.

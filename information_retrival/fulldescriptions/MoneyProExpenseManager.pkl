@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MoneyPro - Expense Manager '
+p1
+tp2
+(S'Description:'
+p3
+S'MoneyPro is the best tool that will help you to manage your daily transactions. A personal accountant in your smart phone or tablet.It combines processes like payments, incomes, expenses, accounts, calendar, reminder and reporting under a useful, and efficient user interface.TRANSACTIONS: MoneyPro offers you a very simple, yet efficient way to record you daily transactions. You can easily add/edit/delete transactions. Transform and re-enter transactions, make calculations and keep pictures of the receipts/documents.CALENDAR: An important function. It will help you to organize your day. Supports reminders.ACCOUNTS: Create/ manage your accounts. REPORTS: Extract information from your database based on calendar days, categories and type of transaction.Recent changes:Fixed some bugs'
+p4
+tp5
+tp6
+.

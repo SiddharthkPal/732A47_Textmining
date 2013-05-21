@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Serie A '
+p1
+tp2
+(S'Description:'
+p3
+S'The screenshots are in Italian but the app is multilingual and also includes English.On the minute live score notifications.FINALLY real livescore notifications from the Italian Serie A in football to your phone or tablet. Notifications are for FREE !!!Serie A is the app to follow standings, tournament schedule, livescore, topscorer, and more from the Italian Serie A in football. Follow live matches and get notifications.It is possible to be notified from live matches. Settings let turn on and off notifications. You can get notifications even when your screen has been turned off. You can also choose your favorite teams and control refresh interval.The tournament schedule has the complete schedule. The schedule has a paging feature that lets you page between the rounds, jump to the current round, jump to season start and season end.PLEASE NOTICE: There is also a PRO version of this app available here on Android Market. The PRO version has even more features including goal score on all the previous matches played, red and yellow cards, landscape screens, press the players on topscorer list and get information on when they scored their goals, and more...Serie A in football consists of the following teams:AtalantaBolognaCagliariCataniaChievoFiorentinaGenoaInterJuventusLazioMilanNapoliPalermoParmaPescaraRomaSampdoriaSienaTorinoUdineseKeywords: Results - Fixtures - Football \xe2\x80\x93 Serie A \xe2\x80\x93 English - Nofity \xe2\x80\x93 Italy - Notifications - Alert \xe2\x80\x93 Live Score \xe2\x80\x93 Goal - Free - Coppa ItaliaRecent changes:Coppa Italia'
+p4
+tp5
+tp6
+.

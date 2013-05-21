@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wanelo Shopping '
+p1
+tp2
+(S'Description:'
+p3
+S'The best in shopping entertainment. Wanelo (from Want, Need, Love) gives you an endless stream of the most unique products online, all posted by people like you. Buy everything right away, or save your favorite products to your profile for later.We should mention that Wanelo is dangerous for your free time and wallet. Our users think so, too:"I wish I had all the money in the world. I would just spend all of it on Wanelo."@madewithevol\xe2\x80\x9cI\'m doing all of my Christmas shopping on Wanelo #obsessed"@lendaathompson"#Wanelo you can have all of my money! #obsessed"@TheBigOlivia"@Wanelo app for android!? brb, DYING."@flexinBITTY\xe2\x80\x9cI absolutely love wanelo! I\'m over the moon now that they have an app! :D\xe2\x80\x9dJessica PurvisRecent changes:OMG. OK. Make sure you\'re sitting down. In this update, you can customize your Trending feed! Yes, it\'s true: you can finally see a Wanelo for Men. Go to Trending and select Men! We kept the Trending categories very simple (Women, Men, Home, Kids, $, $$) to maintain the ridiculously clean yet powerful Wanelo experience we all love. Much more to come! Tell us what you think: hello@wanelo.com.Much love,Wanelo'
+p4
+tp5
+tp6
+.

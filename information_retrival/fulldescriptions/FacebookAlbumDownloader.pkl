@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Facebook Album Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Exiting New Features !!1) Wild Album Search : Provide a text string or part of it and you get all those albums whose name contains this provided text . For example enter profile to get profile pics albums of all friends . 2) Location search : Provide a location or part of it . Get albums whose location has been set by your friends as the provided location . For example , enter Vegas to get albums from Las Vegas . Or just enter Las for that matter or even la ( just needs to be a substring ) . More like a query from Facebook Graph Search . Inspired by that , not related to it in any manner .First of their kind features in any Android app . Innovative !!Explore these new features , play with them :)A request : Please rate the app if you like it . Provides motivation and helps us improve .Easily download any Facebook Albums or Tagged Photos which you have access to i.e. yours and your friends only. Also download photos from your liked pages .Just takes a few steps and you are done. What you can do:  Download your Facebook AlbumsDownload Facebook Albums of your friendsDownload your tagged photosDownload tagged pictures of your friendsChoose albums to be downloadedChoose photos in the album to be downloadedDownload photos from pages that you have likedThe application use Facebook Single Sign On . No need to log in again if you are already logged into Facebook application on your device.This application is not a product of Facebook and is unrelated to Facebook Corporation.Permissions are required to access internet and to save photos to your device.Facebook permissions required are to access your photos , likes , friends , and friend photos.The photos are saved in "FB Album Downloader" folder in your device.Again , please do rate the app if you like it. Any suggestions are also welcome. Just send us an email.Keywords : Facebook , fb , album , download , friends , photos , likes , pages , pictures , social , location , facebook album , facebook album download , facebook photo , facebook photo download , facebook graph , photo , albums ,photo downloader , photo downloader for facebookRecent changes:New : Wild Album Search , Location Album Search , Minor bugs fixedSingle Sign OnWhole New User InterfaceSuper Fast DownloadAbility to download photos from pages you have liked.Limit of photos in album increased to 1000Major Update !!'
+p4
+tp5
+tp6
+.

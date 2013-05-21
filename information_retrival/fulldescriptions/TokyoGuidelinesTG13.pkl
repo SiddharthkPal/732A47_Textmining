@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tokyo Guidelines (TG13) '
+p1
+tp2
+(S'Description:'
+p3
+S'This mobile application for TG13 \xe2\x80\x9cUpdated Tokyo Guidelines for the Management of Acute Cholangitis and Acute Cholecystitis\xe2\x80\x9d (J Hepatobiliary Pancreat Sci; Volume 20-Issue 1, Januaru 2013) has been prepared to provide information convenient for the use of TG 13 in clinical settings.  Diagnostic criteria, severity assessment, flowcharts, bundles, and antimicrobial therapy for acute cholangitis and cholecystitis that constitute important parts of TG 13 are presented in the form of digests.Calculators are also available in this mobile application to find the grade of diagnostic criteria and severity assessment for both acute cholangitis and cholecystitis.'
+p4
+tp5
+tp6
+.

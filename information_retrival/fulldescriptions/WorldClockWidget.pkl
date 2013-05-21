@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'World Clock & Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'***** IMPORTANT: Add the app to your Task Killer white list! other wise the widget might stop updating. *****Simple and easy to use application & widget.If your location is missing, find a place in the same time zone & change the clock title:(1) Find another city/location in  the same time zone, and add it. (2) Click on the new city and select "Edit Clock". (3) Rename the clock title & description and click on "OK".Features:* Customizable widget background.* Multiple clocks support.* Quick search for locations.Recent changes:v1.4.3* Added some new cities (including all the Russian cities with population > 600K)'
+p4
+tp5
+tp6
+.

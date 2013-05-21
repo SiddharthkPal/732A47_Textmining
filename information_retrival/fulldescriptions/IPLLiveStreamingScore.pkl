@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IPL Live Streaming & Score '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch Live IPL T20 2013 Cricket Live Streaming TV & score update in your Android Mobile Phone, Download & Install "ipl live cricket" Application in your Smartphone.This free ipl live cricket streaming application works on most of the Android mobiles support to 2g, 3g & HD with high internet speed.Application Features:-Live Cricket MatchWatch Highlight of previous cricket matchLive IPL score updateHigh ResolutionIPL Cricket Streaming with different server optionsLabel:IPL, Live, Cricket, Streaming, 2013, TV, Stream, Watch, india, 6, You, Max, Four, Six, Geo, coverage, sony, highlight, Match, tube, super, free, app, t20'
+p4
+tp5
+tp6
+.

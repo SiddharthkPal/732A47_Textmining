@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Preis.de Preisvergleich '
+p1
+tp2
+(S'Description:'
+p3
+S'Finde auch unterwegs immer das g\xc3\xbcnstigste Angebot mit der kostenlosen Android Preisvergleich App von Preis.de. Ohne weiteres kannst du jederzeit und \xc3\xbcberall den Ladenpreis auf seine Attraktivit\xc3\xa4t pr\xc3\xbcfen und mit Onlineangeboten vergleichen. Mithilfe eines Barcode Scanners, den du dir ebenfalls kostenlos herunterladen kannst, oder per Direkteingabe findest du die gesuchten Produkte bei Preis.de und erh\xc3\xa4ltst neben Angebotspreisen auch Produktdetails, Testberichte sowie Versand- und Shopinformationen. Durch anschauliche Produktbildgalerien bekommst du einen guten Eindruck vom Produkt und kannst dieses auch direkt bestellen. Features der kostenlosen Preis.de App: - Produktsuche via Barcode-Scanner oder direkter Texteingabe - mehr als 50 Millionen Angebote von \xc3\xbcber 20.000 Online H\xc3\xa4ndlern - Zugriff auf rund 500.00 Testberichte - zus\xc3\xa4tzliche Informationen zum Produkt, Preisverlauf, Versand und den Shops - gro\xc3\x9fz\xc3\xbcgige Produktbildgalerien - Shops, die f\xc3\xbcr dein Smartphone optimiert sind, werden hervorgehoben dargestellt - Merkzettelfunktion - Speicherung des SuchverlaufsDie Preis.de App ist bereits ab Android 2.1 installierbar und dient dir unterwegs als praktisches Tool, wenn es ums Preise Vergleichen und Verhandeln geht. Finde den g\xc3\xbcnstigsten Preis und gib keinen Cent mehr zu viel aus.Recent changes:Die neue Version der Preis.de App bringt viele Vorteile mit sich: Aktuelle Preisver\xc3\xa4nderungen werden mit Datum ausgewiesen, den Merkzettel kannst du nun direkt von der Startseite aus, ohne Suchen ansteuern und Bugs wurden behoben.* Preisver\xc3\xa4nderungen mit Datumsanzeige* Merkzettel-Icon auf der Startseite* verbesserte Startseitengrafik* Bugfixing'
+p4
+tp5
+tp6
+.

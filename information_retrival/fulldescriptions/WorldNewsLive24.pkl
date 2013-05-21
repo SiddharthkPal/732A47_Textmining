@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'World News Live24 '
+p1
+tp2
+(S'Description:'
+p3
+S"What's happening across the Globe?      You witness the Breaking News on the world!This free App only includes 24 hours News live through selected English broadcasters. Wherever you are, Whenever you want, Access the real time News live from all over the world.On Air:*Aljazeera English from Qatar*Arirang TV from Korea*BBC World News from UK*CCTV(CNTV) from China*CNN LIVE from USA*ETNOW(The Economic Times) from India*euro news from France*FRANCE24 from France*NHK World from Japan*Press TV from Iran*RT(Russia Today) from Russia*RT\xc3\x89 NEWS NOW from Ireland*SKY NEWS from UKThese great broadcasters from each country let you know the high quality international Headline News, Breaking News, Exclusive, Business, Sports, Documentary, Debate,  Weather forecast and more.Watch those without registration and flash player.Recommend you to access WIFI network and Android OS 2.2+2G/3G could be unstable live stream.If you can't watch live video, Please retry it later.Recent changes:Compatible with 2013."
+p4
+tp5
+tp6
+.

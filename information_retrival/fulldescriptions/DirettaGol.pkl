@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Diretta Gol '
+p1
+tp2
+(S'Description:'
+p3
+S'Tieniti aggiornato in diretta sui risultati delle partite di calcio di tutte le competizioni mondiali, dalle serie minori a quelle pi\xc3\xb9 importanti, compreso tennis, basket e altri sport.Recent changes:v 1.3- Aggiornamento automatico dei risultati ogni 60 secondi.- Rimossa la funzione Cerca per incompatibilit\xc3\xa0 su dispositivi non aggiornati ad Android 4.v 1.2 : Inserita la funzione "Cerca" nel menu, per ricercare una squadra nell\'elenco delle partite.v 1.1 : Aggiunta compatibilit\xc3\xa0 fino ad Android 2.1'
+p4
+tp5
+tp6
+.

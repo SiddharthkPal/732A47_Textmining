@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'You Peliculas: Movies Free '
+p1
+tp2
+(S'Description:'
+p3
+S'*YouPeliculas* is an innovative application that lets you watch movies and series hosted on YouTube that other anonymous users have uploaded and that are publicly accessible.Film in French, Italian, Turkish and Vietnamese go to: https://play.google.com/store/apps/details?id=com.vad.topphimThe movies/series of our app are carefully selected, we try to make sure that the language for all movies/series is either Spanish from Latin America or Spanish from Spain in addition to English movies also available.Quality is important, we try to make sure that the quality of the movies/series is excellent, although there are movies/series where quality is not very good, but is not bad either.The list of movies/series is sorted according to the most popular ones, for example: The number of times that a movie/series has been watched.Features:1. Quality control: All movies are recent (2013 ~ 1990), fun, free and of high quality.2. Simple interface: Go to find a free movie and press to view it.3. Quick Contents Load Engine:  seamless viewing experience.4. Movies/Series in both English and Spanish.5. Movies search enginePlease note that the loading speed of the movies / series depends solely on your Internet connection speed, our app is not responsible for the loading speed of the videos, if you ever experience slowness or other problems, this is directly related to where the content is hosted.Help us build a better applicationYou are the reason for which this application exists, it is an application of some users for users, we are not a company, we are just two people wanting to share so to improve our application we need your comments and / or suggestions, you can leave a comment or contact us by email, we know that the application can still improve a lot, so we need your help!ATTENTION!Keep in mind that we do not store, upload or sell copyright-protected material. If you see that there is something that violates laws, please report it.Information about the videos you get real time and exiting the application is removed completely from your terminal.IMPORTANT: It is recommended that the user notifies YouTube if an unauthorized film is found, and we will remove the link once confirmed.'
+p4
+tp5
+tp6
+.

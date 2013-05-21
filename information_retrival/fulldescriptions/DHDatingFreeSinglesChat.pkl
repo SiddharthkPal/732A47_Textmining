@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DH Dating - Free Singles Chat '
+p1
+tp2
+(S'Description:'
+p3
+S"100% free online dating with DateHookup. If you try us out you WILL meet someone.  There are tons of great singles in your area looking to chat and meet someone on DH right now! Over 30 million visits last month, chat with singles for free, no catch. Powered by DateHookup.com, one of the biggest free online dating sites!Don't get fooled by other online dating or personals apps that claim to be free but ask for your credit card as soon as you want to chat with someone. DateHookup is 100% FREE dating & personals, as in free for everything, forever. Flirt with hot singles online right now!More:- 1000's of new singles looking for dating and love join every day- Very easy to use, we keep it simple- Free dating and chat room forums & online dating groups - Date ideas, add romance to your love life- Try it out, have a date for the weekend!Personals for ages 18 and over only. Chat, text and flirt now! Singles are waiting..Recent changes:Photo messaging! You can now add photos to messages."
+p4
+tp5
+tp6
+.

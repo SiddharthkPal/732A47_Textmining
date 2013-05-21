@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MintCoins (Make / Earn Money) '
+p1
+tp2
+(S'Description:'
+p3
+S'In "MintCoins", you get paid for completing simple offers such asdownloading a free app, watching a video advertise, completing asurvey etc. There are many high paying offers you can earn from andeverything you earn can be cashed out through PayPal. The best part isyou don\'t have to wait a long time to reach $5 to cash out, like otherapps. The cash out limit is only $1 and we guarantee that you can makeit in very little time.The app is evolving rapidly, so you can expect more and more offersdaily with bug fixes and if you are ever in need of any assistance we have an advanced excellent customer support.You can make money in MintCoins by :--- Downloading free apps-- Downloading paid apps(very high pay for paid apps)-- Inviting friends(Best Method - 0.25$ per friend)-- Registering to free websites-- Registering to paid(high pay) websites-- Completing surveys-- Watching video ads-- Play free gamesDon\'t have the time to complete offers? No problem, you can earn justby inviting friends to try out MintCoins. You get 0.25$ for everyfriend invited to try out MintCoins and your friend gets 0.10$ forsigning up using your invite code.How to make / earn money using MintCoins:1. Register and Login to MintCoins with your email address.2. Complete offers you like3. Invite friends3. When your earning reaches 1$, you can get payout via Paypal account.Simple?What are you waiting for? Whenever you have the time, Happy Earning!!Please feel free to email us at mindfreelabs@gmail.com for anyqueries/suggestions/problems or if you just wanna chat or forabsolutely anything. We\'d love to hear from you and we promise toaddress all your queries/problems asapWe are a very small team. If you like our app, please show us yoursupport by liking us on facebook and +1 on google plus.Keywords: earn money make money reward cash paypaldownload apps free get paid work from homeComing soon:What if you don\'t have a paypal account? No problem!We are working on introducing Gift Cards for Sears, Amazon, Nike,Starbucks, Xbox, Macy, Iowes, Game cards, Mobile accessory, PrepaidCalling Cards, Facebook Credits, Virtual Credit Cards and more!Recent changes:v2.0-New Fluid Interface with easy navigation-Bug fixesv1.7-More offers!-Improved interface-Bug fixesv1.6New offerwall AddedVideo Offers AddedLower minimum payout of 1$ from 3$Bug fixesAdvanced customer support integratedHigher paying offers included.v1.5- Bug fixes.(Tons of new offers coming in very very soon)'
+p4
+tp5
+tp6
+.

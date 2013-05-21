@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'A.I.type Arabic Predictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'*** Arabic language pack - requires A.I.type Keyboard 1.7 and above (either Plus or Free) ***Allows A.I.type Keyboard to provide text prediction, auto correction and auto completion in Arabic.By default, the package will get installed on your SD card.  After installation, you may need to switch to another language and back to Arabic (by sliding on the space button) to activate the language pack.If you like it, please rate our Predictionary in the Market!Recent changes:Automatic installation wizard to ensure that your A.I.type keyboard is running properly.'
+p4
+tp5
+tp6
+.

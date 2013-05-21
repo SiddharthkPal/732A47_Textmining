@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Computer Idee HD '
+p1
+tp2
+(S'Description:'
+p3
+S'Computer Idee-lezers kunnen hun favoriete tijdschrift vanaf nu ook op hun iPad- of Android-toestel lezen. Abonnees van het blad kunnen dat gratis. Los is Computer Idee te koop voor \xe2\x82\xac 1,79 per nummer! Online, offline en waar en wanneer u ook bent. Als abonnee is dat voor u helemaal gratis! Niet-abonnees betalen gedurende de actieperiode \xe2\x82\xac 1,79 per nummer.  Via de app is ook het archief met ingang van het eerste nummer van 2012 beschikbaar. Toegang tot de digitale uitgaven is voor abonnees gekoppeld aan de ingangseditie van het abonnement. Om u te registreren als abonnee heeft u uw abonneenummer nodig. Dat kunt u hier opvragen: http://abonneenummer.hub.nl  . Voor meer informatie: www.computerideel.nl/digitaallezen . Veel leesplezier! Luchtig, laagdrempelig, leuk. En informatief. Dat is Computer Idee. Wilt u in begrijpelijk Nederlands op de hoogte blijven van de nieuwste ontwikkelingen en de mogelijkheden van de digitale samenleving, dan is Computer Idee echt iets voor u. Met nuttige workshops, handige tips en het laatste nieuws breidt u uw kennis en vaardigheden in razend tempo uit en komt u op de verrassendste computer-idee\xc3\xabn. En dankzij de tests en koopadviezen koopt u nooit meer een kat in de zak.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quick Settings '
+p1
+tp2
+(S'Description:'
+p3
+S'This app provides quick access to system settings via a single configurable view. Since 2009 this app has been saving time to millions of its users. Now we have new apps for you.For adding settings to the status bar try Settings Extended: http://goo.gl/QfjEMFor Android 4.0 and higher try Quicker: http://goo.gl/DHg7mOut G+ community: http://goo.gl/QGiMgRestrictions:* LED flashlight might not work on some phones* GPS (since Android 2.3) and Mobile Data (since Android 2.3.3) are only shortcuts* Switched off 3G and 4G connections can automatically reopen after reboot or going back form airplane mode.* Mobile Data (APN) switch might not work (or may even break your Internet settings) while working with APN of some mobile network operators. Use it on your own risk. Not supported since Android 4.0 due to security restriction.* 4G is for HTC phones only.* Status bar shortcuts stay there if QS installed in PHONE memory only.This app advertises Quicker and Settings Extended apps ones a week.Permissions explanation:* Take pictures and videos - LED flashlight as a part of camera* Network communication - Bluetooth & Wi-Fi controls* Your location - GPS control on pre-2.3 system* You accounts - Auto-Sync controlRecent changes:Ads were removed from the status bar.'
+p4
+tp5
+tp6
+.

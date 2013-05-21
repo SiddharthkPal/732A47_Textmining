@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Layerer '
+p1
+tp2
+(S'Description:'
+p3
+S"Blend and layer photos into new compositions with this handy app!  With this app, combine photos together in new ways that you just haven't been able to do until now.Using an alpha composite layer, choose between transparency effects to let different parts of photos come through.  You can mash together two people's faces, or use similar pictures on top of each other to create subtle photographic effects.See http://monkeysntypewriters.com/layerer_instructions.php for instructions on using Layerer.Upgrade to pro version within the app to achieve higher resolution output, lock layers to each other, get more transparency effects, even draw your own custom transparency effects!  Use fine control to tweak the image just how you'd like it.Experiment with different features and source images and create new pictures with your photos.NOTE: It is recommended that you free memory for this app by turning off running services (things like live wallpapers, etc., that run in the background)  Go to Settings/Applications/Running Services to see what is using memory heavily.Recent changes:v1.6.3- Cut-out Erase mode now has complete fill option- Various bug fixes- Memory handling improvements"
+p4
+tp5
+tp6
+.

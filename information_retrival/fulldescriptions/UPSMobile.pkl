@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UPS Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'UPS Mobile lets you manage your shipments with features for tracking, locations, and rate quotes without logging in. With a My UPS ID, you can ship, nickname shipments and take advantage of My Choice features for inbound shipments. If you need an ID, visit ups.com/gettingstarted.Recent changes:V3.0.1\xe2\x80\xa2 General bug fixes.\xe2\x80\xa2 UPS My Choice members can now upgrade packages coming to their home from UPS SurePost to UPS Ground. Upgrades provide immediate access to alerts and reroute or reschedule options. In many instances, delivery times will also be reduced by one day.'
+p4
+tp5
+tp6
+.

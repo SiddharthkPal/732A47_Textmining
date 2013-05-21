@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Iltalehti.fi '
+p1
+tp2
+(S'Description:'
+p3
+S'Iltalehti.fi tuo tuoreimmat uutiset ja ajankohtaiset puheenaiheet ilmaiseksi laitteellesi ja lis\xc3\xa4ksi mukana on my\xc3\xb6s:- Mahdollisuus tilata ilmoitukset t\xc3\xa4rkeimmist\xc3\xa4 uutisista- S\xc3\xa4\xc3\xa4tiedot paikannuksen avulla - Urheilun tulospalvelu - 15 kysymyst\xc3\xa4 - Horoskooppi - Iltatytt\xc3\xb6 N\xc3\xa4in k\xc3\xa4yt\xc3\xa4t sovellusta: - Artikkeleja ja osastoja voit selata pyyhk\xc3\xa4isem\xc3\xa4ll\xc3\xa4. - Pyyhk\xc3\xa4isem\xc3\xa4ll\xc3\xa4 vasemmalta oikealle p\xc3\xa4\xc3\xa4set takaisin edelliselle sivulle. - Sovelluksen vasemmasta alareunasta saat helposti n\xc3\xa4kyviin tuoreimmat uutiset aikaj\xc3\xa4rjestyksess\xc3\xa4. - Yl\xc3\xa4osan punaisen osastovalikon oikean puolimmaisesta painikkeesta saat kaikki osastot n\xc3\xa4kyville. Kehitysideoita ja palautetta voit l\xc3\xa4hett\xc3\xa4\xc3\xa4 osoitteeseen: applikaatiot@iltalehti.fi. Mik\xc3\xa4li k\xc3\xa4yt\xc3\xa4t Iltalehti.fi:t\xc3\xa4 mieluummin puhelimesi selaimella, l\xc3\xb6yd\xc3\xa4t mobiilik\xc3\xa4ytt\xc3\xb6\xc3\xb6n optimoidun version palvelustamme osoitteesta m.iltalehti.fi.'
+p4
+tp5
+tp6
+.

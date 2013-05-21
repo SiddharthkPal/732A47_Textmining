@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Moviefone - Movies & Showtimes '
+p1
+tp2
+(S'Description:'
+p3
+S"Moviefone is the ultimate app for showtimes, trailers, reviews, exclusive movie clips, and news. What\xe2\x80\x99s different about Moviefone?\xe2\x80\xa2Find movies playing right now near you in one tap!\xe2\x80\xa2Check out local restaurants and bars around your favorite theaters.\xe2\x80\xa2Beautiful design \xe2\x80\x93 find your showtimes in style. MORE AWESOME FEATURES:\xe2\x80\xa2View movies in theaters, top box office hits, coming soon, and new on DVD\xe2\x80\xa2Watch trailers and movie clips in full screen including exclusive \xe2\x80\x9cUnscripted\xe2\x80\x9d Moviefone Q&A sessions and Six Second Reviews\xe2\x84\xa2\xe2\x80\xa2Buy tickets on the go to any of our participating theaters\xe2\x80\xa2Playing Now Near Me \xe2\x80\x93 check out what movies are playing RIGHT NOW in theaters near you\xe2\x80\xa2Get to the theater easily with our maps feature\xe2\x80\xa2Find places to eat or grab a drink near any theater\xe2\x80\xa2Share movie details on Facebook, Twitter, SMS, or by email\xe2\x80\xa2Get the latest news from 20+ categories for all your favorite movies and actors\xe2\x80\xa2Save your favorite theaters for quick and easy access to showtimes\xe2\x80\xa2Sort movies by MPAA rating, title, or actor to find the perfect movie for the kids or date night We hope you love the app as much as we do. As always we appreciate your feedback so please send comments to moviefone.android.fb@teamaol.com.Recent changes:In this update you'll notice we've caught a serious case of spring fever \xe2\x80\x93 the longer days and warm weather inspired us to release the best looking Moviefone you've ever seen:  \xe2\x80\xa2 A whole new look and feel \xe2\x80\x93 showtimes, exclusive clips, and movie news have never looked so fine. You'll fall in love with Moviefone all over again.  \xe2\x80\xa2 mPoints rewards \xe2\x80\x93 earn points and rewards for the things you're already doing - watching trailers, visiting daily, etc. Tap More for details.\xe2\x80\xa2 Bug fixes."
+p4
+tp5
+tp6
+.

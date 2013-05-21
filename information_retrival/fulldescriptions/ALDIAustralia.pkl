@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ALDI Australia '
+p1
+tp2
+(S'Description:'
+p3
+S'With this new, free application ALDI keeps you updated on the move, providing:* "Specials" menu - a quick overview of special buys on the scheduled days* "Shopping list" menu - allows you to save an item to a mobile shopping list* "Stores" menu - a convenient store locator with store opening hoursHighest quality at the lowest prices at ALDIRecent changes:* Items can be added to the shopping list while the product image is loading* Minor bug fixes and improvements'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WiMP '
+p1
+tp2
+(S'Description:'
+p3
+S'WiMP is a music streaming service available to Norwegian, Danish, Swedish, German and Polish music lovers. WiMP gives you unlimited access to millions of tracks and albums \xe2\x80\x93 always up to date with recent releases and our special recommendations. Get WiMP on your mobile and bring along your own favourites and playlists. In Offline mode you can enjoy music \xe2\x80\x93 even when you have no network available. Visit for Norway: www.wimp.no, Denmark: www.wimp.dk, Sweden: www.wimpmusic.se, Germany: www.wimp.de and Poland: www.wimp.pl to register and get the first 30 days access for free.Recent changes:2.2.1Storage locations is shown correctlyFixed a volume glitch when crossfadingFixed some rotation issues on tabletsAdded playlists to search suggestionsA number of other bug fixes and improvements2.2.0Track and Artist RadioGenre pagesPlaylist catalogAlbum list catalogCrossfade Soft pause and resumeBooklets Ability to select SD-card for offline storageOffline recovery from another device Limited WiMP Hi-Fi beta program - lossless streaming.A number of bug fixes and improvements'
+p4
+tp5
+tp6
+.

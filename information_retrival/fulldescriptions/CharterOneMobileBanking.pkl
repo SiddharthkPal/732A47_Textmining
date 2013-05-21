@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Charter One Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'Charter One FREE Mobile Banking app allows you to check available balances and activity, pay bills, transfer funds, locate ATMs and Branches \xe2\x80\x93 all on your schedule, at your convenience. Charter One Mobile Banking is available to all Charter One Online Banking customers.  Accessing the Charter One Mobile Banking app is easy! Simply login using the same username and password you have established for Charter One Online. FEATURES Access the bank accounts you manage at Charter One Online View account balances See recent activity Pay bills Transfer money between accounts Track payments and deposits Receive account alerts SECURITY AND PRIVACY Our Charter One Online Guarantee protects you from fraud with 100% Online and Mobile fraud protection. The technical security measures Charter One employs--including state-of-the-art encryption technology, firewalls and secure logon--protect your accounts from unauthorized users. Just like most major credit cards, you are protected 100% against unauthorized online and mobile transactions, visit www.charterone.com/security to learn more. We are committed to protecting the privacy of your financial information. See our online Privacy Policy on our web site at www.charterone.com/privacy CONTACT US Get help when you need it - Find ATMs and branches near your current location or search by city, state or zip code with our built in branch locator. Contact Customer Service 24/7 with our click to call right from your Android.Recent changes:We\xe2\x80\x99ve fixed the following issues you\xe2\x80\x99ve reported.  Thanks for your feedback!\xe2\x80\x93\tResolved special character issue that prevented some customers from logging in and viewing account history \xe2\x80\x93\tUpdated balance label for checking, savings and loan accounts\xe2\x80\x93\tEnabled saving of Online User IDs for devices running Android 4.2\xe2\x80\x93\tPerformance updates'
+p4
+tp5
+tp6
+.

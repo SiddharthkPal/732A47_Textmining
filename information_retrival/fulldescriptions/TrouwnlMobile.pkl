@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Trouw.nl Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Download gratis Trouw.nl Mobile en blijf ook onderweg op de hoogte van het laatste nieuws. Alle artikelen van Trouw.nl nu ook op je Android phone! Trouw biedt je de volgende diensten aan: - De belangrijkste actuele gebeurtenissen in Nederland en in de wereld. Kort, bondig en compleet. - Opiniestukken tegen de achtergrond van het nieuws. Originele meningen over alles wat er speelt. Doe mee, en vertel zelf wat je ervan vindt. - Nieuws en ontwikkelingen op het gebied van natuur en duurzaamheid. Voor consumenten en professionals. - Nieuws en ontwikkelingen op het gebied van religie en filosofie. Over spiritualiteit en levensvragen. - De top-tien van meest gelezen artikelen. Praat volop mee over wat iedereen bezig houdt.- Deel de artikelen die je leest via e-mail, Facebook, Twitter en Hyves.Trouw is een uitgave van De Persgroep Nederland.Recent changes:-/ Deze update corrigeert een aantal problemen in de huidige versie.-/ Voor oude Android toestellen is het menu om te sharen en te reageren opnieuw beschikbaar.-/ Ook andere crashes - binnen 24u nieuws en tijdens het swipen tussen artikels - werden opgelost.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'\xc3\xa8\xe2\x80\xb9\xc2\xb1\xc3\xa6\xc2\xb1\xe2\x80\xb0\xc3\xa5\xc2\xad\xe2\x80\x94\xc3\xa5\xe2\x80\xa6\xc2\xb8 EC Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'EC Dictionary is a fast, easy-to-use English-Chinese / Chinese-English dictionary, font up to 200,000, and translation with pronunciation, phrases, example sentences, bookmarks and search history and many other features, welcome to download free of charge.Recent changes:Load more surprise'
+p4
+tp5
+tp6
+.

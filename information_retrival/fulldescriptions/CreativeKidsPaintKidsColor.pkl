@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Creative Kids Paint-Kids Color '
+p1
+tp2
+(S'Description:'
+p3
+S"Kids paint best for innovation!Creative Kids Paint - paint it your way!***100 SHARP and VIVID image backgrounds*****270 CUTE and CREATIVE icons for add to your image***classical and instrumental music for children *Are you looking for a paint or coloring application for your kids? You want to find a fun app not only for them to learn and play but also for you to play together with.You can choose among more than 100 SHARP and VIVID backgrounds to fill with color including princess, pokemon and animal themes, etc. Your only task is to choose color and fill them in each area. Also, you can mix color in your own style. We design 270 lovely icons to promote your children\xe2\x80\x99s creativeness. Drag and add these icons to make the photos lively. You should encourage children to match icons suitably. For instance, it is recommended that you use a crown icon for the snow princess.SPECIAL, we use CLASSIC or INSTRUMENTAL MUSIC for children to promote intellectual development and help them play happily.Product features: + Filling with colour in your own style. + Mixing colour according to your favor. + Adding cute and pretty icons to photos, regulating sizes and moving them to the right position.+ Sharing your masterpieces to introduce to your friends.Have nice time with Creative Kids Paint!Keyword:Baby, child, children, education, polly, baby toys, kids toys, children's book, baby books, coloring games, coloring book, gifted education, infant,toddler, newborn, painting, sketch, picture games, coloring materials, paint , Figure study,color,color game,kids color,kids color game,color for kids,coloring for children,kids learn,baby learn,kids learn color,baby learn color,children learn color,coloring app,paint app,draw,kids draw,kids drawing,drawing for kids,creature.Tags: paint ,kids paint, game for kids, paint for childrens,kids coloring,coloring for kids,game coloring for kids.*Note : Free version lock some feature, you can download pro version for unlock all*Note : use MENU BUTTON of device for select new background imageRecent changes:-Unlocked all 250 icons for free creative.-Integrated Tapjoy for free unlock background.-Fix some minor bugs."
+p4
+tp5
+tp6
+.

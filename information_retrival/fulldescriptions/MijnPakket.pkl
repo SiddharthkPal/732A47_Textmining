@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MijnPakket '
+p1
+tp2
+(S'Description:'
+p3
+S'MijnPakket is de offici\xc3\xable app van PostNL voor het volgen van je pakket of aangetekende zending.Voor jou en alle 1,5 miljoen andere gebruikers van MijnPakket heeft PostNL de superhandige MijnPakket App ontwikkeld. Met deze app heb je de bezorginformatie van al je pakketten binnen handbereik. Zo weet je altijd waar en hoe laat je pakketje komt, waar je ook bent.Wat zijn de voordelen van de MijnPakket App?- Alle gegevens uit je MijnPakket-account op je smartphone- Bestellingen bij aangesloten winkels automatisch in je pakkettenoverzicht- Push-bericht als je niet thuis was of je pakket bij de buren of het postkantoor geleverd is- Aankomsttijd van je pakket altijd bij de hand zonder steeds opnieuw de barcode in te vullenEn nu ook: Bezorging kiezen op een andere dag, bij de buren of het postkantoor als je niet thuis was!Met een MijnPakket-account kun je naast optimaal gebruik maken alle bovengenoemde functies nog veel meer. Bijvoorbeeld gebruik maken van PostNL Checkout. Daarmee kun je bij de aangesloten webshops (zie www.mijnpakket.nl) al direct bij je bestelling voor een leverdag en locatie kiezen.Meld je nu aan voor MijnPakket via de app of via www.mijnpakket.nl en profiteer direct van de voordelen!Recent changes:- Bestellingen bij aangesloten winkels automatisch in je pakkettenoverzicht- Bezorgkeuze voor andere dag, buren of postkantoor als je niet thuis was - Ondersteuning van meer devices, waaronder tablets - Diverse bug fixes doorgevoerd'
+p4
+tp5
+tp6
+.

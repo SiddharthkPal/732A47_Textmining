@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LastPass for Dolphin *Premium '
+p1
+tp2
+(S'Description:'
+p3
+S"Dolphin Browser extension for the award-winning LastPass password manager. Fast, easy and simple; securely syncs your passwords across all your browsers and devices.Key Features:- Built-in browser that will automatically fill your login information for each of your saved LastPass sites.- Automatically fill forms on all sites.- Secure Password Generator.- Add, update, and delete Secure Notes and Sites.* 14-day free trial, requires $1/month LastPass Premium subscription afterwards.Allows you to utilize Dolphin Browser instead of or in addition to the LastPass browser/app for Android. Use the Toolbar icon under 'Menu' in Dolphin to see it!Note: LastPass runs in the same process as Dolphin, so applications that monitor data usage combine the usage of LastPass with the usage of Dolphin itself.  These applications also often display the LastPass icon instead of the Dolphin icon, causing it to look at first glance like LastPass is using a great deal of data, when in reality Dolphin is using most of the data.Recent changes:- Fix shared folders in the login check case- Implement PBKDF2 in binary for faster login- Add Bosnian language- General bug fixes"
+p4
+tp5
+tp6
+.

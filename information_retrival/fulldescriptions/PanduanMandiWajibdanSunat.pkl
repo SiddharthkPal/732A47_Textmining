@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Panduan Mandi Wajib dan Sunat '
+p1
+tp2
+(S'Description:'
+p3
+S'Nota panduan yang ringkas dan mudah difahami untuk para muslim dan muslimat berkenaan mandi wajib dan sunat.Tidak dinafikan masih ramai lagi yang kurang arif tentang kaedah yang betul untuk Mandi Wajib secara sempurna.Selain itu, terdapat juga amalan mandi sunat yang masih tidak dipraktiskan secara penuh termasuk saya sendiri. Semoga panduan ini dapat memberi manafaat kepada semua.Ia merangkumi1. Mandi Wajib2. Mandi Sunat Jumaat3. Mandi Sunat 2 Hari Raya4. Mandi Sunat Selepas Mandikan Jenazah5. Mandi Sunat Solat Istisqa(minta hujan)6. Mandi Sunat Gerhana Matahari/Bulan7. Mandi Sunat Selepas Berbekam8. Mandi Sunat Wukuf9. Soalan Lazim dan JawapanSaya juga berharap, panduan yang ringkas ini sedikit sebanyak membantu anda untuk menambahkan lagi pahala dan rahmat dari Allah Taala.Ameen Ya Rabbal Alamin'
+p4
+tp5
+tp6
+.

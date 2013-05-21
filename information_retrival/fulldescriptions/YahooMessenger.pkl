@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yahoo! Messenger '
+p1
+tp2
+(S'Description:'
+p3
+S"The official Yahoo! Messenger app for Android- Free Voice & Video calls (Beta) \xe2\x80\xa0- Chat with Facebook friends- Free international SMS \xe2\x80\xa0\xe2\x80\xa0- Share Photos & Video- Chat with Windows Live friends - Stay online on Android & PC at the same time, receive messages only where you are active \xe2\x80\xa0\xe2\x80\xa0\xe2\x80\xa0********* Important *********You need to install the latest Yahoo! Messenger Voice and Video Plug-in to enable the call features\xe2\x80\xa0 Video (Beta) requires OS 2.3 and the Yahoo! Messenger Plug-in (OS2.2+ for myTouch 4G and EVO)\xe2\x80\xa0\xe2\x80\xa0 SMS text messages can be sent for free to phone numbers in USA, Philippines, Vietnam, India, Indonesia, Malaysia, Canada, Pakistan, Kuwait and Thailand\xe2\x80\xa0\xe2\x80\xa0\xe2\x80\xa0 Currently supported with the latest Yahoo! Messenger for PCRecent changes:- No ads: we've removed all graphical ads from Yahoo! Messenger, so your experience is even more enjoyable.- Performance and stability improvements"
+p4
+tp5
+tp6
+.

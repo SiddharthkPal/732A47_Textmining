@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Play Music '
+p1
+tp2
+(S'Description:'
+p3
+S'The Google Play Music app lets you listen to your music collection anywhere. All your music is stored online, so no need to worry about syncing or storage space.* Music purchases from Google Play automatically appear in the app.* Add up to 20,000 more songs from your personal music collection on your computer for free.* Access your entire music library instantly with the Google Play Music app, and save your favorites for offline playback.* Share a free full play of the songs you purchase from Google Play with your friends on Google+.* Learn more about Google Play at http://play.google.com/about/Recent changes:v4.5.914I * Bug Fixes v4.5.910I * Instant mixes continue playing beyond 25 songs.* Added ability to shuffle an album, artist or playlist.* New default album art.* Previous button added to widget.* Pinning progress now shown on album and playlist pages.* Fix for the Galaxy S3 freezing issue.'
+p4
+tp5
+tp6
+.

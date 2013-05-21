@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TED Me '
+p1
+tp2
+(S'Description:'
+p3
+S'With this App, You can play TED Talk videos with subtitles of your language.- Fast and simple- Watch TED Talks with subtitles over 88 languages.- You can play with two different subtitles of language in the same time. (English + your own language)- Download and Bookmark Talks- When playing a video, it tells you if it is downloaded video or streaming play.- If you have a MePlayer Movie app, you can also use various useful  functions such as find dictionary, repeat functions, record and listen, and so on.  ( Please download MePlayer Movie (Pro) ver6.3 or higher. )- If you have a MePlayer Movie Pro (paid version), then all the ads will disappear.Recent changes:Update Subtitles button : if you have any problem with subtitles, please click this button.Fixed TED video subtitle sync mismatch.'
+p4
+tp5
+tp6
+.

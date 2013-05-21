@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Box '
+p1
+tp2
+(S'Description:'
+p3
+S'With 5GB free, Box makes it easy to access and edit your files, share content and stay connected with your team from anywhere on any device.* Share important files with your coworkers* Have your presentation at your fingertips* Comment on documents on the go* View updates to your spreadsheet instantlyBox allows you to do all these things and more! Box OneCloud is our ecosystem of apps where you can annotate, e-sign and do more with your favorite productivity apps. More than 120,000 companies - including 92% of the FORTUNE 500, rely on Box for simple, secure content sharing.Box for Android lets you:* Access, view, edit, share and manage files directly on your Android phone or tablet* Secure content with file-level encryption, passcode and auto logout when app is closed * Via Box OneCloud, open and edit Box files in other apps installed on your device* Save content directly to Box from more than 50+ compatible apps* Upload multiple images, videos and files from the SD card* Save files to your SD card for offline access* Easily share files and folders with links* Invite colleagues to shared folders and leave comments on files for them (note that you\xe2\x80\x99ll need to grant permission for the app to access your contacts \xe2\x80\x93 we only use this permission to quickly retrieve email addresses when you want to invite collaborators, and we do NOT store any contact information on Box\xe2\x80\x99s servers)* Find content fast with built-in search* Save files you edit or create in other Android apps to your Box account and access Box files from within other Android apps using the File Picker* Add a widget or shortcut to a file or folder on your home screen to see updates on files by colleagues\xe2\x80\x9cIn this firm, there\'s been a huge move to a new mobile workforce. Having cloud-based, mobile access to our content has saved an immeasurable amount of time." - Greg Dasher, Integrated Projects Director, Balfour Beatty ConstructionFor more information about 50 GB promotions, visit:https://cloud.box.com/promostags: box.net boxnet box.com cloudRecent changes:Added option to customize permissions of newly created shared links Added preview capability for audio and video files Polish translation update thanks to \xc5\x81ukasz Stefaniak! New Hebrew translation thanks to \xd7\x90\xd7\x9c\xd7\x99\xd7\xa9\xd7\x99\xd7\x91 \xd7\xa1\xd7\x91\xd7\x97!'
+p4
+tp5
+tp6
+.

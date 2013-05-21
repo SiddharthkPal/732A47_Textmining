@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tumblr '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x80\xa2 Post anything, from anywhere.\xe2\x80\xa2 Share photos, gifs, video, music, quotes, chats, links, and text. Find and follow the things you love, and get all your latest news from your dashboard.\xe2\x80\xa2 Bonus: Add a 'create a post' widget to your home screen.\xe2\x80\xa2 Advanced controls: Save drafts, queue posts, customize tweets, and more!\xe2\x80\xa2 Messages: View and reply to messages.\xe2\x80\xa2 Address book: Find people to follow from your address book.\xe2\x80\xa2 Multiple blogs: Seamlessly manage all of your blogs.Recent changes:\xe2\x80\xa2 Completely redesigned interface\xe2\x80\xa2 Fancy new post animations\xe2\x80\xa2 Images pop!\xe2\x80\xa2 Various bug fixesEnhancements:\xe2\x80\xa2 Facebook integration fixed\xe2\x80\xa2 Fix for replies on tablets"
+p4
+tp5
+tp6
+.

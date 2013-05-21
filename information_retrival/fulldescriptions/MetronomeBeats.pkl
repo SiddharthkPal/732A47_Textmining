@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Metronome Beats '
+p1
+tp2
+(S'Description:'
+p3
+S'A versatile metronome with a new Tablet layout.  Useful for music practice as well as exercise, golf putting practice, dancing, and many other activities.On smaller devices set the number of beats per bar and how you\xe2\x80\x99d like the beat subdivided on the Settings screen. When you start the metronome it switches to the Practice screen, with its useful beat indicators. The practice screen has controls for easily increasing and decreasing the tempo in small increments, so you can start slow and build up your speed with one touch of the screen. On larger devices all of these features can be reached on one handy screen using the new Tablet layout.Features include:-\tSelect any tempo from 10 to 300 beats per minute.-\tDon\xe2\x80\x99t know how many beats per minute you need? Then use the tap tempo button to select a tempo.-\tDisplays Italian tempo markings \xe2\x80\x93 handy if you\xe2\x80\x99re not sure how fast Vivace should be.-\tSubdivide the beat with up to 16 clicks per beat \xe2\x80\x93 so you can practice the timing of your triplets.-\tChoose whether to accent the first beat of the bar.-\tVisual beat indication - mute the sound and use the visualisations to follow the beat.-\tThe metronome automatically stops playing when there is an incoming call.-\tYour settings are saved automatically on exit \xe2\x80\x93 so you can carry on where you left off next time you play.-\tChange the pitch of the sound to make the metronome easier to hear over your instrument.If you like Metronome Beats, you might want to check out Metronome Beats Pro, which has even more features, including a wider range of sounds to choose from (wooden clave, traditional tick, etc), as well as a \xe2\x80\x9clive\xe2\x80\x9d mode where you can create and play set lists. Metronome Beats is supported by adverts, which is why it requires the \xe2\x80\x9cINTERNET\xe2\x80\x9d and \xe2\x80\x9cACCESS NETWORK STATE\xe2\x80\x9d permissions.For help on setting different time signature/beat combinations in Metronome Beats, see our blog post: http://stonekick.com/blog/?p=25Recent changes:- New layout for larger screens - choose portrait or landscape'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'World Atlas '
+p1
+tp2
+(S'Description:'
+p3
+S'World Atlas is your most comprehensive and accurate source of information on the World. Atlas of the world is useful for teachers/students for educational purposes.It contains information regarding all the countries of the world, their flags,maps and much more.Expand your knowledge - with over 200 countries and 200 capitals, this is the most complete atlas app on the market.Includes:*Flags*Currency*Capitals*Maps'
+p4
+tp5
+tp6
+.

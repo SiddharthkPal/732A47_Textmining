@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ComEd '
+p1
+tp2
+(S'Description:'
+p3
+S'ComEd\xe2\x80\x99s FREE mobile app allows customers to report their outage and check the restoration status right from their smartphone. Customers can also receive notifications as their outage status is updated and view the ComEd outage map for more details regarding their outage. In addition to the outage reporting functionality, customers can view their account summary and history, manage Budget Billing and automatic payments, report a meter reading and find a payment location. Customers will also be able to make a one-time payment through the app. The app will make it easy to manage more than one account at a time; customers can access up to five residential accounts through the mobile app.Recent changes:Now includes the Outage Map. Use the map to see where outages have occurred throughout the territory, and to view outage information in your community, such as the estimated time of restoration, crew status and probable cause of the outage.'
+p4
+tp5
+tp6
+.

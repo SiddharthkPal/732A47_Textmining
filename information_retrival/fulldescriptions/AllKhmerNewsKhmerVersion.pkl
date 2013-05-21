@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'All Khmer News - Khmer Version '
+p1
+tp2
+(S'Description:'
+p3
+S'All Khmer News Web Sites such as VOA News, Phnom Penh Post, CEN News, Dap-News, CamNews,  RFA News , Australia Radio, CNC News, KI Media, Moneak Sekar Khmer, RFI News, Sabay News,..ect in Khmer Version.Recent changes:- Added Kampuchea Tmey News and Khmer Load News web site into this Apps.'
+p4
+tp5
+tp6
+.

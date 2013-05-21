@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Exchange rate. All currency '
+p1
+tp2
+(S'Description:'
+p3
+S'Are you traveling or shopping abroad? Do you often convert one currency to another? This application is for you. Base contains more than 100 currencies and has a handy calculator that will help you to easily calculate the price of the goods in any currency in the world.  The app works offline, the online mode is only required for update currency. If you don\xe2\x80\x99t want to spend on expensive roaming, you can convert currencies offline, but don\xe2\x80\x99t forget to update these rates.Advantages:- Possibility to change the rate manual.- Ability to select priority currencies that will always be at the top.- Currency exchange rate since the last update.- Saving the last currency pair and changing the direction of exchange with one touch.Recalculation of foreign exchange rates is automatic after selecting the base currency. Directory contains the currencies that participate in the international Forex market, and contains rates of regional currencies. A complete list of currencies:Angola Kwanza, Argentina Peso, Australia Dollar, Bahamas Dollar, Bahrain Dinar, Barbados Dollar, Bermuda Dollar, Brazil Real, Brunei Dollar, Cambodia Riel, Canada Dollar, Cape Verde Escudo, Cayman Islands Dollar, Central African CFA Franc, Chile Peso, China Yuan, Colombia Peso, Czech Republic Koruna, Denmark Krone, Dominican Republic Peso, East Caribbean Dollar, Egypt Pound, Euro, Fiji Dollar, Guyana Dollar, Hong Kong Dollar, Hungaria Forint, India Rupee, Indonesia Rupiah, Iran Rial, Israel New Shekel, Jamaica Dollar, Japan Yen, Kazakhstan Tenge, Kenya Schilling, Kuwait Dinar, Macau Pataca, Malaysia Ringgit, Mexico Peso, Morocco Dirham, Mozambican Metical, Netherlands Antilles Guilder, New Zealand Dollar, Norway Krone, Oman Rial, Pakistan Rupee, Panama Balboa, Peru Neuevo Sol, Philippine Peso, Poland Zloty, Qatar Rial, Romania New Lei, Russia Rouble, Sao Tome and Principe Dobra, Saudi Arabia Riyal, Serbia Dinar, Singapore Dollar, South Africa Rand, South Korea Won, Sweden Krona, Swiss Franc, Syrian Pound, Taiwan Dollar, Thailand Baht, Trinidad and Tobago Dollar, Turkey Lira, Ukraine Hryvnia, United Arab Emirates Dirham, United Kingdom Pound, United States Dollar, Venezuelan Bolivar Fuerte, Vietnam Dong, West African CFA Franc, Yemen Rial.Count your money easily!Recent changes:bug fixed'
+p4
+tp5
+tp6
+.

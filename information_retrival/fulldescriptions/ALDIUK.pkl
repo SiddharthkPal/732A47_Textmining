@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ALDI UK '
+p1
+tp2
+(S'Description:'
+p3
+S'With this excellent new, free application you can receive the latest offers and find your local Aldi store. This includes our twice-weekly Specialbuy promotions where you can find a wide range of items. All at the highest possible quality and the lowest possible price.Menu Functions:* Menu "Special Buys": a quick overview of the offers from our twice-weekly Specialbuy offer days* Menu "Shopping list": Create and save your shopping list* Menu "Store Locator": a convenient store finder with store opening hoursThe best quality for the best prices \xe2\x80\x93 Aldi. Spend a little. Live a lot.Recent changes:* Minor bug fixes and improvements'
+p4
+tp5
+tp6
+.

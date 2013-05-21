@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TiKL Touch Talk Walkie Talkie '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 Over 25 million users worldwide and counting\xe2\x98\x85 Named "Top Developer" by Google.\xe2\x98\x85 Featured in the book "Amazing Android Apps for Dummies"\xe2\x98\x85 Top communication/social app for years\xe2\x98\x85\xc2\xa0Completely FREE. No hidden fee or ads.Instantly speak to or text one or many friends at once with the touch of a button. No setup needed, just have them in your address book or as Facebook friends. Fast and simple - TiKL turns your phone into the ultimate Push To Talk (PTT) Walkie Talkie with instant messenger capability.\xe2\x98\x85 Quick one-on-one/group voice push-to-talk calls.\xe2\x98\x85 Lightning fast chat with delivery confirmation.\xe2\x98\x85 Uses data connection only. No voice minutes or SMS used for TiKL calls or chats.\xe2\x98\x85 Works across carriers and Android/iPhone/iPad/iPod Touch.\xe2\x98\x85 Connects on WiFi, 3G, 4G, EDGE and GPRS.\xe2\x98\x85 Create widgets by long pressing any blank space on your home screen.\xe2\x98\x85 What if their device is off? No worries. TiKL automatically delivers your messages the moment it is turned on.We are on Facebook and Twitter:http://www.tikl.mobihttp://www.facebook.com/TiKL.TouchToTalkhttp://twitter.com/TiKLTouchToTalkTo ensure that you do not miss any incoming TiKL calls or chats, please launch the app at least once after installing/upgrading it.If things don\'t work after updating, please uninstall and reinstall.Recent changes:2.13:\xe2\x98\x85 Shows which contacts have the app2.12:\xe2\x98\x85 By popular demand, restored door-bell ringtone. Added ringtone options under Settings->Audio Settings->TiKL ringtone.2.11:\xe2\x98\x85 Support chat with new TiKL on iPhone2.6:\xe2\x98\x85 Added option to use the volume-up button to PTT. Enable it in menu Settings.2.2:\xe2\x98\x85 Send and receive unlimited free picture, video and voice chat messages, delivered super fast!\xe2\x98\x85 Create home screen widgets for individual TiKL favorite or TiKL chat.'
+p4
+tp5
+tp6
+.

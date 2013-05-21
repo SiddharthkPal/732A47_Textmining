@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Garage Sale Rover FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"Locate local garage sales, yard sales, tag sales and estate sales on a map. We have created what some consider to be the ultimate garage sale locator and map tool!  Make your time garage sale treasure hunting productive and fun.FEATURES:\xe2\x96\xa0 Search for sales of interest (childrens clothes, legos, tools, dvds, storage auction, etc.) \xe2\x96\xa0 Neighborhood preview.  View the neighbhood before setting your route. \xe2\x96\xa0 Save your favorite sales for route planning.\xe2\x96\xa0 Get the nation's largest mapped garage sale database! \xe2\x96\xa0 Quickly add additional sales at garagesalerover.com.Garage sale classifieds... on a map... in my hand.Navigation App LLC is not affiliated with Craigslist Inc.Recent changes:Removed ads."
+p4
+tp5
+tp6
+.

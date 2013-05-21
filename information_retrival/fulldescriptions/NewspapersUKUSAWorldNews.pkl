@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Newspapers UK, USA, World News '
+p1
+tp2
+(S'Description:'
+p3
+S'Newspapers for local, national and international news: Read the major news for your country UK, USA, Canada and 30 more, or quickly change country for different selections of newspapers.- The app has a "full desktop version of news site" option, which allows you to read many newspapers which are usually only available by subscription on their mobile newspaper version. Some newspapers, e.g. The Times and The Financial Times, are still only available by subscription.\xe2\x9c\x93  Add newspapers (long-click on a newspaper) or other websites onto the FAVOURITES TAB.\xe2\x9c\x93  Change font size.\xe2\x9c\x93  Select & Copy text inside the newspaper\xe2\x9c\x93  Newspaper pages are cached for faster navigation, and deleted on exit to save memory.\xe2\x9c\x93  Share article via gmail, twitter, facebook, etc..\xe2\x9c\x93  Add your own newspaper!\xe2\x9c\x93  Save article to SD to save news articles to your phone for offline reading.\xe2\x9c\x93  App 2 SD\xe2\x9c\x93  Supports Flash Video on some news websites\xe2\x9c\x93  Perfectly compatible with Tablets (Honeycomb, Android 3.0+, Ice Cream Sandwhich, Jelly Bean)\xe2\x9c\x93  Local English, Welsh, Irish and Scottish news added.\xe2\x9c\x93  Weather, Sports news, Financial newspapers, Gossip and more.Local and National Newspapers from over 30 countries, for a total of over 3,000 newspapers are included. Countries supported include Australia, France, Germany, Ireland, Italy, Japan, Spain, India, Malaysia, Indonesia, Thailand, Switzerland, United Kingdom, England, Scotland, USA.If you want another newspaper to be included in the list, please send us an email.'
+p4
+tp5
+tp6
+.

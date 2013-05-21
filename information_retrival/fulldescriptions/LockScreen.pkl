@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lock Screen '
+p1
+tp2
+(S'Description:'
+p3
+S'Lock screen in anywhere\xef\xbc\x81Touch the suspended icon to lock screen, completely liberate the power button.Please assign Auto-lock right to Lock screen. We are so sorry that a lot of users are haunted by the problem of unable to uninstall. Actually, there is no problem about uninstalling Lock Screen. Because of the Android OS, you need to deactivate \xe2\x80\x98Lock Screen\xe2\x80\x99 before you uninstall it.You can uninstall in the Setting of Lock Screen or uninstall it by following operation: click "Settings\xe2\x80\x94>Security\xe2\x80\x94>Device administrators" to shut off Lock screen.Please let me know if you meet any bugs or want any improvement!E-mail: golauncher@goforandroid.comRecent changes:1.(Improve) Optimize the setting  interface'
+p4
+tp5
+tp6
+.

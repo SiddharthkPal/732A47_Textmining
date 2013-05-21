@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simply Yoga FREE '
+p1
+tp2
+(S'Description:'
+p3
+S'Your own personal yoga instructor wherever you are! FEATURES: \xe2\x9c\x93 Level one 20, 40 and 60 minute workouts \xe2\x9c\x93 Video demonstrates how to get into each pose \xe2\x9c\x93 Audio instructions for entire routine \xe2\x9c\x93 30+ poses \xe2\x9c\x93 3 predefined routines \xe2\x9e\xa4 Featured in WIRED magazine!!! Simply Yoga is your own personal yoga instructor. The app contains a 20, 40 and 60 minute yoga routine that step you through each pose. Each pose is demonstrated by a certified personal trainer, so simply choose your workout length and follow along in the comfort of your own home! *If you like Simply Yoga FREE, check out the full version which features: \xe2\x80\xa2 A second set of workouts (Level 2) \xe2\x80\xa2 Create custom routines from all poses \xe2\x80\xa2 Landscape mode \xe2\x80\xa2 Ad-freeRecent changes:- Enhancements and bug fixesThanks for using the Daily Workout Apps!www.dailyworkoutapps.comFacebook:    facebook.com/DailyAbWorkoutApp Twitter:        twitter.com/danielmillerapp'
+p4
+tp5
+tp6
+.

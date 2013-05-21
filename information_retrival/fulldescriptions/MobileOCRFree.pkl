@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mobile OCR Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your smartphone into a document scanner with character recognition (OCR). Mobile OCR will convert your scanned documents from your camera or photo album into a regular text.This app is simple & reliable : 100% satisfied or refunded.Mobile OCR is compatible with more than 25 languages including : Bulgarian, Catalan, Czech, Chinese (Simplified), Chinese (Traditional), Danish, German, Greek, English, Finnish, French, Hebrew, Hindi, Croatian, Hungarian, Indonesian, Italian, Japanese, Korean, Latvian, Lithuanian, Dutch, Norwegian, Polish, Portuguese, Romanian, Russian, Slovakian, Slovenian, Spanish, Serbian, Swedish, Tagalog, Thai, Turkish, Ukrainian, Vietnamese. keyworks : ocr, goggles, pdf, scanner, documentRecent changes:-App crashes after camera rotation fixed'
+p4
+tp5
+tp6
+.

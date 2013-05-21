@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'QR Code Reader '
+p1
+tp2
+(S'Description:'
+p3
+S'QR Code Reader[Keywords]QR Code Reader, Barcode, reader, scanner, code, scan, website, buy, purchase, game, qrcode, qrcode scanner, qrcode reader, QR Code Reader, Barcode, reader, scanner, code, scan, website, buy, purchase, game, qrcode, qrcode scanner, qrcode reader'
+p4
+tp5
+tp6
+.

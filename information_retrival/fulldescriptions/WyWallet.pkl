@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WyWallet '
+p1
+tp2
+(S'Description:'
+p3
+S'WyWallet - mobila betalningar!Nu kan du:\xe2\x80\xa2 Skicka pengar direkt till dina v\xc3\xa4nner. Allt du beh\xc3\xb6ver \xc3\xa4r deras telefonnummer.\xe2\x80\xa2 Fylla p\xc3\xa5 alla svenska kontantkort direkt i appen.\xe2\x80\xa2 Betala SMS-k\xc3\xb6p (lokaltrafik, parkering, ringsignaler mm).\xe2\x80\xa2 G\xc3\xb6ra k\xc3\xb6p i andra appar.\xe2\x80\xa2 Handla enkelt och s\xc3\xa4kert p\xc3\xa5 n\xc3\xa4tet.Vem kan bli WyWallet-kund?Idag kan alla personer med svenskt personnummer och svensk folkbokf\xc3\xb6ringsadress bli WyWallet-kunder.Hur funkar det?Du registrerar enkelt ett WyWallet-konto i appen som du fyller p\xc3\xa5 fr\xc3\xa5n din bank eller fr\xc3\xa5n ett kreditkort. Om du vill kan du koppla ditt kort s\xc3\xa5 att det automatiskt fyller p\xc3\xa5 n\xc3\xa4r saldot tar slut. Du kan ocks\xc3\xa5 v\xc3\xa4lja att betala via m\xc3\xa5nadsfaktura. Om du vill betala med faktura g\xc3\xb6r vi en kreditupplysning direkt s\xc3\xa5 att du kan komma ig\xc3\xa5ng inom n\xc3\xa5gra minuter.Smidigt!Hur kommer jag ig\xc3\xa5ng?1. Ladda ner appen till din telefon (iPhone, Android mm) eller g\xc3\xa5 in p\xc3\xa5 v\xc3\xa5r hemsida (wywallet.se) och registrera dig.2. \xc3\x96verf\xc3\xb6r pengar fr\xc3\xa5n din bank eller kontokort till ditt WyWallet-konto eller v\xc3\xa4lj att betala med faktura.3. Klart! Nu \xc3\xa4r du redo f\xc3\xb6r k\xc3\xb6p, \xc3\xb6verf\xc3\xb6ringar eller att ta emot pengar i din mobila pl\xc3\xa5nbok!Har du en f\xc3\xb6retagstelefon?D\xc3\xa5 kan du l\xc3\xa4gga in ditt privata WyWallet-konto och anv\xc3\xa4nda alla v\xc3\xa5ra tj\xc3\xa4nster. Vi har dessutom gjort det busenkelt f\xc3\xb6r dig att ta fram en specifikation p\xc3\xa5 dina jobbutl\xc3\xa4gg f\xc3\xb6r att skicka till ekonomiavdelningen. Det g\xc3\xb6r du p\xc3\xa5 wywallet.se!Om WyWalletBakom f\xc3\xb6retaget WyWallet st\xc3\xa5r Sveriges ledande mobiloperat\xc3\xb6rer; Telia, Tele2, Telenor och 3. Du kan lita p\xc3\xa5 att din mobila pl\xc3\xa5nbok \xc3\xa4r i trygga h\xc3\xa4nder.Recent changes:v 1.5:- F\xc3\xb6rb\xc3\xa4ttringar i k\xc3\xb6pfl\xc3\xb6det v. 1.10:- Buggfix f\xc3\xb6r att hantera n\xc3\xa4r en kontakt har flera nummer i kontaktboken.v. 1.05:F\xc3\xb6rb\xc3\xa4ttringar i uppkoppling och serverkommunikation.v. 1.04:- Problem med l\xc3\xb6senordet verifiering under registrering- Problem med 1.02 signering- Problem n\xc3\xa4r man v\xc3\xa4ljer kontakt fr\xc3\xa5n google telefonbok'
+p4
+tp5
+tp6
+.

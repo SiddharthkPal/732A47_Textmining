@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WhatsApp 2Date '
+p1
+tp2
+(S'Description:'
+p3
+S"You are curious what new features the new WhatsApp update will bring?New Emoticons? New functionality? New layout?Why waiting so long untill there's a new version in the Play Store?This app is looking for official pre-releases, that are released before a new WhatsApp release hits the Play Store.If you want this app checks periodic if there's a new pre-release and notifies you. If you want it can install the new release.Yes the PlayStore-Version can become higher than the Server-Version. In this case this app notifies you that there is a new version and the download-button leads to the official PlayStore-entry of WhatsApp, so you can update as usual.Now there's a setting for tablet user to prefer server-versions only and disable notification on new PlayStore-Versions.Stay bleeding edge and up2date :-).To be able to install the prereleases you have to activate Allow app installs from 'unknown sources' option.Refer to: http://www.androidcentral.com/allow-app-installs-unknown-sourcesPlease please keep in mind, it's still betaPlease please keep also in mind, that i'm not responsible for the content or problems that may come with updatesDiscussion about this app via g+ http://bit.ly/11hBVrAXDA-Dev-Forum: http://bit.ly/WKU7D5Help translating: http://bit.ly/ZBveOuUsed Permissions:CONTROL VIBRATION: To to vibrate on notificationFULL NETWORK ACCESS: Used to check if there is inet available and get some data from the inet (refresh server-version-info and download)MODIFY OR DELETE THE CONTENTS OF YOUR USB STORAGE MODIFY OR DELETE THE CONTENTS OF YOUR SD CARD:The new WhatsApp-Version is temp. stored in the default download-directoryRecent changes:(thx goes to Philipp Drexler for suggestions and new UI-Sketch)3.12 - added italian translation - thx Federico Moretto - small improvements and fixes3.11 - fixed issues with the new download-method - dutch translation added - thx Gilles Bonn\xc3\xa93.10- added option to translate changelog (as requested)- using android-downloadmanager for download-handling- small improvements and fixesFor see details in the app."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rosetta Course '
+p1
+tp2
+(S'Description:'
+p3
+S"Rosetta Course\xc2\xae brings the award-winning Rosetta Stone\xc2\xae language-learning method to Android devices, helping you build confidence as you learn\xe2\x80\x94anywhere you're connected.Not already a Rosetta Stone learner? Don't worry, you can create a free demo account today and start learning a new language!Take the award-winning Rosetta Stone software with you. \xe2\x80\xa2 Learn to speak*, listen, and read in a new language through our engaging, active, learning environment. \xe2\x80\xa2 Fine-tune your pronunciation with proprietary, advanced speech-recognition technology you won\xe2\x80\x99t find anywhere else.*\xe2\x80\xa2 Maintain momentum when you\xe2\x80\x99re on the go with progress that syncs across devices.\xe2\x80\xa2 Enjoy our interactive course in an experience streamlined for your Android device. The Rosetta Course app for Android does not currently support Classroom and Enterprise learners.* Speech features may not be available on all devices."
+p4
+tp5
+tp6
+.

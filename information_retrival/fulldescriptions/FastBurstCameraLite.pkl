@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fast Burst Camera Lite '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 This app is awesome! I can take great pics of my daughter indoors...unlike the blurry mess that I get from the stock camera app. This is my new favorite app! - Eli Mercer\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 I love this app. I have gotten some great shots that I wouldn't of with my regular camera on my phone. - Anne Burgamy\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 I installed this app while on vacation and it captured some of the most awesome pictures, fast speed, or still shots. It's one of my all time favorite apps. - Terry SmithThis is the fastest camera app available for Android. Fast Burst Camera is capable of taking 30 photos per second. ( on low-end devices, 5-10 photos per second is possible ) Hold shoot button for continuous burst, or tap for fast single shots.Zero shutter lag - pictures are taken as soon as shutter button is pressed.\xe2\x98\x85 Full version only : flash, focus and zoom. Shutter sound can be turned of.\xe2\x98\x85 Shoot modes- Single shot- Full Burst- Pre-shot- Motion trigger\xe2\x98\x85 Built-in editor- Add filters, frames, text and more- Adjust brigthess and colours- Create animated GIFS and collages\xe2\x98\x85 Great for - sports shots- pictures of kids or pets- party camera - taking a burst of pictures in an important situation, and pick the best later- analyse your golf swing frame-by-frame- Parkour shots\xe2\x98\x85 Tips for good burst photos- get as much light as possible - especially when capturing things or people in motion- keep the camera steady - hold the shoot button for continuous bursts, and pick the good shots later\xe2\x98\x85 Support : email me at support@spritefish.com. All mail will be answered.I stand by my products - if you experience a problem, I'll will either fix it or refund your purchase.Note : due to the high speed, pictures are not taken in the highest resolution possible. Zoom and flash not available on all devices.Recent changes:Fixed issue with saving photos on some devices"
+p4
+tp5
+tp6
+.

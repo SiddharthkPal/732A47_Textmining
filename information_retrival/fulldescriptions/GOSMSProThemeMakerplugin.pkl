@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO SMS Pro Theme Maker plug-in '
+p1
+tp2
+(S'Description:'
+p3
+S'GO SMS Pro Theme maker plug-in allow you to design and create your own personalized wallpaper freely, set the font and color, and apply to the main program step by step as DIY theme, hope you enjoy it!Be noticed: To better use the Theme Maker plug-in,we recommend you update your GO SMS Pro to version v3.70 (or latest).*** Main features *** 1. Fully support main GO SMS views, including Messages view, Conversation view and Pup-up windows view2. Dual-mode, you can either use an existing template directly, or create wallpaper using Free Mode3. Powerful wallpaper creating function. You can replace the background image, insert a small image and frame4. The wallpaper can be applied to the main program directly, and set the font color and size to it5. You can publish your DIY theme so that other users can download it *** Direction ***1. Choose Free Mode or Template Mode to make wallpaper for Messages & Conversation view (Same as Pop-up view)2. In template mode, please modify the green area; in Free mode, you make change everything according to the button3. Save the wallpaper (from MENU or press device\xe2\x80\x99s Return button)4. Apply your wallpaper step by step, and set the font size, color etc meanwhile, through "Apply & Set My Theme"5. Please write down your name,your theme name and the description when publishing your DIY themePlease read the Direction carefully. Thanks.gosmstheme theme maker gosmspro GO SMS ProRecent changes:Theme Maker Plug-in v1.7 Update (2011-9-29) 1. Optimize the process of making themes2. Optimize the theme thumbnails displaying in the  theme shop of main program3. Optimize theme release process, support resume4. Optimize the main interface5. Optimize the theme searching function6. support modify and share wallpaper7. Fix some other bugs Note\xef\xbc\x9aTo ensure that you can browse thumbnails better,we recommand you to update GO SMS Pro to the latest verion(v3.70 or above)'
+p4
+tp5
+tp6
+.

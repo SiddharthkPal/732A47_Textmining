@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Manga Generator '
+p1
+tp2
+(S'Description:'
+p3
+S'This APP is for that generating Japanese MANGA-like image.Share your MANGA via Facebook or Twitter.Just Enjoy!I have three-MANGA APP.\xe3\x83\xbbManga Generator...Gallery is Available, but only for japanese local devices\xe3\x83\xbbMANGA FU CAMERA...Simple Intuitive Usage, but only for japanese local devices.\xe3\x83\xbbParaPara Manga Fu Camera...It\'s like a video movie. but only for japanese local devices.Why don\'t you try "MANGA FU CAMERA" instead, please !Not working on Motorola devices (since motorola japan model is OK)Only working well for Japanese domestic devices.Tested devices\xef\xbc\x9aSC-06D(Galaxy S3), SC-02B(Galaxy S), ISW11SC(Galaxy S2), SC-04D(Galaxy Nexus), Nexus S, INFOBAR C01, 101K(Honey Bee), IS03, L-01D. N-06C(Medius)OK devices Reported by user\xef\xbc\x88Thanks a lot !\xef\xbc\x89SO-01C(Xperia arc), SO-03D(Xperia acro HD), IS11S(Xperia acro), IS12S(Xperia acro HD), SO-04D(Xperia GX), 009SH(AQUOS PHONE THE PREMIUM), SH-01D(AQUOS PHONE), SH-06D(AQUOS PHONE), SH-13C(AQUOS PHONE f), IS15SH(AQUOS PHONE SL), F-10D(ARROWS X), ISW13F(ARROWS Z), SC-05D(GALAXY NOTE), IS11T(REGZA Phone), ISW12HT(HTC EVO3D), N-06C(MEDIAS WP), L-02D(PRADA phone), COOLPIX S800c, IS12M(MOTOROLA RAZR), F-05D(ARROWS X LTE), T-02D(REGZA Phone)Recent changes:v3.3 enable using picasa imagev3.1 add free scenesv3.0 make more fasterv2.2 revised Manganized-Algorithmv2.1 revised UIv2.0 open the shopv1.0 release version'
+p4
+tp5
+tp6
+.

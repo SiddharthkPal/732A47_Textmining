@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Movie HD Player MP4 AVI RMVB '
+p1
+tp2
+(S'Description:'
+p3
+S"Dear friends:How have you been doing?I'm fine.Here I want to share an extremely great app with you.I like it very much.This is a video player which can support many popular video formats,including RMVB,MP4,AVI,etc.The reason why I am crazy about it is that it can take screenshot very easily.You know me,I like to collect all the beautiful pictures.Many times,there are so many pretty scene I want ,but I can do nothing but wait and search for it on the Internet.This time,I can catch any beautiful and moving moment in the movies and have no difficulty.What's more,I can adjust the screen mode as much as I like.Crop,stretch,well fit screen ,100% or any other percentage of the screen.When I lie in the bed and enjoy my favorite movies,I will lock the screen with just single tap on the locker icon.Really easy and convenient.Better than other video players in the market.I have fell in love with it.So I recommend it to you.You can download it and have a try.I believe you will have the same feeling.If you have any problems,just send them an email.They will try their best to solve them.Looking forward to your reply.***********************************NB**********************************Notification ads or icon ads are included for better service and keeping all these great apps free.***********************************************************************"
+p4
+tp5
+tp6
+.

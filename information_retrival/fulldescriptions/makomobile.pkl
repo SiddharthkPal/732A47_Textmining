@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'mako mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Get up to the minute news and entertainment updates from mako - Israel's leading news and video portal. Enjoy all of the latest headlines and articles in entertainment, sports, lifestyle, travel, the digital world, music, and everything you need to know to keep you up to date.Recent changes:minor bug fix"
+p4
+tp5
+tp6
+.

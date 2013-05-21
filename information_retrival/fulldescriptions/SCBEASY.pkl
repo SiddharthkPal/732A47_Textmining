@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SCB EASY '
+p1
+tp2
+(S'Description:'
+p3
+S"SCB Easy Application \xe2\x80\x93 manage your money wherever you are 24/7 with the new mobile application from SCB.No time wasted for new registration. Just log in with your login name and password of SCB Easy Net, the application can be used right away. But if you don't have the SCB Easy Net ID, simply sign up for it from right inside the application, www.scbeasy.com, any SCB branches, or ATMs, free of charge!Offered Services:Easy to check your account balance and statement.Easy to access all your accounts at one place.Easy to make funds transfer of your choice around the clock.Easy to pay bills with hundreds of billers on offer.Easy to top up your mobile phone and Express Way Easy Pass.Easy to manage your mutual fund portfolio.Easy to check your statements, pay your credit cards, and review your SCB Reward points.Easy to manage your personal information.Easy to keep up with app notifications for every movement of your accounts.Easy to locate  SCB branches or ATMs near you."
+p4
+tp5
+tp6
+.

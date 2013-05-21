@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Technology and Science News '
+p1
+tp2
+(S'Description:'
+p3
+S'Technology and Science News is a feed reader that gathers and displays technology web feeds from various websites and news aggregator sites like Google News. Use it to get daily updates on technology and science.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HSBC Australia '
+p1
+tp2
+(S'Description:'
+p3
+S'Manage your HSBC bank accounts on your phone, wherever you are in the world.With HSBC Mobile Banking, you can:\xe2\x80\xa2\tView your account balances and transaction history\xe2\x80\xa2\tTransfer money across HSBC and other bank accounts\xe2\x80\xa2\tPay bills via BPAY to exisiting billers\xe2\x80\xa2\tTransfer foreign currency with Get Rate\xe2\x80\xa2\tSend international money transfers via Telegraphic Transfers\xe2\x80\xa2\tSave and retrieve transfer templates on the go\xe2\x80\xa2\tFuture dated transfers and BPay\xe2\x80\x99s\xe2\x80\xa2\tOpen Term Deposits\xe2\x80\xa2\tFind your nearest ATM and branch\xe2\x80\xa2\tView foreign currency rates\xe2\x80\xa2\tUse foreign currency calculators\xe2\x80\xa2\tSend and receive secure messages to and from HSBC\xe2\x80\xa2\tAuthorise business banking transactions\xe2\x80\xa2\tView Home&Away offers near youIn addition, use the built in Country Selector to switch between different HSBC Mobile Banking sites across the globe.Look out for more updates to come.Online security:HSBC\xe2\x80\x99s Mobile Banking offers you the same level of security as our full Internet Banking service via the use of our Online Security Device and enhanced encryption certificate (EV SSL).Information about using this application:Data charges may apply.  Please contact your service provider for more information.  Your personal and financial information is stored securely within HSBC\xe2\x80\x99s systems and is not stored on the application itself.For help using the service, please contact HSBC Customer Service directly on 1300 308 008'
+p4
+tp5
+tp6
+.

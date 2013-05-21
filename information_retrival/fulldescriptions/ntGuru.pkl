@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ntGuru '
+p1
+tp2
+(S'Description:'
+p3
+S'Paklausti draugo buto kainos \xe2\x80\x93 nemandagu. Turime jums kur kas geresn\xc4\xaf sprendim\xc4\x85 - pasikonsultuoti su \xe2\x80\x9entGuru\xe2\x80\x9c program\xc4\x97le, kuri parodys naujausius pasirinktoje vietoje \xc4\xafvykdytus pardavimo sandorius ir vidutin\xc4\x99 but\xc5\xb3 kain\xc4\x85.Pasinaudodami program\xc4\x97le su\xc5\xbeinosite: - Aplink j\xc5\xabs\xc5\xb3 buvimo viet\xc4\x85 esan\xc4\x8dio nekilnojamojo turto vidutin\xc4\x99 kain\xc4\x85;- Paskutini\xc5\xb3 \xc4\xafvykusi\xc5\xb3 sandori\xc5\xb3 j\xc5\xabs\xc5\xb3 buvimo vietoje vidutines kainas;- Pasirinkto miesto, rajono ar gatv\xc4\x97s nekilnojamojo turto vidutin\xc4\x99 kain\xc4\x85;- Paskutini\xc5\xb3 3 m\xc4\x97n. sandori\xc5\xb3 pasirinktame mieste, rajone ar gatv\xc4\x97je vidutines kainas. Paspaud\xc4\x99 "Pirkti/parduoti\xe2\x80\x9c galite susisiekti su brokeriu ir su\xc5\xbeinoti apie geriausius pasirinktoje vietoje parduodamus butus arba parduoti savo but\xc4\x85.Nor\xc4\x97dami gauti tikslesn\xc4\xaf savo ar norimo \xc4\xafsigyti buto vertinim\xc4\x85, paspauskite "\xc4\xaevertinti turt\xc4\x85" ir susisiekite su turto vertintojais.\xe2\x80\x9entGuru\xe2\x80\x9c pateikiama informacija yra ne senesn\xc4\x97 nei 12 m\xc4\x97nesi\xc5\xb3. Informacijai naudojami V\xc4\xae "Registr\xc5\xb3 centras" teikiami duomenys.-----Keywords:ntGuru, nekilnojamas turtas, nekilnojamasis turtas, nekilnojamo turto kainos, kainos, butai, namai, but\xc5\xb3 kainos, nam\xc5\xb3 kainos, ntguru.ltRecent changes:2013.04.05:Optimizuotas paie\xc5\xa1kos algoritmas kuomet program\xc4\x97l\xc4\x97 kartais nerodydavo rezultat\xc5\xb3.-----2013.03.20:Pataisyta l\xc5\xab\xc5\xbeimo prie\xc5\xbeastis, kuomet i\xc5\xa1 program\xc4\x97l\xc4\x97s nu\xc4\x97jus \xc4\xaf E-mail apps\xc4\x85 ir paspaudus Back, program\xc4\x97l\xc4\x97 nul\xc5\xab\xc5\xbedavo.'
+p4
+tp5
+tp6
+.

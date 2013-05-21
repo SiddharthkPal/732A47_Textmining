@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Picasa Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Download Albums from the Picasa Web Albums.This is a very simple application you can use to download full albums from the Picasa Web Albums to your phone so that you can view them offline anytime.Please contact me by email for requests, help and errors.Works for both public and private albums!New features are coming soon.The application is using google analytics to track application usage.KW: picasa, picasaRecent changes:- fix issue with private albums'
+p4
+tp5
+tp6
+.

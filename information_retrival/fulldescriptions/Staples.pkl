@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Staples '
+p1
+tp2
+(S'Description:'
+p3
+S'The Staples mobile app does more than put 100,000 Staples products in the palm of your hand. You also get 150 advanced features.So go ahead \xe2\x80\x94 redeem coupons and rewards. Compare product prices and features. Scan a barcode to check product availability. View your order history and update shopping lists. And above all, add some easy to your workday.See the Staples Mobile App in action here when you watch the video:http://www.youtube.com/watch?v=dRzUSaoXq-8&feature=itunesFaster, simple reordering.\xe2\x80\xa2 A virtual supply closet for easy reordering\xe2\x80\xa2 Build lists using your order history, scanning products in store and browsing onlineAll your rewards.\xe2\x80\xa2 Paperless, hassle-free Rewards, right to you\xe2\x80\xa2 Access your Rewards history, redeemable checks and current balance\xe2\x80\xa2 Get alerts when Rewards are close to expiringSo many deals.\xe2\x80\xa2 All your deals are one touch away\xe2\x80\xa2 Dashboard features our Weekly Ad, coupon wallet and store check-in couponsFind what you need.\xe2\x80\xa2 Find your ink or toner\xe2\x80\xa2 Find the nearest store\xe2\x80\xa2 Scan products anywhere to find item detailsEasy online shopping.\xe2\x80\xa2 Compare products and read reviews\xe2\x80\xa2 See in-store inventory**** Application Permissions ****TAKE PICTURES AND VIDEOS (CAMERA ACCESS)This application will use camera when you scan QR code, Barcode or optionally when you are requesting product concierge help. (E.g. Scan products to compare features, Scan receipt to file Easy Rebate)FINE (GPS) LOCATIONThis application will use GPS to determine store locations, directions to store and Store check-ins (optional coupons for checking in)MODIFY/DELETE USB STORAGE CONTENTS MODIFY/DELETE SD CARD CONTENTSThis access allows you to move the application to SD card as you manage your storage**** Application Permissions ****Recent changes:- Location-based alerts have been removed from the app to address the issue some customers experienced with the location indicator arrow staying on all the time.'
+p4
+tp5
+tp6
+.

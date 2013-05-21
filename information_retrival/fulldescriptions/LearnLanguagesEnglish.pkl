@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn Languages: English '
+p1
+tp2
+(S'Description:'
+p3
+S'The Learn Languages: English app is divided into 3 main sections which allow you to improve your language skills. Each of the major sections is described below:1) LISTENINGThe app dictates the text in a website in English while you read along. Practice your listening and reading at the same time. For example, you can brush up on your English by having the app read a website or a RSS to you.2) PHRASEBOOKOur phrasebook give you a comprehensive mix of practical and social words and phrases. Tap a phrase and it will be spoken for you in your language and then in English. 3) TRANSLATE Translate lets you instantly translate between the following languages:- English- Spanish- French- Italian- GermanMark your favorite translations for easy access in the future.In addition, the app provides a list of related phrases.[ IMPORTANT INFORMATION ]- You must have installed the English "Pico TTS" and the "Pico TTS" for the language configured on your mobile. To check this go to Android Settings -> Voice Input & Output -> Text-to-Speech settings > Pico TTS (Pico TTS settings) and then click on "Install voice data" and install at least the English "Pico TTS", and the "Pico TTS" for the language configured on your mobile- To check whether your phone has voice recognition capabilities make sure you have this package installed on your mobile: Voice recognition: "Voice search"- The supported languages are: English, Spanish, French, Italian and German.Recent changes:- Phrasebook: 100 new phrases added- Source code has been optimized'
+p4
+tp5
+tp6
+.

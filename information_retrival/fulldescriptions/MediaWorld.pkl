@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Media World '
+p1
+tp2
+(S'Description:'
+p3
+S"Nuove grafiche, migliore usabilit\xc3\xa0, contenuti rinnovati\xe2\x80\xa6ora disponibile l\xe2\x80\x99ultima versione dell'APP MediaWorld!Scopri subito la nostra nuova home all\xe2\x80\x99interno della quale troverai un banner con promozioni imperdibili, due sezioni dedicate alla Media World Multicard grazie alle quali potrai avere sempre a portata di mano la tua fidelity card e scoprire quali premi sono gi\xc3\xa0 richiedibili, la sezione News e Video che ti rappresenter\xc3\xa0 le news da noi selezionate ed i video sul canale You Tube di Media World, ed infine la sezione punti vendita che ti permetter\xc3\xa0 di trovare il negozio pi\xc3\xb9 vicino alla tua posizione, visualizzare la mappa per raggiungerlo, verificare gli orari di esercizio, le aperture e chiusure straordinarie.Tra le altre funzionalit\xc3\xa0 presenti in men\xc3\xb9:- Top of the shop, con le migliori offerte Media World suddivise per categoria- Game club, con le novit\xc3\xa0 e promo dedicate agli appassionati dei giochi per consolle-          Il Volantino, contenente le promozioni a volantino-          La Collection, che ti permetter\xc3\xa0 di sfogliare il catalogo premi e visualizzare i pi\xc3\xb9 votati-          Assistenza, che consente di verificare lo stato di riparazione di un prodotto lasciato in assistenza- Lettore Qr Code e Barcode integrato in APP, che ti permetteranno di accedere pi\xc3\xb9 agevolmente alle iniziative digitali a te riservateCosa aspetti? Entra subito nel mondo di MediaWorld, tante sorprese ti aspettano!Recent changes:Review grafica e aggiunta nuovi contenuti"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Remote Wave Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Please try the paid version if you can not see "Remote Wave" when you open attachment from your email clients.Play GSM/WAV/AU voicemail attachment.Support following encodings:ULaw(MULaw)GSM6.1IMA/MS/Dialogic/OKI ADPCMDSP TrueSpeech**Attention:Must work with other apps, In email,browser, etc, Press file->"open with"->"Remote Wave".Sub project of Remote RDP'
+p4
+tp5
+tp6
+.

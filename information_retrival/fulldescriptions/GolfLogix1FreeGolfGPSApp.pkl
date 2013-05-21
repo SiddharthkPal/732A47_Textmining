@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GolfLogix #1 Free Golf GPS App '
+p1
+tp2
+(S'Description:'
+p3
+S'#1 Golf App Worldwide - 4 Years in a Row. FREE Golf GPS, 3D Courses, Scores & Stats.Golf Digest Personal Round Analysis/Lessons.Exclusive Equipment Deals from Golfsmith.With over 2 Million Members, join the World\xe2\x80\x99s Largest Golf Club for FREE!Battery Tip:  To save battery life, under App Settings set "GPS Live on Auto-Lock" to OFF and you will have no issues with battery life on the course.The #1 Golf App includes the following for your Android:-\tFree Golf GPS on any course in the world.-\tFree yardage book 3D color course images.-\tFree 4-player scoring, stats and handicaps.-\tGolf GPS to Front, Back & Center of Greens.-\tDaily Pin Positions. -\tGolf GPS Targets to any point on the Course.-\tGolf GPS to all Layups and Hazards.-\tVideo Flyovers of every Hole.-\tMy Golf Digest personal Analysis/Lessons.  -\tGolf Digest Live videos and tips from Mickelson,        Harmon, Leadbetter and more.-\tGolfsmith Pro Shop with exclusive product offers.-\tPatented Club Tracking. The GolfLogix Golf GPS App is proudly endorsed by 9-time PGA TOUR Winner and Masters Champion Zach Johnson.  See why millions of golfers trust GolfLogix, the #1 Golf App and world leader in Golf GPS software since 1999. Download GolfLogix, the #1 Golf App today!   It\xe2\x80\x99s EASY, FAST, FUN and best of all, it\xe2\x80\x99s FREE!Recent changes:Version 2.8 now includes: Facebook Connect Sign UpNew Fast and Easy Main Menu NavigationLarge "To Green" Distance on the Play ScreenNew GolfNews Twitter Feed'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Carrefour Saudi '
+p1
+tp2
+(S'Description:'
+p3
+S"Attention Shoppers! Carrefour's intelligent little app is now available on all major phones tailored especially for you, which you'd only expect from a major retailer in the region: whether you are in the kitchen, the house, in the actual store or even in another store!Managing your shopping experience on your personal phone, at your fingertips has never been this worthwhile."
+p4
+tp5
+tp6
+.

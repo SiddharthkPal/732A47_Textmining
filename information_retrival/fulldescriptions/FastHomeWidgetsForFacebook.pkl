@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fast Home Widgets For Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S"'Fast Home Widgets' is the new generation of 'utility widgets' made to speed up your Facebook experience right on your home or lock screen! It's FREE!!!It\xe2\x80\x99s really easy to use it, just open the widgets menu, long press on the widget you want and drag it in your home screen. Login on Facebook and start to use it!!The list of the widgets:- Your home feed list: view you home feed list, comment, like, share, open URL and also write new status update. This widget will automatically update every 30 minutes. - Your friends feed list: you can view, comment, like, share, feed list of your friends' updates. This widget will automatically update every 30 minutes.  - Notifications list: you can view , comment, like, share, open URL from the list of your notifications. This widget will automatically update every 30 minutes. - Album photos slideshow: slideshow of your Facebook photo album that you select. Just tap on the widget to change the photo!  - Birthday: you can view of daily list of friends\xe2\x80\x99 birthdays in the current month.Future releases will include private messages, events, page and groups feeds!Watch the video to learn how to deploy a Widget."
+p4
+tp5
+tp6
+.

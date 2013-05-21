@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Starbucks Hong Kong '
+p1
+tp2
+(S'Description:'
+p3
+S'If you want to pay using your Starbucks Card so you can earn Stars in the My Starbucks Rewards\xe2\x84\xa2 program, our dedicated app is the one for you. Plus you can find the nearest store, and more. Features:\xe2\x80\xa2 My Cards: Pay with your mobile device at Hong Kong or Macau Starbucks stores. Check your Starbucks Card balance, reload your card, view your transaction history, transfer balances between cards and report lost or stolen cards for better protection. \xe2\x80\xa2 My Rewards: Track your Stars in the My Starbucks Rewards program.\xe2\x80\xa2 Receive Starbucks news updates and special offers.\xe2\x80\xa2 Store Locator: Find the closest stores, directions, store hours and amenities.\xe2\x80\xa2 Food & Drink Menu: Browse our delicious food menu and find your favorites. More exciting features coming soon, start earning stars today and stay tuned!'
+p4
+tp5
+tp6
+.

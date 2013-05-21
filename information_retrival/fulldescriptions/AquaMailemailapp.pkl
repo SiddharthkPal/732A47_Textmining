@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Aqua Mail - email app '
+p1
+tp2
+(S'Description:'
+p3
+S'AquaMail is an email app for Android 2.1 and higher.Easy automatic setup for popular email services (Yahoo, Hotmail, Gmail, and more).Support for many other email services via standard Internet email protocols: IMAP, POP3, SMTP. This includes many corporate email servers, such as Lotus Notes and Exchange, provided that the administrators enabled IMAP/SMTP (no support for ActiveSync or EWS).Push mail (IMAP IDLE, instant incoming email delivery) for those servers that support it (Gmail, GMX and more).Plays well with other email programs that you may be using to access your IMAP mailbox. Uses existing folder structure, can synchronize drafts, sent, and deleted messages.Can save attachments on the memory card.Widgets (message counts, message list).Message auto-fit (like in Gmail) on Android 4.0 and above.Integration with Tasker (change settings, trigger mail check).Integration with Light Flow, Enhanced SMS & Caller ID, Cloud Print, Apex Launcher Pro, Nova Launcher / Tesla Unread, Executive Assistant.Lots of settings to configure the application just the way *you* would like. Separate settings for WiFi and mobile connections.This is the Lite version, which is limited to two accounts, no identities, and adds a promo signature to all outgoing messages with a link to the program\'s web site.You can add more than two accounts, use identites, and remove the signature by purchasing the Pro key here on Market at any time.*****In case of issues, please contact me: kmansoft@gmail.com.*****Recent changes:1.2.4.0+ Spring cleaning: old-fashioned blue gradients gone (account list, message list).+ Right-to-left text support (check settings under Look and Feel).+ Send notifications: vibrate (off by default, app settings or per-account special settings).+ Error notifications (login, network error) can be turned off.+ New "Look and Feel" setting: tap an account to open its Inbox (icon on the left to expand / collapse).More info:http://www.aqua-mail.com/?cat=3'
+p4
+tp5
+tp6
+.

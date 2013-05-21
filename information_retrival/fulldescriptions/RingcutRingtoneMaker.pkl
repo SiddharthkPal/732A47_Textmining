@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ringcut - Ringtone Maker '
+p1
+tp2
+(S'Description:'
+p3
+S'Cut the best part of your audio song and save it as your Ringtone/Alarm/Music File/Notification Tone. Convert your favorite MP3 file into ringtones. Create your own ringtone, alarm, or notification sound from an existing audio file. You can get any ringtone you want. All totally FREE ringtone editor to tone your music!! The cut results are stored in "sdcard/media/audio/". Its easy to make your own alarm tones, caller tones, and notification tones.Ringcut features:\xe2\x98\x85 Simple MP3 cutter\xe2\x98\x85 MP3 ringtone maker. \xe2\x98\x85 Simple UI and operation.\xe2\x98\x85 Cut any MP3 file with ease. \xe2\x98\x85 Create ringtones of your own. \xe2\x98\x85 Optimized display of audio info.This app requests permission to access your contacts for setting contact-specific ringtones. This app is based on Ringdroid open-source project.An MP3 Converter & Ringtone Maker app to style old songs a new way, just for your use FREE!'
+p4
+tp5
+tp6
+.

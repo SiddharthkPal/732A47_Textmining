@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cita Previa InterSAS '
+p1
+tp2
+(S'Description:'
+p3
+S'Aplicaci\xc3\xb3n no oficial del portal InterSAS.Pida cita a su m\xc3\xa9dico mediante el portal de InterSAS de la Junta de Andaluc\xc3\xadaPara poder configurar su cuenta de InterSAS deber\xc3\xa1 disponer de su n\xc3\xbamero de seguridad social y documento de identificaci\xc3\xb3n: DNI, Pasaporte, NIE.Podr\xc3\xa1 a\xc3\xb1adir tantos usuarios como tenga en su familia.Adem\xc3\xa1s, le permitir\xc3\xa1 crear un evento en el calendario record\xc3\xa1ndole su pr\xc3\xb3xima cita, lugar y consulta asignados. A partir de la versi\xc3\xb3n 1.4.1, cada usuario podr\xc3\xa1 tener configurado su propio calendario. Este ajuste se realiza en la configuraci\xc3\xb3n de cada usuario.A partir de la versi\xc3\xb3n 1.5.0, estar\xc3\xa1n disponibles las opciones para seleccionar el centro y el tipo de cita. Solo estar\xc3\xa1n disponibles para ciertos usuarios que por ejemplo tengan asignado m\xc3\xa9dico y este ejerza en distintos centros.Todas las dudas est\xc3\xa1n descritas en la FAQ: http://www.otioti.com/?page_id=378\xc2\xbfAlg\xc3\xban fallo? \xc2\xbfSugerencias? \xc2\xbfMejoras? Escribe al correo del desarrollador ;)Esta aplicaci\xc3\xb3n hace uso del servicio InterSAS que la Junta de Andaluc\xc3\xada pone a disposici\xc3\xb3n de todos los usuarios, pero NO es una aplicaci\xc3\xb3n oficial desarrollada por la propia Administraci\xc3\xb3n P\xc3\xbablica, por lo que cualquier problema que pueda experimentar desde esta aplicaci\xc3\xb3n no es responsabilidad suya.Recent changes:Novedades v1.5.2:Se corrige error para versiones 1.6 a 2.3.3 que provocaba que la app no funcionase despu\xc3\xa9s de un largo periodo de inactividad.Se corrige error para versiones 3.0 a 3.2 que provocaba que la app no conectase con InterSAS.Novedades v1.5.1:Se a\xc3\xb1ade bot\xc3\xb3n para poder cambiar la cita sin tener que cancelar la actual.Novedades v1.5.0:Se a\xc3\xb1aden los nuevos cambios realizados en InterSAS (21-12-12)'
+p4
+tp5
+tp6
+.

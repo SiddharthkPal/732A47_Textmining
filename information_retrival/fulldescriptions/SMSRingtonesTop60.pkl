@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SMS Ringtones Top60 '
+p1
+tp2
+(S'Description:'
+p3
+S'1.SMS Ringtones features 60 high quality, clear and popular SMS tones and sounds that can be used as ringtones, notifications or alarm sounds. You will love this selection of popular SMS sounds. There is always some cool ringtones for everyone in this app.2. Add Recorder\xef\xbc\x8cRecording is set to ringtonesTags: bell, music, MP3, audio, fashion, sms, ringtone, sound effectRecent changes:changed software page and updated admob sdk'
+p4
+tp5
+tp6
+.

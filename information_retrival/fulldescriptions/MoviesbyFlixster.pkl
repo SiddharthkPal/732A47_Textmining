@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Movies by Flixster '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 Editors\' Choice app - Google Play\xe2\x98\x85 One of the 40 Best Free Android apps for 2011, 4.5/5 stars - PCMag.com\xe2\x98\x85 "A terrific app for learning about what movies are playing." - PCWorld.comMovies by Flixster. The #1 app for movie reviews, trailers, and showtimes.\xe2\x9c\x93 Stream and download full-length movies. First movie is on us! (Gift movie offer is valid for US residents only.)\xe2\x9c\x93 Browse the top box office movies and movies opening soon \xe2\x9c\x93 Look up showtimes at your favorite theater and buy tickets (from participating theaters)\xe2\x9c\x93 Get critic reviews from Rotten Tomatoes\xe2\x9c\x93 Watch high quality trailers\xe2\x9c\x93 Create your own "Want to See" list, rate & review movies\xe2\x9c\x93 View and manage your Netflix queue\xe2\x9c\x93 Flixster is completely FREE to use and lets you invite your friends (using Facebook and/or SMS) to get additional gift moviesRecent changes:\xe2\x9c\x93 Get DVD pricing and availability information from different retailers\xe2\x9c\x93 Fixed a movie collection related crash affecting some users on v5.0\xe2\x9c\x93 Netflix queue management has been moved to "Watch It Now" section on movie pages\xe2\x9c\x93 Improvements to tab navigations and movie list quick actionsFor a limited time, get a complementary movie for instant streaming or download when you create a free UltraViolet account. Get more movies when your friends sign up. This offer is valid for US residents only.'
+p4
+tp5
+tp6
+.

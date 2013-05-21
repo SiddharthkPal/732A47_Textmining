@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Area Formulas '
+p1
+tp2
+(S'Description:'
+p3
+S'This mathematical app shows you the most important area formulas: for Square, Rectangle, Trapezoid, Triangle, Ellipse, Parallelogram, Circle and Sector. Very useful app for school and college!This application is brought to you totally free with the help of search monetization. I have opted to use this to be able to keep creating more free apps for you. Please note that with this app you will receive a few search points on your device, all are easily deleted or replaced. Thank you for your understanding.'
+p4
+tp5
+tp6
+.

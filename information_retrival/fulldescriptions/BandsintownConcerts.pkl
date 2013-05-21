@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bandsintown Concerts '
+p1
+tp2
+(S'Description:'
+p3
+S"The highest rated and #1 downloaded concert listing and discovery application for Android.At Bandsintown, we live for live music. Bandsintown provides a personalized concert calendar and a way to track your favorite artist and discover new touring musicians, based on your musical preferences and location, so you never miss another live show.This free application makes sure you are the first to know when your favorite bands and DJs are coming to town!\xe2\x9c\xa9 NEW! Log in with email or Facebook\xe2\x9c\xa9 Concert notifications for your favorite artists\xe2\x9c\xa9 Complete concert listings for every city\xe2\x9c\xa9 Browse tour dates for any artist\xe2\x9c\xa9 Awesome concert recommendations\xe2\x9c\xa9 Sync your iTunes, Pandora, last.fm, and Google Play accounts\xe2\x9c\xa9 Connect with Facebook & Twitter\xe2\x9c\xa9 Buy tickets from hundreds of ticket sites\xe2\x9c\xa9 Share the hottest gigs with your friends\xe2\x80\x9cIf I had the choice between the second coming of Christ or this app, I\xe2\x80\x99de choose this app! Had it for 24 hours and I\xe2\x80\x99ve already spent close to $150 on concerts I would\xe2\x80\x99ve otherwise missed. This app is changing my life as we speak!\xe2\x80\x9d\xe2\x80\x9cMust have for music lovers, gig, or clubbing freaks!\xe2\x80\x9d\xe2\x80\x9cGreatest music app ever!!!! - If you wanna know what bands are in town get this app!!!!!\xe2\x80\x9d\xe2\x80\x9cI don't ever rate apps and this is by far my favorite app. So intuitive and useful.\xe2\x80\x9d\xe2\x80\x9cThis app is freaking amazing! I love it and recommend it for everyone who wants to go to concerts but never knows when they are.\xe2\x80\x9d\xe2\x80\x9cBest live music app! - Best app out there to find when your favorite artists are touring and coming close to you! It actually goes off your own music library or you can follow any artist! Simple and easy to use.\xe2\x80\x9dTerms of Use: http://www.bandsintown.com/termsPrivacy Policy: http://www.bandsintown.com/privacy_policy\xe2\x97\xa6 Bugs / Crash? Feedback? \xe2\x97\xa6Email: androidapp@bandsintown.comRecent changes:\xe2\x97\xa6 Added a VERY important update which resolves an issue with the home screen widget. Please install this update immediately.\xe2\x97\xa6 Fixed an issue where users who changed their Facebook passwords could not log in.\xe2\x97\xa6 Fixed a crash which occurred when parsing through extremely large Google Play accounts."
+p4
+tp5
+tp6
+.

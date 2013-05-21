@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Viggle '
+p1
+tp2
+(S'Description:'
+p3
+S"One of the best apps of 2012 - TechCrunchUse Viggle while you watch TV to make it more FUN, SOCIAL and REWARDING!CHECK INTO the shows you loveViggle quickly samples the audio from your TV and checks you into whatever you're watching! You start earning Viggle points right away that can be redeemed for real rewards. Earn 1 point per minute for any program you watch with Viggle.DISCOVER & PLAY for bonus pointsThe WHAT'S ON section helps you discover TV shows you can check into for BONUS points! Test your TV knowledge with VIGGLE LIVE or have a blast playing along to sports with MYGUY*, our real-time fantasy sports game.CHAT with friendsJoin TV CHAT from any show page to discuss everything from what your favorite characters are wearing to what happened last season. Or start a private conversation with your Facebook friends in the Viggle CHATTER section.REWARD yourselfRedeem those Viggle points for really great stuff in our REWARDS catalog. Choose from brands like Starbucks, Groupon, Best Buy, Fandango, Barnes & Noble, Footlocker and more.Note: Supports Android version 2.2 and above. Optimized for handsets.*MYGUY is currently available for Football and Basketball games.Recent changes:- *NEW* in-app help tips: Tap the ? icon on key screens to learn more about how to use the app- *NEW* easier sign-up and login steps- Design improvements to existing features to make Viggle a better experience- Find FAQs faster \xe2\x80\x93 just visit the Settings page- Various bug fixes"
+p4
+tp5
+tp6
+.

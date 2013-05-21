@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Spy Camera '
+p1
+tp2
+(S'Description:'
+p3
+S"A Spy Camera for Android. With this app, you can take photos or record videos secretly without anyone knowing. Have you ever wanted to record someone or something without having your screen show what you are recording? Spy Camera allows you to do this with ease.This project is based on the Open Source (licensed by Apache 2.0) Spy Camera OS project located here:https://bitbucket.org/jimmod/spycameraOur app fixes some crashes and has various other performance enhancements. You can donate to the original author using the donate button without the app. This project is licensed under Apache 2.0. If you would like to view the source code, please email me and I'll get back to you asap.Recent changes:Updated interface, performance enhancementsFixed bugsFixed email address (it used to be set to Jimmy's email address by accident)"
+p4
+tp5
+tp6
+.

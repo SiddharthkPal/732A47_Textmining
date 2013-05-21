@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NeoNeko.net - Anime und Manga '
+p1
+tp2
+(S'Description:'
+p3
+S'Auf der Suche nach einer geballten Ladung Anime und Manga? Bei uns bist du genau richtig! Bei NeoNeko.net findest du neben Anime und Manga auch diverse Anime Games, S\xc3\xbc\xc3\x9fe Cosplay Bilder und jede Menge Infos aus JapanWas macht die App?Mit der App habt ihr immer einen schnellen Zugriff auf unsere Anime Seite. Klickt sie und ihr kommt direkt zu uns~'
+p4
+tp5
+tp6
+.

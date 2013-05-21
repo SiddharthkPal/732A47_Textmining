@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vida de Suporte - Tirinhas '
+p1
+tp2
+(S'Description:'
+p3
+S'Voc\xc3\xaa \xc3\xa9 da \xc3\xa1rea de TI?! Ent\xc3\xa3o com certeza voc\xc3\xaa j\xc3\xa1 passou por alguma destas situa\xc3\xa7\xc3\xb5es...O Vida de Suporte conta nas suas tirinhas hist\xc3\xb3rias baseadas em fatos reais sobre situa\xc3\xa7\xc3\xb5es inusitadas, constrangedoras e engra\xc3\xa7adas que j\xc3\xa1 aconteceram com o pessoal de suporte.Aproveite o seu tempo livre e confira as tirinhas sobre essa galera de tecnologia da informa\xc3\xa7\xc3\xb5es e seus usu\xc3\xa1rios um tanto quanto inexperientes...Qualquer cr\xc3\xadtica, d\xc3\xbavida ou sugest\xc3\xa3o... Entre em contato atrav\xc3\xa9s do e-mail: contato@2uglyboys.comRecent changes:- Adi\xc3\xa7\xc3\xa3o do bot\xc3\xa3o para avaliar a nossa aplica\xc3\xa7\xc3\xa3o- Pequenos ajustes de layout'
+p4
+tp5
+tp6
+.

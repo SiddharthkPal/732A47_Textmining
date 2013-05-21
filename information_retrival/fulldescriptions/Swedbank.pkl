@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Swedbank '
+p1
+tp2
+(S'Description:'
+p3
+S'Med den h\xc3\xa4r appen kan du enkelt g\xc3\xb6ra dina bank\xc3\xa4renden och h\xc3\xa5lla koll p\xc3\xa5 dina placeringar. Denna app kan enbart anv\xc3\xa4ndas av Swedbanks kunder. \xc3\x84r du sparbankskund beh\xc3\xb6ver du ladda ner en ny app. S\xc3\xb6k p\xc3\xa5 \xe2\x80\x9dSparbanken\xe2\x80\x9d och ladda ner. I appen kan du bland annat utf\xc3\xb6ra enklare bank\xc3\xa4renden som att se saldo och de senaste transaktionerna, g\xc3\xb6ra \xc3\xb6verf\xc3\xb6ringar, betala r\xc3\xa4kningar samt h\xc3\xa5lla koll p\xc3\xa5 dina placeringar med v\xc3\xa4rdepapperstj\xc3\xa4nsten. Du kan \xc3\xa4ven:\xe2\x80\xa2\tSe dina konton och senaste transaktionerna\xe2\x80\xa2\tSkaka fram saldot \xe2\x80\xa2\tEnkelt g\xc3\xb6ra \xc3\xb6verf\xc3\xb6ringar mellan konton genom bl a att \xe2\x80\x9ddra och sl\xc3\xa4ppa\xe2\x80\x9d\xe2\x80\xa2\tAnv\xc3\xa4nda kameran f\xc3\xb6r att skanna dina r\xc3\xa4kningar\xe2\x80\xa2\tHandla med v\xc3\xa4rdepapper \xe2\x80\x93 skapa favoritlista och se mobil-tv \xe2\x80\xa2\tLadda kontantkort till mobilen eller bredbandet\xe2\x80\xa2\tSe dina bol\xc3\xa5n och g\xc3\xb6r l\xc3\xa5nekalkyler\xe2\x80\xa2\tTelefonbok \xe2\x80\x93 kontakta oss direkt\xe2\x80\xa2\tHitta oss \xe2\x80\x93 s\xc3\xb6k efter uttagsautomater eller bankkontor \xe2\x80\xa2\tSe valutakurser Att logga in:Du loggar in i Swedbanks app med hj\xc3\xa4lp av din personliga kod, Mobilt BankID eller s\xc3\xa4kerhetsdosa. Best\xc3\xa4ll personlig kod och Mobilt BankID i internetbanken. F\xc3\xb6r Mobilt BankID beh\xc3\xb6ver du \xc3\xa4ven ladda ner BankID s\xc3\xa4kerhetsapp.Recent changes:I den h\xc3\xa4r versionen lanserar vi f\xc3\xb6ljande nyheter:-\tEn OCR-skanner, f\xc3\xb6r att snabbt kunna skanna BG/PG-nummer, belopp och OCR p\xc3\xa5 dina pappersfakturor..-\tDra och \xc3\xb6verf\xc3\xb6r blir \xc3\xa4nnu enklare med genom \xe2\x80\x9dlongpress\xe2\x80\x9d ist\xc3\xa4llet f\xc3\xb6r en separat aktiveringsknapp.-\tV\xc3\xa4lja bakgrund p\xc3\xa5 startsidan. -\tPlus ett antal mindre buggfixar'
+p4
+tp5
+tp6
+.

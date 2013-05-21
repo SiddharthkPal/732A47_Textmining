@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Football Fixtures '
+p1
+tp2
+(S'Description:'
+p3
+S'This application is a football schedule application, it helps you to know the football match times. You can know today matches, or matches in any specific dateThis application will not let you miss any important football (soccer) match. Its main target is to show you the matches times to organize your time accordingly.  If you are a fan of Football / Soccer / kora / kooora or whatever name for the most popular sport in the world, then you must have this application.Currently the supported Championships are those in England: English Premier League, and FA CupSpain: La Liga, and Copa Del RayItaly: Serie A, and Italian CupGermany: Bundesliga, and German CupEurope UEFA Champions: UEFA Champions League & Europa LeagueInternational Matches either friendly or officiallyWorld Cup QualifiersYou can select your favorite leagues OR teams to view separately..You can make view only for your favorite teams such as Barcelona, Real Madrid, Manchester United, Arsenal, Chelsea, Liverpool, Tottenham, Milan, Inter, Juventus, Roma, Bayern Munich, Dortmund, or any club from the supported championships.Also you can add your favorite national team such as Brazil, Spain, Argentina, Netherlands, Germany, England, France or whatever team you like.Your feedback is very important to include in next releases.You can communicate with us by sending email or on our facebook page http://www.facebook.com/ElsayadappsmobileRecent changes:v1.7:- Faster Startup- Better Date Formatting- Supporting International Matches and adding this option to favorites'
+p4
+tp5
+tp6
+.

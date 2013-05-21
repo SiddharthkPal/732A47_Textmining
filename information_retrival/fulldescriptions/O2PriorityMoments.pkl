@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'O2 Priority Moments '
+p1
+tp2
+(S'Description:'
+p3
+S"Priority Moments is only for O2 customers, giving you exclusive offers and experiences at big high-street brands and local independent stores.Save money and find loads of irresistible deals from the likes of Odeon Cinemas, M&S, Caff\xc3\xa8 Nero, HMV, Hotel Chocolat and many more. All designed to help save you money and make everyday a little more special.To use, just launch the app and your phone will instantly pinpoint where you are and present a list of offers and experiences nearby. Tap 'Use it now' to get your voucher immediately or 'Save for later' to plan ahead. To redeem, simply present your voucher in store - it's suitable for use nationwide and available to all O2 mobile customers.Priority Moments. Making everyday a little more special. Enjoy.Recent changes:Introducing: Featured Moments.Featured Moments makes it easier to find the best value deals exclusive to O2, and better yet they're updated weekly. So keep checking back to see what great discount, event or ticket Priority has for you each week.If you're looking for the new Featured Moments, they are always present in the new Featured category carousel so they're easy to find. And if the vouchers temporarily run out we'll let you know in advance, and tell you when they'll be available again."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Heart Sounds & Murmurs '
+p1
+tp2
+(S'Description:'
+p3
+S'The app provides easy way to access and listen to wide range of abnormal heart sounds and murmurs for different heart conditionsYou need to use your smartphone headset to hear murmurs clearlySuggestions are highly appreciated...Recent changes:v 1.2- Bug fixes'
+p4
+tp5
+tp6
+.

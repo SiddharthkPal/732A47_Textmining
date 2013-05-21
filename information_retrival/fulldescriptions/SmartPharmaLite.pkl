@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SmartPharma Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'**** Attenzione, bug delle licenze risolto!! Aggiornare alla versione 3.6!! ******** Si prega di rivalutare eventuali commenti negativi ****SmartPharma \xc3\xa8 un prontuario farmaceutico sempre aggiornato e completo. Quasi 70000 specialit\xc3\xa0 farmaceutiche con monografia integrale e tante opzioni per personalizzare la tua ricerca. Ora SmartPharma include anche tutti i Parafarmaci ed i Dispositivi Medici vendibili in Italia: pi\xc3\xb9 di un milione di prodotti!SmartPharma NON richiede una connessione ad internet. Solo al primo avvio sar\xc3\xa0 richiesto di effettuare il download del database.SmartPharma Lite \xc3\xa8 completamente gratuito e rester\xc3\xa0 gratuito finch\xc3\xa8 potremo permettercelo!---Sostieni SmartPharma lasciando un commento---Spiegazione dei permessi richiesti da SmartPharma:1) Accesso ad internet: necessario solo per il download degli aggiornamenti farmacologici2) Accesso alla scheda di memoria: necessario per accedere al database farmacologico3) Lettura IMEI del dispositivo: necessario per poter registrare smartpharma4) Blocco dello standby: necessario per non interrompere il download degli aggiornamentiRecent changes:**** Attenzione, bug delle licenze risolto!! Aggiornare alla versione 3.6!! ******** Si prega di rivalutare eventuali commenti negativi ****[3.6.0] Risolto problema licenze[3.6.0] Database dei farmaci aggiornato ad Marzo 2013[3.6.0] Database dei parafarmaci e dei dispositivi medici aggiornato ad Marzo 2013[3.5.4] Risolto problema licenze[3.5.4] Database aggiornato ad Ottobre 2012'
+p4
+tp5
+tp6
+.

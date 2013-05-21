@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Atom All in One Widgets '
+p1
+tp2
+(S'Description:'
+p3
+S'Atom All in One WidgetsThe Art of Minimalism, Atom Launcher\xe2\x80\x99s Exclusive Widgets.These Widgets are fully compatible with \xe2\x80\x98Atom Launcher\xe2\x80\x99. Clock, Memo, Calendar, Contact and Settings widgets are included all together in one package.Atom All-In-One WidgetsClock: 4 types of analog and digital clocks, offering various colors and designsCalendar: Daily type(1x1), Monthly type(2x2) \xe2\x80\x93 includes holiday information Settings Widget: WiFi, Bluetooth, GPS, Sound, Rotation, Settings SwitchesContact: Icon type - Direct Message and Call keys, Memo: Various Memo sheets, Colors and DesignsIntegrated Google Search Bar*** Attention- Available for Android OS version 4.0.2 and up- The application needs 10 MB in total to save theme resources- To enhance usability, the installed theme doesn\xe2\x80\x99t appear- Not Available for Tab devices (X-large screen)*** Customer SupportPlease leave reviews or comments. Your review is greatly appreciated. For more information or support, please visit - Facebook: http://www.facebook.com/atom.themes- CS E-mail: atom.launcher@dlto.co.kr'
+p4
+tp5
+tp6
+.

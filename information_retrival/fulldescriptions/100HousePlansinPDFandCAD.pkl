@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'100 House Plans in PDF and CAD '
+p1
+tp2
+(S'Description:'
+p3
+S'The most affordable house plans on the Internet. This App is a house plan catalog for http://SDSPlans.com it contains the spec pages for 100 house and cabin plans. The 100 house plans are available for purchase at less than $1 per plan if purchased on our DVD or for around $20 each if ordered separately. These are complete house plans that have been drawn by Specialized Designs Systems LLC.App contains a complete house plan that can be downloaded and printed.The App contains a store for purchasing individual plans or the entire collection on DVD. The plans on the DVD come with the PDF files for easy printing or the CAD files for easy editing.The Full House plans contain the following:Floor PlansElevation PlansFraming PlansElectrical PlansDetails PagesStair DetailsMaterials ListsComplete Working Drawings100 different plans to choose from in a variety of styles Cabin plansDuplex plans4 Plex plansStarter homesSpec housesHabitat for humanity house plansCape cod house plansRanch house plansRecent changes:Newsletter sign up added for free plansNew DVD catalog options for more plans50 Contractor Garage Plans App'
+p4
+tp5
+tp6
+.

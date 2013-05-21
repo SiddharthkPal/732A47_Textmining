@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TouchTunes '
+p1
+tp2
+(S'Description:'
+p3
+S'TouchTunes allows you to control the jukebox from your phone in over 50,000 locations in the US and Canada. You can search songs, create playlists and even jump the queue!Features:\xe2\x80\xa2\tLogin with Facebook or create a TouchTunes account\xe2\x80\xa2\tFind TouchTunes jukeboxes near you\xe2\x80\xa2\tSearch hundreds of thousands of songs that are updated constantly\xe2\x80\xa2\tPlay music and jump the queue\xe2\x80\xa2\tUpload playlists from mytouchtunes.com or sync your iPhone\xe2\x80\x99s music collection to simplify search\xe2\x80\xa2\tNotify your friends on Twitter and Facebook\xe2\x80\xa2\tTrack \xe2\x80\x9cHouse DJ\xe2\x80\x9d status levels and earn free creditsFind us on Facebook.com/TouchTunesFollow us on Twitter.com/TouchTunesWe welcome feedback and are constantly evolving the app based on user input. Email us at android-v2-feedback@touchtunes.comRecent changes:\xe2\x88\x97\tFixes Facebook Connect issue on Android 4.x devices'
+p4
+tp5
+tp6
+.

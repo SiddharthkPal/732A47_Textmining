@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Launcher EX Notification '
+p1
+tp2
+(S'Description:'
+p3
+S'GO Launcher Notification is an independent plugin of GO Launcher EX. It can help you to be notified the number of unread messages for more than 20 application like calls, SMS, Gmail, Facebook , K9mail, etc . When you get any missed calls or messages, it would show the total number of them on the icon.INFO\xef\xbc\x9a\tFacebook has updated the SDK on October 19. With this new SDK, facebook will not inform us after messages have been read.So the notification won\'t be reduced immediately.Developers are working on this.Features:- Support for missed calls, unread SMS, Facebook, Twitter, Gmail, Whatsapp, Viber, Kakao Talk, Viber, Google Talk, Native Mailbox, Skype, Yahoo Mail, Hotmail, WeChat.- Support icons on dock bar, home screen and app drawer.- Independent plugin- Be compatible with GO Launcher HDImportant:1. This is a totally free application and we need the permissions to read the applications, but we will not collect the messages.2. Latest version of GO Launcher EX is required. (Search "GO Launcher EX" to download)3. To apply the notification: MENU> Plugins> NotificationRecent changes:Please update GO Launcher to v3.20 to apply the changes-----------------------1.(Improve) Move Facebook to "More Application" 2.(New) Open Instagram, Line, Facebook messenger, Kik message, ChatOn in "more application"'
+p4
+tp5
+tp6
+.

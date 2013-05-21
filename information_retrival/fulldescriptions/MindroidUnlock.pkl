@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mindroid Unlock '
+p1
+tp2
+(S'Description:'
+p3
+S'This application is an Unlock for MindroidPlease install the Unlock if you like to access all options and features of Mindroid. Always install on top of the Mindroid free version.Mindroid is an AVS (Auditory Visual Stimulation device - aka Mind Machine or Psychowalkman) app for Android.It provides each of your brain hemispheres with a signal (either audible or visual) with a slightly different frequency in order to stimulate your brian waves. For more info on this phenomenon please refer to this http://en.wikipedia.org/wiki/Binaural_beats">Wikipeadia article.The aim of this app is to induce either relaxation, meditation, creativity or sleep state of your mind depending on the selected program.Audible stimulation is full-featured and comparable with single purpose AVS devices. Headphones needs to be used in order for the audible stimulation to be effective!Visual stimulation is experimental. In order to perform visual stimulation close your eyes and match the red spots on your display with your eyes.You are kindly welcome to use Mindroid for FREE if you are fine with the default setting. To take advantage of all the available programs and to mix them with the different environments, please consider purchasing the Mindroid Unlock for a minimal Play Store price. We will very much appreciate your contribution and use it for further improvements of this app. Please install the Unlock on top of the current installation (do not uninstall Mindroid).Thank you very much for downloading Mindroid. Have fun!CAUTION! Mindroid shall not be used by users suffering any epileptic or cardiac symptoms. By clicking Ok below you agree that you have read this warning and you will use theapplication at your own risk. The author of this app is not responsible for any potential health damage caused by Mindroid.'
+p4
+tp5
+tp6
+.

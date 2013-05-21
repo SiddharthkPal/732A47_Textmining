@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'App Cache Cleaner '
+p1
+tp2
+(S'Description:'
+p3
+S"App Cache Cleaner,a quick tool for clearing application cached files. One Tap to clean all cached files for getting more available space. This tool can free a lot of storage memory for your phone. Free phone internal memory, Get more internal ROM storage. It is an app which is crucial to anyone who has memory management issues. Stop low memory warnings.fix low memory. fix your buggy android phone.If you running out of application storage, you now can get more available storage space by clearing apps created cache/data files.You don't have to ROOT the phone anymore! \xe2\x98\x85 1-tap to clear all cached files\xe2\x98\x85 auto clear when you open this app\xe2\x98\x85 auto clear all cache at a specified interval\xe2\x98\x85 auto exit when you cleaned all cached files\xe2\x98\x85 clear cache for a specified application\xe2\x98\x85 list applications by either cache size or app nameBy long pressing any item in the app list, you can:\xe2\x98\x85 Share apps with your friends\xe2\x98\x85 view application on Market\xe2\x98\x85 uninstall applications which has cached files\xe2\x98\x85 open application\xe2\x98\x85 show application details pageIf you just want to clear all cached files, you don't need to wait the completion of building apps list, just tap the 'Clear All Cache Files' button.You can rebuild app list by MENU > Refresh, and choose different sort type by MENU > SortFor more settings, please tap MENU > Settings.***************************INFOLIFE, Make Life Easier!***************************#FAQwhat is cached file?A cached file is a mechanism for the temporary storage (caching) of web documents, such as HTML pages and images, to reduce bandwidth usage, server load, and perceived lag. A cached file stores copies of documents passing through it; subsequent requests may be satisfied from the cache if certain conditions are met.The cached files are stored in the phone built-in memory, and sometimes can take a lot of storage space. Through the clearing of cached files, you are able to recover the precious phone memory space. Most importantly,the cached files can safely be cleared :)To help us translate this app to your native language, please sign up in http://crowdin.net/project/app-cache-cleanerthank you very muchRecent changes:#3.0.4trivial bug fixes#v3.0.3fix a bug of long click menu#v3.0.2fix a little bug of ui#v3.0.11.fix a fc bug caused by Feedback2.fix widget size problem#v3.0use android 4.0 style UI"
+p4
+tp5
+tp6
+.

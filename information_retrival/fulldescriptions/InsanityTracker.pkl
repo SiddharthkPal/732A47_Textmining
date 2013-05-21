@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Insanity Tracker '
+p1
+tp2
+(S'Description:'
+p3
+S'Track your progress during the Insanity workout with Insanity Tracker. Insanity Tracker features the full 63 day Insanity Calendar that will keep track of the days you have completed, as well as the records from each of your Fit Tests. Supports multiple languages (English, German, Polish,Spanish, Portuguese, Dutch,Russian, and Romanian).Other features include:-Track your progress with Milestones (With Pictures too!)-Brief workout descriptions -Calendar or List layout of Schedule-Add comments for each day -Add workouts to your Calendars-Search for workouts-Graphical representation of Fit Test data (Thanks to Michael Pardo for his Holo ChartView Library!)-Slide Out Menu for easy navigation (Thanks to Jeremy Feinstein for his Sliding Menu Library!)-Notifications to remind you about your next workout-Backup/Restore options-BPM Calculator-Daily Calorie Intake Calculator-USDA Food Calorie Database-Home screen Widget which displays your next workout-DashClock Support for android 4.2+This app requests access to the follow permission for these reasons:Modify or delete contentes of your USB storage.In order for the app to backup and restore, it needs access to the SD card to save or load the desired backup file.Read and Write Calendars.In order to add Workout reminders to your calendars, these permissions are needed.Run at startup.If you have set an alarm to go off to remind you about your next workout, that alarm will get cleared when your phone reboots. So when your phone does reboot, it will reset your alarms if you have them enabled.Control Vibrating/Prevent phone from Sleeping:For the alarm to vibrate and go off when the phone has its screen off (sleeping) these permissions are needed.Test access to protected storage (4.1+)This is a newly added permission in JellyBean (Android 4.1). It is needed to gain read access of the SD card.Please submit crash reports or bugs so I can improve!I am in no way affiliated with BeachBody or any of their Products.KeyWords:InsanityInsanity WorkoutRecent changes:Version 1.4.8.7.1-Fixed issue when searching Calorie database for a word with an apostrophe.Version 1.4.8.7-Russian translation added. Thanks to \xd0\x90\xd0\xbd\xd0\xb0\xd1\x82\xd0\xbe\xd0\xbb\xd0\xb8\xd0\xb9 \xd0\x9f\xd0\xb5\xd1\x82\xd1\x80\xd0\xbe\xd0\xb2!-Romanian translation added. Thanks to Uibar Cristian!-Animation added to slide out menu'
+p4
+tp5
+tp6
+.

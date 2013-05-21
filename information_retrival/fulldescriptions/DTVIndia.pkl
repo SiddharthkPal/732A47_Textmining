@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DTVIndia '
+p1
+tp2
+(S'Description:'
+p3
+S'***Now Enjoy Live Sports & other Live Indian TV Channels on DTV ON THE GO****BE SMART WITH YOUR SMART PHONEDTV India for Mobiles, Tablets and Android running devices.DTV provides the links to the web streaming of the popular Indian TV channels. Includes Cricket, News, Entertainement and Sports channels for Mobile Phones, Tablets and Android based devices.The Channel list will get continuously updated on regular basis automatically, without needing to update the App.Watch Indian Premier League 6 (IPL 6, IPL6) only on DTVIndia..DTV is best place to watch all Indian Cricket matches. DTV plays almost all sports channels. Also, it plays all kind of indian entertainment.DTV has large number of Hindi, Marathi, Tamil, Telugu, Malayalam, Punjabai, Bengali channels...Also, it plays many live Bangladeshi & Live Pakistani TV Channels...--------------------------------------------------------For More Information: you can contact me at dattagample@dtvindia.inRecent changes:V2.1------------------------------------ Updation after V2.0 load issue..- Added support to play more number of channels...Still Know Issues:--------------------------- Full Screen in ARM_ASM mode- Audio Video lag for some of the devices'
+p4
+tp5
+tp6
+.

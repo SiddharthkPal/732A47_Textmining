@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaMag - Collage Magazine '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 Collage will never be the same \xe2\x98\x85Instantly create Magazine-Style photos that look better than other collage apps! Choose from many cool magazine styles, we update new styles daily!Key advantages:1. Elegant and all-purpose layouts - you can use the styles for anything from self-snapshots to travel photos.2. Super easy and quick to create - just pick the photos and no more arranging positions! Tap the "switch" button to rotate photo content.3. Editable and movable text and decoration. Some of our travel-based styles also auto-detect your location!4. The Library is full of new daily designs, come back often and enjoy the coolest magazine layout collage!Recent changes:1. Improve photo\'s resolution a lot2. Add new landscape styles3. Add favorite styles collection 4. bug fixed'
+p4
+tp5
+tp6
+.

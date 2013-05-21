@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vtipko - najlep\xc3\x85\xc2\xa1ie vtipy '
+p1
+tp2
+(S'Description:'
+p3
+S'Skvel\xc3\xa1 Android aplik\xc3\xa1cia s ktorou sa nikdy nebude\xc5\xa1 nudi\xc5\xa5.Zdarma bude\xc5\xa1 ma\xc5\xa5 pri sebe stovky vtipov, desiatky kateg\xc3\xb3ri\xc3\xad, mo\xc5\xbenos\xc5\xa5 hodnoti\xc5\xa5 a ozna\xc4\x8di\xc5\xa5 si svoje ob\xc4\xbe\xc3\xbaben\xc3\xa9 vtipy.Prid\xc3\xa1vaj a zdie\xc4\xbeaj vtipy priamo zo svojho mobiln\xc3\xa9ho telef\xc3\xb3nu.Stiahni si ZDARMA aplik\xc3\xa1ciu VTIPKO na Android!Vlastnosti:\xe2\x99\xa6 Hodnotenie vtipov a triedenie pod\xc4\xbea najlep\xc5\xa1\xc3\xadch\xe2\x99\xa6 Ozna\xc4\x8denie a zoznam ob\xc4\xbe\xc3\xbaben\xc3\xbdch vtipov\xe2\x99\xa6 Prid\xc3\xa1vanie vtipov\xe2\x99\xa6 Nastavite\xc4\xben\xc3\xa1 synchroniz\xc3\xa1cia vtipov a hodnoten\xc3\xad\xe2\x99\xa6 Ozn\xc3\xa1menie nevhodn\xc3\xbdch a chybn\xc3\xbdch vtipovRecent changes:Pridan\xc3\xa1 obrazovka nastaveniaMo\xc5\xbenos\xc5\xa5 nastavi\xc5\xa5 automatick\xc3\xba kontrolu nov\xc3\xbdch vtipovOpraven\xc3\xa9 vyp\xc3\xadnanie po synchroniz\xc3\xa1ciiUpraven\xc3\xa1 obrazovka O n\xc3\xa1sPridan\xc3\xa1 reklama v obrazovke Kateg\xc3\xb3rie'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MoboPlayer '
+p1
+tp2
+(S'Description:'
+p3
+S'The best video player on Android! Watch any of your videos on a phone without conversion, anytime and anywhere.We feature the best playback experience and quality.Our video player supports:All video formats (need to choose "software decoding" mode in most cases)Popular subtitle formats such as SRT, ASS, and SAASubtitles built in MKV, MPV, MOV, and othersMulti-audio streams and multi-subtitlesPlaylists and continuous play on same type filesVideos streamed through HTTP, RTSP protocolsMedia libraries and sort videos by typeThumbnail displays of videos---Make the best player for Android platform can not satisfy us now! Now we want to develop a perfection software on Android. If you have any suggestions or bugs, you are welcome to notify us by the following ways:email: mobo@moboplayer.comWe will attach importance to your feedbacks--MoboPlayer dynamically linked to FFmpeg shared library, which was compiled to contain LGPL decoders and splitters only. Source codes can be downloaded from our website.--KW:bestplayer mplayer rockplayer videoplayer ffmpeg mobo moiveRecent changes:modified:New UI of Settingadded:Features of sharingadded:User-defined playback proportionadded:Minimize the suspending windowadded:Setting of "save decode mode"added:New UI for selecting multiple video to playadded:Save the progress of multiple player'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Musical Pro '
+p1
+tp2
+(S'Description:'
+p3
+S'A musical toolkit including instruments (grand piano, piano keyboard, drums, autoharp), tools (metronome, pitch pipe), a game (piano practice), and more (piano recording, wireless piano MIDI, piano/drum multitouch)Detailed Features==============================Piano Practice Mode  o Play-along piano learning game  o Over 20 included songs (+ any MIDI)Piano & Keyboard  o Scrolling grand piano  o 2-octave stacked piano  o 128 General MIDI instrumentsRecording (Piano & Keyboard)  ? Export as MIDI or ringtoneWireless MIDI input device  o Piano & keyboard  o Supports Windows/Mac/LinuxMetronome  o 40-200BPM metronome  o Time signatures/subdivisionsPitch Pipe  o C to CDrums  o Basic 8-piece drum kitAutoharp (BETA)  o Strum chords on the harp stringsMultitouch (piano/drums)Honeycomb tablet optimizedRecent changes:6.0.7:* Fix ICS/Honeycomb WiFi Piano crash'
+p4
+tp5
+tp6
+.

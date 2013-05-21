@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Horoscopes + daily fortune '
+p1
+tp2
+(S'Description:'
+p3
+S"Read and collect your horoscopes and daily fortunes on your mobile device.From the creators of the popular Facebook application with over 20 million happy usersWhat's New? 1. More options-- read today's and tomorrow's horoscopes, as well as horoscopes from other signs 2. Now with daily fortune cookie along with your horoscope3. All in a beautiful graphical interface4. Save your horoscopes readings on your phone 5. Option to have your horoscope delivered to your phone 6. Have horoscopes delivered to your Facebook profile by visiting our app at http://apps.facebook.com/getyourhoroscope/Recent changes:v1.6:- Improved performance- Fixed problem with repeated horoscopes for some users- Other bug fixesv1.4:- Improved performance on some devices"
+p4
+tp5
+tp6
+.

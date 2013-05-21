@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hungama - Free Bollywood Music '
+p1
+tp2
+(S'Description:'
+p3
+S"Explore all of Hungama's music library of 2 million+ official songs spread across Bollywood, Tamil, Telugu, Malayalam, Punjabi, Devotional, Regional music and Popular International music and videos. Tune in to your favorite celeb\xe2\x80\x99s preferred music playlist in Celeb Radio. Play what Salman works out to, Hrithik dances to, listen to what Sonu Nigam grooves to, its all there... Too lazy to create a playlist? In the mood to party? Our unique, never-seen-before Discovery Engine serves up music based on your mood. Use this to find the perfect music mix of your choice. If you like what you listen to \xe2\x80\x93 go ahead, simply download it or create a playlist in the app. You can see the official lyrics & trivia too \xe2\x80\x93 sing along with this ultimate Indian songs Jukebox. The Best part: At Hungama, every action has a reward. Earn points every time you watch videos, play/share songs, invite friends or even just create playlists. Earned enough? Check our Redemption Store for cool free Music downloads, movie tickets, discount vouchers, merchandize and lots more... Psst: Enough points could win you an iPod! Log on to keep score and look up the leader board! Some key features - * Free streaming for music and videos from our entire collection of content * Get trivia, lyrics and info for all the latest songs * Find songs similar to what's being played with our sleek, ultra-cool music player * Play music in GYM mode or SLEEP mode * Create playlists and save them for later access, and never have to look for favorites again * Invite your friends and share tracks and playlists with them across Social networks * You can also download the latest chartbuster music from the app at a great value.Last, but not the least... Tune in to music from our collection of over 500 playlists created by our Music experts spread across Celeb Radio, festivals, party, retro, et all. For the sit back music lovers, we got 10+ Live Radio stations to choose from.Recent changes:- Crash fixes- Minor Enhancements"
+p4
+tp5
+tp6
+.

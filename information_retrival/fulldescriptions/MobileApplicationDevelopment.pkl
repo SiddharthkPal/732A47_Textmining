@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mobile Application Development '
+p1
+tp2
+(S'Description:'
+p3
+S"An application designed to teach anyone willing to learn about Android development. The app is for Android beginners with little to no experience and goes alongside a Moodle course created for the Garland Independent School District (GISD) students.If you would like access to this course, email me at AppleIsNoGood@gmail.com so I can send you the course material (the original website is listed below but only available to GISD students).Covered Topics:\xe2\x80\xa2 How to use Eclipse\xe2\x80\xa2 XML Programming\xe2\x80\xa2 User Interface Design\xe2\x80\xa2 Terminology\xe2\x80\xa2 Android Activity Lifecycle\xe2\x80\xa2 Android Layouts\xe2\x80\xa2 TextView\xe2\x80\xa2 EditText\xe2\x80\xa2 Button\xe2\x80\xa2 ToggleButton\xe2\x80\xa2 RadioGroup\xe2\x80\xa2 CheckBox\xe2\x80\xa2 ListView\xe2\x80\xa2 Intent\xe2\x80\xa2 Menus\xe2\x80\xa2 Toast\xe2\x80\xa2 Sound\xe2\x80\xa2 Icon\xe2\x80\xa2 Much, much more!Optimized for small, medium, large and extra large screen sizes so the app looks great on any device!Recent changes:Official Release!2.01\xe2\x80\xa2 Added items to Spinner2.0\xe2\x80\xa2 Added Units 5-6, Single and Group Project, Where to Publish, Resources, Moodle shortcut, rewrote animations, preferences and text throughout plus much more!1.1\xe2\x80\xa2 Changed icon\xe2\x80\xa2 Added sound when clicking About Developer\xe2\x80\xa2 Faster animations1.08\xe2\x80\xa2 Updated ListView tutorial\xe2\x80\xa2 Centered Unit 2 buttons\xe2\x80\xa2 Added Transitions, Animations, Menu, About, Sounds, Slide-Speed\xe2\x80\xa2 Increase bottom margin for Units' title text\xe2\x80\xa2 Decreased Units' title text"
+p4
+tp5
+tp6
+.

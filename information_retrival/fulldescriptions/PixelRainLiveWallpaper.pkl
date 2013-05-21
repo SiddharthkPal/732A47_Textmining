@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pixel Rain Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S"Pixel-styled raindrops fall on your home screen and make splash effects as they collide with the ground.  Pixel Rain is very customizable:+Multi-color raindrops(Choose up to 10 different custom colors)+Number of active raindrops+Size of rain drops(now includes random sizes)+Falling speed of raindrops+Length of rain trails+Optional glow (can choose to show ground and/or rain glows)+Glow Transparency+Optional shatter+Shatter Effect+Optional alignment+Depth+Ground position can be adjusted to change where drops shatter+Background color or Custom Image+Optional scrolling with cool trail effect+Shatter on touch with variable collision circle size+Hardware Acceleration for compatible Android 3.0+ devicesWith touch features enabled you can shatter raindrops by touching them.  Use the preview screen and the collision circle to setup your preferred touch radius.To set as Live Wallpaper:After installing, long press or press the menu button on the home screen -> Wallpapers -> Live wallpapers -> Pixel RainFrom this preview screen you can change your settings before setting Pixel Rain as your live wallpaper.Pixel Rain Live Wallpaper ChangeLog: https://docs.google.com/document/pub?id=17iknt9ocl1qfzS0ZHs28EauzuBb4YFi2kAGd5eKiTYkAll released versions of Pixel Rain LWP are available for download in the ChangeLog.If you've been really enjoying Pixel Rain please support me! Purchase Pixel Suite Live Wallpapers and get rain, snow, and leaf pixel wallpapers!  Get Pixel Suite here: https://market.android.com/details?id=gilleland.software.pixelsuitePlease feel free to inform the developer of any bugs or request new features: shawngilleland@gmail.comRecent changes:Added market link to Pixel Suite in preferences.Added toast ad for Pixel Suite that can be disabled.Added option to manually change color of collision outline.Temporarily fixed an issue where Pixel Rain would crash when attempting to create large background image.  For the moment it will not create them instead of crashing.  Use smaller images until fixed permanently.See changelog for more info on changes"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NBC Sports Talk '
+p1
+tp2
+(S'Description:'
+p3
+S'NBC Sports Talk brings you the latest news, rumors and analysis for all your favorite sports \xe2\x80\x93 all in one place. Check it all out in a concise and entertaining manner for the following Talk platforms while you\xe2\x80\x99re on the go:- ProFootballTalk- HardballTalk- ProBasketballTalk- ProHockeyTalk- GolfTalkCentral- CollegeFootballTalk- CollegeBasketballTalk- MotorSportsTalk- OlympicTalk- Inside the IrishPlus, access content offline wherever you are, and share articles with friends.Recent changes:- GolfTalkCentral, MotorSportsTalk and OlympicTalk are now featured in the app- Fixed the Force Close issue- Other minor bug fixes and enhancements'
+p4
+tp5
+tp6
+.

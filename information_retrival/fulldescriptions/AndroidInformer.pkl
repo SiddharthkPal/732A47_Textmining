@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Android Informer '
+p1
+tp2
+(S'Description:'
+p3
+S'Android Informer is your gateway to a world of discovering new and interesting apps, making tons of friends, and sharing your experiences with Android. It will help you keeping your apps up-to-date, which will make your Android device more stable and fun!- Get notifications about important updates, including for programs installed from "Unknown Sources"- Discover new Android apps under Recommendations tab- Rediscover some old classics on our site or through the client- Full access to every bit of information on our site- Voice your opinions about Android applications- Ask questions and get feedback from experienced users- Meet similar-minded people'
+p4
+tp5
+tp6
+.

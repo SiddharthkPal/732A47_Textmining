@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn Chinese with busuu.com! '
+p1
+tp2
+(S'Description:'
+p3
+S'busuu.com, the leading online community for language learning, brings you the perfect app to learn Chinese on the go:\xe2\x9c\xb0 In the latest release - Discounted offer to activate all courses! \xe2\x9c\x93 Extensive vocabulary - over 3,000 words and key phrases\xe2\x9c\x93 From beginner to advanced intermediate levels (A1 - B2)\xe2\x9c\x93 Covering 150 different topics using day-to-day situations\xe2\x9c\x93 Comprehensive audio-visual learning material with photos and recordings by native speakers\xe2\x9c\x93 Sections include vocabulary, dialogues and interactive tests\xe2\x9c\x93 No internet connection required\xe2\x9c\x93 Free version includes 20 complete learning units - full content can be purchased inside the app!\xe2\x9c\x93 Learning progress can be synchronized with your profile on busuu.com, the famous online community for learning languages with over 15,000,000 users\xe2\x9c\x93 Only language learning app in the world which includes direct interaction with native speakers\xe2\x9c\x93 Submit your writing exercises and get corrected by native speakers from our community\xe2\x9c\x93 Enjoy the latest learning content\xe2\x9c\x93 Now also supports Japanese and Mandarin as interface languages\xe2\x9c\x93 New Travel CourseWhat our mobile app users say about us in their reviews:"You can learn at your own pace. Very useful!""Easy to learn and easy to understand""It is a super fun tool where you learn and interact with other people""This application is really great to learn. I love the correction by natives, practising with native speakers for free. Super app""This is better than my Rosetta Stone Spanish! It is more fun and it is free as opposed to the 500 plus dollars I paid for RS. I highly recommend this app!!""The application is simply super, languages are taught like a game! Very helpful comments from other users on your exercises. Bought a Premium package without hesitation!"Recent changes:Highlights (v2.7.1):\xe2\x9c\x93 Discounted offer to activate all courses if you buy the Full Course!\xe2\x9c\x93 Fixed course download issue.\xe2\x9c\x93 Addressed intermittent crash bugs some users were experiencing.\xe2\x9c\x93 Switching from vocabulary unit key phrase back to word works on all devices.'
+p4
+tp5
+tp6
+.

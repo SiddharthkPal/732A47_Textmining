@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Doctoralia '
+p1
+tp2
+(S'Description:'
+p3
+S'Search health Professionals and Centers near you, or by name, speciality, city, zip; read reviews, and contact easily with your provider. You can also keep a list of your favorite professionals for easy access to their contact info.This is the mobile version of Doctoralia, the global platform for healthcare search. Currently you can use Doctoralia on your mobile phone in 20 countries: UK, US, Canada, Australia, India, Spain, France, Netherlands, Germany, Austria, Switzerland, Portugal, Russia, Brasil, Mexico, Argentina, Chile, Colombia, UAE.Doctoralia allow you to book an appointment in 6 countries: Spain, Portugal, Italy, UK, Mexico, BrazilDoctoralia, connecting you to healthcareRecent changes:- Travel friendly! You can now see in your language all the information of a prefessional, including the specialities. Available in most languages.- Solved some issues with the login: You can now login with your website email and password, not just mobile phone number.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Can I Stream It? '
+p1
+tp2
+(S'Description:'
+p3
+S'The fastest and most awesome way to find streaming **movies and tv shows** to rent or buy, across most major services. Never waste time checking each individual service again! "It\'s like Kayak for streaming services." - Roberto Baldwin, Gizmodo.com 11/01/2011 CanIStream.it currently searches iTunes, Hulu, Netflix, Amazon Instant Video, VUDU, Crackle, EPIX, Streampix, Redbox, and XFinity premium channels; we are continually adding new services to the list, so remember to check back often. If the movie you are looking for is not available, you can: -Set up reminders, or -Push notifications Simply select the movie and the service, and the moment it becomes available for your chosen method of viewing, we will inform you. And the best part \xe2\x80\x93 it\xe2\x80\x99s FREE!Services currently searched:- Netflix (Instant and DVD)- Amazon (Prime Instant, Rental, Purchase, DVD, Bluray)- Hulu (including Plus)- YouTube (free / rental)- EPIX- Streampix- Vudu (rental / purchase)- Blockbuster (rental / purchase)- Android (rental)- Redbox (DVD rentals)- XFinity (HBO, Showtime, Encore, Starz, etc)Visit us on the web at CanIStream.ItRecent changes:2.1 Small update.Bug and crash fixes.2.0 Big Update!Can I Stream It? now supports TV Shows!  Search for a TV show name, browse through it\'s episodes, find availability for each episode.  Set a reminder if an episode is not available and we\'ll send you an alert when it becomes available.You can also browse Most Popular movies on Netflix, Hulu, Amazon, Google Play, and more.For help, email support at: canistreamit@gmail.com'
+p4
+tp5
+tp6
+.

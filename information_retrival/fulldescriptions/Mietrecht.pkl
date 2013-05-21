@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mietrecht '
+p1
+tp2
+(S'Description:'
+p3
+S'Diese App enth\xc3\xa4lt wichtige Basisinformationen zum Miet- und Wohnungseigentumsrecht  innerhalb der Bundesrepublik Deutschland. Dar\xc3\xbcber hinaus werden Fachanw\xc3\xa4lte und Experten f\xc3\xbcr das Miet- und Wohnungseigentumsrecht  via GPS geortet und vollst\xc3\xa4ndig pr\xc3\xa4sentiert.Es werden u.a. behandelt:- Mietvertrag- Miete- Betriebs- und Nebenkosten- K\xc3\xbcndigung- Reperaturen und Ver\xc3\xa4nderungen an der Mietsache- Hausfrieden, L\xc3\xa4rm und TierhaltungZus\xc3\xa4tzliche Schl\xc3\xbcsselbegriffe:Rechtsanwalt, Rechtsanw\xc3\xa4ltin, Anwalt, Anw\xc3\xa4ltin, Kanzlei, Rechtsanwaltskanzlei, Recht, Jurist, Jura, Notar, Notarin, Anwalt suchen, Vertrag, Klage, Fachanwalt, Fachanw\xc3\xa4ltin, Untermiete, Mietmangel, Auszug, Besenrein, Mangel, Mediator, Berlin, Hamburg, M\xc3\xbcnchen, K\xc3\xb6ln, Frankfurt am Main, Stuttgart, Dortmund, Essen, D\xc3\xbcsseldorf, Bremen, Hannover, Leipzig, Dresden, N\xc3\xbcrnberg, Duisburg, Bochum, Wuppertal, Bielefeld, Bonn, Mannheim'
+p4
+tp5
+tp6
+.

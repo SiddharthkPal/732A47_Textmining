@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Swish payments '
+p1
+tp2
+(S'Description:'
+p3
+S'Swish \xe2\x80\x93 Pay easilySwish is a service for individuals where you can send and recieve money via your mobile number. The money will arrive directly to the recipient\xc2\xb4s account \xe2\x80\x93 regarldess of connected bank. Get started!To ger started with Swish you need to download the Swish app, enroll to Swish in your online banking service and download the app \xe2\x80\x9dMobilt BankID\xe2\x80\x9d. When should I use Swish?Swish is perfect to use when you split the bill, when you buy secondhand, collect money for a gift or when to pay back a loan to a friend. What banks are behind Swish?Swish has been developed in a unique collaboration between Danske Bank, Handelsbanken, L\xc3\xa4nsf\xc3\xb6rs\xc3\xa4kringar, Nordea, SEB samt Swedbank och Sparbankerna. How does Swish work?In your online bank service you connect your bank account to your mobile number. The person who pays you via Swish just enters your mobile number and the money will arrive on your bank account within a few seconds.  You can always be sure who you are paying because the name of the recipient appears before signing the transaction with Mobile BankID.To use the applications tools it has access to the following on your phone:Access to internet \xe2\x80\x93 To be able to make payments and to be able to get more information of Swish.Access to the phonebook \xe2\x80\x93 To be able to retrive mobile number to the reciever from the phonebook.For more information visit www.getswish.se or your bank\xc2\xb4s website.Recent changes:In version 1.2.1\xe2\x80\xa2 Clarification in message when the receiver is not connected\xe2\x80\xa2 Improved functionality for newly-received payment\xe2\x80\xa2 Enhanced help texts in English\xe2\x80\xa2 Improved collection of mobile phone numbers from your address book\xe2\x80\xa2 Update function in the event lists\xe2\x80\xa2 Information about Publisher and Version Number'
+p4
+tp5
+tp6
+.

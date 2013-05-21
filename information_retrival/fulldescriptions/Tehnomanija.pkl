@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tehnomanija '
+p1
+tp2
+(S'Description:'
+p3
+S'Najve\xc4\x87a prodavnica tehnike Tehnomanija sada na va\xc5\xa1em Android telefonu: IT oprema, mobilni telefoni, televizori, bela tehnika... Pregledajte proizvode i naru\xc4\x8dite. Mesto gde se kupuje tehnika na Androidu!Recent changes:- Filtriranje proizvoda- Mogucnost fokusiranja pretrage na trenutno odabranu kategoriju- Skeniranje QR kodova- Obrada Tehnomanija URL-ova pomocu aplikacije- Optimizacija aplikacije za Android JellyBean uredjaje- Optimizacija aplikacije za 7" tablete (Nexus 7)- Geolokacija Tehnomanija prodavnica u pregledu- Optimizacija performansi aplikacije i ispravka sitnih BUG-ova'
+p4
+tp5
+tp6
+.

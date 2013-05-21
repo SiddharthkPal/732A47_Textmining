@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Moneycontrol Markets on Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'The Markets on Mobile app is your gateway to all critical real-time information about the Indian and global markets through your Android device. If you are an investor, trader, professional or just interested in business, economy and financial markets, you will find this to be an invaluable tool. And this application is powered by moneycontrol.com \xe2\x80\x93 India\xe2\x80\x99s no.1 financial and business portal trusted by millions.Use the application to get real time stock quotes, Indian and Global market Indices, manage and keep track of your investment portfolio, watch Live TV and get in-depth coverage & analysis of financial markets, economy and business.The application is now available to you on your Android mobile. For any queries regarding the app, mail us on feedback@moneycontrol.comDownload the app to get going. It\xe2\x80\x99s fast, easy-to-use and FREE.Recent changes:- Performance enhancements for Live TV- Bug Fixes'
+p4
+tp5
+tp6
+.

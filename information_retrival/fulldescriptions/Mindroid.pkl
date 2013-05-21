@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mindroid '
+p1
+tp2
+(S'Description:'
+p3
+S'Mindroid is an AVS (Auditory Visual Stimulation device - aka Mind Machine or Psychowalkman) app for Android.It provides each of your brain hemispheres with a signal (either audible or visual) with a slightly different frequency in order to stimulate your brain waves. For more info on this phenomenon please refer to this http://en.wikipedia.org/wiki/Binaural_beats">Wikipeadia article.The aim of this app is to induce either relaxation, meditation, creativity or sleep state of your mind depending on the selected program.Audible stimulation is full-featured and comparable with single purpose AVS devices. Headphones needs to be used in order for the audible stimulation to be effective!Visual stimulation is experimental. In order to perform visual stimulation close your eyes and match the red spots on your display with your eyes.You are kindly welcome to use Mindroid for FREE if you are fine with the default setting. To take advantage of all the available programs and to mix them with the different environments, please consider purchasing the Mindroid Unlock for a minimal Play Store price. We will very much appreciate your contribution and use it for further improvements of this app. Please install the Unlock on top of the current installation (do not uninstall Mindroid).Thank you very much for downloading Mindroid. Have fun!CAUTION! Mindroid shall not be used by users suffering any epileptic or cardiac symptoms.Recent changes:Version 1.3.0- gradual volume up / down at program start / end - the program ends smoothly at zero volume- profiles - you can name settings such as "party time, way to work, before sleep" and bring them back instantly- slide to lock to prevent unintentional touches in visual stimulation- adjustable papillary distance- airplane button - Color-therapy option - colors are chosen to be most suitable for the particular program- two programs + two environment available in the free version'
+p4
+tp5
+tp6
+.

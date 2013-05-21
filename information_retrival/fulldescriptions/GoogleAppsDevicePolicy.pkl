@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Apps Device Policy '
+p1
+tp2
+(S'Description:'
+p3
+S'Google Apps Device Policy is a device administration app for Google Apps for Business, Education, and Government accounts that makes your Android device more secure for enterprise use.  This app allows your IT administrator to enforce security policies and remotely wipe your device.  Additionally, this app allows you to ring, lock, or locate your Android devices through the My Devices page: https://www.google.com/apps/mydevices.Having trouble?  Help center information is available here: http://goo.gl/h9Xp0Recent changes:v4.14:* Proper message handling in case of policy violations.v4.13:* Support for control of Lock Screen Widgets.Note: A dialog box titled "Activate Device Administrator" will appear for Android 4.2+ users. Press "Activate" to accept the new policies.v4.09:* Improved location setting handlingv4.08:* Improved reliability of Remote Ring'
+p4
+tp5
+tp6
+.

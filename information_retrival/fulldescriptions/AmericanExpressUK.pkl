@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'American Express UK '
+p1
+tp2
+(S'Description:'
+p3
+S'FEATURES \xe2\x80\x94Access and manage your account\xe2\x80\x94Pay your bill\xe2\x80\x94Check your balance\xe2\x80\x94View recent transactions\xe2\x80\x94View your rewards balance (if enrolled)\xe2\x80\x94Log in securely with the same User ID and Password you use on americanexpress.co.ukFor Android devices with OS 2.2 and above:\xe2\x80\x94Activate your Card\xe2\x80\x94Enroll in Online Services\xe2\x80\x94Add or remove a Card on your Online Services account\xe2\x80\x94Retrieve your User ID or reset your Password.More features are on the way so watch for updates. ELIGIBLE CARDS The American Express App for Android is only for Consumer Cards, Small Business Cards, and Corporate Cards issued directly from American Express in the UK. Some of the eligible Cards include but are not limited to:\xe2\x80\x94American Express\xc2\xae Green Card \xe2\x80\x94Preferred Rewards Gold Card\xe2\x80\x94Platinum Card\xc2\xae \xe2\x80\x94Centurion\xc2\xae Card\xe2\x80\x94Platinum Cashback Credit Card \xe2\x80\x94British Airways American Express\xc2\xae Credit Card\xe2\x80\x94British Airways American Express\xc2\xae Premium Plus Card\xe2\x80\x94Preferred Rewards Gold Card\xe2\x80\x94Starwood Preferred Guest\xc2\xae Credit Card from American Express\xe2\x80\x94Nectar Credit Card\xe2\x80\x94Harrods American Express\xc2\xae Card\xe2\x80\x94Gold Business Charge Card\xe2\x80\x94Platinum Business Charge Card\xe2\x80\x94Nectar for Business Credit Card\xe2\x80\x94American Express\xc2\xae Corporate Card\xe2\x80\x94American Express\xc2\xae Gold Corporate Card\xe2\x80\x94American Express\xc2\xae Platinum Corporate Card\xe2\x80\x94British Airways American Express\xc2\xae Corporate Card\xe2\x80\x94British Airways American Express\xc2\xae Corporate Card PlusAll access and use of this App is subject to and governed by End User License Agreement, Online Terms and Conditions and Privacy Statement.Recent changes:New capabilities added for Android devices with OS 2.2 and above:- Just received a new American Express Card? You can now activate your Card from your mobile.- Not enrolled in Online Services? You can enroll from your mobile and manage your Card accounts on the go.- Wish to add or remove a Card to your Online Services account? You can now do it from your mobile.- Forgot your User ID or Password? You can retrieve your User ID or reset your Password directly from your mobile.'
+p4
+tp5
+tp6
+.

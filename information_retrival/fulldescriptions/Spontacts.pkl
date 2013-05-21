@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Spontacts '
+p1
+tp2
+(S'Description:'
+p3
+S'Do you wanna know about cool things happening around you and join them spontaneoulsy? No matter if sports, culture or going out - do what you feel like and enjoy your free time! Spontacts is perfect for: - Being spontaneous and going out into town - Exploring that crazy thing you always wanted to do- Finding more people for your impromptu party, sports or culture event - Meeting up with people who share your interests And also: - Spontacts is all free - Your privacy and security is our highest goal - Log in with your Facebook account \xe2\x80\x93 or without - Spontacts is where you are \xe2\x80\x93 set your location and start connectingRecent changes:New in this version 2.9.756: - Writing messages have no longer a limitation of 140 characters- bugfixes including a situation where the back button would not close the appWe are currently working on a new interface for our Spontacts-App with many new features and improvements. We keep you updated!Please contact our support (support@spontacts.com) for any problem you may discover in the meantime.'
+p4
+tp5
+tp6
+.

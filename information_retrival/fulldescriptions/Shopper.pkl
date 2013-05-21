@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shopper '
+p1
+tp2
+(S'Description:'
+p3
+S'Google Shopper helps you find information on millions of products. Google Shopper recognizes products by cover art, barcode, voice and text search. You can find local and online prices, reviews, specifications, videos, and more to help you make the best purchasing decision. With one click you can save items to your shopping list and share with your friends.Recent changes:* Find top products easily with a new category result page showing the most popular products.* View larger product images in the new slideshow view.* This release also includes improvements to search locale detection, stability, and performance.'
+p4
+tp5
+tp6
+.

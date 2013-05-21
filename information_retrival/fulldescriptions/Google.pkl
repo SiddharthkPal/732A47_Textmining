@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google+ '
+p1
+tp2
+(S'Description:'
+p3
+S'FEATURES:- Enjoy magazine style layout in the new tablet version- Automatically share photos to an Event with Party Mode- Video chat with up to 9 friends with mobile Hangouts- Turn on Instant Upload to sync photos from your phone to a private Google+ album- Check out the What\xe2\x80\x99s Hot stream to see trending topics- View the Nearby stream to see what people near your location are sayingRecent changes:- Set bigger cover photos, with a better aspect ratio - Support for strikethrough formatting - Additional bug fixes and performance improvements'
+p4
+tp5
+tp6
+.

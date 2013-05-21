@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HSBC Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'Manage your money on the move and around the clock with this secure Personal Banking app from HSBC. With more updates and features on the way, currently you can: * View your account balances and transaction history * Transfer funds between your HSBC accounts * Pay bills * Locate ATMs and branches * Send and receive secure mail with HSBC To log on to this app you must be an HSBC Personal Internet Banking customer. If you are not yet registered, please visit your local HSBC website. * HSBC helps protect your information by using 128-bit SSL encryption technology within mobile banking sessions. * Data charges from your mobile service provider may apply.\xc2\xa9 2012 HSBC Technology & Services (USA) Inc.Recent changes:Performance enhancements'
+p4
+tp5
+tp6
+.

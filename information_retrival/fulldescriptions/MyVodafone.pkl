@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Vodafone '
+p1
+tp2
+(S'Description:'
+p3
+S'My VodafoneMet de My Vodafone app krijg je toegang tot relevante informatie; tegoed en verbruik, rekeningoverzicht en je contract einddatum. De app is geschikt voor Vodafone klanten met een abonnement & prepaid-klanten.\xe2\x80\xa2 Bekijk eenvoudig je bel-, sms-, datategoed en verbruik\xe2\x80\xa2 Bekijk en beheer eenvoudig het verbruik van je BloX voordeelbundels\xe2\x80\xa2 Inzicht in betaalde en openstaande facturen\xe2\x80\xa2 Inzien van je contract einddatum\xe2\x80\xa2 Opwaarderen van Prepaid tegoed \xe2\x80\xa2 Bekijk internationale tariefinformatie\xe2\x80\xa2 Direct contact met helpdesk of 24/7 webcrew\xe2\x80\xa2 Vind antwoorden op veelgestelde vragen\xe2\x80\xa2 Zoek een winkel bij jou in de buurt\xe2\x80\xa2 Zakelijke ondersteuning: De volgende zakelijke abonnementen kunnen ook gebruik maken van deze MyVodafone app: Vodafone Red, Vodafone Basic, OndernemersBundel, OndernemersBundel Web en Iphone zakelijkHeb je vragen of suggesties of gaat er iets mis? Bezoek dan het Vodafone Forum via de app of via forum.vodafone.nl. Keywords: Vodafone, My Vodafone, Vodaphone, Vodafoon, Mijn Vodafone, Dataverbruik, Data verbruik, Blox, BeltegoedRecent changes:Voor reguliere abonnementen en prepaid:\xe2\x80\xa2 Vernieuwde AppSelectie\xe2\x80\xa2 Optimalisaties voor BloX voordeelbundels\xe2\x80\xa2 Verschillende bugfixesZakelijke klanten hebben nu ook de beschikking over:\xe2\x80\xa2 Support/ Klantenservice\xe2\x80\xa2 Roaming tarieven\xe2\x80\xa2 Abonnementsoverzicht \xe2\x80\xa2 Vernieuwde AppSelectie'
+p4
+tp5
+tp6
+.

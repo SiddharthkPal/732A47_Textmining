@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Klinikleitf\xc3\x83\xc2\xa4den App '
+p1
+tp2
+(S'Description:'
+p3
+S'Kostenlose Basis-App f\xc3\xbcr alle verf\xc3\xbcgbaren Klinikleitf\xc3\xa4den von Elsevier.Die bew\xc3\xa4hrten Klinikleitf\xc3\xa4den \xe2\x80\x93 praxiserprobtes medizinisches Fachwissen auf den Punkt gebracht, tausendfach im Klink- und Praxisalltag bew\xc3\xa4hrt!  In der kostenlosen Basis-App sind alle als App verf\xc3\xbcgbaren Klinikleitf\xc3\xa4den mit Gratis-Testkapiteln enthalten. Warum die Klinikleitf\xc3\xa4den-App?Vollst\xc3\xa4ndig und aktuell:S\xc3\xa4mtliche Klinikleitf\xc3\xa4den k\xc3\xb6nnen aus der Basis-App vollst\xc3\xa4ndig und aktuell als Vollversion heruntergeladen werden.Schnell, genau und bequem:Die Suchfunktion erm\xc3\xb6glicht ein schnelles, genaues und bequemes Durchsuchen s\xc3\xa4mtlicher Leitf\xc3\xa4den. So finden Sie sofort die Antwort auf Ihre Frage.Einfach und individuell:Mit der Notizfunktion k\xc3\xb6nnen Sie an beliebigen Stellen einfach Ihre Anmerkungen hinterlegen und abrufen. \xc3\x9cber die Favoriten- und Verlaufsfunktion finden Sie alle Inhalte, auf die Sie immer wieder zugreifen wollen, spielend leicht wieder.Abbildungen hochaufl\xc3\xb6send in optimaler Qualit\xc3\xa4t:Tabellen, Infografiken und Abbildungen k\xc3\xb6nnen einzeln und in optimaler Qualit\xc3\xa4t aufgerufen werden und pixeln beim Zoomen nicht aus.Derzeit sind folgende Klinikleitf\xc3\xa4den aus der Basis-App heraus verf\xc3\xbcgbar:Praxisleitfaden AllgemeinmedizinKlinikleitfaden An\xc3\xa4sthesieKlinikleitfaden ChirurgieKlinikleitfaden DermatologieKlinikleitfaden Gyn\xc3\xa4kologie GeburtshilfeKlinikleitfaden Innere MedizinKlinikleitfaden Medizinische RehabilitationNotarzt LeitfadenKlinikleitfaden P\xc3\xa4diatrieKlinikleitfaden Sonographie Common TrunkKlinikleitfaden Sonographie GastroenterologieRecent changes:App updates'
+p4
+tp5
+tp6
+.

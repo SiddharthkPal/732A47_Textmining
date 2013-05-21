@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FitScales (Wii Balance Board) '
+p1
+tp2
+(S'Description:'
+p3
+S'Weigh yourself quickly and easily with a Wii Fit Balance Board and Bluetooth enabled Android device. Weighing yourself is as simple as starting FitScales, syncing the balance board then standing still on the board when FitScales is ready. You can optionally sync your weight with RunKeeper and/or FitBit for easy tracking. FitScales makes for a convenient free (open source) alternative to costly high-tech bathroom scales. Suitable for both phones and tablets.Source code is available at https://github.com/paulburton/fitscalesRecent changes:- Fix JellyBean 4.1 compatibility- Prevent installation on JellyBean MR1 4.2 due to Google replacing the Android Bluetooth stack. The new stack does not expose the functionality required by FitScales rendering it incompatible for now.- New app listing. I accidentally lost my signing key which forced this...'
+p4
+tp5
+tp6
+.

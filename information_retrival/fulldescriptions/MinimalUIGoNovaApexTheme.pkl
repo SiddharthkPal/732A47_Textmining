@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Minimal UI Go Nova Apex Theme '
+p1
+tp2
+(S'Description:'
+p3
+S"Minimal UI. A theme for Go Launcher Ex, Nova Launcher, Apex Launcher, ADW, & some others.Please hold off on icon requests at the moment. The theme currently contains 400+ icons but I'll be constantly updating to get back to the 600s. Once I'm there you can start emailing in your requests.Please go to http://kxnt.tumblr.com to see why I had to reupload the theme & change the name. I've also remade the icons, which are now 96x96 instead of the old 80x80, so the icons are bigger & sharper than before.Recommended icon sizes:- Go Launcher: Default Size (small)- Apex Launcher: 100% or 105%- Nova Launcher (Prime): 100% or 105%This is NOT a standalone app, you need a launcher such as Go, Apex, Nova, etc that allow custom themes.Installation:1. Install Go Launcher, Apex, or Nova (all free in the Play Store)2. Install this theme3. Find Minimal UI in any of the launcher's theme settings, then apply.If you have any questions/comments/concerns/ideas then please email me at kantbstopped519@gmail.comRecent changes:Updated to 1.2 on [May 6th, 2013]- Added 63 icons. Check http://kxnt.tumblr.com for the list of new icons."
+p4
+tp5
+tp6
+.

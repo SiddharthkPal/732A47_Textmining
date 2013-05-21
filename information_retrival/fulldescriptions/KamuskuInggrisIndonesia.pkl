@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kamusku (Inggris-Indonesia) '
+p1
+tp2
+(S'Description:'
+p3
+S"Kamusku is an offline English-Indonesia dictionary and vice versa. It contains almost every popular words and additional not-so-popular words in English and Indonesia so you won't have any problem finding words in this application. In case the word can't be found, you can use online translation service (Bing Translator) through this application to translate your words.Kamusku adalah aplikasi kamus offline Bahasa Inggris ke Bahasa Indonesia dan sebaliknya. Selain itu, pengguna juga dapat menggunakan (Bing Translator) untuk kata-kata yang tidak ditemukan dalam aplikasi ini.Recent changes:- UI revamp- Database update and revision"
+p4
+tp5
+tp6
+.

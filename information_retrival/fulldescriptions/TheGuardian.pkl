@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Guardian '
+p1
+tp2
+(S'Description:'
+p3
+S"The Guardian Android app delivers all the latest content from the Guardian to your phone or tablet. Read today's news, sport, comment and reviews. Explore our award-winning multimedia content with videos, podcasts and stunning picture galleries.Join the conversation: view, recommend, share and submit comments.Full feature list:- download your homepage and favourites for offline reading with the touch of a button, or schedule a daily download for a time that suits you- take part with comments and debate- live football scores, results and tables for hundreds of English, Scottish, European and international games- receive alerts for big news stories, exclusives, and goals from your favourite football teams- navigate by section, topic or contributor and discover related stories in an article - browse our award-winning audio and video content- save contributors, topics and sections to your favourites - add favourites to your homescreen with an expanded view or link- live, updating coverage of news and sport events- swipe through stunning full-screen picture galleries- share articles and galleries using the Android share menu - view content in portrait or landscape orientationInformation about the permissions we request:http://www.guardian.co.uk/mobile/insideguardian/android-app-permissionsPrivacy policy:http://www.guardian.co.uk/help/privacy-policyRecent changes:- Special options for Google+ users - share what you read, watch and listen instantly with your circles- Better mobile data usage- Performance and memory enhancementsFully featured commenting:- Read and submit comments while on the move- Share, report, and reply- Sign-in with Google+, Facebook, Twitter or your Guardian account- Register for a new Guardian account in-app"
+p4
+tp5
+tp6
+.

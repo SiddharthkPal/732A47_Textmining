@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'KOLEKSI DOA DOA HARIAN V1 '
+p1
+tp2
+(S'Description:'
+p3
+S'Assalamu Alaikum Wa Rahmatullahi Wa Barakatuh,Aplikasi ini adalah hasil daripada Projek Tahun Akhir pelajar Institut Latihan Perindustrian Ledang. Johor.Aplikasi ini mempunyai koleksi doa dan zikir harian, lengkap dengan audio, penjelasan, bacaan, dan ertinya. Jika anda ingin mencari Doa Sebelum Tidur, Doa Ketika Bangun Tidur, Doa Keluar Rumah, Doa Ketika Masuk Rumah, Doa sebelum makan, Doa selepas makan dan doa-doa yang lain, anda wajib untuk menggunakan applikasi ini.Diharapkan Aplikasi ini dapat membantu dan memberi manfaat kepada anda dan pengguna-pengguna OS android yang lain. Aplikasi ini akan diupdate sekiranya mempunyai permintaan orang ramai. Terima Kasih :)'
+p4
+tp5
+tp6
+.

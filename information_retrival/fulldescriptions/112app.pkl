@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'112 app '
+p1
+tp2
+(S'Description:'
+p3
+S"V\xc3\xa6r s\xc3\xa6rligt opm\xc3\xa6rksom p\xc3\xa5, at n\xc3\xa5r du har downloadet 112 app\xe2\x80\x99en, skal du \xc3\xa5bne den og indtaste dit telefonnummer for at 112 app\xe2\x80\x99en er korrekt installeret p\xc3\xa5 din telefon. Danmarks officielle 112 app er udviklet af Rigspolitiet, K\xc3\xb8benhavns Brandv\xc3\xa6sen og Geodatastyrelsen. Den er finansieret af TrygFonden. Med Danmarks officielle 112 app kan du starte et opkald til alarmcentralen og samtidig sende mobilens GPS-koordinater afsted. P\xc3\xa5 den m\xc3\xa5de kan du f\xc3\xa5 hj\xc3\xa6lp hurtigere. - 112 app\xe2\x80\x99en virker kun i Danmark. - 112 app\xe2\x80\x99en kan kun sende GPS-koordinater, hvis mobilens GPS er aktiveret. - 112 app\xe2\x80\x99en kan kun sende GPS-koordinater p\xc3\xa5 steder med dataforbindelse. Forsat brug af GPS der k\xc3\xb8rer i baggrunden, kan formindske batteritiden v\xc3\xa6sentligt. 112 app'en slukker derfor automatisk for GPS' en n\xc3\xa5r du afslutter app 'en. Hvis dit batteri er under 25 %, vil 112 app\xe2\x80\x99en starte opkaldet til alarmcentralen, men ikke sende GPS-koordinater. Dette er for at sikre, at du kan f\xc3\xa5 fat i alarmcentralen, uden at din telefon l\xc3\xb8ber t\xc3\xb8r for str\xc3\xb8m. 112 app\xe2\x80\x99en vil ogs\xc3\xa5 automatisk stoppe afsendelsen af GPS-koordinater, hvis dit batteri kommer under 25 %. L\xc3\xa6s mere om Danmarks officielle 112 app p\xc3\xa5: www.112app.dk L\xc3\xa6s mere om, hvorn\xc3\xa5r du skal ringe 1-1-2 p\xc3\xa5: www.112.dkDet har vist sig, at GPS'en ikke bliver startet ordentligt op under opkaldet p\xc3\xa5 \xc3\xa6ldre smartphones med \xc3\xa6ldre versioner af Android. Dermed bliver positionen ikke sendt til Alarmcentralen. Det har ikke nogen betydning for dit opkald til Alarmcentralen, som stadig vil g\xc3\xa5 igennem.Problemet er set p\xc3\xa5 f\xc3\xb8lgende to typer smartphones: - HTC Desire (2.2.2) - HTC Desire S (2.3.5) HTC Sense 3.0 Der arbejdes p\xc3\xa5 at finde en l\xc3\xb8sning p\xc3\xa5 problemet. Skulle du st\xc3\xb8de p\xc3\xa5 problemer med andre telefoner, s\xc3\xa5 send gerne en e-mail til 112app@gst.dk.Recent changes:Bugfixes"
+p4
+tp5
+tp6
+.

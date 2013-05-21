@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photaf Panorama (Free) '
+p1
+tp2
+(S'Description:'
+p3
+S"Photaf - The best Android App for creating panoramasCreate beautiful, seamless 360 panoramic photos easily by utilizing the camera and the orientation sensor to know the exact angle each picture was taken.When done, you can move your phone around to see the complete panoramic view by using the phone's compass or the touch screen.View Photaf's online panoramas gallery and get tips for taking better panoramas at www.photaf.com website.Features:\xe2\x97\x8f Automatic Image Stitching\xe2\x97\x8f\xc2\xa0360 Panorama creation\xe2\x97\x8f Upload to Photaf.com website and view it from your computer!\xe2\x97\x8f Facebook Share - Share panoramas with your friends!\xe2\x97\x8f Pinch to Zoom\xe2\x97\x8f Move to SD\xe2\x97\x8f Export to gallery folder\xe2\x97\x8f Optimized for Honeycomb - Works on the Motorola Xoom, Asus Transformer, Samsung Galaxy Tab 10.1, and all other Honeycomb tabletsThe following features are only included in the Pro version:----------------------------------------------------------------------------------\xe2\x97\x8f Ad Free (Pro version)\xe2\x97\x8f Set as Live wallpaper (Pro version)\xe2\x97\x8f HD Mode (Pro Version)\xe2\x97\x8f Use Camera in portrait mode (Pro Version)Please read the troubleshooting section bellow as it may help with common problems.Common issues and troubleshooting:\xe2\x97\x8f Cannot take the next picture \\ Sensor inaccurately follows movementThis is a compass calibration problem, goto Photaf picture taking mode and before taking the first picture, wave your phone in a figure 8 pattern to reset the magnetometer in your device.\xe2\x97\x8f Cannot create file, make sure to use a valid file nameUsually, this is a file creation error, due to SD card either not available, full or corrupted.This error can also popup when the specified name already exists.Try the following:- Use a different unique name- Make sure the SD card is not mounted to your PC via USB- Make sure you have enough space on your SD card- Move some unused files from your SD to your computer, sometimes too many files on the SD can cause problems too- Reboot your device\xe2\x97\x8f Colors on the Motorola defy are wrongUse the defy hack option, under settings. Then, restitch your panorama.Recent changes:Bug fixes and performance improvements"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Election 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S"This is a simple and light-weight app that gives you Live result for the Malaysia's 13th General Election.Language:English & Simplified Chinese Supported.Features:- Count Down to 2013-05-05- Receive Live Announcement- Live Result for Dewan Rakyat / Parliament Seats- Live Result for Dewan Undangan Negeri / State Seats- Tips and useful links for votersDisclaimer:We, the admin team, will try our best to give you the most updated and reliable result.However, the result provided by the App does not represent the final and legal election result.It is for your reference only.Notice:This is a disposable app and will not be maintained after the GE13.You may keep it as a memory of victory or uninstall it after that. :)Keyword:Malaysia, Election, GE 13, GE13, GE2013, BN, PR, PKR, DAP, PAS, 13thRecent changes:v1.3:- Added Leading Meter on the dashboard.- Added Chinese translation for the 7-steps to Vote.- Bug fixes.v1.2:- Bug fixes.v1.1:- Highlight the Party Name for easy viewing.v1.06:- Bug fixes and improvement.v1.05:- Some bugs fixed.- Added Sarawak DUN 2011 result.v1.04:- Added App Theme.- Improved Chinese translations.- Allow clearing App Cache data.v1.03:Added Live Messages.Added search function for seats result."
+p4
+tp5
+tp6
+.

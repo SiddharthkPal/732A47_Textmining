@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hide SMS - private text vault '
+p1
+tp2
+(S'Description:'
+p3
+S'Privacy for your messaging. FREE! Brought to you by KeepSafe. Over 3 million people trust our picture privacy app!Hide SMS is easy to use and keeps conversations locked. Pick the messages you want to hide and KeepSafe will lock them behind a PIN pad. Use Hide text to lock your private messages. KeepSafe puts you in control over who sees what on your phone. KeepSafe is like a Vault to lock text messages in. Finally you can have private messaging and private texting.This sms hider is the best app to hide text messages. It\xe2\x80\x99s simple, easy and beautiful. It just works. Incoming messages for hidden conversations go straight to KeepSafe. There is no popup window or any annoying notification, just a discreet message in the status bar.We currently hide text and calls will come later. Hide text messages is the most requested feature by our users. This sms locker secures your private text messages by putting conversations in a Vault.Users say:"Finnaly a good way to hide my text". " A great text lock."KeepSafe has the best features to protect your messaging privacy:* Hide SMS conversations* New messages go straight to KeepSafe* Reply from KeepSafe* Unlimited usage* Unlimited spaceKeywords: Hide text, hide text messages, hide a text, hide messages, hide my text, hide my texts, hide your text, hiddent text, hidden text messages, hidden messages, vault, secret box, secret text, security lock, private messages, privacy guard,Recent changes:Version 1.3:* Stability improvementsVersion 1.2:* Fixed compatibility problems with Galaxy S3* Speed improvements in message view Version 0.7* Delete messages from a threadVersion 0.6* Custom notifications* Turn off vibration* Bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Beat Maker Machine Pro Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Create PatternsPlay BeatsRecord BeatsRecord SamplesCreate BeatsEdit BeatsImport BeatsSave Beats as MP3, Ringtone and MoreSet Up Pad Sensitivity The Ultimate Drum Machine'
+p4
+tp5
+tp6
+.

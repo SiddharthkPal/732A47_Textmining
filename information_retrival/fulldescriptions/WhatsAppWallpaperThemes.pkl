@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WhatsApp Wallpaper & Themes '
+p1
+tp2
+(S'Description:'
+p3
+S'The best Whatsapp Wallpapers and themes for your chat and messaging delight!To access these wallpapers:1) Press the Menu Button and then press the Wallpaper button2) Select Gallery.  On some devices you will need to select Android System and then Gallery3) Chose the Gallery Square titled WhatsappWallpaper4) Select your favorite Wallpaper created exclusively for Whatsapp MessengerFor step (1), an alternative way is to choose settings->chat settings->wallpaperIn addition to some original Whatsapp wallpapers included with the app, you also have access to many more wallpapers for download or sharing within the app itself.  After the initial installation and copying of files to your WhatsappWallpaper Gallery, you have an entire social HD wallpaper app and collection in several different categories including nature, landscapes, travel, dogs, baby animals, people, and cars.  All for FREE.The social wallpaper app components game-ify the wallpaper selection experience and allow you to earn experience points (xp) which will unlock even more cool features in the app such as uploading, commenting, disliking, moderating, and flagging.Several great features including:1) Save the wallpapers to your phone and set as your background wallpaper.2) Share the images via Facebook, Twitter, E-mail, Badoo, Viber, and Skout3) Sort wallpaper by newest, most popular, featured, and other criteria4) Set the  background in popular messaging apps such as Whatsapp, Line, Cubie, WeChat, Facebook Home, and Kakao5) Use as a gallery interface for different applications6) Favorite, Like, Troll, and Comment7) Interact with other users in our interactive messaging8) Be part of a new growing social community9) Upload your favorite wallpapers10) Gain new features through experience such as content moderation, flagging, upload capabilities, and moreDownload the app now and start getting FREE high quality photo and picture wallpapers for your Android right now.  Optimized images and layout to work on all screens including even low end devices and tablets as well.Coming soon: WhatsApp Messenger Stickers, WhatsApp emoticons, and also new wallpaper collections such as celebrities, singers, planes, bikes, swimsuit models, spring, flowers, clocks, travel, and bollywood.'
+p4
+tp5
+tp6
+.

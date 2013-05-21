@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn English - Voxy '
+p1
+tp2
+(S'Description:'
+p3
+S'Preparing for the TOEFL? Need a better job? Traveling soon? Voxy is personalized for you:  - Our bite size lessons adapt to your needs based on your level, interests and goals. - You can speak with certified, native English-speaking tutors, whenever you want. - All the content you learn is relevant to your day to day tasks. Voxy works on your computer, tablet or smartphone. Download Voxy and start a free trial!In the News CNN: \xe2\x80\x9cVoxy is trying to change the world\xe2\x80\x9d NY Times: "Voxy integrates content from the internet into a learning program" People: \xe2\x80\x9cLearn English from the daily news that interests you most.\xe2\x80\x9d Univision: \xe2\x80\x9cVoxy makes learning more democratic, easy and effective than any other platform in the world\xe2\x80\x9dHow does Voxy work? - Test your level: Voxy works for beginners to advanced learners. Take a free test.- Set your Goals: Choose 3 objectives from your study guide that will improve your life. - Get on a course: Complete 18 skill based lessons and take a test on what you learned. - Receive Awards: If you pass your test get awards to help you change level and move up! Easy to Learn \xe2\x80\x9cVoxy handles English with intelligence and precision. This tool helps me have interesting conversation topics with my clients; it makes me feel more confident.\xe2\x80\x9d - Angel Barraza, Voxy learnerA Proven MethodVoxy\xe2\x80\x99s core pedagogy is based on recent research in second language acquisition, mobile technology and cognitive science. We recently conducted two studies: - Miami-Dade: Voxy students increased their exposure to English by 117%. - ITESM San Luis Potos\xc3\xad: Voxy students improved their TOEFL scores by 22% Learn more: voxy.com Like us: Facebook.com/voxy Follow us: twitter.com/voxyRecent changes:Great News! Now you can personalize your course. FREE: English level test and 30 day experience. NEW: Goals, Awards, Activities, Personal Analytics and Live Tutoring sessions.FIXED: Bug fixes and performance enhancements.'
+p4
+tp5
+tp6
+.

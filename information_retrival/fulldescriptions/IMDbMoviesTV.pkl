@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IMDb Movies & TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Search the world\'s largest collection:\xc2\xb7 Over 2 million movie and TV titles\xc2\xb7 Over 4 million celebrities, actors, actresses, directors and other crew membersRate:\xc2\xb7 Rate movies and TV shows\xc2\xb7 Sign in with your IMDb account or your Facebook accountView:\xc2\xb7 Movie trailers\xc2\xb7 User reviews for movies and TV shows\xc2\xb7 Critics reviews for movies and TV shows\xc2\xb7 Quotes, trivia and goofs about movies and celebrities\xc2\xb7 Your browse and search history on IMDbLook up:\xc2\xb7 Movie showtimes at local theaters near you\xc2\xb7 TV listings for your local time zone\xc2\xb7 Recaps of TV shows from previous night\xc2\xb7 Upcoming movies\xc2\xb7 Latest entertainment news from hundreds of media outletsNotifications:\xc2\xb7 Choose "notify me" on titles and names you\'re interested in to be notified of trailers, photos, showtimes, and news.Explore popular charts:\xc2\xb7 Best Picture - award winners\xc2\xb7 Top rated movies of all time (IMDb Top 250)\xc2\xb7 Most popular movies of the day on IMDb (MOVIEmeter)\xc2\xb7 Most popular celebrities of the day on IMDb (STARmeter)\xc2\xb7 Lowest rated movies of all time (IMDb Bottom 100)\xc2\xb7 Most popular TV shows\xc2\xb7 US Box office results\xc2\xb7 Celebrity birthdaysAvailability:\xc2\xb7 IMDb is available worldwide in English (US/UK), Spanish, German, French, Portuguese, Italian, Japanese, Korean and Chinese. We hope your IMDb experience on your Android phone and Android tablet continues to be entertaining.If you have questions about why we require certain permissions, please see our Android app FAQ page: http://imdb.com/androidfaqGalaxy Note users, if you are having trouble please go to the phone settings, then select "language and keyboard." The language setting will show English, but click to select it and you will see it is not English. Select English.Thank you-IMDb Android teamRecent changes:In addition to fixing some bugs, this update makes it easier to find movies and TV shows to watch.\xc2\xb7 You can see movies playing in theaters near you at the top of the home page, and find showtimes at the top of the title page for every movie playing in your area right now\xc2\xb7 You can now access your Watchlist directly from the navigation bar at the top of every page\xc2\xb7 We also made performance improvements to make the scrolling experience on the home page smoother and faster'
+p4
+tp5
+tp6
+.

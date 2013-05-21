@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MB Search for TinEye '
+p1
+tp2
+(S'Description:'
+p3
+S"Search for images using the amazing TinEye Reverse Image Search engine! (unofficial application)Conveniently search for images online in any of the following ways:   * choosing the Android share functionality in any app (gallery, browser, etc.);   * picking the image from your photos;   * taking a picture with your camera;   * choosing a website with the image you're interested in;and share your results on Facebook, Twitter, via mail or anywhere you want! and best of all, it's free! No ads involved!I'm still working on the app and I plan to add more features in the future, like the possibility of saving the results. If you have suggestions, or need any help, don't hesitate and contact me at mikebannionsw@gmail.com.If you appreciate my efforts and like my app, support me by purchasing MB Notifications for Facebook and make me a happy man!https://market.android.com/details?id=org.mikebannion.fbnotificationsThis application is not affiliated with TinEye. TinEye is a registered trademark of Id\xc3\xa9e Inc.Recent changes:Fixed parsing of some problematic urls;Added intent filter to display old TinEye results;Fixed occasional problem with taking pictures with the Camera;Added option to downsize large images before uploading them;Fixed occasional issue in parsing search results;Fixed occasional force closes when getting images;Fixed the display of results;Fixed EXIF info;Better management and reporting of force closes;Fixed crashes on 1.6 devices;Fixed a few force closes;"
+p4
+tp5
+tp6
+.

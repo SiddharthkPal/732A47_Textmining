@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wapedia: wikis & encyclopedias '
+p1
+tp2
+(S'Description:'
+p3
+S'Taptu Wapedia is the fastest way to access content from Wikipedia and many other wikis.\xe2\x9c\x94 fast searching in Wikipedia content, even on 2G networks\xe2\x9c\x94 featured Wiki content such as news.\xe2\x9c\x94 alternative wikis (Wikiquote, Uncyclopedia, Wikitravel, wikis about games and TV shows, ...)\xe2\x9c\x94 search widgets for instant wiki search\xe2\x9c\x94 150 Wikipedia languages\xe2\x9c\x94 ad supported freewareRecent changes:- bugfixes'
+p4
+tp5
+tp6
+.

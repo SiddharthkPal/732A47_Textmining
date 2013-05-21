@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Blood Pressure Log '
+p1
+tp2
+(S'Description:'
+p3
+S'Blood Pressure Log will help you store and analyse your blood pressure, pulse and weight readings made by your doctor, or at home. Now you can have your blood pressure data at hand wherever you are, whatever you do. Your doctor will love it too!Features:\xc2\xbb Clean, no-nonsense interface\xc2\xbb Fully supported on Android 2.1+\xc2\xbb Unlimited users (perfect if you\'re a doctor!)\xc2\xbb Data entry:\xe2\x86\xaa Date and time\xe2\x86\xaa Site and position\xe2\x86\xaa Systolic and diastolic BP\xe2\x86\xaa Heart rate (pulse)\xe2\x86\xaa Weight (kg/lb)\xe2\x86\xaa Comment\xc2\xbb Data analysis:\xe2\x86\xaa Based on recommendations by World Health Organization, European Society of Hypertension, International Society of Hypertension\xe2\x86\xaa Summary statistics tab\xe2\x86\xaa Dedicated charts screen with zoom-in/-out\xc2\xbb Data export: \xe2\x86\xaa CSV\xe2\x86\xaa XML\xe2\x86\xaa JSON\xe2\x86\xaa HTML\xe2\x86\xaa [PRO] Google Documents\xc2\xbb [PRO] Wireless sensors:\xe2\x86\xaa A&D UA-767PBT \xe2\x86\xaa A&D UA-851PBT \xe2\x86\xaa A&D UC-321PBT \xe2\x86\xaa A&D UC-324PBT\xc2\xbb Supports "move to SD" on Android 2.2+You can disable ads by purchasing a Pro-version license key in Android Market from within the application.NOTE: Send bugs, questions , complaints and feedback to support@bplog.it or through our Facebook page. I cannot answer individual Google Play comments.NOTE: This application *is not* a blood pressure monitor and thus will not allow *making* a reading of your blood pressure. You need to use your own calibrated and certified BP meter for that (most sold worldwide are), or ask your doctor to make a reading for you.Recent changes:1.4.21Translation updatesAdded Spanish translation1.4.19 - 1.4.20Translation updates1.4.18New permissions (Bluetooth) required for wireless sensor support, Android 4.x support, ability to exclude entries from stats, Dutch translation added, many smaller improvements and bug fixes'
+p4
+tp5
+tp6
+.

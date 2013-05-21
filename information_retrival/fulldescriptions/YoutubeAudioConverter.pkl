@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Youtube Audio Converter '
+p1
+tp2
+(S'Description:'
+p3
+S'So your out on the go living your life when you have a sudden urge to listen to that one song but its not on your phone. Open youtube to watch the video and waste your data and battery (dont forget you also cant multi task)?No, becaue you dont have to do that anymore. With Youtube Audio Converter you can now just download the mp3 from that video so you can listen to it whenever you want without having to buffer or use data. It takes only a few short moments and 4 simple steps.1.copy url while on Youtube2.open YAC and paste into url bar3.convert4.download and enjoyThink of it as "cutting out the middle man".Some phones running on older android firmwares cant download the mp3 right away. To solve this, download another free app called "Easy Downloader" and it will do it automatically from then on (on other browsers too).'
+p4
+tp5
+tp6
+.

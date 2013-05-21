@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Financisto - Expense Manager '
+p1
+tp2
+(S'Description:'
+p3
+S"Open-source personal finance manager.- Multiple accounts, multiple currencies - Home currency and exchange rates- Transfers with downloadable rates- Scheduled & recurring transactions- Split transactions- Hierarchical categories with custom attributes- Recurring budgets- Project, payees and locations- Filtering and reporting- Cloud backup (Dropbox, Google Docs)- Automatic daily backups- QIF/CSV import/export*WARNING*Please DO BACKUP before upgrade!Please DO NOT move Financisto to SD card if you're using widget and/or scheduled transactions. *PERMISSIONS*INTERNET - automatic error reporting (can be switched off in the preferences); for downloading currency rates in multi-currency transfer; to do online backup to Dropbox and Google Docs; also required by Google Maps component to edit/view locationsLOCATION - to stamp current location on a transactions, can be switched off in the preferencesCAMERA - to attach pictures to transactions*FAQ*Q: Menu button is not there on my phone, what to do?A: There should be a way for you phone to work with pre-ICS apps. For example, on the HTC One V you must *PRESS AND HOLD* the app switch button (the right most button with the two overlapping square) and then it acts as a menu button.Q: Why currency XYZ is missing? A: You can add any currency manually. Go to Menu -> Entities -> Currencies -> [+]Q: How to delete account/transaction/balance etc?A: Long tap on an item in the list to bring up popup menuQ: Shortcuts do not work on Home screenA: Try to restart your phone, it helps with most of the launchers out thereQ: Home currency and exchange rates give me wrong totalA: Please take a look http://orangesoftware.ru/android/financisto-1-5-6 how the total get calculated with Home currencyKeywords: finance, personal finance, budget, budget manager, personal budget, family budget, manager, finance manager, money, money manager, account, account management, account manager, personal account, personal finance manager, personal finance organizer, expense tracker, expense, income, tracker, expense trackerRecent changes:1.6.4[+] Add more exchange rate providers (OpenExchangeRates, Flowzr)[+] Download all current rates at once (Menu in Exchange rates screen)[*] Add original amount/currency into CSV export/import1.6.3[+] Scheduled transactions planner (experimental)[*] New and updated translations from Crowdin[*] UI tweaks and fixes"
+p4
+tp5
+tp6
+.

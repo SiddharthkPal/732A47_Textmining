@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Anatomy Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Anatomy is the study of anatomical structures that can be seen by the naked eye.Anatomy Dictionary allows you to carry around the most complete reference for human anatomy on your mobile device.Anatomy, human physiology (the study of function), and biochemistry (the study of the chemistry of living structures) are complementary basic medical sciences that are generally together (or in tandem) to students studying medical sciences.This app\xe2\x80\x99s primary use is as a learning tool but can also be used for any professional who needs the occasional reminder.Human anatomy can be taught regionally or systemically; that is, respectively, studying anatomy by bodily regions such as the head and chest, or studying by specific systems, such as the nervous or respiratory systems. Additionally, this app is ideal for physicians, educators or professionals, allowing them to visually show detailed areas to their patients or students - helping to educate or explain conditionstags: anatomy dictionary , anatomy guide, human parts , body parts , anatomy learn , free anatomy pocketbook'
+p4
+tp5
+tp6
+.

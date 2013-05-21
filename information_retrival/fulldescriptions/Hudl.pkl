@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hudl '
+p1
+tp2
+(S'Description:'
+p3
+S'Hudl lets sports coaches and athletes comfortably watch their team\'s video they\'ve published to Hudl.com* Watch your team\'s game, practice, and opponent scout video.* Download your team\'s video and take it with you anywhere offline.* Browse your teams, schedules, and playlists. * Use breakdown data to filter and quickly find clips. * Swipe the screen slowly to control the video playback speed when in Download mode.This app requires an account on Hudl.com. If you\'re a coach, athletic director, or booster, visit http://www.hudl.com/signup to sign up. Check with your coach for your login information if you\'re an athlete on a team that uses Hudl.Anyone can test drive Hudl by tapping "Try the Demo" on the Login screen within the app.Recent changes:Version 3.0New Video Player! We updated the old video player with a newer, faster, sleeker design. You\'ll love it.Version 2.4.2Fixed common offline downloads crash.Preparations for mobile capture for Android.Version 2.4.1Fixes a couple of offline download bugs.Version 2.4Offline viewing of playlists (new "Offline" tab on the dashboard screen).Other bug fixes.'
+p4
+tp5
+tp6
+.

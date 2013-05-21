@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DroidEdit (free code editor) '
+p1
+tp2
+(S'Description:'
+p3
+S"DroidEdit is a text and source code editor (similar to Notepad++ or gedit) for android tablets and phones with the following features:- Syntax Highlighting for several languages (C, C++, C#, Java, HTML, CSS, Javascript, Python, Ruby, Lua, LaTeX, SQL, ...)- Several color themes- Infinite undo & redo- Search & replace- Auto & block indentation- Keep opened files and changes between sessions- Open files directly from dropbox or a file manager- Character encoding support- Keyboard shortcuts (List below)- Share documents with other services (dropbox, email, ...)- Preview HTML files in browser- Bracket matching- Go to line- Run Scripts in SL4A directly- Configurable ShortcutsPro version only features:- SFTP/FTP support- Dropbox support- Custom themes- Run external commands through SSH- Root modeUsing different character encodings:- To open a document with a different character encoding than the default: long press the open file button- To create a new document with a different character encoding than the default: long press the new file button- You can make this behavior the default in the preference screenLong pressing the save document button allows you to save a document with a different filename--------DroidEdit is specially useful for new generation android tablets with external keyboards like the Asus Transformer.Try Hacker's Keyboard for a developer friendly virtual keyboard.You should try the ad supported DroidEdit Free before buying this app. The ad supported version has exactly the same functionality as the paid version except it doesn't have SFTP support, Dropbox support, Custom themes and root mode.Please rate the app in the market. For bug reports, feature requests or any other subject please use the following contacts:Mail: droideditapp (at) gmail.comTwitter: http://twitter.com/DroidEditBlog: http://droidedit.wordpress.com/User Feedback: https://droidedit.uservoice.com/Facebook: http://facebook.com/droideditRecent changes:* Updated Chinese, French, Japanese and Russian translations* Fix: SwiftKey ignoring Writer Mode setting* Initial Visual Basic support"
+p4
+tp5
+tp6
+.

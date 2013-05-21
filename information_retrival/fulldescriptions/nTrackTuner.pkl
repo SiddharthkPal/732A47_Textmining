@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'n-Track Tuner '
+p1
+tp2
+(S'Description:'
+p3
+S"Tune your guitar, bass or other instrument with n-Track Tuner. Just put your device next to your instrument and play each string, the tuner will automatically recognize the note you're playing and tell you wether you need to lower (green bar) or increase (red bar) the string's pitch.The spectrum analyzer provides a visual feedback of the notes played by the instrument and shows a small arrow to highlight the harmonic whose pitch the tuner is tracking. For those who prefer to manually tune their instrument the 'Diapason' view lets you play a reference tone, 'A' (440 hz) or any other note that you can select dragging the frequency slider.Advanced features\xe2\x80\xa2 tap to adjust the spectrum analyzer visualization options, select thicker spectrum lines,  smooth out or highlights peaks, increase or decrease tuning sensitivity and precision (up to 0.1 cents)\xe2\x80\xa2 you can calibrate the tuner for non-standard tunings: tune the reference note, tap on the display and select 'Calibrate' to set the note as the new reference. You can also select non-standard musical temperaments, alternate note namings and much more\xe2\x80\xa2\xc2\xa0select the Sonogram tab to view how the frequency spectrum changes with time, and follow the tuned note as it travels thorugh the spectrum as a green linen-Track Tuner works great as a guitar tuner, violin, viola, violoncello, bass, piano and wind instruments tuner.If you have problems with the app or suggestions for enhancements or new features please contact us at http://ntrack.com/supportNote\xe2\x80\xa2 The app requires the internet permission to display adsRecent changes:Improved tuner graphicsAdded Sonogram view (available as in-app purchase)Customizable precisionAlternate note namingsNon-standard temperaments"
+p4
+tp5
+tp6
+.

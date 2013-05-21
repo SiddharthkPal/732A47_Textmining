@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DeskSMS '
+p1
+tp2
+(S'Description:'
+p3
+S"DeskSMS forwards your text (and MMS!) messages to your GMail, Google Chat, and DeskSMS Chrome extension! And if you reply back, the recipient gets a text from your number!You can use your favorite IM client (Beejive, Trillian, etc) or email client to send text messages from your phone number!Download DeskSMS on your phone, and then use your an IM or email client from your PC or tablet to send text messages!Step 1) Install DeskSMS on your *phone*.Step 2) Install a chat client or use gmail on your desktop  PC or tablet (like a XOOM)Step 3) Have a friend send you an SMS, and respond from your desktop PC or tablet!View your conversations on the DeskSMS Website:https://desksms.appspot.com/DeskSMS Chrome Extension:https://chrome.google.com/webstore/detail/nmgcfdmgcfldfkehdgoancleciikdlnfDeskSMS Firefox Extension:https://addons.mozilla.org/en-US/firefox/addon/desksms/DeskSMS Tablet Extension:https://play.google.com/store/apps/details?id=com.koushikdutta.tabletsmsTips:We recommend using Gmail filters to keep your inbox organized!Use the DeskSMS widget to quickly toggle which notifications you get!Troubleshooting:For incoming Google Talk messages, remember to approve the contact from number@desksms.appspotchat.com!Not getting your message on your computer? Try logging in again. Verify that your default SMS app is enabled.Phone not syncing? Try relogging back into the DeskSMS android application.Issues? Email koush@clockworkmod.comRecent changes:1113: Fix SMS send bug on some phones.1112: Fix up device wakeup to not turn on the screen.1111: Don't wake device on SMS.1100: Fix some TabletSMS issues. This update will require TabletSMS also be update to 1.0.0.4.1109: Support for the upcoming TabletSMS app, a native DeskSMS client for Android tablets.1108: Fix crash.1107: Update to allow purchase of an additional year.1106: UI and crash fixes for ICS.1105: Fix the url of the debugging server used to track down bugs."
+p4
+tp5
+tp6
+.

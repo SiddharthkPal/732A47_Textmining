@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MediaFire '
+p1
+tp2
+(S'Description:'
+p3
+S'MediaFire provides a complete and easy to use service for managing your digital stuff.  Whenever and wherever you go, MediaFire makes sure that your files are always with you.Never be away from your important files again! With up to 50GB of free storage, MediaFire lets you access all your documents, photos, and videos from anywhere. Securely store, organize, and share all your data on the web and through your Android device.Features:\xe2\x80\xa2 Keep all your important files at your fingertips.\xe2\x80\xa2 View docs, spreadsheets, presentations, video, and listen to audio.\xe2\x80\xa2 Take and upload pictures and videos directly in the MediaFire app.\xe2\x80\xa2 Upload Android gallery images. \xe2\x80\xa2 Create and manage folders of files.\xe2\x80\xa2 Share files on the go via email, SMS, through other Android apps, and with copy and paste links.\xe2\x80\xa2 Quickly search all your MediaFire files and folders.Keep your pictures, reading material, work docs, spreadsheets, presentations, and even your homework in your pocket, ready for you to view or share anytime. All your files will always be safe in your MediaFire account and accessible through the MediaFire.com website.Recent changes:This update includes various bug fixes.'
+p4
+tp5
+tp6
+.

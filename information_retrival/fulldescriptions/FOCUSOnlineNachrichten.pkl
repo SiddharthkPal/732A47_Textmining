@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FOCUS Online - Nachrichten '
+p1
+tp2
+(S'Description:'
+p3
+S'Die FOCUS Online Nachrichten - App bietet topaktuelle News aus Politik, Finanzen, Sport, Wissen, Gesundheit, Technik, sowie sorgf\xc3\xa4ltig recherchierte Hintergrundberichte und Services an. Die Vorteile der Nachrichten-App im \xc3\x9cberblick:\xe2\x80\xa2 hochqualitativer Journalismus aus der FOCUS-Online-Redaktion \xe2\x80\xa2 Fu\xc3\x9fballinfos (Champions League, Bundesliga, 2. Bundesliga und DFB-Pokal: Liveticker, alle Spiele, Blitztabellen) \xe2\x80\xa2 Formel 1 - Infos (Liveticker, Ergebnisse, Weltmeisterschaftswertung) \xe2\x80\xa2 gro\xc3\x9fes Videoarchiv \xe2\x80\xa2 sehr h\xc3\xa4ufige Aktualisierung der Inhalte \xe2\x80\xa2 kurze Ladezeiten\xe2\x80\xa2 optimierte Lesbarkeit von Artikeln \xe2\x80\xa2 Push-Meldungen (z.B. Eilmeldungen) bei wichtigen News\xe2\x80\xa2 einfach Nachrichten auf Facebook, Twitter teilen\xe2\x80\xa2 eine App f\xc3\xbcr Smartphone und Tablet\xe2\x80\xa2 Gratis-AppDie Berechtigung "Ihre Konten" wird f\xc3\xbcr den Empfang von Push-Nachrichten ben\xc3\xb6tigt, da ein vorhandenes Google-Konto erforderlich ist. Mit dieser Berechtigung ist es nur m\xc3\xb6glich, abzufragen, ob ein Konto vorhanden ist. Die Liste der gefundenen Konten wird nicht \xc3\xbcbermittelt und die Daten der Konten selbst sind der App nicht zug\xc3\xa4nglich. Die Berechtigung "Ihr Standort - Ungef\xc3\xa4hrer (netzwerkbasierter) Standort" wird f\xc3\xbcr das Wettermodul ben\xc3\xb6tigt.Recent changes:Version 2.1.4:\xe2\x80\xa2 Jetzt mit 2. Bundesliga (Liveticker, Tabelle, Spielst\xc3\xa4nde) im SportLive - Bereich!\xe2\x80\xa2 Wettermodul in den Einstellungen abschaltbar\xe2\x80\xa2 Verbesserte Stabilit\xc3\xa4tVersion 2.1.3:\xe2\x80\xa2 Formel 1 - alle Rennen im Liveticker mit Fahrer- und Konstrukteurswertung im Ressort "Sport Live".\xe2\x80\xa2 Wetter - \xc3\x9cbersicht jetzt mit dem Wetter in Ihrer Stadt. Hierf\xc3\xbcr wird die Berechtigung "Ihr Standort - Ungef\xc3\xa4hrer (netzwerkbasierter) Standort" ben\xc3\xb6tigt.'
+p4
+tp5
+tp6
+.

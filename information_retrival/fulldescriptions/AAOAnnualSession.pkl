@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AAO Annual Session '
+p1
+tp2
+(S'Description:'
+p3
+S'Everything you need to know about the AAO Annual Session on your smartphone or tablet! Download this FREE application today and you can: - View the conference program- Explore speaker biographies- Review session slides- Confirm course credit procedures- Plan a visit to the Exhibits- Use maps of the venue and environs- Get local recommendations (restaurants, nightlife, attractions)- And much more!'
+p4
+tp5
+tp6
+.

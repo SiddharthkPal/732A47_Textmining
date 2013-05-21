@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo Art Studio '
+p1
+tp2
+(S'Description:'
+p3
+S"Photo Art Studio is a software that comes packed with some elements that you need to create greeting cards, collages, and others.Now, you can edit the photograph by adjusting its brightness (contrast and saturation), tint (hue and lightness), balance (cyan, magenta, yellow), as well as rotate or crop it.In addition, you can apply various filters which consist of 'Sepia' (scratch effect, dark borders, stamp effect), 'Colorize' (hue, lightness, saturation), 'Wave' (amplitude, width, phase), 'Watercolor' (brush size, sharpness, saturation) and 'Color Reduction' (color count, use single tint, choose color).All in all, Photo Art Studio is a fun tool for first-time users to play with. However, if you're looking for more serious results, then you should try a more professional software.Tag: album, video, photoshop, adobe, picture, image, egg shoot, zuma, chup hinh, han quoc, photo stylesRecent changes:1.3.3- Fix bugs force closes1.3.2- Fix bugs- Support display text"
+p4
+tp5
+tp6
+.

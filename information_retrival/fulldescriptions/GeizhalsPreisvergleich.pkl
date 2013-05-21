@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Geizhals Preisvergleich '
+p1
+tp2
+(S'Description:'
+p3
+S'Geizhals ist der Preisvergleich f\xc3\xbcr Hardware, Unterhaltungselektronik, Haushalt, Sport, Freizeit und Drogerie.Mit der neuen Geizhals-App Preise bequem von unterwegs vergleichen:Einfach Produktnamen eingeben oder den Barcode (Strichcode) eines Produktes scannen und das beste Angebot finden.Die wichtigsten Funktionen der Geizhals-App:\xe2\x80\xa2 Produkte suchen\xe2\x80\xa2 Barcode-Scan\xe2\x80\xa2 Filtern der Produkte nach technischen Daten und Verf\xc3\xbcgbarkeit\xe2\x80\xa2 Sortierung nach Bestpreis, Beliebtheit, Produktbewertung und Name\xe2\x80\xa2 Produktbewertungen lesen\xe2\x80\xa2 Angebote aus anderen EU-L\xc3\xa4ndern anzeigen\xe2\x80\xa2 Anzeige der Adressen von Ladengesch\xc3\xa4ften auf der Karte und Navigation dorthin (Navigation muss installiert sein)\xe2\x80\xa2 Unterst\xc3\xbctzung der Spracheingabe von Suchbegriffen (wenn vom Betriebssystem unterst\xc3\xbctzt)Geizhals z\xc3\xa4hlt zu den gr\xc3\xb6\xc3\x9ften Preisvergleichsplattformen im deutschsprachigen Raum. Im Januar 2011 verzeichnete die Plattform laut \xc3\x96sterreichischer Webanalyse \xc3\x96WA \xc3\xbcber 2,8 Millionen Unique Clients. Betreiber von Geizhals.at ist das im Jahr 2000 gegr\xc3\xbcndete, \xc3\xb6sterreichische Unternehmen Preisvergleich Internet Services AG mit Sitz in Wien.Weitere Informationen: http://unternehmen.geizhals.atRecent changes:1.3.6:- Barcode scannen funktioniert nun auch mit der Google Suche1.3.4:- Weitere Fehlerbereinigungen.1.3.3:- Scanner f\xc3\xbcr Werbekampagne erweitert: Scannt nun auch QR-Codes und \xc3\xb6ffnet die entsprechende Ansicht in der App oder wenn das nicht m\xc3\xb6glich ist, im Browser.- Fehlerbereinigungen.'
+p4
+tp5
+tp6
+.

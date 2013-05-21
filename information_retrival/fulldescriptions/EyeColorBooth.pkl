@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Eye Color Booth '
+p1
+tp2
+(S'Description:'
+p3
+S'The FIRST of its kind! Change your eyes into amazing multi-colored eyes with a beautifully textured iris. The results are mesmer-EYE-zing\xe2\x80\xa6 a halo is created with multiple colors to create the most realistic stunning results.As an added bonus, you can set the original image to black and white so that your new eyes jump out of the photo!Features:- Create single, multi-colored or full-spectrum eyes!- Erase Tool - Touch up the final photo to remove any excess color- Save results to photo library or share via email, Facebook or TwitterRecent changes:Bug Fixes'
+p4
+tp5
+tp6
+.

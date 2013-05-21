@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ICE : Emergency Contact '
+p1
+tp2
+(S'Description:'
+p3
+S'"ICE: Emergency Contact" is an application that helps people who have problem or who are victim of accidents. It is based on the ICE program that consists in saving a contact who is named "ICE" in your contact list. This contact has medical informations about you.In this application, you can save useful informations for rescue workers (allergy, medication, condition, identity, organ donor, blood type ...) and contact people "in case of emergency".Thus, with only one click on your screen, send SMS alerts to all your saved contacts and call rescue workers immediately ! Your contacts will know where you are and will be able to help you !Place a widget on your homescreen to alert your circle of contacts (compatible with alternative lockscreens like ScreenLocker).This application was developped from the advice of an EMT.List of permissions :- Send SMS to contact your saved contacts when you need it- Access your contact list to choose contacts- Get GPS coordinates to help your saved contacts to find you in case of emergencyPrivate informations saved in your application belong exclusively to you and are only accessible by you on your Androphone.If you have any notes (like spelling...), please contact me by mail. ThanksThis version is limited at 2 contacts. Please buy "ICE - Emergency Contacts +" to have an infinity of contacts.Recent changes:BugFix : App could stop during install.Precedent update was also to correct this bug.Normally, it\'s now correct. These updates are not indispensables to use ICE.'
+p4
+tp5
+tp6
+.

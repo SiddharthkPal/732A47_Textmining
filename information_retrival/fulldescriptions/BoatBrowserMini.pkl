@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Boat Browser Mini '
+p1
+tp2
+(S'Description:'
+p3
+S'Boat Browser Mini is a fast, simple and beautiful web browser, which brings a better user experience on all Android devices!- The UI is simple, clean and easy to use\xe2\x80\xa6- We include a Speed Dial homepage, which can easily be replaced by your own homepage!- It\xe2\x80\x99s quick to start up, load and render pages\xe2\x80\xa6- More Personalized Themes are coming soon! - Multiple language support! - Supports visual multi-tabs in the gallery\xe2\x80\xa6- Multi-touch Pinch to Zoom support\xe2\x80\xa6- Supports creating shortcuts from a web page to your home screen\xe2\x80\xa6- Supports a full screen option button in the menu\xe2\x80\xa6- Easily add bookmarks!- Animation effects when operating!- You can hide, Zoom in/Zoom out, buttons in the settings menu\xe2\x80\xa6- Supports dominant WAP website format\xe2\x80\xa6- Supports Adobe Flash Player on Android 2.2 and above\xe2\x80\xa6- Supports a powerful download manager!- Super easy \xe2\x80\x9cGingerbread style\xe2\x80\x9d copy/paste tool\xe2\x80\xa6- Supports App to SD function!- Supports Cache to SD function!- Adds volume key control setting for switching tabs, scrolling up/down the page and zooming into the page\xe2\x80\xa6- Adds an Incognito mode for (private browsing)\xe2\x80\xa6Ads are shown on the bookmark page, you can buy a license key to remove the ads.Keywords: browser, mobile browser, web browserPlease feel free to send us your feedback, your suggestions are very helpful!!! email: boatbrowser@gmail.com.Find out more about us via:Twitter - http://twitter.com/BoatBrowserFacebook - http://www.facebook.com/boatmobileWebsite - http://www.boatmob.com/Recent changes:V5.1 update: 1. Bug Fix: "No Response" happens when open bookmarks page.2. Performance enhanced.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Huffington Post for Android '
+p1
+tp2
+(S'Description:'
+p3
+S"The Huffington Post app for Android brings you up-to-the-minute articles, photos, videos and blogs in a dynamic and personalized experience. By customizing your settings, you can be a part of the conversation on the topics that matter most to you -- from politics, business and technology, to fashion, entertainment, lifestyle and healthy living.Featuring real-time updates from HuffPost's Pulitzer-prize winning newsroom, the app lets your voice be heard by commenting on articles, and sharing your favorite stories and opinion pieces with friends, family, and coworkers in your social networks. You can also download stories for offline reading \xe2\x80\x93 no connections needed.  And it\xe2\x80\x99s global \xe2\x80\x93 our app connects you with the best from our international editions, including the UK, Canada, France, Spain and Italy.Recent changes:Simply swipe among sections to quickly get to your favorite topics.Bookmark your favorite stories so that they are easy to find later.Customize your favorite topics so you can prioritize the sections you want to read first.Added search capability and bug fixes."
+p4
+tp5
+tp6
+.

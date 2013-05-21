@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CommBank Kaching '
+p1
+tp2
+(S'Description:'
+p3
+S'CommBank Kaching is mobile banking like you\xe2\x80\x99ve never seen it before. It\xe2\x80\x99s NetBank on your Android phone but so much more. The simple, sleek design makes doing your everyday banking basics like viewing your accounts, making BPAY\xc2\xae payments and transferring money a breeze. You can also pay anyone, anywhere via your mobile, email or Facebook contacts.    All of this and more in one app\xe2\x80\xa6 and this is just the start. Key features:\xe2\x80\xa2 Pay anyone via your mobile, email or Facebook contacts; \xe2\x80\xa2 View accounts and make BPAY\xc2\xae payments, transfer money between your accounts or to someone else\xe2\x80\x99s account;\xe2\x80\xa2 Get a quick view of your account balance with Simple Balance (activate this feature via Settings);\xe2\x80\xa2 Receive Facebook payments straight into your default account, so there\xe2\x80\x99s no need to collect (activate this feature via Settings);\xe2\x80\xa2 Log on quickly by creating a 4-digit PIN instead of using your NetBank password;\xe2\x80\xa2 Find your nearest Commonwealth Bank ATM or branch;  \xe2\x80\xa2 Plus more... For the full list of features go to http://www.commbank.com.au/kaching-for-android.To use CommBank Kaching, you\xe2\x80\x99ll need an Android phone running Android version 2.3 or above, use NetBank and also be registered for NetCode SMS. Not registered for NetBank or NetCode SMS? Visit http://www.netbank.com.au. CommBank Kaching allows you to do your banking and payments on the go and provided you keep to the Terms & Conditions, you have the reassurance of our 100% security guarantee. See http://www.commbank.com.au/netbanksecurity for more info. Important information: Recipients of payments via mobile, Facebook and email need an Australian bank account to claim. Subject to network provider coverage. Other conditions and fees apply. Android and Google Play are registered trademarks of Google Inc. BPAY is a registered trademark of BPAY Pty Limited ABN 69 079 137 518. Facebook\xc2\xae is a registered trademark of Facebook Inc. Commonwealth Bank of Australia ABN 48 123 123 124.Recent changes:\xe2\x80\xa2 Keyboard automatically shown for log on screen. \xe2\x80\xa2 Enhanced fully native Android experience\xe2\x80\xa2 Improved performance\xe2\x80\xa2 Updated \xe2\x80\x98Find us\xe2\x80\x99 feature, including improved filter and 3D maps\xe2\x80\xa2 Ability to background the app\xe2\x80\xa2 Now available to most Android phones running Android 2.3 or newer'
+p4
+tp5
+tp6
+.

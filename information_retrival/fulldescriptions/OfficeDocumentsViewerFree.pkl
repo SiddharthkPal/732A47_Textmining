@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Office Documents Viewer (Free) '
+p1
+tp2
+(S'Description:'
+p3
+S'(formerly Mobile Document Viewer)Small and fast OpenOffice.org and (with limitations) Microsoft Office 2007 document viewing application. It allows opening office productivity application documents located in the filesystem, e.g. on sd card, as well downloaded documents, files on Dropbox, or documents files attached to an email. It offers zooming in and out of documents, searching inside documents as well as copying text from documents. And it even offers reading text documents (.odt, .sxw, .docx) aloud via Android\'s text-to-speech functionality.The following file formats are currently supported:- OpenOffice.org 2.x, 3.x and LibreOffice Open Document formats: .odt (Writer), .ods (Calc), .odp (Impress) - OpenOffice.org 1.x formats: .sxw (Writer), .sxc (Calc) (no support for embedded images)- MS Office 2007 formats: .docx (Word), .xlsx (Excel), .pptx (Powerpoint)- Other formats: HTML, .txt (plain text), .csv (comma-separated values), .tsv (tab-separated values)Please note that some restrictions apply for viewing documents:- Displaying the documents is done via a conversion to HTML, which is why the document will look differently than if viewed with a desktop office productivity application- Large spreadsheet documents may take some time to open, or sometimes not open at all- When displaying images, only those images will be shown where the image format is supported by the Android browser- Password-protected Microsoft Office documents cannot be openedAd-supported version, need to be online when viewing documents, so that ads can be loaded. Permissions required for displaying the ads.If you are smart and you like this app, please rate it. If you are smart and don\'t like it, please send me an email to tell me what should be improved. Not so smart people may simply give a bad rating and/or use swear words in the comments and/or complain about "missing" features the software never promised to have...Recent changes:-added French translation-bug fixes'
+p4
+tp5
+tp6
+.

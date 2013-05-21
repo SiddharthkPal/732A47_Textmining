@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Spectral Audio Analyzer '
+p1
+tp2
+(S'Description:'
+p3
+S'Free real-time audio analyser with 8 kHz spectral bandwidth. Display any sort of audio from the microphone as a coloured spectrogram. Identify environmental noise, search for annoying tones, view harmonic patterns of instruments and voices, analyse the frequency range of your speaker... .Bugs and feedback to: info@radonsoft.netRecent changes:Version 1.5:- Native support for large screens and tablets.- Updated to Android 2.3 with support for Android 3.x- Minor bug fixesVersion 1.61:- support fo sd-install- crash when pausing app fixedThanks to all that contributed! Enjoy!'
+p4
+tp5
+tp6
+.

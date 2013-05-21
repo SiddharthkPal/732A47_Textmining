@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ayat al Kursi (Throne Verse) '
+p1
+tp2
+(S'Description:'
+p3
+S'The Throne Verse (\xd8\xa2\xd9\x8a\xd8\xa9 \xd8\xa7\xd9\x84\xd9\x83\xd8\xb1\xd8\xb3\xd9\x8a) or Ayatul Kursi, is the 255th verse of the second Surah Al-Baqara. It is the most famous verse of the Quran.This application contains the verse with translation and transcription (you can disable in the preferences). To facilitate memorization, the verse is divided into several parts that you can listen several times.Also, the ayat can be recited by many reciters (Saad Al-Ghamidi, Mishary Al-Afasy, ...).Currently the application supports English, French, Spanish, Italian, German, Turkish, Indonesian, Malesian, Albanian, Russian, Dutch, Norwegian, Swedish, Hindi, Chinese and Portuguese . For adding new languages \xe2\x80\x8b\xe2\x80\x8bor additional features, please, contact me by e-mail.Recent changes:- Enhancement of screen rotation management.- When receiving a call, the audio is paused.'
+p4
+tp5
+tp6
+.

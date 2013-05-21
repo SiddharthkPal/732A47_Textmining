@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Funny SMS Ringtones '
+p1
+tp2
+(S'Description:'
+p3
+S'Funny SMS Tones by Sancron RingtonesFunny SMS Tones app contains 54 high quality and loud sounds of funny SMS and funny ringtones. These funny ringtones are guaranteed to make you smile and laugh. Try the funniest ringtone app in the Market!*Press and hold for features!Recent changes:* Bug fixes!'
+p4
+tp5
+tp6
+.

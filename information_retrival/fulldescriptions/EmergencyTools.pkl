@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Emergency Tools '
+p1
+tp2
+(S'Description:'
+p3
+S"The Emergency Tools App gives immediate access to emergency numbers (fire, police, medical and other emergency numbers) around the world as well as other tools that can be used in case of an emergency (flashlight, compass).In order to quick use all features this app has widgets that can be placed in phone home screen, allowing executing any feature with just one click.In order to quick configure this app, it's possible to use fine/course location to select the current country, and immediately activate country emergency numbers.Other Features:- Define message templates- Send sms help messages based on message templates- Send email help messages based on message templates- Flaslight- Led Flaslight- SOS Flaslight- Led SOS Flaslight- Stop Flashlight- Emergency Flashlights- Widgets- Compass- New UINOTE: Emergency numbers use only in case of an emergency.Known working devices with camera led (flashlight)Huawei Ideos X5Samsung Galaxy S2Samsung EpicHTC DesireHTC EVODroid x2Motorola cliq xtAlcatel 990If camera led also worked in your device and your device is not listed, send me an email with your phone's model and I will update the known working devices list*Please email me with any notes, problems, wrong numbers or suggestions*ThanksRecent changes:v2.4.3 - Update led flashlight to support more devices"
+p4
+tp5
+tp6
+.

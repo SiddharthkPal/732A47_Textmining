@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dock Clock (Night Clock) '
+p1
+tp2
+(S'Description:'
+p3
+S"Like Dock Clock?  Check out Dock Clock Plus, every feature you can imagine and more! (Now with selectable 'Dock Clock Free' clock & weather theme)http://play.google.com/store/apps/details?id=com.gadgetjuice.dockclockplusFor night usage (its primary design goal) you customize screen brightness and ringer options including 'soft ring'.  Dock Clock is optimized for AMOLED screens and fully supports Ice Cream Sandwich (Android 4.0). HTC owners: Due to choices made by HTC the hardware buttons on many HTC devices can not be turned off by third party applications using the standard Android API. \xc2\xa0Some third party ROMs do fix this HTC bug.Dock issues: Please try the new 'Dock (alternative)' activation mode if Dock Clock doesn't launch automatically upon docking.If you have a compatible dock any app can 'unlock' your phone, this is Android design.(Requires internet access permission in order to update weather).* Auto launch from dock / power connected / manual* Automatically dims screen backlight* Automatically turns off hardware button lights (may not work on all devices, depends on your mfg supporting the Android API)* Touch to brighten, long press for settings* Selectable ringer modes* Selectable screen brightness* Orbit feature moves the clock around the screen to avoid burn-in (swipe down on screen to preview)* System alarm shortcut in settings menu* Widgets: weather, date & info, date & info, date, none* 12 / 24 hour clock (optional AM/PM display)* Text font selection (choice of five including ICS & JB clock fonts)* Text color selection* Optionally show dimmed home screen wallpaper in backgroundNOTE: This application is designed to be used with the device plugged into a charger, if you activate the application without power connected you will drain your battery.Dock Clock uses the system alarm and has a link to the set alarms from its own settings page, the alarms themselves are handled by your phone and not Dock Clock.AVG AntiVirus: AVG have confirmed that Dock Clock was temporarily incorrectly flagged as malware, this was due to a 'false positive' match in their software.  They have now removed this false positive and white-listed Dock Clock.Recent changes:- Removed AdMob ad in settings"
+p4
+tp5
+tp6
+.

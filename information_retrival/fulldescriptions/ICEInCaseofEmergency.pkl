@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ICE - in case of emergency '
+p1
+tp2
+(S'Description:'
+p3
+S'ICEcard is a convenient way to store information needed by rescuers and doctors, if you are a victim of an emergency. In addition to a list of contacts of the closes persons, it also allows you to save information about taken medications, passed diseases, allergies and other health information.Thanks to the ability of creating multiple profiles, the program can also become a useful database for medical information about family members or other close persons.A special alarm button allows to send in critical situation, an emergency sms message to all the people from your contact list, containing among others data collected from mobile phone\xe2\x80\x99s GPS, so that the closest persons become instantly informed about serious life-threatening situations and receive information about the current position of the user.Just one click on the screen to let your loved ones know that you need help!ICEcard application is free of advertisement.Recent changes:Version 1.26- fixed menu bugVersion 1.25:- Introduction of the U.S. units (inches, pounds).- Two-stage SMS alarm sending (first same message, then the location data).- Sending of location data at the request of the SMS.- Japanese Language version.Version 1.13:- Improved upload photographs.- Storing photos in the database.- Locking devices for emergency calls without a SIM card.- Addition type selection number: Mobile, Home, Office, ...- Adding a horizontal forms.'
+p4
+tp5
+tp6
+.

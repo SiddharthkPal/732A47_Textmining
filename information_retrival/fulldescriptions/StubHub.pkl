@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'StubHub '
+p1
+tp2
+(S'Description:'
+p3
+S"Finding the seats you want from your Android phone is no longer a fantasy. The StubHub app brings the world\xe2\x80\x99s largest ticket marketplace right to your mobile device, making it easier to find the sports, concert, or theater tickets you want or sell your tickets when you can\xe2\x80\x99t go.SELLING TICKETSList tickets for sale with just a few taps. If we're partnered with that team, artist, or venue, you can then scan ticket barcodes to make your tickets available for Instant Download. Need to make a change? You can delete, activate, or deactivate your listings \xe2\x80\x93 or adjust your prices and in-hand dates until your tickets sell.BUYING TICKETS- Discover and share events \xe2\x80\xa8Find events near you or switch to other locations in the US, Canada, and the UK. Track your favorite teams, bands, and shows so you can grab tickets right away. Share events and tickets using Facebook, Twitter, and email. - Find the perfect seats \xe2\x80\xa8Decide where you want to sit using our venue maps, and choose the number of seats you want, at the price you want. Set Price Alerts for your favorite events and get phone and email notifications when we find tickets that match what you're looking for. See the view from your section before you buy. Filter ticket listings by section with interactive venue maps. Plan for your event by locating restaurants, bars, and parking near the venue. - Get in\xe2\x80\xa8View, print, and email tickets \xe2\x80\x93 all on your device. You can even download your tickets and scan your Android phone to get into your event (where available). - Keep track of your orders\xe2\x80\xa8Check your order status and past orders in My Account.Recent changes:Finding the tickets you want is even easier with easy account sign-up, improved search, and more interactive venue maps (1,000+ and counting!). \xe2\x80\xa2\tDon\xe2\x80\x99t have a StubHub account yet? Now you can sign up without leaving the StubHub app. If we don\xe2\x80\x99t find events with tickets in your location, we\xe2\x80\x99ll automatically show you results in all locations.\xe2\x80\xa2\tFilter ticket listings by section on interactive venue maps. Just tap sections on those maps to see what\xe2\x80\x99s available."
+p4
+tp5
+tp6
+.

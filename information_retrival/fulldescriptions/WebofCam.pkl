@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Web of Cam '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your phone into a wireless camera and watch it from remote! A zero-cost solution to explore a convenient life!Ever wonder how M2M (machine-to-machine) could improve your lifestyle? iaSolution proudly presents first of its Connected Lifestyle concept apps - Web of Cam, a free app that could turn your smartphones into video cam and viewers.Now start using your phones or tablets to watch your napping baby while you are busy with your household chores!Web of Cam is a cross-platform app. You can use either Android/iOS phones as the Viewer and Camera Units, or select a Symbian phone as the Camera Unit.The setup of Web of Cam is extremely easy. Just install the app on both your iDevices, discover each other, and start live monitoring.Web of Cam features:- High quality and stable video streaming.- Automatic camera discovery and pairing.  No need to look up and enter the IP of your wireless camera.- Password protection for cameras- Adjustable video resolution and white balance.- Turn LCD off to save power and life-time.- Web of Cam Android version supports multiple viewers connection at the same time.Keywords: ip camera, ip cam, wifi camera, wifi cam, web cam, web camera, baby monitor, surveillance, pet monitor, spy cam, streaming, video monitor, video broadcasting, nanny camera, dropcam, mydlink, smartcam.'
+p4
+tp5
+tp6
+.

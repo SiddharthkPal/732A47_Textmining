@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Police Scanner Radio Scanner '
+p1
+tp2
+(S'Description:'
+p3
+S'FREE Police Radio Scanner lets you listen to Police and Radio scanners from around the world. USA, Canada, UK, Germany, Japan, Italy, Chile, Austria with more scanners added all the time.Listen to police radio in your area any time, day or night!These are live streams, feeds from real scanners.Top 50 Feeds (3000+ more available!)Chicago PoliceLAPD - Code 3/Hot Shots, Air/K9 and Van Nuys/Valley TrafficSan Diego Police DispatchPhoenix PoliceDenver Police, Fire and EMSWaterloo Regional PoliceNewark PoliceBayamon and San Juan PoliceCity of Tulsa and Rural Police, and Fire, Tulsa County SheriffIngham County Public SafetyMultnomah County Sheriff and Portland PoliceMemphis Police and Shelby County SheriffAmateur Repeater Los Angeles Area 147.435mhzCincinnati PoliceHouston PoliceNorthwest Ohio Digital and MARCSFort Worth Police DispatchSacramento County Sheriff and Sacramento City PoliceDes Moines Metro PoliceSedgwick County Law EnforcementCleveland PoliceCity of Buffalo Police and FireMadison Police Allen County Public SafetyTucson Police and EMSMinot Police, Sheriff, Fire, and EMSStockton PoliceModesto Police Dispatch channel 1San Juan and Ponce Police, Fire and EMSBlack Hawk County Police, Fire, and EMSAlbuquerque Police and Bernalillo County SheriffAurora Police and FireCity of Pittsburgh Police, Fire, and EMSAnne Arundel County Police, Fire, and EMSAkron Police DepartmentAmarillo Police and Fire, Randall and Potter Counties Sheriff and FireHunter Valley, Port Macquarie and Coffs Harbour PoliceNYPD Special Operations Division and TrafficLogan PoliceEvansville Police and Fire DispatchPhiladelphia Police - CitywideFlint Police and Fire, Genesee County Fire DispatchWestmoreland County Public SafetyOxnard PoliceDetroit Fire DepartmentSan Bernardino County Fire and Sheriff System 1Omaha PoliceLittle Rock Police DispatchButler County Sheriff, Police, Fire, and EMSAllen County Public SafetyRecent changes:*Added ultrafast playback buffer.*Increased battery savings.*Option to turn off special offers.***Leave a good review if you like it please.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'+24 Canal 24H Multipantalla '
+p1
+tp2
+(S'Description:'
+p3
+S'+24 te ofrece la posibilidad de ver hasta cinco se\xc3\xb1ales en directo para que vivas en primera persona toda la informaci\xc3\xb3n. Adem\xc3\xa1s, los v\xc3\xaddeos de los programas del Canal 24H, a la carta.Recent changes:- Mejoras en la reproducci\xc3\xb3n de los v\xc3\xaddeos- Correcci\xc3\xb3n de errores'
+p4
+tp5
+tp6
+.

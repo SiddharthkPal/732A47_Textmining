@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'anti mosquito repellent '
+p1
+tp2
+(S'Description:'
+p3
+S'Best mosquito repellent application. Anti mosquitoIt works by transmitting ultrasound and high frequencies, not noticed by the human ear.You have several ultrasonic repellents running at once. You can set recorded sounds as favorites.It has a timer in which you can specify the time that the application should be running.It is definitely the best app to keep away all types of insects and mosquitos.It is advisable to increase the volume of the phone as high as possible and choose the best frequency for your region.Electronic repellent is a new type of high-tech electronic products. It uses high-frequency ultrasonic sweep circuit.The solution for mosquito a insects bites.a good insect control. pest control and pest management. The better exterminator'
+p4
+tp5
+tp6
+.

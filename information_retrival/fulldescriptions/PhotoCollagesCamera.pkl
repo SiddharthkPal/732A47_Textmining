@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo Collages Camera '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5 Make your beautiful photo MORE BEAUTIFUL with Photo Collages \xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5User Reviews:----------------------\xe2\x99\xa5\xe2\x99\xa5Brandi Pacheco on Apr 28, 2013 at 4:49 AM\xc2\xa0BEST THING EVERRR\tNOW I CAN COLADGE DOLLY PARTON PHOTOS YEAH YAAH I did the app it looks great I I I reallly rreeccoommeenndd iitt\xe2\x99\xa5\xe2\x99\xa5JASCORIA STERLING on May 1, 2013 at 3:41 PMIn love \xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\xe2\x99\xa5\tLove it!!! Amazing app"Photo Collages Camera" is an photo editing app, by which you can create collages of your photos. "Photo Collages Camera" includes a collection of about 100 collage templates. Those are not just square & polygon templates, but there are also circle templates, heart templates.With "Photo Collages Camera", you can combine multiple photos into collage template. The photo can be captured using native camera app, or using any camera app like Instagram, 360Camera,...With each imported photo, you can scale, rotate it with you fingers. The app support multi-touch that you can use two fingers to scale and rotate."Photo Collages Camera" also support a lot of photo effects that can be applied to your photo, such as: black & white, sepia, emboss, negative, or grunge,...With those effects, you can create photos that are as beautiful as when you use Instagram.Another feature of "Photo Collages Camera" is that you can share your created photos with friends via Facebook, Twitter, SMS, Mail,...\xe2\x99\xa3\xe2\x99\xa3\xe2\x99\xa3 Special: more beautiful collage templates will be added frequently \xe2\x99\xa3\xe2\x99\xa3\xe2\x99\xa3This app will add a few search access points on your device. If you do not want to use this new search page, you can either ignore it or delete it. If you do use it, we get a few cents and it will help us a lot to keep developing more apps. If you don\xe2\x80\x99t, you can delete it and no harm is done (our app remains the same, no need to uninstall it!). Thank you.Recent changes:Fix memory issue on: GT-I9100, X9017, SPH-M830, ST26i, LG-E615, LG-P705f, IM-A820L,...3/5: improve memory issues & added 50 new templates.23/4 Initial release.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DroID3Tagger '
+p1
+tp2
+(S'Description:'
+p3
+S"Have a bunch of mp3s on your phone... without tag, wrong tag info, random filename...???Your music organizing worries have come to an end... look no further. DroID3Tagger(droid3tagger) is here to do all the dirty work for you, so that you can sit back and relax to your favorite tracks without having to spend minutes searching for them on your phone.The DroID3Tagger uses the same technique used by products like Shazam and Soundhound to recognize your music... Acoustic Fingerprinting. So the apps needs no prior info about the song to help identify it.This version of the app identifies (AutoTag) the song, artist, album, albumart etc. and saves this info in the ID3 tags and also renames the mp3 to a more standard filename based on the info received from the server. The app uses the exhaustive database offered by the Last.fm's API so you can be rest assured that the app will find a match for the song.Loads of features are in store for the coming versions (you can only imagine).Any comments and suggestions are welcome. Go on start Auto-Tagging!Last.fm is a trademark of Last.fm Ltd.Shazam is a trademark of Shazam Entertainment Ltd.Soundhound is a trademark of SoundHound Inc.Tags: tag mp3, mp3 tagger, id3 tag, tag editor, auto tag, autotag, autotagger, auto-tagger, acoustic fingerprint, audio fingerprint, music fingerprint, music id, musicid, id3, audiotagger, audio tagger, album art, albumart, album picture, id3 editor, id3 tagger, mp3 tag editor, music tag editor, audio tag editor.Recent changes:- Added Auto Media Library Refresh on Auto-Tagging/Renaming Completion.- Some Minor Bug Fixes."
+p4
+tp5
+tp6
+.

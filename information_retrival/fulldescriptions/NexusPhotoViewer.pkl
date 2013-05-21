@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nexus Photo Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'Nexus Photo Viewer allows you to view the JPEG photos from a USB flash drive or SD card on your Nexus 7 & 10 or other Android 3.2+ devices that do not support mounting external flash storage.  Google choose not to allow USB/SD Card access on the Nexus series.  This software works-around that issue.  Requires the following hardware.  1) A USB OTG Cable (Cost approximately $1-5 USD on Amazon), 2) A USB Flash Drive or USB SD Card Reader and SD Card.  See screenshots for hardware examples.Technical Notes:-The Nexus 4 does not support OTG/USB Host and can not be supported.-DOES NOT REQUIRE ROOT!-The USB drive must be formatted as FAT16, FAT32 or NTFS (not extX).  These are the most common formats for flash drives.-Hard Drives. \xc2\xa0It is strongly recommended that you use external power when connecting a hard drive to a tablet. \xc2\xa0Please see the troubleshooting guide on my web site for more information. \xc2\xa0Do not connect an unpowered hard drive to a phone!How-to Videos:Connecting: http://www.youtube.com/watch?v=etrIpNHhWi0This software is not produced by Google, which owns the Nexus trademark.Recent changes:5.0+Fixed issue where open Preferences causes view to revert to Classic Viewer+Fast connect+Support for Android mounted media (non Nexus devices)+Better Error Recovery+Better USB Device Support5.0.3+Fixes for several devices+Support for devices with multiple logical units+Crash Fixes'
+p4
+tp5
+tp6
+.

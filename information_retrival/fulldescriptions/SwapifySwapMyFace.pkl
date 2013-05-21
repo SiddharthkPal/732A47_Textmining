@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Swapify : Swap My Face '
+p1
+tp2
+(S'Description:'
+p3
+S"If you wonder to look at images with swapped faces and wish to do this trick on your own taken pics Then go ahead, Swap My Face is all you need.Just take picture or choose any from your gallery and play with them.Features :* Automatic face detection* Face Adjustment ( Use the Selection oval to adjust the faces).* Face Scaling ( Just touch any face with one finger and drag another finger anywhere on screen to scale).* Face Rotation ( Select a face and use rotation slider to maintain the rotation of selected face).* Flip faces* Swap faces* Save to SD card* Share on facebook, twitter, google+ etc.If you think this application can be more fun or there is any trouble with it then do not post any negative review just mail us at monster.knight2012@gmail.comand we'll try to improve this application as soon as possible."
+p4
+tp5
+tp6
+.

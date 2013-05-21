@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CBC News '
+p1
+tp2
+(S'Description:'
+p3
+S"Now you can get a world of news with just one hybrid app that delivers all the content of the CBC News touch-optimized site. With the touch of your finger, get all the news that matters to you from CBC - when and where you want it.Features:- Latest news from your region, across Canada and around the world.- Breaking news ticker delivers the headlines as they happen.- Listen to CBC's audio news bulletins to stay informed on the go.- Watch full-screen news videos.- Check the weather in your area.- See breaking news or want to share stories from your community? Use the app to send us your report, photos or videos.- Share stories with your social network via Facebook, Twitter and email.- High-quality photo galleries.We welcome your feedback! If you wish to report an issue or request a feature, please contact us at http://www.cbc.ca/contact/.Recent changes:Fixed crash at startup on some devices (including Nexus 7)"
+p4
+tp5
+tp6
+.

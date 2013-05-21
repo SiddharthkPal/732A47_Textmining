@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Spuul - Free Bollywood Movies '
+p1
+tp2
+(S'Description:'
+p3
+S'Download this free app to instantly watch Bollywood movies from Spuul.Spuul is a streaming service for Bollywood blockbusters and classic Indian movies and tv. Watch all your favorite videos on the go with our unique ability to allow you to resume watching where you left off. New movies added weekly:* Easy sign in with Facebook* Also a simple username/email account creation* Instantly watch free movies as often as you want.* English subtitles available on some movies* Watch over WiFi and 3G.* Search and discover new movies every week.* Filter movies by language or genre.* Resume watching movies from where you left off on your desktop, facebook, Android device or iOS device* Available worldwidePremium Movies* You can use in app purchase to buy Spuul Premium Monthly Subscription* Subscription is $4.99 USD per month for unlimited streaming of all Spuul Premium movies* The subscription is auto-renewing every month for $4.99 USD* Please use manage subscriptions in the Google Play store app - under Menu > My Apps > SubscriptionsSpecial Movies* You can use in app purchase to rent specials* Specials are viewable for 72 hours once viewing is startedPricing Information* http://spuul.com/pricingRecent changes:v1.1.4* Enhanced speed for movie list and movie detail loading times* Added functionality to jump 30 sec backward or 30sec forward while watching movie* Enhanced login / signup screen* Fix bug when powering down while watching movie* Various other bug fixesv1.1.3* bug fixesv1.1.2* bug fixes* resume movie enhancementsv1.1.1:* Bug fixes* Performance enhancementsv1.1:* Add support for subtitles* Improved filters* Bug fixes* Performance enhancements'
+p4
+tp5
+tp6
+.

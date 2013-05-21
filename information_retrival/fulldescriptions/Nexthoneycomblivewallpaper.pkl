@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Next honeycomb live wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S"Next Honeycomb live wallpaper, designed for Next Launcher specially, is released now. Its major features include:--General--Blue light flowing in the honeycomb Dynamically--With Next Launcher--Glare will follow your fingers, while you are sliding on the screenGlare will focus around the icon which you are PressingStyle of the live wallpaper and Next Launcher match perfectlyHow to use:General:Long press homescreen\xe2\x80\x94>Wallpaper\xe2\x80\x94>Live wallpaper\xe2\x80\x94>Next honeycombWith Next Launcher:Long press homescreen(Click 'Menu')\xe2\x80\x94>Wallpaper\xe2\x80\x94> Next live wallpaper\xe2\x80\x94>Next honeycombGet the full version of Next honeycomb live wallpaper, search and install 'Next Launcher' in Google Play.Not all handsets support the live wallpaper feature, please check for a 'live wallpaper' category as the directions above state.If you encounter any problems or have any suggestions for our Next Launcher, please do not hesitate to tell us. Thank you very much!E-mail: golauncher@goforandroid.comFacebook: www.facebook.com/NextLauncherBlog: golauncher.goforandroid.comRecent changes:V1.211.(Fix) Cut the Ads."
+p4
+tp5
+tp6
+.

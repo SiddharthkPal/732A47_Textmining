@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WhatsApp Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Wallpaper package to support WhatsApp MessengerTo use our wallpapers:1) install and launch WhatsApp Messenger2) start a conversation with a friend3) choose Menu > WallPaper > WhatsAppRecent changes:add more wallpaper.'
+p4
+tp5
+tp6
+.

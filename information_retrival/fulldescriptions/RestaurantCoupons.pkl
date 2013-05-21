@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Restaurant Coupons '
+p1
+tp2
+(S'Description:'
+p3
+S"The #1 coupon app just got better! Restaurant Coupons offers meals & coupon deals to your favorite dining establishments at a discount exclusive to app users.You'll Enjoy:-------------------* Exclusive fast food and local five-star restaurant coupons* Biggest coupon selection anywhere!* Even bigger coupon savings!* Local gas station prices and discounts, giveaways* Free samples* Free magazines* Retail coupons app offering every major mall store in your pocket whether at home or on the road!Season Information----------------------* Seasonal Holiday shopping and price comparison app* Black Friday app enables easier gift giving without needing another app nor newspaper coupon clipping.IT'S FREE! Get the Restaurant Coupons App right now and start saving everywhere you go!Recent changes:* Barcode Scanner* Security Improvements"
+p4
+tp5
+tp6
+.

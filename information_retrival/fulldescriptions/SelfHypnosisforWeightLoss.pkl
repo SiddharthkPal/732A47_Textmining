@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Self Hypnosis for Weight Loss '
+p1
+tp2
+(S'Description:'
+p3
+S'Hypnosis, like meditation, has a dubious image. Many people over many years have made their living by overlaying this practical and useful technique with unwarranted mystical and magical rituals. In fact, it is a useful tool for achieving deep relaxation. Self-hypnosis is when you hypnotize yourself. This is often more practical as a stress management tool than normal hypnosis, as you do not need to have a hypnotist present.Relax your body. A good way of doing this is to close your eyes and imagine waves of relaxation running down your body from your scalp downwards, washing out stress. Let the waves run in time with your breathing, first washing down over your head, then your neck, then your torso, then arms, and finally your legs. Feel the muscles in your body relaxing as the waves of relaxation wash over them.Very helpful self hypnosis for people who are looking forward to loose weight.Beautifully designed app.Additional features include sharing via SMS, Twitter, Facebook, Email etc.'
+p4
+tp5
+tp6
+.

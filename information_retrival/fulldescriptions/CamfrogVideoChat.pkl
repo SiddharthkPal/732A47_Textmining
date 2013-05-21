@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Camfrog Video Chat '
+p1
+tp2
+(S'Description:'
+p3
+S"Camfrog is a cross-platform worldwide video chat community with millions of active users in thousands of video chat rooms. Video chat with anyone in the Camfrog community whether they're on an iPhone, iPod Touch, iPad, Android, Mac or PC.Features at a glance: - Join any of our thousands of chat rooms to video chat with  people all over the world from your phone. - Video chat with your friends privately whether they\xe2\x80\x99re on an iPhone, iPod Touch, iPad, Android, Mac or PC.- Add new and old friends to your Camfrog contact list.Recent changes:Change Log, version 1.4.862:- Switching between front and back cameras- Zone selection for room directory- Sound notification on incoming message.- Fixed bug with blank user list in a room.- Fixed incorrect volume adjustment in a room or p2p.Thanks for sending us your feedback!"
+p4
+tp5
+tp6
+.

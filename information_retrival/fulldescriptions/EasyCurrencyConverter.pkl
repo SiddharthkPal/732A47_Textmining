@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Easy Currency Converter '
+p1
+tp2
+(S'Description:'
+p3
+S'World currencies (180+), live exchange rates, favorites, offline mode, graphs, etc. No need to scroll through endless lists - setup your personal currency list and have all important currencies at first glance.- 180+ world currencies and 4 metals- Live rates (various update intervals) - Personal currency list \xe2\x80\x93 just pick the currencies you need- Offline mode (absolutely no traffic)- Converts up to 12 currencies simultaneously- Currency graphs (1 day - 5 years)- Search function to quickly add a new currency- Precision: set the number of decimal places (0-5)- Country flags for all currencies (no download)- App2SD- Live rates & graphs provided by Yahoo.comNOTE: You can add/remove currencies by clicking one of the two currency buttons (top region of the screen). A window will pop up where you can find the "Show All" button.TIPS:Use Offline Mode to avoid roaming costs while abroad (only necessary if you have activated "Roaming"  in your phone settings).After adding a new currency (via "Show All") an update is required to get the actual rates.Recent changes:Ad free version available - THX for your support!Minor improvements'
+p4
+tp5
+tp6
+.

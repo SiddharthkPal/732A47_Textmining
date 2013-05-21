@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO SMS Pro Dark Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Dark Theme is the former default theme for GO SMS Pro.Important:1. This is not a standalone app, you need to download the LATEST version of GO SMS Pro app in order to apply this theme. (Search \xe2\x80\x9cGO SMS Pro\xe2\x80\x9d to download)2. How to apply the theme in GO SMS Pro,Application center->Theme shop->Installed themes, click and apply it.GO SMS Pro theme gosmstheme'
+p4
+tp5
+tp6
+.

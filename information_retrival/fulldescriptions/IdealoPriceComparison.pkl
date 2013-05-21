@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Idealo Price Comparison '
+p1
+tp2
+(S'Description:'
+p3
+S'The Idealo Price Comparison App - Compare Prices, Products and Shops!With the Idealo app you can compare prices for over 300,000 products from more than 14,000 online shops. Simply type in the name of the product or scan a Barcode.The Idealo Price Comparison App in brief:- Search for offers by using the quick barcode scanner, or by manual entry- Shopping view: swipe to browse the most popular products- More than 25 million offers from over 14,000 online shops- Favourites function + forwarding option- Easy access to your latest searches and barcode scans- Option of forwarding your search results to friends and family via emailWith these and many other features, why not try the Idealo app out?Recent changes:* Problems with scanning barcodes using the Samsung Galaxy S2 have been fixed* An error while creating price alerts including delivery costs has been fixed* Optimised bandwidth utilisation by dynamically loading content* For privacy reasons, tracking with Flurry Analytics has been removed'
+p4
+tp5
+tp6
+.

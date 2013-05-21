@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Chord! Free (Guitar Chords) '
+p1
+tp2
+(S'Description:'
+p3
+S"Chord! is a guitar chord finder. Unlike most of the other apps, it generates itself chords diagrams, so it supports any chord (even slash ones like D/F#) in any tuning, with any number of strings (guitar, banjo, ukulele, bass, mandolin, etc.).This is the free version with fully functional chord search, but only four scales instead of four hundred and five tunings, no reverse chord and scale search, no colors, no custom tunings database.You can hear how each diagram sounds by sweeping your finger across the strings.In the full version, you can also reverse search chords:  Entering on a neck the fingering will give you instantaneously the possible names of the chord and you will then be able to explore possible variations.The full version embeds a database with a hundred of tunings for various instruments and you can add you own ones. In this free version, there are only 5 tunings, for standard guitar, bass, banjo (4 str.) and ukulele. The full version of this database contains also four hundred scales that can be displayed or reverse searched in any tuning. In this free version, there are only four scales.The app fully supports left handed instruments.Note: Some Archos devices may no be able to reproduce sound.Full changelog in the app.Recent changes:Chords notes are now showing the correct enharmonic equivalent, thanks to the enlightenments of Bhakti BrophyAdded an option to engage full enharmonic differentiation for chord notes (can use Cb instead of B if needed, etc.) (Full Version)Fixed octaves of ukulele's standard tuning (both versions)Added a few more ukulele tunings in the factory list (Full Version)Fixed some typos and errors in American EnglishBug fixed for application crashing in reverse harmonization module"
+p4
+tp5
+tp6
+.

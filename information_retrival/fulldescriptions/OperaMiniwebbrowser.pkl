@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Opera Mini web browser '
+p1
+tp2
+(S'Description:'
+p3
+S"Try the world's fastest Android browser!- FAST: Opera\xe2\x80\x99s speed and efficient controls put it ahead of all other browsers.- EASY: Surf the web on your mobile as easily as on a desktop computer.- SAVE MONEY: Reduce data costs by up to 90% with our unique compression technology.And it's completely free to install and use.Other great features:\xe2\x80\x93 Speed Dial shows you all of your favorite websites at a glance. Pull them up with one tap!\xe2\x80\x93 Smart Page is your own personal window on the web. It gives you instant updates from your social networks, along with the latest news, entertainment, and sports.\xe2\x80\x93 Tabs let you keep multiple pages open and switch between them.\xe2\x80\x93 Reading online is better with page sizes, address bars and toolbars that adjust automatically.Download Opera Mini for yourself today! Also check out Opera Mobile, the premium experience when on Wi-Fi or wireless broadband.Discover more at http://opera.com/mobile/Keep in touch with Opera:Twitter - http://twitter.com/opera/Facebook - http://www.facebook.com/opera/Recent changes:7.5.3This latest version of Opera Mini contains a variety of bug fixes, along with stability and performance improvements.7.5Opera Mini 7.5 makes your Android device smarter with Smart Page. It gives you a dashboard view of the latest activity on your social networks, along with automatic news feeds from your favorite sites. Need a sneak peek or the full update? You\xe2\x80\x99ll be able to stay informed about everything that matters to you."
+p4
+tp5
+tp6
+.

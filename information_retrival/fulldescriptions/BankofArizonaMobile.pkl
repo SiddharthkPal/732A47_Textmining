@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bank of Arizona Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Take Us With You! Free Mobile Banking allows you to safely and securely access your Bank of Arizona account(s) anytime, using your Android enabled device, which also means you can literally do your banking wherever you are. With our App you can: * Mobile Deposit: Deposit checks with your phone! * Access balance information. * View pending transactions. * View transactions history, including check images. * Transfer funds. * Pay bills. * Utilize GPS to get one-touch access and directions to ATM and banking center locations.Safe and Secure Access: Your security is of the utmost importance to us, which is why we've built the following safe access tools: * You set your own security access password. * No personal data is stored on your device. * Once you close the App or log out, your session will end. * Secure Socket Layer (SSL) is always used to encrypt your personal information such as Username, Password, and account information over the Internet. Enroll in Mobile Banking To enroll in Mobile Banking you must first be enrolled and have logged on to Online Banking. After doing so, simply download the free Bank of Arizona Android App*. You must have an Android device, (1.6 or later) in order to use our Mobile Banking App. Read the Online Banking, Online BillPay, and Mobile Banking Terms and Conditions for more details. *Check with your carrier for fees that may apply.Recent changes:Mobile Deposit users now have the ability to view pending Mobile Deposits within the transaction history screen. FastLoan users are now able to access FastLoan directly from your mobile device.Have you tried Mobile Deposit yet? Join the thousands who are saving time depositing checks from their phone.  Watch our video to see how quick and easy it can be!"
+p4
+tp5
+tp6
+.

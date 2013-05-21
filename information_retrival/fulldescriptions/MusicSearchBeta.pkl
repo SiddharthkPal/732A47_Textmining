@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Music Search-Beta '
+p1
+tp2
+(S'Description:'
+p3
+S"The non-beta release of this app is published under the name of Freezy. Please install the new app for updates!market://details?id=com.morbeyin.freezy.trhttps://play.google.com/store/apps/details?id=com.morbeyin.freezy.trThe simplest, fastest music finding and player app over internet! Search and play your favorite songs wherever you are. you don't need to have any premium accounts! plus you can share songs with your friends. music search is a handy online music player. all contents are legal, if you see any illegal content, please inform us. Music Search-Beta is soon with playlist support.You can find songs in English and start singing together!you can see album background image while listening.find songs of one directionWhitney Houstonchief keef2 chainzjustin bieberlove sosafarrukolil waynenicki minajrihannadrakeeminemgangnam style, adele, britney spears, lady gaga, madonna, 1d, nutty, maroon 5, underwood, croce, kenny and many more singers.its in beta stage, please feedback us about any problem/request.this is not a music downloader app but a jukebox-like player app.kw: pandora, spotify, radio, grooveshark, fizy, youtube, music playerRecent changes:* background play improvements* search history suggestion support* Non-English charset support* plays next song after the playing one finishes* new permission is needed to pause music when there is a phone call"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'H&M '
+p1
+tp2
+(S'Description:'
+p3
+S"The H&M app \xe2\x80\x93Your Fashion Destination!Browse our selection and stay on top of the latest trends, anytime and anywhere with our easy-to-use app.With the H&M application:\xe2\x80\xa2 Browse the latest fashion.\xe2\x80\xa2 Receive exclusive promotions and offers.\xe2\x80\xa2 Experience the latest trends, news and videos. \xe2\x80\xa2 Get inspired by thousands of product and fashion images.\xe2\x80\xa2 Receive instant alerts (push notifications) about offers and events at your local H&M store.\xe2\x80\xa2 Share your favourite items with your friends and family through Facebook, Twitter and email.\xe2\x80\xa2 Use GPS to find your nearest store, wherever you are in the world.It\xe2\x80\x99s never been easier to get your fashion fix \xe2\x80\x93 download the H&M app now!Please note that this app isn't available for tablets, but the www.hm.com site has a tablet optimized version with all the same content and functionality.Recent changes:What's new in this version:Don't miss out on this exciting update! Receive instant alerts (push notifications) from H&M with offers, events and news updates. Are you shopping close to one of our stores? Check the app for localized specials and offers!You will need to accept push messages from H&M the first time you install the app, or re-accept it if you declined earlier.You can find information about re-accepting  push notifications from H&M if you go to My H&M and My Settings in our app."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Carolinas HealthCare System '
+p1
+tp2
+(S'Description:'
+p3
+S'New mobile app from Carolinas HealthCare System that provides convenient access to medical care information when you need it most. Features include: \xe2\x80\xa2 Find a Location- Map hospitals, emergency rooms (ER) or urgent cares closest to your location \xe2\x80\xa2 Wait Times- View current ER and urgent care wait times \xe2\x80\xa2 Find a Doctor- Search by name, specialty, or primary care physicians using current location or zip code \xe2\x80\xa2 Request an Appointment - Fill in patient and provider information to request an appointment \xe2\x80\xa2 Classes and Events- Find information on classes and events offered by CHS, and add them to your calendar \xe2\x80\xa2 Symptom Checker- Find medical information based on your symptoms \xe2\x80\xa2 Driving Directions- View map and parking information \xe2\x80\xa2 Social Media- Connect with CHS via Facebook, LinkedIn, Twitter and YouTube \xe2\x80\xa2 Facility addresses, directions, parking information and click-to-call phone numbers \xe2\x80\xa2 Save favorite locations for quick access Please Note: Some features require the app to use your locationRecent changes:2.1.3 - Includes ability to share doctor and location details, addition of Urgent Care hours of operation, small bug fixes2.1.1 - Includes ability to Request an Appointment with CHS providers, addition of request an appointment directly from Find a Doctor which will transfer doctor name and location to the appointment form, created new enhanced photo springboard, small bug fixes'
+p4
+tp5
+tp6
+.

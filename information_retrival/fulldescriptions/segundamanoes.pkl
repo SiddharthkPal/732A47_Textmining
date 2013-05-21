@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'segundamano.es '
+p1
+tp2
+(S'Description:'
+p3
+S'La nueva app de segundamano para android te permite buscar y encontrar entre m\xc3\xa1s de 3 millones de anuncios . Pisos de ocasi\xc3\xb3n, coches de segunda mano, motos, tel\xc3\xa9fonos, tablets, \xe2\x80\xa6M\xc3\xa1s de mil anuncios insertados cada d\xc3\xada desde nuestras apps. Filtra para ajustar tu b\xc3\xbasqueda y  ordena  para obtener los anuncios que m\xc3\xa1s te interesen. C\xc3\xb3modo, r\xc3\xa1pido  y sencillo. Contacta con el anunciante est\xc3\xa9s donde est\xc3\xa9s y haz un buen negocio.Seguimos trabajando para mejorar la app. Si os surge alg\xc3\xban problema en vuestro dispositivo o ten\xc3\xa9is alguna sugerencia, por favor contactad con nosotros escribi\xc3\xa9ndonos a ac_mobile@segundamano.esRecent changes:Muchos de vosotros hab\xc3\xadais pedido la posibilidad de poner anuncios desde nuestra app de Android. \xc2\xa1Aqu\xc3\xad lo ten\xc3\xa9is!Y ya estamos trabajando para tener en breve  Alertas y \xc3\x81rea Personal.Enviadnos vuestras sugerencias a ac_mobile@segundamano.es v. 2.2- Ya se pueden poner anuncios en todas nuestras categor\xc3\xadas- Nuevo dise\xc3\xb1o de la parrilla horizontal en tablet- Mejoras en el rendimiento- Eliminados permisos innecesarios: READ_PHONE_STATE y CALL_PHONE - Soluci\xc3\xb3n de algunos errores.'
+p4
+tp5
+tp6
+.

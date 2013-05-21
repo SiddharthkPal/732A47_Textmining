@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Body Symbol HD '
+p1
+tp2
+(S'Description:'
+p3
+S'A new version for Body Symbol, special support large screen with high density phone and tablet.For low density screen, please use the normal version athttps://play.google.com/store/apps/details?id=vn.esse.bodysymbol- Full HD quality- More beautiful user interface- Better user experienceRecent changes:Fix startup force close in some device'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WD TV Remote '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your smartphone into a touch-screen remote for your WD TV\xc2\xae Live Hub\xe2\x84\xa2, WD TV Live\xe2\x84\xa2 or WD TV Play\xe2\x84\xa2 media player.Control your WD TV experience with the tap of a soft key or the swipe of a finger using the WD TV Remote\xe2\x84\xa2 app. Simply launch the app on your Android\xe2\x84\xa2 mobile device and instantly take control of any WD TV Live Hub, WD TV Live or WD TV Play that is connected on the same network.Key Features:\xe2\x80\xa2 Control your WD TV from anywhere in your house using your wireless network\xe2\x80\xa2 Get one-touch access to launch any online service available on your WD TV\xe2\x80\xa2 Enter text using your Android smartphone or tablet keyboard\xe2\x80\xa2 Use the gesture pad for quick and easy navigation\xe2\x80\xa2 Connect multiple Android mobile devices with the WD TV Remote app and conveniently play multiplayer gamesMinimum Requirements:\xe2\x80\xa2 Android device running mobile operating system version 2.1 or higher\xe2\x80\xa2 WD TV Live Hub media center, WD TV Live or WD TV Play media player with the latest firmware. \xe2\x80\xa2 WD TV Live Plus with firmware version 1.06.42 or later and WD TV Live HD media player with firmware version 1.06.43 or later. \xe2\x80\xa2 Wireless access to your WD TV media player on your network (Your media player may be connected to your network via Ethernet port or wirelessly)\tLike us on Facebook: facebook.com/WesternDigitalFollow us on Twitter: @WesternDigitalRecent changes:WD TV Play supportWD TV Remote now supports WD TV Live Plus and WD TV Live HD Media Player!RequirementsPlease update your WD TV device\xe2\x80\x99s firmware:WD TV Live Plus: v. 1.06.42 or higherWD TV Live HD Media Player: v 1.06.43 or higher'
+p4
+tp5
+tp6
+.

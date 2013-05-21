@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'aText-TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Over two years of service for Android teletext fans!aText-TV is the fastest mini-browser for browsing teletext pages. All channels are navigable by gestures, links and page number input. Other features include for example zoom and a page content change watch.Available channels: * Austria: ORF, Kabel Eins, Pro Sieben, Sat 1* Belgium: RTBF* Czech: \xc4\x8cT1, \xc4\x8cT Expres, \xc4\x8cT4 * Denmark: DR1, DR2* Germany: ARD, BR, HR, NDR, RTL, SR, ZDF, Comedy Central, Eurosport, Kabel Eins, N24, Nickelodeon, N-TV, Pro Sieben, Sat 1, Sixx, Sport 1, Tele 5, VIVA, VOX, MDR* Finland: YLE, MTV3* Hungary: MTV1* Italy: RAI Abruzzo, Alto-Adige, Basilicata, Calabria, Campania, Emilia-Romagna, Friuli Venezia Giuli, Lazio, Liguria, Lombardia, Marche, Molise, Nazionale, Piemonte, Puglia, Sardegna, Sicilia, Toscana, Trentino* Netherlands: InfoThuis, NOS* Norway: NRK* Portugal: RTP* Spain: TVE, Antena3, TV3, RTVV* Sweden: SVT, TV3, TV4* Switzerland: SF1, SF2, TSR1, TSR2, TSI1, TSI2, ProSieben, SAT1, Kabel Eins* Turkey: TelegunThe channels may stop operating due to the operator modifications. In that case please contact the developer with the information containing the problem description, the channel, the device name and the OS version.keywords: text tv teletext videotext televideoRecent changes:Important correction for inoperative page number links in newer devices with high screen resolution!'
+p4
+tp5
+tp6
+.

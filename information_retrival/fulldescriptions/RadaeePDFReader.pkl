@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Radaee PDF Reader '
+p1
+tp2
+(S'Description:'
+p3
+S'Want fastest PDF Reader or Viewer? Try Radaee PDF Reader. This is a free PDF Reader which has fastest rendering speed and best language support.This PDF reader mainly supply:1. Fast rendering speed without preloading cache.2. zooming(Multi-Touch) && searching && text selection or highlight.3. 6 view layouts and PDF outlines view.4. some customer setting.5. single tap annotation to edit or perform or play media.Reader need permission read-phone-state and internet-access to finish payment and key generating. if any question, send us mail: radaee_com@yahoo.cnWant SDK embed to your owner APP? visit http://www.androidpdf.mobiRecent changes:- Now you can zoom in the view by double clicking page- PDF1.7 ext8 (Acrobat X encoding format) is now supported- Optimized layout in double page mode- Fixed some bugs'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ADW Theme MacOS '
+p1
+tp2
+(S'Description:'
+p3
+S'***Important: Must have ADW.Launcher  installed to use this theme***TUTORIAL: http://www.sakg.esThis is an ADW Theme based on Mac OS.If you like, buy the donate version!Enjoy!Recent changes:More icons and new wallpaper from Mac OS Lion.RELOAD THEME!'
+p4
+tp5
+tp6
+.

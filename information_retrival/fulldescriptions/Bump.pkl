@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bump '
+p1
+tp2
+(S'Description:'
+p3
+S"NEW: Now Bump works with computers too! Photos, videos, files, everything. Just go to http://bu.mp on your computer web browser. NEW: Share files on your device with a single bump! Use Bump\xe2\x84\xa2 to share contact information, photos, videos, and files by simply bumping two phones together. Just open Bump, hold your phones, and gently bump your hands together -- Bump will magically do all the rest. \xe2\x80\xa2 SYNC WITH YOUR COMPUTER: Visit http://bu.mp on your computer and bump your space bar to transfer photos, videos, and files \xe2\x80\xa2 SHARE CONTACTS: Share your contact info; connect on Facebook, Twitter, and LinkedIn \xe2\x80\xa2 SHARE PHOTOS: Share photos and videos with friends and family \xe2\x80\xa2 SHARE FILES: Share files or documents stored on your device \xe2\x80\xa2 SYNC DEVICES: Move contacts, photos, and files between your devices \xe2\x80\xa2 SHARE APPS: Share app recommendations With more than 100 million downloads all over the world, you can use Bump with all of your friends! Bump works cross-platform on iPhone, iPod, iPad, and most other modern mobile phones.Recent changes:New in 3.5.9:+ Bug and crash fixes+ Reduced apk sizeNew in 3.5.8:+ Performance improvements for file browsing, particularly on 2.2 and 2.3 devices+ Fix for photos sometimes appearing blank+ Bugfixes+ Now Bump works with computers too! Photos, videos, files, everything. Just go to http://bu.mp on your computer web browser and bump your spacebar key with your device. Seriously, it's magic!+ Now share files from your SD cards!"
+p4
+tp5
+tp6
+.

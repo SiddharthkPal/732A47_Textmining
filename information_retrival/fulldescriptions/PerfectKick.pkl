@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Perfect Kick! '
+p1
+tp2
+(S'Description:'
+p3
+S'PERFECT KICK is the world\xe2\x80\x99s first real-time multiplayer penalty kick soccer (football) game! The smoothest controls ever and one finger playable! Blasting, curving or even chipping the football in just one swipe! Join leagues, enter tournaments and win championships with other gamers from around the world in real time. Top 5 sports game in 29 countries including United States, Germany, France, Russia, Italy, Argentina, Hong Kong,and Australia etc. No.1 sports game in 14 countries.An immersive simulation of a real life penalty shootout, the control mode of Perfect Kick is intuitive and simple. Swipe your finger across the screen to kick or block the ball with perfect control of angel, speed and power.A great atmosphere football fight, vibrant colors and perfect animation athletes in the set with realistic physics and behavior.--android4gamers.comPerfect Kick! puts players in the unenviable role of kicking in a penalty shootout. You\xe2\x80\x99ll need to swipe the screen in just the right way to curve, chip, and bend the ball into the goal. --androidguys.comExcellent penalty kick gameplay and multiplayer shot game--appszoom.comFeatures- Play with friends and gamers from around the world in real time- 3 game modes: Champion League, Super Star Challenge and Classic Tournament (global ranking chart enabled)- Psyche out your opponents with custom uniforms, shoes, gloves and facial expressions- Lead your player to superstardom by training or buying items to increase their agility and power- Brilliant 3D graphics of stadium, fans and players provides for a complete immersive experience of scenery and game energy- Advanced physic game engine gives you the highest level of control with pinpoint accuracyBend it like Beckham, Chip it like Pilro, and Blast it like Messi!Recent changes:1.0.3Fix "invisible" bug LOL1.0.2Advertisement are now removed for anyone who makes an in app purchase( Please restart game after the purchase)'
+p4
+tp5
+tp6
+.

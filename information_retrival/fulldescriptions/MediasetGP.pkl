@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MediasetGP '
+p1
+tp2
+(S'Description:'
+p3
+S'El mejor Mundial de MotoGP\xe2\x84\xa2 de la historia tambi\xc3\xa9n tiene la mejor cobertura gracias a Mediaset Sport. Por primera vez puedes vivir toda la adrenalina de las carreras con MotoGP x 8, un directo multipantalla con hasta 8 se\xc3\xb1ales exclusivas que puedes intercambiar para disfrutar de la competici\xc3\xb3n desde la perspectiva que elijas en cada momento. As\xc3\xad, puedes disfrutar de la se\xc3\xb1al de la emisi\xc3\xb3n en directo de Telecinco o Energy, hasta cuatro c\xc3\xa1maras on board en las motos de los principales pilotos de cada categor\xc3\xada, los tiempos y cronometrajes (Live Timing), seguimiento GPS de las motos (Live Tracking) y la espectacular Gyrocam, una c\xc3\xa1mara instalada en el helic\xc3\xb3ptero.Pero eso no es todo. Mediaset Espa\xc3\xb1a es la casa de las motos y en este Mundial de MotoGP\xe2\x84\xa2 2013 tambi\xc3\xa9n te ofrece la posibilidad de tener en la palma de tu mano estos otros contenidos:- Grandes Premios: Podr\xc3\xa1s consultar los trazados de los 18 circuitos del Mundial, dar una vuelta on board a cada uno de ellos y los datos hist\xc3\xb3ricos de cada GP.- Clasificaciones: Actualizadas en tiempo real nada m\xc3\xa1s finalizar cada carrera.- Todas las noticias que genera el Mundial, as\xc3\xad como las fotos m\xc3\xa1s espectaculares y los mejores v\xc3\xaddeos.- Las 36 carreras a la carta, tanto de MotoGP, Moto2 y Moto3.- Y, por supuesto, la posibilidad de compartir todo lo que suceda en Facebook y Twitter.No dejes que pase un GP m\xc3\xa1s sin tener la app instalada en tu smartphone. Disfruta del mejor Mundial de la historia con mucho m\xc3\xa1s que televisi\xc3\xb3n.'
+p4
+tp5
+tp6
+.

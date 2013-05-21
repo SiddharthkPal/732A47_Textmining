@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'e-med Medical Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'The e-med Medical Dictionary is a searchable database of medical information that can be used as a starting point for medical enquiries. The app can also be used by anybody to initiate free consultations with the e-med nurse and contains extra functionality for current e-med members. Compiled over the years by e-med Private Medical Services, the database is intended as a guide for medical inquiry and is not intended to be used as a diagnostic tool. All medical complaints should be referred to a healthcare professional.Recent changes:Bug fixes.'
+p4
+tp5
+tp6
+.

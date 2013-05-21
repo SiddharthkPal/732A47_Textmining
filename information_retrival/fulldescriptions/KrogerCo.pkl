@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kroger Co. '
+p1
+tp2
+(S'Description:'
+p3
+S'Looking for the ultimate mobile/tablet shopping experience? Save time and money with the Kroger App! The Kroger App puts convenience and savings at your fingertips. Simply download the app, create an account and register your Kroger Shopper\xe2\x80\x99s Card to take advantage of all these great benefits:Load online coupons directly to your Shopper\xe2\x80\x99s Card and your shopping list.Create an online shopping list that you can update and use any time.View Weekly Ads and quickly add Weekly Ad items to your shopping list.Access exclusive promotions and save money with personalized offers.Refill your Kroger Pharmacy prescriptions directly from your phone or tablet. Type or scan your prescription number and select your Pharmacy to schedule a convenient pickup time.Check your fuel points and view your rewards history.Use the store locator to find stores and fuel centers nearby.To use the Kroger App, you must first have a Kroger online account. Register online at www.kroger.com. Be sure to register your Shopper\xe2\x80\x99s Card to take advantage of all these benefits. Don\xe2\x80\x99t have a Shopper\xe2\x80\x99s Card? Get one on the spot when you visit any one of the Kroger Family of Stores.Your Kroger App helps you save at any of the Kroger Family Stores which include: Kroger, Baker\xe2\x80\x99s, City Market, Dillons, Food 4 Less, Foods Co., Fred Meyer, Fry\xe2\x80\x99s, Gerbes, Jay C, King Soopers, Owen\xe2\x80\x99s, Pay Less, QFC, Ralphs and Smith\xe2\x80\x99s.Coming Soon!Updates to the Shopping List will allow you to create multiple lists, save items as favorites and save money when you choose items from our Smart Suggest feature.Thank you for providing your feedback and suggestions. More updates are coming soon. Check kroger.com or Google Play for the latest digital news.Recent changes:- New weekly ad notification- Loyalty card image in the app- Update to password length- Miscellaneous user experience'
+p4
+tp5
+tp6
+.

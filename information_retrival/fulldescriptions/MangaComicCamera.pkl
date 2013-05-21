@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Manga Comic Camera '
+p1
+tp2
+(S'Description:'
+p3
+S'Thousands of processing patterns to choose from! It is a simple camera app that can process thousands of comic effects by combining the background and drawn lettering.With the comic conversion process divided into two modes: normal and advanced, you can choose a conversion mode that best matches the effects you want to achieve.Onomatopoeia such as "gasha" and "zap" are selected among possible choices, and they can be inserted into the dialogue.You can insert your words by replacing the original dialogue.There are 32 different background filters and 32 different sound effects and drawn lettering.You can choose any combination you like. There are thousands of cartoon effects you can choose to process your photos.The image processed can be saved with comments. You can also attach it in e-mail, or post it in Social Networking Sites such Facebook and Twitter."Manga Comic Camera" Features- You can insert your words by replacing the original dialogue.- You can select the background and sound effects filters separately.- You can not only select images taken from the camera but also from the gallery.- Onomatopoeia such as "gasha" and "zap" are selected among possible choices, and they can be inserted into the dialogue.- You can insert your words by replacing the original dialogue.- Supports in-camera shooting. Self-portrait photos can also be easily cartoonized.Recent changes:* Added 12 Background filter.* Added 12 Message effect.'
+p4
+tp5
+tp6
+.

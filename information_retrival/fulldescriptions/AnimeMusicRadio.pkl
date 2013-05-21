@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Anime Music Radio '
+p1
+tp2
+(S'Description:'
+p3
+S"Features:  - More than 70 radio stations(Anime OST, j-pop, j-rock, other Japan music) + new station every update(write in comments your recommendations!) - Track list - Stream recording - You can add your stations to list - Streaming setup for best listening - Widget! - Anime news feeds - Sleep timer - FREE, but with ad banner, but you can remove it!If you can't find a WIDGET, go to app manager and move this app to phone form SD card.Stations list:Ghost Anime RadioAnime ReactorAnime LayerRadio NamiCyber Anime Radio 24/7J-live Radio stationMegumiSteampunk Anime RadioAnimeNfo RadioKAWAii RadioLeekRadio Vocaloid MusicSubarashiiMimisen RadioFinal Fantasy RadioArmitage's DimensionExtreme Anime RadioAnimeAMAZEAnime NexusYggdrasil RadioR/a/dioRadio AniMiXRadioAnimatiNeko RadioAnime stereoOtakus DreamMc Anime RadioEden RadioGensokyo RadioHello Project AnimeR\xc3\xa1dio J-HeroAthena No SeintoPhate RadioAniDUB RadioJapanimradioRadio Otaku XtremeOtaku Music RadioAnime ObsesionRadio Anime 24AnimeRadio net91.8 The fanNSW-AnImESvoa-AnimeAnime.com.plRadio AOIRadio Animes ZTouhou Radioanm.radioRadio Conexao OtakuRadio Rakuen PeruMultiAnime RadioForever AnimeRadio AnimeliteRadio Kamikaze Online!Amanteanime RadioAnimeSeed RadioAnime Web RadioFan World Anime RadioTsumugiJSHOXX Pure JROCKJapan-A-RadioShinsen RadioOtaku no RadioJapan RadioHot Sign RadioMc RadioHot Mix RadioDada More RadioHoki Station (J-Trance)XAMFMJPopsuki Radio!AniwoxInitial D WorldKonata Station RadioAnimeXGenerationsRaadio.me70s-90s J-popNews feed:AnimeNationAnime News NetworkAnimeNews.bizMy Anime ListAnime AuraManga Worth ReadingAnime News by CrunchyrollAnime RadiusAnimekonBaka Updates MangaDragon Ball LegendsUK Anime Network News Feed\xd0\x90\xd0\xbd\xd0\xb8\xd0\x9c\xd0\xb0\xd0\xb3 \xd0\x9d\xd0\x9e\xd0\x92\xd0\x9e\xd0\xa1\xd0\xa2\xd0\x98\xd0\x91\xd0\xbb\xd0\xbe\xd0\xb3 AnidubManga NewsAnimelandAnime ClickULTIME NEWS SU ANIME E MANGALa Ventana de SaouriRecent changes:v3.0.51. Optimize app size2. New stations: - LeekRadio Vocaloid Music - AnimeXGenerations - 70s-90s J-pop3. Moves all station's pics to web4. Fixed some stations(Anime nexux stil don't work u_u)v3.0.41. Remove Leadbolt ads2. Add Konata Station Radio and Japanimradio 2v3.0.21. Fixed Radio Namiv3.0.11. Fixed some new errors"
+p4
+tp5
+tp6
+.

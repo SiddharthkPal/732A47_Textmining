@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ICARE VISION TEST '
+p1
+tp2
+(S'Description:'
+p3
+S'ICARE Vision Test is user friendly vision checking application. Developed by ICARE EYE HOSPITAL ,This application is going to screen your present vision and glasses, any uncorrected astigmatism, color vision , contrast sensitivity and any near vision distortion by AmslerGrid test apart from a plethora of information about different general and specialized eye tests and facilities available at ICARE.'
+p4
+tp5
+tp6
+.

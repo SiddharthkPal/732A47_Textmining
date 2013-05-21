@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'4Sale '
+p1
+tp2
+(S'Description:'
+p3
+S'This application is for Kuwait to make selling items easier by posting the picture of the item with the details in its own category, so the person whom is looking for a special item all he needs to do is go to the category and look for it. Registering is easy all you need to do is put your phone number and press enter, in a while you will receive an sms by your code number.Recent changes:- Subcategory added - Admob Integration- Minor Bug Fixes'
+p4
+tp5
+tp6
+.

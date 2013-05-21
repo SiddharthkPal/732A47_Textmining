@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Grondwet '
+p1
+tp2
+(S'Description:'
+p3
+S'Dutch Constitution in plain language. The Constitution in plain language is made by Dutch experts in state law and BureauTaal. BureauTaal is specialized in plain Dutch and plain English. The Dutch Constitution in plain language is only available in Dutch.'
+p4
+tp5
+tp6
+.

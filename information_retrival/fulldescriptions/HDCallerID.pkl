@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HD Caller ID '
+p1
+tp2
+(S'Description:'
+p3
+S'Tired of the same old boring calling screen? Get a new HD calling/SMSscreen with advanced personalization features!Change the way your phone notifies you for incoming and outgoing calls.Just choose HD photos for your favourite contacts and your phone will showa HD photo everytime the person calls or sends you a message.Choose from a variety of HD themes and cutomize the way you make andreceive calls. The app has a variety of interesting features including:- Full screen notification for incoming calls- Full screen notification for outgoing calls- Full screen notification for missed calls- Full screen notification for incoming SMS- Use pictures from sd card or internal cameraMore features coming soon'
+p4
+tp5
+tp6
+.

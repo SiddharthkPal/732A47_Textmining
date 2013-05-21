@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Calorie Counter - ShapeUp Club '
+p1
+tp2
+(S'Description:'
+p3
+S"Calorie Counter & Diet Tracker by ShapeUp ClubShape Up Club is a food and exercise diary for Android. Lose up to 2 lbs/week, or just keep track of your eating habits.ShapeUp Club is connected with Health Graph. Access your data from RunKeeper, Withings and many other applications. \xe2\x9c\x93 Personalized weight plan\xe2\x9c\x93 Set individual weight & nutrition goals\xe2\x9c\x93 Barcode scanner\xe2\x9c\x93 Ability to customize everything (such as daily calories & nutritional information)\xe2\x9c\x93 Track calories, nutrients, fruit & water\xe2\x9c\x93 Food database with 400 000+ items\xe2\x9c\x93 Track body measurements (waist, body fat, hips, arms etc.)  \xe2\x9c\x93 Visible progress from charts\xe2\x9c\x93 Write daily comments\xe2\x9c\x93 ShapeUp Club is free and without ads\xe2\x9c\x93 Works without an Internet connection\xe2\x9c\x93 Complete backup and sync with website, ShapeUpClub.com\xe2\x9c\x93 Health Graph integration \xe2\x9c\x93 RunKeeper integration \xe2\x9c\x93 Withings scale integration Get shaped up with ShapeUp Club now!Recent changes:Thank you all for your feedback and keep sending in your thoughts about the app! This release includes;* Fixed an issue where custom calories couldn't be added to the diaryIf you experience any problems, please send us an error report and we'll look into it as soon as possible."
+p4
+tp5
+tp6
+.

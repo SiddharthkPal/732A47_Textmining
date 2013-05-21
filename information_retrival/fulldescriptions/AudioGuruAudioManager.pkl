@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AudioGuru | Audio Manager '
+p1
+tp2
+(S'Description:'
+p3
+S'Easily set your volume levels with home screen volume control widgets. Manually apply volume presets straight from the widgets or schedule them for a time of day. Optionally also schedule your ringer, alerts and alarm default ringtones.AudioGuru is the attractive and well featured audio manager for your phone volume levels and ringer modes.\xe2\x98\x85 Manage media, ringer, alert, system and alarm volume levels.\xe2\x98\x85 4 Custom volume profiles (presets).\xe2\x98\x85 Rename and edit Profiles.\xe2\x98\x85 Configure your default ringtones for ringer, alerts and alarm.\xe2\x98\x85 Automatically set profiles depending on time of day.\xe2\x98\x85 Solid and translucent widget skins.\xe2\x98\x85 4 home screen widget sizes available.\xe2\x98\x85 Scheduler to automatically apply your presets whenever you want.\xe2\x98\x85 Available in over 5 different languagesTO RENAME A PROFILE: long press the profile button on the auto scheduling screen.PRO KEY allows different schedules for work and non-work days.TIP: Disconnect your ringer and alert volumes levels in your phone sound settings (on pre-ICS android only).NOTE: Android 4+ (ICS) DOES NOT let the ringer and alerts volumes be separated. Pre Android 4 phones can still separate them in the phone sound settings.As a work around solution on ICS you can enable the adjustment of the ringtones and set your alert ringtone to "silent" for a particular profile e.g. sleep.TRANSLATION: Looking for volunteers to translate to Arabic and other languages. Please email support@jupiterapps.comRecent changes:v1.32 Fix for PRO key not workingv1.31 Option to exclude media volume Multiple day types (PRO only),Fix for screen waking on android 4.2NOTE: Stock Android 4.1+ Jelly bean has linked system, ringer and notification volumes.NOTE: Stock Android 4+ ICS has linked ringer and notification volumes. As a work around solution on ICS you can enable the adjustment of the ringtones and set your alert ringtone to "silent" for a particular profile e.g. sleep.'
+p4
+tp5
+tp6
+.

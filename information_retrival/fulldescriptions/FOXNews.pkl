@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FOX News '
+p1
+tp2
+(S'Description:'
+p3
+S'Introducing the first and only news application for Android from the #1 name in news, the FOX News Channel.  With the FOX News Android App - receive FOX News Alerts, read headline news stories, stream the latest video clips, listen to FOX News Radio, and browse through photo galleries, all for FREE!Recent changes:- General improvements and bug fixes.'
+p4
+tp5
+tp6
+.

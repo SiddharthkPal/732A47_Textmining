@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MangaFox MangaEden mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'An app for lazy people who want to read manga in a easy way. You can choose betweeen mangafox or mangaeden server to read your favorite manga on your phone.'
+p4
+tp5
+tp6
+.

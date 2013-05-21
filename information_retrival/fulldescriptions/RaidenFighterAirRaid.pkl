@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Raiden Fighter: Air Raid '
+p1
+tp2
+(S'Description:'
+p3
+S'Have you ever dreamed of being a cool pilot?Do you want to be a hero in the air combat?Is it your dream to fight fiercely while flying?If you do, Raiden Air Raid,the first air combat of 2013, is a must for you.Thrilling and exciting flight shooting game with high speed!!!Most innovative and splendid dynamic scene!!!Conquer the sky with plenty of achievements and various prizes!!!Enjoy sky, sunshine and fight with thunder and storm!!!Break records and create your own legend during Pacific war!!!DescriptionRaiden Air Raid-Belgium plane is an air combat game.A period of time is necessary for you to learn and master the operation.HD graphics and gorgeous scenery bring about tremendous experience.Taste every exquisite detail and temper yourself during the war.Don\xe2\x80\x99t wait! Be a hero! Pilot your plane and fight!\xe2\x98\x85Games Features\xe2\x98\x85\xe2\x98\x85Realistic game scenes and magnificent graphics\xe2\x98\x85Super beautiful plane models\xe2\x98\x85Excellent sound effect enrich game experience\xe2\x98\x85Easy and fun palymode\xe2\x98\x85Brand new trials are stored for you'
+p4
+tp5
+tp6
+.

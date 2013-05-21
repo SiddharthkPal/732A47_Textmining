@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RTL XL '
+p1
+tp2
+(S'Description:'
+p3
+S'Wil jij op de hoogte blijven van het laatste entertainmentnieuws uit RTL Boulevard en het laatste binnenlandse nieuws van EditieNL? Of nog even nagenieten van de voetbalanalyses uit Voetbal International? Alvast vooruitblikken op de ontwikkelingen in Meerdijk met de GTST \xe2\x80\x93shorties? Het kan allemaal met de Android app van RTL XL.Daarnaast biedt de app van RTL XL ook extra unieke content aan, wat niet op TV wordt uitgezonden. RTLXL.nl, elke dag meer. En dankzij deze app niet alleen op tv en pc, maar ook op je iPad, iPhone \xc3\xa9n Android.Recent changes:- Diverse optimalisaties & bugfixes'
+p4
+tp5
+tp6
+.

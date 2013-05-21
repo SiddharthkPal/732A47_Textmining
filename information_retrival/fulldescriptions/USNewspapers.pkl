@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'US Newspapers '
+p1
+tp2
+(S'Description:'
+p3
+S'The best news application for your mobile device.All the US newspaper in one app. National, local, sports, economics, international, magazines and even the best blog selection. More than 250 links. * Totally free of adverts!* Offline mode: Save your webpages using wifi or 3G and read them without coverage in your mobile!* Classifies automatically your newspapers by use, the most accessed are always in the upper positions.* Full Screen mode for perfect visualization, 100% of the screen can be used (no title bars) even android status bar can be hidden.* The fastest loading the pages.* Include your own links.* Main Newspaper covers included* Live NFL and MLB scores* Can be installed to SD* Letter size customizable and zoom integrated in the browser with gestures.* The newspaper list can be filtered.* Allows to share the links showed by means of any application installed (facebook, twitter, ...)* Manage your own bookmarks to create your perfect list.* Battery status indicator* You can read ABC, CBS, MSNBC, USA Today, Wall Street Journal, USA Today, New York Times, Los Angeles Times, Financial Times, CNN, Fox News, Google News, Reuters, ESPN and more...If you like it, rate it 5 stars! Miss something?, email me!Recent changes:Offline Mode, save your webpages and read them later without coverage in your mobile.'
+p4
+tp5
+tp6
+.

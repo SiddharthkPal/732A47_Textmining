@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dictionary English-Arabic '
+p1
+tp2
+(S'Description:'
+p3
+S'100% FREE English To Arabic Dictionary. Work Offline. Speak Words.\xd9\x82\xd8\xa7\xd9\x85\xd9\x88\xd8\xb3 \xd8\xb9\xd8\xb1\xd8\xa8\xd9\x8a \xd8\xa5\xd9\x86\xd8\xac\xd9\x84\xd9\x8a\xd8\xb2\xd9\x8a- FREE English To Arabic Dictionary has 60,000 words.-Translate text from clipboard- Search the English word and it will display its Arabic translation.- "Search Options" feature that help to search the word "Starting" with searching word or "Ending" with searching word or "Containing" the searching word.- Audio Pronunciation of English Words.- No need of Internet. Work offline without using Internet.-Make your own dictionaryOnline text translation with many features:- Translate from/to more than 20 language- translate from clipboard- Copy and save translated text- save result to your custom dictionaryCreating an app takes time and money, In order to keep creating great (and free!) apps, we are using a new search service to monetize our apps. With this service we are able to create more great apps for you guys. This option bundles a few search points (icon, bookmark and homepage) for you to use. You can erase these easily and with no effect to our app. Thanks!Recent changes:Online text translation with many features:- Translate from/to more than 20 language- translate from clipboard- Copy and save translated text- save result to your custom dictionary'
+p4
+tp5
+tp6
+.

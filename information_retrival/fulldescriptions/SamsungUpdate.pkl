@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Samsung Update '
+p1
+tp2
+(S'Description:'
+p3
+S'Passionate for Samsung devices ? Samsung Update delivers high quality articles about software updates, tutorials, custom ROMS and much more for your Android powered devices. Help us deliver great content by submitting questions, article requests and bugs at http://www.samsungupdate.com/contact-usRecent changes:- Added Search Engine- Added Comments- Added Articles by device- Interface redesign- Minor bug fixes'
+p4
+tp5
+tp6
+.

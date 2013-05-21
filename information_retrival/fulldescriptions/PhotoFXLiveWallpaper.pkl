@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo FX Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S"Photo FX shows YOUR photos as your live wallpaper!The best photo LWP on the market! Watch your favorite pictures drop one by one with stunning animation!*** NEW VERSION 3.2 ***Thanks for your support! 2 million downloads of the previous version made us work very hard to bring you even more features!!\xe2\x98\x85 Choose images from your camera's gallery\xe2\x98\x85 Even select photos from any folder(s)!\xe2\x98\x85 Select individual photos from a folder\xe2\x98\x85 Stunning floating animation / frame FX\xe2\x98\x85 Change selection order (date, name, random)\xe2\x98\x85 Change slideshow interval\xe2\x98\x85 Supports photo wall in portrait and landscape\xe2\x98\x85 Set background color for photos\xe2\x98\x85 Set photo frame color\xe2\x98\x85 Set image opacity, saturation\xe2\x98\x85 Works also as a lock screen wallpaper!\xe2\x98\x85 Constantly updating multi picture collage\xe2\x98\x85 Super fast loading time!\xe2\x98\x85 Very low battery consumption\xe2\x98\x85 Much, much more!Even more features available when upgrading to pro within the app :\xe2\x98\x85 Create your own backgrounds!!\xe2\x98\x85 Unlock 100's of photo FX!\xe2\x98\x85 Multiple slideshow modes!  - Overlap  - Photo grid  - Photo collage  - Single photo  - Photo x 3\xe2\x98\x85 Use custom gestures :  - Make collages by dropping photos where you click  - Or double click to share in Instagram  - 1-click access to settings\xe2\x98\x85 Select photo size\xe2\x98\x85 Much more!!Look out for more layouts, effects and transitions coming soon!Recent changes:3.2.3- bug fix: fixed incorrect timing for longer slideshow intervals3.2.2- bug fix: ensure wallpaper starts correctly after phone restart- bug fix: crash on photo selection screen3.2.1- bug fix: some frames were displaying incorrect in overlap slideshow mode3.2.0- Reduced battery consumption- New slideshow modes!  \xe2\x98\x85 Photo grid  \xe2\x98\x85 Photo collage  \xe2\x98\x85 Single photo  \xe2\x98\x85 Photo x 33.1.1- Bug fixes- Removed some popup ads in free version"
+p4
+tp5
+tp6
+.

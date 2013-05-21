@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kmart '
+p1
+tp2
+(S'Description:'
+p3
+S"Search, browse, and buy, right in the app, then pick up in-store or have it sent to your door! *Not all items are available for store pickup, please see app for details.Wait, there\xe2\x80\x99s more:-\tSet up a personalized Profile to earn and redeem your Shop Your Way Rewards Points-\tBrowse your store\xe2\x80\x99s Local Ads and Deals and receive customized offers-\tSnag the  Deals of the Day before they sell out-\tView your Layaway items and make payments right from the app-\tCreate and organize Shopping Lists -\tSelect and purchase from a variety of Gift Card designs that can either be mailed or e-mailed directly to a special someone's inbox-\tManage and check your Gift Card balance-\tLocate the store nearest you with our Store Finder-\tKeep track of your in-store purchases, online orders, and layaway  items in our Order Center -\tCall Customer Service right from the app-\tHave a question? Our Ask Kmart feature allows you to send a photo, e-mail your question, or call a variety of representatives directly from your mobile deviceLastly, a huge THANK YOU to all of our loyal app fans and customers who have provided us with invaluable feedback and suggestions on how we can continue to better serve you.  Please note that every single feedback, review, and suggestion, is read by our team and many of our new features are driven by you, the customer. Hats off to you all, and please keep the ideas, suggestions, and requests coming!Recent changes:* Overall performance improvements* Minor bug fixes"
+p4
+tp5
+tp6
+.

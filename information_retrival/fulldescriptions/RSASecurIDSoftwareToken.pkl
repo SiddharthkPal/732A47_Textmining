@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RSA SecurID Software Token '
+p1
+tp2
+(S'Description:'
+p3
+S'Make your Android device a convenient, cost-effective RSA SecurID authenticator. Protect your most sensitive networked information and data with RSA SecurID strong authentication. This app, when provided with a software token, generates one-time passwords for accessing network resources.Upgrading is supported from versions 1.1, 1.1.1, and 1.1.2. This release is not provided as an upgrade from version 1.0. You will need to remove version 1.0 and contact your administrator to request a new software token.By downloading, you agree to the terms of the License Agreement at:http://www.rsa.com/go/includes/Licenses/EULA_Android.htmlIf you need further assistance, please email us at AndroidFeedback@rsa.com.To learn more about the application, installation, setup, and new features, please read the FAQ at: http://www.rsa.com/android/help120.htm#faqRecent changes:Supports Wi-Fi only devices (3G/4G users, before starting the app, ensure Wi-Fi is turned on.  After starting app, you can turn Wi-Fi off.)Supports Android world phonesHas been qualified on the Ice Cream Sandwich operating systemOffers a Device ID for use as a binding parameter'
+p4
+tp5
+tp6
+.

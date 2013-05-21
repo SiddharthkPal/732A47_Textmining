@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Skype - free IM & video calls '
+p1
+tp2
+(S'Description:'
+p3
+S"Free voice and video calls to anyone else on Skype, whether they\xe2\x80\x99re on an Android, iPhone, Mac or PC, as well as IMs to your friends and family, no matter where they are.Features:- Skype to Skype IMs, video and voice calls are free* over 3G or WiFi. - Make low-cost calls and SMS to mobiles or landlines from your Android smartphone or tablet.- Send pictures, videos and files to any of your contacts.- Enjoy high-quality sound when you call anyone else on Skype.- Talk face to face or show what you\xe2\x80\x99re seeing with front and rear-facing cameras.- Talk to your Windows Live Messenger friends on Skype. Sign into Skype with your Microsoft account and have your Messenger, Hotmail and Outlook contacts in one place.For more information, visit the Skype for Android FAQ page: http://goo.gl/8OpEo.Due to Android restrictions, devices running Android 2.2 will only be able to use the rear-facing camera. Devices with Android 2.3 or higher will be able to use both front and rear-facing cameras. * Operator data charges may apply. We recommend using an unlimited data plan or WiFi connection.Recent changes:Video Messaging \xe2\x80\x93 preview featureTry new Video Messaging. Record a video and send to friends and family on Skype, even when they\xe2\x80\x99re unavailable. Everyone can send up to 20 free video messages; Skype Premium users can send as many as they like.'Classic view' option for tabletsPerformance improvements and fixes"
+p4
+tp5
+tp6
+.

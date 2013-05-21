@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ratsit.se '
+p1
+tp2
+(S'Description:'
+p3
+S'Ladda ner Ratsits Android-app s\xc3\xa5 kan du s\xc3\xb6ka fram alla registerf\xc3\xb6rda f\xc3\xb6retag och privatpersoner i Sverige. Med Ratsits Android-app s\xc3\xb6ker du l\xc3\xa4tt fram de f\xc3\xb6retag och privatpersoner du har en aff\xc3\xa4rsrelation med. Registerinformation \xc3\xa4r en f\xc3\xa4rskvara och genom din Ratsit Android-app s\xc3\xa5 har du alltid tillg\xc3\xa5ng till dygnsuppdaterade uppgifter fr\xc3\xa5n olika myndigheter.Ratsit hj\xc3\xa4lper sm\xc3\xa5f\xc3\xb6retagare och vanligt folk att g\xc3\xb6ra trygga aff\xc3\xa4rer. Ansvarig utgivare \xc3\xa4r Anders Johansson, VD, Ratsit AB.Applikationen har utvecklats av Invativa f\xc3\xb6r Ratsit AB. Invativa \xc3\xa4r specialister inom integration, applikationsutveckling och applikationshantering.'
+p4
+tp5
+tp6
+.

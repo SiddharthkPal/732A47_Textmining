@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gun Shot Sounds '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 GUN SHOT SOUNDS \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Gun shot sounds is the ultimate Gun sounds apps providing you with a variety of awesome sounds.It is a realistic simulator with shooting range experience, which has most popular guns including Handguns, Shotguns, Sub-Machine Guns, Assault Rifles, Sniper Rifles, Machine Guns.\xe2\x98\x85\xe2\x98\x85 HOW TO USE \xe2\x98\x85\xe2\x98\x85Just Click on the gallery View to choose the gun you want to try and then hold on the image to play the respective sound.Release your finger to stop gun from playing.\xe2\x98\x85\xe2\x98\x85 Features \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 14 sounds(More will be added on each update).\xe2\x98\x85 Nice images to couple the sounds.\xe2\x98\x85 Vibration on and off.\xe2\x98\x85 Realistic Animation on guns.\xe2\x98\x85 Realistic sounds.\xe2\x98\x85\xe2\x98\x85 Available Guns \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 AK-47\xe2\x98\x85 Desert Eagle\xe2\x98\x85 Glock - 17 \xe2\x98\x85 M1- Garand, \xe2\x98\x85 M16 Gun\xe2\x98\x85 Minigun\xe2\x98\x85 MG-42 Gun\xe2\x98\x85 P90 Airsoft\xe2\x98\x85 Short Gun\xe2\x98\x85 Silencer Gun\xe2\x98\x85 Thompson\xe2\x98\x85 SubmachineAn awesome fun app for pranking and to scare your friends off.This free app is ad supported and may contain ads in the notification tray'
+p4
+tp5
+tp6
+.

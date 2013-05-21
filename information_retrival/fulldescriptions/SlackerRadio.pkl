@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Slacker Radio '
+p1
+tp2
+(S'Description:'
+p3
+S'Slacker is the most complete music service on Android. With millions of songs, hundreds of expert-programmed stations and endless personalization, Slacker gives listeners anytime, anywhere access to the world\xe2\x80\x99s best music and entertainment.  Listen for free on your Android device or subscribe and enjoy a commercial-free experience with offline listening and on-demand access to millions of songs and albums. Create your own stations or let Slacker\xe2\x80\x99s team of music experts entertain you with more than 200 expert-programmed stations covering every imaginable genre or mood.  Listeners can also personalize their experience with news, talk and sports from ABC, ESPN and more.  Subscribers can also customize Slacker to create stations as unique as they are.  Easy-to-use tools make it a snap to build playlists, create custom stations or fine tune Slacker\xe2\x80\x99s expert-programmed content.  Want to hear deeper cuts?  Want more artist recommendations?  Ready to ban Psy\xe2\x80\x99s \xe2\x80\x9cGangnam Style\xe2\x80\x9d for all eternity?  Slacker makes it easy and personal. Slacker application features:\xe2\x80\xa2 Download and listen for free, with no monthly listening limits \xe2\x80\xa2 More than 10 times the music of the nearest radio competitor! \xe2\x80\xa2 Heart and Ban tracks to quickly and easily personalize your experience\xe2\x80\xa2 Hundreds of expert-programmed stations \xe2\x80\xa2 Create custom stations and playlists with your favorite artists and songs\xe2\x80\xa2 Commercial-free experience with unlimited song skips*\xe2\x80\xa2 Play songs, albums and artists on demand**\xe2\x80\xa2 Download your favorite songs on your Android***Commercial \xe2\x80\x93free listening requires Slacker Radio Plus or Premium subscription.** On-demand and music download access requires a Slacker Premium subscription.Recent changes:This build includes various bug fixes from the previous version and includes the following new functionality:-Google+ Sign-on'
+p4
+tp5
+tp6
+.

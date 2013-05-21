@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UAE YellowPages '
+p1
+tp2
+(S'Description:'
+p3
+S'Welcome to Etisalat\xe2\x80\x99s official Yellow Pages Application. Yellow Pages is the #1 used directory in the United Arab Emirates. Access business addresses, phone numbers, fax numbers, websites, emails and ads.  Etisalat Yellow Pages, now at your fingertips.  AboutEtisalat Yellow Pages directory is the official directory of the United Arab Emirates with constantly updated listings and over 1,300 categories. We have created the app for the Android with all the listings and categories that are most suitable for you on the move.  One touch search, user friendly interface and the ability to save as favorites or directly on to your contacts will make this one of the easiest and must have apps on your Android phone. Features-          One touch for location change. Searching for contact information on products or services city wise is extremely quick and easy.-          Tap to call/add. Once you find what you are looking for, just tap on the number to call them instantly. Or add the information to your contacts-          Quick Search. Most common categories are available on the home page to assist you in getting what you want. -          Bilingual.-          Offline.  Information stored in the favorites can also be retrieved even if you are offline'
+p4
+tp5
+tp6
+.

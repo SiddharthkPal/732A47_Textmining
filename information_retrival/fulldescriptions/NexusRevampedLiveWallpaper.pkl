@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nexus Revamped Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S"Like the Nexus live wallpaper but with improved efficiency and extra customisability * Touch interaction* Multi-Touch interaction* Works well with Launcher pro* Min/Max Speed* Power saver settings * Spawn density* Many more settingsPro version has:* Reaction to battery level (Color and speed)* Custom background images * Custom particles colorsIf you have a weird screen error, please try reinstalling the app.Permissions: Internet permission is for anonomous usage data to help improve the app, can be disabled in settings > advanced and unobtrusive adverts to help fund development of the app.External Storage/SD: Used to load custom background images (pro version)Languages: Danish, English, French, German, Norwegian, Russian, Spanish & Swedish. Email me if you'd like to translate into another language.Development: You can follow the development of this live wallpaper on facebook http://goo.gl/fyGCFRecent changes:*Bug Fix: Jellybean crash fixed*Bug Fix: Activation not working*Improved: Lots of backend stuff, something more exciting will be in the next version ;)"
+p4
+tp5
+tp6
+.

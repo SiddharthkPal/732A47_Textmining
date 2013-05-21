@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Football Live Scores '
+p1
+tp2
+(S'Description:'
+p3
+S'Live soccer scores, real-time data for live football / soccer scores for the Premier (England), Champions League, Europa League, Liga (Spain), Serie A and Serie B (Italy), Bundesliga (Germany), Eredivisie (Holland) Ligue 1 (France), Portugal Liga Sagres, Argentina Primera Division and Primera B Metropolitana, Brazil Serie A and Serie B, Colombian Primera A, Australian A-League, Denmark SAS Ligaen and 2. Division West/East, Austria Bundesliga, Belgium Jupiler League, Czech Republic Gambrinus Liga, Finland Veikkausliiga, Greece Super Liga, Mexico Primera Division Apertura, Sweden Allsvenskan, Turkey Super Lig and Norway Eliteserien leagues. Added football full league and top scorers for the Premier, Liga, Serie A, Ligue 1, Bundesliga, Eredivisie, Portuguese SuperLiga and Irish Premier L. Added push notifications! Do you wish to receive push notifications for a match? You will receive a notification when either team score during the match! Added live football/soccer scores for the USA Major League Soccer, Japan League 1 and League 2, Korean K-League, China Super League, Russia Premier Liga, South Africa Premier Soccer League, Singapore S-League, Poland Ekstraklasa, Slovenia 1. Liga. The app shows the scorers of each match, yellow cards, red cards, penalties and so forth. The app automatically saves the countries you are more interested in and orders them following your choices. The live football/soccer scores are updated live 24/7Keywords: football scores, soccer, live scores, free, champions league, soccer scores, liga, serie a, football results, football scores appRecent changes:- Added Push Notification. Click bell icon to receive push notifications for the game. You will receive a notification when either team score during the match!- Added stats for every football player - Added stats for every team - Added lineups for every match'
+p4
+tp5
+tp6
+.

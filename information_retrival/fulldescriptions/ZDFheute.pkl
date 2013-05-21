@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ZDFheute '
+p1
+tp2
+(S'Description:'
+p3
+S'\xc3\x9cberall informiert \xe2\x80\x93 mit den heute-Nachrichten des ZDF. Sie sind live dabei mit Videos, Kurznachrichten und Hintergr\xc3\xbcnden zum aktuellen Tagesgeschehen.Die Redaktionen der heute-Nachrichten und des heute-journals sind seit Jahrzehnten ein verl\xc3\xa4sslicher Begleiter durch den Nachrichtentag. Diese App vereint das Beste aus TV- und Online-News des ZDF: Kurznachrichten \xe2\x80\x93 teils mit Video - zeigen den aktuellen Stand der Dinge, w\xc3\xa4hrend die Hauptbeitr\xc3\xa4ge die wichtigsten Themen des Tages sortieren, einordnen und bildstark erkl\xc3\xa4ren.St\xc3\xa4ndig verf\xc3\xbcgbare Livestreams erlauben den direkten Zugriff aufs ZDF-Programm; die Hauptnachrichten-Sendungen werden dar\xc3\xbcber hinaus besonders einfach zur Verf\xc3\xbcgung gestellt. Mit \xe2\x80\x9eheute journal plus\xe2\x80\x9c pr\xc3\xa4sentiert des ZDF au\xc3\x9ferdem ein besonderes Nachrichtenformat, das Zusatzinformationen zu den Sendungs-Themen nutzbar macht.Die heute-App steht zun\xc3\xa4chst als Phone-Variante zur Verf\xc3\xbcgung; ein Update in wenigen Wochen umfasst dann auch die Tablets und bringt weitere Funktionen mit.Diese Version umfasst:KurznachrichtenVideo on Demand und LivestreamAirplay-Funktion f\xc3\xbcr Videos\xe2\x80\x9eheute journal plus\xe2\x80\x9c \xe2\x80\x93 das innovative NachrichtenformatBeitr\xc3\xa4ge mit Teilen-FunktionenSwipe-Wechsel zwischen den Beitr\xc3\xa4genBilderserienWetterEilmeldungen als Push-NachrichtenGeben Sie uns Ihr Feedback zur neuen heute-App: \xc3\xbcber \xe2\x80\x9eKontakt\xe2\x80\x9c im Hauptmen\xc3\xbc ist das leicht m\xc3\xb6glich.Die heute-App ist wie alle ZDF-Onlineangebote kostenlos. F\xc3\xbcr die Nutzung au\xc3\x9ferhalb eines WLAN ist aber eine Flatrate sinnvoll, da sonst hohe Verbindungskosten anfallen k\xc3\xb6nnen.Recent changes:Mit diesem Update steht Ihnen die ZDFheute-App ab sofort auch f\xc3\xbcr Tablet-Computer zur Verf\xc3\xbcgung. Die Tablet-Version wurde speziell f\xc3\xbcr die Bed\xc3\xbcrfnisse der hochaufl\xc3\xb6senden Touch-Bildschirme konzipiert. Sendungs-Videos sowie "heute-journal plus" sind nun st\xc3\xa4ndig verf\xc3\xbcgbar. Das Update umfasst au\xc3\x9ferdem kleinere Bugfixes der Smartphone-Variante. Ein kleiner Ausblick: Mit dem n\xc3\xa4chsten Update wird auch der Wetter-Bereich \xc3\xbcberarbeitet und entspricht dann dem hohen Bedienkomfort der ZDFheute-App.'
+p4
+tp5
+tp6
+.

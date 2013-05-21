@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PlayerPro Widget Pack '
+p1
+tp2
+(S'Description:'
+p3
+S'PlayerPro Widget Pack is a free widget pack for PlayerPro. PlayerPro is an advanced music and video player for Android devices (2.0++).Android doesn\'t support homescreen widgets for applications that are installed on the SD Card. When moving PlayerPro to the SD card, you should install the Widget Pack to continue using PlayerPro widgets.INSTALLATION INSTRUCTIONSPlayerPro Widget Pack requires PlayerPro 2.30 or above.FEATURES- Choice of 5 different home screen WIDGETS: 4x1, 2x2, 3x3, 4x4, 4x2. - All widgets are skinnable: 6 different SKINS available.- All widgets are customizable: option to display artist picture instead of album artwork, option to display ratings, option to display shuffle/repeat controls, option to open player on title/album/picutre artwork press etcRecent changes:03/02/2013: v2.7- Resizable widgets (requires Honeycomb)- Classic (4x1), Small (2x2) and Medium (3x3) widgets can be added to the device default lockscreen (requires Jelly Bean)- Added option to adjust the background transparency- Added previews for all widgets (requires Honeycomb)- Better support for tablets- UI improvements and bug fixes15/04/2012: compatibility with PlayerPro 2.40 and bug fixes26/02/2012: fixed widget "brain dead" issue upon phone reboot05/02/2012: bug fixes.'
+p4
+tp5
+tp6
+.

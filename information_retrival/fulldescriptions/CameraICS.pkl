@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Camera ICS '
+p1
+tp2
+(S'Description:'
+p3
+S'Camera ICS is an improved version of the official Camera app included on Ice Cream Sandwich (Android 4.0).Our goal is to allow any Android phone or tablet can enjoy this great camera!If you like the app you could purchase the ad-free version "Camera ICS+". This will help us to continue working hard on this project.--- FEATURES ---- 3 modes: camera, video recorder & panorama- Dynamic user interface (phone/tablet)- Color effects (mono,sepia,negative,...)- Silent mode (no shutter sound, might not work on some devices)- Configurable volume keys- Wide screen pictures- Picture quality setting (low/medium/high/ultra)- Video bitrate selection (normal/2x)- Configurable storage source (Internal/SD card)- Time-lapse video recording (only 3.0+)- Video stabilization on/off (only on some devices)- 720p face effects (only on some devices)- More cool features soon ...Please contact us at moblynx.us@gmail.com if you have any problem. We are delighted to receive any feedback.Thanks for your support!Recent changes:1.2.1Fixed Samsung Galaxy S2/S3 bugsFixed Jelly Bean delete bugFixed HTC One X camcorderImproved tablet support1.1.1Improved Samsung Galaxy S2 video quality1.1Wide screen picturesConfigurable storage source (Internal/SD card)Delete buttonSupport for small screen devicesVolume keys: flash on/off while recording (only 4.0+)1.0.3Fixed Samsung Galaxy S2 4.0.3 camcorderCompatible with Froyo & GingerbreadIntel x86 supportConfigurable volume keys'
+p4
+tp5
+tp6
+.

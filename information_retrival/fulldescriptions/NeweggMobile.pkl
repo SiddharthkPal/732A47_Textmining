@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Newegg Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"The Newegg Mobile application allows Android users to search, shop, read reviews and make purchases on Newegg.com. Once you know, you Newegg\xc2\xae.Features:- Comprehensive product specifications.- 1.7+ millions customer reviews.- Detailed item image gallery.- Quick and simple shopping flow.- Simple and quick search function.* Search by category* Guided search* Advanced search* Sorting- Good for deal hunting: Shell Shockers, Daily Deals and Free Shipping.- All purchases made on Newegg Mobile are routed through Newegg's secure servers.Recent changes:1.  Bug fixes for crash issue found on HTC one X+."
+p4
+tp5
+tp6
+.

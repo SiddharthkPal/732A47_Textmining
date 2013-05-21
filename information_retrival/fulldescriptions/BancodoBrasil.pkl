@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Banco do Brasil '
+p1
+tp2
+(S'Description:'
+p3
+S'Com o aplicativo do Banco do Brasil voc\xc3\xaa tem acesso a Conta Pessoal(Pessoa F\xc3\xadsica) e a Conta de sua Empresa(Pessoa Jur\xc3\xaddica) para consultar saldos, extratos, lan\xc3\xa7amentos futuros, pagamentos (inclusive com a c\xc3\xa2mera), realizar transfer\xc3\xaancias (TED, DOC), opera\xc3\xa7\xc3\xb5es com cart\xc3\xa3o de cr\xc3\xa9dito, recarga de celular, libera\xc3\xa7\xc3\xa3o de arquivos de pagamentos, pagamento eletr\xc3\xb4nico de sal\xc3\xa1rios, etc.Al\xc3\xa9m disso, voc\xc3\xaa pode utilizar o BB Code para realizar transa\xc3\xa7\xc3\xb5es pela internet, localizar ag\xc3\xaancias e terminais de autoatendimento banc\xc3\xa1rio do BB, consultar telefones da Central de Atendimento, etc.Para acesso a sua Conta Pessoal, \xc3\xa9 necess\xc3\xa1rio a senha de 8 d\xc3\xadgitos, a mesma utilizada no Autoatendimento BB pela Internet e para confirma\xc3\xa7\xc3\xa3o de transa\xc3\xa7\xc3\xb5es financeiras, ser\xc3\xa1 exigida a senha de 6 d\xc3\xadgitos.Para acesso a Conta de sua Empresa (Gerenciador Financeiro), s\xc3\xa3o necess\xc3\xa1rias chave J e senha de acesso, e para confirma\xc3\xa7\xc3\xa3o das transa\xc3\xa7\xc3\xb5es, ser\xc3\xa1 exigida a senha de 8 d\xc3\xadgitos, as mesmas utilizadas no Gerenciador Financeiro pela Internet.Recent changes:Corre\xc3\xa7\xc3\xa3o do Erro: "Erro no controller de menu iconico servidor".Melhorias no processo de inicializa\xc3\xa7\xc3\xa3o.Melhorias no BB Code.Corre\xc3\xa7\xc3\xb5es de bugs.'
+p4
+tp5
+tp6
+.

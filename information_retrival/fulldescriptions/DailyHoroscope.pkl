@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DailyHoroscope '
+p1
+tp2
+(S'Description:'
+p3
+S'The DailyHoroscope is the top rated horoscope application on all major mobile platforms! #1 horoscope app on Android #1 horoscope app on iOSFeatures:\xe2\x80\xa2 Daily Zodiac horoscope\xe2\x80\xa2 Easy launch widget\xe2\x80\xa2 Zodiac sign compatibility\xe2\x80\xa2 Chinese horoscope for 2013 and 2012\xe2\x80\xa2 Zodiac horoscope for 2013\xe2\x80\xa2 Druid horoscope\xe2\x80\xa2 Missed a day-scroll back\xe2\x80\xa2 Share and save readings\xe2\x80\xa2 Custom colors (set in app settings)EULA disclaimer: by downloading, installing and using the DailyHoroscope application, you agree to our end user licence agreement:http://www.comitic.com/dailyhoroscope/eula/PERMISSIONS EXPLANATION:\xe2\x80\xa2 INTERNET - required to download the horoscopes\xe2\x80\xa2 BOOT - required to be able to re-schedule reminders (if any were set) after phone restart***Note - this does not have any impact on the battery since the app does not run in the background.Keywords: Horoscope, Zodiac, Zodiacal, Daily Horoscope, Compatibility, Chinese Horoscope, Druid Horoscope, Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces, Rat, Ox, Tiger, Rabbit, Dragon, Snake, Horse, Ram, Monkey, Rooster, Dog, PigRecent changes:2.5\xe2\x80\xa2 Horoscope reminders improvement\xe2\x80\xa2 Facebook SDK update2.4.5 and 2.5.6\xe2\x80\xa2 Fix for occasional crashes2.4.4\xe2\x80\xa2 Sharing Fix2.4.3\xe2\x80\xa2 Horoscope reminders will work after restart too.\xe2\x80\xa2 Boot permission required for this***Note - this does not have any impact on the battery since the app DOES NOT RUN in the background. If no reminders are setup then absolutely nothing happens if there are active reminders then they are re-scheduled with the OS and that is all.'
+p4
+tp5
+tp6
+.

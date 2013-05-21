@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GMX Mail '
+p1
+tp2
+(S'Description:'
+p3
+S'Geben Sie einfach Ihre Benutzerdaten ein und schon haben Sie alle Ihre GMX E-Mails und Kontakte immer mobil dabei.- Optimiert f\xc3\xbcr GMX Mail- Einfache Bedienung- Mobiler Zugriff auf Ihr GMX Adressbuch Viel Spa\xc3\x9f mit der GMX Mail App w\xc3\xbcnscht IhnenIhr GMX TeamRecent changes:- Anh\xc3\xa4nge k\xc3\xb6nnen jetzt bequem aus dem GMX MediaCenter hinzugef\xc3\xbcgt und versendet werden.- Verbesserte E-Mail-Benachrichtigungen (f\xc3\xbcr Android Jelly Bean)- Bugfixes und Performanceverbesserungen'
+p4
+tp5
+tp6
+.

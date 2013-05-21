@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free Books for Kindle '
+p1
+tp2
+(S'Description:'
+p3
+S'"Free Kindle Books Every day " brings you great "paid to be" books everyday Before you miss out the limited time promotion! Download them when you find them - even if you don\'t think you may like them (you can always delete it later). Prices change somewhat quickly, so this app is your essential app not to miss out on great free books! You don\'t need to own a Kindle device to enjoy Kindle books. Download "Free Kindle Books Every day " app to start reading Kindle books on all your devices. "Free Kindle Books Every day "is available for every major smartphone and tablet, That means you can download a free Kindle book once, and read it on any device with this app installed. And of course, you can also read that same Kindle book on a Kindle, Kindle Touch, or Kindle Fire if you own one. Main Icon Designed By : vectorarts.net (Thanks!) License : Creative Commons Attribution 3.0 Share Alike 3Recent changes:.'
+p4
+tp5
+tp6
+.

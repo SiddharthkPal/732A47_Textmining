@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn English '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn English quickly and easily by the photos , whoever was your language, with a simple and interesting games to teach Englishwonderful and easy  app to learn the English language, in a simple way  by images, so that each word have photo about itAnd there are  possibility of recurrence hearing the Spelling , pronunciation, the application also includes games and  fun tests to learn the English language easilyUsing this application you can learn the English language very easily and very quicklyWhatever their native language you will be able to Learn English  by  images from this application'
+p4
+tp5
+tp6
+.

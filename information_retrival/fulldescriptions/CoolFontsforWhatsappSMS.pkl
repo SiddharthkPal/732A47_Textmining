@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cool Fonts for Whatsapp & SMS '
+p1
+tp2
+(S'Description:'
+p3
+S'Make SMS & Whatsapp more fun and interesting. This app features a collection of 20+ stylish fonts for messaging, Facebook & Whatsaapp. You can also use these fonts for other apps like Gmail, Free SMS etc.No additional app is needed for using these fonts. Just download "Cool Fonts" and make texting funnier.You can share this app with friends and family so they can also chat in "Cool Fonts". Drop us a line if you face problems.'
+p4
+tp5
+tp6
+.

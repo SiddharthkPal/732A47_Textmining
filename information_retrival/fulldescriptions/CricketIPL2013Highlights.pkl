@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cricket IPL 2013 Highlights '
+p1
+tp2
+(S'Description:'
+p3
+S'Cricket I.P.L. 2013 Highlights!!...I.P.L.2013 is the hottest new sensation that is about to hit the town like every year,So let\xe2\x80\x99s get geared up for this event with latest I.P.L. app on your mobile Enjoy this summer with I.P.L.2013. season 6, and make most out of it by downloading latest I.P.L.2013 app.You can see Highlights of the following teams.- CHENNAI SUPER KINGS- MUMBAI INDIANS- ROYAL CHALLENGERS BANGALORE- KOLKATA KNIGHT RIDERS- SUNRISERS HYDERABAD- DELHI DAREDEVILS- KINGS XI PUNJAB- PUNE WARRIORS INDIA- RAJASTHAN ROYALSThe app includes- Highlightes- Winning Moments'
+p4
+tp5
+tp6
+.

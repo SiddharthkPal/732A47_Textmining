@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Eurosport.com '
+p1
+tp2
+(S'Description:'
+p3
+S"Keep up with all the latest sports action with Eurosport's faster, smoother, new-look app.- New HD design- New video sectionComplete real-time coverage of all your favourite sports.- Over 100 stories and features every day, plus 30 videos.- Live scoring and results database for every major event.Editorial expertise.- Forty live text commentaries per week, including every Premier League and Champions League game.- Exclusive web chats with players, pundits and journalists.- Expert analysis, including: Arsene Wenger, Rafa Benitez and Mats Wilander.Eurosport's unbeatable content and user-friendly interface make it the ultimate app for any sports fan on the move.Recent changes:- New commenting management system- Simplified alert management"
+p4
+tp5
+tp6
+.

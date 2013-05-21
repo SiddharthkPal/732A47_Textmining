@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Discover Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Accessing your rewards just got easier with Discover for Android.Stay connected to your account with the Discover Mobile App. We\xe2\x80\x99ve added more ways for you to redeem your Cashback Bonus including Partner gift cards and eCertificates for some of your favorite merchants. View your account information, make payments, manage your rewards, and send money on-the-go.Use your existing Discover.com User ID to:- Redeem your rewards for Partner gift cards, eCertificates and Discover gift cards- Refer friends to Discover and earn extra rewards- View account summary and statement, balance and payment information, available credit, Cashback Bonus balance, and much more- Make payments and search transaction history- Enroll in quarterly 5% Cashback Bonus programs- Sign up to receive Push Alerts about your account- Send cash to just about anyone using Money Messenger\xc2\xae powered by PayPal\xc2\xae (if this feature is available to you)Discover Bank customers can use their existing Discoverbank.com User ID to:- New! Deposit checks using a compatible mobile phone\xe2\x80\x99s camera- View your account summary- Schedule transactions- Transfer fundsMobile Privacy Statement: http://discover.com/privacyMobile Privacy Terms of Use: http://discover.com/termsCertain permissions are necessary to access specific app functions and features.Recent changes:What\xe2\x80\x99s New in Version 4.3.2\xe2\x80\xa2 Security Enhancements'
+p4
+tp5
+tp6
+.

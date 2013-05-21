@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Allegro '
+p1
+tp2
+(S'Description:'
+p3
+S'Aplikacja Allegro przeznaczona dla kupuj\xc4\x85cych. Umo\xc5\xbcliwia szybki mobilny dost\xc4\x99p do najwi\xc4\x99kszej ilo\xc5\x9bci ofert w polskim Internecie. Od teraz miliony atrakcyjnych przedmiot\xc3\xb3w w najlepszych cenach znajd\xc4\x85 si\xc4\x99 w Twoim zasi\xc4\x99gu, gdziekolwiek b\xc4\x99dziesz. Upoluj super okazje przy pomocy Twojego smartfona lub tabletu z Androidem.Lista wybranych dost\xc4\x99pnych funkcji:\xe2\x80\xa8- dwie wersje wygl\xc4\x85du aplikacji dopasowanych zar\xc3\xb3wno do smartfon\xc3\xb3w i tablet\xc3\xb3w- mo\xc5\xbcliwo\xc5\x9b\xc4\x87 licytowania, kupowania, wyboru sposobu dostawy oraz p\xc5\x82acenia bezpo\xc5\x9brednio z aplikacji- interaktywny ekran g\xc5\x82\xc3\xb3wny na kt\xc3\xb3rym przejrzysz okazje, ostatnio przegl\xc4\x85dane przedmioty oraz to co licytujesz, kupujesz i obserwujesz- wyszukiwanie przedmiot\xc3\xb3w po kodzie kreskowym i zdj\xc4\x99ciu ok\xc5\x82adki (wybrane modele urz\xc4\x85dze\xc5\x84)- wyniki mo\xc5\xbcesz filtrowa\xc4\x87, sortowa\xc4\x87 oraz zaw\xc4\x99\xc5\xbca\xc4\x87 do kategorii w kt\xc3\xb3rej znaleziono przedmiot- dost\xc4\x99p do mojego allegro (moje zakupy, moja sprzeda\xc5\xbc, moje konto)- mo\xc5\xbcliwo\xc5\x9b\xc4\x87 wystawiania komentarzy zar\xc3\xb3wno jako kupuj\xc4\x85cy jak i sprzedaj\xc4\x85cyRecent changes:Wersja 3.0.2- poprawki zg\xc5\x82aszanych b\xc5\x82\xc4\x99d\xc3\xb3wWersja 3.0.0- dopasowanie wygl\xc4\x85du aplikacji do Tablet\xc3\xb3w (sprawd\xc5\xba mo\xc5\xbcliwo\xc5\x9bci aplikacji)- nowy interfejs specjalnie dopasowany do Tablet\xc3\xb3w zar\xc3\xb3wno w trybie portretowym jak i panoramicznym- lekkie zmiany interfejsu w smartfonach- poprawa b\xc5\x82\xc4\x99d\xc3\xb3w- wkr\xc3\xb3tce dodamy nowe funkcjonalno\xc5\x9bci, kt\xc3\xb3re nam zg\xc5\x82aszacie. Sukcesywnie b\xc4\x99dziemy wydawa\xc4\x87 kolejne aktualizacje.PozdrawiamyZesp\xc3\xb3\xc5\x82 Allegro'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Merge + '
+p1
+tp2
+(S'Description:'
+p3
+S'Merge+ helps you easily find & merge duplicate contacts.With Merge+, you can join duplicate contacts in your Android phone & Tablet with only three clicks:1. LAUNCH Merge+ to find duplicate contacts2. REVIEW merge suggestions and mark who to merge3. MERGE your selected duplicate contacts Merge+ can also be found as an integrated feature in Contacts+. Please make sure that you review all duplicates and backup your contacts before activating the merge option. _____________CONTACT US:We\xe2\x80\x99re always happy to get your feedback and answer any questions at: info@contactspls.comFacebook: facebook.com/contactsplsTwitter: twitter.com/contactspluswww.contactspls.com* Using Merge+ is subject to the Terms of Use in this link: http://contactspls.com/terms'
+p4
+tp5
+tp6
+.

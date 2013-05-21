@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mobli - Share Photos & Videos! '
+p1
+tp2
+(S'Description:'
+p3
+S'Snap, #tag, and share your photos & videos with friends, family and more! Follow people, #hashtags, and locations to see the world from every angle. :)Recent changes:Mobli 3.01 update features:- Registration improvements- Minor bugfixesMobli 3.00 update features: - New sleeker, more intuitive user interface - Speed enhancements for better loading and uploading - Aggregated feed of people, #hashtags, and locations followed for easier access to most recent updates- Redesigned inbox for better direct messaging and archived conversation stream  - Improved search and suggestions'
+p4
+tp5
+tp6
+.

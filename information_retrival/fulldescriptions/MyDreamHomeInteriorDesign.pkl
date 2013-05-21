@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Dream Home Interior Design '
+p1
+tp2
+(S'Description:'
+p3
+S'FREE inspirational design gallery of everyday spaces!  Collect, save, and share ideas for your new dream home!  Live Wallpaper and slideshow features for browsing the HD interior photos too!***Data connection needed to initially load images.  Live wallpapers only work on phones that support live wallpapers***Addicted to browsing beautiful interiors?  Need a little inspiration on a design project?  This HD image gallery collects the most amazing interior design ideas and applications, organizing them by rooms and elements.  ***Save and share images for living rooms, dining rooms, kitchens, bedrooms, bathrooms, home offices, loft spaces, and nooks.  Even browse design elements like fireplaces and stairs.  ***New images added daily with an option for rotating image live wallpaper.***Rotating Live Wallpaper image option for your home screen background***Set any image as your wallpaper background***Slideshow option to scroll through pics hands free***Save any image to your phone or share via text, facebook, or twitter.This app was built for the bored home owner looking for a change, new home owners needing some ideas, architects, interior designers, builders, developers, and anyone else who loves spending time browsing through beautiful spaces.  Photography enthusiasts will also love browsing the incredible HD interior shots!Tons of images... tons of ideas... Enjoy!Recent changes:*** Minor bug fixes*** More image sources'
+p4
+tp5
+tp6
+.

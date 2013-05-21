@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cinemagram '
+p1
+tp2
+(S'Description:'
+p3
+S"Cinemagram is a place to create and share beautiful, short videos.Find out why millions of users love and use Cinemagram!Features:\xe2\x98\x85  Free unlimited uploads\xe2\x98\x85  Instantly Share your videos to Facebook, Twitter and Tumblr.\xe2\x98\x85  Special effects - Stunning video filters, speed,and looping to create movie-like visual effects.\xe2\x98\x85  Artistic Cinemagraphs - Create magical hybrids between photo & video.\xe2\x98\x85  Direct Messaging\xe2\x98\x85  Interact with your friends' posts with likes, reposts, and comments.\xe2\x98\x85  Explore and discover great content through hashtags, categories and trending posts.\xe2\x98\x85  And so much more!Three Easy Steps:1 - Record a short looping 4s video2 - Apply awesome special effects3 - Instantly Share to Facebook, Twitter 4.- Share GIFS to TumblrRecent changes:1.0.10: - Various bug fixes.1.0.9:- Added the ability to record with sound!- Added mute button for all feeds- Added link to reset password in login- Supporting links in comments1.0.8:- Various bug fixes1.0.7:- Multiple themed feeds in discover- Videos in the feed now support sound- Tap Videos to view in full screen- Updated the look of activities1.0.6:- Added French, Italian, German, Spanish, Portuguese, Russian, Simplified Chinese, Japanese + Korean translations."
+p4
+tp5
+tp6
+.

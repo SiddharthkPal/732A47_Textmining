@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Listes des M\xc3\x83\xc2\xa9dicaments France '
+p1
+tp2
+(S'Description:'
+p3
+S"Permet d'acc\xc3\xa9der aux informations officielles sur les sp\xc3\xa9cialit\xc3\xa9s pharmaceutiques fournies par l'ANSM (Agence Nationale de S\xc3\xa9curit\xc3\xa9 du M\xc3\xa9dicament et des produits de sant\xc3\xa9.Mise \xc3\xa0 jour des donn\xc3\xa9es de l'ANSM du 21/02/2013.- Recherche par num\xc3\xa9ro AMM ou nom de la sp\xc3\xa9cialit\xc3\xa9.- Affichage du statut de l'AMM, du mode d'administration, des substances utilis\xc3\xa9es et de leur dosage (les principes actifs sont mis en \xc3\xa9vidence).- A partir de la fiche d'une sp\xc3\xa9cialit\xc3\xa9 (sur la liste des substances), possibilit\xc3\xa9 de voir les sp\xc3\xa9cialit\xc3\xa9s \xc3\xa9quivalentes.- La base de donn\xc3\xa9es est embarqu\xc3\xa9e, aucune connexion n'est n\xc3\xa9cessaire.-> N'h\xc3\xa9sitez pas \xc3\xa0 nous faire part de vos suggestions pour am\xc3\xa9liorer ce programme : capdev@capinformatique.comRecent changes:Possibilit\xc3\xa9 de scanner le code barre de l'AMM."
+p4
+tp5
+tp6
+.

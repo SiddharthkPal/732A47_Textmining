@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'EagleView '
+p1
+tp2
+(S'Description:'
+p3
+S"The EagleView mobile application works seamlessly with your Android phone providing on-site ordering based upon your GPS location or through manual address entry.  Enjoy handy access to and storage of all of your measurement details and find information quickly with the property-centric organization system. Save time when you\xe2\x80\x99re on the go.Features:\xe2\x80\xa2 Create your EagleView account right on your phone\xe2\x80\xa2 Manage properties\xe2\x80\xa2 Automatically log in\xe2\x80\xa2 Easily place new orders anytime, from anywhere\xe2\x80\xa2 Attach property photos to your order\xe2\x80\xa2 Edit property photos right on your phone\xe2\x80\xa2 Check the status of pending orders\xe2\x80\xa2 Receive completed orders the moment they're ready\xe2\x80\xa2 View and store all of your reports on your phone\xe2\x80\xa2 Access valuable report measurement data and details while away from your deskDownload the FREE EagleView app Today!Recent changes:\xe2\x80\xa2 Resolved Create Account issue\xe2\x80\xa2 Claim Number validated and required, if applicable to customer\xe2\x80\xa2 Enabled scrolling list of images in Images Selection Screen when placing an order\xe2\x80\xa2 Pending Reports displayed as In Progress status under Order History\xe2\x80\xa2 \xe2\x80\x98Save Order' saves primary product changes\xe2\x80\xa2 Buttons on Create Property Map View easier to use\xe2\x80\xa2 Saved orders are still listed under Saved after order placed has been placed\xe2\x80\xa2 Removed white box around Search text boxes"
+p4
+tp5
+tp6
+.

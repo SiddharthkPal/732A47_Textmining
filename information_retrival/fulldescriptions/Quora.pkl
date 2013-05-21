@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quora '
+p1
+tp2
+(S'Description:'
+p3
+S'Quora is your best source for knowledge. Ask any question, get real answers from people with first hand experience, and blog about what you know.FEATURES:  \xe2\x80\xa2 Add and browse questions, reviews, and blogs \xe2\x80\xa2 Answer questions and find great answers \xe2\x80\xa2 Vote on the best answers, blog posts, and reviews \xe2\x80\xa2 Optimized for tablets \xe2\x80\xa2 Find an answer right away with fast, voice-enabled search \xe2\x80\xa2 Stay up-to-date with rich push notifications \xe2\x80\xa2 Install the widget to see a feed of the best answers on Quora right now \xe2\x80\xa2 Share interesting questions, answers, reviews, and posts with your friends and followers \xe2\x80\xa2 Add Quora to your phone search for integrated resultsNOTES: Quora is only for English-language content at this time. To provide best experience possible, we ask that everyone have a Quora account and use their real, full name.Recent changes:1.1.9\xe2\x80\xa2 Faster page loads\xe2\x80\xa2 Stability improvements\xe2\x80\xa2 Bug fixes(from 1.1.0)\xe2\x80\xa2 Tablet-optimization in landscape on tablet devices with Android 3.1 and higher\xe2\x80\xa2 Load more search results and drill down and search for related items in an improved search interface\xe2\x80\xa2 Clear way to ask questions\xe2\x80\xa2 Best performance yet and improved stability\xe2\x80\xa2 Support for blogs\xe2\x80\xa2 Bug fixes(from 1.0.102)\xe2\x80\xa2 Bug and performance fixes\xe2\x80\xa2 Low bandwidth support'
+p4
+tp5
+tp6
+.

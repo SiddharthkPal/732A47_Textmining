@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TV Espa\xc3\x83\xc2\xb1a '
+p1
+tp2
+(S'Description:'
+p3
+S'Para ver Televisi\xc3\xb3n en directo gratis SIN Flash Player y para todo tipo de terminales (siempre que el hardware del dispositivo lo permita), una aplicaci\xc3\xb3n c\xc3\xb3moda y r\xc3\xa1pida que te permitir\xc3\xa1 ver en directo los principales canales de TV en Espa\xc3\xb1a, tanto nacionales como auton\xc3\xb3micos, directamente de sus emisiones oficiales para ofrecerte una aplicaci\xc3\xb3n segura y con la mejor calidad. Sin duda la mejor aplicaci\xc3\xb3n para ver Tv en directo en tu dispositivo Android.*ESTA APLICACI\xc3\x93N REQUIERE DEL PULGIN VITAMIO PARA PODER REPRODUCIR LAS EMISIONES EN DIRECTO. SI VITAMIO NO SE ENCUENTRA INSTALADO EN SU DISPOSITIVO APARECER\xc3\x81 UN DIALOGO DE DESCARGA PARA INSTALARLO EN SU EQUIPO.*ESTA APLICACI\xc3\x93N NO NECESITA FLASH PLAYER PARA FUNCIONAR.NOTAS:-Algunos canales no emiten en directo las 24 horas, por esta raz\xc3\xb3n, en algunos momentos del d\xc3\xada la pantalla de alg\xc3\xban canal puede mostrarse en negro o con algunos mensajes como "el programa no est\xc3\xa1 disponible\xe2\x80\x9d.IMPORTANTE: Todo el contenido mostrado en la aplicaci\xc3\xb3n Tv Espa\xc3\xb1a son enlaces a terceros, de dominio p\xc3\xbablico y totalmente ajenos a la aplicaci\xc3\xb3n.Recent changes:- A\xc3\xb1adida funci\xc3\xb3n recarga autom\xc3\xa1tica de Canal.- A\xc3\xb1adida funci\xc3\xb3n para configurar la calidad de imagen.- A\xc3\xb1adidos nuevos canales.- A\xc3\xb1adida funci\xc3\xb3n de favoritos.- Nueva pesta\xc3\xb1a Sugerencias.'
+p4
+tp5
+tp6
+.

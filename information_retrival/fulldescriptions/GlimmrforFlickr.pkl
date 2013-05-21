@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glimmr, for Flickr '
+p1
+tp2
+(S'Description:'
+p3
+S'*New!* Vote for new features at http://glimmr.uservoice.comA new, fast, modern and fun Flickr app for Android phones and tablets."Makes Browsing Flickr on Your Phone Fun Again" - lifehacker.com* Swipe through you and your contacts photos with ease.* Group support.* Widget for Android 3.0 and up.* Rich notifications for activity on your photos.* Comment on photos and view detailed exif info.* No Ads.If you love Glimmr, please consider checking out Pro:\xe2\x98\x85 Set images as wallpaper.\xe2\x98\x85 Option to use high quality thumbnails (nice on tablets and large screens)\xe2\x98\x85 Support development for less than the price of a coffee :)** Translating Glimmr is easy! Email me if you would like it in your language.Disclaimer: Glimmr is in no way affiliated with Yahoo or Flickr.Recent changes:2.9Video supportView profile directly from photo viewerUsage tips (can disable from preferences)Update all translations2.8Fix some Norwegian translationsAdd Italian translations2.7Add French and Norwegian translationsAdd \'my photos\' tab to searchAdd to photoset and groups functionality (beta)Replace SearchView with search widgetSort search by relevance/most recent etc.Minor UI refinements'
+p4
+tp5
+tp6
+.

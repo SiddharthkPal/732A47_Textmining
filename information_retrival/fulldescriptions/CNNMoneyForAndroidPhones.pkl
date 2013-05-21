@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CNNMoney For Android Phones '
+p1
+tp2
+(S'Description:'
+p3
+S"Get CNN Money's award-winning business, finance and tech news on-the-go.Track the markets with real-time data, and personalize a Watchlist to keep up with your stock performance. CNN Money\xe2\x80\x99s Android app features an elegant design, making it quick and easy to get the latest business, markets and finance news.Features:\xc2\xb7 Real-time Market data\xc2\xb7 Personalized Watchlists\xc2\xb7 World Markets, Currency and Commodities data\xc2\xb7 Breaking news alertsRecent changes:Version 1.0.3* Ice Cream Sandwich bug fix.* Enhanced notification and alerts system.Version 1.0.2* Move to SD card support.* Related stories on stock detail pages.* Increased video performance.* Improved share feature.* Various bug fixes."
+p4
+tp5
+tp6
+.

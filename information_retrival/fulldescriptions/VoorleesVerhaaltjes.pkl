@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Voorlees Verhaaltjes '
+p1
+tp2
+(S'Description:'
+p3
+S'Voorlees Verhaaltjes is begonnen als simpele applicatie met een aantal bekende kinderverhalen. Tot onze grote verbazing was er nog geen Nederlandse applicatie met voorleesverhaaltjes en sprookjes erin. Iets wat ouders toch zeker van pas zal komen in het geval ze zelf even geen verhaaltje weten of geen voorleesboek bij de hand hebben. Op dit moment zitten de volgende verhaaltjes erin:1. Aladin en de wonderlamp2. Assepoester3. De gelaarsde kat4. De haas en de egel5. De nieuwe kleren van de keizer6. De prinses op de erwt7. De wolf en de zeven geitjes8. Doornroosje9. Hans en grietje10. Het lelijke jonge eendje11. Klein duimpje12. Pinokkio13. Raponsje14. Repelsteeltje15. Roodkapje16. SneeuwwitjeMeer verhaaltjes?Vindt u dat er een bekend sprookje mist of heeft u misschien zelf een sprookje geschreven? Stuur ons dan direct een mailtje# Uses ListViewAnimations (https://github.com/nhaarman/ListViewAnimations) by Niek HaarmanRecent changes:V1.0'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Easy Touch (iPhone style) '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Why i can't uninstall this App ???We are so sad because we get a lot of one star by can't uninstalling EasyTouch :(Can't uninstall because of the Android OS, it need deactivate 'Lock Screen' before you uninstall.You can uninstall in the Setting of EasyTouch(Not system setting) or unintall it by following step:Settings -> Location & Security -> Select Device Administrators -> Cancel this app.Than try to uninstall again, thanks.We are so sorry, any question, email to:shereworkshop@gmail.com\xe2\x98\x85 What is Easy Touch?Easy Touch Not a Widget!Easy Touch is a button which looks like AssistiveTouch on iPhone, and it's All Free!It floats on your phone screen(floats on others app), you can move it to any where.\xe2\x98\x85 What Easy Touch can do?Easy Touch provides a very convenient way to:\xe2\x98\x85 Quick settings(Change your phone settings like turn on Wifi, change screen brightness and so on).\xe2\x98\x85 Open your favour app.\xe2\x98\x85 Go to Home Screen.\xe2\x98\x85 Back button(need Root support).\xe2\x98\x85 Menu button(need Root support).\xe2\x98\x85 Lock Screen(sorry for some problems on Galaxy s3 and some 4.0.+ Android OS).\xe2\x98\x85 App list.\xe2\x98\x85 Open recent task(double press).\xe2\x98\x85 Task manager(Kill task,need Root support)\xe2\x98\x85 Memory optimize(Ram optimize)\xe2\x98\x85 Time display\xe2\x98\x85 Clean cache\xe2\x98\x85 Switch include:- Brightness- Ringer mode- Bluetooth- WiFi- GPS- APN(Mobile Data)- Auto rotation- Flashlight- Air-plane mode- Volume\xe2\x98\x85 Easy Touch themesAlso you can cahnge you Easy Touch theme.That is more powerful than Widget.\xe2\x98\x85 Thank you to those voluntary translator!If you would like to translate the app into other languages, please contact us:shereworkshop@gmail.comThank you!kw:setting, settings, quick setting, switch, iphoneRecent changes:2.4.6 update1. [\xe2\x98\x85New]Power off(Long press 'Lock screen', need Root support)2. [\xe2\x98\x85New]System recent task(Long press 'Home screen')3. [\xe2\x98\x85New]Auto sync setting4. [\xe2\x98\x85Fix]Theme bug5. [\xe2\x98\x85Fix]Some other bug2.4.4 update1. [\xe2\x98\x85New]Screenshot(Need ROOT support)2.4.3 update1. [\xe2\x98\x85Fix]4.1.n OS Back(Menu) key problem2. [\xe2\x98\x85Fix]Some other bug3. [\xe2\x98\x85New]More themes"
+p4
+tp5
+tp6
+.

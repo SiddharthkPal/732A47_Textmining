@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Houzz Interior Design Ideas '
+p1
+tp2
+(S'Description:'
+p3
+S'Called the "Wikipedia of interior and exterior design" by CNN, Houzz has the largest database of home design ideas on the net, with over 900,000 high resolution photos. Browse photos by style, room and location and save them to your virtual ideabook \xe2\x80\x94 it\'s the equivalent of clipping design magazines to a scrapbook \xe2\x80\x94 making ideas easier to search, save, and share. Experience Houzz.com as an Android app and save your photos locally for offline access. Join the discussion and get the community to help with your design dilemmas. Find everything from products curated by our editorial team to top-rated  local designers, architects, contractors and other home pros who can help you realize your ideas. The best part is, browsing your ideabook, they\'ll get exactly what you\'re trying to do.What the Press has to say about Houzz: \xe2\x80\xa2 "A digital look book for interior-decorating ideas" - The Wall Street Journal. \xe2\x80\xa2 "It\'s the Flickr of design idea sites" - The Washington Post. \xe2\x80\xa2 "One of the most comprehensive collections of home design images on the iPad" - The Independent. \xe2\x80\xa2 "Could be the ultimate home decorating resource!" - Fox43 / WPMT-TV. \xe2\x80\xa2 "Quite an addictive site" - San Francisco ChronicleUse of the Houzz Android App and the the services provided through the Apps are subject to Houzz.com\'s terms of use:http://www.houzz.com/termsOfUseRecent changes:1.0.8Minor bug fixesFixed - crash when exiting the app1.0.7Fixed - crash when deleting IdeabooksFixed - crash when exiting the appFixed - missing Ideabook description if opened via Info screenFixed - recently added Ideabook is missing from Add to Ideabook screenFixed - on some devices, photos doesn\'t show up1.0.6Bug fixesMain menu on not to be hidden in landscape mode on tablets'
+p4
+tp5
+tp6
+.

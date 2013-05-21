@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Epic Haiku '
+p1
+tp2
+(S'Description:'
+p3
+S'Haiku provides authorized clinical users of Epic\xe2\x80\x99s Electronic Health Record with secure access to clinic schedules, hospital patient lists, health summaries, test results and notes. Haiku also supports In Basket access. Your organization needs to license Haiku and be on Epic\xe2\x80\x99s Summer 2009 version and will determine the exact feature set and any applicable charges for your use of Haiku. If you are unsure whether you can use Haiku, please contact your administrative staff.Recent changes:Miscellaneous fixes and improvements'
+p4
+tp5
+tp6
+.

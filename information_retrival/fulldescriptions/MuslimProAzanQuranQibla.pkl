@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Muslim Pro: Azan, Quran, Qibla '
+p1
+tp2
+(S'Description:'
+p3
+S"#1 Azan app on the Google Play Store! Thank you!Recognized by millions of Islam followers through the Muslim world as the most accurate Prayer time & Azan application on mobile devices. Muslim Pro also features the full Quran with Arabic scripts, phonetics, translations and audio recitations as well as a Qibla locator, an Islamic Hijri calendar, a map of halal restaurants and Mosques, etc.. MAIN FEATURES: - Accurate Prayer time calculator based on your current location - Azan / Adhan: visual and audio notifications / calls for prayer - The Holy Quran (Al Qur'an) with recitations (mp3 audio), phonetics and translations in 12 languages - Halal restaurants and mosques locations around you - Animated Qibla compass to show you the direction to Mecca - Muslim calendar to estimate holy dates such as Eid-Ul-Fitr and Eid-Ul-Adha - 99 names of Allah (swt) and Prophet Muhammad (saw)- App and Quran fully translated to Deutsch, English, Espa\xc3\xb1ol, Fran\xc3\xa7ais, Indonesian, Italiano, Malais, T\xc3\xbcrk\xc3\xa7e, \xd1\x80\xd1\x83\xd1\x81\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9, \xe0\xb8\xa0\xe0\xb8\xb2\xe0\xb8\xa9\xe0\xb8\xb2\xe0\xb9\x84\xe0\xb8\x97\xe0\xb8\xa2, \xe7\xae\x80\xe4\xbd\x93\xe4\xb8\xad\xe6\x96\x87, \xd8\xa7\xd8\xb1\xd8\xaf\xd9\x88 and \xd8\xa7\xd9\x84\xd8\xb9\xd8\xb1\xd8\xa8\xd9\x8a\xd8\xa9IMPORTANT NOTES (1) if you feel that the app is giving you wrong prayer times, it is most likely related to your settings. Please make sure that you have selected the correct convention/calculation method and other parameters. (2) we can't reply to reviews on the Google Play Store. Please write to us (from the app itself) or find us on the social networks below if you need to notify a bug. FOLLOW US FOR MORE UPDATES http://twitter.com/muslimpro http://facebook.com/muslimpro http://muslimpro.com/+ http://www.muslimpro.comKEYWORDSHijri, Salah, Salat, adhan, allah, athan, azan, calendar, fajr, haj, halal, islam, islamic, kibla, kuran, makkah, masjid, mecca, mosque, muslim, namaaz, namaz, pray, prayer, qibla, qur'an, quran, ramadan, shalat, timeRecent changes:v3.0.6 / v3.0.7- fixes various crashes and minor bugsLike this version? Please show us your support with a 5* review"
+p4
+tp5
+tp6
+.

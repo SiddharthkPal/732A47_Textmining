@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TrovaPrezzi '
+p1
+tp2
+(S'Description:'
+p3
+S'L\'applicazione di Trovaprezzi.it ti permette di confrontare migliaia di prodotti online e trovare il prezzo pi\xc3\xb9 conveniente per i tuoi acquisti.  L\xe2\x80\x99app TrovaPrezzi per smartphone Android ti permette di ricercare in modo semplice e veloce tra oltre sei milioni di prodotti offerti da pi\xc3\xb9 di 2.000 negozi online e di navigare tra i pi\xc3\xb9 svariati settori merceologici, dall\xe2\x80\x99elettronica all\xe2\x80\x99abbigliamento, dall\xe2\x80\x99arredamento allo sport. Collegandosi in tempo reale alle offerte di Trova Prezzi avrai sempre la sicurezza di trovare l\'offerta migliore, e di conoscere in tempo reale le valutazioni dei negozi online, lasciati dagli utenti di TrovaPrezzi.it in oltre 10 anni di acquisti online!Le caratteristiche principali dell\xe2\x80\x99app TrovaPrezzi:- trova le migliori offerte di prodotti e servizi, usando la ricerca testuale o la ricerca tramite riconoscimento vocale;- mostra gli affari sui prodotti pi\xc3\xb9 caldi del momento, con i "Ribassi della Settimana";- mostra i prodotti pi\xc3\xb9 popolari secondo gli oltre 8 milioni di utenti di TrovaPrezzi, aiutandoti a scegliere bene, nel tuo shopping on-line;- ricorda le tue ultime ricerche, per semplificarti la vita con codici e sigle;- permette di filtrare in risultati in base a dei limiti di prezzo o alle categorie;- fornisce le informazioni principali sul prodotto che stai cercando;- contiene una valutazione dei negozi online assegnata dai nostri utenti;- permette la condivisione su facebook, twitter e tutti i   social network installati sul tuo smartphone android;- permette la navigazione delle offerte sui negozi online.- ha un widget dedicato per controllare i prodotti preferiti- Si pu\xc3\xb2 utilizzare anche usando lo smartphone in modalit\xc3\xa0 landscape, in orizzontale, per permettere una migliore navigazione tra le offerte TrovaPrezzi Android \xc3\xa8 online con la sua versione 4.1, ma altre funzionalit\xc3\xa0 saranno aggiunte ancora, stay tuned!Porta TrovaPrezzi sempre con te e non perderai mai l\xe2\x80\x99occasione di risparmiare!Con TrovaPrezzi trovi sempre l\'offerta migliore per i tuoi acquisti!Recent changes:- Aggiunto il filtro sui risultati di ricerca in base ad un limite di prezzo inferiore o superiore.- Aggiunta la possibilit\xc3\xa0 di ordinare le sezioni della Home Page in base ai propri gusti.- Aggiunta l\'informativa sulla privacy.- Perfezionamenti minori e bug fixing.'
+p4
+tp5
+tp6
+.

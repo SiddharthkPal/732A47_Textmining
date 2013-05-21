@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mono Bluetooth Router '
+p1
+tp2
+(S'Description:'
+p3
+S'Simple application allows you route sound via mono bluetooth headset.- sound indication when routing is switched on- restores sound volume after switching off the routing- indication when routing is on in status bar- restores bluetooth routing after phone callSupports Android 2.2 and higher.Make sure your bluetooth headset is switched on before start the application.On android 4.0 please make sure you switch on routing before sound started to play.Known Issues:- Sound quality is not perfect. Unfortunately I still not found a way to deliver high quality of sound, though I am constantly looking for way to make it better. Still hope that low quality is better then no Bluetooth sound at all.- Not all models supported;- On some issues of Samsung Galaxy S2 - the native music player is not working - please use third party MP3 music player;- On some issues of Samsung Galaxy S3 - the sound from microphone also routing through the headset so you hear all noises around that makes program useless;- Sometimes the program is being killed by Android so music goes trough loudspeakers on full volume;I still looking for ways to fix these issue, sorry for inconvenience, hoping to find workarounds for these issues.I welcome any feedbacks from you. Both positive or negative feedbacks are helping me make this application better! Thank you so much!Recent changes:- better sound quality- restarts sound if service killed by the system- sound notifications made disablable in settings- some bug fixes'
+p4
+tp5
+tp6
+.

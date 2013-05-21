@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Weather EX '
+p1
+tp2
+(S'Description:'
+p3
+S'The highest rating weather app in the google play, 4.5 of 5 stars,better than all the others(the weather channel just 4.1). Detailed weather report, accurate weather forecast with variety of delicate weather widget themes and live wallpaper. It supports tens of thousands locations and cities and delivers accurate weather report to you at any time. \xe2\x9d\xa4Basic Features: -Detailed weather report (time, date, feel like, high and low temperature, wind, humidity, visibility, sunrise and sunset)-5-day weather forecast-Auto refresh weather report with frequency-Accurate location positioning -Live wallpaper for 7+ weather conditions in day and night mode: sunny, rainy, snowy, thunder, cloudy, overcast, foggy, etc. -2*1, 4*1, 4*2 current weather widget ( able to show lunar and holiday)-4*1, 4*2 future weather forecast widget ( able to show lunar and holiday)-Weather notification display-Dynamic background (available for mobile home screen)-Share weather  report\xe2\x9d\xa4Premium Features with Pro Version-Remove ads-10-day weather forecast-24 hour detailed weather forecast -Chance of precipitation forecast-World clock to display local time-Exclusively designed weather widgets themes for Pro Version-4*2 world clock widget-Self-define temperature change alertHere\xe2\x80\x99s what our users are saying:"Perfect app I\'ve tried tons of weather apps and have found GO Weather EX to be my favorite.""The best weather app Accurate, functional, fast and simple! Well done!""GO Weather EX is so much better than the news and weather application I had."We are endeavoring to deliver the most accurate weather report, weather forecast and most beautiful weather widget theme, live wallpaper to our lovely users. Rate us if you like GO Weather EX. Feel free to contact us if there is any problem or suggestion.E-mail: golauncher@goforandroid.comFacebook: https://www.facebook.com/pages/GO-Weather-EX/488274257857852Recent changes:1. (Improve) Tab column trends sliding screen prompts.2. (Add) 4*1 future forecast GO Widget.3. (Support) Catalan translation. 4. (Support) Weather description support Russian and Portuguese translation.5. (Improve) City switch way in Tab.  6. (Improve) Layout of AQI interface. 7. (Improve) Theme Store interface and add dynamic elements.8. (Improve) Japanese, Korean, French and Italian translation.9. (Improve) Fixed location inaccurate for some city.'
+p4
+tp5
+tp6
+.

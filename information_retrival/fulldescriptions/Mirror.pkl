@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mirror '
+p1
+tp2
+(S'Description:'
+p3
+S'This mirror is ideal when you need to check your look, makeup lips or eyes, put contact lenses or shave at any time and any place.Always within arm\'s reach!This application is optimized for phones and tablets, it looks great on large screen devices also.WARNING: This application uses front camera. You won\'t see your reflection if your device doesn\'t have front camera, but you can use this application to take pictures.Key features of our Mirror application are:- Unique, elegant graphics with exclusive character. - Many beautiful frames. - Taking pictures. - Easy image freeze and picture taking. - Sharing your photos with friends. - Change zoom. - Change brightness. - Possibility to choose front or back camera. - Buying more cool frames with few clicks, we recommend great "Love and Valentine\'s Day" frameset! - More coming soon. This application is ad-supported, but you can remove ads easily without reinstallation with few clicks (this is paid feature).Keywords:mirror photo camera best design cool framesThis product is distributed under terms of following End User Licensing Agreement (EULA) available at http://www.fulminesoftware.com/eula.html, please read it before downloading. By downloading this product you agree on terms of the EULA.Recent changes:Bugfixes:- Fixed display of "Love & Valentine\'s Day" frameset on startup on some devices.- Fixed crash on startup on some devices.- Fixed some user interface issues on some devices.Changes:- Camera and picture rotation can be now adjusted manually in settings.- Added Spanish and Serbian language versions.- Other minor changes.'
+p4
+tp5
+tp6
+.

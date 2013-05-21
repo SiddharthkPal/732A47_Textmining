@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Guardian Anytime Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Application is used for members to find dentists and vision care providers participating in the Guardian Life Insurance's dental and vision network plans.  The member can also view an image of their Guardian ID card.Recent changes:1) Fixed minor issues2) Added additional features     a) Save and retrieve provider information for latter use     b) View Map information     c) Get directions to selected provider from any where with in US (touch and hold any point on the map and get directions from the point)"
+p4
+tp5
+tp6
+.

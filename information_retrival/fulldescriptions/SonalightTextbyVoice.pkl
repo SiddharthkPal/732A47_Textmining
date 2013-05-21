@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sonalight Text by Voice '
+p1
+tp2
+(S'Description:'
+p3
+S"Text by Voice allows you to safely text while you drive entirely through voice. There's no need to touch or look at the screen at all. Text by Voice will automatically read incoming text messages aloud and give you a chance to respond. You can also set an auto responder for incoming text messages, and have Text by Voice start automatically when you start driving, and make calls hands-free. Text by Voice lets you compose texts on the fly. It runs in the background so you can use other apps at the same time. Drive more safely with Text by Voice.Search KeywordsText by Voice, TextbyVoice, Voice Recognition, Speech Recognition, Hands Free, Speech, Text, SMS, Drive, Driving, Text While Driving, Sonalight, Sonalite, Sonilight, Sonilite, Sonolight, Sonolight, Sonarlight, Sonarlite, sona soni sono sonar light lite text by voice textbyvoice text and drive siri iris vlingo skyvii veloct jarvis google voice eva jeannieEmail dev@sonalight.comPHONE SPECIFIC NOTES:-Tested fully with no problems on Motorola Droid, Motorola Droid 2, HTC Evo, HTC Droid Incredible, HTC Droid Incredible 2, Nexus S, LG Optimus V, and T-Mobile G2-Samsung Galaxy S microphone has lower quality audioRecent changes:3.4.6:-Fix for database growing too large if offline for a long time-Increased upgrade price3.4.2:-Fixed crash on app open or text message receipt-Fixed crash on ICS-Fixed crash on install-Fixed Jelly Bean text-to-speech errors-We will be increasing the price of the upgrade in the next version, purchase now to get the discounted rate3.4:-UI changes: larger buttons, volume bar-Added quick settings to quickly toggle reading/listening-Fix recording error and other bugs"
+p4
+tp5
+tp6
+.

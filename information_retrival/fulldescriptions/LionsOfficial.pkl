@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lions Official '
+p1
+tp2
+(S'Description:'
+p3
+S'This FREE Official App provides all of the fans with an ultimate Lions experience; providing all of the build-up to the 2013 tour to Hong Kong and Australia as well as all of the exclusive and behind the scenes news, tour information, up to date squad announcements and our video content. Courtesy of Global Sponsor Microsoft, there is also the chance to enter the exclusive competition, \xe2\x80\x9cOn the Plane\xe2\x80\x9d where fans will have the chance to win a \xe2\x80\x9cBritish & Irish Lions Dream Prize\xe2\x80\x9d \xe2\x80\xa6. Attending the Official Squad Announcement in London.Key features include:-\t\xe2\x80\x9cLiving With The Lions\xe2\x80\x9d news items giving fans the opportunity to keep up to date with the latest information in the build-up to the tour-\tCourtesy of Microsoft, \xe2\x80\x9cOn the plane competition\xe2\x80\x9d giving fans the chance to attend the exclusive event of the Lions Australia 2013 tour squad announcement-\tTour 2013 background information and upcoming fixture details-\tVideo content -\t\xe2\x80\x9cSea Of Red\xe2\x80\x9d provides fans the chance to join in the \xe2\x80\x9croar of the lions\xe2\x80\x9d-\tHistory of the Lions Legends-\tKey sponsor informationExperience all of the excitement in the build-up to the tour with the Lions Official App.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FrAndroid '
+p1
+tp2
+(S'Description:'
+p3
+S"FrAndroid est la communaut\xc3\xa9 francophone Android de r\xc3\xa9f\xc3\xa9rence.Chaque jour, vous retrouverez l'actualit\xc3\xa9 d'Android, des tests, des prises en main, des analyses, des dossiers et bien d\xe2\x80\x99autres choses encore. Vous pouvez \xc3\xa9galement rejoindre le forum et \xc3\xa9changer avec plus de 100 000 membres sur plus d'1 million de sujets cr\xc3\xa9\xc3\xa9s.L'application FrAndroid vous donne donc acc\xc3\xa8s \xc3\xa0 toute l'actualit\xc3\xa9 Android aussi bien au niveau logiciel que mat\xc3\xa9riel :- Restez donc inform\xc3\xa9 de tout l'univers Android avec les applications du Play Store et des markets alternatifs, Google TV et les diff\xc3\xa9rentes versions du syst\xc3\xa8me dont notamment 4.0 Ice Cream Sandwich ou 4.1 Jelly Bean- Retrouvez aussi toutes les informations concernant les terminaux proposant Android avec les appareils des marques comme Samsung, HTC, LG Electronics, Motorola ou Sony Mobile- Param\xc3\xa9trer le push notification pour \xc3\xaatre averti des derni\xc3\xa8res news- D\xc3\xa9couvrez toutes les vid\xc3\xa9os de FrAndroid directement dans l'applicationFrAndroid appartient au r\xc3\xa9seau Humanoid qui regroupe un ensemble de sites d\xc3\xa9di\xc3\xa9s aux probl\xc3\xa9matiques mobiles. Le r\xc3\xa9seau est compos\xc3\xa9 de FrAndroid.com, LesArdoises.com, FraWin.com, Appxoid.com ou encore Mobs.frPour nous suivre :Site Web : http://www.frandroid.comSite Humanoid : http://humanoid.fr/Google+ : https://plus.google.com/+frandroidTwitter : http://www.twitter.com/twandroidFacebook : https://www.facebook.com/pages/Frandroid/31928183984Permissions demand\xc3\xa9es par l'application :Communications r\xc3\xa9seau : - B\xc3\xa9n\xc3\xa9ficier d'un acc\xc3\xa8s complet au r\xc3\xa9seau- Recevoir des donn\xc3\xa9es depuis Internet : push (GCM)- Afficher les connexions r\xc3\xa9seau (un message diff\xc3\xa9rent si impossible de t\xc3\xa9l\xc3\xa9charger le contenu)Vos comptes :- Rechercher des comptes sur l'appareil : demand\xc3\xa9 par le push de Google (GCM), pas utilis\xc3\xa9 sur le reste de l'applicationOutil syst\xc3\xa8me :- Emp\xc3\xaacher de passer en veille : demand\xc3\xa9 par le push pour le traiter imm\xc3\xa9diatementStockage : pour mettre les images des articles en cacheRecent changes:Probl\xc3\xa8me d'heure sur les commentairesCorrection du lien Google+Compatible Android 2.1+ (merci de nous faire contacter pour les \xc3\xa9ventuels bugs)Correction de bugs"
+p4
+tp5
+tp6
+.

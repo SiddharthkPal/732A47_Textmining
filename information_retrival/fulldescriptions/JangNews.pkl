@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jang News '
+p1
+tp2
+(S'Description:'
+p3
+S'Official application for Jang Urdu News. Read latest news from various categories, watch latest news bulletins, see local happenings and follow your favorite columns'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Let's Print Droid "
+p1
+tp2
+(S'Description:'
+p3
+S'Let\xe2\x80\x99s Print Droid (LPD) is print enabling software for Android phones and Tablets.  Ink Jet and USB printer users please read the app\'s Ink Jet help file. You may need to use Google Cloud Print. This app is not perfect for novice users.If you have a business grade laser or print server, the app will talk directly to them without Cloud Print or any off-site conversion.  - Works on devices using Android 2.3 or greater. - Designed to print to network connected laser printers. - ideal for connecting to print servers as it understands most protocols: Line Printer Daemon, IPP/CUPS, Server Message Block/CIFS, HTTP, JetDirect/RAW, etc. - Files, pictures or GMails on your device can be printed directly from the file/picture/GMail browser.- use the Share or Send function of another Android app to print. -LPD supports Google Cloud Print. Just choose Cloud Print from the Protocol option list in the Add Printer dialog box. - LPD can print PDFs, Jpeg, PNG, GIF images, Text Documents, GMails and static web pages. - LPD includes generic PCL,POSTSCRIPT & PDF drivers if your printer does not understand Raw image files. - It allows visiting Android users to print with minimal configuration by the user. Load the app, scan a QR code; the document prints. - LPD can also perform simple File Transfers using FTP(S), HTTP(S) or SMB/CIFS. Transfers are performed similarly to printing and appear as options in the Protocol pull-down in Add Printer screen. - It enables secure corporate \xe2\x80\x9ccloud printing\xe2\x80\x9d when teamed with server software such as Enterprise Output Manager by Unisys, Microsoft Server or Linux/Unix.- A detailed free-ware work around for all types of printers (including USB connected) is provided in the help files.- Proxy Print Server mode (under the Browser Mode menu item) lets you print photos from your iPad/iPhone or other device.- Download the companion app "Let\'s Print PDF" to render PDFs on your android device or choose off-device rendering if you have a CUPS server. See the Help Files.Recent changes:Ink Jet & USB printer users, read the Ink Jet help file before using the app. You may need to use Google Cloud Print. This app is not perfect for novice users.Ver 1.28  - Bug Fixes. On-device PDF rendering using companion App: "Let\'s Print PDF". See Basic Settings & PDF Help file. v.1.25 - Bug Fixes; Proxy Print Server mode under Browser Mode menu item. Print pics from your iPhone and iPad via your Android device.'
+p4
+tp5
+tp6
+.

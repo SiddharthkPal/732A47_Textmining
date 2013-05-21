@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Analytics '
+p1
+tp2
+(S'Description:'
+p3
+S'The Google Analytics app shows what is new and what is important on your Google Analytics profiles.  See real time statistics, customizable dashboards and intelligence events on your phone.Recent changes:v1.1.7* Bug fixes* The ability to reorder charts in the Dashboard* UI enhancements'
+p4
+tp5
+tp6
+.

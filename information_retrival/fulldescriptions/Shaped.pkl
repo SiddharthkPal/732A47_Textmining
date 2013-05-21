@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Shape'd "
+p1
+tp2
+(S'Description:'
+p3
+S'Shaped lets you cut out your photos with different geometric shapes so that you can share them on Instagram or your favorite social network.Draw or crop out shapes on your pictures with forms like  circle, triangle, hexagon, rectangle, heart, cross, drop, rhombus, ...and many more.Write, draw or crop out text with differents fonts.Choose the background color of your image.Add different shapes to cut out your image and make a different design.Rotate your image to fit your design.Share with Instagram, facebook, twitter, Go SMS, Twitpic, Pinterest, Whatsapp, Streamzoo, Picstitch, Instacollage, Instaframe, Pic stitch, line and other social networks.Load images from your gallery or from your favorite camera application.How to:-Change the size of your shapes: With a shape selected, pinch the screen with two fingers and make it bigger or smaller.Recent changes:v4.5:-New package "animals"-New Fonts-Bug fixingv4.4:-New fonts-Resolution improvements-Bug fixingv4.1:-New shapes (cross, keyhole, X, drop, ...)-Bug fixingv4.0:-New fonts-New package valentine\'s day-New back buttonv3.5:-New menu buttons-New shapes: HEART and STAR!v3.3:-solved bug in option "crop"-better response when touching, moving or deleting shapes'
+p4
+tp5
+tp6
+.

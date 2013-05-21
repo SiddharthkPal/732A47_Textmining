@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GEICO App '
+p1
+tp2
+(S'Description:'
+p3
+S'The GEICO app includes functionality based off of feedback from you, the customer! Policyholders: * Store full-screen digital insurance ID cards, with email and fax capability* Pay your bill* Change your payment plan* View your discounts and coverage* Quote adding, deleting or replacing a vehicle * View claims and reschedule claim appointments* View driver and vehicle information* Update your contact information* Customize the app with one of your favorite GEICO characters!    Features for Everyone:* Accident Guide- A step-by-step guide to help you record all the information you need from the accident scene, including photos.* Arrange for Roadside Assistance conveniently, without making a call  * Locate an Agent \xe2\x80\x93 Find a GEICO Agent near youNOTE: To log into the GEICO App, your GEICO insurance policy must:* Be registered at www.geico.com* Have an auto or motorcycle policy* Not be subject to other policy restrictionsRecent changes:* Request a copy of your ID Cards by mail* View claim photos uploaded on geico.com* Receive notifications at login for recent claim activity'
+p4
+tp5
+tp6
+.

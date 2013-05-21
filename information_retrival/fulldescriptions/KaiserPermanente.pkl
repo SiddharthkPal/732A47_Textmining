@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kaiser Permanente '
+p1
+tp2
+(S'Description:'
+p3
+S'The KP app gives Kaiser Permanente health plan members the tools to access their medical records, make appointments, refill prescriptions, view most lab test results, send nonurgent messages to their doctors, and more.In addition, members and nonmembers alike can find any Kaiser Permanente medical facility easily using the power of the Android\xe2\x80\x99s global mapping features.If you belong to a Kaiser Permanente health plan and already have your user ID and password, use this app to sign on to secure features for members, including:\xe2\x80\xa2 My medical record: See your health history at your fingertips, including your allergies and immunizations, details about prescriptions and any ongoing health conditions, and most lab test results.\xe2\x80\xa2 Pharmacy center: Refill prescriptions for yourself or another member and check the status of a prescription order. See a list of all your medications.\xe2\x80\xa2 Appointment center: Schedule, view, and cancel appointments with your doctor\xe2\x80\x99s office. See information about past visits.\xe2\x80\xa2 My message center: Email your doctor or another department with nonurgent questions, privately and securely.\xe2\x80\xa2 Locations: Find Kaiser Permanente medical facilities near you or in the city or ZIP code you choose. Narrow your search to include only those facilities offering the services you need, and get directions and phone numbers on the spot.If you\xe2\x80\x99re not a Kaiser Permanente member, and you live in one of our service areas, visit kp.org and discover the many advantages available to you: flexible and affordable health plans, electronic medical records, the convenience of an integrated network, and industry-leading online tools that let you take control of your health.Recent changes:\xe2\x80\xa2 Fixed battery drainage issue\xe2\x80\xa2 Fixed location search issue'
+p4
+tp5
+tp6
+.

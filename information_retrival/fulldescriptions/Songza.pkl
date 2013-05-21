@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Songza '
+p1
+tp2
+(S'Description:'
+p3
+S'Working? Relaxing? At the gym? Songza plays you the right music at the right time. \xe2\x9c\x94Named "Editors\' Choice" by Google Play.\xe2\x9c\x94Free, with no listening limit. \xe2\x9c\x94Let Songza\'s \'Music Concierge\' find the right music for your moments. \xe2\x9c\x94Browse a curated playlist library organized by activity, genre, decade, & mood.\xe2\x9c\x94Stream thousands of original playlists handmade by music experts. \xe2\x9c\x94Save your favorite playlists & share them via Facebook, Twitter or email.Recent changes:\xe2\x9c\x94  Fixes favorites not updating in certain situations \xe2\x9c\x94  Fixes bugs specific to tablets\xe2\x9c\x94  Performance enhancements and optimizations'
+p4
+tp5
+tp6
+.

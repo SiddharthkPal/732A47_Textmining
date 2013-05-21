@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Qello '
+p1
+tp2
+(S'Description:'
+p3
+S'NEW!!7 Day Free TrialQello streams the widest selection of the highest quality concert films and music documentaries to any digital device worldwide.   Qello offers a wide range of All-Access features such as: premium and curated content, design your own Setlists, Share, social concert digital premiers, unlimited viewing on every Qello application, live Q&A sessions with artists, monthly reviews from tastemakers, and more. With its groundbreaking technology and media platform, Qello delivers the largest curated collection of exclusive concert content including the most prolific and iconic artists from the 60s to today.  You can also think of Qello as the Indiana Jones of archival concerts; Qello\xe2\x80\x99s deep library includes many rare and digitally re-mastered classic concerts from Ike and Tina, to the Beatles, to Jimmy Hendrix, Elvis, and Bob Marley - restored and resurrected for music lovers to experience forever.So whether you want to watch Bob Dylan, The Rolling Stones, Queen, Tupac Shakur, Jay-Z, Led Zeppelin, Alicia Keys, U2, Madonna, Coldplay, Radiohead, Mumford and Sons, Shinedown, or more than 1000 others, in stunning HD, on any device \xe2\x80\x93 Qello is your destination.Unlock the Experience.*1 Free Trial Per CustomerQello terms and privacy policy: http://www.qello.com/privacy_policyRecent changes:- 7 Day Trial Billing option- Newly refreshed user interface- Compatibility issues with Jelly Bean 4.2 fixed- Stability and performance has been enhanced'
+p4
+tp5
+tp6
+.

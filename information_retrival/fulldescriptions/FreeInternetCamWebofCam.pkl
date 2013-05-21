@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free Internet Cam (Web of Cam) '
+p1
+tp2
+(S'Description:'
+p3
+S'What is video surveillance? Why do we need it? Does it cost a lot of money? "Web of Cam" allows you to monitor the people and things you care about with just one mobile phone, at anytime and from anywhere!  Just by installing \xe2\x80\x9cWeb of Cam\xe2\x80\x9d onto your Android phones or tablets, you will be able to see video from another mobile phone at real time through a Wi-Fi or 3G/4G network."Web of Cam Internet Edition" is the latest version of the "Web of Cam".  In the Internet Edition, the viewer is able to connect to cameras over the internet!  Camera discovery is no longer needed now. What you need is to login to your Google account on both the viewer and camera unit and that\'s all!The Internet Edition supports remote flash light control and front/rear camera switch.  So, not just watching the live video, you can now turn your LED light on and switch to front camera from 10,000 miles away!Currently Internet Edition is only available on Android platform.  Apps on other platforms will come soon!Internet Edition Features:1. Login the same Google account on both Camera and Viewer unit and start remote video monitoring right away.  Camera discovery is no longer necessary.2. A viewer unit is able to connect to multiple cameras with the same Google account.3. A camera unit is able to be seen by many viewers with the same Google account.4. Remote flash (LED) light control.5. Remote front/rear camera switch6. Screen rotation7. Video snapshotip camera, ip cam, wifi camera, wifi cam, web cam, web camera, baby monitor, surveillance, pet monitor, spy cam, streaming, video monitor, video broadcasting, nanny camera, dropcam, mydlink, smartcam. ipcam, webcamRecent changes:Version 1.0.71. Fixed a serious bug that causes Google login failure2. User interface adjustmentVersion 1.0.61. Fix bugs reported in February.2. Add more languages: Thai, Simplified Chinese. Traditional Chinese3. Add more user support descriptions.Version 1.0.51. Add more user support descriptions in the user interface.2. Fix Google login failure3. Add languages: Russian, Spanish, Portuguese, Arabic, German, Japanese, Korean 4. Fix bugs reported during 2013 Jan~Feb'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn Spanish Phrasebook '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn Spanish is an easy to use mobile Spanish Phrasebook that will give visitors to Spain and those who are interested in learning Spanish a good start in the language. \xe2\x9c\xa6 Get the full set of phrasebooks for FREE! Search for "codegent" and download more languages.. French, German, Italian, Chinese, Japanese, Thai, & many more. \xe2\x9c\xa6Learn Spanish is recorded using native speaker and we have tried our best to be authentic in the pronunciation whilst ensuring it is easy to understand. Recommended app for tourists and business people visiting Spain.Features- Over 800 common words and phrases- High quality audio recorded by native speaker- No internet connection needed- Store frequently used phrases in Favourites- Search by keywords- Include useful tips for travellers- Ad-free!If you like this app and find it useful please take a few seconds to give us a rating in the Android market. For comments and suggestions please send an email to apps@codegent.com. All your feedback and comments are appreciated.The LITE version contains over 200+ essential phrases.- Greetings- General conversation- Numbers- Directions and places- Transportation- Eating outIf you upgrade to the PRO, you\'ll get 800+ phrases- Accommodation- Time and date- Shopping- Colours- Towns and provinces- Countries- Tourist attractions- Family- Dating- Emergency- Feeling sick- Tongue twistersFollow us on twitter : @codegentappsRecent changes:- Corrected some words and phrases'
+p4
+tp5
+tp6
+.

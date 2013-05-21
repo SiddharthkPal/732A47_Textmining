@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Snapchat '
+p1
+tp2
+(S'Description:'
+p3
+S"Snapchat is the fastest way to share a moment with friends.You control how long your friends can view your message -simply set the timer up to ten seconds and send.They'll have that long to view your message and then it disappears forever.We'll let you know if they take a screenshot!Build relationships, collect points, and view your best friends.Snapchat is instantly fun and insanely playful. Show your friends how clever you can be and enjoy the lightness of being!Front facing camera support on Android 2.3 and above.*****Please note: Even though snaps are deleted from our servers after they are viewed, we cannot prevent the recipient(s) from capturing and saving the message by taking a screenshot or using an image capture device.*****Snapchat welcomes and appreciates any questions or feedback! :)Write us an email: support@snapchat.com or send us a Snap: teamsnapchatWe'll do our best to get back to you within 24 hours.Follow us on Twitter for updates: @snapchatEnjoy!Team SnapchatRecent changes:New in 2.1.0:- Rear Facing Camera Zoom (on supported devices)- Speedups for sending snaps- Bugfixes for international users- Optimized App SizeNew in 2.0.0:- Snapchat Video is now available!- New notifications and settings- Faster application navigation- Improved performance and bug fixes"
+p4
+tp5
+tp6
+.

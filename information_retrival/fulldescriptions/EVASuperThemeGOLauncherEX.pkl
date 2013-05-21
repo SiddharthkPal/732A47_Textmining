@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'EVA Super Theme GO Launcher EX '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a premium GO Launcher EX Super Theme. This theme is free to download, you can apply it with icons and wallpapers.If you want Super Theme effects, you can choose upgrade to full version by:1. Pay with IAP ( In app purchase ) 2. Get it for free with Getjar GoldUpgrade entrance: Click the Metal Aeroplane at the edge of the screenWelcome to the Future! First Sci-Fi Super Theme! #FeaturesAtom: click to open tetrahedron animationHalo: click animationPlanet: Click to open AI screenAI: Click to switchAI dialog Text: Slide: Geometry dropShake: Digital Rain2 wallpapers! Switch in "menu-wallpapers-EVA"***How to Apply the ThemeMenu>Theme, choose a theme you like and apply it to your phone.***How to Change Wallpaper Click Menu>Wallpaper, and select the wallpaper you like.***How to Change App Icons(Some devices might not automatically apply the icons)Long press some app icon>Replace>Theme\xe2\x80\x99s icon, and then choose the icon you like.Thank you for your continued support. Feel free to contact us if you have any problems or suggestions.Recent changes:(Fix) in-app purchase fixed(Fix) some bugs may cause crash(Fix) Getjar SDK updated'
+p4
+tp5
+tp6
+.

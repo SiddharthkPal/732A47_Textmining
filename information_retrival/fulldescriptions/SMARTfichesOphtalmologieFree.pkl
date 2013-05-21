@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SMARTfiches Ophtalmologie Free '
+p1
+tp2
+(S'Description:'
+p3
+S"Boostez vos connaissances ! Brillez \xc3\xa0 l'ECN !R\xc3\xa9visez tout, partout, tout le temps !SMARTfiches M\xc3\xa9decine propose des r\xc3\xa9sum\xc3\xa9s de tous les items du programme de l'internat. Ces fiches de qualit\xc3\xa9 sont indispensables pour tous les \xc3\xa9tudiants en m\xc3\xa9decine et m\xc3\xa9decins souhaitant pouvoir v\xc3\xa9rifier \xc3\xa0 tout moment leurs connaissances. Compl\xc3\xa8tes, claires et faciles \xc3\xa0 consulter, vous ne pourrez plus vous en passer !SMARTfiches Ophtalmologie est la 3\xc3\xa8me d\xe2\x80\x99une collection de 20 applications regroupant toutes les sp\xc3\xa9cialit\xc3\xa9s disponibles courant 2012.Recent changes:- Correction du probl\xc3\xa8me d'inscription rencontr\xc3\xa9 sur certains terminaux- Possibilit\xc3\xa9 de naviguer au slide (gauche/droite) entre les diff\xc3\xa9rents contenus"
+p4
+tp5
+tp6
+.

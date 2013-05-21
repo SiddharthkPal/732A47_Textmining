@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Chef Offline - Easy Recipes '
+p1
+tp2
+(S'Description:'
+p3
+S'Completely Offline and Free recipe app!!  7000+ amazing easy to cook, delicious and healthy food dishes for various cuisines.The application features easy to prepare recipes with step by step guides and is packed with features you\xe2\x80\x99ll love whether you\xe2\x80\x99re a novice cook or a professional chef.Navigation options:1)All Recipes: To browse the list of all diets/recipes for one & search with the best required keywords.2)By Cuisine: To browse and plan your dinner with various regional cuisines:\t\xe2\x98\x85 American \t\xe2\x98\x85 Continental \t\xe2\x98\x85 Thai\t\xe2\x98\x85 Chinese \t\xe2\x98\x85 North Indian, Kerala (Mallu/Malabar), Andhra (Chettinad), Tamil Nadu, Kannada (Karnataka), Goa etc..3)By Category: View the recipes by different categories:-\t\xe2\x98\x85 Beverages\t\xe2\x98\x85 Snacks\t\xe2\x98\x85 Desserts\t\xe2\x98\x85 Non Vegetarian\t\xe2\x98\x85 Vegetarian4)By Ingredient: Lets you search and find recipes containing the ingredient/ combination of selected ingredients. It helps you cook with what is in fridge.5)Favorites: Lets you save and organize your favorite recipies for quick reference.6)Recipe search: The keyword search feature in search bar provided in the all recipe menu of the app filters and displays the matching recipes according to the keywords, as you type.This cook book contains 7000+ simple delicious home made recipes but requires only about 5 MB of storage!!!Based on several user feedbacks, we are renaming this app from "Indian Recipes Offline" to "My Chef Offline - Easy Recipes", as this app not only contains Indian recipes but also several other American, Continental, Chinese, Thai and many other cuisines.*Internet permissions are required only for display of ads to cover the development costs.*Recent changes:v1.2 - Changed the Theme and Style.'
+p4
+tp5
+tp6
+.

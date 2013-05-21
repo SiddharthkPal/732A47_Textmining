@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MangaWhat | Manga Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"The best and most convenient way to read your favorite online manga series.*MangaFox, MangaReader, MangaStream, BleachExile*Favorites*History*Search*Pinch zooming and single touch zooming*Two ways to read: Single page and multi page viewers.*Automatically prefetch the entire chapter while you're reading so you never have to wait for that next page to load.*Save to SDSingle page viewer:Read manga the way it's meant to be read with a custom viewer similar to the way Kindle or Google Books displays books.Multi page viewer:Vertically load all the pages of a chapter on a single page using the built-in web viewer.*OFFLINE BROWSING View your saved manga (or any image for that matter) using the multi-page viewer or the new single page viewer without an internet connection. Supports: ZIP, JPEG, PNG, BMPThis app uses lots of data. Unlimited data plan recommended.SEO: Online Manga Reader*Fix file error introduced in last version.MangaStream has recently changed their layout to make it difficult for 3rd party apps to download manga from their site.  This is why the latest chapters from MangaStream look like they're cut off.  As a result, MangaStream support will be removed in a future version.  It's still available in this version since older chapters still work.  Sorry for the inconvenience.The free version of MangaWhat now has the same features of the paid version.  Enjoy.Recent changes:*Fix FC for MangaFox*Remove support for MangaStream"
+p4
+tp5
+tp6
+.

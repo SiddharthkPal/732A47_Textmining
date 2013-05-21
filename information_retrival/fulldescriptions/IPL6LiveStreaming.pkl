@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IPL6 Live Streaming '
+p1
+tp2
+(S'Description:'
+p3
+S"Don't miss any single cricket match for next seasons.Watch Live and old matches on your mobile without & with flash player in 2G,3G & HD.Features:***No Flash Player Required******No Sign Up Required******Easy categorized view******Suitable for all devices******Fast and reliable streaming******List of all old matches***Recent changes:****************************Version 1.1.1New UI.More Old Matches Videos.Increase supported device now. No more crashes in any type of device.****************************Version 1.0.7Unlimited use now.****************************Version 1.0.3Changes Short Issue****************************Version 1.0.2Solved Thumb Issue****************************Version 1.0.1Solved Crash Issue"
+p4
+tp5
+tp6
+.

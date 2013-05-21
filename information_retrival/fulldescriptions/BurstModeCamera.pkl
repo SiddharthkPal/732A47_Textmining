@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Burst Mode Camera '
+p1
+tp2
+(S'Description:'
+p3
+S'Now you can have a super-fast multi burst camera always with you and ready for action. Hold down the shutter button for a continuous stream of pictures. Tap the screen before shooting for focus. Good light is key for achieving high speed. Use flash when needed. The pictures are saved into your phone\'s Gallery under Burst Mode Camera folder.There are literally dozens of camera apps on Google Play claiming to be "the fastest camera on Android". Don\'t believe in na\xc3\xafve advertising, test the speed yourself. Don\'t forget to test saving speed also.Burst mode is great for sports and nature photography, but also for everyday friends and family situations. You can get just the right pictures of  your buddies, kids, pets or hobbies. Possibilities are endless, just use your imagination. Shutter sound can be turned off for "stealth mode" photography.Picture resolution is automatically optimized for high speed and reasonable quality suitable for web posts and messaging. This kind of speed is not possible using camera\'s highest resolutions.Pro upgrade is available as an in-app purchase.'
+p4
+tp5
+tp6
+.

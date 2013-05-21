@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VAB-Magazine '
+p1
+tp2
+(S'Description:'
+p3
+S'Voortaan haal je nog meer uit het grootste maandblad van Vlaanderen. Duik in fotoalbums, bekijk de wereld eens vanuit vogelperspectief en kruip bij BV\xe2\x80\x99s op de achterbank terwijl ze hun rij-examen overdoen. Dat en nog meer beleefplezier ontdek je in deze gloednieuwe app, nu gratis te downloaden!VAB-Magazine is het lijfblad van VAB, de grootste mobiliteitsvereniging en bijstandsverlener van Vlaanderen. Elf keer per jaar belandt ons magazine in zo\xe2\x80\x99n 300.000 brievenbussen en voortaan ook op tablet.Jouw reactie is welkom! Heb je een suggestie voor de redactie, laat je graag weten wat je van onze app vindt, geef dan een beoordeling via de Google Play Store of mail naar redactie@vab.be.'
+p4
+tp5
+tp6
+.

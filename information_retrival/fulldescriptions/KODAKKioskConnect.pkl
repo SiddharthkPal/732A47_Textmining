@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'KODAK Kiosk Connect '
+p1
+tp2
+(S'Description:'
+p3
+S"Now available at CVS/pharmacy and Bartell Drugs in the U.S. & Officeworks in AustraliaWirelessly print your pictures from your ANDROID Device to a KODAK Picture Kiosk.  Wirelessly transfer and print those fun, spontaneous everyday moments from your ANDROIDSmartphone or tablet to a KODAK Picture Kiosk and share your memories.  It's fast, easy and convenient.Check with retailer in your area to make sure their KODAK Picture Kiosk is Wi-Fi Connect enabled or visitthe Kodak store locator at www.kodak.com/go/findakioskRecent changes:Improved send all versus send preselect images work flow."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'detikcom '
+p1
+tp2
+(S'Description:'
+p3
+S'Get the latest updates on news and information from biggest online media in Indonesia, www.detik.com, delivers most needed information for mobile user, the selected range vary from :* Politics & general affairs* Sport & Soccer* Information Technology* Culinary* Entertainment & lifestyleand many news channelsRecent changes:* remove holo themes for honeycomb and above* bug fixes'
+p4
+tp5
+tp6
+.

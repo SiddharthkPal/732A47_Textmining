@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Talkray - Free Calls and Text '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 Featured worldwide by Google in Staff\'s Pick !\xe2\x98\x85 Named "Top Developer" by Google !From the maker of TiKL - Touch To Talk app enjoyed by 27 million users comes Talkray - a whole new mobile communication experience! Talkray is the free calling app / free texting app made for you! Send your friends texts, or even call them all at once as a group! Ditch SMS, text with Talkray.\xe2\x98\x85 Call one or a group of friends at once, in HD quality. \xe2\x98\x85 One-button send text, voice messages, pictures and videos, even during a live call ! Share precious memories with friends and family while you talk to them about it! \xe2\x98\x85 Doodle on photos. Show your artistry!\xe2\x98\x85 Apply effect to photos. Make yourself a professional photographer!\xe2\x98\x85 Add more people to an ongoing call. Pull in people for work or play as and when you need them! \xe2\x98\x85 Join an ongoing group call/conference with one click. Couldn\xe2\x80\x99t answer a group call? No problem, just go the talk and join when convenient. \xe2\x98\x85 See who is speaking - no more confusion about who is talking in a conference or group call.\xe2\x98\x85 Page one or a group of friends with the touch of a button - a novel quick non-intrusive way of asking somebody to get in touch with you. \xe2\x98\x85 No setup needed, just have them in your phone contacts. \xe2\x98\x85 Free international calls and chats to and from anywhere in the world. (Both parties need to install Talkray)\xe2\x98\x85 Completely FREE, no hidden fee or ads. \xe2\x98\x85 Uses data connection only. No voice minutes or SMS used for Talkray calls or chats. \xe2\x98\x85 Live video coming soon.Why call or SMS when you can Talkray? Fast, simple and free - Talkray turns your phone into the ultimate communicator!Recent changes:\xe2\x98\x85 Doodle on photos. Show your artistry!\xe2\x98\x85 Apply effect to photos. Make yourself a professional photographer!\xe2\x98\x85 Made photo sharing super easy.\xe2\x98\x85 Added settings to stop chat sounds.\xe2\x98\x85 Added typing indicator.\xe2\x98\x85 Added naming group chat.\xe2\x98\x85 Improved user interface.\xe2\x98\x85 Supports more countries.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'One Coptic Library \xc3\x99\xe2\x80\xa6\xc3\x99\xc6\x92\xc3\x98\xc2\xaa\xc3\x98\xc2\xa8\xc3\x98\xc2\xa9 \xc3\x99\xe2\x80\x9a\xc3\x98\xc2\xa8\xc3\x98\xc2\xb7\xc3\x99\xc5\xa0\xc3\x98\xc2\xa9 '
+p1
+tp2
+(S'Description:'
+p3
+S'\xd9\x83\xd9\x84 \xd8\xa7\xd9\x84\xd8\xb7\xd9\x82\xd9\x88\xd8\xb3 \xd8\xa8\xd9\x83\xd9\x84 \xd8\xa7\xd9\x84\xd9\x84\xd8\xba\xd8\xa7\xd8\xaa \xd9\x81\xd9\x89 \xd8\xa8\xd8\xb1\xd9\x86\xd8\xa7\xd9\x85\xd8\xac \xd9\x88\xd8\xa7\xd8\xad\xd8\xafA multilingual (including English,Coptic,\xd8\xb9\xd8\xb1\xd8\xa8\xd9\x89,German and soon French) Coptic app that holds a full collection of books ranging from liturgies/kholagy, doxologies to tasbeha and more. Being able to take your church wherever you go is something that we have all wanted to do but the inconvenience of carrying all our Coptic church\xe2\x80\x99s rituals, liturgical readings, hymns and so on has made it impossible. Now with this application you now have everything gathered in one place and on one single device.FeaturesDisplay text in multiple languages (including English,Coptic,\xd8\xb9\xd8\xb1\xd8\xa8\xd9\x89,German and soon French)Choose the order of your languagesChange background color and font sizeAssign custom colors to different roles (Bishop, Priest, Deacon, Congregation, etc\xe2\x80\xa6)Hide/Display comments and inaudible prayersSupported LanguagesEnglishCoptic\xd8\xb9\xd8\xb1\xd8\xa8\xd9\x89GermanWho Are We?One Coptic Library is an international youth based initiative by St. George and St. Shenouda\xe2\x80\x99s Church in Jersey City, NJ United States and St. Antonius Monastery Kr\xc3\xb6ffelbach, Hessen Germany.Our main goal is to promote unity throughout the Coptic churches through the standardization of all Coptic literature in as many languages as possible.Recent changes:ALL BOOKS ARE FREE NOW! New features:* Simply tapping two NFC capable devices together opens the same page on both phones* New Page transition effects* Dynamic fontsize feature, so all languages will end together Many Bugfixes Improvements:* Downloads and updates are much faster now* Book contents list always visible * Add Arabic section titles in list on the side via a button at the top * Justification improved* Arabic reshape improved* Disabled tashkeel in Arabic reshape'
+p4
+tp5
+tp6
+.

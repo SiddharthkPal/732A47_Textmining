@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Floating YouTube Popup Video '
+p1
+tp2
+(S'Description:'
+p3
+S"INTRODUCTION Tired of being interrupted by text messages, emails or other alerts on your device while you're watching YouTube videos? Well, Floating YouTube Popup Experience is the app for you! Similar to Samsung\xe2\x80\x99s MultiView MultiWindow feature, this app allows continual play of a YouTube video (as a re-sizeable pop-up style window anywhere on your screen) while you\xe2\x80\x99re texting, browsing the net, emailing, using other apps, or even checking maps.  Best of all, the audio and volume control from your YouTube video will remain even if the screen of your device is off. FEATURES -       Watch YouTube videos while using your device for other purposes-       Full Featured Video Player with common Video Player Controls (Play, Pause, Stop, Rewind, etc).-       Easy to use-       Free  -       Seamlessly draggable YouTube popup video player to anywhere on the screen-       Re-sizeable YouTube Video Player-       Full audio and complete volume control from YouTube, even when the screen of your device is off-       Search for YouTube videos directly from within the Floating Popup Player.-        Never leave the app you are in to change the YouTube video. STEPS TO USE APPLICATION: 1. Launch Android's YouTube App2. Navigate to the Video you want to Play in YouTube 3. While in the YouTube app, Select Menu, then Options and then Share4. Select Floating YouTube Popup Player5. Enjoy Watching the Movie in the fully interactive Video Player For Any Bugs PLEASE Email The Developer To get them fixed. Please don't write any negative feedback until the developer has a chance to resolve the problem.This application was created using the StandOut  Framework by pingpongbossThis Application was featured on the website Pocketables.comhttp://www.pocketables.com/2013/02/floating-youtube-popup-video-allows-for-multitasking-while-viewing-videos-on-android.htmlRecent changes:March 19th, 2013:- Improved UI & Accessibility- Resolved Bugs- Improved stability- Fixed Search Icon ButtonJan 19th, 2013:- Allow users to navigate for YouTube videos directly within the floating popup.- Improved YouTube Popup Functionality- Clarified Header Functionality- Improved Video Player Support"
+p4
+tp5
+tp6
+.

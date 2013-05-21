@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'D-NIGHE GO SMS Theme EX '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a premium theme that you can either pay using Google Checkout or get it FREE using Getjar Gold. Getjar gives you free Gold coins for downloading and trying some free apps that it recommends for you. In short, you can get this theme for completely FREE by downloading a few apps. How to get Getjar Gold to purchase and apply this theme:1. Select a theme and click into the introduction page,click Gain.2. Choose pay with Google Checkout or Free with Getjar Gold. 3. If you choose Getjar Gold, there will be several apps listed.  Just download whatever apps you want until you have enough gold to purchase the theme.4. After purchase,the theme will be downloaded, select Installed -> choose the theme -> Apply Please make sure that you have installed GO SMS Pro V4.52 or above.  Copyright 2004-2012 3G.cn All Rights Reserved'
+p4
+tp5
+tp6
+.

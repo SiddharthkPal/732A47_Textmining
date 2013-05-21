@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hobby Lobby Stores '
+p1
+tp2
+(S'Description:'
+p3
+S'Now you can take Hobby Lobby with you wherever you go! Download our new Android app to get the latest coupon, see the weekly savings, locate stores near you, check your gift card balance, and much more! The weekly savings and convenience you have come to love is now just a tap away. We are not just an arts and crafts store. With over 65,000 items to explore including Home Accents, Crafts, Hobbies, Picture Framing, Jewelry Making, Fashion Fabrics, Floral, Cards & Party, Baskets, Wearable Art and Holiday Supplies, Hobby Lobby is the place to shop with super savings and super selections every day! Coupon The Hobby Lobby coupon you have come to love is just a tap away! Use it in the store or online! Weekly Savings Do you have a project in mind or simply need inspiration? Hobby Lobby offers our customers an exceptional selection and value each week. Tap to view our weekly ad and you are sure to find what you need. Store Locator Tap to find the closest Hobby Lobby! Each store provides an enjoyable and enriched shopping experience providing exceptional value and the widest variety of home d\xc3\xa9cor merchandise and crafting supplies, all under one roof. Gift Cards Did you receive a gift card and need to check your balance? Tap to check your balance. Now you can plan your next shopping experience at Hobby Lobby! Feedback Tell us how much you love the Hobby Lobby app. Make sure to tell your friends and family to download it too!Recent changes:- Bug fixes'
+p4
+tp5
+tp6
+.

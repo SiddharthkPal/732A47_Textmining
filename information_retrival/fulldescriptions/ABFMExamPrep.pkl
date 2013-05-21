@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ABFM Exam Prep '
+p1
+tp2
+(S'Description:'
+p3
+S'The American Board of Family Medicine (ABFM) mobile application provides family physicians with useful information to assist with preparation for the ABFM Maintenance of Certification Exam. This module turns your Android Device into an invaluable tool for keeping you in touch with what you need to know as you enter your certification or recertification year. Features include:Exam Prep documents and videos \xe2\x80\x93 including the detailed ABFM Guide for Exam Preparation documentUpcoming Exam Dates \xe2\x80\x93 a quick view of future datesLinks to the ABFM website and the Journal of the American Board of Family Medicine websitePractice Quiz \xe2\x80\x93 Over 200 questions addressing problems commonly encountered by family physicians. Each practice quiz presents 10 questions followed by a clear rationale for the correct answer including the associated reference.While not a substitute for a well-designed and executed study plan, the ABFM App is an additional tool to help prepare for the Maintenance of Certification Exam. This module is designed for family physicians, but the questions may be useful for medical students and other health care providers as well.There is no advertising in this app.Certain areas of the app (videos and exam dates) require an Internet connection.About the American Board of Family MedicineThe American Board of Family Medicine (ABFM) is the second largest medical specialty board in the United States. Founded in 1969, it is a voluntary, not-for-profit, private organization whose purposes include:- Improving the quality of medical care available to the public - Establishing and maintaining standards of excellence in the specialty of Family\xe2\x80\xa8Medicine - Improving the standards of medical education for training in Family Medicine- Determining by evaluation the fitness of specialists in Family Medicine who apply for and hold certificatesRecent changes:Fixed issues with showing rationale for an answer before the question is answered.'
+p4
+tp5
+tp6
+.

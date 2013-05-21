@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fireworks Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'A live wallpaper that shoots off fireworks of all different colors. Tap the screen to launch a firework toward your finger.To use: long press on the home screen -> Wallpapers -> Live wallpapersAt last, a long overdue update! This addresses some performance and stability issues. Let me know by email if it still crashes.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Month Calendar Widget '
+p1
+tp2
+(S'Description:'
+p3
+S"This is a simple calendar widget inspired in the former Calendar from Yahoo! Widgets. It just shows one month at a time, letting you navigate to previous and next months. If you were looking for a simple way to have a month calendar at hand in your Home screen, this widget is for you.**** WIDGET SIZE PROBLEM FIXED: Android 4.x users, please upgrade to v1.3.1 ****NOTE TO USERS OF VERSIONS 1.2.0 AND EARLIER: Version 1.3.x includes changes to clarify the installation process, in particular for Android 4.x users. Please take a look at the release notes here: http://mobiledevjourney.blogspot.com.ar/2013/02/month-calendar-widget-version-130-is-out.html.BEFORE DOWNLOADING/RATING, PLEASE READ THIS* The app has no connection to any calendar like Google Calendar. Please don't rate the app badly because it doesn't show your appointments. The widget was never intended for it. I don't discard the feature for future versions though* Problems installing/using the widget? Bugs, suggestions? Drop me an e-mail, I appreciate your feedback. You can reach me also on Twitter (http://twitter.com/#!/Jose_GD)OK, I GOT IT, I'M USING IT AND I LIKE ITGreat! Then you can help me in keeping Month Calendar Widget free. If you find this app useful, please support my efforts by making a donation. You can do it from the app's Settings screen or from http://mobiledevjourney.blogspot.com.ar/2012/05/im-accepting-donations.html. Thanks in advance!HOW TO USE* Make sure you follow the instructions at http://mobiledevjourney.blogspot.com.ar/2013/02/how-to-put-month-calendar-widget-on.html to get the widget on your Home screen* Tap the arrows to navigate between months* Tap month-year to go to current month* If your phone has hardware directional keys, you can use them to navigate between controls and press the select button to click themSOURCE CODEFind Month Calendar Widget's source code in GitHub: https://github.com/JoseGD/MonthCalendarWidgetRecent changes:Version 1.3.1- FIXED: Widget clipped on some ICS/Jelly Bean devices (esp. 3x2 size)Version 1.3.0- ADDED: Saturday as first day of week- ADDED: Autoadjust column width option- ADDED: Instructions screen after downloading the app- FIXED: Layout adjustment for some tablet models- FIXED: Name of months in Slavic languages- FIXED: App not present in list of installed widgets on Honeycomb/ICS/Jelly Bean"
+p4
+tp5
+tp6
+.

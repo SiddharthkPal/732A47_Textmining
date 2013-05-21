@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Downloader for SoundCloud '
+p1
+tp2
+(S'Description:'
+p3
+S'Download songs from SoundCloud to your phone. Enjoy all your favorite songsoffline. No more laggy streams or exceeding your data plan. Just "share" yoursong from the SoundCloud app and start the download from your wifi at home.\xe2\x98\x85 Downloading songs not made available for download by their author is NOT supported. We want them to continue publishing their work on SoundCloud, don\'t we? \xe2\x98\x85FAQ:> Can you implement feature X?\xc2\xbb Maybe. Use this form to submit your feature requests: https://docs.google.com/spreadsheet/viewform?formkey=dDNZUmYwLTFWd191Z3phRnF5RG5aUVE6MQ> Will this download all songs on SoundCloud?\xc2\xbb No, you can only download those songs explicitly made available for download by the artists. Please respect their choice and don\'t shoot the messenger.> I keep getting "Loading Track \xe2\x80\xa6" and nothing is happening. What\'s going on?\xc2\xbb Either your connection is flaky or your phone can\'t handle SSL connections properly. Try unchecking "Use SSL" in the preferences.> Why do my downloaded songs not show up in the music player?\xc2\xbb Some older phones don\'t support modifying the library. With a bit of luck, after some time the music app will re-scan all media files on your phone. There\'s nothing more I can do, unfortunately.> I found a bug/have a suggestion. How can I contact you?\xc2\xbb Please contact me via EMail, Twitter or Google+. DONT leave them in the reviews.DOWNLOADER FOR SOUNDCLOUD IS NOT AFFILIATED WITH OR ENDORSED BY SOUNDCLOUD.Recent changes:For more news, follow the G+ page: https://plus.google.com/u/0/108385720435202475800/posts- Downloads should no longer appear twice in your music player- Fixed custom directory chooser on devices without external SD card- Random bugfixes'
+p4
+tp5
+tp6
+.

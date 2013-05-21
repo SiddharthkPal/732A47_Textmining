@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Uitzending Gemist '
+p1
+tp2
+(S'Description:'
+p3
+S"Met Uitzending Gemist kun je tv-programma\xe2\x80\x99s van de Nederlandse Publieke Omroep op je Androidtoestel terugkijken. De programma\xe2\x80\x99s verschijnen kort na afloop van de uitzending op Nederland 1, 2 en 3 en blijven tien dagen beschikbaar. De applicatie heeft de volgende functionaliteiten: \xe2\x80\xa2 Uitgelicht: de programma\xe2\x80\x99s die je niet mag missen, dagelijks geselecteerd door de redactie;\xe2\x80\xa2 Nieuw: zojuist uitgezonden op Nederland 1, 2 en 3, nu op Uitzending Gemist;\xe2\x80\xa2 Populair: de best bekeken programma\xe2\x80\x99s van dit moment;\xe2\x80\xa2 Index: alle beschikbare programma\xe2\x80\x99s, alfabetisch gesorteerd en te doorzoeken op titel;\xe2\x80\xa2 Zoeken: zoek programma\xe2\x80\x99s op basis van titel, onderwerp of persoon;\xe2\x80\xa2 Favorieten: sla programma's, genres, omroepen of zoektermen op in je lijst met favorieten;\xe2\x80\xa2 Instellen van de videokwaliteit op laag (200 kbps), normaal (500 kbps) of hoog (1 Mbps).Let op!: Deze applicatie plaatst cookies om gebruik te meten. Met installatie van de app ga je daarmee akkoord.Vereisten: \xe2\x80\xa2 Android 2.0, API level 4 of hoger;\xe2\x80\xa2 Om de uitzendingen onderweg of op locatie te bekijken heb je een stabiele 3G- of WiFi-verbinding nodig. In applicatie kun je zelf de videokwaliteit instellen op laag, normaal en hoog. Let op: Als u een hogere kwaliteit kiest voor 3G kost dit meer dataverkeer. Het bekijken van video kan dan hoge kosten met zich meebrengen. Hou er rekening mee dat de kwaliteit van je 3G-signaal sterk kan veranderen wanneer je snel beweegt, zoals in een rijdende trein.Recent changes:Dit is een nieuwe versie van de app voor 7 en 10 inch tablets. Ook is er een nieuw design voor mobiel. De nieuwe versie is compatible voor elk Androidtoestel met versie 4.0 en hoger.Natuurlijk blijft voor gebruikers die nog niet versie 4.0 en hoger hebben de app met dezelfde functionaliteiten gewoon bestaan. \xe2\x80\xa8"
+p4
+tp5
+tp6
+.

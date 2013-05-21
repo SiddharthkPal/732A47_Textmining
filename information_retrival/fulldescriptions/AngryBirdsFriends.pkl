@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Angry Birds Friends '
+p1
+tp2
+(S'Description:'
+p3
+S'Play Angry Birds with your friends... wherever you go!In this FREE new game, you can use your phone to challenge your Facebook friends for the title of ultimate pig popper and bird flinger! Play in weekly tournaments with your friends and see if you can snag the coveted bronze, silver and gold trophies. Plus, gather daily rewards, send and receive gifts, and brag about your accomplishments! And if you\xe2\x80\x99re playing Angry Birds Friends on Facebook, your tournament progress will automatically be updated, so you can continue playing wherever you are!Features:- Tournaments with new levels every week!- Challenge your Facebook friends for bronze, silver, and gold trophies!- Brag, send gifts, and invite your Facebook friends to play!- Four classic power-ups, plus one exclusive to Angry Birds Friends on mobile!- Daily rewards!- Free bird-coins just for completing the tutorial!- Syncs automatically with your game on Facebook!Are you up for the challenge? Note: Angry Birds Friends on mobile requires an internet connection and a Facebook login.Follow @angrybirds on TwitterLike us at facebook.com/angrybirds and say hello!Terms of Use: http://www.rovio.com/eulaPrivacy Policy: http://www.rovio.com/privacy'
+p4
+tp5
+tp6
+.

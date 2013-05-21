@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cute! Free STICKERS for LINE '
+p1
+tp2
+(S'Description:'
+p3
+S'LINE cute STICKERS/emoji for completely free, registration is not needed.LINE can be sent in a cute STICKERS/emoji for everyday use that I can be.There is no authority also completely free of anxiety, such as terminal information requires no registration!\xe2\x98\x86 Applisaurus is certified developer andro Idah \xe2\x98\x86-Existence of the developer: identity authenticated by interview / mail / phone- The validity of the permission: No unwarranted privileges to the app.Scan of the virus: have passed the virus scan.Please click here for more information.http://androider.jp/developer/3310f200483f88cc0c914252124cbd8c/Recent changes:5/3I\'ve added a new "free Stickers"4/22I\'ve added a new "free Stickers"4/9I\'ve added a new "free Stickers"4/2I\'ve added a new "free Stickers"3/25I\'ve added a new "free Stickers"3/21I\'ve added a new "free Stickers"'
+p4
+tp5
+tp6
+.

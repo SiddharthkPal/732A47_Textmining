@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Contacts iPhone Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'A brand new theme designed by GO Dev Team for GO Contacts EX. Simple fashion iPhone theme. Hope you enjoy it!***Note***1. 1. This is not a standalone app, you need to download the LATEST version of GO Contacts EX app in order to apply this theme. (Search \xe2\x80\x9cGO Contacts theme\xef\xbc\x8cGOContacts  theme \xef\xbc\x8cGO Contacts iPhone  theme\xe2\x80\x9d etc . to download\xef\xbc\x8cit is free too .)2. To apply the theme from GO Contacts: Menu->Theme.3. In the future also keep on to develop more attractive free themes , pay and download to support us. Thanks.IF you like this gocontacts theme,please Encourage us by recommending GO Contacts to your friends,Thanks.**NOTE**This theme only compatible with the version of GO Contacts EX, please upgrade to the version of GO Contacts EX, thank you.Recent changes:1.Optimized operation process group.2.Optimized theme UI performance.3.Optimized menu function.'
+p4
+tp5
+tp6
+.

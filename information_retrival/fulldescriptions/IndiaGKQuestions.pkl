@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'India GK  Questions '
+p1
+tp2
+(S'Description:'
+p3
+S'This Application will improve your general knowledge about India. Application will help you in your carrer plan and helps in preparation of other government exams.\xc2\xa0Here you will be able to know some of the important things happened, History events , Insight into Politics , Knowledge about Economy, Geography, Famous Places and Culture.If you want to buy the source Code contact us on admin@programmerworld.netFeatures:1.\t625+ questions that prepare you for any type of GK Quiz and Test.2.\tProvide an option for users to practice his/her own answers as your application will present you with a question. User can think of his answer then compare how his answer is different from our answer.3.\tQuestions have been categories in Section for ease of use.4.      User Can Share Questions on Email, Facebook, SMS etcSAMPLE QUESTIONS (Application has more tham 625 Questions)Q. ) There was a sharp class division at Harappa and Mohen-jodaro. This is clear from theA. Indus seals excavatedB. religious beliefs of the HarappansC. tools and implements used by the HarappansD. different types of dwellings excavatedAnswer: Option DQ.) The world famous Ajanta caves are situated inA. OrissaB. Andhra PradeshC. KeralaD. MaharashtraAnswer: Option DRecent changes:1.2.5 (5th Aug 2012)-- Addded Option to Share Questions on Email, Facebook, SMS etc --- Added over 126 new Questions based on user comments and 5 start ratings --- added 2 new Categories     1.) Honours and Awards     2.) Sports1.2.0 (July 24, 2012) --- Added over 140 new Questions based on user comments and 5 start ratings --- added 2 new Categories     1.) Days and Years     2.) Inventions'
+p4
+tp5
+tp6
+.

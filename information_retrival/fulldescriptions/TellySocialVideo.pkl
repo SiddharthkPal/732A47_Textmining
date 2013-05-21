@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Telly - Social Video '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Telly is a simple and fun way to discover & create amazing videos!Discover and watch videos from your friends, well-known creative people from around the world, as well as today's most popular videos from across the web. Create beautiful videos with custom background music and easily share to Facebook and Twitter. We would love to connect with you! Reach out to us anytime at hi@telly.com. Telly is brought to you from the creators of Twitvid, the largest video sharing platform on Twitter.http://telly.com/PLEASE USE HELP & FEEDBACK instead of rating 1-star with hate commenthttp://bit.ly/telly-android-supportRecent changes:PLEASE USE HELP & FEEDBACK instead of rating 1-star http://bit.ly/telly-android-support1.5:- Several fixes to video player, now full screen by default, you can change this on Settings- Audio mixing on device before uploading- New iconthx 4 your feedback!Full change-log: http://bit.ly/telly-android-change-log Issues? please use Help on Settings anytime!Wondering about permissions? No worries full list at:http://bit.ly/telly-android-permissions"
+p4
+tp5
+tp6
+.

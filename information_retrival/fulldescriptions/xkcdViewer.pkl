@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'xkcdViewer '
+p1
+tp2
+(S'Description:'
+p3
+S'Application for viewing xkcd comics with hover text, favourites, search by title, access to the xkcd archives, and sharing functions.xkcd is owned by Randall Munroe (http://xkcd.com/).If you encounter any bugs or have any problems installing, please email the developer.Features:* Read xkcd comics and tap to view the alt text* Star your favorites for later reading* Share links and images with friends* Get linked straight to the explain xkcd wiki for explanations* Search for comics by title* Reopen at the last comic you read OR the most recent comic (edit your preferences)* Disable zoom buttons with your preferencesRecent changes:* Fixed a bug preventing the random button from working correctly.* On comics with larger images (e.g. #1127), you will be able to see the full image by tapping the comic and selecting "Open Link."'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO SMS Pro French language pac '
+p1
+tp2
+(S'Description:'
+p3
+S'This pack is for GO SMS Pro French language support.Install it and change the language in GO SMS Pro\xe2\x80\x99s \xe2\x80\x9cSettings \xe2\x80\x93Application Settings\xe2\x80\x94Language selection\xe2\x80\x9dThe translation will be updated soon, please stay turned. Thanks(Thanks AlbatorV,neopi21,pcotton,sonnymarshall92,  Kakobubu, MMiG, Gwena\xc3\xabl, okpoubelle, Elijah Mrockowski, ralfred, J\xc3\xa9r\xc3\xb4me LEDIG, floreal797, Morak, Visquy, ilos, Lionel HAGEGE, Quentin Labouebe, Oc\xc3\xa9ane SUTTER, Alexandre de Boutray, guillo.92199, Mastakony, Giltho, gtl92, marion, madlefu, Jennifer Anne, Adrien DEMMA, krash,boureau_jm, Jean-Michel COSTE,Michel Dessaintes, Olivier F, Rave, cge, Emperor666, obrucker for the translation)Recent changes:GO SMS Pro French language package v2.1 sync with GO SMS Pro main program v4.33 or lower version, please be noticed.'
+p4
+tp5
+tp6
+.

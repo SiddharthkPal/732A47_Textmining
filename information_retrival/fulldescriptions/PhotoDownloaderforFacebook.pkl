@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PhotoDownloader for Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S'Explore and download all Facebook photos with only a tap!- View your albums and photo tags, friends\' tags and albums, groups and pages photos- View the latest pictures on your home feed- Choose which photos you want to download, or download the whole albums- The only app for Android that can download photos in full resolution! (Plus version)## I\'m searching BETA TESTERS for the next version with tablet support and download in the background! Write me at giannz.dev@gmail.com ##*** This is the free version of PhotoDownloader for Facebook, if you\'re interested in the full version without ads and with full resolution photos download, click here: http://goo.gl/fLQbU ***Some pictures you can see from Facebook website cannot be accessed by external applications, depending by user privacy settings and thanks to Facebook bugs. I can\'t do anything about it.Due to Facebook limitations, currently the app cannot display (and download) more than 400 photos in "Photo tags" sections.Send me an email if you have any problem, bad ratings here don\'t help to solve issues.Instructions:1) On first launch, click the "login" button and authorize the application when requested2) Explore your photos directly from main menu, or friends\' photos by clicking "Friends"3) Use checkboxes to choose which photos or albums you want to download, select all of them with the upper button or click on one of them to open the gallery4) Click the upper download button. When finished, you can view your photos by accessing the image gallery, or by opening with a file explorer the "sdcard/Pictures/FacebookPhotos" folderThis app uses the Facebook(tm) API and is not endorsed or certified by Facebook. All Facebook(tm) logoes and trademarks displayed on this app are property of Facebook.Keywords: photodownloader, photo downloader for facebook, facebook, photo, photos, pic, picture, pictures, likes, album, albums, groups, pages, download, downloaderRecent changes:v2.9.3 [04-05]- Various fixes and minor improvements. Recommended update!- Increased max query limit to 5000v2.9.1 [27-04]- Fixed downloading with slow connections. Sorryv2.9 [27-04]- Fixed images dimensions, now squared with all resolutions- Added news feed filter (All, Users, Pages)- Download destination now completely changeable- Added option to disable download in user/page subfolder- Minor improvements'
+p4
+tp5
+tp6
+.

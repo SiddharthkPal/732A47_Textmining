@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Easy Envelope Budget Aid: Sync '
+p1
+tp2
+(S'Description:'
+p3
+S"EEBA is a personal/household finance app for money management and budget tracking. (Registration required for sync feature)Stay on budget with virtual envelopes! EEBA, the Easy Envelope Budget Aid keeps you on track! ** Leading online envelope budgeting tool on Android featured by Google, About.com, and Lifehacker ** ** NOTE: Please don't leave issues that you need a response to in Reviews, as we can't respond to you there. Email support! We'll get back to you ASAP! *** Automagically syncs 2+ phones + web! Share a budget!* Your data is automatically backed up to EEBA's site. Never lose your data due to faulty app update or user error.* Expense tracking optimized for speed!* Auto-complete and auto-category picking for payees* Check envelope balances & budget on-the-go* Split transactions* Proven cash budgeting method* Location-based widget! Enter common transactions in exactly 3 touches. Control in Settings. (Note: widget will not be available if you move app to SD due to Android limitation)* Detailed reports: by expense, by month, vs. budget, by payee, by location (on the mobile website)* Download transactions to CSV (on website)Ad-free, Free Forever version includes 10 regular budgeting envelopes & 10 annual/irregular envelopes.  It's great as a basic budget tracker.  Enjoy!==============================Subscribers Get More Features!==============================Track your bank balances in addition to envelope balances!* Checkbook register including cleared balance and reconciliation* Bill reminder / scheduled expenses / recurring transactions.* Bank account statement import. Import your transactions in QFX (Quicken) and OFX (Microsoft Money) formats with auto-matching to manually entered transactions.* Compare to envelope budgeting systems that cost more and have no Android app.* Check out the website for a free 30-day trial!If you're looking to track expenses, or for a checkbook ledger, budget tracker, expense tracker, budget planner, or personal financial app, try us out!You can keep a budget. EEBA can help!Features, bugs? Please email us! We're happy to help!Recent changes:* Added: See and use Unallocated Money* Added: Set start dates for semi-monthly and bi-weekly budget periods* Added: Easier setup flow for new users* Performance improvement: Transaction History"
+p4
+tp5
+tp6
+.

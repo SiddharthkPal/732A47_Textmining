@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UFC Sports Bars '
+p1
+tp2
+(S'Description:'
+p3
+S'Introducing UFC\xc2\xae Sports Bars. The new service from UFC\xc2\xae that helps you instantly find the best locations in the USA and Canada to watch UFC\xc2\xae events, and easily invite your friends to join in the excitement. Now includes fight night results and more.Recent changes:Whats New: Updated bar search to use enhanced forward geocoding services'
+p4
+tp5
+tp6
+.

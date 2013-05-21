@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Firstmedia Live '
+p1
+tp2
+(S'Description:'
+p3
+S'FirstMedia gives Indonesian TV viewer the interactive TV Guides with more than 120 channels and Live Streaming TV. FirstMedia Live not only help to find the schedule, but also the streaming overview video for the current and upcoming content across any of the available channels. The schedule update automatically when online to the internet. Look up http://www.firstmedia.com/tv-guides for a list of current supported channels.Recent changes:Firstmedia Live 2.1* Bugs Fixes in loading Live TVFirstmedia Live 2.0* Add Live TV streaming* New GUI'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glasklart Go Nova Apex Theme '
+p1
+tp2
+(S'Description:'
+p3
+S"This is a port of the Glasklart icons that originated on MacThemes.net for Go Launcher, Apex Launcher, Nova Launcher, ADW, & others.This theme contains 600+ icons & counting! I take icon requests so please feel free to email me or leave a comment suggesting which app icons you'd like to see themed.This is NOT a standalone app, you need a launcher such as Go, Apex, Nova, etc that allow custom themes.Installation1. Install Go Launcher, Apex, or Nova (all free in the Play Store)2. Install this theme3. Find Glasklart in any of the launcher's theme settings, then apply.If you have any questions/comments/concerns/ideas then please email me at kantbstopped519@gmail.com& don't forget to rate 5 stars if you like it! Thanks!golauncher golauncherex apex ui 3.0 theme iphone atom store launcher ADWThemeRecent changes:Updated to 2.9 on [May 4th, 2013]- Added 52 icons & updated numerous apps.- Check out my Minimal UI icons! http://bit.ly/minimalui- Check out my Neon Pixelz icons! http://bit.ly/neonpixelz"
+p4
+tp5
+tp6
+.

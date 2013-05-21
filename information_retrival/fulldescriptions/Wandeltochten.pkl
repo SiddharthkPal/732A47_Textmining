@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wandeltochten '
+p1
+tp2
+(S'Description:'
+p3
+S'Een handig overzicht van de (meeste) georganiseerde wandeltochten in Nederland en Belgi\xc3\xab.Bijna elke dag wordt er wel ergens in Nederland of Belgi\xc3\xab een wandeltocht georganiseerd. Met deze app kan je zeer eenvoudig een keuze maken uit de wandeltochten in je buurt. Ook de tochten uit het Landelijk Wandelprogramma (wandel.nl) en Aktivia (Marching.be) zijn opgenomen.Deze app wijst je de weg naar de inschrijving of startplaats van een wandeltocht. De route zelf is door de organisatoren aangegeven, en kan vaak alleen tijdens deze tocht worden gelopen. Bij sommige van deze wandel je over een priv\xc3\xa9-domein dat alleen tijdens deze wandeling open is gesteld voor wandelaars. Je wandelt dus een unieke tocht, vaak met bevoorrading onderweg.Ben je niet vertrouwd met dit soort wandeltochten, kijk dan eens op de sites http://www.wandel.nl of http://www.aktivia.be.De wandeltochten kalender voor de komende maand wordt op je toestel zelf bewaard en is ook offline te raadplegen. Vul je huisadres of woonplaats in), en je krijgt de wandelingen volgens afstand van dit adres. Zeer handig om een wandeltocht in je buurt te vinden. Je volledige of 100% juiste adres is niet nodig. Vul genoeg info in om een plaatsbepaling te doen.Als je van wandelen houdt, is deze app een nuttige aanvulling op je wandel uitrusting.De kosten die ik maak om deze app in de lucht te houden, probeer ik terug te verdienen via advertenties. Je kan de advertenties uitzetten door een donatie (via de app) te doen.Zoekwoorden: Wandelen, Wandelaar, Lopen, Wandeltocht, WandelingRecent changes:Versie 2.0.5 - Eindelijk Lente editie- Bug fix: Instelling voor download via WiFi respecteren- Verbeterde gebruikstatistiekenVersie 2.0.4- Een melding met de reden indien Maps niet kan worden gebruikt.- Bug fixes- Vertalingen naar Duits en Engels- Eigen wandelingen toevoegenVersie 2.0.3- Verbeterde layout- Kleine bug fixes en stabiliteit- Donaties mogelijk gemaakt'
+p4
+tp5
+tp6
+.

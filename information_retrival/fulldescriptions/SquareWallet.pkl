@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Square Wallet '
+p1
+tp2
+(S'Description:'
+p3
+S"Square Wallet is the fast, easy way to pay with your phone at local businesses across the country. With Square Wallet, you can pay with your name, send gifts to friends, and discover new places to shop and eat.\xe2\x98\x86 Get started in three easy steps:1. Download Square Wallet. Set up your account and link a credit or debit card.2. Tap \xe2\x80\x9cPay Here\xe2\x80\x9d when you\xe2\x80\x99re ready to pay at any participating merchant.3. When using Square Wallet at Starbucks, scan your QR code at the register. At other Square businesses, simply say your name.\xe2\x98\x86 With Square Wallet you can:- Pay with your phone.- Charge transactions directly to your credit or debit card. There\xe2\x80\x99s no hassle of reloading funds.- Set up \xe2\x80\x9chands-free checkout\xe2\x80\x9d for your favorite places, then pay with your name\xe2\x80\x93without taking your phone out of your pocket.- Track rewards using automatic digital punch cards.- View receipts instantly and see previous payments at any time.- Discover new places to shop and eat.- Send and use digital gift cards for neighborhood businesses across the country.Recent changes:What's New:* Did you know you can send a Square gift card to a friend in less than 60 seconds? Check out the new tutorial when you launch the app.* Sending a gift card is easier than ever: now you can send one from your receipt. Next time you discover an amazing local business, share it with a friend by sending a gift card.* Enter a custom tip amount when paying.* Added business details including website and Facebook page.* Bug fixes and performance improvements."
+p4
+tp5
+tp6
+.

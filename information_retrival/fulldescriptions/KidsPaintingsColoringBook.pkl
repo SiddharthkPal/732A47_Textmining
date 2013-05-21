@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kids Paintings Coloring Book '
+p1
+tp2
+(S'Description:'
+p3
+S"Why do children use only several colors they like to color?It's the process of developing different colors based on the colors they use often.This coloring app helps to choose suitable colors to each picture so children can draw and color easy and quickly even they are not used to touch screens.Children can naturally develope cognitive abilities by coloring. Want to be a good parent?Help children express their thoughts and feelings as much as they want.Function:- variety of neat designs- automatic coloring magic pen- twinkling stars appearKeywords:Baby, child, children, education, children, Polly, baby toys, baby toys, kids toys, children's book, baby books, coloring games, coloring book, gifted education, infant, newborn, painting, sketch, picture games, coloring materials, paint , Figure studyRecent changes:New Images & New Colors."
+p4
+tp5
+tp6
+.

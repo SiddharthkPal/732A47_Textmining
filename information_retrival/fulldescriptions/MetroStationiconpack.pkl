@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MetroStation icon pack '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a MetroStation icon pack.You should be installed launcher with the option to which the icon can change.443 icons.How to use with ADW.Launcher or ADWLauncher EX:1. Double-tap a desktop icon2. Select "Edit"3. Tap the current icon image4. Select "ADWTheme IconPacks"5. Select "MetroStation"6. Pick a icon7. Pick a color8. Press the bottom rectangle (For landscape, the right side)How to use with other Launchers:1. Start MetroStation in your app list2. Pick a icon3. Pick a color4. Press the bottom rectangle (For landscape, the right side)5. Use your launchers change icon option and choose to images (stored in "/sdcard/MetroStation")Recent changes:Fixed bug to color picker.Added WhatsApp icon.'
+p4
+tp5
+tp6
+.

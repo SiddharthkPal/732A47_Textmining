@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Find-A-Code ICD10/ICD9 +GEMs '
+p1
+tp2
+(S'Description:'
+p3
+S'The complete ICD-10-CM, ICD-10-PCS, ICD-9-CM, and ICD-9 v3 code sets in the palm of your hand. Including GEMs (General Equivalency Mappings) between ICD-10 and ICD-9.Search for codes by code number or keyword. Browse through the code hierarchy. Add codes to your custom bookmark list. Free automatic updates. Free download.Internet Connection Required.  Offline support coming soon.From www.FindACode.com, the leading website for fast, accurate, and up-to-date medical coding and billing information.Recent changes:Version 1.2* Added Footer, with link to findacode.com* Added Code descriptions on the bookmarks page* Fixed the \'back\' button* Created links between code pages* Confirmed works on Galaxy Nexus when developer option "Force GPU Rendering" is off'
+p4
+tp5
+tp6
+.

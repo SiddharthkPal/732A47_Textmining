@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Audible for Android '
+p1
+tp2
+(S'Description:'
+p3
+S"Not enough time for all the books you want to enjoy?  Download the app by Audible.com, an Amazon company, to listen to books on the go.Immerse yourself in a great story anytime, anywhere, by downloading from a breathtaking range of 100,000+ titles to your Android device\xe2\x80\x94from best sellers to classics, and everything in-between.Now you can turn on and listen to a good book even when you can\xe2\x80\x99t pick one up\xe2\x80\x94on your way to work, at the gym, while folding laundry, or any other time your eyes and hands are busy.Features:\xe2\x80\xa2 Transfer books to your device over wi-fi\xe2\x80\xa2 Audiobook chapter navigation, bookmarking, sleep mode, variable narration speed, button-free mode\xe2\x80\xa2 Multitasking for background downloading and listening\xe2\x80\xa2 NEW! Switch between reading and listening with Whispersync for Voice (compatible Kindle device required)\xe2\x80\xa2 Access the Audible mobile store to purchase more audiobooks\xe2\x80\xa2 Earn badges and keep track of your listening habits and audiobook achievements\xe2\x80\xa2 Connect to Facebook and Twitter to let your friends know what audiobook you\xe2\x80\x99re listening to\xe2\x80\xa2 Get insider information about author events and more with the Audible NewsfeedSupports Audible.com, Audible.co.uk, and Audible.deListening with Audible is always time well spent. Download the free audiobook app now and discover a smarter way to use your smartphone.Visit us at www.audible.com or get in touch on Twitter @audible_comIf you're in the UK, visit us at www.audible.co.uk or get in touch on Twitter @audibleukRecent changes:Version 1.4.6\xe2\x80\xa2 Bug fixes and stability improvementsVersion 1.4.5\xe2\x80\xa2 Performance and stability fixes\xe2\x80\xa2 Pausing and resuming playback when audio notifications occur\xe2\x80\xa2 DE library loading bug fix for certain users\xe2\x80\xa2 Ability to move Audible storage location when SD card is availableVersion 1.4.0\xe2\x80\xa2 Switch between reading and listening with Whispersync for Voice (compatible Kindle device required)"
+p4
+tp5
+tp6
+.

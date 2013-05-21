@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Digital Receipts '
+p1
+tp2
+(S'Description:'
+p3
+S"Finally a way to get rid of those pesky receipts cluttering your wallet! Manage all your receipts with Proximiant Digital Receipts. There are two ways to collect receipts.1. Receipt scanner using your camera2. Revolutionary new Touch-and-Go technology which gives you picture perfect digital receipts simply by tapping with your phone or a tag at checkout counters of participating storesFeatures:-  Capture photos of receipts using your camera-  Stitch together multiple images for long receipts-  Send emails for expense tracking and expense reports-  View monthly spending reports to see where your money is going. You may be surprised!-  Search for receipts by store name or label-  Web interface which allows you to access your receipts from anywhereTouch and Go also features:-  Picture perfect receipts-  Instant extraction of store name, transaction time, and total amount-  Search by store, label -- or product name!-  Earn cash back or loyalty points each time you shop-  Refund or exchange items at stores simply by showing the receipt image from the appWhat people are saying:- I can describe this app in one word and that is awesome. Just use it and you will also know why everybody is praising it- I think I'm in love with this app... I've spent so long looking for a simple app to store my receipts on and this is it- Awesome NFC app. Best use of NFC so far.- This app is simple and useful. I can take a picture of a receipt immediately. Saves me a huge amount of time.- Professional app with a nice concept and web interface feature- Great product... I love it- Best way I have seen to organize receipts and reduce wallet clutter- Easy to use and makes managing my receipts hassle free- Great way to track receipts- What a fantastic way to reduce clutter and do something to help the environment- Now it is easy for me to manage my receipts- Keep track of purchases without needing to find space in your wallet or risk losing receipts in a messy purse. - This app is the best in its categoryRecent changes:* Fix startup bug for users on certain devices* Misc. bug fixes and performance improvements"
+p4
+tp5
+tp6
+.

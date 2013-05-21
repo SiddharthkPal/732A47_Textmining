@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Viddy '
+p1
+tp2
+(S'Description:'
+p3
+S"Viddy is a simple way to capture, beautify, and share video from your phone. Turn everyday moments into perfect little movies with Viddy for Android. From pristine sunsets to playful pets and from epic concerts to family memories, \xe2\x80\x9cViddy Moments\xe2\x80\x9d are everywhere! Viddy's one-touch sharing to Facebook, Twitter, YouTube, and Tumblr allows you to easily share videos with those closest to you.Features: + Capture & Beautify: Viddy lets you take videos and apply custom Video Effects that range from vintage to futuristic, and, washed out to high contrast looks for that perfect artistic touch+ Music: Add popular music to set the perfect soundtrack for the special moments of your life+ Share: One-click sharing to social networks including Facebook, Twitter, YouTube, & Tumblr, with hashtags and geo-tagging.  Or share by Email or SMS.  + Engage: Follow your friends and interact by liking and commenting on their videos+ Discover: Real-time video discovery of Popular, Trending, and Featured videos on Viddy    We love our Viddyographers! Please continue to send questions, suggestions and ideas to info@viddy.com.Recent changes:\xe2\x80\xa2\xc2\xa0Many bug fixes. Thanks for reporting them at http://support.viddy.com and we'll keep fixing them as fast we can.\xe2\x80\xa2\xc2\xa0Facebook login is more reliable now. \xe2\x80\xa2\xc2\xa0Faster. Better.\xe2\x80\xa2\xc2\xa0Your private videos are private, but you can choose to share them via email or sms.\xe2\x80\xa2\xc2\xa04 new soundtracks.\xe2\x80\xa2\xc2\xa0New ways to explore the Viddy community when you sign up.\xe2\x80\xa2\xc2\xa0Even more conservative with activating the GPS."
+p4
+tp5
+tp6
+.

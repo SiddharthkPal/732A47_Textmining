@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fitness Flow FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"Stream HD exercise videos with Fitness Flow FREE.  Do a new workout every time - you'll never get bored!  Go at your own pace, learn new exercises and work out until you\xe2\x80\x99ve had enough.  Beat your previous exercise times and get fit fast while having fun.  Fitness Flow is ideal for the on-the-go exerciser -- we provide bodyweight & dumbbell exercises you can do anywhere. Download Fitness Flow FREE now and begin your exercise adventure!This free version of Fitness Flow includes 10+ videos to choose from.  Get the full version of Fitness Flow for a pack of 100+ exercises!\xe2\x98\x85 Work out to high-quality HD exercise videos\xe2\x98\x85 Listen to the pros tell you exactly what to do incl. timing cues\xe2\x98\x85 Create your own challenge with a selection of exercises to pick from\xe2\x98\x85 Filter exercises by equipment required & target body areas\xe2\x98\x85 Go at your own pace and decide how many reps you want to do\xe2\x98\x85 Add exercise notes and see your workout history\xe2\x98\x85 Share your workout: challenge friends on Facebook & Twitter!Go with the flow and get healthy today with Skimble's FREE Fitness Flow app!Note: The Fitness Flow FREE application requires a good internet connection to stream HD videos using YouTube onto your Android phone or tablet.Get the full version of Fitness Flow for more exercises, coaching & an ad-free experience!Recent changes:v1.8----\xe2\x9c\x93 Filter exercises by equipment & body areas\xe2\x9c\x93 Continual improvementsv1.7----\xe2\x9c\x93 More HD exercise videos\xe2\x9c\x93 Ability to replay workouts\xe2\x9c\x93 Add rests to workouts\xe2\x9c\x93 Bug fixes & continual improvements"
+p4
+tp5
+tp6
+.

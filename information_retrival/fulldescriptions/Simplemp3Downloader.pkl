@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simple mp3 Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Search and download songs for free!Features:1. Search2. Download3. Media Library4. Service for Background DownloadingPlease enable WiFi for searching and downloading!tags: mp3 music downloader song libraryRecent changes:- Fixed crash on HoneyComb tablets'
+p4
+tp5
+tp6
+.

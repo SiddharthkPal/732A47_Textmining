@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dharma Meditation Trainer '
+p1
+tp2
+(S'Description:'
+p3
+S'Dharma Meditation Trainer is a new and more elegant version of our old and popular Buddhist Meditation Trainer.Dharma Meditation Trainer is your personal trainer for relaxing and enlightening meditation. It features 10 levels of enlightenment with deeper quotes to meditate on in every level. All with a simple to use meditation timer.Simply start meditating for 5 minutes everyday to feel the difference. After ten days you will gain a level and further enlightenment. Added End-Of-Meditation-Sound as requested!You can easily set the meditation sounds and target duration in the preferences screen (click the phone\'s menu button in the first screen). Dharma Meditation Trainer helps you remember to meditate with a daily notification. You can turn this off or on in the configuration page.Early Buddhist philosophers created a pluralist metaphysical and phenomenological system, in which all experiences of people, things and events can be broken down into smaller and smaller perceptual or perceptual-ontological units called "dharmas". Dharma Meditation Trainer - Your trainer to happiness and enlightenment.Recent features:* Progressive and not random meditation plan* 20 new photos* More than 100 quotations * Added Homescreen Widget* Support for SD installation* Meditation reminder notification - configurable in setting page.* Default to play sound at the end of the meditation.* Added End-Of-Meditation-Sound* Configurable meditation sounds* Configurable target duration * Every level uncovers more quotes and photos* Share quotes to earn more Karma points* Ten enlightening levels* Easy to use controlsRecent changes:* Improved progressive training plan*  Improved progress visualization at the end of the meditation'
+p4
+tp5
+tp6
+.

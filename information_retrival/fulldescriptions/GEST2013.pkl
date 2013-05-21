@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GEST 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'GEST Europe is the European educational meeting that focuses on Embolotherapy, a core area of interventional radiology practice. For the GEST 2013 Europe meeting in Prague (May 1-4, 2013), the CIRSE Foundation has again joined forces with all the 2011 organizers to create a cutting-edge meeting dedicated exclusively to Embolotherapy.As embolotherapy will only continue to grow in importance, fostering expertise in the whole range of associated techniques represents an investment in the future of interventional radiology. It is for this reason that GEST Europe is a meeting specially focused on education, imparting to participants the very latest knowledge and relevant skills, which can then be carried through to improve daily practice.The GEST 2013 Europe mobile app helps you to plan and navigate your GEST 2013 Europe experience: browse the programme by date or session type, search for speakers or exhibitors and put together your schedule using the bookmarking function.'
+p4
+tp5
+tp6
+.

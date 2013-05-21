@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Oil Paint '
+p1
+tp2
+(S'Description:'
+p3
+S'Oil Paint can help you convert your images and photos into impressionistic oil paintings by applying a special image effect. It\xe2\x80\x99s really simple and fun. Just pick or take a picture and let Oil Paint do the painting for you, after complete you can save the oil painting and share it with the world.How to use:1. Pick a picture from your gallery or take a photo right now;2. Just wait for your oil painting finish, it must be fantastic!12162205Recent changes:Recent Changes:Fix the can not saving or sharing issue under 4.0 for same devices.'
+p4
+tp5
+tp6
+.

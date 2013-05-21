@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MedPage Today Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Puts breaking medical news and CME/CE credits at your fingertips, with daily coverage of over 30 specialties and annual coverage of over 60 meetings and symposia.Written for physicians and other healthcare professionals.Features:- Breaking medical news- Audio reports- Video reports- Free CME/CE posttestsmedpageRecent changes:Bug fixes and performance enhancements:-  Fixed a bug preventing new users from registering.-  Fixed a bug preventing some users from running after upgrading to the previous release.-  Better support for device rotation.-  Option to clear Facebook settings (on the Settings view).-  Improved app start-up time.'
+p4
+tp5
+tp6
+.

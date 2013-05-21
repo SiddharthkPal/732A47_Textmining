@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Love Horoscopes '
+p1
+tp2
+(S'Description:'
+p3
+S"Love Horoscopes - The 100% free love & relationships android application from DailyHoroscopes.net.With this application you'll have access to: - daily love horoscope for all 12 zodiac signs- daily power numbers- daily predictions for: wellness, intellect, love, emotions, intuition, creativity, work and money.- love horoscope for current, previous and next daysIf you encounter any bugs/errors while using this application please contact us at: contact@dailyhoroscopes.netAlso try our other android daily astrology applications:Horoscopes and Work HoroscopesRecent changes:- multiple language support- UI improvements- various bug fixes to increase application stability"
+p4
+tp5
+tp6
+.

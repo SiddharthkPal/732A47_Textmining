@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Adobe Photoshop Express '
+p1
+tp2
+(S'Description:'
+p3
+S'Edit and share photos virtually anywhere. Touch to crop, rotate, adjust color, and add artistic effects. Quickly share with family and friends. Requires SD card. By downloading you agree to the Terms of Use at www.photoshop.com/misc/terms.htmlRecent changes:Bug Fixes'
+p4
+tp5
+tp6
+.

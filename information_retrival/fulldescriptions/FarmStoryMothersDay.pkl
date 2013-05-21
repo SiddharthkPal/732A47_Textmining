@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Farm Story: Mother's Day "
+p1
+tp2
+(S'Description:'
+p3
+S'"The #1 FREE farm game returns to the Google Play Store with Farm Story: MOTHER\xe2\x80\x99S DAY EDITION!- PLANT over 200 varieties of delicious fruits, veggies, and beautiful flowers!- DESIGN and decorate your farm with trees, fences, and buildings!- VISIT real neighbors to help their crops grow!- INVITE your Facebook friends to help you out!- SIMPLE and easy-to-use tap interface!- FREE updates with new fruits, flowers, trees, buildings, decorations, animals, fish, and more every week!- FREE to download and FREE to play, FOREVER!Farm Story: Mother\xe2\x80\x99s Day is the BEST-looking, most FUN and FREE farming game on the Google Play Store!Please note: Farm Story: Mother\xe2\x80\x99s Day is an online only game. Your device must have an active internet connection to play.Please note that Farm Story: Mother\xe2\x80\x99s Day is free to play, but you can purchase in-app items with real money. To delete this feature, on your device go to the Google Play Store, tap the Menu button, select Settings > Use PIN for purchase. Then, set up the four-digit PIN on the option below. In addition, Farm Story: Mother\xe2\x80\x99s Day may link to social media services, such as Facebook, and Storm8 will have access to your information through such services.TeamLava, a Storm8 studio, is the #1 Mobile Social Game Developer on Android, iPhone, iPod Touch, and iPad. Use of this application is governed by the TeamLava Terms of Service. Collection and use of data are subject to TeamLava\'s Privacy Policy. Both policies are available at www.teamlava.com/terms and www.teamlava.com/privacy"'
+p4
+tp5
+tp6
+.

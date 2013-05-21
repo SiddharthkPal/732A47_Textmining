@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Easy Uninstaller '
+p1
+tp2
+(S'Description:'
+p3
+S'Easy & fastest uninstall tool for android, remove multiple apps by taps.***Preloaded apps cannot be removed***#Feature\xe2\x80\xa2 Batch uninstall\xe2\x80\xa2 Fast uninstall by one click\xe2\x80\xa2 Show app name,version,update time,size\xe2\x80\xa2 Search app by name\xe2\x80\xa2 Various sort mode\xe2\x80\xa2 App share\xe2\x80\xa2 Launch app\xe2\x80\xa2 Cached app list\xe2\x80\xa2 Search in Google Market\xe2\x80\xa2 Support Android 1.x/2.x/3.x/4.x\xe2\x80\xa2 Support App2SD***************************INFOLIFE, Make Life Easier!***************************#DescriptionEasy Uninstaller is a tool to uninstall apps for android phones. It is quite easy to use, you can select multiple apps that you want to uninstall, and click "Uninstall Selected Apps" button to uninstall them. Easy Uninstaller also supports app search & sort. Type keyword in the textbox on the top to search the app that you want to uninstall. Click "Menu"->"Sort" to sort the apps in many sort types. Long press specified app, a context menu will pop up and provide more options. You can view app details by clicking "Application Details". You can share apps by clicking "Share", and you can search the app in the Google market by clicking "Search in Google Market".Easy Uninstaller cannot uninstall pre-loaded apps in the system because it is limited by the system mechanism.Any problem, it is better to send feedback to us to get help than low rate!#FAQQ: Why can\'t it list pre-loaded apps?A: Pre-loaded apps cannot be uninstalled, only if your phone is rooted, you can search "root uninstall" in Google market.Q: Why are some apps not on the list?A: Try to click "Menu"->"Refresh" to clean the cache and re-load the app list.Q: Why can\'t I close the app?A: The notification bar icon is used for quick start of the app. If you don\'t want the notification bar icon shown after you exit the app, you can just disable it in the settings. Click "Menu"->"Setting", uncheck the "Notification Bar Icon" checkbox.#KWapp uninstaller, app remover, batch uninstall, app managerRecent changes:-v2.0.5#Fix FC bug for sony-v2.0.4#Fix app not listed bug-v2.0.3#Fix Search FC bug'
+p4
+tp5
+tp6
+.

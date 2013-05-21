@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Akinator the Genie FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"Akinator... the Genie is back!Akinator can read your mind and tell you what character you are thinking about, just by asking a few questions. Think of a real or fictional character and Akinator will try to guess who it is. Will you dare challenge the Genie?Try this free version of the famous Genie! Discover the brand new Akinometer, share your results on Facebook and turn on the child filter to let your children play safely.+++++Download the full version for more features+++++ Customize people you know (name and picture) to impress your friends, play all the characters you can think of and not just the most popular ones, as many times as you want.+++Will you be able to think of a character the Genie does not already know? +++NEW: Available in Simplified Chinese and Turkish! Version also adapted for your tablet.NEW: Available in Arabic (only from Android OS 4.0)Become Akinator's fan on Facebook: http://www.facebook.com/AkinatorFollow Akinator on Twitter: http://twitter.com/akinator_teamPlease note:-IMPORTANT! Akinator changed publisher and is now back with its original creator.-Akinator requires an Internet connection to use his magic lamp. Turn on Wifi or be sure to have a data plan.-Available in several languages (French, English, Spanish, Portuguese, German, Russian, Turkish, Simplified Chinese and Korean).-To select your language, don't forget to scroll down the list to find it.Recent changes:Additional features +++ (new questions and pictures)Additional background (Akinator in Japan) Improved child filterOptimization language selector.Minor bugs fixed"
+p4
+tp5
+tp6
+.

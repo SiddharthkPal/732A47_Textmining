@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Keputusan Keseluruhan PRU13 '
+p1
+tp2
+(S'Description:'
+p3
+S'Ikuti Keputusan Semasa dari Semasa PRU13 | 5-Mei-2013'
+p4
+tp5
+tp6
+.

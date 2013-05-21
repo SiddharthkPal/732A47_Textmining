@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Image Editor '
+p1
+tp2
+(S'Description:'
+p3
+S"Editor Picked by AppEggs.com. Check out the latest review about Image Editor here: http://www.appeggs.com/apps/com.pcvirt.ImageEditor,155108/This app is a powerful image editor designed to be the Android alternative for Windows's Photoshop or Gimp. It supports multiple projects/tabs, multiple layers and even actions. There is also the popular Image 2 Wallpaper function to quickly set photo as wallpaper, and it can be used just as an image viewer, photo editor or icon editor.You can do all the usual canvas or layer manipulation such as resize, crop, brush drawing, erase, draw shapes, bucket fill, select, copy, paste, delete, move, align, rotate, flip and more. Adjust brightness, contrast and saturation with filters or apply effects such as sharpen, blur or bump, just to name a few. Undo and redo are available, and you can also save a set of actions to re-apply them later.Please give us your feedback by mail or comments on the market to help us improve this photo editor app.Recent changes:New in version 1.3:- Text layers are now re-editable;- Added open psd image layers;- Improved drawing speed;- Redesigned the start screen and added latest gallery images;- Added official website and donation links, as more financial aid is needed to keep this app free and keep improving it;- Some layout improvements;- Fixed various bugs / errors."
+p4
+tp5
+tp6
+.

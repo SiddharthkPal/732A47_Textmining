@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CIA -Caller Identification App '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 Imagine taking a call \xe2\x80\x93 or receiving a missed call \xe2\x80\x93 from a person or a company you never talked to before. With CIA (Caller Identification App), you can see immediately who this caller is. CIA shows the name, address and other details right on your screen, while the phone is still ringing. It means you can prepare yourself properly for the call, or even decide not to take it. Priceless!CIA GIVES YOU:\xe2\x96\xb6 100% free caller identification.\xe2\x96\xb6 Unlimited access to the world\xe2\x80\x99s largest collection of names and numbers \xe2\x80\x93 both local and international.\xe2\x96\xb6 An app loved by users worldwide \xe2\x80\x93 \xe2\x80\x9cby far the best caller id app \xe2\x80\x93 and I\xc2\xb4ve tried em all\xe2\x80\x9d \xe2\x80\x93 Lisa Saunders, Memphis.- So what are you waiting for? Download CIA now! But that\xc2\xb4s not all, with CIA you can also\xe2\x80\xa6\xe2\x9c\x94 Get social results. CIA not only offers you regular caller ID, but also the caller\xe2\x80\x99s social network profiles including Facebook and LinkedIN.\xe2\x9c\x94 Block spam calls. Get rid of annoying tele-marketers by marking the number as spam. CIA will block this number when it tries to call you again. And you\xe2\x80\x99ll also get to see when other CIA users have marked a caller as spam too.\xe2\x9c\x94 Add contacts to your address book. CIA\xe2\x80\x99s \xe2\x80\x98Update Contacts\xe2\x80\x99 feature lets you add new numbers and profiles to your existing address book.\xe2\x9c\x94 Send callers to voicemail. You can use the \xe2\x80\x98Call Blocker\xe2\x80\x99 feature to divert calls from withheld numbers straight to your voicemail. You can also add specific numbers you want to divert.\xe2\x9c\x94 Find alternative merchants. Trying to call and not getting through? CIA will suggest other merchants for you to try.\xe2\x9c\x94 See a caller\xe2\x80\x99s Facebook status. Link the app with your Facebook account and see your friend\xe2\x80\x99s status and photo when they call.\xe2\x9c\x94 Find a name. You can type a number into the CIA database to get the name behind it.\xe2\x9c\x94 Still reading? Go ahead and download \xe2\x80\x93 and enjoy the app ;-)CIA on facebook:https://www.facebook.com/CallerIdentificationAppCIA on twitter:https://twitter.com/CIAappRecent changes:bug fixing'
+p4
+tp5
+tp6
+.

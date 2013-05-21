@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ticker '
+p1
+tp2
+(S'Description:'
+p3
+S'Ticker!!! Photography application for fun** Announce **We are working hard to fix many problem.Recent changes:1.0.8.5- Fix for some screen resolution display wrong layout- Fix bugs.1.0.8.7- Fix display screen 240 x 320- Fix display share screen 320 x 480- Added basic usage when open app first time.1.0.8.2- Added Ticker cartoon- Added new Ticker word- Fix image not clear when rotate.1.0.8.1- Fix load image for more 3000 x 4000 pixels problem.'
+p4
+tp5
+tp6
+.

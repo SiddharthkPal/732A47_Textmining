@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kirchentag 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'F\xc3\xbcr den Hamburger Kirchentag 2013 wurde diese App entwickelt. Schwerpunkt ist eine komfortable Programmsuche. Neben einer klassischen Volltextsuche l\xc3\xa4sst sich auch sehen, welche Veranstaltungen aktuell in Ihrer N\xc3\xa4he stattfinden. Wenn Sie sich bereits zu Hause ein eigenes Programm unter "Mein Kirchentag" zusammengestellt haben, k\xc3\xb6nnen die ausgew\xc3\xa4hlten Veranstaltungen automatisch in die App \xc3\xbcbernommen werden.Da wir das Programm vollst\xc3\xa4ndig in die App integrieren, m\xc3\xbcssen Sie keine permanente Internetverbindung haben. So k\xc3\xb6nnen auch mobile Ger\xc3\xa4te ohne UMTS verwendet werden. Und Ihre Telefone k\xc3\xb6nnen w\xc3\xa4hrend einer Veranstaltung im Flugmodus bleiben - Sie haben das Programm trotzdem im Blick und wissen, welche Veranstaltung Sie als n\xc3\xa4chstes erwartet.Wenn Sie immer den aktuellsten Datenstand in der App haben m\xc3\xb6chten, aktualisieren Sie die Daten regelm\xc3\xa4ssig unter "Einstellungen". Dort k\xc3\xb6nnen Sie auch Ihre Kontoinformationen von "Mein Kirchentag" hinterlegen.\xc3\x9cber Mitteilung Ihrer Erfahrungen mit der App w\xc3\xa4hrend des Kirchentages und Verbesserungsvorschl\xc3\xa4ge w\xc3\xbcrden wir uns sehr freuen: www.kirchentag.de/app-feedback. Oder direkt aus der App heraus: Einstellungen - App-FeedbackRecent changes:Version 1.5Leicht \xc3\xbcberarbeitete Ansicht von VeranstaltungenVersion 1.4Behebt einen Fehler in der Darstellung ausfallender Veranstaltungen und einige weitere kleine FehlerVersion 1.3Behebt einen Fehler beim Erstellen von Kalendereintr\xc3\xa4gen auf HTC-Smartphones und einige weitere kleine Fehler'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cantadas Engra\xc3\x83\xc2\xa7adas '
+p1
+tp2
+(S'Description:'
+p3
+S'As melhores e mais engra\xc3\xa7adas cantadas. Conquiste as gatas e se divirta em seus xavecos com a ajuda do aplicativo Cantadas Engra\xc3\xa7adas.Uma sele\xc3\xa7\xc3\xa3o com as melhores cantadas em suas m\xc3\xa3os, pois nunca se sabe quando pode aparecer uma mina para voc\xc3\xaa conquistar.Navegue ou gere cantadas aleat\xc3\xb3rias e compartilhe com quem voc\xc3\xaa quiser ou nas redes sociais.Cantadas engra\xc3\xa7adas, cantadas de pedreiro, melhores cantadas .'
+p4
+tp5
+tp6
+.

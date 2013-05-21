@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yard Sale Treasure Map '
+p1
+tp2
+(S'Description:'
+p3
+S'Quickly find the garage sales near you!  Yard Sale Treasure Map is an app that lets you access craigslist from your mobile device.  You can search by day, view detailed sale info, get directions to each sale, and plot sales from other sources to keep you organized.  Includes: - Google Street View - Turn by turn navigation - Keyword search - Route import from YardSaleTreasureMap.com - Add other sales - Route PlanningThe Yard Sale Treasure Map suite of applications for desktop and mobile are the most popular tools that put the most complete yard sale map in your hand!Organize your next Community sale by posting your sales at YardSaleTreasureMap.com and telling visitors to navigate with this app for Android and "Yard Sale Mapper" for iPhone.Want your sale to appear on this app?  Create a garage sale listing in your local craigslist site.  We\'ll find you!The craigslist and associated trademark are owned by craigslist, Inc. and are being used under licensed permission from craigslist, Inc. for a limited purpose. www.craiglist.orgRecent changes:v 5.1Fixing GPS issuev 5.0Bug fixes- Saved route will now always be viewable, regardless of network state or server availability- Map will no longer re-center on updateUpdated Mapping Capabilities- Two-finger downward swipe to go into 3d view (select compass to reset to 2d)- Two-finger map rotate (select compass to reset North)- Map caching to allow better use in spotty network coverage- Speed and bandwidth improvements- Can still use old map if desired (access via Menu)'
+p4
+tp5
+tp6
+.

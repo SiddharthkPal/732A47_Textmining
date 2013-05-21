@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quickoffice - Google Apps '
+p1
+tp2
+(S'Description:'
+p3
+S'*** THIS APP IS FOR PAID GOOGLE APPS FOR BUSINESS SUBSCRIBERS ONLY ***Try Quickoffice Pro & Pro HD in the Play Store if you don\xe2\x80\x99t have a Google Apps for Business account. Quickoffice makes it easy to create, edit and view Microsoft Word, Excel\xc2\xae and PowerPoint\xc2\xae files on your Android device. Designed for Google Apps users, you have instant access to all your files stored in Google Drive. Just open an Office file on your device, edit, and save back to Drive to be able to access them from anywhere.With Quickoffice you can:-------------------\xe2\x9c\x94 Create, Edit & View Word documents (.docx)\xe2\x9c\x94 Create, Edit & View Excel\xc2\xae spreadsheets (.xlsx)\xe2\x9c\x94 Create, Edit & View PowerPoint\xc2\xae presentations (.pptx)\xe2\x9c\x94 Edit & View older versions of Word, Excel\xc2\xae, PowerPoint\xc2\xae (.doc, .xls, & .ppt)\xe2\x9c\x94 Spell Check in documents (.doc & .docx)With Quickoffice it\xe2\x80\x99s easy to:-------------------\xe2\x97\x8f Change colors, font, backgrounds and insert images \xe2\x97\x8f Rearrange cells and work with formulas in spreadsheets\xe2\x97\x8f Create, edit and rearrange your Drive folders & files\xe2\x97\x8f Convert text to speech and speech to text\xe2\x97\x8f Scroll in any direction and tap-and-drag to move and align objectsLanguage Support---------------French, German, Dutch, Italian, Spanish (Spain), Spanish (Colombia), Korean, Japanese, Russian, Turkish, Simplified Chinese (China), Traditional Chinese (Taiwan), Portuguese, &  Brazilian PortugueseRecent changes:This is a new release for Google Apps for Business subscribers.'
+p4
+tp5
+tp6
+.

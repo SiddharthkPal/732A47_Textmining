@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shop and Ship '
+p1
+tp2
+(S'Description:'
+p3
+S'The new Shop and Ship app for the Android comes loaded with handy features, now you can:\xe2\x80\xa2 Monitor your shipments from our facilities to destination.\xe2\x80\xa2 Receive Push Notifications with every shipment status update.\xe2\x80\xa2 Instantly access your Shop and Ship account details.\xe2\x80\xa2 Locate Shop and Ship offices.'
+p4
+tp5
+tp6
+.

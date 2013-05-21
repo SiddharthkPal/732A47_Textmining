@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Scratch Draw Art Game '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Scratch Draw Art Game by TeachersParadise.com Studios  \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Drawing takes a new turn with Scratch Draw by TeachersParadise.com Studios.A scratch drawing game for scratch artists of all ages. Fun for little artists too! With more than 260 backgrounds to let your imagination run wild! \xe2\x98\x85 260+ backgrounds\xe2\x98\x85 Multiple thickness\xe2\x98\x85 Share your art via email, text, Twitter, Facebook or any other service available for your Android Device.\xe2\x98\x85 Free Ad-supported version.\xe2\x98\x85 Language: US English\xe2\x98\x85 Age Level: 1+\xe2\x98\x85 Title:  Scratch Draw Art Game For Kids\xe2\x98\x85 Copyright 2011 TeachersParadise.com, Inc.Recent changes:2013-03-18: New Backgrounds, Better Tablet Support, Less Permissions & misc. bug fixes2012-05-21: 55 New Backgrounds, Toddler Lock & bug fixes2012-04-03: 74 New Backgrounds & bug fixes2012-03-20: 50 New Backgrounds & bug fixes2011-11-21: 40 New Backgrounds & bug fixes'
+p4
+tp5
+tp6
+.

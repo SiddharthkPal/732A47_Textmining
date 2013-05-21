@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Java Power Link '
+p1
+tp2
+(S'Description:'
+p3
+S'Great app for Java Developers and Students.Debrasoft selects the best web resources.Five categories: web sites, tutorials, books, wiki, job.The links are updated and checked.Debrasoft is not related to any web site promoted by this application.TO promote contents, contact us to debrasoft.apps @ gmail.comKEYWORDS: JAVA, J2EE, SERLVETS&JSP, JSF, STRUTS, ZKOSS, PLAY FRAMEWORK, SQL, HIBERNATE, MYBATIS, ANDROID, HMTL5, JAVASCRIPT, JQUERY, JQUERY MOBILE, PHONEGAP, APACHE TOMCAT, JBOSS. ECLIPSE, INTELLIJ, JDEVELOPER'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SCViewer (Scan-manga viewer) '
+p1
+tp2
+(S'Description:'
+p3
+S"Smart comics Viewer is a lightweight image viewer.[Main features]- Supports JPG, JPEG, BMP, GIF, PNG- Open ZIP, CBZ, RAR, CBR- Automatically open prev/next file- Auto Scroll- Left2Right or Right2Left reading- rotate/split screen- Go to prev/next page/file using the gesture- Use touch screen to zoom- Color reversal- Custom Menu- Always On Screen- Screen & Image Brightness & Contrast Setting- The middle of the area adjustment- Manage Files and Folders (delete / rename)- Magnifying glass : Press and hold the screen- Bookmark- Support BT/OTG Keyboard(Enter/DPAD)- Crop BorderRecent changes:* Previous / Next scroll added.* Screen orientation 'portrait (reverse)'* Fixed an issue where the data area* Add a Filter (Contrast)"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO LauncherEX Italian language '
+p1
+tp2
+(S'Description:'
+p3
+S'A language plug-in for GO LauncherEX.This pack is for GO LauncherEX Italian language support.Install it and change the system language.The translation will be updated soon, please stay turned. ThanksIf you wanted to join our translation team. Click http://crowdin.net/project/golauncher and sign in.'
+p4
+tp5
+tp6
+.

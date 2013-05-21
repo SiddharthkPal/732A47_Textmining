@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bing on VZW '
+p1
+tp2
+(S'Description:'
+p3
+S"Whatever you're looking for, Bing can find it and help you get there\xe2\x80\x94down the street, the other side of the world, or somewhere in between\xe2\x80\x94Bing has the answer.See amazing daily images on the Bing home page and tap a hotspot for more info about the subject. Tell Bing what you are looking for with voice-activated search, even addresses, when you need to be hands-free.Find out what deals, shops, restaurants, and much more, are near you.See movie ratings, read reviews, and get info about where and when it\xe2\x80\x99s playing so you can pick the perfect flick.Easily share images, results, deals, and more with your Facebook friends, in email, or text message.Get walking, transit, and driving directions with current traffic conditions and maps.Recent changes:You spoke, we listened! Based on recent feedback, we've made some changes:Improved image grid view, save images to the gallery, and see full-sized imagesVoice-activated search is improved and recognizes addressesMultiple bug fixesNote: The widget is hidden after you update. To see it, long press on the home screen, click \xe2\x80\x9cAndroid Widgets\xe2\x80\x9d, and then select Bing. The widget isn\xe2\x80\x99t available if the Bing app is installed on an SD card.Min. requirements: OS 2.2 and 320x480 screen resolution"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Personal Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'Santander UK personal banking customer? Do your banking wherever you are with the Personal Banking app from Santander (English language only).Simple to use and with many features including balance alerts and bill payments. Manage you money on the move easily and quickly with the Santander UK Mobile Banking AppDesigned solely for personal banking customers, simply log in with your existing Online Banking details and you\xe2\x80\x99re away.You can:- check your balances and statements- make transfers and payments- set up alerts for when your balance exceeds or drops below a certain amount- report lost/stolen cards- view, amend or cancel pending payments- find your nearest Santander branchAnd if you\xe2\x80\x99re splitting the bill for dinner, rent or anything else, and you pay with your account, this app has a handy little function that splits the transaction for you so you can send it directly to your friends for their contribution.Santander UK plc Web SiteSantander UK SupportApplication Licence AgreementRecent changes:Easier to use with enhanced performance'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'eBay Widgets '
+p1
+tp2
+(S'Description:'
+p3
+S'***** IMPORTANT: eBay Widgets will not work unless the Official eBay Android app is also installed. If you are new to using widgets, please see below for more details on how to install. *****NEW! Now you can quickly see what\xe2\x80\x99s happening on eBay right from your device home screen.  The eBay Widgets app provides 3 unique widgets that allow you to easily launch the eBay app or get a quick view of today\xe2\x80\x99s deals or an overview of your personal eBay account: \xe2\x9c\x93 eBay Shortcuts Provides direct access to Home, My eBay, Category browsing and Selling\xe2\x9c\x93 eBay Reminders+ Provides an overview of outstanding Reminders, unread Messages and new items found for your Saved Searches\xe2\x9c\x93 eBay Deals Provides a quick view to all the Daily Deals currently available _____________________________________HOW TO INSTALL WIDGETS1. Download the eBay Widgets app. 2. From your device home screen, tap and hold until the \xe2\x80\x9cAdd to home screen\xe2\x80\x9d menu appears or tap the device Menu button and select Add => Widgets.3. Select and install the desired eBay widget. _____________________________________LANGUAGE AND FEATURE SUPPORT BY COUNTRY \xe2\x9c\x93 Language support:English, French, Italian, German, Spanish \xe2\x9c\x93 Deals widget support:Australia, Canada, Germany, Italy, United Kingdom, United States_____________________________________SD CARD SUPPORTAndroid widgets cannot be installed on an SD card and apps that integrate widgets into their main app cannot be installed on the SD card. In order to support our users who prefer that the Official eBay Android app be installed on the SD card, we have provided a separate app for widgets._____________________________________SEND US YOUR FEEDBACKWe love hearing from our customers! Keep on sending us your ideas and suggestions by contacting customer support through the app or going to our online help forum at: http://getsatisfaction.com/ebaymobile.Recent changes:v1.0eBay Shortcuts widget provides direct access to Home, My eBay, Category browsing and Selling.eBay Reminders+ widget provides an overview of outstanding Reminders, unread Messages and new items found for your Saved Searches.eBay Deals widget  provides a quick view to all the Daily Deals currently available.'
+p4
+tp5
+tp6
+.

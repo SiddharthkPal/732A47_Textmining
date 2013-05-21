@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Citrix Receiver Beta '
+p1
+tp2
+(S'Description:'
+p3
+S'The Citrix Receiver for Android Beta enables organizations to assess new features and capabilities before they become part of the mainstream distribution of Citrix Receiver.Recent changes:\xe2\x80\xa2  Support for Cloud-Gateway 2.5\xe2\x80\xa2  Smart card authentication with PNA site\xe2\x80\xa2  Multiple Authenticated Store support & new menu to switch\xe2\x80\xa2  Added Control, Shift, Alt and Windows as sticky keys, allowing combination key selection from the Extended keyboard ribbon\xe2\x80\xa2  Resolution choices'
+p4
+tp5
+tp6
+.

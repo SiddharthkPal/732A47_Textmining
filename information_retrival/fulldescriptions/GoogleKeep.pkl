@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Keep '
+p1
+tp2
+(S'Description:'
+p3
+S"Quickly capture what\xe2\x80\x99s on your mind and recall it easily wherever you are. Create a checklist, enter a voice note or snap a photo and annotate it. Everything you add is instantly available on all your devices \xe2\x80\x93 desktop and mobile.With Google Keep you can:\xe2\x80\xa2 Keep track of your thoughts via notes, lists and photos\xe2\x80\xa2 Have voice notes transcribed automatically\xe2\x80\xa2 Use homescreen widgets to capture thoughts quickly\xe2\x80\xa2 Color-code your notes to help find them later\xe2\x80\xa2 Swipe to archive things you no longer need\xe2\x80\xa2 Turn a note into a checklist by adding checkboxes\xe2\x80\xa2 Use your notes from anywhere - they are safely stored in the cloud and available on the web at http://drive.google.com/keepRecent changes:What's in this version (1.0.79)\xe2\x80\xa2\xc2\xa0Syncing optimizations\xe2\x80\xa2\xc2\xa0Improved error handling when Google Play services, camera, or voice recorder are unavailable"
+p4
+tp5
+tp6
+.

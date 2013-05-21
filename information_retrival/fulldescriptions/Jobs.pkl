@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jobs '
+p1
+tp2
+(S'Description:'
+p3
+S"Search the US's largest online job site on the go with CareerBuilder's Jobs app. It's powerful, easy to use, and completely free. Features include:-\tSearch for jobs with advanced search options-\tUse your current location to find jobs near you-\tApply directly to jobs with your CareerBuilder account-       Share jobs with your friends via text message, email and Facebook-       Keep up to date with the status of your job applications by taking a short survey-\tSave jobs to review later-\tReceive personal job recommendations-\tGet a list of jobs similar to any job you like-\tApply to jobs without being logged in or registered with CareerBuilder-       Attach resume file from your phone for applying-\tAutomatically syncs your resumes, cover letters, saved jobs, and jobs you have applied to with your CareerBuilder account-      Support for in-app screening questionsRecent changes:-      Share jobs via text message and Facebook.-      Keep up with the status of your job applications by taking a short survey.-      Get notified when your Internet connection gets disconnected.-      Send feedback directly from within the app.-      Bug fixes."
+p4
+tp5
+tp6
+.

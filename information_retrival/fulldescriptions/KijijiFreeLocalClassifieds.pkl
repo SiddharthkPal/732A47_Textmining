@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kijiji Free Local Classifieds '
+p1
+tp2
+(S'Description:'
+p3
+S'Take Canada\xe2\x80\x99s #1 classifieds site with you wherever you go! The Kijiji Classifieds app allows you to:- Post ads easily and use your camera/ gallery to add photos- Access My Kijii  - Sign in to manage your ads i.e. view, edit, delete and Bump Up\xe2\x80\xa8- Search and browse for items/ services in a province, city or sub area.   o   Refine results by price & other key attributes   o   Sort results by date, price and distance   o   Recent searches automatically saved on your phone- Sync watchlists \xe2\x80\x93 sign in and access your watchlists on your phone or on www.kijiji.ca- Reply to sellers or call them up directly with your phone- Share ads with your friends and social networks-          Support for both English and French speaking users More info at www.kijiji.ca/androidRecent changes:- Feature purchases: Sellers can now buy a Bump up feature via the app. One can securely save their credit card and use it to bump up their ad to the top of the list in a couple of clicks- Ability to view the rank and # of visits for each ad in My Kijiji- Updated browsing experience \xe2\x80\x93 view all ads in a category or drill down further to a sub category- UEX improvements- Bug fixes'
+p4
+tp5
+tp6
+.

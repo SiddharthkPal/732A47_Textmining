@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaCollage '
+p1
+tp2
+(S'Description:'
+p3
+S'Download Ad Free Version: https://play.google.com/store/apps/details?id=com.photos.instacollage.proInstaCollage is wonderful Collage Making, Photo Editing and Photo Sharing Application.It\'s fast, free, fun and easy to use application. It\'s the best way to create awesome collages, edit photos, write your thoughts and then share on Facebook, Twitter, Flickr and Instagram.InstaCollage combines the features of many other existing apps such as PicFrame , Photo Effects, Photo Collage, Pic \'O\' Collage, Insta Effects, TextGram and many other apps. Simple and intuitive touch gestures:- Tap to add photos - use moving gesture to move photos- resize photos using two fingers- apply frames from a large list of frames- apply pattern or colors to beautify the background- add text in varous fonts and colors- paint your photos with any color- apply effects to your photos- share images on the top social networking and photo sharing websites with your friendsFeatures: 1. lots of "Collages" for you to attach photos 2. About 60 "Frames" to frame your photos 3. About 20 "pattern" to give a touch to the background or use color to color the background. 4. About 21 "Effects" of which most of them are "vintage effects" to give your photos the best look 5. Variety of colors available to paint the photos with any color. 6. Write on your photos at any position, choose any color, choose any font and rotate your text.  7. Share your photos on "Facebook", "twitter", "Flickr" and "Instagram" Have fun with "InstaCollage". It is made explicitly to beautify your photos easily."InstaCollage" provides user full freedom to write text the way you want."InstaCollage" applies instant photo "Effects" to your photos which is fast and beautiful too. InstaCollage is new and a best way  to make collages. It is new, free, fast, fun and easy. It\'s the best way to create awesome collages, edit photos, write your thoughts and then share on Facebook, Twitter, Flickr and Instagram.Recent changes:Sharing Image on Facebook, Twitter and Flickr is working properlyFew Bug Fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Coles App '
+p1
+tp2
+(S'Description:'
+p3
+S'The all new Coles app makes it quicker and easier to do your shopping at Coles: \xe2\x80\xa2 Browse weekly specials and add them to your shopping list \xe2\x80\xa2 Use the barcode scanner to quickly write your weekly shopping list \xe2\x80\xa2 Share and instantly update your lists with family or friends \xe2\x80\xa2 Browse Curtis Stone recipes, watch the Recipe Video and add the ingredients to your shopping list \xe2\x80\xa2 Sort your shopping list by aisle \xe2\x80\x93 no more walking around looking for that last item!Recent changes:- Fixed store finder crash bug- New \xe2\x80\x98Product Finder\xe2\x80\x99 function on the home screen- Add products directly from a specials list or search results (look for the \xe2\x80\x98red plus sign\xe2\x80\x99)- Access product information from within a shopping list by tapping on an item- Simplified the options for adding items to your shopping list, so that both specific brands and generic products can be added to your list- Minor bug fixes'
+p4
+tp5
+tp6
+.

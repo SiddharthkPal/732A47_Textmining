@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'twicca '
+p1
+tp2
+(S'Description:'
+p3
+S'twicca is Twitter\xe2\x84\xa2 Client for Android\xe2\x84\xa2.Features:* Notification* Auto pager* Search* Post with photo/video upload(via.me)* Shorten URL* Geo tagging* Saved searches* Recent hashtags* Reply history* Lists* Retweet* Color label* Managing twitter profile* Trending topics* Local trends* Extending function by plug-in* Widget* Uploading profile icon* Report for spam* Block user* Image Preview* Geotagging with map preview* Tweet filtering(Mute)Experimental features:* Multiple account support.* Launch from status bar* twitpic video preview* New line----twicca is looking for supporters for the future development and maintenance. For more information, menu -> more -> twicca supporters.----* If you install to external storage, you might not be able to use some features.* If widget is something wrong, please delete it and put new widget to home again.* Please see https://dev.twitter.com/terms/display-requirementsTwitter: @twicca_enRecent changes:Support Twitter API 1.1.'
+p4
+tp5
+tp6
+.

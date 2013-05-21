@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VidTrim - Video Trimmer '
+p1
+tp2
+(S'Description:'
+p3
+S'VidTrim is a video editor and organizer for Android. It includes multiple features like trimming, video effects, extract audio (convert to MP3) and transcoding (convert to MP4). You can also share your videos with your friends directly through the app.VidTrim is App Of the Day on Pocket-Lint.com http://www.pocket-lint.com/news/48544/vidtrim-pro-review-android-video-editorAlso check out this review from androidadvices.com:http://bit.ly/JSPZcJThis is the free ad supported version of VidTrim Pro.Features of VidTrim:- Video trimmer. Trim video clips right on your device- Convert video files to MP3 audio files.- Share video clips. (Send e-mail, upload to YouTube etc.)- Play video clips- Rename video clips- Delete video clipsTRIAL Features in this Free version (watermark will be applied to the result video):- Effects. Apply cool video effects like B/W, Negate, Pixellate, Posterize, Glow, Tint0r, Edge detect, Luma, SwapUV.- Transcode video clips. The transcoder allows you to convert video to MP4, resize and compress.If you have any problems or suggestions please contact us at: support@goseet.comUses FFmpeg under permission of LGPL.Keywords:vidtrim, video editor, video cutter, cut video, video trimmer, trim, snip, cut, delete, rename, sort videos, share video clips, convert to MP3, extract audio, transcode, video converter, video effects.Recent changes:* NEW FEATURE: Save audio of video files as MP3!* New TRIAL Feature: Video Effects (watermark will be applied to the result video).* New TRIAL Feature: Transcode video clips. The transcoder allows you to convert video to MP4, resize and compress. (watermark will be applied to the result video).* Bug fixes.'
+p4
+tp5
+tp6
+.

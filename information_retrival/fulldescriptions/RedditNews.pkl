@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Reddit News '
+p1
+tp2
+(S'Description:'
+p3
+S'Officially the best new Reddit App for Android!(Now supports TABLETS including Nexus 7 & 10) See the discussion on r/android:http://www.reddit.com/r/Android/comments/qdivf/what_is_your_favourite_reddit_browsing_app/?sort=confidenceA full featured Reddit browser with a user interface fully optimised for touch screens. It makes browsing Reddit on your phone an absolute pleasure.Android Policehttp://www.androidpolice.com/2013/01/25/reddit-news-updated-to-version-6-adds-sliding-user-interface-and-multiple-account-support/MobileSyruphttp://mobilesyrup.com/2013/01/26/reddit-news-for-android-receives-updated-interface-full-tablet-support/"Reddit News Is The Best Free Reddit App For Android" -RedmondPiehttp://www.redmondpie.com/reddit-news-is-the-best-free-reddit-app-for-android/See this link for an explanation of how to use some of the buttons for comment navigation: http://www.reddit.com/r/Android/comments/y51g6/reddit_news_update_tablet_interfaceincluding/c5sf1y3Features:- pre-fetching of images for quick viewing right from the stories list- Stories and comments load at the same time. Switch between the two by sliding up and down the voting bar. (see market pic)- View profiles, edit and delete comments, check your inbox, submit posts and more...- Hi-res thumbnails created from pre-fetched images- Sidebar and Spoiler support- Rage faces and MLP emotes in comments with alternate text- Drag and drop sortable Subreddits, move your favorites to the front.- multiple colour themes including black,white,blue and pink- Search Reddit for a specific topic.- Optimized layout for phones and tablets- butter smooth scrolling!Recent changes:- Fixed some force close issues introduced in last version- Added button to go directly to comments from image preview- Added option to have thumbnails on the left- Added option to always load HD images- Fixed issue where subreddit subscribe button wouldn\'t appear- Added unsubscribe button to subreddit edit screen- Added mark as read button to message notificatioin- Added new tutorialsV6:http://www.reddit.com/r/reddit_news/comments/176o5p/changelog_for_next_version/'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FCC International '
+p1
+tp2
+(S'Description:'
+p3
+S'Free Conference Call International provides a quick and easy way for you to host or join conference calls without having to remember the dial-in credentials. Save all of your free conference call dial-in numbers and access codes using this app. Now be on the go and stay connected with your teams, colleagues, friends and family using this Dialer App. With the FreeConferenceCall International you can store and create multiple free conferencing accounts, distribute invitations and instantly dial into a conference call.Features Include:\xe2\x9c\x93Dial-In numbers in 19 countries\xe2\x9c\x93New Account Registration-to add more conferencing lines, select the plus icon from the application and fill out the required fields\xe2\x9c\x93Edit Account Description-assign titles or names to your conferencing lines at anytime for easy identification\xe2\x9c\x93Invitations-distribute call in credentials to your conference participants via text or email by selecting the Invite icon from the main page of the application\xe2\x9c\x93Save & Store Existing Accounts-keep a rolodex of existing and new conferencing accounts located on the main page of the application\xe2\x9c\x93Auto Conference Dial-In-select your conferencing line from your list of accounts and tap the Call icon to host or join your conference calls. Now you can use you Internet connection to make calls over VoIP.\xe2\x9c\x93Delete Accounts-for conferencing lines you are not using or for basic clean up, a delete account feature is available (this only deletes it from the application window, the account itself will still active)The FreeConferenceCall International stores as many conferencing lines as you need. This app is free and can be used with FreeConferenceCall International account.For email inquiries, please use services@freeconferencecall.com.'
+p4
+tp5
+tp6
+.

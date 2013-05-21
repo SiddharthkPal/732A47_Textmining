@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Animated Analog Clock Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'Animated analog clock widget with animated second hand compatible with all launchers (e.g. Launcher Pro, ADW Launcher or Home++).THE FIRST CLOCK WITH TICKING SECOND HAND!Recent changes:Added "onclick open alarmclock" support for Droid 1 Update 2.2 (Froyo).'
+p4
+tp5
+tp6
+.

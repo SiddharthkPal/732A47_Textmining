@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'3CXPhone for VoIP Providers '
+p1
+tp2
+(S'Description:'
+p3
+S"3CXPhone for VoIP Providers is an Android SIP Softphone that works with SIP based popular VoIP Providers. You're not locked in with a particular VoIP provider so you can switch easily. Please note that 3CXPhone for VoIP Providers must not be used in combination with a PBX other than 3CX Phone System. If you are a 3CX Phone System user, download the free Android SIP client that's been developed to integrate seamlessly with 3CX Phone System - 3CXPhone for 3CX Phone System. It can be downloaded from Google Play here - https://play.google.com/store/apps/details?id=com.tcx.sipphoneMore information on http://www.3cx.com/VOIP/voip-phone.htmlPhones 3CXPhone for VoIP Providers has been tested with:- HTC Sense One : Android 4.0.3- HTC Wilfire S: Android 2.3.5- HTC Wildfire : Android 2.2.1- HTC Desire : Android 2.2.2- HTC EVO 4G: Android 2.3- Samsung GT-I9100 : Android 4.0.3- Samsung GT-I9100 : Android 2.3.3- Samsung GT-I9000 : Android 2.3.6- Samsung Galaxy Tab 10.1 GT-P7500 : Android 3.1- Samsung Galaxy Pro GT-B7510 : Android 2.2.2- Samsung Galaxy Note N7000 : Android 3.1- Sony Ericsson Xperia X10i: Android 2.3.3- Sony Ericsson Xperia U20i: Android 2.1- Motorola XOOM: Android Honeycomb 3.1- Motorola Droid Razr: Android 4.0- Motorola Milestone XT720 : Android 2.1.1- Asus Transformer HC : Android 3.1UNRELIABLE - Samsung GT-I5800 2.2.1Known issues:Motorola Droid X is not supportedAndroid 1.5 is not supportedOn Samsung GT-I5900, volume adjustment by device's volume button has no effect.If using on 3G, ensure that the telecom provider is not blocking VoIP ports.Recent changes:Fixed: Deadlock in user interface when network is lostFixed: Deactivate proximity sensor when phone reconnectsFixed: UnsatisfiedLinkError crash Fixed: illegalStateException crash caused when trying to make a callPlease see www.3cx.com/blog/ for more information"
+p4
+tp5
+tp6
+.

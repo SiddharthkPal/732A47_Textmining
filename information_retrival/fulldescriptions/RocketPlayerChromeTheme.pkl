@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rocket Player Chrome Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Rocket Player 2.0 or higher is needed for this app to be useful.This app is a theme or skin app, which reverts the look of Rocket Player, our free android music player, back to its original chrome feel. With the Rocket Player Chrome Theme installed, Rocket Player can switch to this theme in the settings by choosing \xe2\x80\x9cChrome\xe2\x80\x9d.The Rocket Player Chrome Theme provides users with a light skin. Not everyone loves black themes, despite what some people say. :-)Should you experience any problems using this theme, or have a suggestion for more themes, please catch us on Google+ or Twitter or email us.Twitter: @JRTStudioGoogle+: https://plus.google.com/109028031207057249429Our website: www.jrtstudio.comRecent changes:Version 1.0.1* Fixes crash on start upVersion 1.0.0* Initial release'
+p4
+tp5
+tp6
+.

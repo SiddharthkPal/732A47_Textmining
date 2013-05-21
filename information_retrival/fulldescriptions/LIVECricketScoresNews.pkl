@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LIVE Cricket Scores & News '
+p1
+tp2
+(S'Description:'
+p3
+S'The official ESPNcricinfo App brings you the most comprehensive cricket coverage from around the world. Featuring all international matches, ICC tournaments and major domestic leagues including the English county championship, Indian Premier League and Champions League, the ESPNcricinfo App is the ultimate all-rounder. The customisable app includes in-depth coverage of the game including ball-by-ball commentary, breaking news, fixtures and results, incisive opinion pieces from the World\xe2\x80\x99s best cricket writers and audio and video features.**The newly designed ESPNcricinfo app is now available in geo-targeted editions, includes a new scores and fixtures section, live game experience and much more. Full feature list \xe2\x80\x93 -\t\xe2\x80\x98Improved\xe2\x80\x99 live game coverage \xe2\x80\x93 ball by ball commentary with graphics, live game switcher, full screen mode, scores, match photos and access to tournament tables and player profiles from every international game.-\tVideo highlights of all ICC World Twenty20 games for USA users ONLY.-\t\xe2\x80\x98New\xe2\x80\x99 Specials section \xe2\x80\x93 featuring a selection of ESPNcricinfo\xe2\x80\x99s Magazine along with audio and video content. -\t\xe2\x80\x98Improved\xe2\x80\x99 scores and fixtures section \xe2\x80\x93 where you can easily access matches by month, by your favourite team, major series or tournaments. -\t \xe2\x80\x98Full Screen\xe2\x80\x99 mode \xe2\x80\x93 Switch the app to full screen mode, place your Android Touch on your table and follow live scores throughout a busy work day.-\tPush notifications \xe2\x80\x93 Get instant alerts for wickets, batsman milestones and score updates during live matches.-\tVideo/Audio \xe2\x80\x93 Watch and listen to the latest ESPNcricinfo video and audio podcasts.Follow us on @espncricinfo on twitter for updates on latest headlines, or to ask questions and provide feedback.Recent changes:Changes to the Home Page design and structureImproved Scorecard experience Performance enhancement'
+p4
+tp5
+tp6
+.

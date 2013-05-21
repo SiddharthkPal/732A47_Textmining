@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TextNow '
+p1
+tp2
+(S'Description:'
+p3
+S'TextNow gives you your very own dedicated phone number with which you can text and call for free.Highlights:- Your own dedicated phone number- Send & receive unlimited texts, for free!- Make and receive voice calls- Earn credits towards calling by completing partnered offers or purchase minute packs!- Free & unlimited voice calls with other TextNow users as well as for incoming calls!- Full picture messaging: send, receive and save pictures!- Voicemail and Call Forwarding- Emoticons :-)- Signatures: append your own signature to each text- Customizable text-tone, ringtone & vibration- Customizable backgrounds- Assign individual contacts their own ringtone & background- Quick Reply to quickly and easily respond to friends- Home screen widget to quickly launch TextNow, compose a new message or make a call- Unified inbox: send and receive your native texts directly via TextNow - use TextNow as your one-stop texting app!- Real texting and calling: text and call ANY regular phone number- TextNow.com - text from your computer too! All messages seamlessly synchronize with your mobile device.Recent changes:- Unified inbox: send and receive your native texts directly via TextNow - use TextNow as your one-stop texting app!- Voicemail and Call Forwarding'
+p4
+tp5
+tp6
+.

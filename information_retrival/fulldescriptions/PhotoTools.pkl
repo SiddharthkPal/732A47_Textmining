@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo Tools '
+p1
+tp2
+(S'Description:'
+p3
+S"Photography Tools bundled in one free application. Please note that this is a tool for professional photographers with some background knowledge required. This free version is ad supported. Get the Donation version (search Photo Tools Pro) if you like it and want to support my work.  Tools available since v4.0- DOF & Hyperfocal Distance Calculator- Field Of View Calculator- Exposure Reciprocation Calculator- Flash Exposure Calculator- Multiple Exposure Compensation- Minimal Shutterspeed Calculator- Bellows Extension Calculator- Time Lapse Calculator- Timer- Stopwatch- Light Meter (using Camera & EXIF)- Sunny 16 (EV) Calculator- Blue & Golden Hour Calculator- Moon Phase & Exposure Calculator- Location Info- Weather Forecast- Graycard- Color Wheel- Color Temperature Chart- Image Histogram Viewer- Image EXIF Reader- Photo Enlargement Calculator- Sharpening Radius Estimator- Level Indicator- Check Lists- Note Pad- Grid Overlay Camera- Gallery for Inspiration- Simple Touch Paint- Web links...and many more to come!keywords: photography, photo, photographer, tool, tools, utility, help, documentation, calculator, calculatorsRecent changes:v4.11Bug #260: fix nexus 7 compatibilityBug #273: fix white text on white background for some listsBug #280: don't show keyboard on bellows extension calcSupport #278: layout optimalisationsSupport #279: example of removed calculate buttonTask #176: check if dpreview on default linksTask #263: reduce amount of themes to absolute minimum"
+p4
+tp5
+tp6
+.

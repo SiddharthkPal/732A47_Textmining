@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Anger sniper '
+p1
+tp2
+(S'Description:'
+p3
+S'The Beach Head hit online in 2000 and caused quite a sensation!Now, the hottest beach war & sniper game is coming again!Smooth control! Fancy weapons! Cool graphics! Exciting music!Switch various weapons as you like!Enjoy the fun of shooting!You must love it!Game Description:Anger Sniper is a kind of first person shooting game, you need to operate different kinds of weapons to shoot the invading enemies and protect your base.Destroying enemies can get coins, and you can buy more powerful weapons to increase your strength! Also you can strengthen your base, increase HP and repair base with coins.So, coins are very important in Anger Sniper!Soldiers, take up you weapon and fight now!Game Features:\xe2\x98\x85Unprecedented war scenes!\xe2\x98\x85A variety of weapons are waiting for you!\xe2\x98\x85The hottest FPS game theme!\xe2\x98\x85Control your soldiers to defend our base!'
+p4
+tp5
+tp6
+.

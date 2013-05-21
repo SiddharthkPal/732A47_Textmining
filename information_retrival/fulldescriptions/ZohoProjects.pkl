@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zoho Projects '
+p1
+tp2
+(S'Description:'
+p3
+S'With Zoho Projects Android Mobile App for your mobile phones, you can always stay connected from anywhere - even on the road or on that much-needed holiday. From now on, you can quickly create your tasks, view latest project updates at a blink of an eye right from your Android phones anytime.Our Android app makes your Project information available on the move and keeps you posted on the updates and progress as and when they happen through push notifications making it the best companion to the web service. Here is a brief list of the features of the App:* Get latest updates on the fly with activity feeds on all your projects* Create, view tasks and add notes effortlessly in just few easy taps* Swipe up to instantly log hours in timesheets at lightning speed right from your mobile* Quick add lets you to add status, task, file a bug and upload documents in a jiffy* New to Zoho ? Never mind, Sign up through the app and get started right away. You can also Sign in using your Google Apps accountNOTE: The app offers a FREE, full-featured access to all the modules during a 15 Day Trial period. Beyond the trial period, the App enters into Free Edition mode which lets users access Project Feeds along with Push Notifications. To access other modules in the app beyond the trial period, users need to be subscribed to the paid add-on package in Zoho Projects service. For further questions, please email us to support@zohomobile.comRecent changes:* Search Tasks* Bug fixes'
+p4
+tp5
+tp6
+.

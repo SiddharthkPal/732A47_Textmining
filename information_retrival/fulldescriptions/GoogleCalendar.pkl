@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Calendar '
+p1
+tp2
+(S'Description:'
+p3
+S"The Calendar app displays events from each of your Google Accounts that synchronizes with your Android device. You can also:- Create, edit, and delete events.- View all your calendars at the same time, including non-Google calendars.- Quickly email all event guests from a notification with a customizable message.Known issues with HTC devices:- Day and week views may not work on some HTC devices.- Notes and pictures may be removed from all calendar events, but will still be available in HTC's Notes app.- Local unsynced events may be lost after installing Google Calendar.- Notifications won't make sounds unless HTC's Calendar app is disabled.- Touching an email invitation in a mail app opens Calendar in the browser rather than the app.Recent changes:- Call and go to map directly from notifications- Location suggestion on event creation- Quick event creation from month view"
+p4
+tp5
+tp6
+.

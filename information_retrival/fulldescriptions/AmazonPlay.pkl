@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon Play '
+p1
+tp2
+(S'Description:'
+p3
+S'Online retailer of books, movies, music and games along with electronics, toys, apparel, sports, tools, groceries and general home and garden items.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Active - Sketch Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'A new Sketchy Theme with a Sketched wooden wall background - a Cool theme for Active lockscreen !Themes Provides a pleasing visual experience while using Active Lockscreen , Which offers users many features and benefits : \xe2\x80\xa2 Easy access - with one click only , you can call a contact, launch an app, play a game, browse the web, play music, get Facebook updates or just unlock your phone.\xe2\x80\xa2 Display your favorite gallery pictures, Facebook feeds and other apps of your choice while your phone is locked\xe2\x80\xa2 Set your favorite/recent contacts for easy calling even when you are on the Go.\xe2\x80\xa2 Launch your hand-picked/recently used apps \xe2\x80\xa2 Send Text messages through your SMS Inbox or any other text app such as WhatsApp, Skype, Viber, Email, Gmail, Twitter or LinkedIn \xe2\x80\xa2 Launch the Camera or any picture and graphics related apps installed on your phone such as Instagram, Mobli, Food, Adobe Photoshop ExpressThe Active Lockscreen is easy to use and is the best app for unlocking your phone - all you need to do is place your finger on the lockscreen ring and drag it to the relevant action or shortcut \xe2\x80\x93 ideal when you are on the Go.Enjoy our new background themes with matching graphics!'
+p4
+tp5
+tp6
+.

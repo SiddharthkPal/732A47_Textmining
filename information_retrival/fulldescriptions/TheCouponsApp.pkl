@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Coupons App '
+p1
+tp2
+(S'Description:'
+p3
+S"Unbelievable coupon savings and shopping deals at your favorite stores, restaurants & gas stations - coupons always at your fingertips, everywhere you go! The Coupons App - Deals features:   * Coupon WIDGET - Real-time coupons and daily deals throughout each day. Shopping has never been easier or more fun when the deals come to you!  * GAS prices - Cheapest gas at local gas stations nearby.  Gas pricing updates based on your current location - save money on gas whenever you fill up the car no matter where you are.  * BARCODE scanner  - Price comparison shopping tool.  * SHARE Coupon - Text deals & email coupons, Twitter coupons, even coupon sharing onto Facebook!  * VOICE search coupons - Fast, easy and hands-free coupon and product deal searching means it is now even easier to find exactly what you want at the lowest price available.  * SAVE Coupons - Coupon to calendar, one-tap maps navigate you to the nearest venue, phone the nearest location shown in each coupon and much more! Coupons continuously update throughout each day, it's like a fresh coupon buffet at your fingertips! Place the coupon widget onto your home screen and preview coupons instantly as they become available.  SMS Text coupon & deals - share each deal coupon with any phone. You may even text each coupon to older analog phones without The Coupons App - Deals installed & on other carriers!Search coupons and local Groupon daily deals while shopping - Coupon & deal searching even while shopping in the store checkout line.Redeeming coupons from The Coupons App offers is easy! Simply display coupon on your phone to cashier.Recent changes:* v9.14 Improvements:Reboot crash fix & others addressed following last upgrade* ADDED: Progress bar during load* Tweaked convenience features* Various minor fixes addressed* Security improvements"
+p4
+tp5
+tp6
+.

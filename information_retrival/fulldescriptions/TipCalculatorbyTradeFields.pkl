@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tip Calculator by TradeFields '
+p1
+tp2
+(S'Description:'
+p3
+S"A simple yet stylish Tip Calculator designed to be easy to use.A big virtual keyboard does not require rotating the phone.The perfect companion every time you need to calculate a tip or divide a meal between your friends.Buy the Pro version if you don't like adds!For those worried about the permissions requested by the app, please know that they are there because they are required by the advertisement providers (Mobclix and Mobfox)Keywords: tip calculator calc propina tax iva impuesto comida cena almuerzo meal calculadora check mozo waitress dinero plata money cuenta change cambio round rounding redondeoRecent changes:-A few minor bug fixes-Added new permissions for new Ad provider (Mobclix)"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Daleeli \xc3\x98\xc2\xaf\xc3\x99\xe2\x80\x9e\xc3\x99\xc5\xa0\xc3\x99\xe2\x80\x9e\xc3\x99\xc5\xa0 '
+p1
+tp2
+(S'Description:'
+p3
+S'Welcome to Daleeli Android Application Daleeli ... Saudi Directory for all Business & Services Caught in traffic and need to find a phone number or address? Just heard about a great new restaurant or Hotel and need the phone number or address? Looking for the nearest branch of your bank? just looking for a shopping mall anywhere in Saudi Arabia ? Look no further than Daleeli for Android.Finding virtually any business listing in Saudi Arabia just got a whole lot easier with Daleeli. Simply Tap on the Daleeli Icon and you are on your way! Using Daleeli for Android is as simple as 1, 2, 3\xe2\x80\xa6 taps on your mobile screen \xe2\x80\xa6.Tap on the Daleeli Icon, Enter the Business Name, Category, Keyword or Brand you are looking for.......select the location \xe2\x80\xa6.Tap on FIND. Don\xe2\x80\x99t just search\xe2\x80\xa6find!'
+p4
+tp5
+tp6
+.

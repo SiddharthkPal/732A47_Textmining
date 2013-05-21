@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Try-out UAN SD '
+p1
+tp2
+(S'Description:'
+p3
+S'(Indonesian ONLY)Tryout UAN SD adalah aplikasi untuk mempersiapkan siswa SD menghadapi Ujian Akhir Nasional.FITUR:1. Informasi Tingkat Kesulitan pada Setiap soal: Setiap soal memiliki tingkat kesulitan yang diukur dan di-update secara otomatis melalui data statistik. Informasi ini berguna bagi proses pembelajaran siswa di mana siswa (dan orang tua) dapat mengetahui posisi "knowledge" siswa dibandingkan dengan siswa lain. Sebagai contoh: Tingkat kesulitan 25% berarti hanya 25% dari siswa menjawab salah, 75% siswa menjawab dengan benar. Hal ini mengindikasikan soal tersebut cukup mudah, dan siswa yang sedang berlatih soal dapat mengukur kemampuan dirinya terhadap seluruh populasi siswa. Minimal siswa bisa memiliki komentar seperti "masa sih saya tidak bisa jawab soal semudah ini" atau "ini soal sulit, pantas saya tidak bisa jawab".2. Set Soal Tryout Ujian dengan tingkat kesulitan berbeda.Terdapat 3 set ujian dengan tingkat kesulitan berbeda: Mudah, Sedang, Sulit.Set ujian terisi dan terurut secara otomatis oleh sistem berdasarkan tingkat kesulitan soal. Soal nomor awal selalu lebih mudah dibandingkan dengan soal nomor akhir.Ujian dengan tingkat kesulitan mudah akan mengeluarkan 15 soal termudah dari database (yg statistiknya selalu ter-update). Set soal ini berguna bagi siswa pemula atau yang belum pernah mencoba latihan ujian.Ujian dengan tingkat kesulitan sulit akan mengeluarkan 15 soal tersulit dari database (yg statistiknya selalu ter-update). Set soal ini berguna bagi siswa yang sudah siap ujian dan hendak mengukur kemampuan dirinya terhadap soal-soal tersulit yang akan dihadapi.Ujian pada tingkat kesulitan normal akan mengeluarkan 15 soal secara acak dengan tingkat kesulitan tersebar (soal tetap ditampilkan terurut dari mudah ke sulit). 3. Adaptive Test.Siswa dapat berlatih dengan menggunakan modus adaptive. di manaJika siswa menjawab soal dengan benar, maka dia akan diberikan soal lebih sulit pada soal berikutnya.Jika siswa menjawab soal dengan salah, maka dia akan diberikan soal lebih mudah pada soal berikutnya.Pada akhir latihan ujian, siswa akan terhenti pada satu titik level di mana mengindikasikan kemampuan tertinggi siswa dalam menghadapi soal ujian. Sebagai contoh, jika siswa menggunakan adaptive test dan berakhir pada level 75%, berarti si siswa cukup pintar dan mengungguli 75% populasi.4. Jumlah Bank Soal : 2200+Recent changes:- perbaikan corrupted test- support android Jelly Bean 4.2'
+p4
+tp5
+tp6
+.

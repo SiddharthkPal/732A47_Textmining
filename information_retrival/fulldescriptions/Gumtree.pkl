@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gumtree '
+p1
+tp2
+(S'Description:'
+p3
+S"Where millions of buyers meet millions of sellers!  Boom!Our app lets you search nearly 2 million classified ads for stuff to buy, a car, a job, a place to live, and much, much more. You can also post ads to the site with just a few clicks. Success!***Over 500,000 people have downloaded the Gumtree app already***What's in the app?- Search 1000s of classifieds in your local area.- See full ads with hi-res photos.- Call, SMS or Email sellers with just one click.- Share ads on Twitter, Facebook and more.- Saved Searches.- Save ads to your Favourites list.- Post ads with pictures from within the app.- View and delete your ads.As ever, there\xe2\x80\x99s still lots more to work on, so keep in touch if there\xe2\x80\x99s anything that you\xe2\x80\x99d like to talk to us about. Your feedback is always useful in making things better.Follow us on facebook.com/gumtree or tweet us @gumtreeRecent changes:- View and delete your ads (you'll be able to edit your ads soon).- Improved performance and a couple of minor bug fixes."
+p4
+tp5
+tp6
+.

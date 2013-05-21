@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WordReference.com dictionaries '
+p1
+tp2
+(S'Description:'
+p3
+S'100% free application.WordReference.com\'s dictionaries:English to and from: Spanish, French, Italian, Portuguese, Polish, Romanian, Czech, Greek, Turkish, Japanese, Chinese, Korean and ArabicConjugators: Spanish, French and ItalianPlus Spanish definitions and synonyms.All comments suggestions and ideas are welcome!  We are looking for ideas to improve it.  Please click the link at the bottom of the screen to write us.NOTE: Requires internet access.WordReference is often misspelled "Word Reference" in searches.Recent changes:Bug fix - star overlapping text'
+p4
+tp5
+tp6
+.

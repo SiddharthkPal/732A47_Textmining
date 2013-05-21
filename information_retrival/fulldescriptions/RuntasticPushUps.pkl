@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Runtastic Push-Ups '
+p1
+tp2
+(S'Description:'
+p3
+S"Your personal push-up trainer that helps you reach your exercise and strength training goals with an efficient, easy-to-follow plan.Think it can\xe2\x80\x99t be that easy? Let Runtastic convince you otherwise! With the free Runtastic PushUps App, you can achieve your fitness goals NOW. You will be motivated to workout harder, strengthen your muscles, and you will have fun in the process! Not only will your push up capacity improve, you\xe2\x80\x99ll also realize results in your overall fitness and your overall strength training capacity (i.e. bench press).This app is your personal push-up trainer, intent to help you build strength in your arms, pecs, and core.Unique recognition of your push ups: The recognition of your push ups is done automatically via proximity sensor on your smartphone or tablet, or by touching the screen with your nose.FEATURES:* One level with a sport science training plan* Count of completed push ups via proximity sensor, or* Count of completed push ups by touching the screen with the nose* Automatic countdown timer for your break between sets* Voice Coach* Personal records and exercise statistics recorded and saved (i.e. monthly training statistics)* Upload workout activities to the Runtastic fitness site for future review, analysis, and comparison* Integrate Runtastic activities to your MyFitnessPal account* Social media sharing: Share your strength and personal records with friends via Facebook, Google+, Twitter, and E-mail.And don't forget about the amazing fitness community Runtastic has built for all users on Runtastic.com, and on our various social media platforms! All users are welcome to upload exercise data to his/her online fitness profile and take a look at all workout activity, training progress, and comparisons with friends!Further strength training info and workout tips are provided by Runtastic's Fitness Coach, Lunden, on the NEW YouTube Runtastic Fitness Channel! Check it out here: http://www.youtube.com/runtasticfitnessDownload the free Runtastic PushUps App today to get fit, stay fit, and feel fantastic! #pumpitKeywords: pushups, workout, exercise, core, strength, training, muscles, bench press, triceps, fitness, push up, push ups, push-up, pecs, free"
+p4
+tp5
+tp6
+.

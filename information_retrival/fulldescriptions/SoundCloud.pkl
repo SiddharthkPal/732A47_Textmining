@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SoundCloud '
+p1
+tp2
+(S'Description:'
+p3
+S"Hear fresh tracks from the world's largest community of musicians, bands, producers and audio creators of all types. Play great free music straight from the cloud.SoundCloud is the world\xe2\x80\x99s leading social sound platform, with over ten hours of music & audio posted every minute. Tap into a world of fresh new audio; find great music, comedy, news and more. With the SoundCloud app for Android, you can hear anything, wherever you are.  All of the great music & audio on SoundCloud is free to listen to, with no ads and no monthly payment plan required.Key features: \xe2\x9c\x93 Search and discover new music & audio \xe2\x9c\x93 Discover and follow diverse music & audio creators \xe2\x9c\x93 Listen to sets (collections of tracks), or create your own and share them with your followers\xe2\x9c\x93 Listen to a stream of new tracks wherever you are; streaming audio playback over WiFi or cellular data connection\xe2\x9c\x93 Record your own sounds with one touch and share to Facebook, Twitter, and Tumblr\xe2\x9c\x93 Includes optional Record Widget for the homescreen\xe2\x9c\x93 Lockscreen playback supported (play, pause and skip tracks without unlocking the screen)How to use SoundCloud:SoundCloud brings you the very best new music & audio direct from the creators themselves.  Find and follow your favourite bands, singers, DJs, producers, radio stations and podcasters so that their latest tracks, sets and recordings appear in your stream.Sharing your favourite music and audio to social networks is simple and fast; post tracks to Facebook, Twitter and Tumblr so your friends can listen to them too.Discovering great new music has never been simpler. Use the powerful search feature to search for specific people, sounds or sets.  Whether you are seeking dubstep, R&B, classical music or the latest news & current affairs, you can find it on SoundCloud.Recent changes:\xe2\x9c\x93 Sets are here!  Sets (collections of tracks) appear in your stream when posted by others. Listen to sets posted by others, or create and share your own\xe2\x9c\x93 Add tracks to sets: build collections of your favourite music & audio\xe2\x9c\x93 Search for sets: new filter in the search tab lets you search specifically for setsv 2.5.3- Fixed aggressive uri handling"
+p4
+tp5
+tp6
+.

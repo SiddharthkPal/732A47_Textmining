@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Daily Ab Workout FREE '
+p1
+tp2
+(S'Description:'
+p3
+S'Daily Ab Workout FREE is a great 5 to 10 minute daily ab routine for men and women that steps you through ten of the best ab-sculpting exercises. These proven exercises, demonstrated by a certified personal trainer, target all major abdominal muscles. Spending just minutes a day can strengthen your core and tone your abs. The routine\'s simple interface, complete with video and timer, allows you to easily follow along and understand each exercise. *If you like Daily Ab Workout FREE, check out the full version which features: \xe2\x80\xa2 A second and third workout to vary up your routine \xe2\x80\xa2 Randomize feature for different daily workouts \xe2\x80\xa2 Landscape mode and ad-freeOR \xe2\x9e\xa4\xe2\x9e\xa4\xe2\x9e\xa4 Check out "DAILY WORKOUTS" full version for multiple workouts including ab, arm, butt, cardio, leg, full-body and more coming soon!!!Recent changes:- Minor enhancementsThanks for using the Daily Workout Apps!www.dailyworkoutapps.comFacebook:    facebook.com/DailyAbWorkoutApp Twitter:        twitter.com/danielmillerapp'
+p4
+tp5
+tp6
+.

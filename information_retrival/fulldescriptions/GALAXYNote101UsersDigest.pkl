@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GALAXY Note 10.1 User\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s Digest '
+p1
+tp2
+(S'Description:'
+p3
+S'*Note, this application is designed to work best on the Galaxy Note 10.1 Are you a GALAXY Note 10.1 User?   If you want to use the Galaxy Note 10.1 more effectively, Download the free interactive \xe2\x80\x9cUser\xe2\x80\x99s Digest\xe2\x80\x9d to learn how to enjoy smart all the amazing features in your Samsung GALAXY Note 10.1. This application aims to provide helpful instructions for a variety of Galaxy Note 10.1 functions and features.   Chapter 1.  How to set up           : Basic set up guide Chapter 2.  S Pen           : S Pen input function Introduction.  Chapter 3.  S Note           : Basic guide & tips on how to make your S Note               with S Pen.            : Introduction of Shape Match & Formula Match Chapter 4.  Multiscreen           : What is Multiscreen?,           : How to enjoy the Multiscreen for your easy             multitasking Chapter 5.  Multimedia           : Introduction of Pop up play, Live thumbnail,            Chapter preview & Music square Chapter 6.  Photoshop \xc2\xae Touch           : What is the Photoshop \xc2\xae Touch & how to use it. Chapter 7.  Optimized Apps           : S Pen Optimized Apps Introduction Chapter 8.  Services           : Samsung Service Introduction Samsung, and its directors, employees, agents, representatives, suppliers, partners and content providers do not warrant the following list.- The service will be secure or available at any particular time or location.- Any defects or errors will be corrected.- Any content or software available at or through the service is free of viruses or other harmful components.- The results of using the service will meet your requirements. - Your use of the application, service, content and add-to link is solely at your own risk. - Some regions / countries do not allow limitations on implied warranties, so the above limitations may not apply to you.'
+p4
+tp5
+tp6
+.

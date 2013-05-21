@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Tracks '
+p1
+tp2
+(S'Description:'
+p3
+S'My Tracks records your path, speed, distance, and elevation while you walk, run, bike, or do anything else outdoors. While recording, you can view your data live, annotate your path, and hear periodic voice announcements of your progress. With My Tracks, you can store your tracks with Google Drive, Google Maps, Google Fusion Tables, or Google Spreadsheets, or export your tracks to external storage. With Google Drive, you can also sync your tracks, share tracks with friends, and see the tracks your friends have shared with you. With Google Maps, you can share the map url with friends via Google+, Facebook, Twitter, etc. With export to external storage, you can select GPX, KML, CSV, or TCX format. My Tracks uses the GPS sensor in your device to record geographic and velocity statistics, but the app also syncs with third-party biometric sensors, including: - Zephyr HxM Bluetooth heart rate monitor - Polar WearLink Bluetooth heart rate monitor - ANT+ heart rate and speed distance monitors (these require an ANT+ compatible phone) My Tracks is an open source project. If you like to contribute, please visit: https://code.google.com/p/mytracksRecent changes:- sync with Google Drive - share via Google Drive - view tracks shared with me - import kml files - add lock screen widget - send Google feedback'
+p4
+tp5
+tp6
+.

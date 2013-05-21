@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Barcode Scanner '
+p1
+tp2
+(S'Description:'
+p3
+S'Scan barcodes on products then look up prices and reviews. You can also scan Data Matrix and QR Codes containing URLs, contact info, etc.Also share your contacts, apps, and bookmarks via QR Code. This is why contacts permissions are needed. See FAQ below.Recent changes:* Disabled exposure control as it caused problems on several buggy devices.* Other small bug fixes.'
+p4
+tp5
+tp6
+.

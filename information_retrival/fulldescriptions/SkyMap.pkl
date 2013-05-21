@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sky Map '
+p1
+tp2
+(S'Description:'
+p3
+S'Open sourced and donated by Google.Find us elsewhere:http://goo.gl/XWjRg (Google Plus)http://groups.google.com/group/google-sky-maphttp://twitter.com/skymapdevsKeywords: planetarium, astronomy, skymapRecent changes:Minor bugfix.1.6.3:Added meteor showers.'
+p4
+tp5
+tp6
+.

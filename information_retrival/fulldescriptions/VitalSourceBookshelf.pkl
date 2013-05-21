@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VitalSource Bookshelf '
+p1
+tp2
+(S'Description:'
+p3
+S'Please note that all users must upgrade to Bookshelf 1.4.2.  If you are not using Bookshelf 1.4.2 for Android you will be unable to download VitalSource Textbooks to your Android Devices.We understand that access to your textbooks is critical so if you have any problems or issues with this application, please contact our support group for assistance. In the US/Canada please call: 1-855-200-4146International users please use or chat line located at: http://support.vitalsource.com/kb/cts/contacting-vitalsource-supportUse VitalSource Bookshelf\xc2\xae to access and download eTextbooks from the world\xe2\x80\x99s leading publishers on your Android phone or tablet. Through Bookshelf\xe2\x80\x99s Android mobile application, you can to leaf through pages; browse content, figures, and notes; filter search results; and share notes and highlights. VitalSource Bookshelf is the only e-textbook platform available online, on tablets, smart phones, laptops, and desktops offering full online and offline access to all the eTextbooks available in a your libraryFeatures\xe2\x80\xa2Complete portability\xe2\x80\xa2Simple, user-friendly navigation and reading\xe2\x80\xa2Search inside a book or across all books\xe2\x80\xa2Browse contents, figures, and notes and filter search results for each\xe2\x80\xa2Tap to open figures and pinch to zoom\xe2\x80\xa2Notes and highlights sync across desktop and online versions of Bookshelf \xe2\x80\xa2Ability to jump to a specific part of a book using the page number from the printed book\xe2\x80\xa2Access same content as the print editionWe understand that access to your textbooks is critical so if you have any problems or issues with this application, please contact our support group for assistance. android.help@vitalsource.comRecent changes:-Bug fixes and performance enhancements.'
+p4
+tp5
+tp6
+.

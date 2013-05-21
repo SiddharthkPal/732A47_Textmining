@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart AudioBook Player '
+p1
+tp2
+(S'Description:'
+p3
+S'The program is designed specially for playing audio books.Assumed that you have audiobooks and already copied them to your phone.First 30 days Full version. Later - Basic version.Features:+ Playback speed control.+ Classification of books (new, started, finished).+ Download cover from the Internet.+ List of characters, makes it easier to follow the story.+ Automatic pause in case you fall asleep. To continue playback just shake your phone.+ Playback history.+ Application Widget. Allows you to control the player from the home screen.+ By specifying a root folder containing all your audiobook, you can exclude your folders which contains music and other audio files.+ You don\'t have to finish one book to start another. The progress is saved independently for all books. + NO ADS!To purchase (restore after reinstalling) full version press:menu->About->PurchasePhone must be connected to the Internet.Full version cost is $2.Many thanks to people who left comments and suggestions.If you have something that doesn\'t work please write an email instead of leaving a comment.TAGS: audiobook, audiobooks, audio book, audio books, audiobook player, audiobooks player, player, podcast, folder player, MortPlayer, Ambling, playback speed, Presto, Audible, ListenRecent changes:+Fixed multiple Library instances.+Write current playback position to "position.sabp.dat" file in every folder. This allows to migrate from one phone to another. Just replace SD card.+Bookmarks and Character lists were moved to "bookmarks.sabp.xml" and "characters.sabp.xml". This helps manual editing on PC.+Long press on book in Library to merge few folders of one book. For example Disk1, Disk2, Disk3.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Color Grab '
+p1
+tp2
+(S'Description:'
+p3
+S'* Color-Grab lets you pick, detect and recognize colors instantly using the camera. * The app is designed for graphic designers and visually impaired colorblind (handy color meter & color picker).* Color name, Hue, RGB and HSV representation.  [+] Real-time color diagnosis (no click-2-capture is required). [+] Smart color stabilizer. [+] Smart auto-focus. [+] Camera flash light control (on/off). [+] Supports all devices\' cameras (rear and front). [+] Instant color picking and saving. [+] Supports sharing and exporting of captured colors (Twitter, Facebook, ...). [+] Display Color hue, Color name, RGB Hex, RGB Decimal, CMYK and HSV representation. [+] Up to 1300 colors and 16 basic color categories.  [+] Use captured colors as solid wallpaper. [+] Enhanced screen brightness for better color visualization (configurable in "Settings"). [+] Embedded help.Designer: you can instantly pick, diagnose and collect colors into palette list archive.Visually Impaired and colorblind people: the app will recognize for you what is the color of any viewed object.Handy color picker and meter fits to your needs,It\'s free - no Ads.We hope you will find it useful,- Loomatix Team.Disclaimers:1) The app binary file includes color names and RGB values based on Resene colors     list. The Resene colors, RGB values and list are copyrighted to Resene Paints Ltd, 2001.2) Due to technical limitations (such as camera sensor, light conditions, AWB), the detected color may be different from the actual one.Recent changes:- Add option to enhance screen brightness when using the app for better color visualization.- Include CMYK color representation in real-time dash (configurable in "Settings" dialog).- Fix minor issues.'
+p4
+tp5
+tp6
+.

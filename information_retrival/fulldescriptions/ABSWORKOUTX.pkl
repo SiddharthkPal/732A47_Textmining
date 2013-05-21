@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ABS WORKOUT X '
+p1
+tp2
+(S'Description:'
+p3
+S'*** LIMITED TIME ONLY!!! SPECIAL LAUNCH PRICING LIMITED TIME OFFER *** Want the ultimate abs workout to getting ripped six-pack abs? Then this is the ONLY app you will need to get the abs you wanted. HERE\'S WHAT YOU GET ==================== Features : 8 Beginner Exercises Free 8 Intermediate Exercises (Watch video carefully to see intermediate exercise variation) 8 Advanced Exercises (Watch video carefully to see advanced exercise variation) For 24 Total Rock-Solid Ab Exercises! Pre-Set workouts with 3 difficulty settings Personal Coach with Voice Instructions HIgh Quality HD Videos Developed by a Certified Personal Trainer HERE\'S WHAT PEOPLE ARE SAYING ============================= \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 - "The ab workout I was waiting for" \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 - "Damn, this stuff actually works" \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 - "I\'m actually starting to see a six pack!" HERE\'S WHY YOU NEED IT ====================== Ab Workout X is the only app you\'ll need to get a Six Pack and Burn that Belly Fat. We have the most user-friendly interface that allows you to follow along and do an ab workout at your level and pace. Our proven system allows you to strengthen your core and abdominal muscles in just minutes per day. Download your copy of the Abs Workout X Pro App now!'
+p4
+tp5
+tp6
+.

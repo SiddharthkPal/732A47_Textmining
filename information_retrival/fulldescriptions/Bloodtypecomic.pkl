@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Blood type comic '
+p1
+tp2
+(S'Description:'
+p3
+S'How much you know about the blood type? They believe the number? We know that people think of the different blood types, personality, interpersonal treatment are more or less have some differences, different blood type implies a kind of charisma in the end it? Which of which category you belong to it? More detailed cognitive blood type, may help us better understand and improve themselves. The comic will recite the mysteries of life, different blood types.How much you know about the blood type? They believe the number? We know that people think of the different blood types, personality, interpersonal treatment are more or less have some differences, different blood type implies a kind of charisma in the end it? Which of which category you belong to it? More detailed cognitive blood type, may help us better understand and improve themselves. The comic will recite the mysteries of life, different blood types.'
+p4
+tp5
+tp6
+.

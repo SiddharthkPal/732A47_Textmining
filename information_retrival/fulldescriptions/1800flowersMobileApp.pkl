@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'1800flowers Mobile App '
+p1
+tp2
+(S'Description:'
+p3
+S"Part of what makes a great gift is timing. Now when you're on the go, you can order from the all new 1-800-FLOWERS Mobile Gift Center! Download our free application to your Android phone today to shop anywhere, anytime, and find the perfect flowers and gifts including:Birthday Gifts: Never miss that special day again. Faster than a phone call, your gift and good cheer will be on their wayLast-Minute Gifts: Order for same-day delivery directly from you mobile device.Business Gifts: Send a gift from 1-800-FLOWERS before, immediately after, even during a meeting.Romantic Gifts: Send flowers from the airport, the train, or any time your sweet someone crosses your mind.Sympathy: Let them know they are in your thoughts during a difficult time.Just Because: Flowers can brighten any one's day!1-800-FLOWERS Mobile Gift Center features include:-Special selection of best selling flowers-Streamlined browsing and checkout process-Exclusive offers for our mobile users-Secure Checkout-One Click ServiceRecent changes:This is a major release with improvements in design, usability, stability and less crashes."
+p4
+tp5
+tp6
+.

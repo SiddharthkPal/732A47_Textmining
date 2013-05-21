@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Official IndiaMART App '
+p1
+tp2
+(S'Description:'
+p3
+S"IndiaMART.com is India's largest online B2B marketplace for Small & Medium Size Businesses, connecting global buyers with suppliersKey Features:\xe2\x80\xa2\tConnect with 1.2 million suppliers and 6.5 million buyers for your business.\xe2\x80\xa2\tEasily search millions of products on our app with wide range for search options.\xe2\x80\xa2\tAccess information for thousands of suppliers and send business enquiries directly from your phone.Recent changes:IndiaMART App version 1.11) Preservation of page view whenever the orientation is changed from landscape to portrait or vice-versa.2) Two more menu options have been added - 'Home' and 'Exit'.3) Exclusion of permission i.e. 'Services that cost you money'.4) Support for tablet has been added.5) Minor UI tweaks.IndiaMART App version 1.21) Support for 2.3 android OS.2) Performance related changes."
+p4
+tp5
+tp6
+.

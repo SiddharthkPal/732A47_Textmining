@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yoga for Weight Loss I (Plug) '
+p1
+tp2
+(S'Description:'
+p3
+S"This is a plugin of 'Daily Yoga (All-in-One)', and is available only to subscribers. *** This app does not open on its own. ***Please first install the main app 'Daily Yoga (All-in-One)' from Google Play before using this plugin:http://goo.gl/yuDqJor you can download from our homepage:http://www.dailyyoga.comYoga for Weight Loss I is an easy-to-learn yoga session with many simple variation poses specially designed for beginners. The soothing training is instructed by our senior yoga pros Sophie. This session is suitable for people of all levels. No complicated posture will be involved. Get the best rewards by dripping with sweat and being totally activated. 20 to 25 min per day will help you gain the fastest results through yoga."
+p4
+tp5
+tp6
+.

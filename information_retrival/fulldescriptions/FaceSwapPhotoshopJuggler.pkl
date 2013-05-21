@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Face Swap - Photoshop Juggler '
+p1
+tp2
+(S'Description:'
+p3
+S"Flip, Zoom, Rotate, Resize, Delete, Filter & Automatically Swap Faces with FacePLANT.- Awesome app to use with friends, family or even your favourite celebrities.- Automatically detects faces and plants onto another face.- Images able to be shared via Facebook, Twitter and Email.- Images able to be saved to Photo Library.The free version of FacePLANT only allows 2 faces to be swapped.*****The full version of FacePLANT now includes Multi/Single Plant ability (Multi Plant - Swaps all faces and plants them onto other people in the photo. Single Plant - Uses one face and plants it onto everybody in the photo.)*****The paid version also allows 2 or more faces to be swapped and shared via Facebook, Twitter and Email. The Planted image may be saved to the Photo Library and also to the Favourites tab. Advertisements are removed on purchase of the full version.*****Note - If you are using the Samsung Galaxy Nexus (Maguro & Toroplus) please ensure your images are well lit and the faces are looking at the camera*****Here are a few tips to ensure you get the best out of your face swap app:- Use images that have the faces looking at the camera- Try to use images that are well light (shadows on the face may result in poor face detection or not detect any faces at all)- Although the face swap app will generally work when people wear sunglasses it is not recommended- The further away from the camera your faces are the less likely they will be usable in the FacePLANT Free - Face SwapTags: iSwap faces, face changer, face mixer, swap face, face swapper, face switch, face juggler, facebomb, face blender, face swap, single, multi, plant, gangnam, style*****************************************Website - www.frozenmonkeyapps.comEmail - frozenmonkeyapps@gmail.comFacebook - www.facebook.com/FroMoAppsTwitter - www.twitter.com/@FroMoAppsRecent changes:Version 1.2.4Thanks for all the support, to show some appreciation check out the new features: - Choose different effects - Add stickers to your images to make them even more funny - Change the image orientation - Crop the image - Adjust the brightness, contrast, saturation and sharpness of the entire image - Draw on the image - Add text to the image - Create Meme's - Minor bug fixes And many more!"
+p4
+tp5
+tp6
+.

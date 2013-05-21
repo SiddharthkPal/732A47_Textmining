@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cat Sounds '
+p1
+tp2
+(S'Description:'
+p3
+S'Cat Sounds contains 45 different sounds of cats, so you can listen to them at any time, without a data connection!Want to play with your cat or confuse him? Or maybe you just want to hear some cat sounds? Whatever the reason you have, you will get a nice collection of cat sounds: meowing, hissing, growling, purring, angry cats, little kittens, etc. Apart from playing them, you can also do the following:* Define a set of sounds as favorites, so you can access them quickly.* Define them as notification, phone, alarm or contact ringtones.* Send them through WhatsApp, e-mail or MMS.* Add sounds as widgets on the desktop.* Play random sounds.* Use the Prank Mode to play with your cat (or maybe your dog, who knows!). The sound will play when you (or your cat) move your phone.WARNING! Widgets will only work if the application is installed on the internal memory! If you install it on the SD card, you will not be able to add any widget, and the existing ones may show errors or disappear (it\'s not our fault, Android works this way).Permissions explanation:* Modify SD/USB storage contents: to be able to copy it to the SD card or USB storage and write temporary files when sharing sounds* Total Internet access and view network state: AdMob ads, anonymous statistics and access to the "Most popular" list* Read and write contacts data: to be able to set ringtones for specific contacts (we don\'t do anything more with your contacts!)* Modify system settings: to be able to set ringtonesVersions note:* Users with Android 2.2 or newer have access to the latest version.* Users with Android 2.1 or below have access to version 3.3.2.1 (24/08/2012), newer versions are not compatible.Recent changes:Version 3.7.2.1:-Fix for tabs not being clickable on Android -Reduced app size by 300KB.-In tablet devices, tabs are now correctly displayed on portrait orientation-Modified list refreshing, it had issues on some phones.-Prank mode now hides the software buttons and closes with just one move.-Fixes for several other reported crashes'
+p4
+tp5
+tp6
+.

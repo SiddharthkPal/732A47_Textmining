@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Price Check by Amazon '
+p1
+tp2
+(S'Description:'
+p3
+S'Use Price Check to scan a barcode, snap a picture, or type or say an item name to check prices instantly on millions of Amazon products and buy it directly from the app. And to make in-store price comparison even better, we\xe2\x80\x99re introducing a new price sharing feature that helps ensure our prices remain competitive for our customers. Search for products using four easy methods: \xe2\x80\xa2 Scan a barcode: Amazon\xe2\x80\x99s barcode scanner will match your item and provide Amazon and merchant product pricing in seconds.\xe2\x80\xa2 Snap a picture: This app uses Amazon\xe2\x80\x99s photo matching algorithm to instantly match your picture to books, DVDs, CDs, video games, and more. \xe2\x80\xa2 Say the product name: Speak your search queries and use voice search to return accurate product matches and Amazon\xe2\x80\x99s pricing.\xe2\x80\xa2 Type your search: Type the product name to retrieve instant matches.\xe2\x80\xa2 Buy directly from the app: Buy with confidence and complete a secure purchase directly from the app.Price Check provides access to Amazon.com product descriptions and customer reviews to guide you in making informed purchase decisions. When you find a low price while using the Price Check app, simply log into your Amazon account to complete a secure purchase. Price Check also supports add to Wish List; sharing via Twitter, Facebook, text message or e-mail link; immediate purchasing using 1-Click ordering and Amazon Prime. All products are from the US catalog; all prices are in US dollars. Price Check is compatible with Android devices with auto-focus cameras and Android 2.1 or greater.The categories available within Price Check include: Books, Textbooks, Movies, Music, Video Games, CDs, Electronics, Home & Garden, Automotive, Baby, Beauty, Camera & Photo, Cell Phone & Services, Clothing, Computers, Grocery, Health & Personal Care, Home Improvement, Industrial & Scientific, Jewelry, Kindle, Kitchen & Dining, Magazines, Music Instruments, Office Products, Patio & Garden, Shoes, Software, Sports & Outdoors, Video, & Watches.* Copyright: \xc2\xa9 2011 Amazon.com and its affiliates.Recent changes:Bug fixes.'
+p4
+tp5
+tp6
+.

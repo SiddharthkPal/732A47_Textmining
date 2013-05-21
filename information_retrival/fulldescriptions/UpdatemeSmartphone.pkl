@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Update me Smartphone '
+p1
+tp2
+(S'Description:'
+p3
+S'IF THIS APP IS NOT COMPATIBLE WITH YOUR ROM OR A ROM FOR YOUR HARDWARE IS NOT IN THE COMPATIBILITY LIST, PLEASE DON\'T LEAVE A BAD COMMENT IN THE MARKET BUT ASK TO THE ROM DEVELOPER TO MAKE IS ROM COMPATIBLE, IS FREE AND VERY EASY, I\'M NOT A ROM DEVELOPER!!!i have created the app "Update me" for help all rom makers.With this app you can easily configure a system for automatic check rom update, plugin, theme, ecc.What makes this application?- Check for new rom available (works)- Show list of kernel which can be downloaded, download it and reboot to recovery (works)- Show list of plugin which can be downloaded, download it and reboot to recovery (works)- Show list of themes which can be downloaded, download it and reboot to recovery (works)- Check md5 for download file (works)- Check new rom on startup (works)- check new rom every hours (works)- for all android version > 2Link for xda threadhttp://forum.xda-developers.com/showthread.php?t=1590170How to configureThe program is easily to configure.in your rom you need only a file named update_me.xml in the system folder.and 2 other file must to be placed online:- a file with rom info for check new rom availability- a file with element for rom.for info go to xda threadSupported file host- direct download file host- public folder on dropbox, box.net, etc- goo.im- xdafileserver.nlCompatible roms- OpenSensation http://forum.xda-developers.com/showthread.php?t=1494373- Brainmaster\'s CM9 & Black CM9  http://forum.xda-developers.com/showthread.php?t=1588799- Spartan Rom http://forum.xda-developers.com/showthread.php?t=1375991- Sensation & XE GhostXSeries http://forum.xda-developers.com/showthread.php?t=1528751- Slim ICS http://www.slimroms.comIf the app is not compatible with your rom ask to the room maker, it\'s easy to configure ;DRecent changes:2.0.3bug fix2.0.2[add][donated version] Disable push notification[add]  tag in xml or updateme.cwmflipsdcard in build.prop for enable cwm flip sd card for default'
+p4
+tp5
+tp6
+.

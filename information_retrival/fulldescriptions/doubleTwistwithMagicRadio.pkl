@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'doubleTwist with Magic Radio '
+p1
+tp2
+(S'Description:'
+p3
+S'"The Cure for iTunes withdrawal" -- New York TimesAre you tired of using multiple apps for things that your iPod could do out of the box? Download doubleTwist Player and get the best all-in-one music, podcast, radio, video & sync app:\xc2\xa0\xe2\x99\xac Enjoy Magic Radio, a personalized streaming service that seamlessly blends music from your music library with new music uniquely tailored to your musical taste from a catalog of over 13 million songs.\xe2\x99\xac Sync music (including iTunes playlists) to your phone from your Mac/PC over USB or AirSync over WiFi.\xe2\x99\xac Download legal, high-quality album artwork for your music.\xe2\x99\xac Smart Playlists for easy access to your Top Rated and Most Played songs.\xe2\x99\xac Subscribe to podcasts without needing a Mac/PC and get new episodes downloaded automatically over 3G or WiFi.\xe2\x99\xac Stream music, videos and photos to the Xbox 360, PS3, Sonos, and Apple TV (black model; AirPort Express not yet supported).\xc2\xa0doubleTwist Player is a free download and there is a choice of in-app upgrades for premium features such as AirSync and podcast management. Alternatively, you can upgrade to doubleTwist Pro and get the three premium features bundled together at a discount.\xc2\xa0doubleTwist is handmade with \xe2\x9d\xa4 in San Francisco.\xc2\xa0Need help with doubleTwist? http://doubletwist.com/help/\xc2\xa0If you have comments or feedback on our app, or need additional support, please visit http://doubletwist.com/contact/. Thanks!\xc2\xa0The free companion doubleTwist desktop app requires MacOS X 10.5 or higher on your Mac, or WinXP SP3 / Vista SP2 / Windows 7 on your PC.\xc2\xa0Use of this app is subject to the doubleTwist Terms of Use and Privacy Policy: http://doubletwist.com/legal/For additional information on requested app permissions: http://twist.to/JXw4fERecent changes:New in v2.0.2:\xe2\x99\xac Fixed an issue with podcast skipping.New in v2.0.1:\xe2\x99\xac Player no longer judges your music taste by automatically skipping to the next track when you play lousy tracks ;)New in v2.0.0:\xe2\x99\xac Introducing Magic Radio, a personalized streaming service that seamlessly blends music from your music library with new music uniquely tailored to your musical taste from a catalog of over 13 million songs. Currently US only.'
+p4
+tp5
+tp6
+.

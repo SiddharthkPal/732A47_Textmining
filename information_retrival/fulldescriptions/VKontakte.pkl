@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VKontakte '
+p1
+tp2
+(S'Description:'
+p3
+S'Official client for VK.com, the all-purpose tool for communication and finding friends. Featuring in this version:- Newsfeed and Friends- Photo and Location Sharing- Private Messages and Group Chats- Music- User profiles- Photo albums- Contacts sync- WidgetsRecent changes:- Added support for public polls- Fixed some bugs'
+p4
+tp5
+tp6
+.

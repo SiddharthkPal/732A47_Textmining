@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Call Blocker '
+p1
+tp2
+(S'Description:'
+p3
+S'A must have on your New Year app list-- Call Blocker, to block unwanted calls and have a Peaceful New Year!The latest Call Blocker with Premium features will be a good call filter just for you. We now support Chinese, English, German, French, Portugal and Spanish.Have you ever wondered how to block those annoyed phone calls, or quickly back up your massive contact lists or just protect your privacy by not letting others see your phone call history or SMS? Now Call Blocker Can Help!Call Blocker blocks unwanted calls now and protect your privacy. Now with better developed features, you don\xe2\x80\x99t have to worry about privacy leakage. Protect your private info 24x7.FEATURES: --Black List--\xe2\x80\x93Block unwanted calls (Reject calls, forward or reply with an auto-SMS)\xe2\x80\x93Block spam SMS (accept phonebook only or simply block black list)--Contact Backup--\xe2\x80\x93Back up contacts to a server, so you will never lose them!\xe2\x80\x93Transfer data to new phone (available cross-platform to Symbian / Android / BlackBerry device)--Privacy Eraser--\xe2\x80\x93Quickly and easily erase the call history, delete SMS messages between your phone and individual contacts permanently to protect private data.--Private Space (Premium) --\xe2\x80\x93Automatically move private contacts\xe2\x80\x99 messages and call logs to a Private Space so that they don\xe2\x80\x99t appear in the phone\xe2\x80\x99s regular SMS and call logs\xe2\x80\x93Keep secrets by hiding the icon as displayed on the main screen, so that nobody knows you are using Private Space.-Protect your REAL space by creating one or more fake spaces. If anyone wants your password, show her/him the fake one!Please note that users in the following countries will be charged when upgrading to the Premium version.U.S.ACanadaUnited KingdomTwainNigeriaAzerbaijanRussiaKazakhstanMalaysiaSaudi ArabiaThailandUkraineIndonesiaEgyptUAEVietnamQatarGermanAustraliaPhilippinesSingaporeHong KongIndiaTurkeyBrazilItalyNetherlands BelgiumGreeceHungaryPeruFor more apps from NQ Mobile, please refer to: NQ Mobile Security & Antivirus, NQ Mobile Vault, Android Booster, Super Task Killer.Please note that installing the following apps such as: Mr. Number, Easy Filer Call Blocker & SMS, Call Filter, Call Control and Blacklist on your phone with Call Blocker together may make your phone unstable or cause potential conflict.Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

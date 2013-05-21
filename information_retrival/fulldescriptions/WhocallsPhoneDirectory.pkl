@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Who calls - Phone Directory '
+p1
+tp2
+(S'Description:'
+p3
+S'Who Calls is one of the best global phone directory, that allows you to search for people by their number or email.The application works by searching the internet for the number calling you and displays a small popup window that tells you the information of the person calling you without having him/her in your contacts!You can even use the application to search for people by phone numbers or email addresses.If you are searching for people or tired of spam calls, then this application is the best for you.Features:- Search by number of email.- Use it as a global phone directory whenever you are.- Has its own call logs- Easy user interfaceThe application contains advertisements, thanks for your support.Recent changes:Version 2.1.0- Fixed call logs where it wasn\'t always showing.- Fixed "Connect facebook" feature that didn\'t work on some phones.- Some enhancements in the user interface.Version 2.0.2- New user interface.- More details about the contact when searching, like photo and facebook page.- The ability to connect facebook for better results.- The ability to synchronize your contacts with missing details from our database.- Show caller photo when calling if it exists.- Fixed old issues.'
+p4
+tp5
+tp6
+.

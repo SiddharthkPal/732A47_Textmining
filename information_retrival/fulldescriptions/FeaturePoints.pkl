@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FeaturePoints '
+p1
+tp2
+(S'Description:'
+p3
+S'Earn points for trying free apps. Redeem points for Amazon.com gift cards and PayPal cash.Share with your friends on iOS and Android and get points for their downloads.Recent changes:Now on Android. Share with your friends on iOS and Android and get points for their downloads.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Insta Money for Indian Banks '
+p1
+tp2
+(S'Description:'
+p3
+S'Insta Money - Multi Bank Mobile Banking application.The application helps you generate Mobile Money Identifier (MMID) for your bank accounts and send money to anyone with IMPS enabled bank account across india. Read more about IMPS here http://www.npci.org.in/aboutimps.aspx.You can also check your bank balance, get a mini statement and recharge your mobile.Following Banks are supported:Allahabad BankAndhra BankAxis BankBank Of IndiaBank of MaharashtraCanara BankCiti BankCity Union BankCorporation BankDena BankDevelopment Credit BankDhanalakshmi BankDombivli Nagari Sahakari BankFederal BankHDFC BankHSBC BankICICI BankIDBI BankING Vysya BankIndian BankIndian Overseas BankIndus Ind BankJammu & Kashmir BankKarnataka BankKarur Vysya BankKotak MahindraLakshmi Vilas BankOriental Bank of CommercePunjab & Sind BankPunjab National BankRatnakar BankSouth Indian BankStandard Chartered BankState Bank Of Bikaner & JaipurState Bank Of HyderabadState Bank Of IndiaState Bank Of TravancoreState Bank of PatialaState Bank of TravancoreSyndicate BankTamilnadu Mercantile BankUnion Bank Of IndiaUnited Bank Of IndiaVijaya BankYes BankRecent changes:Now you can - activate mobile banking- check balance for your account- get a mini statement- recharge your mobile- request cheque book- check cheque status- stop cheque payment.'
+p4
+tp5
+tp6
+.

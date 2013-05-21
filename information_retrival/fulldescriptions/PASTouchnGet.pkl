@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"PAS Touch 'n Get "
+p1
+tp2
+(S'Description:'
+p3
+S"PAS Touch 'n Get is the one stop information app that illustrates everything about Parti Islam SeMalaysia (PAS). PAS is a dominant islamic political organisation in Malaysia. The app introduces what is PAS, shares latest news and activities about PAS, provides Facebook and Twitter links for leadership of PAS and broadcasts online and live videos from various web TV channels. In addition, there are interesting apps that can be accessed through this app. Enjoy using PAS Touch 'n Get. Download now!Recent changes:Version 1.06bfixes bug: Semakan PemilihVersion 1.06cfixes bug: webtv"
+p4
+tp5
+tp6
+.

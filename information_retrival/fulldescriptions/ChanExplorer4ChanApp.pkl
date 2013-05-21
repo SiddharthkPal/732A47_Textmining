@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ChanExplorer - 4Chan App '
+p1
+tp2
+(S'Description:'
+p3
+S'ChanExplorer - Unofficial 4chan app, explorer and browser. Chan Explorer.Sorry for the downtime.Last year my laptop bit the dust, and I lost the source code to ChanExplorer among other things. Now I haven\'t been able to get them back, however this made it a good time to rewrite the app.Support ChanExplorer - Support development for .99 cents by going into the settings a hitting "Support ChanExplorer"Supports - Auto Updater- Tabs- GIFs- Image DownloadingNOTE : If you had the old ChanExplorer you cannot upgrade. If you would like a refund for your purchase please email me at droidtools@gmail.comRecent changes:2.1.8 - Added some new boards2.1.7- Removed some debug code.2.1.6- Bug fixes2.1.5- Fixed gif bug with non animated gifs- Fixed bug with images not loading in image strip2.1.4- Change Image loading method to hopefully reduce force closes.2.1.2- Fixed Gif Crashing2.1.1- Fixed Gif crashing2.1.0- Intro\'d new Tablet Interface- Improved Gif support (Speed + FCs)- FC Fixes2.0.9c- Changed font sizes.2.0.9b- Auto hiding black bars in ImageViewer2.0.9- More FC fixes'
+p4
+tp5
+tp6
+.

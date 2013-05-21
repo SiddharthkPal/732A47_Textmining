@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon BuyVIP '
+p1
+tp2
+(S'Description:'
+p3
+S'BuyVIP offers you limited-time events with top brands at top prices. So download our BuyVIP app and never miss a sale event again. At home or on the go - browse and purchase right from your android phone or tablet with our app. BuyVIP features:\xe2\x80\xa2 Daily sale events featuring top brands in clothing, shoes, handbags, jewelry, home and more\xe2\x80\xa2 Fashion for women, men and children\xe2\x80\xa2 Membership-only prices up to 70% off\xe2\x80\xa2 Free, instant membership\xe2\x80\xa2 Ability to login using your amazon.de credentialsRecent changes:Performance improvements'
+p4
+tp5
+tp6
+.

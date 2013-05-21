@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'20 Minuten Online '
+p1
+tp2
+(S'Description:'
+p3
+S'20 Minuten Online (Deutsch), die App der leserst\xc3\xa4rksten Newsplattform der Schweiz. Auf dem Weg zur Arbeit, in der Badewanne oder beim Fernsehen: - T\xc3\xa4glich w\xc3\xa4hrend 24 Stunden mit News, Interviews, Hintergrundartikeln und Bildstrecken (Videos erst ab Android 2.2). - Push Nachrichten- Landscape Unterst\xc3\xbctzung - Kommentar Funktion- Search Funktion- Reporter-Funktion- Download-to-go**** PROBLEME MIT DER APP? ****Wir helfen individuell weiter:Bitte E-Mail an 20MinutenOnlineAndroid@iagentur.zendesk.com schicken und das Problem beschreiben.Recent changes:v2.9 - Neues Logo- Verbesserte Unterst\xc3\xbctzung HTC Onev2.8.2- Offline Verhalten verbessertv2.8.1 - Entfernung der "READ_PHONE_STATE" Permission  (Statistische Erhebung wurde abgeschlossen)- Sporttabellen- eProspektev2.5.2- Infoboxes- Polls- Wichtige Stabilit\xc3\xa4tsverbesserungen- Download-to-go Optimierungen- Caching Verhaltenv2.2- Generelles Redesign - Android Sharing Button (Empfehlen) - Verbesserte Diashows- Impressum - ICS Unterst\xc3\xbctzung'
+p4
+tp5
+tp6
+.

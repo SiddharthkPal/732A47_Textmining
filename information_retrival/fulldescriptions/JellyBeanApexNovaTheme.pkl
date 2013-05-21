@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jelly Bean Apex / Nova Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Jellybean Theme For Apex and Nova Launcher!* A few icons for stock apps from Android 4.2 (Jelly Bean ) (More Icons will be added in updates).These icons are HD.* 15 HQ HD wallpapers  from Jellybean (4.1 and 4.2)*Compatible with1) Apex Launcher2) Nova LauncherNOTE: This application does not change your status bar. Due to restrictions on the framework. This app contains both Apex Theme and Nova Theme.If you like this Apex theme, check out our other themes. Click on "More by Photox Designs". We have lots of HD Apex Themes for Apex Launcher.Now our themes also support Nova Launcher.Follow us on twitter; @PhotoxDesigns to be the first to find out about new themes, updates, bug fixes, and freebies.===>Important tips:Open the app after installation then you can apply Apex Theme or Nova Theme.The weather widget in screenshots belongs to Palmary Weather, Search \xe2\x80\x9cPalmary Weatherr\xe2\x80\x9d to download if you like.Thank you for downloading our theme. Don\'t hesitate to email us if you have any problems, questions or suggestions. If you like the theme, please leave a positive review.Photox Design\xe2\x80\x99s Apex / Nova Themes will be regularly updated to ensure that all the themes are compatible with latest version of Apex Launcher. We will add features like more icons, wallpapers, etc. If you like this theme, check out our other themes. Click on "More by Photox Designs".Recent changes:De 8 Update:- *New Icons added from JB 4.2 (Camera, Calendar, Clock)*Fixed Icon issue for Sony Xperia Users.Hope you guys like it - You can email us your feedback - Also leave a review if you like this theme :).-Added new Camera Icon from JB 4.2 - Added Wallpapers from JB 4.2Fixed Contacts/Phone Icon for Sony Users..Sorry about this.Also please leave a review if you like this theme - I really appreciate your positive feedback!'
+p4
+tp5
+tp6
+.

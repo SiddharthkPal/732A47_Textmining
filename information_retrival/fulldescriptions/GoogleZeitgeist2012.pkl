@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Zeitgeist 2012 '
+p1
+tp2
+(S'Description:'
+p3
+S'Every year, Google aggregates billions of search queries (over 1.2 trillion in 2012) and finds trends among who and what is being searched for throughout the world. We compile all of this data into "Top 10" lists, which cover everything from Sports to Fashion to the News. Was PSY trending more than Justin Bieber? Did Hurricane Sandy cause more searches than the Presidential Election?For the 12th annual Google Zeitgeist release, we\'re excited to provide fans with an app where you can explore the Global and United States Zeitgeist lists, and check out the emotional 2012 Year-in-Review video. We\'ve also included a fun game to test your knowledge about popular search terms.Recent changes:* Added a game where we test user\'s knowledge of commonly searched for people, places and things* Optimized for tablet* Minor list improvements'
+p4
+tp5
+tp6
+.

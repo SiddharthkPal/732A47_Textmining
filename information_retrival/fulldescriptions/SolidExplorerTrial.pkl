@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Solid Explorer (Trial) '
+p1
+tp2
+(S'Description:'
+p3
+S"Solid Explorer is a file manager with two independent panels which brings to you a new file browsing experience. This is the most attractive, eye catching and intuitive file manager for the Android.Main features:1. Two independent panels for browsing2. Drag and Drop inside and between panels3. FTP, SFTP and SMB/CIFS clients4. File sharing via FTP5. Support for ZIP, TAR.GZ, TAR.BZ2 and RAR archives6. Creating ZIP and TAR archives7. Dropbox, Box, SkyDrive, GoogleDrive (more soon)8. Bookmarks9. Root access10. Indexed search11. Detailed file and directory informationYou can learn about planned features in the 'About' section.---------------------------------------------------------THIS IS A 14-DAY TRIAL. In order to continue using the app after this period, purchase the Solid Explorer Unlocker, but first make sure you are fully satisfied with it.---------------------------------------------------------I want to thank all the beta testers, especially from the xda-developers forum and the people who took part in the translation project. Without you it would never come out of the beta stage. Thank you!---------------------------------------------------------If you want to take part in translation, look here: http://support.solidexplorer.pl/responses/a-complete-guide-to-translate-the-applicationRecent changes:(hot fix)-fixed inability to extract archives since the last update-translation updates-minor crash fixes=========================-SugarSync support-backup and restore settings-ability to set a wallpaper and a ringtone-creating symbolic links-last open folder is remembered even after app kill-charset selection in text editor-updated Box and SkyDrive libraries-option to keep the screen on during file transfers-other minor improvements"
+p4
+tp5
+tp6
+.

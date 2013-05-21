@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sound Recorder '
+p1
+tp2
+(S'Description:'
+p3
+S"Sound Recorder is a well-built android application published by Needom Studio. This application is a handy tool for recording the sound and editing the saved recordings.You can use it to edit your saved recordings until you think you have them right.If you have any questions or you want to help Sound Recorder to add support for your language , please email support@needom.com , thanks.Main features:* Recording the sound* Edit the saved recordings* Manage the saved recordings, such as share, delete.F&Q1.It didn't have the recording time limit, and this is related to the free space of the storage.Keyword: voice recorder, voice maker, modify, ringtone, ringtone maker, sound maker, recording maker, amrRecent changes:Support recording in the background.Fix bugs.Recording optimization.Redesign the UI.Support Chinese."
+p4
+tp5
+tp6
+.

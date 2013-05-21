@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ICE Standard '
+p1
+tp2
+(S'Description:'
+p3
+S"ICE Standard, the Emergency Standard Card App for iPhone, can help save your life. Ambulances take patients to the ER over 16 million times each year in the US. ICE Standard helps first time responders and emergency room personnel locate a person\xe2\x80\x99s updated medical information, emergency / medical contacts, medical insurance information, blood type, name, address and a photo verification of the individual. This application has been developed by the About the Kids foundation, a nonprofit organization, with input from EMTs, police officers, firefighters and emergency room personnel.One of the unique features of ICE Standard and the Emergency Standard Card is color coding that reflects your medical information. This helps first responders quickly determine the severity of potential issues with the patient, based on their medical history. Red indicates the individual has severe allergies, medical devices, health conditions, or is on medications. Yellow indicates the individual is taking medications. Green indicates the user is 'good to go', with no health complications.The phone is regarded as a backup location for your emergency medical information, as in an accident your phone may be damaged, overlooked or out of power. A physical emergency card is the best way to provide health information for emergency personnel. The six standard places for emergency personnel to look are:1 - Automobile \xe2\x80\x93 Glove Compartment2 - Pedestrians \xe2\x80\x93 Wallet or Purse3 - Bicyclists / Motorcycles \xe2\x80\x93 Under the Seat4 - Home \xe2\x80\x93 Refrigerator Dairy or Butter Dish5 - Sports Athletes \xe2\x80\x93 Coach\xe2\x80\x99s Possession6 - Work Place \xe2\x80\x93 Emergency Response Team Member. Official Emergency Standard Cards can be ordered from EmergencyStandard.org. Dedicated to Emily Rose Ekman.Recent changes:Initial version for Android."
+p4
+tp5
+tp6
+.

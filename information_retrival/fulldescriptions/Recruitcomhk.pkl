@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Recruit.com.hk '
+p1
+tp2
+(S'Description:'
+p3
+S'Recruit is the No. 1 Free Recruitment Magazine + Website in Hong Kong. Introducing the mobile application, we have thousands of jobs in different industries from retail and catering to banking and finance; IT and Sales & Marketing to Government posts; different job levels and full time to part time, management trainee jobs. With 20 years history in Hong Kong, Recruit established very good relationship with employers which ensures you can get quality jobs. Now, you can use Recruit apps with our exclusive features for your job hunting anytime, anywhere: Features -Search for your ideal jobs by job category, keywords and walk-in interview -Apply jobs in a click, simple and quick, instantly send out your application to employers -Save job posts to your online account and read them in the future -Receive message to let you know the latest job openings -Share good jobs with friends by sending email, facebook, Sina Mini Blog and so forth -Read articles featuring artist interview, labour market trend and career advancement To activate the job application feature, you can simply upload your resume to your account. You can hence apply your ideal jobs in a click anytime, anywhere. Great job opportunities are waiting for you! Set off your job hunting journey with Recruit apps now!Recent changes:We have listened to your feedback and have now great features included: 1. Keyword search and comprehensive job category search enhanced 2. The usage experience and speed improved 3. Resume download added [v.1.3.4]-Added Job Alert Management Function-Improved Member Registration UI-Fixed Reported BugThe best way for us to know if you can do better is to send us an email at customer@recruit.com.hk. That way we will do our best to respond and keep the great features coming for you.'
+p4
+tp5
+tp6
+.

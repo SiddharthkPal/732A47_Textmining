@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"L'Equipe.fr "
+p1
+tp2
+(S'Description:'
+p3
+S"All sports news, live scores, fixtures and results on your phone with L'Equipe.frNew update : you can find here all the videos about French Ligue 1 ! Every Goals, summaries and after-match declarations of all the oppositions !This application is available only in French.Recent changes:All sports news and results with L'\xc3\x89quipe.fr"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'eService '
+p1
+tp2
+(S'Description:'
+p3
+S'A new online experience that allows you to manage all what you need to know at hands 24 hours.for Advance Info Service Co,Ltd (AIS, GSM, One2Call!) to use check profile , usage , promotion , privilege and otherRecent changes:Fix bug for support android version 2.3'
+p4
+tp5
+tp6
+.

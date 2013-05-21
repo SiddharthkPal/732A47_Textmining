@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English To Kannada Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'English to Kannada Dictionary is a handy app featuring nearly 25,000 English words and their meaning in Kannada language. Also provides a search box allowing easy navigation to the desired English word and a simple tap on the word gets you the meaning in clear Kannada font.Version 2 includes fixes for the SQLiteException and NullPointerException issues reported. Also displays "word not found" if the word being searched is not found in the dictionary database.Version 3: New words added under d, g and h. A total of around 3000 words added. Now the app can be installed on SD card.'
+p4
+tp5
+tp6
+.

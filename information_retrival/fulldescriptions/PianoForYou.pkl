@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Piano For You '
+p1
+tp2
+(S'Description:'
+p3
+S'I tried to make a best piano app on Google Play, so any feedback is welcome!- Good sounding (sampled instruments)- Good looking- Option for two stacked rows- Low latency (compared to the rest piano apps)- Custom instruments (record your own sample using microphone or open existent file)- 128 MIDI instruments (they are not perfect, but might be interesting)- Recording- MIDI over WiFi- Full piano keyboard (88 keys)- Nice key labels- Fast loading (about 0.3 second)- Multitouch support- Sustain pedal- No ads!Select your favorite scroll mode in settings (my favorite is "Scroll by dragging keys")Pressing trackball works as a sustain pedal, you can also enable onscreen pedal.Latency is a real pain on Android devices, but I\'ve done all I can. If you find an app with lower latency, I\'ll give you the full version for free, with your name in the credits :)Note: latency is MUCH better on recent devices with Android 4.1.Additional HQ instruments (Rhodes, Accordion and Church Pipe Organ) are paid, but hey, there are no ads!You can also support me buying a full version - it inculdes all the instruments and missed features.Permissions:- WRITE_EXTERNAL_STORAGE is for exporting your recording in .wav format and instruments download- WRITE_SETTINGS is for setting recording as a ringtone- INTERNET is for instruments download- BILLING is for in-app purchases- CHANGE_NETWORK_STATE is for MIDI over WiFi- CHANGE_WIFI_MULTICAST_STATE is for MIDI over WiFi- ACCESS_WIFI_STATE is for MIDI over WiFi- RECORD_AUDIO is for recording samplesKeywords: piano, grand piano, pianoforte, fender rhodes, Mark II, accordion, church pipe organRecent changes:1.2.6- Fixed crash in About on tablets1.2.5- Remove hardware acceleration (it slows down everything)- Increase maximum number of audio channels- Support for promotional codes- Minor bugfixes in scrolling- Other improvements and bugfixes from your error reports'
+p4
+tp5
+tp6
+.

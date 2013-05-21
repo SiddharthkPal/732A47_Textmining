@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bones '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn about the skeleton inside of you. View the bones from different angles & learn their pronunciation. Test yourself with quiz mode. Lookup a specific bone by search, index or interactive chart.Recent changes:- Translated into French, Portuguese, Spanish & Japanese'
+p4
+tp5
+tp6
+.

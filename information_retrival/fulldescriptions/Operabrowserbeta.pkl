@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Opera browser beta '
+p1
+tp2
+(S'Description:'
+p3
+S'The free must-have app for your phone! Find friends \xe2\x80\x93 discover personalized news \xe2\x80\x93 download movies and music \xe2\x80\x93 search better. Do more online using less data, with the Opera browser. It\xe2\x80\x99s our best all-in-one app for Android.- Fast and easy to use: Our fastest browser for Android loads webpages almost instantly, in the right size and format for your phone.- Keep your connection: Browse at high speed outside 3G coverage with Off-Road Mode.- News for you: Find out what\xe2\x80\x99s happening with the Discover feature, your personal news feed.- Instant favorites: Set your top sites and bookmarks in the Speed Dial - open them with one click!- Music, movies and more: Start, stop, resume, save and rename the media files you keep on your phone with our download manager.If your device is not compatible with the Opera browser, download Opera Mini. http://bit.ly/opera-mini-promoDiscover what Opera browser for Android can do for you. Download free.Share the news with your friends! And +1 us on G+ too!Discover more at http://opera.com/mobile/Keep in touch with Opera:Twitter - http://twitter.com/opera/Facebook - http://www.facebook.com/opera/Recent changes:- Text-wrap- Fix for Discover on low- and very high- dpi devices- Chromium update- Fixes for some 3G configurations- Translations improvements- Various stabilization fixes'
+p4
+tp5
+tp6
+.

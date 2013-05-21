@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fitness Buddy : 1700 Exercises '
+p1
+tp2
+(S'Description:'
+p3
+S"50% OFF!!! GET FITNESS BUDDY for Android NOW! LIMITED INTRODUCTORY SALE PRICE. - As seen and recommended by ESPN magazine!- Selected by Gizmodo as one of the best apps ever.- Highly rated by Lifehacker: a comprehensive exercise planner- 7X7 SF blog: the app that may replace personal trainers. [but we'd rather think of it as a tool for personal trainers to aid their clients]- and raved by many many others...Find out why gym goers are switching over to Fitness Buddy! With 1700+ unique exercises at your disposal, Fitness Buddy will revolutionize your training regimen. With this app, you will find the workout tracking process simple and easy in order to sustain your motivation and enforce your commitment to your fitness goals. -- MAJOR FEATURES --- \xe2\x9c\x94 1700+ unique exercises!\xe2\x9c\x94 1000+ HD videos\xe2\x9c\x94 Comprehensive exercises for all major equipments including barbell, ez curl bar, dumbbells, kettlebells, resistance bands, medicine ball, machines, and stability balls \xe2\x9c\x94 Exercise categorization (core, lower body, chest, shoulders, back, arms, cardio) \xe2\x9c\x94 4000+ exercise photos and animations (retina display resolution) \xe2\x9c\x94 Detailed exercise instructions and muscle categorizations \xe2\x9c\x94 Capabilities to add your own custom exercises and favorite exercises User-friendly interface \xe2\x9c\x94 Quick and simple workout tracking \xe2\x9c\x94 Search bar to quickly find your favorite exercises 75+ workout routines \xe2\x9c\x94 Diverse repertoire of exercise routines including workouts for women \xe2\x9c\x94 Routines specific to your goals (build big chest, tone butt, lose weight, and more!) \xe2\x9c\x94 Routines specific to your equipment (resistance bands, kettlebells, bodyweight only, etc) \xe2\x9c\x94 Build your own workout routines Body metrics tracking \xe2\x9c\x94 Track your body weight and metrics (chest, arms, thighs, etc) \xe2\x9c\x94 Graph your body progressExcellent Support \xe2\x9c\x94 Quick email responses \xe2\x9c\x94 Frequent updates And many other features for you to enhance your workout experience. You won\xe2\x80\x99t be disappointed when you train hard with Fitness Buddy.Recent changes:- This update contains bug fixes and we now also support ICS! If you enjoy using Fitness Buddy and we sure hope you do. Please consider writing us a review on the android market. Thank you!- email us with any other concerns at support@fitnessbuddyapp.com"
+p4
+tp5
+tp6
+.

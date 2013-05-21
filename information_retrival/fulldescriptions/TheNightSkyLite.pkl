@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Night Sky Lite '
+p1
+tp2
+(S'Description:'
+p3
+S"The Night Sky Lite - Simply MagicalThe Night Sky Lite is a magical new app that enables you to identify the stars, planets, galaxies, and constellations you can see above. Just stand anywhere and hold your Android Phone or Tablet up to the sky and The Night Sky Lite will display the names of the stars, planets and other objects you are able to see, just like magic! Even if your view is obscured by clouds or daylight, The Night Sky Lite app will know which stars, planets, galaxies, and constellations are hiding from your view! You have to use this app to realize just how amazing it is! The Night Sky Lite does this by using your location data provided by the GPS and compass built in to your device. It then cross references your location data with its inbuilt map of the sky and overlays the stars, planets, galaxies, and constellations names on your screen. It really is magical and will amaze you, and anyone you show it to! So next time you're gazing up in to The Night Sky and wonder the name of a star, planet, galaxy, or constellation, just get out your Android Phone or Tablet and let The Night Sky Lite app amaze your gaze! The Night Sky is a #1 selling app because it really is simply magical!Recent changes:This update brings the following enhancements:\xe2\x98\x85 Bug fixes.\xe2\x98\x85 Fixed orientation bug. If your orientation is incorrect, go to settings in The Night Sky app, tap the new 'Rotate Orientation' button. Keep tapping this button until your orientation is corrected. Sorry for problems in previous builds.\xe2\x98\x85 Improved compatibility.If you enjoy using The Night Sky Lite, please tell your family and friends about it, and give it a great review on Google Play!Enjoy stargazing with The Night Sky Lite."
+p4
+tp5
+tp6
+.

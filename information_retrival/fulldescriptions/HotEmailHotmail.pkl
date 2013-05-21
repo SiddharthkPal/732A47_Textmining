@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hot Email (Hotmail) '
+p1
+tp2
+(S'Description:'
+p3
+S'Hot Email is an app that lets you access the Hotmail mobile website made by Microsoft. If you have any issue after you updated "EMAIL US FOR SUPPORT & DON\'T POST BAD REVIEWS" Thanks.*If you get a blank page don\'t waist your time. Your web broweser sucks and we won\'t be able to fix it. Isn\'t our fault.WARNING.Do not spam our app if you get hacked. WE DON\'T DO IT. IT\'S YOUR FAULT.WARNING..... PEOPLE GET HACK WHEN THEY OPEN AN EMAIL INFECTED BY A PHISHING LINK. PLEASE DO NOT COMPLAIN AND POST BAD REVIEWS WHEN YOU GET HACK. IT IS NOT OUR FAULT. THANK YOUIf you like it, buy Hot Email Pro to donate or by PayPal by going to http://pollot3ch.blogspot.comRecent changes:-FIX WHITE SCREEN FOR SOME.(If you don\'t have a white screen  DO NOT UPDATE, this also fixes the save password option).-Add Offline warning-Fix rotation & Keyboard issue-add refresh buttonRead below!If you have any issue after you updated "EMAIL US FOR SUPPORT & DON\'T POST BAD REVIEWS" Thanks.*If you get a blank page don\'t waist your time. Your web broweser sucks and we won\'t be able to fix it. Isn\'t our fault.WARNING.Do not spam our app if you get hacked. WE DON\'T DO IT. IT\'S YOUR FAULT.'
+p4
+tp5
+tp6
+.

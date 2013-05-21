@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Multiplication table '
+p1
+tp2
+(S'Description:'
+p3
+S'Application developed to stimulate children\'s learning, including tests to monitor the child\'s progress is also enlivened by children\'s drawings.keywords:"Multiplication table", "multiplication tables", "Disney Princesses", "Inazuma Eleven", "Monster High", "The Simpsons", "Math for kids", "learn math", "mathematics", "Game math "," math Review "," Review multiplication "'
+p4
+tp5
+tp6
+.

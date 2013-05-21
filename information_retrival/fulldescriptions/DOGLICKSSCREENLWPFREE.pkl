@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DOG LICKS SCREEN LWP FREE '
+p1
+tp2
+(S'Description:'
+p3
+S'Dog Licks Screen LWP Free, is a incredible and  funny Live Wallpaper. Displays an adorable puppy dog, licking the screen of your smartphone.BEST ON PHONE AND TABLET!!++ FREE VERSION!! ++INSTALLATION INSTRUCTIONS:Go Home -> Menu -> Wallpapers -> Live Wallpaper, scroll down list, find "Dog Licks screen LWP" and setup it!Key: Dog, puppy, funny puppy, dog licks, dog licking, screen saver, dog licks, dog licking. live wallpaper.'
+p4
+tp5
+tp6
+.

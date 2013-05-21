@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Torrent Tracker '
+p1
+tp2
+(S'Description:'
+p3
+S'Torrent Tracker is a free app that lets you easily search and download from PirateBay. Torrent Tracker is among the first apps that offers secure browsing as a feature. If your country doesn\'t allow Pirate Bay or if your company have a strict IT policy, no worries. TorrentTracker handles this by using a secure proxy and relays the traffic over SSL to process the search. This gives much higher search speeds and lower data traffic.You can search by torrent name as well as by "Top 100" based on categories such as movies, music, games and apps. If you wish to download a torrent the app will ask you which torrent client you wish to use and add the torrent for download. Recommended clients are uTorrent and uTorrent Remote.Recent changes:Secure server support. Traffic will now be securely relayed through a proxy to allow for SSL and caching. The makes it more secure to use, search results will appear faster and your data traffic is less. New preference panel with support for turning off proxy support and adding failover to PirateBay.There are better support for older phones now.'
+p4
+tp5
+tp6
+.

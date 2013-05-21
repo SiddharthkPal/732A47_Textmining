@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'vouchercloud '
+p1
+tp2
+(S'Description:'
+p3
+S'Get fantastic vouchers direct to your Android handset - Simply search and save.  Vouchercloud is now available in UK,Ireland, Malta and Netherlands.If you love saving money and you love big brands and local businesses then you\xe2\x80\x99ll love vouchercloud. Free to download and use, vouchercloud has the biggest selection of mobile discount vouchers \xe2\x80\x93 an unrivalled mix of High Street giants and carefully selected local independents.Your favourites are all there with great savings at the best restaurants, bars, leisure venues, shops and lots more.Flick through the app to discover exclusive offers for Restaurants, Pubs & Bars, Casual Dining, Food to Go, Films &Theatre, Cheap Days Out, Retail, Leisure & Entertainment, Health & Beauty, Travel & Hotels, Automobile, Home, Garden & DIY, Property and Finance. All vouchers are easy to browse and can be downloaded and used immediately or stored for later use. vouchercloud uses GPS to search out the very best deals nearest to you while you\xe2\x80\x99re out and about. Plan ahead and save money!Big Brands, Big Savings\xe2\x80\xa6 in your pocketPermissions:- READ PHONE STATE AND IDENTITY:We require this permission to be able to deliver unique content based on your Network. We need to be able to identify your Sim operator (Vodafone, T-Mobile...)Recent changes:V.2.5.2- Application is now available in Germany- Application translated to Italian- Users can now use the "Featured Offers Widget" available in the Widget\\\'s section- A-Z option removed in listings (Find specific offers/venues using search)- New payment gateway for deals in UK - includes PayPal- UI fixed for some Sony Ericsson Xperia devices- Bug fixes and enhancements** If you have any problem with the app please send us an email to: bugs@vouchercloud.com'
+p4
+tp5
+tp6
+.

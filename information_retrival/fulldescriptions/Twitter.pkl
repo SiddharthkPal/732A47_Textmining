@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Twitter '
+p1
+tp2
+(S'Description:'
+p3
+S"With Twitter, you can watch the world unfold like never before. \xe2\x80\xa2\tGet real-time stories, pictures, videos, conversations, ideas, and inspiration all in your timeline. \xe2\x80\xa2\tFollow people and your interests to get unfiltered access and unique behind-the-scenes perspectives. \xe2\x80\xa2\t\xe2\x80\xa2\tExpress yourself with photos, videos and comments. Twitter is your global town square.Recent changes:\xe2\x80\xa2\tSee what's happening near you or around the world by viewing Trends in hundreds of locations. \xe2\x80\xa2\tGet quick access to account switching and settings via the menu button.\xe2\x80\xa2\tEnjoy a smoother experience thanks to bug fixes and other improvements."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wish: Shopping Made Fun '
+p1
+tp2
+(S'Description:'
+p3
+S'Start shopping in a smarter and more rewarding way today. Download Wish to join over 10 million consumers who are using it to make shopping smart, fun, and rewarding. Start your Wishlists and get special offers and gift cards for items you like directly from merchants and brands.\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "Love, Love this app. Its a fun app that u can wish on things u love and want. Highly Reccommend it to frndz & fmly." - Olivia Austin\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "I love most of the stuff it suggests for me. I wind up surfing for hours sometimes. Then I got a $10 gift card off some items I wished for!" - Meg Blaylock\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 "Must have app. The clothing, suggestions and all the other wonderful stuff in here is awesome. I\'m hooked." - Claudia BetancurRecent changes:Wish 2.6.0\xe2\x98\x85 You now have unlimited wishes!\xe2\x98\x85 Several visual improvements and important bug fixes'
+p4
+tp5
+tp6
+.

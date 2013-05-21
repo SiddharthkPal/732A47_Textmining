@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Retro Clock Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'Retro Clock Widget is a home screen clock and date widget for Android based on the classic mechanical flipping clock.It functions as shortcuts to Alarm and Calendar.To use the widget:- Long press empty space on the home screen- Select Widgets- Select Retro Clock or Retro DateRecent changes:- Calendar shortcut fix for Droid RAZR running ICS'
+p4
+tp5
+tp6
+.

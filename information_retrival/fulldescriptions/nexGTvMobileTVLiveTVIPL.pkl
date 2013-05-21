@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'nexGTv- Mobile TV Live TV IPL '
+p1
+tp2
+(S'Description:'
+p3
+S'Now watch all matches of Pepsi IPL 6 on nexGTv! Starts 3rd April 2013Mobile TV application with best of the Indian channels, Replay TV & Video on demand content.nexGTv Mobile TV is one of the best application which offers a compelling end-user experience to view Live TV on mobile devices. It is the easiest to access to over 100 Live Indian TV channels, Replay and On-Demand content. That\xe2\x80\x99s not all, now you don\xe2\x80\x99t have to depend on 3G network to view video content. Our innovative feature of Adaptive-bit-rate streaming enables you to enjoy Live TV even on a 2G network.Highlight: nexGTv brings to you all the cricket  action with Pepsi IPL 6 this season. Now catch Pepsi IPL 6 matches, Pepsi IPL 6 match repeats, Pepsi IPL 6 highlights and everything that\xe2\x80\x99s going to be on Pepsi IPL 6.nexGTv Features:\xe2\x80\xa2 Full Screen viewing\xe2\x80\xa2 Integrated Electronic Program Guide (EPG) of one week for all channels\xe2\x80\xa2 Channel reordering and deletion\xe2\x80\xa2 Interactive on-screen controls: This enables you to scroll through channels or adjust setting even while watching your show.- Picture in picture mode- Brightness & Volume control- Adaptive bit rate streamingThis Application carries best of the Indian Content whether it is Entertainment, News, Regional, Kids, Devotional, Music and Movies. It\xe2\x80\x99s one stop solution for all your TV viewing needs.The download is absolutely FREE! And that\xe2\x80\x99s not all, you can view over 60 channels.  You only pay a nominal amount* in order to view our bouquet of premium Channels, Replay TV and Video on demand! Enjoy your TV on move like never before!*Charges vary as per your operator.Note: Data charges applicable as per your subscribed data plan with your operator.FOR ANY QUERY, PLEASE GET IN TOUCH @ 18601081010 / 18601081008 or visit us at www.nexgtv.comOr Catch us on Facebook https://www.facebook.com/NEXGAPPSnexGTv offers:Pepsi IPLStar PlusSonySabSony mixLife OkNDTV GoodtimesStar UtsavChannel VAaj TakNDTV IndiaCartoon NetworkStar PravahRaj TVAasthaDD NationalTV 9CNBC AwaazAsianetCNN IBNBBC WorldETVMaaMovies/Video on Demandand much more...Download it NOW!"The content/channel streaming will not work outside India".Recent changes:- Enhanced user experience by placing our LIVE channel and its Replay Channel together.- Minor bug fixes for errors.- Push Notifications support- Improved stability'
+p4
+tp5
+tp6
+.

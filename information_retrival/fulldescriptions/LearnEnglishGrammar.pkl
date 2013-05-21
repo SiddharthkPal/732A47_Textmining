@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LearnEnglish Grammar '
+p1
+tp2
+(S'Description:'
+p3
+S"LearnEnglish Grammar is the best new way to improve your English grammar at home, on the move, anywhere! Brought to you by the British Council, the world\xe2\x80\x99s authority on English language learning, LearnEnglish Grammar gives you grammar at your fingertips.Get LearnEnglish Grammar for free, with 3 free sample packs, and then download content packs at your level in the Purchase section. Only US$1.10 (or equivalent) for over 100 exercises in each pack. Practise all areas of English grammar with 10 unique activity-types, helping you to build your understanding of the essentials of English.Features:* content packs at four main levels \xe2\x80\x93 Beginner, Elementary, Intermediate, Advanced* questions use 10 unique activity types \xe2\x80\x93 from multiple choice to labelling.* help files and instruction images explain how to do all activity types* full range of grammar topics, with 20+ questions per topic* questions use text, images and audio* contains practice AND test sectionsGet more great apps from the British Council at:http://learnenglish.britishcouncil.org/mobile-learningRecent changes:1.4.2: fixes a bug with in app purchasing.New features in v1.4:* New sample question packs! * Sharing for Facebook, Twitter and Email! * Improved question functionality! * Feedback button in the Help section, so you can contact us with any questions/suggestions If you like the app, don't forget to give us a 5-star rating in your Google play store. Thanks for all your support! :)"
+p4
+tp5
+tp6
+.

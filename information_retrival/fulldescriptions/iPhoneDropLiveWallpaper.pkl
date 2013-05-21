@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iPhone Drop Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'iPhone Drop Live Wallpaper simulates raindrops falling on your screen, inspired by original iPhone rain drop background.To use: Home -> Menu -> Wallpapers -> Live WallpapersTo develop more free great live wallpapers, we have implemented some ads in settings.Advertisement can support our develop more free great live wallpapers.This live wallpaper has been tested on latest devices such as Samsung Galaxy S3 and Galaxy Nexus. Please contact us if your device is not supported.Note: If your wallpaper resets to default after reboot, you will need put the app on phone instead of SD card.!!Disclaimer/Trademarks!!iPhone is a trademark of Apple Computer Inc. This app is not affiliated with or endorsed by Apple.Recent changes:- Updated latest Android 4.2.2 SDK- Updated Google AdMob SDK- Fixed rare settings screen force close if open too many times'
+p4
+tp5
+tp6
+.

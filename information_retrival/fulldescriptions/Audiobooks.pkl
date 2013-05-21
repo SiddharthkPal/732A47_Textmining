@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Audiobooks '
+p1
+tp2
+(S'Description:'
+p3
+S'Listen to audiobooks on your Android phone or tablet with our free app! Download up to 2 audiobooks at a time over wi-fi for offline listening or stream audiobooks instantly from our library of more than 25,000 bestsellers and new releases.\xe2\x9c\x93 Download audiobooks (up to 2 at a time) to your Android phone or tablet\xe2\x9c\x93 Stream audiobooks instantly\xe2\x9c\x93 Customize your settings to automatically stream or download books over wi-fi or cellular networks\xe2\x9c\x93 25,000+ best sellers, new releases and audiobooks for kids \xe2\x80\x93 and we\xe2\x80\x99re adding more titles all the time\xe2\x9c\x93 Automatic bookmarking means you never lose your place\xe2\x9c\x93 Full-featured audiobook player integrates with native Android functionality to automatically pause when your listening is interrupted by a phone call\xe2\x9c\x93 Save books to your personal reading list so you always know your next listenGet started with audiobooks today!'
+p4
+tp5
+tp6
+.

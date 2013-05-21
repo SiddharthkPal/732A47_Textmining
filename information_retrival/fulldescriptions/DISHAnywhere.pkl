@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DISH Anywhere '
+p1
+tp2
+(S'Description:'
+p3
+S'Take your TV with you. With the DISH Anywhere, you can watch the same TV you get at home on your Android device. Enjoy your favorite live or recorded programs anytime, anywhere. Also, manage your home television with a full-featured DVR manager and a searchable program guide. This is a must-have app for DISH Subscribers. Features: Watch your TV* Take your TV with you- and enjoy watching all of your favorite sports, news, TV shows, and movies from your Hopper with Sling, Hopper, ViP\xe2\x84\xa2 922 Slingloaded\xe2\x84\xa2 DVR or ViP\xe2\x84\xa2 722 or 722k DVR with the Sling\xc2\xae Adapter accessory on your Android device. -Integrated user interface makes it fast and easy to find the shows and movies you want to watch. Schedule DVR Recordings - Schedule DVR recordings from anywhere. - One-touch recording- simply choose to record one event, all events, or only new events. Browse and Search the Program Guide - Search the program guide up to 9 days in advance. - Search for shows by title, genre, network, keyword, or actor. - View graphics and posters of your favorite shows and movies. Manage your DVR Library** - Set recording priorities. - Manage recording conflicts. - Delete shows you\xe2\x80\x99ve already watched. - View and adjust your recording schedule. DISH Anywhere requires an online DISH account and is compatible with the following DISH Network receiver models: 512, 522, 625, 612, 622, 722, 722k, 922, Hopper, Hopper with Sling. *Requires high-speed Internet connection to a ViP\xe2\x84\xa2 922 Slingloaded\xe2\x84\xa2 DVR, or a ViP\xe2\x84\xa2 722 or ViP722k or Hopper DVR with Sling Adapter accessory. **Requires high-speed Internet connection to one of the following receiver models: ViP612, ViP622, ViP 722, ViP722k, ViP 922, Hopper, Hopper with Sling.Recent changes:New in 1.5.20Bug fixesNew in 1.5.12Support for large screen android phones like Droid DNANew in 2.0.0.21: Fixes issue for tablet users who upgraded from the phone app and could not access the Settings screenNew in 2.0.0.20:Native app for Android TabletsSkinned remote for TabletsNew in 2.0.0.20 and 1.5.11Guide overlaySupport for Hopper SlingUpdated DesignAbility to add Favorite channels Performance enhancements'
+p4
+tp5
+tp6
+.

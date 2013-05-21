@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UCam Ultra Camera '
+p1
+tp2
+(S'Description:'
+p3
+S"UCam is an absolutely ultra camera application, it - 01. Support more than 30 software/hardware camera parameters to make sure high quality picture/video. 02. 40+ Real-time effect filters. 03. More than 60 capture scenarios help you to be a shining star on magazine, billboard and LED screen. 04. The best image post process tool\xef\xbc\x8d\xe2\x91\xa0more than 100 effects\xe2\x91\xa1abundant edit function\xe2\x91\xa2perfect text, bubble and label\xe2\x91\xa3Excellent graffiti\xe2\x91\xa4hundreds of frames,  textures and decorators\xe2\x91\xa5convenient puzzle. 06. Unique Picture In Picture (PIP) capture mode. 07. Most convenient GIF animation maker. 08. The fastest burst shot camera. 09. Most convenient SNS posting tool- post picture/message to all your SNS sites/accounts simultaneously (support facebook, twitter, flickr, sina weibo, QZone, renren, kaixin, tencent weibo and sohu weibo).All these are in UCam. Without UCam, you need more than 10 apps of 100MB memory.UCam, your ultra camera, the only camera you need!If you have any question or suggestion, please post to forum.u-camera.com.Recent changes:Change log of Version 3.0.4 -01. Update gallery UI.02. Fix video issue.03. Fix QRCode screen off issue.04. Fix magiclens focus issue.05. Fix XT833 focus issue after take photo.06. Fix some devices can't mute issue.07. Adjust main interface modules order.08. Fix shutter button can't work after click back button issue while take photo.09. Fix LG-P990 focus while recording.10. Other bug fix."
+p4
+tp5
+tp6
+.

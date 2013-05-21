@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mp3 search and download V6 '
+p1
+tp2
+(S'Description:'
+p3
+S'Search and download mp3 music for free from public domain via public search engines.Features:- Search- Streaming- Background downloads serviceAfter downloads, you can play songs with your default music player in music library!'
+p4
+tp5
+tp6
+.

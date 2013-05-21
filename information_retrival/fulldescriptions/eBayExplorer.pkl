@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'eBay Explorer '
+p1
+tp2
+(S'Description:'
+p3
+S'The eBay Explorer allows full-screen browsing eBay pages. Not like the official eBay-App in reduced form, but exactly as used by your desktop computer. You can use eBay Explorer with any eBay site worldwide.On phones with small screens, this app is certainly not very helpful. Use it on tablets and you will love it. This app is free and includes no advertising. You will find more eBay-software for winners onhttp://www.snapper-sniper.com'
+p4
+tp5
+tp6
+.

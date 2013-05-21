@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sport.fr : sports en direct '
+p1
+tp2
+(S'Description:'
+p3
+S"Avec cette application de sport gratuite, ne ratez aucune info sports du jour dans plus de 100 disciplines : football, rugby, tennis, basket-ball, handball, golf, formule 1 etc...Avec nos 6 rubriques, vous serez inform\xc3\xa9s de tout ce qui va se passer ou de tous les r\xc3\xa9sultats de sport et des grandes comp\xc3\xa9titions sportives comme la Ligue 1, le Top 14, Roland Garros, le Tour de France, la NBA... L'application sport.fr regroupe 6 services qui vous seront vite indispensables:- La Une : l'actualit\xc3\xa9 sportive expliqu\xc3\xa9e en d\xc3\xa9tail et illustr\xc3\xa9e- Les news :  notre fil info, des dizaines de news sont publi\xc3\xa9es chaque jour- Favoris : s\xc3\xa9lectionnez vos sports favoris pour ne rater aucune info- Les vid\xc3\xa9os : l'actualit\xc3\xa9 sportive en interviews et reportages- Programme TV : retrouvez chaque jour le programme t\xc3\xa9l\xc3\xa9 des matchs diffus\xc3\xa9s en direct et rediffus\xc3\xa9s.- R\xc3\xa9sultats et classements des principaux matchs et comp\xc3\xa9titions de sport."
+p4
+tp5
+tp6
+.

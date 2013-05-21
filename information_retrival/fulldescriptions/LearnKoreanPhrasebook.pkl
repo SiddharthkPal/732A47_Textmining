@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn Korean Phrasebook '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn to speak Korean with Learn Korean talking phrasebook. 200+ essential phrases for Travel in Korea. Ideal for Tourists, Business Travelers, and anyone interested in learning the Korean language! \xe2\x9c\xa6 Get the full set of phrasebooks for FREE! Search for "codegent" and download more languages.. Chinese, Japanese, Thai, Vietnamese, Spanish, French, & many more. \xe2\x9c\xa6FEATURES* 200+ essential phrases (6 categories)* Spoken translation (pronounced by a native speaker)* English text, phonetic spelling, and Korean script * Search using text or voice* Save you favorites* Includes travel and learning tips* Support for move to SD* No annoying adsLITE CATEGORIES* Greetings* General conversation* Numbers* Directions and places* Transportation* Eating outPRO UPGRADE AVAILABLEIf you like this app please support the developers and upgrade to the PRO version. Packed with 800 phases organized into 18 categories its great value for money costing less than traditional paper phrasebook.  Ready to start learning Korean? Click [download] and get started right away!MORE LANGUAGES AVAILABLEGet the whole Learn series.. Japanese, Chinese, Thai, and more. Find all our language apps by searching for "Codegent" or clicking through to view our other appsRecent changes:- Fixed audio cut off issue on some devices- Fixed rotation switching issue'
+p4
+tp5
+tp6
+.

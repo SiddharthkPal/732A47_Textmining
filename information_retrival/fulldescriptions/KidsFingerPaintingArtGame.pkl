@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kids Finger Painting Art Game '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Kids Finger Painting Art Game by TeachersParadise.com Studios \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Inspire your child with Finger Painting.  Bring out the little artist in your child with Kids Finger Painting app while exercising fine motor skills and allowing children to be creative and develop hand-eye coordination all at the same time.  Save your child's creation to your device or share with friends.Practice color recognition with the many color choices available.  Multiple drawing modes: Touch to fill using the paint bucket, finger draw using the pencil or paint brush tools.  Large variety of inviting images to choose from makes this an excellent game for painters of all ages. More than 120 new coloring pages for hours of finger painting fun.\xe2\x98\x85 120+ Fun easy to color coloring pages\xe2\x98\x85 Free Ad-supported version.\xe2\x98\x85 Language: US English\xe2\x98\x85 Age Level: 1+\xe2\x98\x85 Title: Kids Finger Painting Art Game\xe2\x98\x85 Copyright 2011 TeachersParadise.com, Inc.Recent changes:\xe2\x98\x85 2012-05-12 UPDATE60 New coloring book pages. Bug Fixes. Less permissions required.APP2SD"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'French Translator / Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Translate from French to English or from English to French.- Includes dictionary- Word of the day to help you learn one word at a time!- Translation historyNOTE: the app now uses SMS permission so you can translate incoming SMS. The app will not read your SMS for any other purpose, or send SMS to you or anyone.** Requires active internet connection to work **- voice recognition for English and French- Listen to the translated text in English or French- Share translation via Facebook, eMail or SMS- Hear pronunciation- Word of the dayFrance Traducteur Dictionnaire languageRecent changes:2012-12-12: Fixed the user reported crash issueImprove text to speech featureAdded more languages to word of the dayfixed a crash reportbetter translation history'
+p4
+tp5
+tp6
+.

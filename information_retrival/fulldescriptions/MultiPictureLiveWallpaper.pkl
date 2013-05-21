@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MultiPicture Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Show different pictures for each screen as Live Wallpaper.To Use:[Home] > [Menu] > [Wallpaper] > [Live Wallpaper]or create and open shortcut to "MultiPicture Live Wallpaper Setting"Features:* Show pictures from gallery* Show pictures from folder* Show pictures from Web album (need plugin)* Change picture by double tap* Change picture by time interval* Transition effectNOTE:The scrolling depends behavior of the Home application.If scrolling does not work or something strange, try to change workaround option.Or check Home app\'s settings too. (such as wallpaper scrolling enable/disable, overshoot of scrolling, etc.)NOTE:This does not works properly with home application of the Galaxy S series (ICS) and the HTC Sense 3.X.  Because these home applications does not notify right screen position.The source code, the plugin interface and previous versions are available from web site.Recent changes:v0.6.11:* adjust default settings* add READ_EXTERNAL_STORAGE permission to read pictures* add xxhdpi resourcesv0.6.10:* Add workaround option for ICS MR1 tabletv0.6.9:* Adjust workaround behavior for ICS tabletv0.6.8:* Improved low memory case* Adjusted layoutv0.6.7:* Reduce memory usage for some devices* Fixed some problemsv0.6.6:* Adjust display timing when loading* Improved image quality* Fixed errorv0.6.5:* Add color depth option* Adjust for Android 3.1 Launcher'
+p4
+tp5
+tp6
+.

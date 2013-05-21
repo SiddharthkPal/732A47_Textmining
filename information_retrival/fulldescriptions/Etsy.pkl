@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Etsy '
+p1
+tp2
+(S'Description:'
+p3
+S'Description section:The official Etsy for Android app. Fall in love with Etsy, anywhere. Shop on the go with our free mobile app. Discover over 17 million unique items from 800,000 sellers around the world.Explore what kindred spirits are favoriting on Etsy.Shop whenever inspiration hits.Manage your shop and orders with ease. Etsy for Android is available in English, German, French, Dutch, and Italian.For support, go to http://www.etsy.com/helpHelp report bugs at https://www.etsy.com/teams/7720/bugs/discuss/ About Etsy:Etsy is the world\xe2\x80\x99s handmade marketplace. Our mission is to empower people to change the way the global economy works. We see a world in which very-very small businesses have much-much more sway in shaping the economy, local living economies are thriving everywhere, and people value authorship and provenance as much as price and convenience. We are bringing heart to commerce and making the world more fair, more sustainable, and more fun. www.etsy.comRecent changes:- Faster image loading- Bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Viaplay (New) '
+p1
+tp2
+(S'Description:'
+p3
+S'Viaplay is Scandinavia\xe2\x80\x99s leading online service for TV, Film and Sport. Viaplay gives you unlimited access to the latest and most popular TV-series, thousands of films and world class live sport events. Experience Viaplay with a completely new, enhanced app for Android-users. The app offers a completely new User Interface and a number of new technical solutions to give you the best streaming experience. Please note that our TV & Film offerings might differ from the Viaplay website due to different content rights on different platforms. To access the content, you need to be a Viaplay subscriber and have one of our packages. Sign up and buy one of our packages TV, TV+Film or TV+Film+Sports. You can also register for a 30 day free trial period with the TV+Film-package, without any binding period. Please note that our TV & Movie offerings might differ from the Viaplay website due to different content rights on different platforms. The Viaplay app lets you:* Star content you wish to return to later. Your starred list synchs between your Viaplay devices (Android, iOS, PC etc)* Filter films on Rotten Tomatoes ratings - based on user- and critics review* Watch film in HDViaplay offers your favorite series from TV3, TV6, TV8, ABC and WarnerTV \xe2\x80\x93 before everybody else, without any commercial interruptions. Experience everything from blockbusters to classics. Viaplay also offers sport events from Premier League, Champions League and NHL, PGA, Formula 1, Nascar and much more.FeedbackIs there anything you miss in Viaplay? Is there anything we can improve? Feel free to submit feedback to us via the settings tab in the app.Recent changes:3.0.5- Bug fix for TV series availability \xe2\x80\x93 all content and all episodes are now available'
+p4
+tp5
+tp6
+.

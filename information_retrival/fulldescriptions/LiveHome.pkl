@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LiveHome '
+p1
+tp2
+(S'Description:'
+p3
+S'LiveHome is a free home(launcher) replacement app and one of the most popular launcher apps in android market, provides beautiful themes,wallpaper and useful funcitons.-Customizable app drawer(old drawer or iphone/galaxy drawer)-Customizable drag&drop action buttons. -Advanced task taskmanager.-Fancy home screen transition(menu->livehome->Desktop transition).-Themes support.-Up to 7 home screens.-Scrollable widget support.LiveHome Features:1.More Customization  menu->livehome->Settings.2.Online theme/wallpaper  menu->livehome->theme/wallpaper.3.IconManager,can hide and custom your app  menu->livehome->iconmanager.4.Taskmanager and app Uninstall.  menu->livehome->Taskmanager.5.Desktop Transition:3D,Book...  menu->livehome->Desktop Transition.6.Bottom Bar.  you can drag app to bottom bar.*support many themes: pandahome/ahome/openhome...*support livehome/ahome  iconpack to prettify the home.*support:1.5,1.6,2.1,2.2,2.3Recent changes:1.Remove all ads.2.Free all themes and widgets.3.Use new ui and fix some bugs.***Thanks for key user.'
+p4
+tp5
+tp6
+.

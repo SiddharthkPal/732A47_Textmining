@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Dictionary English - ArabicDesigned to be a comprehensive companion of great need to return to the dictionary without obstruction or delay to the workflow. This program works inside most Android SystemsThrough its database containing more than 100 thousand words, and its dependence on technology AJAX to show results directly, with options emergence words close to spell the word respondent reported, to overcome the problems of spelling errors, and the ability to search the corresponding completely through exclusively between (%%); be a program of excellence in their respective fields'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"McDonald's Nederland "
+p1
+tp2
+(S'Description:'
+p3
+S"Good news for all Android users. With the new App of McDonald's you have now all information about McDonald's at hand.What is included in the McDonald's App:- Find the nearest restaurant- A product review so you always can see what products to McDonald's image, ingredients and nutritional values- A handy list of where each order can be written- Always the latest actions and newsRecent changes:- New: coupons available in the McDonald\xe2\x80\x99s App. Activate push messages and keep informed about the latest offers."
+p4
+tp5
+tp6
+.

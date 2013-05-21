@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nextag Shopping '
+p1
+tp2
+(S'Description:'
+p3
+S'Shop smarter and easier than ever before with Nextag Shopping; our revolutionary shopping application. Effortlessly explore thousands of stores with millions of products and then make secure purchases directly from your iPhone, iPod or iPad. Whether you\xe2\x80\x99re sitting on the bus, waiting for a train or relaxing at the beach, you\xe2\x80\x99ll never miss the perfect price again. With Nextag Shopping, you can: \xe2\x80\xa2 Shop like never before with our new scrolling search bar. \xe2\x80\xa2 Snap a photo of what you want and Nextag Shopping will identify and find it. \xe2\x80\xa2 Simply scan any barcode to find the lowest prices in seconds.\xe2\x80\xa2 Instantly see the tax and shipping costs for your location. \xe2\x80\xa2 See product details and reviews in search results. \xe2\x80\xa2 Quickly sort your search results by price, rating, date, or popularity.Recent changes:- Included the privacy policy and terms of use details - No more Google ads'
+p4
+tp5
+tp6
+.

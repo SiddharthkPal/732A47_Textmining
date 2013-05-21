@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MetaTrader 4 '
+p1
+tp2
+(S'Description:'
+p3
+S"Trade Forex with your Android smartphone or tablet!One of the most popular Forex trading platforms, MetaTrader 4, is now available on your Android phone or tablet absolutely free of charge. Trade currencies with any of 1000+ servers of brokerage firms that use the MetaTrader 4 trading platform. With this application, you can control your account and trade in the financial markets.TRADING* Real-time quotes of financial instruments* Full set of trade orders, including pending orders* Trade directly from the chart* More than 1000 servers of various forex brokers available* Support of all types of execution modes* Complete trading historyTECHNICAL ANALYSIS* Real-time interactive charts with zoom and scroll* 30 technical indicators, including the most popular ones, such as Average True Range, Bollinger Bands, Commodity Channel Index, Envelopes, Force Index, MACD, Momentum, Money Flow Index, Moving Average, Moving Average of Oscillator, Relative Strength Index, Standard Deviation, Stochastic Oscillator and Williams' Percent Range* 7 timeframes: M1, M5, M15, M30, H1, H4 \xd0\xb8 D1* 3 chart types: Bars, Japanese Candlesticks and LineCONVENIENCE* User friendly interface* Trade levels and volumes on the chart* Offline mode (symbol prices and charts)* Minimum trafficDownload MetaTrader 4 to your Android phone or tablet and enjoy Forex trading any time and from anywhere in the world.Recent changes:* Fixed errors reported by users and in crash logs"
+p4
+tp5
+tp6
+.

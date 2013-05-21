@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TVdream '
+p1
+tp2
+(S'Description:'
+p3
+S"TV from around the world is now in your hands: TVdream, the TV you've always dreamed of, comes on your Android Smartphone and Tablet to take you beyond any geographical border, without having to give up your favorite television program or channel.Sports, News, Music, Movies, Cartoons, Documentaries, Live Events now always with you!The Social TV is easy, fast and always updated, which allows you to create your personal playlist and share channels with your friends!Choose the channel, press play and enjoy the show!Information Notes:The TV channels on this application are video streams available for free to anyone on the Internet. TVdream does not transmit a signal: all video streams come directly from the server of issuers that have obtained the rights to broadcast on the Internet.For more info and assistance:Application Website: http://android.tvdream.netLegal Notes: http://www.tvdream.net/note-legaliEmail Adress: staff@tvdream.netRecent changes:- Optimized version for Tablet- Vertical vision video or in horizontal full screen with automatic rotation or manual button- Pause button with restart from the stopped point of the video- Report a broken channel- Bug fix in-app purchase for unlocked version"
+p4
+tp5
+tp6
+.

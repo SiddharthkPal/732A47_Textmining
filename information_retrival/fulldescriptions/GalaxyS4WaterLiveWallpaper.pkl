@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Galaxy S4 Water Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Download free Galaxy S4 Water live wallpaper with water ripple effect and floating light particles.Inspired by original Samsung Galaxy S4 balloon backgrounds.It is "Water Droplet" effect version! Touch or tap the screen to add water drops on your home screen!To use: Home -> Menu -> Wallpapers -> Live WallpapersTo develop more free great live wallpapers, we have implemented some ads in settings.Advertisement can support our develop more free great live wallpapers.This live wallpaper has been tested on latest devices such as Samsung Galaxy S3, Nexus 7, HTC Desire S and Sony Xperia S. Please contact us if your device is not supported.Note: If your wallpaper resets to default after reboot, you will need put the app on phone instead of SD card.Follow us on Twitter: https://twitter.com/androidwasabi" target="_blank">https://twitter.com/androidwasabiDisclaimer/TrademarksGalaxy S4 is a trademark of Samsung. This app is not affiliated with or endorsed by Samsung.Recent changes:- Initial release'
+p4
+tp5
+tp6
+.

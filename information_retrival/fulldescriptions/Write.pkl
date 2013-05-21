@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Write '
+p1
+tp2
+(S'Description:'
+p3
+S"Write is a word processor for handwriting.  In addition to all the usual features of a vector drawing application,   it provides a unique set of tools for editing and navigating handwritten documents.  Write is perfect for note-taking, brainstorming, and drawing. Watch the demo video to get started!Write is available for Android, Windows, Mac, and Linux.Features:* tools: draw, erase, select, insert space, and add bookmark* move strokes and insert space in multiples of the page's ruling* reflow handwritten text with the insert space tool* insert bookmarks and label them with handwriting* create handwritten links to bookmarks and websites* cut, copy, paste selection* unlimited undo/redo jog dial* continuous scrolling of document* customize and save pens, including pressure sensitive pens on devices with an active stylus * user defined page size, color, and ruling* pages can grow automatically when writing nears edge* split screen with web browser to take notes from web pages or videos* HTML/SVG document format viewable in any modern web browser (PDF export also available)* view thumbnails as a grid or list* when viewed as list, arrange thumbnails by drag and dropPermissions:* Internet access for the built-in web browser.* Write to SD card - documents are stored in /sdcard/styluslabs/write/Problems? Feature requests? Email: support@styluslabs.comRecent changes:* pressure sensitive pens (with active stylus)* option to pan when writing by swiping in from edge of screen* true highlighters (drawn behind other strokes)* improve error handling when opening and saving documents* warn if new page size clips strokes* use page background color in bookmark view* undo/redo now preserves z-order of strokes* display changelog on update"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zoosk - #1 dating app '
+p1
+tp2
+(S'Description:'
+p3
+S"Zoosk is the #1 dating app in the app store. Our Behavioral Matchmaking\xe2\x84\xa2 technology connects millions of singles every day. \xe2\x9d\xa4 Browse millions of singles for FREE \xe2\x9d\xa4 View your scientific matches for FREE\xe2\x9d\xa4 Start a conversation for FREE \xe2\x9d\xa4 See who\xe2\x80\x99s online for FREE\xe2\x9d\xa4 Vote users on Carousel for FREEZoosk's behavioral matchmaking engine\xe2\x84\xa2 is smart. It learns from your feedback and continuously refines its search results to find more qualified matches for you. We are the #1 dating app in the app store; we must be doing something right :)It only takes seconds to sign up and start chatting. So what are you waiting for?______\xe2\x9d\xa4 100% safe and secure \xe2\x9d\xa4 100% real-time\xe2\x9d\xa4 100% location-based\xe2\x9d\xa4 80,000 new singles join everyday\xe2\x9d\xa4 12,000,000 fans on Facebook & Twitter\xe2\x9d\xa4 Better Business Bureau (BBB) Accredited Business______Other things you need to know: \xe2\x80\xa2 Your privacy, safety and security is our top priority \xe2\x80\xa2 You must be at least 18 years old to sign up for Zoosk\xe2\x80\xa2 You can view our Privacy Policy at https://www.zoosk.com/privacy.php\xe2\x80\xa2 You can view our Terms of Service at https://www.zoosk.com/tos.php\tIf you\xe2\x80\x99ve tried Match.com, eHarmony, OkCupid, or Plenty of Fish without success, try Zoosk today and date smarter\xe2\x84\xa2.Recent changes:\xe2\x9d\xa4 Chat with other online Zoosk members!\xe2\x9d\xa4 Stay informed and launch the app quickly with the new Widget!\xe2\x9d\xa4 Enjoy a faster and cleaner user interface\xe2\x9d\xa4 Bug fixes and UI improvements"
+p4
+tp5
+tp6
+.

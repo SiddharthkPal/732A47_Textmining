@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fun Run - Multiplayer Race '
+p1
+tp2
+(S'Description:'
+p3
+S'** Over 22 million players worldwide! **Race against your friends or random people in real-time! All the cutest, furriest creatures of the forest are out running. For you to remain a cool critter, it is essential that you finish the race before your furry friends.No amount of force is excessive.Fun Run is an online real-time multiplayer game for smart phones and tablets, both Android and iOS. You can be anywhere in the world and play with up to four players simultaneously. Play with your friends or get matched with random players from around the world!Keywords: online, multiplayer, physics, four, player, realtime, stream, race, mario kart, sonic, challenge, fun run, funrun, cross platform, competativeRecent changes:For full patch notes, go to dirtybit.com/patchnotes.html1.6.1* New avatar* Orientation fix for Android 2.21.6Introducing Daily Challenges!* Unique challenges every day* Hot Streak, Daily Win, Terminator, Addicted etc.* Graphic updatesNew permissions to check network status and cache data.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Friday: your second brain '
+p1
+tp2
+(S'Description:'
+p3
+S"Friday is just like your brain. It captures events happening around you. The people you talk to, the places you visit, the images you capture, and the songs you listen to, etc. And like your brain, it initiates thoughts and ideas for you, it helps you remember information, it tries to anticipate actions.Friday is not just a backup service, on the contrary, it collates all the information including your location, people / contacts, moments, music, pictures, facebook, twitter and foursquare (social) feeds, apart from your calls, texts and mails to present you with a digitized form of memory which is searchable. In essence, friday becomes your best friend or an alter-ego with full access to your memory and important events. With friday activities, you can share or, just log your favorite activities you've been doing all day.Friday helps you forget to remember. The app does the remembering for you.PERMISSIONS===========ACCESS_FINE_LOCATION, ACCESS_COARSE_LOCATION - Journaling your tracks and trips. android.permission.INTERNET, ACCESS_NETWORK_STATE - Cloud Syncing, viewing etc. READ_CONTACTS - For quick actions, people display on timeline etc.READ_CALL_LOG, READ_SMS, RECEIVE_SMS - To sync your calls and Texts. WAKE_LOCK - Use display and processor time efficiently, yet keeping your timeline fresh.WRITE_EXTERNAL_STORAGE - Cache resources (Images, contact pictures etc) on SD card.MANAGE_ACCOUNTS, AUTHENTICATE_ACCOUNTS, WRITE_SYNC_SETTINGS, READ_SYNC_SETTINGS - Create and maintain a 'friday' sync account and service.GET_TASKS - To scroble the music player and sync your song logs.Recent changes:New in 14.11- Share events from event detail view.- Copy phone numbers, text etc. from message/call event detail view.- bug fixesNew in 14.1- Completely redesigned app.- Brand new look that embraces Android design guidelines.- Faster and easier to access all your information.- Do more actions directly from Friday, read, respond, call, mail.New in 13.5 - corrected issue with Posting Image in an Activity - stability fixes - critical bug fixes"
+p4
+tp5
+tp6
+.

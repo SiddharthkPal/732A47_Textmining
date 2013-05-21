@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zara '
+p1
+tp2
+(S'Description:'
+p3
+S'Enjoy the latest in fashion for women, men and kids. Find online ZARA new arrivals, Lookbook, People!, Campaign and more weekly contents. Shop Online.Recent changes:New campaign Spring/Summer 2013'
+p4
+tp5
+tp6
+.

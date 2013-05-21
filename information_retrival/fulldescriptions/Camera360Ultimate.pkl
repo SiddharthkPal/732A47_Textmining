@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Camera360 Ultimate '
+p1
+tp2
+(S'Description:'
+p3
+S'Camera360 is one of best camera apps favored by over 90 million users all over the world with fantastic Filters to make gorgeous photos.All good suggestion from Camera360\xe2\x80\x99s fans is highly appreciated and considered by us. It has been more than 3 months to improve and now I am happy to claim the totally new update of Camera360. In the new v4.0, you will see brand new UI, optimized UE, easy switch between Effects and Scenes, 6 shooting mode, quicker response, zero-shutter and much much more. Now Chinese, Traditional Chinese, English and Thai are supported. There will be more languages supportive.Features#Six Shooting Modes#Effects, Self-shoot, Fast-shoot, Funny, Tilt-shift, Color-shift, such 6 photography modes make any photograph fantastic.#Numerous beautiful Effects#Apply the third generation photo processing engine, make Effects clearer and better, and bring you beyond thrilling photographing experience like never before.#Interesting Scenes#More and bigger Scenes to decorate photo bring you more surprises and make photography interesting.#Cloud Service# (2000 px at maximum upload supported)Safe, lifelong and private, Camera360 Cloud provides you a safe and smart platform for photo browse, manage, edit and share.#Easy Share#Easily share your stylish photos with the world by Facebook, Twitter and more.Special thanks goes to all users who select Camera360 and continuously support us. As Android OS and device varies a lot and it is difficult to make Camera360 work perfectly on everyone\xe2\x80\x99s device. Please feel free to contact us at support@pinguo.us if there is anything we can do for you. Each of your problem and suggestion is highly appreciated and registered by us. We can not guarantee they will end up part of reality in future version of Camera360, but we are always trying to make Camera360 better and better. Please write to us before you rate us low if you run into any problem. We will try to reach back to you as soon as we can. Thank you.Recent changes:1.Added 6 shooting modes makes photography easier (Effects, Self-shoot, Fast-shoot, Funny, Tilt-shift, Color-shift, color-shift.);2.Multi-effects is available to make photo more creative;3.New Scenes to decorate photo make photography more interesting;4.Safe, tight and lifelong Cloud Service of Camera360 Cloud;5.Brand New UI and Landscape mode is supported;6.Speed up starting and shooting. It is easier to catch each wonderful moment.'
+p4
+tp5
+tp6
+.

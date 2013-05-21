@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Manga Plus Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"The best manga reader on Google Play, get thousands of series direct on your device.If you're having problems downloading remember to state which Manga you had problems with, there is no use in saying 'it won't download!'Search for and download entire collections of manga direct to your library, keep track of what you've read or import your own collections from PC.Features - Smooth image reader: swipe to turn pages, automatically remembers what page you where on when you leave. - Search: download hundreds of series online, or browse by category - Library browser: browse through your manga with wonderful cover art - Import: drag and drop zip files from your computer to you device to add them to your libraryExamples of manga available - Naruto - Bleach - One Piece - The Melancholy of Haruhi Suzuymiya - Death Note - High School of the Dead - D.Gray-Man - Gantz - Katekyo Hitman Reborn! - Soul EaterIf you have any problems with the app, please make sure to email on my developer account and I'll try to sort it out as soon as possible!Copyrights and trademarks for the manga, and other promotional materials are held by their respective owners and their use is allowed under the fair use clause of the Copyright Law. The Manga Plus application does not contain any copyrighted material.Recent changes:2.3.0 - Fixed crash that occured when turning pages faster then the device could handle - Updated parts of app to cards-style user interface - Fixed random crash in library that effected some devices - Fixed a crash on download that effected some devices - Overhauled information page - Many more bugfixes"
+p4
+tp5
+tp6
+.

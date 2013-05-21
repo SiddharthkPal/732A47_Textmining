@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Workday '
+p1
+tp2
+(S'Description:'
+p3
+S'The "Workday" app is designed for use by Workday customers and requires authorized Workday credentials.For Workday customers, the "Workday" app provides secure mobile access to your Workday enterprise cloud applications. The app also enables you to keep your important business transactions with you when you are on-the-go and away from your desk.With the "Workday" app, you can:\xe2\x80\xa2 Search for people: Easily find your co-worker\'s business site, phone number, email address, work address, and position. With a simple touch, you can call or email a co-worker, or pull up a map of their business address. \xe2\x80\xa2 Navigate your directory: Use Workday\'s unique organizational swirl to view where employees are within your company, who they report to, who their peers are, and who reports to them. \xe2\x80\xa2 View and take action on your Workday business transactions: Submit approvals, manage To-Do lists, and view the status of your submitted requests. \xe2\x80\xa2 Request time off and check time off balance: Check your time off balance and submit time off requests to your manager, no matter where you are. \xe2\x80\xa2 View your payslips: See your next pay date and review the details of your recent payslips. \xe2\x80\xa2 Capture expense receipts: Snap a photo of an expense receipt at the time of the expense. \xe2\x80\xa2 Provide feedback, take notes, view timeline: From the worker profile, send feedback to a co-worker, take personal notes about a co-worker or take a look at the important events in an employee\'s history.GETTING STARTED: To use the "Workday" app, your company must be a Workday customer and you must be an authorized user for the app. See the Application License Agreement for details.ABOUT WORKDAY: Workday is a leading provider of enterprise cloud applications for human resources and finance. Founded in 2005, Workday delivers human capital management, financial management, and analytics applications designed for the world\'s largest organizations. Hundreds of companies, ranging from medium-sized businesses to Fortune 50 enterprises, have selected Workday.Recent changes:\xe2\x80\xa2\tSearch\xe2\x80\xa2\tProfiles\xe2\x80\xa2\tDirectory\xe2\x80\xa2\tWorkfeed\xe2\x80\xa2\tTime-off\xe2\x80\xa2\tCheck-in/out\xe2\x80\xa2\tExpense Receipts\xe2\x80\xa2\tPayslips\xe2\x80\xa2\tChange Contact Information'
+p4
+tp5
+tp6
+.

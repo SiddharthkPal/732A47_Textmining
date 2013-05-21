@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medicine Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S"Medicine Dictionary is a perfect as a quick reference on the wards or in a busy clinic, this is  pocket guide to offer disease essentials in a one-disease-per-page.To-the-point information on the diagnosis and treatment of more than 500 of the most common diseases seen in clinical practiceFeature:A quick search of words while you type* A 'fuzzy filter' for when you are not sure of the correct spelling of a word* A 'keyword' search for finding key words within phrasal verbsThe dictionary app includes a number of features which help you to expand your vocabulary offline modes supported, the offline mode allows you to download the whole dictionary and work independently from data connections .Medicine Dictionary is a database of concise emergency medicine notes to assist physicians with their daily practice.It deals with health in all its aspects;  health,  balance, spiritual well-being, social welfare, environmental considerations, dietary and lifestyle habits, daily living trends, and seasonal variations in lifestyle.The main motive to provide this app to give only information if you want to apply on a subject first concert to the doctor."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'QuickPic '
+p1
+tp2
+(S'Description:'
+p3
+S"The best photo gallery and picture browser&viewer in Android, more quick and clear, just as millions of users say!1. View and slide show with best quality, more clear than other apps.2. Quick browsing tons of pictures, quick find all your pictures, without background service.3. Include or exclude the specified folders to make more efficient scanning.4. Easy hide your photos and videos from the gallery apps, protect them with a password.5. Play animated-GIFs and standard videos.6. Smooth experience: sliding shift or switch, single or double tap or pinch to zoom.7. Rotate, shrink, crop pictures, set wallpaper with best quality.8. More file management features: sort, rename, create new folder, move and copy pictures.9. Optimized for HD tablets10. It is free and no ads!HTC users:   You can not share a photo to MMS again, HTC don't allow a third app to do this again, please report it to HTC!\xe3\x80\x80There are hundreds of phones/tablets running Android, I am always doing my best to make my app working fine on every device. So, if you find any issue, before you post useless comments or rating, please try to send email to me, I will help you to fix it.Tips:Please BACKUP YOUR IMPORTANT PHOTOS before your do file operations!Long press a thumbnail to move/copy to another or new folder. Enter multi-select mode to find the batch operations.Include the picture folders only in the settings to speed up the scanning.Can't sync Picasa or Facebook or other web albums.Can't show TIFF.Can't set lock screen's wallpaper because of private interface.Show 3D photos(MPO,JPS) with 2D mode.Reinstall the app to clear your password.Video is no my target, if you think video playing is not good enough, please go to the market and find a good one...Recent changes:v2.9.4:1. Add dark and light gray themes2. Better transitions for Android 4.13. Fix some minor bugs,  (Moto's 4.1 menu issue should be fixed)v2.9:1. Open folder & picture smoother with new lightweight framework2. Independent explorer mode and easier move & copy pictures3. Long press to multiple select, better fast scroll for long list4. Option: split action bar when narrow5. Multiple window for SamsungCould someone help me find a job in America, Google is Preferred :)"
+p4
+tp5
+tp6
+.

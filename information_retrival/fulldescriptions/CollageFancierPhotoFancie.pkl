@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CollageFancier - PhotoFancie '
+p1
+tp2
+(S'Description:'
+p3
+S'Your First Choice Of Collage Apps.\xef\xbc\x8aIntuitive user interface. \xef\xbc\x8aSmall apk size( < 1MB). Don\'t worry about your device memory.\xef\xbc\x8aPowerful functions:  - Over 200 grid layouts of specal design  - Ease of changing the layout by dragging the points to make your own design  - Plenty of frame shapes and supported backgrounds, make your collage more beautiful.  - Photo editing function could help you to adjust each photo more suitable for your collage.  - Different collage orientations and aspect ratios supported.   - Convenient text editing function.Thanks for your appreciation.If there is any problem you meet, please feel free to contact us.Our Email: acforuserfeedback@gmail.comFacebook: http://www.facebook.com/PhotoFancieThank you.======================[Important]Please unckeck the option of "Force GPU rendering" in Developer options to ensure functions work.Setting path:Settings->Developer options->Force GPU rendering (unckeck this option.)[For user feedback]Dear user, if you want to get rid of the white default border when the pic is saved, please select the saving format as .PNG.However, it will spend more time in saving.======================Keyword search:Photo Frame/ PhotoFrame/ Photo Grid/ PhotoGrid/ Photo Editor/ PhotoEditor/ Instant Photo / Collage/ Photo collage/ Collage maker/ Collage creator/ PhotoCollage/ Photo assemblage/ PhotoAssemblage/ Photo wallapaer/ Photo album/ Photo thumbnail/Photo wall/ PhotoWall/ Photo lab/ Pic stitch/ Instagram/ instagram/ Facebook/ facebook/ Evernote/ evernote/ Line/ line/ whatsapp/ Whatsapp/Recent changes://2013/04/09: Version 4.3.41.Modifies the frame background selection page.//2013/03/31: Version 4.3.21. More layouts added for 6 photos.2. Functions for modifying cell rounded corner fixed together.//2013/03/20: Version 4.3.01.Function for modifying image saturation supported.2.More layouts supported.3.Some UI changed.4.Upgrade to Pro-version supported.5.Some bugs fixed.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yatse Stream Plugin '
+p1
+tp2
+(S'Description:'
+p3
+S'Full featured remote control for Xbmc with WidgetsThis application is a plugin for Yatse, the XBMC Remote.When installed it allows streaming of your Xbmc videos to your phone or compatible UPnP / AirPlay client from Yatse. (Needs Unlocker).You need to have UPnp Activated in Xbmc and be connected to Wifi in the same network as Xbmc.For local playing you need a local Video Player like Mx Player.* Support resuming point with Mx Player* Support continue from Now Playing screen with Mx Player (Stop currently playing media and continue it on your Android device)* Support Stream to and Resume to any compatible UPnP / AirPlay client (Play your Xbmc content)* Support updating of Xbmc resume point after streamingFor more details : http://yatse.leetzone.org/redmine/projects/androidwidget/wiki/UsingYatse#Streaming-Unlocker-onlyREMARKS : - You need to have Yatse, the XBMC Remote 3.1.0. at least to use it.- You need to have Yatse Unlocker to use it.Recent changes:1.2.0 : The Stream to now also support compatible AirPlay target (No raop audio transcoding)1.1.0 : Allow Stream To from Yatse.You need Yatse 3.1 at least to use this version of the plugin !1.0.3 : Correct a small rare crash1.0.2 : Initial public release'
+p4
+tp5
+tp6
+.

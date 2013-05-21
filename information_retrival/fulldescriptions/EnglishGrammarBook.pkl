@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English Grammar Book '
+p1
+tp2
+(S'Description:'
+p3
+S'This application is the best way to improve your English Grammar at home, on the move, anywhere! Grab it and Master it.What is included in the app?Active Or Passive VoiceAdjectivesAdverbsArticlesAuxiliary VerbsConditionalsConjunctionsDeterminersIdiomsInterjectionsIntroductionNounsPhrasesPrepositionsPronounsQuantifiersQuestion TagsReported SpeechTensesVerbsAnd more added every week......You can also practice English Grammar from this app..We have practice exercises where you can answer grammar questions and get scores..FeaturesApp contain detailed explanation for every topic covered.Simple User Interface.Explanation shown using tables for better understanding and reading.Practice Exercises.And it\'s Free!!This app will be constantly updated with new contents, and tests which help you continually refreshing your knowledge.If you like this app please visit our Facebook Page..https://www.facebook.com/EnglishGrammarBookand encourage usif you find some errors please mail us at zayan.infotechpvtltd@gmail.com..Have a Great Day...EnjoyKeywords : English, Grammar, people, study, education, more topics, nouns, pronouns, verbs, adverbs, adjectives, reported speech, active voice, passive voice, preposition, conjunction, interjection, tenses, past tense, future tense, present tense, continuousRecent changes:1. Use of "Had Better" 2. Usage of \'\'Used to\'. 3. A new look for the Practice Mode.4. Use of \'Shall\'. 5. Common English Errors in real world situations.6. How to make Plurals ? Read More from the app...'
+p4
+tp5
+tp6
+.

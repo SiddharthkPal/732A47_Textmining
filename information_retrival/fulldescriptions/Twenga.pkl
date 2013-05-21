@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Twenga '
+p1
+tp2
+(S'Description:'
+p3
+S"Twenga, an online shopping search engine, becomes your mobile and tablet companion to easily and quickly access millions of offers and product features all while scoping out the best price no matter where you are. Compare products from your mobile or tablet and find your favourite brands, discover our best deals and save money!Go shopping on your phone or tablet: - All your purchases directly at your doorstep or available in-store. Have a fast and easy access to the biggest catalogue on the internet from your tablet or mobile: 400 millions offers on 200 000 online shops.- Compare prices before buying to save money! Find the shop that offers the lowest price for the product you want and follow price changes. - Make the right choice easily, even from a store. With the barcode scanning feature, you'll find the best price anywhere, anytime!- Save your favorite products: in one click, you can save the products you like and go back to consult or purchase them later.  - Be properly advised: hesitating about a product or offer? Ask for your friends what they think via Facebook, Twitter or email!The application is available in the following countries: United Kingdom, France, Germany, Italy, Nederlands, Spain, Brasil, United States, Poland and Russia. You can search and find products in those countries.The application is available in several languages: English (UK & US), French, Italian, German, Spanish, Brasilian, Dutch.You can change this setting through the Settings Menu of the application or directly in the System Settings of your device.If you have any question or problem, contact us to the following address: support-android@twenga.comRecent changes:- The search engine is even more precise!- Filter improvements- Correction of bugs, thanks for your feedback!"
+p4
+tp5
+tp6
+.

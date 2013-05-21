@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Turkey Hunting Calls '
+p1
+tp2
+(S'Description:'
+p3
+S"12 Turkey Calls and calling instructions in your pocket always with you. The ratings speak for them self! Get it as long it's free.Designed with hunters in mind. Play, Stop or Change calls on the run from Big and clear buttons.Check your local game laws for legal use if you intend to use this in hunting."
+p4
+tp5
+tp6
+.

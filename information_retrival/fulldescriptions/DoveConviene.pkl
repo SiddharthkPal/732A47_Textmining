@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DoveConviene '
+p1
+tp2
+(S'Description:'
+p3
+S"Scopri i volantini e le offerte dei negozi e supermercati per fare shopping vicino casa tua: dall'elettronica ai supermercati, dall'abbigliamento al bricolage, dall'arredamento ai discount, dalla cura del corpo e della casa ai viaggi.Tra le funzioni principali dell'applicazione:- VOLANTINI: cerca e sfoglia in pochi secondi tutti i volantini e i cataloghi attivi nella tua area;- OFFERTE: scopri le migliori offerte e occasioni della settimana scelte dal nostro staff;- MAPPA: cerca sulla mappa i punti vendita di qualsiasi catena con indirizzo, orari e telefono del negozio;- NOTIFICHE: ricevi notifiche sulle nuove uscite di offerte e sottocosto di tuo interesse vicino casa tua;- PREFERITI: salva volantini e offerte preferite in modo da averli a disposizione mentre fai shopping.Per segnalare qualunque problema scrivete a info@doveconviene.itAlcune delle catene presenti: Catalogo Ikea, Mondoconvenienza, Decathlon, Mediaworld, Euronics, Trony, Unieuro, Expert, Leroy Merlin, Lidl, Eurospin, Ipercoop, Carrefour, Auchan, Esselunga.Risparmiare con le promozioni dei volantini e dei cataloghi \xc3\xa8 un gioco da ragazzi con DoveConviene, trova le migliori offerte per il tuo shopping! Salva sui Preferiti il tuo Volantino o Catalogo e sfoglialo!Presto inoltre potrai usare Doveconviene per scoprire se il negozio vicino a casa \xc3\xa8 aperto domenica, scoprire qual'\xc3\xa8 il prezzo giusto di un prodotto, e confrontare i prezzi benzina!Dove far\xc3\xb2 la mia spesa? Non \xc3\xa8 pi\xc3\xb9 un problema con DoveConviene!Recent changes:1.8.1Nuovo sfogliatore nativo che migliora moltissimo l'esperienza di lettura sia come fluidit\xc3\xa0 che come velocit\xc3\xa01.8.2Risolto bug che non permetteva l'invio di notifiche1.8.3Risolti bug minori"
+p4
+tp5
+tp6
+.

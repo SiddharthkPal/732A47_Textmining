@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DTM \xc3\xa2\xe2\x82\xac\xe2\x80\x9c the official App '
+p1
+tp2
+(S'Description:'
+p3
+S'Captivating races, spectacular race cars, celebrity drivers and an attractive entertainment program at the track \xe2\x80\x93 with its 26-year tradition the DTM is the most popular international touring car series. In 2013 once more the german manufacturers Audi, BMW and Mercedes-Benz fight for title honors. The new official DTM App brings the action from the race track to your Android-Smartphone. In addition to new, results and films it also contains many interactive elements. The App is the ideal companion for your visit to the race track and keeps you abreast of all the latest news in and around the DTM between the checkered flag and the next race. Being close to the fans is a trademark of the DTM, which is why the new App is free of charge. The digital version of the official DTM Event Guide, which is also available free of charge from the Google Play Store, is the perfect supplement for tablet devices. The highlights: - News All the reports and news hot off the press and in the thick of the action - Results The results from every session in the season and all tables and standings - Live timing Every session on a weekend with live timing, live table and live ticker - Interactive schedule With the automatic reminder function you\xe2\x80\x99ll never miss another appointment - Animated starting grid Get in the mood for the next race - Huge picture galleries Here you can find the stars, race cars, grid girls and much, much more - dtm.tv for on the move Interviews, portraits, boulevard \xe2\x80\x93 all films on the iPhone - Tickets Your direct route to the best seats at the race track - Many extras Wallpapers, car locator, background information about the series and the organization, team portraits and much more'
+p4
+tp5
+tp6
+.

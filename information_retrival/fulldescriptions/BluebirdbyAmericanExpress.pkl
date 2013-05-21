@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bluebird by American Express '
+p1
+tp2
+(S'Description:'
+p3
+S'Bluebird[1] is your Checking and Debit alternative[SM] loaded with features, not fees.  There are no monthly, annual or overdraft fees, and there is no minimum balance requirement.  With a Bluebird Account, you can enjoy the conveniences of Employer Direct Deposit, ATM Access, Online & Mobile Bill Pay, Adding Checks with the Mobile App, and Bluebird Sub-Accounts.  And since Bluebird is brought to you by American Express\xc2\xae, you\xe2\x80\x99ll also enjoy access to benefits like Purchase Protection[2] and Award-winning 24/7 Customer Service, at no additional charge.   With this app, you\xe2\x80\x99ll be able to take advantage of Bluebird\xe2\x80\x99s great features and benefits \xe2\x80\x93 on the go. Download this app to: Register for and establish a Bluebird Account Manage your Bluebird Account anytime, anywhere Add funds to your Bluebird Account Add checks easily using your mobile device Pay bills Locate the nearest surcharge-free, in-network ATM Send money to and receive money from other Bluebird Members Transfer money to and from your Bluebird Sub-Accounts & view their transactions And more You can rest assured that your personal information and transactions are secure. Visit us at Bluebird.com for more information. [1]Bluebird is issued and backed by American Express Travel Related Services Co., Inc., not a bank. Funds are not FDIC-insured. [2]Purchase Protection is underwritten by AMEX Assurance Company, Administrative Office, Phoenix, AZ. Coverage is determined by the terms, conditions, and exclusions of Policy AX0951 or Policy PP-IND and is subject to change with notice. This document does not supplement or replace the Policy.Recent changes:What\xe2\x80\x99s new in version 1.5.0.1- Minor Bug fixes'
+p4
+tp5
+tp6
+.

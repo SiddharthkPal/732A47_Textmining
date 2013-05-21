@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Volume Control '
+p1
+tp2
+(S'Description:'
+p3
+S'This simple volume control app, controls / manage the every sound your device makes.It simply acts as a volume /audio equalizer or audio manager for your android phone, With individual access to all Android audio streams, this app puts you in control of every sound your Android phone makes. Music control of your DJ, multimedia, media player will be easy.Features:- Simple UI- Move to SD Card.- Fastest sound control app.- you can adjust -Ringer volume , (Ring control)-System volume , -Notification volume , -Alarm volume , -Media (i.e. music, audio, video , songs ) , -In-call volume ( voice call ) easily.About Permissions:*INTERNET & ACCESS_NETWORK_STATE etc:To display AdMob/revmob ads this permissions are needed.we understand your privacy so we DONT spam, its not in our DNA.Disclaimer: This is not a volume booster or audio booster app, widget.tags: volume control, volumes sound ,notification, media in-call,ringer, alarm music.Recent changes:1.2  optimization1.1 Bug Fix1.0 First version'
+p4
+tp5
+tp6
+.

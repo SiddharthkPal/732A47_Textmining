@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Digimarc\xc3\x82\xc2\xae Discover '
+p1
+tp2
+(S'Description:'
+p3
+S'Digimarc\xc2\xae Discover lets you use your Android phone to detect imperceptible digital watermarks, QR codes or barcodes in printed materials and to identify songs.  Read a watermark or QR code to link you to information, video, and related content through many different types of network services.  Scan barcodes to get product info, compare prices, find related products, and read user reviews.  Identify songs to learn the title and artist, see cover art, and shop for the song online.  You can find examples of watermarked materials at www.digimarc.com/demo. Digital watermarks are imperceptible digital codes that can easily be embedded into printed content; you can\xe2\x80\x99t see them, but your phone can. Launch the app and hold the camera steady, 4 - 7 inches (10 \xe2\x80\x93 18 cm) away from any watermarked content. For more information on the Digimarc Discover platform, visit www.digimarc.com/discover. To embed digital watermarks in your images and to link them to network services and Interactive Experiences, create a free account on the Digimarc Discover Online Services Portal at www.digimarc.com/portal.  Get started today with a 30 day free trial!This application demonstrates how Digimarc Discover enables publishers, brands, agencies and marketers to deliver a whole new dimension of rich media experiences on the iPhone and Android family of smartphones.  Over time, Digimarc Discover will enable the identification of all forms of media content \xe2\x80\x93 print, barcodes, audio and video \xe2\x80\x93 to provide instant access to the information, assistance and entertainment today\xe2\x80\x99s consumers want.Digimarc offers opportunities for Value-Added Service Providers. For more information, go to: www.digimarc.com/contact.To view the End User License Agreement for the Digimarc Discover app, please go to:  www.digimarc.com/m/eula/androidRecent changes:- Improved auto focus support for Samsung Galaxy S II (T-Mobile)Notes:  - Permission for Location access was changed to Fine.  This was required to fix crashing behaviors for several phones that did not support Coarse location sources.'
+p4
+tp5
+tp6
+.

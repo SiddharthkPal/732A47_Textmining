@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ab workout A6W '
+p1
+tp2
+(S'Description:'
+p3
+S"Caynax Aerobic Weider Six - Caynax A6W - daily ab workout for perfect 6pack(yet another great app from developers of Caynax Alarm Clock and Caynax HIIT)Application contains workout schedule to perform in 42 days - just 6 weeks, no shortcuts - known as Aerobic Weider Six (Aerobic Six of Weider).Daily ab workout contains 6 exercises to perform everyday to get perfect 6pack. Forget about push ups, sit ups, pull ups, squats etc. No need to go to gym. You can do this 6 pack abs workout at home.Text to speech engine is used during 6 pack workout.Advanced high quality voices (like IVONA Text-to-Speech HQ or SVOX) are available on market - download them to use custom language accent.Notice.This application shouldn't be used as personal trainer. Before You start training ask Your fitness instructor how You should perform each exercise.If You have obesity problems You might not notice results of these exercises (flat stomach).This workout was not designed to loose belly fat but to get flat, muscular abs/sixpack. If You want to burn body fat use Caynax HIIT app that provides support for interval workouts like Tabata and Fartlek.Application is supported by in-app ads. Give it a try and get perfect abs in just 6 weeks.Check Privacy Policy for app permissions.Recent changes:Run application after update.We have released new app that will help You burn body fat - search for 'Caynax HIIT' on market.5.2.3:Market filtered app on devices with small screen size (below 320x480px) - app couldn't be updated.5.2.1:Workout layout fix for users who block ads ;).5.2:Default TTS language is used - before system language was forced.Added option to reset TTS texts to defaults."
+p4
+tp5
+tp6
+.

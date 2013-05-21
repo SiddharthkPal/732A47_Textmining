@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bayt.com '
+p1
+tp2
+(S'Description:'
+p3
+S"The Bayt.com app lets you hunt for a job anytime, anywhere, using Bayt.com, the Middle East's #1 job site. Use your phone to search and apply for jobs posted by the region's top employers, get immediately notified when a relevant opportunity is posted (we have thousands on a daily basis!), and manage your applications. Download the app today and find your next job from the palm of your hand. Some of the features: - Use your Bayt.com account or connect with Facebook. - Everything is synced with your online account; CVs, job applications, saved searches (job alerts), profile information, etc. - Manage multiple CVs, get stats on who is viewing your CVs, and get the ability to email them directly. - Search for jobs using our powerful filters. - Apply to jobs using the app. - Manage your profile using the app. Bayt.com is the Middle East's #1 job site, connecting job seekers with employers looking to hire. Every day, thousands of new jobs are listed on the award-winning platform from the region's top employers.Recent changes:Bug Fixes"
+p4
+tp5
+tp6
+.

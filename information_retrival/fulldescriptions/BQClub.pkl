@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'B&Q Club '
+p1
+tp2
+(S'Description:'
+p3
+S"When you become a member of The B&Q Club, we give you exclusive money saving offers and benefits every time you shop in-store.You'll be the first to know about brilliant deals on the things you buy, competitions to win loads of money and heaps of other great stuff, like our most recent exclusive offers and finding your local store.If you\xe2\x80\x99re an existing B&Q Club member this app allows you to save your membership barcode onto your phone, or you can register to join the Club if you\xe2\x80\x99re not already a member.It's easy to use - simply show the app every time you shop and you'll qualify for the offers and benefits that are available and be entered into our monthly competition to win \xc2\xa310,000!Recent changes:Bug fixes."
+p4
+tp5
+tp6
+.

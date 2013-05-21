@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sonos Controller for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'The Sonos Wireless HiFi System delivers all the music on earth, in every room, with deep, richly textured sound.  Sonos is the only system that combines HiFi sound with high-performance wireless.  Plus, it\xe2\x80\x99s simple to setup, control and expand so you can easily fill your home with music. Control your Sonos system with this free app for your Android phone or tablet.CONTROL YOUR WAY Search, browse and play your music with the free Sonos Controller App for Android. SONOS HiFi SOUND MEETS ROCK-SOLID WIRELESS Experience your favourite music from the only system that combines rich HiFi sound with high-performance wireless.STREAM ALL THE MUSIC ON EARTH Enjoy a universe of music in every room\xe2\x80\x94 your iTunes\xc2\xae library, your favorite music services, and more than 100,000 free Internet radio stations, podcasts and shows.  Music services vary by region.EASY TO SET UP No rewiring. No complex programming. Simply connect a Sonos component to your router and wirelessly link all your players with one touch.START WITH ONE, EXPAND ANYWHERE.Add as many Sonos players as you want throughout your home, wirelessly.  Play different songs in any room or the same song everywhere, in perfect sync.Recent changes:This update provides one-click access to your favorite music, radio, and playlists with \xe2\x80\x9cSonos Favorites.\xe2\x80\x9d\xc2\xa0 Android owners may also enjoy the \xe2\x80\x9cNow Playing\xe2\x80\x9d widget that is customizable by room and provides instant control of Sonos without launching the full app.\xc2\xa0 Taskbar notifications have been added which display the music playing.\xc2\xa0 Search has also been improved so you can find your music quickly.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GIF Camera '
+p1
+tp2
+(S'Description:'
+p3
+S"GIF Camera!The eastest way to create animated gifs on Android.GIF Camera!A tool can make photos more active.It's really an amazing app during Christmas vacation.This free app can record the funny moments happening in Christmas,and make it much more intersting.It's about the same as Cinemagram which is hot on iphone. ----------------------------------\xe3\x80\x90GIF Camera Features\xe3\x80\x91 Make GIF :  Capture the funny moments of your friends,family and pets by GIF Camera,and save it to animated gifs;  Funny GIFs : GIF Camera is your daily source for funny gifs and funny animated pictures! Large collection of the best new gifs! Photo To Gif:Create animated GIFs with your local photos,You can control whatever speed you want ! GIF Album: Save GIFs to camera gallery,and you can remake it! ---------------------------------- You can share the created animated GIFs with SMS, Facebook, Twitter, Sina Weibo.  Like GIF Camera? Give us 5 stars! Your feedback is very important to our work. We are determined to make the best GIF Camera on Android.  Keywords:Cinemagram,SnapchatRecent changes:1 Add facebook share,try to share gif to facebook now!2 Bug fixed"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kitchen Decorating Ideas '
+p1
+tp2
+(S'Description:'
+p3
+S'Kitchen decorating ideas for you. You can save and share all kitchen decorating  photos. This application shows you the galleries of beautiful kitchen decoration ideas, designs, themes, painting for your home, room or apartment. You can get a hundred ideas of interior kitchen painting and decorations from this application. This app. contains the various types of kitchen painting & decorating such as  : large, small, for apartments, contemporary, modern, luxury, elegant, country, white and more.If you have on idea about your kitchens, this application can guide you.Application Features:- A hundred pictures of kitchen decorating ideas- You can save all pictures to sdcard.- You can share all images to others.- You can set all pictures as wallpaper.- Easy to use: press menu to save, share, and set as wallpaper.'
+p4
+tp5
+tp6
+.

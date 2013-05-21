@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cricket Live Stream - No ADS '
+p1
+tp2
+(S'Description:'
+p3
+S'This is the only Ad-free Live Cricket Score and Live Streaming app on Google Play Live streaming works on 2g,3g and wifi connections even without flash.Match Notifications and Detailed Scorecard are available.Live Cricket Streaming works during match time. All the suggestion to improve this application are welcome.We promise to provide best possible uninterrupted streaming links during match times.Watch India vs Pakistan Live CricketFeaturesTotally Free !!Absolutely No Ads!!!!No annoying push messages!!!Flash not required!!!Simple interface to check Live Cricket Score.(No Loading wait time)Match NotificationsFull Detailed ScorecardWorks for 2g,3g and wifi.MotivationOur passion towards Cricket enabled us to create this application.We will continue to develop this app based on your suggestions.Our aim is to provide good user experience rather than create any monetary benefit.DisclaimerWe do not host or stream any illegal content.All Streaming links are freely available on internet, we are just reproducing these links for android users for a better cricket watching experience. We are not responsible for the content streaming from those links. We do not generate any monetary benefit from this application.Recent changes:Stable version releasedMove to SD card enabled'
+p4
+tp5
+tp6
+.

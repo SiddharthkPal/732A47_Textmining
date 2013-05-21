@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Chavinho Groove sons do Chaves '
+p1
+tp2
+(S'Description:'
+p3
+S'Chavinho Groove \xc3\xa9 um aplicativo que executa os sons e frases caracter\xc3\xadsticas dos seriados Chaves (Chavo del Ocho) e Chapolin (El Chapul\xc3\xadn Colorado) em portugu\xc3\xaas ! S\xc3\xa3o mais de 200 sons !O aplicativo \xc3\xa9 livre de propaganda e \xc3\xa9 compat\xc3\xadvel com todos os aparelhos (at\xc3\xa9 agora !).Colabore enviando sons para contato@chavinhogroove.com !!Pra quem n\xc3\xa3o testou, se quiser usar como toque \xc3\xa9 s\xc3\xb3 segurar o dedo no som desejado ...http://www.chavinhogroove.comTwitter: @ChavinhoGrooveFacebook: http://facebook.com/ChavinhogrooveRecent changes:Vers\xc3\xa3o 5.22012-04-03Adicione novos sons aos favoritos pressionando sobre eles e escolhendo Add aos Favoritos.+ "Lola Fernandes" (Chiquinha);+ "Brincando de verdade" (Chiquinha);* Melhorias internas no c\xc3\xb3digo das categorias e favoritos;'
+p4
+tp5
+tp6
+.

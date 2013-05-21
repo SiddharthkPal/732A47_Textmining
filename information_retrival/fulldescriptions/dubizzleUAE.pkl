@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'dubizzle UAE '
+p1
+tp2
+(S'Description:'
+p3
+S'Need to find something on the move? Not a problem with the free dubizzle UAE app for your android device! Download the number one classifieds website app to buy a house, sell a car or find a job in UAE. Buying and selling is now at your fingertips! Sell your old home furniture and get a new one, find the latest electronics, the coolest smartphones and iPads. Never miss a listing with our apartment finder \xe2\x80\x93 we identify the newest homes and properties for rent and for sale that match your search criteria and notify you as soon as they\xe2\x80\x99re available.Need to buy a new car? Need to add inventory to your dealership? If so, check our autos section to find new or used cars for sale that meet your search criteria.Thinking about a career change? Find jobs in UAE and apply today for free! Search for the latest job offers and vacancies and find what suits your expertise.Features:- Sell your unwanted items quickly and easily. You can even use photos from your phone!- Manage your listing while on the move.- Customize your searches with our advanced searches.- Share your ads directly with your friends on facebook and twitter.- Find local listings in your city and call or email the seller instantly.'
+p4
+tp5
+tp6
+.

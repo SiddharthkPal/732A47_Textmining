@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Domino's Pizza "
+p1
+tp2
+(S'Description:'
+p3
+S"With the official UK and Ireland Domino\xe2\x80\x99s Pizza Android app you can order your favourite pizzas, sides, desserts and drinks quickly and easily. It\xe2\x80\x99s a Domino\xe2\x80\x99s store in your pocket!   Fancy a meal deal? It\xe2\x80\x99s only a tap away with our easy to use turnstile menu. Build your own pizza or create a Half & Half pizza with easy \xe2\x80\x98slide\xe2\x80\x99 and \xe2\x80\x98pinch\xe2\x80\x99 features. Can\xe2\x80\x99t decide? Then use the Pizza Slot Machine and we\xe2\x80\x99ll suggest a tasty Domino\xe2\x80\x99s Pizza for you to order!Place an order and you can play our money off voucher game \xe2\x80\x93 simply blow or wipe the steam off the pizza for your chance to win money off your next order. Use your vouchers in the app in the same way you would online, in store or on the phone.We'll even help you track it on your Android device with our Pizza Tracker. From Domino\xe2\x80\x99s store to your door-step you can watch your pizza\xe2\x80\x99s every move.FEATURESStore locator: If your phone has GPS, then we\xe2\x80\x99ll locate your nearest store.Carousel: We bet you\xe2\x80\x99ll be playing with our multi-dimensional menu long before you place an order! Order pizza, starters, drinks, desserts and you can even select a meal deal.Half & Half: Feeling indecisive choosy? It\xe2\x80\x99s OK, just select the Half & Half option to order different tasty Domino\xe2\x80\x99s toppings on each half of your base!Build your own: Feeling creative? Then build your own! Select base, cheese and toppings to create your ultimate Domino's Pizza!Pizza slot machine: Can\xe2\x80\x99t decide? The Pizza Slot Machine game provides you with a selection of Create Your Own choices to choose from.Money off voucher game: Place your order then play the game. Simply pop your pizza in the oven and blow the steam off the screen for your chance to win money off your next order.Pizza Tracker: You can track your order, from placing it to delivery!Recent changes:Various bug fixes and stability improvements"
+p4
+tp5
+tp6
+.

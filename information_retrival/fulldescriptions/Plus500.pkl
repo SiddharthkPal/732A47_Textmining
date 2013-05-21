@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Plus500 '
+p1
+tp2
+(S'Description:'
+p3
+S"Plus500 offers the easiest way to trade on CFDs online, with       an intuitive and elegant user interface.* Remember that CFDs are a leveraged product and can result in the loss of your entire deposit. Trading CFDs may not be suitable for you. Please ensure you fully understand the risks involved.* Trade Stocks, Indices, Forex, ETFs , CFDs, Gold, Oil and Silver. Anytime, anywhere.* Trade the world\xe2\x80\x99s most popular financial instruments at Plus500 with no commissions.* Buy and Sell stocks online. Buy NASDAQ shares, NYSE, Euronext, LSE and many more stock exchanges. * Get access to real-time market quotes ranging from popular stocks, indexes, forex pairs, and commodities such as oil and gold.* Practice trading with a free unlimited demo account. When you're ready, you can also trade for money.* Open and close positions, set limits to protect your investment.* View your balance, equity and margin.* Realtime charting * Multi language support* Leverage - up to 1:50* Real-time live streaming quotes* Fund your account by credit card, PayPal or wire transfer* Authorised & Regulated by the Financial Services AuthorityRecent changes:Added some chart indicators"
+p4
+tp5
+tp6
+.

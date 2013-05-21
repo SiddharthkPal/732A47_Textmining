@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Poweramp ICS Skin Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'This is skin pack for Poweramp 2.x. This is not a separate application. Install Poweramp 2 first, then this theme.This theme for Poweramp bring you the real kind Android 4 interface. Almost all of the graphical elements were changed to give your Poweramp Holo interface. Poweramp ICS Skin/theme looks perfect and native on Android ICS(4.0) and Android Jelly Bean (JB, 4.1-4.2).After installation switch skin in Poweramp settings.In Poweramp Settings \xe2\x80\x94> Theme (in Poweramp 2.0.5-build-488) orSettings \xe2\x80\x94> Look and Feel \xe2\x80\x94> Theme (in Poweramp 2.0.6-build-508 and later). Thenchoose PowerAMP ICS Skin.In cause of bugs feel free to email me.Recent changes:Fixed bottom action bar position for landscape orientation. 0. Lockscreen bug fixed.1. Work with Poweramp 2.0.5-build488. Again.2. Actionbar icons, equ, tone, repeat and shuffle icons resized according to Android Design Guide; and they are not disappear on white bg now.3. Make rating stars 100% ICS blue with semitransparent black outline.4. A bit more better look for some tablets screen dimensions.'
+p4
+tp5
+tp6
+.

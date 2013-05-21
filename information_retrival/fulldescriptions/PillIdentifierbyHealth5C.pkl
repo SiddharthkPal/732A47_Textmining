@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pill Identifier by Health5C '
+p1
+tp2
+(S'Description:'
+p3
+S'Identify those loose pills which you are not sure of, using Pill Identifier App. Get the detailed description of over 10000 medications found in the U.S. against Imprint, Shape and Color. Also determine the pills you are searching for based on Name, Pill Images, Strength, Ingredients, Manufacturer and NDC Code. The images and pill information are provided by Pillbox.Powered by : Pillbox  (U.S. National Library of Medicine)HHS has been rapidly advancing a major new Open Government flagship project called the Community Health Data Initiative (CHDI). The Initiative embodies the philosophy of \xe2\x80\x9copen data\xe2\x80\x9d and data sharing.The core principle is that the government can help trigger enormous public good by implementing the idea of \xe2\x80\x9cgovernment as platform\xe2\x80\x9d. Supplying greater amounts of high quality, free government data to the public and actively marketing the availability of this data \xe2\x80\x93 which can then be turned into useful insights, applications, products, and services by a growing \xe2\x80\x9cecosystem\xe2\x80\x9d of private and public sector innovators from across the country, working with engaged consumers, providers, civic leaders, employers, researchers, and others.This is ongoing activity and Pillbox will continue to add new images to its database.------------------------------------------------------------Disclaimer: The information given by Pill Identifier is not intended as medical advice or prescription. The information is only to help the user in identifying the medicines based on physical properties. Health5C does not endorse any of the medications listed in the application. Health5C is not responsible for any of the data entered by the user. The data entered by the user is at own risk.By Health5C Wellness Solutions (P) Ltd.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Clan en RTVE.es '
+p1
+tp2
+(S'Description:'
+p3
+S'\xc2\xa1\xc2\xa1Esta Navidad en Clan, t\xc3\xba ganas!! Vuelven los Reyes de Clan. Cada d\xc3\xada, premios si est\xc3\xa1s atento a la programaci\xc3\xb3n de Clan TV y te haces una foto con la C\xc3\xa1mara Clanner de esta aplicaci\xc3\xb3n. Tenemos los mejores juguetes de los mejores personajes esperando por t\xc3\xad \xc2\xa1\xc2\xa1Suerte!! Las mejores series que se emiten en Clan las puedes ver en tu Android: Caillou, Clanner, Pocoy\xc3\xb3, Tara Duncan, Jelly Jamm, Pok\xc3\xa9mon, Peppa Pig, Todo es Rosie ... Horas de diversi\xc3\xb3n con v\xc3\xaddeos para los m\xc3\xa1s peque\xc3\xb1os tambi\xc3\xa9n en ingl\xc3\xa9s y con dibujos para colorear.Vuelve a disfrutar con las series cl\xc3\xa1sicas de la tele: Dartacan, David el Gnomo, Willy Fog y Rui, el peque\xc3\xb1o Cid. Incorpora la C\xc3\xa1mara Clanner para hacerte fotos con tus personajes favoritos y ganar premios en los concursos de Clan. Para m\xc3\xa1s informaci\xc3\xb3n sobre los concursos, entra en www.rtve.es/infantil.La aplicaci\xc3\xb3n de Clan es una ventana a los mejores contenidos infantiles de la web de RTVE y del canal infantil de Televisi\xc3\xb3n Espa\xc3\xb1ola. Una selecci\xc3\xb3n de las mejores series. Episodios completos en espa\xc3\xb1ol e ingl\xc3\xa9s para que tus hijos aprendan, dibujos para pintar y colorear. ---------------------------Clan is a window to the best of the web content for children of RTVE and the Spanish TV kid\'s channel. A selection of shows like "Pocoyo", "Pokemon", "Noddy" and many more. Watch videos in spanish and english to help your children learn and coloring.Recent changes:Mejora en la reproducci\xc3\xb3n de v\xc3\xaddeosMejora rendimientoResoluci\xc3\xb3n de Bugs'
+p4
+tp5
+tp6
+.

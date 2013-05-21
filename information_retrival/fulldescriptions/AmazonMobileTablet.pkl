@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon Mobile (Tablet) '
+p1
+tp2
+(S'Description:'
+p3
+S'Search, browse & buy millions of products right from your Android tablet. The Amazon Mobile (Tablet) App allows users to browse and Shop by Department, quickly search, read and add reviews, share products with friends, access Gold Box and Deals, and make purchases from Amazon.com using a simple, tablet-optimized interface. Amazon customers have full access to their existing cart, wish lists, subscribe and save, payment and Amazon Prime member shipping options, order history, and 1-Click settings. All purchases made on the Amazon Mobile (Tablet) App are routed through Amazon\'s secure servers just as they are on the web. The application supports both landscape and portrait shopping. ** The current release supports Android tablets that are 7" to 10" with resolutions from 600x1024 to 1600x2560 with Android OS 4.0.3 and up.Permissions:On Android devices with both WiFi and cellular radios, we access the phone only to determine which radio to use depending on the strength of signal. On WiFi only products, this permission isn\'t applicable, but Android\'s security model requires us to ask on all installations.Recent changes:* Now available in Japan, China, Canada, Italy, France, Germany, Spain, and United Kingdom, as well as United States.* Updated Your Account page to add Subscribe and Save subscription management* Fixed Bluetooth keyboard issue for certain tablets* Bug fixes and performance enhancements'
+p4
+tp5
+tp6
+.

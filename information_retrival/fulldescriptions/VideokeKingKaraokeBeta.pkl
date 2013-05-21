@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Videoke King - Karaoke (Beta) '
+p1
+tp2
+(S'Description:'
+p3
+S'A portable karaoke on the palm of your hand. Plays MIDI/KAR files from http://www.gosing.comFor bug reports and feature request. please visit our Facebook Pagehttps://www.facebook.com/pages/Videoke-King/436310093112199DISCLAIMER:  The song data that is in MIDI format and any lyrics linked to www.gosing.com are not to be used for any purpose other than private study, scholarship, or research. The song data is copyright by the respective owners. Many items do not contain individual notices but are still protected by copyright laws.To view the complete copyright notice please visit http://www.gosing.com/copyright.htm  Every song are owned by their respective composers. Please use them accordingly and follow copyright law. By downloading the songs you are accepting the responsibility on abiding the the "Fair Use" clause of the copyright law.  Songs are not yet downloaded at first install. Each song will be downloaded on your first play of the song which will be available offline on your next play. Videoke King would like to thank the GOSING community for providing free karaoke files. Please support the PC karaoke version of GOSING available at www.gosing.com1.0.7 Changes   Added Update Popup on Startup   To ensure you have the latest update of songs, bugfixes and enhancements1.0.3 Changes   Fixed more bugs.   Added Delete Downloaded Song by Long Pressing on a song.   Auto detect songs on fresh install. (Not working on Update)1.0.2 Changes   Fixed more bugs   Added a "Timing" control so that you can now sync erroneous songs.   Removed changing backgrounds for Size improvement and focus stability.   Expect a more leaner and steadier application.1.0.1 Changes   Fixed some bugs.   Added songs from other repository like prokaraoke.info (only "Other English", Not yet all).   visit this site to see the file list http://prokaraoke.info/67000/Cali_English.htm   again these files are not yet included, they will be downloaded on first play.   Disclaimer: I don\'t own the songs and please use them according to "Fair Play".    Each Karaoke files are owned by their respective creator. Songs are owned by the composer.Recent changes:1.0.9 Changes  Faster Song Loading Times  You will now see the Current Loading Process  OPM Songs are included from ProKaraoke.info'
+p4
+tp5
+tp6
+.

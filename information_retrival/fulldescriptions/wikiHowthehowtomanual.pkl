@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'wikiHow - the how to manual '
+p1
+tp2
+(S'Description:'
+p3
+S'Have you ever wondered How to Tie a Tie, How to get Six Pack Abs, How to Know if a Guy Likes You, or How to Delete a Facebook Account?  The wikiHow application contains a collection of how to articles that will help you answer your questions on doing almost anything that comes your way. Packed with more than 120,000 articles, the wikiHow app will surely have the answer you need.Recent changes:New search - now with imagesLet us know what you think!'
+p4
+tp5
+tp6
+.

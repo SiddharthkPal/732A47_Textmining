@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PayPal '
+p1
+tp2
+(S'Description:'
+p3
+S'Enjoy PayPal on-the-go with the PayPal Android app.SEND & REQUEST MONEYWhether you want to send a money gift or pay off a loan from a friend\xe2\x80\x94sending money is easy and FREE (when using Bank or Balance as a funding source).MANAGE YOUR ACCOUNTCheck your balance, withdraw funds, or view past transactions\xe2\x80\x94anytime, anywhere.ADDITIONAL FEATURES\xe2\x80\xa2 Snap a photo of a check to add money to your PayPal account for free.\xe2\x80\xa2 We\xe2\x80\x99ve re-launched the \xe2\x80\x98Local\xe2\x80\x99 feature, where you can find local merchants who are using our new PayPal Here\xe2\x84\xa2 service and pay them with PayPal.\xe2\x80\xa2 Online or on-the-go, your financial information is always safe and secure with PayPal.*NOTE: If you are a merchant who would like to get paid directly with your smart phone, download the new PAYPAL HERE\xe2\x84\xa2 application from the Play Store to get started, and we\xe2\x80\x99ll send you a free card reader.Recent changes:4.4.1UI bug fixes4.4NEW\xe2\x98\x85 UK users can now Pay with PayPal in their neighbourhood. We\xe2\x80\x99re just getting started with businesses signing up every day\xe2\x80\x94so be sure to check back often! (This is already available in the US, Canada, Hong Kong, Australia and Japan.)\xe2\x98\x85 You can now add a tip, at select merchants, when you check-in to Paying with PayPal\xe2\x98\x85 You can now email PayPal customer support from the appIMPROVEMENTS \xe2\x9c\x93 UI bug fixes'
+p4
+tp5
+tp6
+.

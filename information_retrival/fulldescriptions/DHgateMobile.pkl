@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DHgate Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"About DHgate & DHgate Mobile DHgate.com is the world's leading B2B e-Commerce wholesale marketplace and has revolutionized global online trade. As the first and largest China-based online wholesale trading platform, DHgate.com has been serving the world's small and medium sized businesses since 2004, providing world class standards of China wholesale product sourcing, secure payment, tracking and delivery services to over 3 million buyers from over 230 countries. DHgate.com offers over 20 million product listings at any one time from over 650,000 dedicated China-based suppliers. DHgate Mobile was launched on 14 April 2011 and is the mobile version of DHgate.com. DHgate Mobile allows you to experience the same powerful product search and secure PayPal payment on your mobile phone that you have come to expect when shopping on our website. With exclusive deals and easy browsing, wholesale shopping on the move has never been easier. To access DHgate Mobile, simply type http://m.dhgate.com into your mobile internet browser.Recent changes:-- NEW FEATURES --#Fixed some bugs"
+p4
+tp5
+tp6
+.

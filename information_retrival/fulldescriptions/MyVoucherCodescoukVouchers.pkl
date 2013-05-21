@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MyVoucherCodes.co.uk Vouchers '
+p1
+tp2
+(S'Description:'
+p3
+S'Love great discount deals but always forget to print out the vouchers before you leave home? The MyVoucherCodes.co.uk Android App finds the hottest discount vouchers within walking distance of your current location, enabling you to download them straight to your Android. Example deals:*2 For 1 on main meals at Pizza Hut*Free Starter or dessert at Garfunkel\'s*15% Off products and therapies at Neal\'s Yard Remedies*Kids eat free at Frankie & Benny\'s*2 for 1 on hot and cold sandwiches at selected BHS coffee loungesWe are adding new offers daily, keep checking the app to make sure you don\'t miss out! The App features 2000+ nationwide discount codes for restaurants, pubs, shops and beauty salons with more voucher codes being added every day. You can even share your favourite deals with friends using email and Facebook from within the App. What are you waiting for? Download the App and vouchers for free right now and start saving today. If there are any new features or retailers you would like to see in the App feel free to get in touch and let us know. The same goes if you\'re having any problems or there are any features you don\'t like. We want you to love it so don\'t wait: info@vouchacha.com.Recent changes:1.9 -- *NEW* Restaurant Bookings - Reserve your table with the discount right from within the App at selected restaurants! Look for the "BOOK" tag on selected offers. - *NEW* Featured Deals - See our hottest deals as soon as you open the App! - General awesomeness! Including new UI upgrades and better screen size support.- More AMAZING deals!1.8 -- Now works on many more devices!1.7 - - *NEW* Online Deals - Get the best online deals available on your mobile.'
+p4
+tp5
+tp6
+.

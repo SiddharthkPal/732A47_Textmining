@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Anti Mosquito '
+p1
+tp2
+(S'Description:'
+p3
+S'Comprehensive mosquito repellent with sonic HD sound. Very low battery and system usage comparing to other anti mosquito apps. 3 different ultrasonic, ultra sounds, HD levels with volume control button.HOW IT WORKS?Machines (Anti-Mosquito sound) that emit ultrasonic sounds produce noises so high-pitched that they are undetectable to the human ear. This application provides that sound and do several things to repel insects, the sound that mimic predators, which scare away insects. A mosquito, for example, may think a predatory dragonfly is nearby. Moths may believe a bat is swooping down to feed. Please leave us positive feedback if you like our apps.  However, if you are not satisfied for any reason, please contact us first using the support e-mail tonaresh.j@gmail.com so that we may assist you in a resolution.  Thank you and we hope you enjoying our apps.'
+p4
+tp5
+tp6
+.

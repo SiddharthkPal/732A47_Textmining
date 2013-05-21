@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mirror Small Application '
+p1
+tp2
+(S'Description:'
+p3
+S'Mirror is a small application that helps you to check your look and even take a picture of yourself.This small application can be minimized or moved around the screen.Small apps extension for Sony products.Recent changes:Initial version.'
+p4
+tp5
+tp6
+.

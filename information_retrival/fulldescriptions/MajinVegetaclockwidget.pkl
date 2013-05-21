@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Majin Vegeta clock widget '
+p1
+tp2
+(S'Description:'
+p3
+S"Cool Widgets for your Smartphone inspired by the famous saga of Dragon Ball ZMAJIN VEGETA .. ..If you know this name you should not miss this widgetDedicated to fans of the series and not only ... Now you can have on the screen of your smartphone a myth without losing your eye on the clock!TRY IT!To add widgets: home -> menu -> Add -> Widgets -> Majin Vegeta clock widgetGive me your opinion on this app with the comments section below!Other names:super vegetaVegitaSaiyansVejitaking of saiyansdragon ball Want to create an 'app fully customized with a name, photo, personal statement? send me an email to g.luigiii @ hotmail.it with the material and I will create your app totally coziness! FREERecent changes:Fix bug of reseize"
+p4
+tp5
+tp6
+.

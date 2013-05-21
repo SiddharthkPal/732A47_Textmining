@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fitbit '
+p1
+tp2
+(S'Description:'
+p3
+S"GET ACTIVE. EAT BETTER. MANAGE YOUR WEIGHT. SLEEP BETTER. DOWNLOAD THE FITBIT ANDROID APP.The Fitbit Android App allows you to track food, activity, weight, water, sleep and see the big picture of how your daily choices affect your health. The Fitbit Android App is best when used with one of the Fitbit activity tracking devices (Classic, Ultra, Zip and One) or the Aria Body Comp Scale, but can also be used all on its own.Please note: You can use the app without a network connection to view most stats, log favorite foods and activities and log water and weight. You will need a Fitbit account to use the app. If you don't already have a Fitbit account, you can easily create one in the app. The app syncs up with your account on the Fitbit website so you can have an overall view of your stats and back up your data.# SYNC FITBIT ZIP & ONE ACTIVITY TRACKERS ON THE GO #* Set up and wirelessly sync (beta) the Fitbit Zip or the Fitbit One Activity Trackers (Samsung Galaxy S3 or Note2 required).* Background sync options allows you to sync the Zip or One even when the app runs in the background.# AT A GLANCE VIEW OF KEY STATS FROM YOUR DASHBOARD #* See your latest steps and calories burned when your tracker syncs.* See how many flights of stairs you've climbed in a day (Fitbit Classic, Ultra or One required).* See your sleep stats (Fitbit Classic, Ultra or One required).* See your latest weight and body fat.* Access your activity and weight graphs by tapping on the corresponding dashboard tile.* Customize the order of your goals on the dashboard. Hold down on a tile to change the order.# TRACK THE THINGS THAT MATTER #* Log food, water, workouts, weight, or sleep times on the go.* Find foods in our database or create your own custom entries and access your favorite foods.# BURN MORE CALORIES THAN YOU CONSUME#* Set a daily calorie target based on your weight goals. * 4 intensity levels to match your needs.* Unlike other calorie tracker apps, the food plan updates based on how active you are each day (Fitbit activity tracker required).# EXTRA MOTIVATION IN AN APP #* See your Fitbit friends' real time step count to get your psyched to go a little more.* Push notifications nudge you to achieve your goals and give you a virtual high five when you hit them.Recent changes:* Find new friends and respond to friend requests* Adds daily activity graph for steps, floors, and calories burned* Adds sleep pattern graphs* Adds realtime sleep logging"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Advanced Wireless Forms '
+p1
+tp2
+(S'Description:'
+p3
+S"Build wireless versions of your paper form and send to mobile devices. Lose the clipboard and get things done faster.\xe2\x98\x85 NEW-FREE ACCOUNTS CAN NOW CREATE CUSTOM FORMS \xe2\x98\x85\xe2\x98\x85 PLEASE NOTE: Forms are built on our WEBSITE. Credentials provided upon sign up \xe2\x98\x85Do more in the field:\xe2\x9c\x94 Offline data capture\xe2\x9c\x94 Signature capture and Image capture\xe2\x9c\x94 Barcode scanning\xe2\x9c\x94 Multiple/Single choice combo fields\xe2\x9c\x94 Complex arithmetic calculations\xe2\x9c\x94 Archive and template form progress\xe2\x9c\x94 Preview/Print forms as PDF\xe2\x9c\x94 Email forms as PDFCreate and manage from the office:(Credentials provided upon sign up)\xe2\x9c\x94 Cloud based web portal\xe2\x9c\x94 Powerful form designer\xe2\x9c\x94 Form decision logic\xe2\x9c\x94 Powerful reporting capability\xe2\x9c\x94 In-depth dashboard analytics\xe2\x9c\x94 Business intelligence in a single placeTop customer support:\xe2\x98\x85 Frost & Sullivan\xe2\x80\x99s 2009 Customer Service Excellence AwardRecent changes:-Added Google Play Store support for Larger screen devices such as Tablets.-Fixes for forms with repeatable fields that sometimes wouldn't send-Fix for Archived Forms opening up blank.-Fixes for crashing in Forms when using the Cancel button to Discard, Save, or Send.-Some additional data protections."
+p4
+tp5
+tp6
+.

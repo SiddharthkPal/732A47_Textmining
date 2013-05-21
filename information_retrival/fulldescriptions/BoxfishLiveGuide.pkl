@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Boxfish Live Guide '
+p1
+tp2
+(S'Description:'
+p3
+S'Boxfish Live Guide - the new TV guide. See whats happening live across your favorite channels. Find what\'s trending on TV right now with our live feeds from every word spoken on TV. Use our unique \'live windows\' to keep track of what is happening on all of your favorite channels and shows, all in real time. TV Guide support for Comcast Xfinity, DirecTV, Dish, Time Warner Cable, Cox, Verizon, AT&T, Charter and many more.Remote control support for DirecTV and Google TV users, use your tablet to tune in to what you want to watch. Remote control support for more providers on the way.Forbes - "It does for TV what Twitter has done for the internet" Search every word spoken on TV - In real-time.\xe2\x80\x98Favorites\xe2\x80\x99 lets you to pull what\xe2\x80\x99s happening on your favorite channels into one place. \xe2\x80\x98Trending\xe2\x80\x99 shows what TV is saying about News, Sport, Business and Entertainment in real time. You can also search our index of every word spoken on TV to see what TV is saying about anything you like.Recent changes:Google TV configuration fixes.Way faster trending section.Startup fixes.Fixed flickering text.New Voice Recognition (for people with connected TVs) algorithm.Yay! We fix your views on rotation (in the tablet version) now!'
+p4
+tp5
+tp6
+.

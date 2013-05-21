@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Remedies at Home '
+p1
+tp2
+(S'Description:'
+p3
+S'This application shares ancient wisdom of treating ailments using natural ingredients like herbs, spices, fruits and vegetables and other natural products readily available at home.Remedies at home is a simple to use yet highly useful application divided in to three parts,- Personal Care- Common Ailments- First AidHome remedies do not include any use of harsh, synthetic chemical ingredients. The treatment is usually inexpensive and usually doesn\xe2\x80\x99t cause a side effect.  Natural remedies are good to cure common ailments and take care of minor health issues but for severe conditions we suggest you to visit a doctor.'
+p4
+tp5
+tp6
+.

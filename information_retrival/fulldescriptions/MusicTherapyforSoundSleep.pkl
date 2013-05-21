@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Music Therapy for Sound Sleep '
+p1
+tp2
+(S'Description:'
+p3
+S"* Music Therapy for Sound Sleep (Full Version) with 8 music pieces and 12 ambient sounds is now available on Google Play! *https://play.google.com/store/apps/details?id=imoblife.mtsoundsleep.deluxeMusic Therapy for Sound Sleep is an android music application based on the famous EEG to optimize human brains. For a necessary sound sleep, Low Speed Alpha Wave set in this app will comfort your mind, assisting you to fall asleep smoothly.Enrich Your Imagination with a Sound Mixer in the latest version! The latest version of Music Therapy for Sound Sleep provides a group of relaxing natural sounds for you to choose and mix, creating your own fantastic ocean scenes. These sounds help enrich your imagination thus to further relax in a pleasant surroundings with ocean waves and soothing rains. It is totally up to you to customize each track with one or several ambient sounds, with volume bars separated from the main piano melodies. Totally different from the so-called leisure music, subliminal musicembeds Alpha Wave to various musical pieces by delicately setting the rhythm to a certain frequency, while stimulating imagination with certain sound effects. Listening to the music, our sub-consciousness is awakened. It is guiding us to a brand new discovery of our potentials, to relaxation, and to creativity.Low Speed Alpha Wave has a frequency from 8Hz to 9Hz, which stimulates a state at which one is nearly asleep and cannot think clearly. To generate such a frequency in one's mind, binaural beats are applied. For example, if the left ear is presented with a steady tone of 500Hz and the right ear a steady tone of 508Hz, these two tones combine in the brain. The difference, 8Hz, is perceived by the brain and is a very effective stimulus for brainwave entrainment.Features:- Tunes with Low Speed Alpha Wave- Ambient Sound Mixer with a group of natural sounds- Elegant interfaces and varied music themes- Elaborate descriptions- Increase sleep quality and relaxed statekw: music therapy sound sleep quality relaxation leisure brainwave sub-conscious android applications health fitnessRecent changes:- Supports Janpanese Language- Two More Mixer Sounds Are Added- Several Mixer Sounds Can be used as Alarm- Bug Fixed"
+p4
+tp5
+tp6
+.

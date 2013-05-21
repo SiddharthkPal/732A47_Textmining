@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Truth or Dare '
+p1
+tp2
+(S'Description:'
+p3
+S'Welcome to the original and most popular Truth or Dare game on Android!Top 100 in Social category for over 2 years!  Here\'s what our users say:- "Great! I love this app. It is fun to play at parties, with friends, or with your bf/gf."- "Well developed. Has been a great app for a long time, is constantly improved/updated and is very versatile in terms of how \'intense\' the games are. Also really easy to use and a great range of dares."- "Seriously Good This was great for a double date I went on! We had so much fun using this one app!"Truth or Dare is a classic game (like Spin the Bottle, Never Have I Ever) which involves either answering a question or doing something fun and silly. With this simple concept, watch how quickly you start to have so much FUN!Features:* Hundreds of truths & dares* Add your own dares!* Take pictures and share on Facebook, Twitter.* Deeply customizable* Play clean dares with family and friends* Or Make It Dirty with that special someone!There are so many ways people use Truth or Dare! :- Break the ice or make things HOT when you\'re with that special someone! - At a party or a get together? Become the life of the party with this app!- If you\'re hanging out with your friends, open up Truth or Dare for instant adventure.- Try Truth or Dare at your next slumber party, birthday party, or get together!- Perfect for holidays like Valentine\'s Day and New Year\'s Eve, and of course, New Year\'s Day- You can play Truth or Dare at a bar along with other drinking games like Have you Ever- Lastly, its a great way to pass the time!"Brilliant Huge hit at parties!""Fabulous! Android\'s best truth or dare app. Plenty of truths and dares, so you can keep playing for hours. I love the option to select how dirty you want them to be.""Had a terrific time playing with my husband!"So, what are you waiting for? Join the party and install now!Recent changes:Purchase once, play anywhere'
+p4
+tp5
+tp6
+.

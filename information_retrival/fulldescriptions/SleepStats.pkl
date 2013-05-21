@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SleepStats '
+p1
+tp2
+(S'Description:'
+p3
+S'NEW weekend/weekday filtering, sleep pattern heat maps.This application is an Add-on for Sleep as Android - the smart alarm clock which can track your sleep patterns, please make sure Sleep as Android is installed. This add-on brings advanced sleep statistics. It visualizes your sleep length, debt, wake-up and fall asleep hours, smart early wake-ups and ratings in week, 14-days, month, quarter, half year and yearly view.Recent changes:1.7.3- support for tags- sleep duration as target criteria in advice1.7.2- Support for stats day cutoff setting in Sleep as Android- updates in locales - Korean, Japanese and Swedish (many thanks especially to Christer)1.7.0- update in Japanese texts1.6.9- fix for weekend/weekday filtering in advice1.6.7- weekday/weekend filtering - translations1.6.5- average deep sleep %1.6.3- bug fixes1.6.0- actionbar, special tablet rendering with charts beside'
+p4
+tp5
+tp6
+.

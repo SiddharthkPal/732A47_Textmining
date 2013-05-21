@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nespresso '
+p1
+tp2
+(S'Description:'
+p3
+S'Experience the world of Nespresso on your Android. As part of our commitment to providing the best services, Nespresso is proud to offer its members a new way to access the Club. With this official Universal Nespresso application designed to be specifically adapted for your Android, you can:// Place your order anywhere and at anytimeOrder your Nespresso Grands Crus, Machines, Accessories: Les Collections and Les Chocolats* // Find your nearest Point of InterestDiscover Nespresso Boutiques, Nespresso Points of Sale or Capsule Recycling Collecting points* around your current location.// Stay up to dateDiscover the latest Nespresso Limited Edition coffee, machine launch or local initiative in your country.// Take advantage of new delivery services*- Nespresso Your Time*: Place your order and choose the time and the date of your delivery. - Nespresso Proximity*:  Order your capsules and collect them at your convenience in one of our multiple drop-off points. - Nespresso Boutique PickUp*:  Place your order and pick it up in one hour later at your Boutique\xe2\x80\x99s dedicated counter.The application is currently available in English and the local language(s) of the following countries: Austria, Belgium, Brazil, Canada, Denmark, Germany, Finland, France, Ireland, Italy, Luxemburg, Netherlands, Norway, Portugal, Switzerland, Spain, United States, Mexico.Currently available in English only for the following countries: Australia, Hong Kong, Macau, New Zealand, Singapore, United Kingdom.* Availability and conditions of the service depends on your geographical area.Recent changes:- Credit Cards expiring in the current month permitted- The Nespresso Club can now be called from My Account- Last order details are now displayed properly+ other minor bug fixes'
+p4
+tp5
+tp6
+.

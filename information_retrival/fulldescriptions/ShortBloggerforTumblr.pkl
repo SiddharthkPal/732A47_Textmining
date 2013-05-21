@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ShortBlogger for Tumblr '
+p1
+tp2
+(S'Description:'
+p3
+S"ShortBlogger is Tumblr Client for Android.Features:* Post to Tumblr. Send a Text, Photo, Quote, Link, Chat, Audio or Video post.* View your dashboard, posts, queue and drafts.* View your liked posts.* Following/followers list;* Tracking by tags;* Blogs cache. You can view blogs when you're offline.* Edit or delete your own posts.* Supports multiple blogs.* Quick Reblog and Like.* Follow or unfollow.* Messages: View and reply to messages.* View notes.* Spotlight/Featured Tags.* Animated GIFs.* Powerful post editor with rich text styles.* Save images to SD card.* And much much more!\xe2\x80\x9cIf you haven\xe2\x80\x99t already chosen your choice Tumblr app, we strongly suggest you give ShortBlogger a go. It\xe2\x80\x99s quick, efficient, and looks great on the Android platform.\xe2\x80\x9dwww.androidappsreview.com\xe2\x80\x9cA fantastic Tumblr client, one that advanced users would do well to check out for themselves\xe2\x80\x9dwww.androidrundown.comFollow luckydroid.tumblr.comRecent changes:Version 2.0.2:* Fixed login issues.Version 2.0.0:* Sliding menu* Featured Tags* Reblog with tags* Playing a gifs on the thread posts.* Ask question* Personal response to messages* View fan-mails* Tracked tags * Queue posts* Logout* Fixes more bugs."
+p4
+tp5
+tp6
+.

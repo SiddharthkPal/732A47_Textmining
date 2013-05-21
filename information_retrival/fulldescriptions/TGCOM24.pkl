@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TGCOM24 '
+p1
+tp2
+(S'Description:'
+p3
+S'Ora le notizie ti toccano da vicino: scarica gratuitamente sul tuo smartphone Android la nuova applicazione di TGCOM24. Non accontentarti, scopri in diretta le news ovunque ti trovi seguendo sul tuo smartphone il LIVE del canale televisivo di TGCOM24. Lasciati guidare da una nuova e moderna navigazione dell\xe2\x80\x99app. In ogni sezione hai la possibilit\xc3\xa0 di aprire una tendina in cui puoi scegliere quale diretta attiva seguire: il live dal canale 51 del DTT, i tg di Mediaset, le edizioni straordinarie e tutte le grandi notizie del panorama italiano ed estero.Ora \xc3\xa8 diventato pi\xc3\xb9 semplice e immediato spostarsi all\xe2\x80\x99interno dell\xe2\x80\x99app; con un semplice gesto sul display cambia categoria delle news passando rapidamente dalla home page alle ultimissime e solo quando lo vorrai apri il men\xc3\xb9 a comparsa saltando velocemente alla sezione desiderata.Diventa protagonista di TGCOM24! Inviaci la tua notizia. Entra nella sezione Invia contenuti, inserisci i tuoi dati, aggiungi una foto o un video e invia! La nostra redazione valuter\xc3\xa0 quali notizie prendere in considerazione. Il mondo di oggi \xc3\xa8 sempre in movimento, aiutaci a rimanere in prima linea.Rimani informato in tempo reale: leggi le news di Primo Piano, Cronaca, Politica, Mondo, Economia, Televisione, Spettacolo, Gossip e non perderti le nuovissime categorie Motori e Viaggi. Personalizza la tua Home Page eliminando e ordinando le categorie che preferisci.Potrai accedere a tutte le notizie della tua Regione raggruppate in un\xe2\x80\x99unica sezione, seguire i prossimi Live, guardare i video in alta qualit\xc3\xa0 e sfogliare tutte le fotogallery.La tua opinione \xc3\xa8 fondamentale entra nella sezione dite la vostra, scegli la risposta e controlla i risultati in tempo reale!Non devi pi\xc3\xb9 cercare le notizie. Sono le notizie a seguire te.TGCOM24: l\xe2\x80\x99informazione con te, sempre.Recent changes:In questo aggiornamento:- Correzione dei bachi nella versioni Android meno recenti.'
+p4
+tp5
+tp6
+.

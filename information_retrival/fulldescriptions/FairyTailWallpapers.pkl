@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fairy Tail Wallpapers '
+p1
+tp2
+(S'Description:'
+p3
+S"Fan-based application for japanese animation / anime - Fairy Tail !Features including:1. Fairy Tail's Guilds Profiling / Introduction2. Beautiful characters' pictures that can be set as wallpaper3. No annoying push notificationsCome and join the Fairy Tail members and their adventure, by downloading this application - by a fan, for the fans !*** Legal Notice ***All copyrights and credits of the images and information belong to their respective owners and editors.This application is not endorsed by, or affiliated with, Fairy Tail's animation studio or their affiliated entities.Recent changes:Version 2.01 - Correction to the 'Landscape' Wallpapers forced closed issue"
+p4
+tp5
+tp6
+.

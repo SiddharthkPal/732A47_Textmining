@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Twitpic '
+p1
+tp2
+(S'Description:'
+p3
+S'The first ever photo sharing site for Twitter comes to Android! Twitpic is the easiest and best way to share your photos and videos with your Twitter followers. \xe2\x98\x85 Quickly and seamlessly share your photos and videos with all of your Twitter followers \xe2\x98\x85 Edit your photos with beautiful filters and easy to use enhancement tools \xe2\x98\x85 Browse your Twitter photo timeline with photos from people you follow in a beautiful interface \xe2\x98\x85 Browse photos from the most popular Twitpic users \xe2\x98\x85 Manage your Twitpic photos and videos in your own timeline'
+p4
+tp5
+tp6
+.

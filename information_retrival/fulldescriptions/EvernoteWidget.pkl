@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Evernote Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'**The latest version of Evernote is required in order to use the Evernote Widget app**The Evernote Widget lets you go directly to core Evernote features right from your home screen.3 widget options:- Small widget: Create new text, snapshot and audio notes, and jump to the search screen.- Large widget: Same as the small widget, plus snippets of recently viewed notes.- Grid widget (ICS): Once added to the home screen, long tap the widget so you can rescale it. How to install:Once you install this app, tap and hold on the home screen, then select your preferred widget from the popup.The story behind this widget:We want every users to have the best Evernote experience possible. Unfortunately, if Evernote is installed on the SD card, then the widgets that comes with the app are unavailable. Thanks to this Evernote Widget application, anyone can take advantage of this time saving feature regardless of where Evernote is installed.'
+p4
+tp5
+tp6
+.

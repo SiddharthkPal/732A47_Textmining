@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Apotek Hj\xc3\x83\xc2\xa4rtat '
+p1
+tp2
+(S'Description:'
+p3
+S'Apotek Hj\xc3\xa4rtat i din mobilH\xc3\xa4r kan du se:\xe2\x80\xa2 Om ditt l\xc3\xa4kemedel finns hemma hos Apotek Hj\xc3\xa4rtat.\xe2\x80\xa2 Hitta till n\xc3\xa4rmaste Apotek Hj\xc3\xa4rtat.\xe2\x80\xa2 F\xc3\xa5 svar p\xc3\xa5 de vanligaste fr\xc3\xa5gorna.\xe2\x80\xa2 Direktkoppling till v\xc3\xa5r Kundkontakt.I appen ser du direkt var n\xc3\xa4rmaste Apotek Hj\xc3\xa4rtat ligger. Med n\xc3\xa5gra enkla klick f\xc3\xa5r du \xc3\xa4ven svar p\xc3\xa5 om ditt l\xc3\xa4kemedel finns hemma. De fem n\xc3\xa4rmaste apoteken visas p\xc3\xa5 kartan tillsammans med aktuellt lagersaldo och aktuella \xc3\xb6ppettider. H\xc3\xa4r hittar du \xc3\xa4ven de vanligaste fr\xc3\xa5gorna och svaren samt f\xc3\xa5r m\xc3\xb6jlighet att kopplas direkt till v\xc3\xa5r Kundkontakt.V\xc3\xa4lkommen till Apotek Hj\xc3\xa4rtat!Recent changes:\xe2\x80\xa2 St\xc3\xb6d f\xc3\xb6r l\xc3\xa4splattor\xe2\x80\xa2 Prestanda optimering\xe2\x80\xa2 Minskad flimmer effekt p\xc3\xa5 animeringar i enklare enheter\xe2\x80\xa2 S\xc3\xa4kerhetsf\xc3\xb6rb\xc3\xa4ttringar\xe2\x80\xa2 Buggfixar'
+p4
+tp5
+tp6
+.

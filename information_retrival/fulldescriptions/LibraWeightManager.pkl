@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Libra - Weight Manager '
+p1
+tp2
+(S'Description:'
+p3
+S"Libra tracks your weight using a trend line as suggested by the Hacker's Diet.- Easy data entry- Scrollable, zoomable chart- BMI- Weight goal- Time-to-goal estimate- Daily KCal estimate- Visualisation of your diet plan in the chart- Statistics- Share chart via email, mms, Facebook, Twitter, etc.- Import/Export to Excel (.csv)- Synchronization with Withings (download only)- Withings real-time push notifications- WidgetVisit us on our Facebook page: http://www.facebook.com/LibraWMRecent changes:Fix problem where the welcome screen was being shown at every start, and unit preferences weren't being savedFix in-app billing problems.Fix problem with Czech translation (Thanks to Michal Vodicka)"
+p4
+tp5
+tp6
+.

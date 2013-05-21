@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Boat Cloud Print Add-on '
+p1
+tp2
+(S'Description:'
+p3
+S'Boat Cloud Print Add-on is an exclusive add-on for Boat Browser, which is used to print the web page in boat browser anytime and anywhere by Google Cloud Print Service.Boat Cloud Print Add-on supports three print methods:\xe2\x98\x85 Print by pdf    Will convert the page to pdf as is and then print it.\xe2\x98\x85 Direct print    Will send the page directly to Google Cloud Print.\xe2\x98\x85 Print by screenshotWill send the web screenshot to the Google Cloud Print.Boat Cloud Print Add-on need to use Google account to get the device you want to print to and submit the print job, you can use your account existed in your device to login immediately without input your account name and password.Google Cloud Print is a new technology that connects your printers to the web. Using Google Cloud Print, you can make your home and work printers available to you and anyone you choose, from the applications you use every day. Google Cloud Print works on your phone, tablet, Chromebook, PC, and any other web-connected device you want to print from.\xe2\x98\x85 Print AnywhereGoogle Cloud Print works with all printers, but for the best printing experience we recommend that you use a Cloud Ready printer. You can connect a printer to your Google Cloud Print account in seconds, and immediately start printing to it.\xe2\x98\x85 Print easilyNo complex steps, just login and choose the device you want to print to, then click the print button you will see the result in a few seconds.Try it out and have fun! You can find Boat Browser here:https://play.google.com/store/apps/details?id=com.boatbrowser.freeYour suggestions are always appreciated. Please email us with any questions or feature requests.Our Email: boatbrowser@gmail.comFind out more about us at:Twitter - http://twitter.com/BoatBrowserFacebook - http://www.facebook.com/boatmobileWebsite - http://www.boatmob.com/Recent changes:V1.1 update:1\xef\xbc\x8e Improve performance.2\xef\xbc\x8e Bug fix.'
+p4
+tp5
+tp6
+.

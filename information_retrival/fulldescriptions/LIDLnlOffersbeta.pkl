@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LIDL nl Offers beta '
+p1
+tp2
+(S'Description:'
+p3
+S'LIDL deals.Unofficial app, this app is comfortably represent LIDL offers nl, is just a beta, thus welcomes comments directed to the progress and application enhancements, known as faults are currently takes too long to load , keep in mind that it is a free application and is in evidence.Currently working on loading speed and showing the date of the offer (solved version 0.02), will welcome any ideas to add more shops like Aldi, day, etc ....We thank your score and try to take into account the advice of the users.Can direct your comments to carmheso@carmheso.com'
+p4
+tp5
+tp6
+.

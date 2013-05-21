@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Stream TV '
+p1
+tp2
+(S'Description:'
+p3
+S"Stream Tv  (countries like : Albania, Belgium, Brasil, Bulgaria, Canada, China, Czech Republic, Denmark, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Italy, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovakia, Spain, Sweden, Switzerland, Thailand, Turkey, UK, Ukraine, U.S.A., Vietnam. Plus a special sports channels section at the end of the list!)Completely free.* No need to uses extra devices, extra utilities.* Just use your mobile device (phone,tablet, etc.) .* Easy to use. Just click and watch. * Over 1000 channels included!!Stream Tv is the best app for watching live tv channels from countries like :Albania, Belgium, Brasil, Bulgaria, Canada, China, Czech Republic, Denmark, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Italy, Netherlands, Norway, Poland, Portugal, Romania, Russia, Serbia, Slovakia, Spain, Sweden, Switzerland, Thailand, Turkey, UK, Ukraine, U.S.A., Vietnam channels in your android for free!Plus a special sports channels section at the end of the list!If you have any issue/suggestion/improvements regarding the application, please feel free to mail us.Add your comments and give stars on the market! Thanks.If you want us to add a new channel, send us email with channel name and a link to the channel. We will add it! This is not the official application of the different channels.We don't have any connection with content providers or have any rights regarding content.This app is just a mean to view the content in an organized way.This application uses internet connection. Wifi/3g/4g are supported connection protocols. Wifi is more economic and more robust internet connection,so we recommend to use wi-fi"
+p4
+tp5
+tp6
+.

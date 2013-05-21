@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Brilliant Quotes & Quotations '
+p1
+tp2
+(S'Description:'
+p3
+S'*** The latest version of the app is no longer using Leadbolt push notification ads ***Brilliant Quotes app is a collection of over 3300 carefully hand picked quotes from more than 230 people. It contains saying from philosophers, writers, spiritual thinkers and other great minds whose brilliant words inspired many human beings. See it for yourself, download it now and get inspired every day!A new version of the app brings lots of improvements. Cleaner user interface and simpler  navigation make the browsing even more enjoyable. What is more:- See \xe2\x80\x9cToday\xe2\x80\x99s staff pick\xe2\x80\x9d and \xe2\x80\x9cQuote of The Day\xe2\x80\x9d from the app\xe2\x80\x99s dashboard.- Browse quotes by author and category.- Get daily notifications when Quote of The Day changes.- Read short description about an author inside the app and follow a link to Wikipedia page for more information.- Access \xe2\x80\x9cWorld\xe2\x80\x99s Top 50\xe2\x80\x9d quotes. See what quotes other people liked today, last week and in all times.- Choose which authors, categories and quote you want to see using Filters.- Use simple search feature to find a quote or author you are looking for.- Add an app-widget to your home screen and select which quotes you want to see. - And many, many more...Keywords: quotes, quotations, brilliant, famous quotes, famous quotations, brilliant quotes, brilliant quotations, motivation, life, love, inspiration, work, success, leadership, motivational quotes, inspirational quotes, best quotes, famous authors, famous actors.Recent changes:Version 3.1.2- Fixed a problem with copying database. If you still experience this problem after the update, try to uninstall the current version and perform a fresh installation.Version 3.1.1- Removed notification ads- Fixed bug limiting a widget to display maximum of 2 lines- Fixed bug causing the navigation buttons in the large widget to disappear. (You may have to recreate a widget on your home screen)- Updated link to PREMIUM version in the Google Play store'
+p4
+tp5
+tp6
+.

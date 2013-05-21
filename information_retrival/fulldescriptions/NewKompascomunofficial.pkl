@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'New Kompas.com (unofficial) '
+p1
+tp2
+(S'Description:'
+p3
+S'Follow the complete Kompas.com news in your lovely android phone. Keep update our minds with recent news from Indonesia and the world.Please note that this is not the official Kompas.com application. We only deliver you the content from Kompas.com. All copyright, images and content belong to the respectful owner. We as developer have no affiliation with the content provider, in this case Kompas Cyber Media (www.kompas.com).Contents:- Latest News- Highlight- Nasional- Regional- Megapolitan- Internasional- Olahraga- Edukasi- Travel- Bisnis- Sains- Oase- Bola- Tekno- Female- Health- Properti- Otomotif- Entertainment- Kompas Photo- KompasianaFeature:- Resize Text- Read comments- Search news- Bookmark- Archive (explore and read old news)- Zoom and save image from news- Share news- Related newsBonus:- No data charges with Paket AlwaysOn Tri (Indonesia only)Tablet version will be available soon.Note: This app is created with love and a bunch of night coffee for you who feel a little disappointed with the official KOMPAS.com app. We try to deliver a better experience than the official one. Keep in mind that this app is still young. So, we are open for any comments/critics to improve this app. Please feel free to speak your mind in review section or send email to salkuadrat@gmail.com. Thanks.Recent changes:v1.4.1:- More performance improvement (try to balance between "lag" and "too responsive" experience)- Fixed bugs in saving & open "Latest" cache data on external storage- Set "Latest" page as "home" (the most end state before exit application)v1.4:- Some performance improvement- Minor changes on article pagev1.3.1:- Fixed bugs in page transition- Improve image fetching method- Fixed minor bugs in downloading comment- Fixed minor bugs in parsing highlight content'
+p4
+tp5
+tp6
+.

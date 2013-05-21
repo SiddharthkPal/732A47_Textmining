@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Local HTML Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'Lightweight Local HTML Viewer apps.Please use for verification of HTML and JAVA script file that you created for smartphones.You install a text editor, you can start with a tap or long tap, from the file selection screen.Feature 1.Local HTML file viewing.   - Support the Java script.    (Switchable enabled or disabled from the Options menu.)   - Page updates can be performed from the Options menu.   - Viewing the files in the ZIP file.   - Scaling of the browser.   - Available in the landscape in portrait orientation.   - Support the CSS file.   - Install the "Text Viewer" application, you can view the HTML file in a text format. 2.File Explorer in SD card.   - Ability to launch another application with support for notification intent.   - The default path is "/mnt/sdcard".   - Can move up / back key is pressed.   - You can set an option to terminate the application directory back key is pressed.   - Display a directory higher in the back key is pressed.   - When booting from the other apps you want to display only files.   - Display all the files   - Display the updated date of file   - Extension support is as follows.( .htm .html .xml .js .css .json )3.Introduction App  "Text Viewer"   - It is an application that refers to the text file.   - The Long tap the CSV file, can also be viewed as a text file.  "CSV Viewer"   - It is an application to view CSV file.=======================If you want to improve the crash occurs, please send e-mail to developer in the problem file. I correspond with the highest priority.\xe2\x80\xbb handling of personal information, especially pay attention.mail : toshio.shiratori@gmail.com=======================Recent changes:Ver.1.2.1 2013-01-14 - Modified to store the focus position of the file selection screen.Ver.1.2.0 2013-01-02 - Fixed a bug in the crash report.Ver.1.1.9 2012-12-29 - Fixed a bug that can not open ZIP files. - Support for hardware acceleration.Ver.1.1.8 2012-12-25 - Add about the app in the option menu.Ver.1.1.7 2012-12-22 - Fixed a bug that can not open ZIP files.Ver.1.1.6 2012-12-15 - Fixed a bug in the crash report. - For the following file extensions.( .json )'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Xbox LIVE '
+p1
+tp2
+(S'Description:'
+p3
+S'Take your Xbox LIVE experience wherever you go with the My Xbox LIVE app. Track and compare your achievements, connect with your Xbox LIVE friends, and change up your 3D Avatar. Review all the recent great games you and your friends love to play and compare achievements with them. Access Xbox Spotlight feeds, get breaking news from Xbox LIVE, game tips and tricks, gamer spotlight and much more. This app will allow you to\xe2\x80\xa6\xe2\x80\xa2 Track and compare your achievements with your LIVE friends\xe2\x80\xa2 Change up your 3D avatar\xe2\x80\xa2 Message your Xbox LIVE friends\xe2\x80\xa2 Edit your LIVE ProfileNote:This app requires an Xbox LIVE account to sign in.  Available for most Android 2.2+ smartphones, with WGVA screen resolution or higher.'
+p4
+tp5
+tp6
+.

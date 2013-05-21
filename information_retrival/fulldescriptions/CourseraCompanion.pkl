@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Coursera Companion '
+p1
+tp2
+(S'Description:'
+p3
+S'The UNOFFICIAL android app for Coursera (www.coursera.com). Now you can stream lecture videos any time anywhere as long as you have an android phone or tablet with you.Features available: * Sign in with your Coursera user account. * View your currently enrolled courses. * View Lectures of any of your enrolled courses. * Watch streaming your lecture videos. * Download lectures to watch later offline.Note on video playback:The lecture videos are not mobile friendly, they are suitable for tablets or larger display devices. We do not provide a video player with this application and leave it up to you to use your favorite video player that works for your device. If you do not have a suitable player or having problem with the player you have, you might want to try one of these video players:MX Player: https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad VLC Player: https://play.google.com/store/apps/details?id=org.videolan.vlc.betav7neonRecent changes:Version 1.4 - 1.7: + Crash & bug fixes.Version 1.3: + Video download feature added (experimental) - long press on a lecture to download it. + Demarcation of watched & unwatched lectures. + Speed up loading time. + Fix of known & reported bugs.Version 1.2: + Added Settings menu & minor bug fixes.'
+p4
+tp5
+tp6
+.

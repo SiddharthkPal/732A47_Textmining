@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FxCamera '
+p1
+tp2
+(S'Description:'
+p3
+S'FxCamera is a free and easy photo app that will allow you to take creative photos instantly. With over 40 unique filters, your photo will be customized the way you want it to be. - Charity Project -Just by sharing a single photo taken with FxCamera on social media, FxCamera will donate a penny for a photo to Japan Water Forum.One picture can bring clean and safe water to all.- 6 Shades of Filters -\xe2\x98\x86Toycam: Makes your photos pop and enjoyable using Toycam.  \xe2\x98\x86Instant: Give your photo a vintage looking taste. Instant will surely bring aged essence to your photos. \xe2\x98\x86Fisheye: Accentuate the parts you want to. Make distorted photos your own. \xe2\x98\x86Symmetric: Take unique photos with angled symmetrical photos. \xe2\x98\x86Poster: Characterize your photos using poster effect. Your picture can turn like Andy Warhol! \xe2\x98\x86Normal +: Your everyday normal photos will just be enhanced further with Normal +. - Sharing Your Photos- All of your photos taken with FxCamera can be posted directly on to Facebook and Twitter. -Importing Photos- Even with photos taken with another camera app, your can still use our effects through FxCamera import function. - Album Feature - With all of your saved  photos taken with FxCamera or not, the FxCamera app will allow you to access anywhere at anytime. - Other functions with FxCamera- \xe2\x98\x86All of your photos wil be pinpointed automatically so that you can take naturally beautiful photos. With the FxCamera effects, your photos can also be just as wonderful. \xe2\x98\x86In Camera/ Flash/ Auto Focus (Can only be used with specific devices)  \xe2\x98\x86Importing from Galleries: Can use FxCamera effect through all saved photos. \xe2\x98\x86Self-Timer Photography \xe2\x98\x86Shortcut: Can choose any effect and can directly activate through the main home screen. - Quick Survey for FxCamera -http://bit.ly/XACFWD- About FxCamera - Facebook\xef\xbc\x9ahttp://www.facebook.com/fxcameraTwitter\xef\xbc\x9ahttps://twitter.com/FxCameraRecent changes:If you have a problem that you cannot save pictures, please try to uninstall and reinstall FxCamera.[v2.6.8]- You can press camera button to launch FxCamera if camera button is available on your device- Bug fixes'
+p4
+tp5
+tp6
+.

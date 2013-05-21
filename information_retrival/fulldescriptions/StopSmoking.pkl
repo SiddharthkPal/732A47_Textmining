@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Stop Smoking '
+p1
+tp2
+(S'Description:'
+p3
+S"TEAM GENY presents: Stop SmokingAn effective Android application that provides you with the support you need when you stop smoking.Many features in this app will help you stop smoking:- How many cigarettes didn't you smoke since you stopped?- How much money have you saved since you stopped?- Earn Medals on special events.- Achievements to unlockWith Stop Smoking, you will understand day after day how stopping cigarettes made you healthier.Recent changes:- Better english translation"
+p4
+tp5
+tp6
+.

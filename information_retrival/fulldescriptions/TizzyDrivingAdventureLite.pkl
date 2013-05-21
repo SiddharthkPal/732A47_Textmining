@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tizzy Driving Adventure Lite '
+p1
+tp2
+(S'Description:'
+p3
+S"Move over Mom and Dad!!! There's a new driver in the house, and they want the keys to the car to go on a Tizzy Driving Adventure. The latest smash hit release from Tizzy Labs brings your child the wonder and excitement of driving their very own vehicle, on the open road, for the first time. Choose your character (Boy or Girl) and start your adventure\xe2\x80\xa6 - Drive in your very own car, with working windshield wipers, blinkers, radio stations and more!! - Pick and Sort Strawberries in the Strawberry Patch - Play an assortment of games in your very own Camper - Custom Music to Help Augment the Journey - Educational Mini Games- Plus so much more Tizzy Driving Adventure, by Tizzy Labs, makes learning fun for kids."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Video Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Makes you able to save internet video files. It pretends to be a video player... but saves the videofile instead of playing it.It is supposed to appear when your device asks you to choose a video player. If you choose "Video downloader", the device will download a video file. You can access downloaded files using the "Downloads" application.Video Downloader appears for http video links only.When you CAN NOT use video downloader:* YouTube, Vimeo;* HTML5 embedded videos;* any case when android doesn\'t ask you to choose a video player.When you CAN use video downloader:If android asks you to choose a video player when you\'re opening a video from web.PLEASE NOTE:There is no launch icon for this application. It lauches when you click a video file in web.Some devices turn off Wi-Fi when they go into sleep mode. The download fails.Please make sure Wi-Fi sleep policy is set to "Never" to prevent this.( http://help.mightytext.net/knowledgebase/articles/49300-set-wi-fi-sleep-policy-to-never- )If android doesn\'t ask for a video player, you might need to clear video player defaults.If you\'ve cleared defaults and it still doesn\'t ask to select a player... then this application doesn\'t suit you.If it asks to select a player but Video Downloader is mising in the list, that might be a bug - it this case, please email me.If your device can\'t play a downloaded video file, MX Player with a software decoder might help.Recent changes:Fixed the folder dialog. You should be able to select extsd locatinos since now.'
+p4
+tp5
+tp6
+.

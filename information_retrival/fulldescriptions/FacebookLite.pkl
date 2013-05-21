@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Facebook Lite '
+p1
+tp2
+(S'Description:'
+p3
+S"Are you tired of Facebook being 30mb? If you have a small internal memory phone this can be an issue!Facebook Lite gives you the features of a native application with the size of a web one. And its Ad Free.Planned Features-----------------NotificationsBetter UIMenu ControlsRecent changes:[*] What's new menu[*] Gallery support now fixed[*] Menu button now takes you to your News Feed instead of displaying Dev Information[*] Added support for Back Button to navigate through[*] Added support for Picture uploading[*] Fixed the runtime error that stopped it from opening[*] Created the application[*] Support for earlier versions of Android"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Clear Master '
+p1
+tp2
+(S'Description:'
+p3
+S"The Clear Master is a quick and simple system cleanup tool. Running out of storage space on your smartphone? Now you can clear the cache, browser history, and search history with the Cleanup Master, thereby effectively optimizing your phone's system. Main Features:Cleans up all app-generated cache with single-key maneuver. Cleans up all search history and Internet records with single-key maneuver.  Cleans up all call and SMS records with single-key maneuver. Cleans up clipboard, Gmail search history, market search history, and Google Maps search records. Cleans up system cache data with automatically scheduled cleanings."
+p4
+tp5
+tp6
+.

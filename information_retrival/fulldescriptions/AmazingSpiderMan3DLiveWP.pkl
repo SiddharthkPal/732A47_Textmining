@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazing Spider-Man 3D Live WP '
+p1
+tp2
+(S'Description:'
+p3
+S'Download the free Amazing Spider-Man Live Wallpaper featuring the Marvel superhero\xe2\x80\x99s 3D face hovering over the streets of New York City!Notice our webhead\xe2\x80\x99s friends and foes, like good ol\xe2\x80\x99 Aunt May, lady bird Gwen Stacy and the ferocious Lizard, reflect in his mirrored lenses, as he turns about and shakes his head.Behind Spider-Man, the skyline of New York City changes before your very eyes as day turns into night!Unlock additional premium features inspired by the movie, including \xe2\x80\x9cSpidey Sense Alerts\xe2\x80\x9d, which appear around Spider-Man\xe2\x80\x99s head when your device receives an email or text.Also, an interactive soundboard can be purchased and unlocked that contains some of the best Spider-Man audio clips from the movie. Simply touch his mask and let Spider-Man\xe2\x80\x99s wise cracking antics begin! (Both the \xe2\x80\x9cSpidey Sense Alerts\xe2\x80\x9d and the soundboard can be turned on or off in the Settings menu)Last but not least, purchase and unlock an official ringtone featuring sound clips from the film so you can take the movie everywhere your device goes!So team up with your favorite wallcrawler from Marvel Comics, and download The Amazing Spider-Man Live Wallpaper today!Terms & Conditions: http://www.cellfishmedia.com/terms/Privacy Policy: http://www.cellfishmedia.com/privacy/Recent changes:v1.3 Fixes for crashing issues on various devices.'
+p4
+tp5
+tp6
+.

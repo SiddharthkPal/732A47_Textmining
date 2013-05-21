@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'XFINITY WiFi '
+p1
+tp2
+(S'Description:'
+p3
+S'The XFINITY WiFi application makes it easy to locate thousands of XFINITY WiFi Hotspots. Features: \xe2\x98\x85 Map view \xe2\x98\x85 List View \xe2\x98\x85 "Near Me" locates all nearby XFINITY WiFi hotspots \xe2\x98\x85 Driving directions \xe2\x98\x85 Create and save a list of your favorite hotspots for easy reference XFINITY WiFi Hotspots: Tens of thousands of XFINITY WiFi hotspots are available in multiple US cities, including Philadelphia, New York, Boston, Washington DC, San Francisco, and San Jose, with more locations added frequently.Recent changes:Optimized for improved performance and minor bug fixes'
+p4
+tp5
+tp6
+.

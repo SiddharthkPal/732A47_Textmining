@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Golf Channel Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Keep the golf world at your fingertips with the new Golf Channel Mobile. Read the latest articles, blogs, and analysis from the game\xe2\x80\x99s most knowledgeable insiders.  Mark and follow your favorite players in this week's tournaments with leaderboards from all major worldwide tours; Watch videos covering the latest news in the golfing world along with instructional videos from the world\xe2\x80\x99s best instructors. Get the Golf Channel experts' picks before each tournament and breaking news as it happens, anytime and anywhere. * Check out the latest shows (news and originals), with behind-the-scenes videos, photo galleries and other exclusive content. * Get the latest tips from golf\xe2\x80\x99s best instructors and legends.* Wake Up and Smell the Fairway! Now you can listen to Morning Drive every weekday morning LIVE. Start your day with Morning Drive live audio streaming (Android 3.1 and up)Golf Channel Mobile is subject to EULA acceptance and your agreement to the Golf Channel's standard Terms of Service.Recent changes:Golf Channel Mobile Version 3.6Updated Scorecard - Favorite golfer within scorecard - Improved display of golfer and scoring informationUpdated Leaderboard- View more scores without scrolling- Dismissable adAnd many bug fixes Previous Updates:Version 3.5: Playoff coverage, improved videoVersion 3.4: Find a player, Live audioVersion 3.3: Enhanced leaderboards and photo galleries"
+p4
+tp5
+tp6
+.

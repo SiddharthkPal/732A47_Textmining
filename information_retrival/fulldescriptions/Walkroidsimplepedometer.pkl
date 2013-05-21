@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Walkroid - simple pedometer '
+p1
+tp2
+(S'Description:'
+p3
+S"Walkroid - simple pedometer - displays your today's steps and distance. It also has trip meters so that you can measure distance between any two points by walk or steps each walking.In addition to the normal application, widget is available.*** CAUTION ***Unfortunately some devices stop the accelerometer in the device when the screen is OFF, the app doesn't run well on such devices.twitter: http://twitter.com/walkroidAbout PermissionsSYSTEM TOOLS: needed for running when the screen is off.STORAGE: needed for saving backup of logs in the SDCARD.NETWORK COMMUNICATION: needed for Ads.Recent changes:Walk time is available now.The battery consumption is improved when not in use."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Android Media Player '
+p1
+tp2
+(S'Description:'
+p3
+S'Android media player is a free multimedia player that plays most multimedia files as well as discs, devices, and network streaming protocols.  This is a BETA version of the media player so it is not perfectly stable and is slower than the final version.Features\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x98\x85 Plays most local video and audio files, as well as network streams (including adaptive streaming).\xe2\x98\x85 Media library for audio and video files, and allows to browse folders directly.\xe2\x98\x85 Supports auto-rotation, aspect-ratio adjustments and gestures to control volume and brightness.\xe2\x98\x85 It also includes a widget for audio control, supports audio headsets control, cover art and a complete audio media library.Missing Features\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93As this is an early BETA version, a lot of things are not finished, but will change for the final release:\xe2\x80\xa2 The basic User Interface will change again;\xe2\x80\xa2 Performance improvements are missing;\xe2\x80\xa2 Hardware decoding works only with a limited set of hardware;\xe2\x80\xa2 Other unknown issues.Permissions\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\x93\xe2\x80\xa2 It needs hardware control, in order to change the audio volume;\xe2\x80\xa2 It needs phone calls control, in order to pause the music when someone is calling;\xe2\x80\xa2 It needs full Internet access to open network streams;\xe2\x80\xa2 It needs to be able to read logs, during the beta version, to help understanding the crashes and issues;\xe2\x80\xa2 It needs to get access to the SD card storage, in order to allow deletion of files.\xe2\x80\xa2 It needs to get access to the settings, in order to change your audio ringtone.Recent changes:- initial release'
+p4
+tp5
+tp6
+.

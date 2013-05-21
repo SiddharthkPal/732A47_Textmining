@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'e-book/Manga reader ebiReader '
+p1
+tp2
+(S'Description:'
+p3
+S'It can be downloaded the e-books in "eBookJapan" to the Android device on your hand. It can enjoy 60,000 or more e-books mainly "Manga" by the high-resolution . The e-books is bought in "eBookJapan", and can be read at once. Most e-books in "eBookJapan" can be browsed a few pages free of charge.Recent changes:1.The target folder can be chosen when upload of books, and download.2.Included books are changed3.Bookmark function was corrected (its not attachable at low probably)'
+p4
+tp5
+tp6
+.

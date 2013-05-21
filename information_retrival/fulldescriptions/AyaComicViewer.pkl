@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AyaComicViewer '
+p1
+tp2
+(S'Description:'
+p3
+S'AyaComicViewer is a Image Viewer that is optimized for reading comics.When it reads ahead, it will be high performance with prefetching images.Supported archive format: ZIP RARSupported image format: JPG PNG BMPRecent changes:Page-turning animation. (default OFF)Omitting the double-tap detection.(a little faster)'
+p4
+tp5
+tp6
+.

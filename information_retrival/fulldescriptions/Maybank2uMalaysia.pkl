@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Maybank2u Malaysia '
+p1
+tp2
+(S'Description:'
+p3
+S"M2U is now available for Android! Discover a whole new way of accessing your banking needs via M2U with Android. Experience a variety of banking services at your fingertips with ease: \xe2\x98\x85Account Summary\xe2\x98\x85 \xe2\x96\xb8 Balance Inquiry (Savings, Current, Credit/Debit Card)  \xe2\x96\xb8 M2U History, Recent Transactions, Today's Transactions,Transaction History (Deposit, Credit/Debit Card) \xe2\x98\x85Funds Transfer\xe2\x98\x85 \xe2\x96\xb8 To Own Accounts  \xe2\x96\xb8 To Registered 3rd Party Accounts  \xe2\x96\xb8 To Registered Interbank GIRO \xe2\x98\x85Payments\xe2\x98\x85 \xe2\x96\xb8 Registered Bill Payment  \xe2\x96\xb8 Card Payment (Own)  \xe2\x96\xb8 Card Payment (Registered 3rd Party Accounts) \xe2\x98\x85Prepaid\xe2\x98\x85 \xe2\x96\xb8 Mobile Prepaid Instant Top Up   \xe2\x98\x85Others\xe2\x98\x85 \xe2\x96\xb8 View Forex Rates \xe2\x96\xb8 Loan Calculator \xe2\x96\xb8 Contact Us Download our M2U app now to discover a whole new banking experience with Android!Note: This app works on Android version 2.2 and aboveRecent changes:Add in new security features"
+p4
+tp5
+tp6
+.

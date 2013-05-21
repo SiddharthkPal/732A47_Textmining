@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simple Weight Recorder '
+p1
+tp2
+(S'Description:'
+p3
+S'A simple tool to record your weight history.Features:- Simple user interface- Chart- Color display for loss/gain- Weight goal and difference- Total loss- BMI- Units: ft/in/lb or cm/kgYou can usually open the menu by pressing MENU button on your phone. The location of MENU button varies depending on the phone you use.For how to use, visit http://swr.beyonj.com.* Data compatibility with Version 1:Basically, you can continue to use data entered in Version 1. However, you cannot edit data that is added using v1.0.x (released before Nov. 8, 2010). Even if you set a new date before the date of an input added using 1.0.x, the new date cannot be older than the date of old-style data.Recent changes:* Version 2.0.3:Fixed bugs occurred in Android 1.5.* Version 2.0.2:Changed tab appearance.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Marktplaats '
+p1
+tp2
+(S'Description:'
+p3
+S'Marktplaats is the Dutch number one classifieds destination on Android. Fast and easy buying and selling of used and new goods and services on mobile. Selling\xe2\x80\xa2\tPlace your ad in free or paid categories and include up to 8 pictures\xe2\x80\xa2\tContact the bidders directly by phone, SMS or email\xe2\x80\xa2\tPromote your ads by placing it on top of a category list\xe2\x80\xa2\tIncluding your own website in your ad\xe2\x80\xa2\tView your ad and received bids in My Marktplaats synchronized between the app and the website\xe2\x80\xa2\tShare your ads directly with your friends via social networks and emailBuying\xe2\x80\xa2\tEasily search and browse to find items in the entire Marktplaats inventory\xe2\x80\xa2\tRefine search results on distance, price, category and product attributes \xe2\x80\xa2\tContact seller directly by phone, SMS or email\xe2\x80\xa2\tSave ads to favorites in My Marktplaats and check them out later on your phone or desktop \xe2\x80\xa2\tPlace bids and manage your active bids in My Marktplaats\xe2\x80\xa2\tFind offers closest to you with distance search\xe2\x80\xa2\tSpeed up your search with automatically saved recent searches.Thank your for your feedback, which is very valuable to us. We will keep working to improve the Marktplaats app. Send your comments via the app in Mijn Marktplaats/Instellingen/contact or go to http://www.marktplaats.nl/i/help/contact/Recent changes:Version 2.4.2:\xe2\x80\xa2 Fix for removing saved favoritesVersion 2.4.1:\xe2\x80\xa2 Change the status of an ad to reserved and back to available again\xe2\x80\xa2 Change the price of an ad\xe2\x80\xa2 Rotate and crop picturesVersion 2.3.1:\xe2\x80\xa2 Activate 1-click payments from the app\xe2\x80\xa2 Opt-out setting for 1-click payments added to Settings menu'
+p4
+tp5
+tp6
+.

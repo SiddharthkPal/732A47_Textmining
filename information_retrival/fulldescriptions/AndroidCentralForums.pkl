@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Android Central Forums '
+p1
+tp2
+(S'Description:'
+p3
+S"Now updated to the Tapatalk 2 back-end! If you have any questions, concerns or bugs, voice 'em here: http://goo.gl/SHk13The easiest and best way to take part in the Android Forums at Android Central. Using the Tapatalk standard of mobile forum browsing, you can peruse forum threads, reply, start new threads, reply to PMs and do everything you expect from the best and friendliest Android forums around.This app will ask your permission for some things when you install it. Here's what those permissions mean, in plain English:Full Internet access: You'll need to have access to the Internet to view and reply in the forums. Makes sense.Read phone state and identity: Google says this allows the app to know when a phone call is coming in. That way, the app can pause itself and let you answer the call. We're not using your identity for anything; these two permissions are bundled together.Modify/delete USB and SD card contents: When you see a picture posted in the AC Forums via the app, it needs to store it on your internal storage or SD card. Again, makes sense.Prevent device from sleeping: When a notification is received (you can set those up in the app settings), the app will need to wake the device up so it can deliver it. (Yeah, it sounds a little backward.)Control vibrator: Needed for notifications, so you can have your phone or tablet vibrate. Sounds a little dirty, though.View network state/Wifi state: Because the app requires you to have a network connection, it needs to be able to *know* that you have a network connection. If you don't, it will tell you.Automatically start at boot: The app will notify you about private messages and replies to subscribed topics. Without this permission, you would need to restart the app yourself each time you restart your phone to continue to get notifications.Hope that helps clear up those scary, scary permissions. :pRecent changes:Updates to keep in line with Tapatalk updates. More at: http://goo.gl/VJptX"
+p4
+tp5
+tp6
+.

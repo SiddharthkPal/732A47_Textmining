@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simon Malls: Shopping Mall App '
+p1
+tp2
+(S'Description:'
+p3
+S"*** The Official Simon Malls App ***Get the must-have shopping mall app that every savvy shopper has, so that when you visit one of the more than 300+ Simon Malls nationwide, you maximize your shopping experience. This free Android app includes the following features:\xe2\x80\xa2 Check out the latest deals, special offers and events available at your favorite mall. \xe2\x80\xa2 Find your favorite stores, dining and entertainment options at the Simon Mall nearest you. \xe2\x80\xa2 Connect with your local mall (where available) on a variety of social networks that include Facebook, Twitter, Foursquare and Google Places. \xe2\x80\xa2 Vote on most everything within the app to help contribute to the crowd sourced recommendations. \xe2\x80\xa2 Become a Simon Malls Insider by signing up your email and/or mobile phone number to get exclusive offers and event invitations that will help you save time and money.\xe2\x80\xa2 Remember where you parked with convenient photo, GPS or text parking reminders. \xe2\x80\xa2 Look up mall hours, map & driving directions and contact information. Download the free Simon Malls Android app now and make the most of out of every visit to your favorite Simon Mall! Notes:1. Developed and tested for all Android v2.1+ powered devices, including those with a trackball, but should still work for all v1.6+ devices2. All Android app devices supported, but specifically optimized for normal sized screens with both medium (mdpi) and high (hdpi) pixel densities3. Send us your feedback. Let us know what new features you think we should add. What should we change. We love your ideas and suggestions. Email us at mobileapps@simon.com4. \xc2\xa9 2011 Simon Property Group, Inc. and its affiliates and subsidiariesRecent changes:Within version 1.6 of the Simon Malls mobile app we have:1. Improved overall ice cream sandwich (Android OS v4.0) compatibility2. Resolved some reported & isolated app crashing errors3. Addressed an issue within Find A Mall where the Google Map wasn't always displaying correctly4. Improved usability & data validation within the Registration and Gift Card Balance Check pages"
+p4
+tp5
+tp6
+.

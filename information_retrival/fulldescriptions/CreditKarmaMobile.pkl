@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Credit Karma Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Get your truly free credit score and free on-the-go credit monitoring with Credit Karma Mobile.Become a member for free in-app and get your free credit score in just two minutes.FEATURES\xe2\x9c\x94 Truly free credit scores\xe2\x9c\x94 Free on-the-go credit monitoring\xe2\x9c\x94 Notifications when something important changes in your credit report\xe2\x9c\x94 Credit Report Card, which tells you about factors influencing your credit score\xe2\x9c\x94 Free membership. No credit card required.\xe2\x9c\x94 Safe and secure.TESTIMONIALS FROM OUR MEMBERS\xe2\x80\x9cCredit Karma helped me save over $3,000 on my credit card debt. It was quick and easy!\xe2\x80\x9d \xe2\x80\x93 James, MA\xe2\x80\x9cMy credit score has gone up 43 points in a single month after following some of their advice!\xe2\x80\x9d \xe2\x80\x93 Leslie, CACREDIT KARMA HAS BEEN FEATURED IN\xe2\x9c\x94 MSNBC\xe2\x9c\x94 SmartMoney\xe2\x9c\x94 USA TODAY\xe2\x9c\x94 TIME Moneyland\xe2\x9c\x94 TechCrunchCredit Karma provides more than 10 million consumers with free credit scores and access to free credit monitoring to help them realize the everyday cost savings of having good credit by offering personalized savings recommendations for credit cards, student, auto, mortgage and home equity loans. It also provides financial education and access to free tools that empower consumers to take charge of their financial health including the free Credit Report Card, Credit Score Simulator and Credit Card Statistics. To learn more, visit www.creditkarma.com.Recent changes:1.0.4 - We've fixed an issue where updating to a new version would cause a crash."
+p4
+tp5
+tp6
+.

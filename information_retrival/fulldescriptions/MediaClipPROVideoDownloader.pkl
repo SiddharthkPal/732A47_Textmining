@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MediaClip PRO:Video Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Download your favorite videos from the Internet! Download videos from a variety of sites![ MediaClipPRO ] is a downloader application that allows you to easily download videos, images, and PDF files from the web.With MediaClipPRO you can download videos, images, and PDF files from web pages that you like, all in one go.The movie files that you save can also be played offline (when you have no connection).Its web browsing functionality allows you to bookmark the websites you like, so you can access your favorite sites straight away.And of course, streamed videos and images can also be played directly.[ Media Clip PRO ] - Available for Free DownloadMedia Clip PRO Functionality:* Download and save videos, images, and PDF files.* Play and display videos, images, and PDF files.* Web browser functionality.* Play streamed video, image, and PDF content on the web browser.* Set bookmarks on the web browser.Important Note:* Downloading YouTube content is not allowed, in accordance with the YouTube terms and conditions of service.[ Notice ]It does NOT work for streaming videos like YouTube because of Google policy.-----------------------* Contact Ushttp://mdaclip.inquiries.beatapps.info/inquiries/contact.new.php?url=PlayStore* Twitterhttps://twitter.com/MediaClipVideo* Facebookhttp://www.facebook.com/pages/Mediaclip/436313869782787* Google Plushttps://plus.google.com/111928065057885459466/aboutRecent changes:I fixed display bug'
+p4
+tp5
+tp6
+.

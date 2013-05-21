@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lexicomp '
+p1
+tp2
+(S'Description:'
+p3
+S'For devices running OS version 2.0 & higher.Keep updated with Lexicomp\xe2\x80\x99s trusted clinical knowledge, now at the touch of a button!  This application includes 30-days of access to all databases Lexicomp offers for your Android phone. Plus hundreds of images, calculations & tables available with a cell or wifi connection.Recent changes:- Search entire Library at once - Search entire Index at once- Monograph search - New Slide Menu nagivation- Includes a Lexicomp widget for even quicker access to information.- Bug Fixes'
+p4
+tp5
+tp6
+.

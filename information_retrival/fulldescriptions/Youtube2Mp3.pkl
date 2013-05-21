@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Youtube2Mp3 '
+p1
+tp2
+(S'Description:'
+p3
+S"NEW: Now this App can convert Dailymotion to mp3 videos besides YouTube videos.This App can obtain a mp3 based on a found Youtube video. The video will be downloaded to a server where the conversion to the mp3 starts. After the conversion the App wil download the mp3 from the server to your smartphone (or tablet).Nowadays there is a 'YouTube Share' integration and there is also support for Dailymotion.KEYSENTENCES:Youtube2mp3, YoutubeToMp3, Youtube to mp3, Dailymotion2Mp3, Dailymotion2Mp3, Daily motion to mp3, share from the official YouTube AppRecent changes:The following has been added:+ 'YouTube share' integration."
+p4
+tp5
+tp6
+.

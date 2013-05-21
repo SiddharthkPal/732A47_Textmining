@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Contacts + '
+p1
+tp2
+(S'Description:'
+p3
+S'Contacts+ is your everyday contacts & dialer app, powered with text messaging, WhatsApp, Facebook, Twitter and much more - all in one place.With Contacts+ you can send free and regular text messages without switching apps, auto-sync beautiful pics to your contacts from Facebook, and get birthday reminders so you\xe2\x80\x99ll never forget a birthday again! Contacts+ is the place to connect, however you want, with the people you care about!Features:\xe2\x98\x85 Beautiful contacts design\xe2\x98\x85 Integrated Dialer, Call log and Messages list (swipe left/right)\xe2\x98\x85 Light / Dark themes\xe2\x98\x85 Groups & favorites contacts display\xe2\x98\x85 Grid / List contacts view\xe2\x98\x85 Smart contacts prioritization by Frequency or sort by A-Z / Recents\xe2\x98\x85 Send FREE & regular text messages to your contacts from one place\xe2\x98\x85 View contacts messages history (thread) in their profiles\xe2\x98\x85 Whatsapp, Facebook, Twitter, Linkedin & Foursquare integrated in your contacts\xe2\x98\x85 Navigate to your contacts addresses from their profiles\xe2\x98\x85 Auto pictures and birthdays sync with Facebook, including cover photos\xe2\x98\x85 Auto pictures sync with Google+\xe2\x98\x85 Merge duplicate contacts (supports most devices)\xe2\x98\x85 Contacts widget\xe2\x98\x85 Birthdays reminders\xe2\x98\x85 Fast T9 & Gesture search by names, numbers, emails and company\xe2\x98\x85 Quick call - press & hold a contact pic to call from your main contacts screen\xe2\x98\x85 Speed dial_____________CONTACT US:We\xe2\x80\x99re always happy to get your feedback and answer any questions at: info@contactspls.comFacebook: facebook.com/contactsplsTwitter: twitter.com/contactspluswww.contactspls.com * Contacts Plus uses Wi-Fi / data to send free text messages to other Contacts+ users. Carrier charges may applyRecent changes:+ Birthday reminder improvements - now you can snooze birthday notifications and easily send a message directly from your Android status bar+ Messaging notification improvements+ Better support for links in text messages+ Improved \xe2\x80\x9cIgnore accents\xe2\x80\x9d support for outgoing text messages (via advanced messaging settings)+ Bug fixes'
+p4
+tp5
+tp6
+.

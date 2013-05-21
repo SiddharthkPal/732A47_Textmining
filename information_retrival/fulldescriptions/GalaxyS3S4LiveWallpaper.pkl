@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Galaxy S3/S4 Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Download the free Galaxy S3/S4 Dandelion live wallpaper featuring flying seeds. Now comes with new Galaxy S4 wallpaper background!Beautiful calming "Water Droplet" effect! Enable this effect in the settings screen. Touch or tap the screen to add water drops on your home screen!To use: Home -> Menu -> Wallpapers -> Live WallpapersTo develop more free great live wallpapers, we have implemented some ads in settings.Advertisement can support our develop more free great live wallpapers.Our wallpaper contains "NO notification or icon ads"!!This live wallpaper has been tested on latest devices such as Samsung Galaxy S3, Nexus 7, HTC Desire S and Sony Xperia S. Please contact us if your device is not supported.Note: If your wallpaper resets to default after reboot, you will need put the app on phone instead of SD card.Follow us on Twitter: https://twitter.com/androidwasabiDisclaimer/TrademarksGalaxy S3/S4 is a trademark of Samsung. This app is not affiliated with or endorsed by Samsung.Recent changes:- Updated S4 mode particle design- Updated Google Admob SDK to fix rare FC bug'
+p4
+tp5
+tp6
+.

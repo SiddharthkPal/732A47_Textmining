@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ATP/WTA Live '
+p1
+tp2
+(S'Description:'
+p3
+S'ATP/WTA Live is the official Live Scoring App from the ATP World Tour and WTA.Follow your favourite professional tennis players and tournaments in real-time throughout the season, including select ATP Challenger events.Key Features:\xe2\x80\xa2 Live Scores\xe2\x80\xa2 Live Match Statistics\xe2\x80\xa2 Completed Matches\xe2\x80\xa2 Order of Play\xe2\x80\xa2 Draws\xe2\x80\xa2 Rankings\xe2\x80\xa2 Player Bios & Head to Head Records\xe2\x80\xa2 15+ Languages\xe2\x80\xa2 Share with FriendsDownload now for free to follow every point, every match, every ATP World Tour and WTA tournament.***************************Grand Slam Events are not featured on ATP/WTA Live. Please refer to individual events for scores.***************************Keywords: ATP/WTA, Pro, tennis, live, score, scores, atp, wta, tour, sport, sports, world, live, federer, finals, nadal,sharapovaRecent changes:PLEASE NOTE: Grand Slam events are not members of the ATP & WTA. We are therefore unable to show GS scores inside of our App.1.2.23: New WTA 125K series logo added.1.2.22: Minor bug fixes and updates.1.2.21: Schedule screen crash fixed.1.2.20: Match details screen crash fixed.1.2.19: Scoreboard screen bug fixes.1.2.18: Scoreboard screen bug fixes.1.2.17: Refresh button bug fix.1.2.16: Title bar buttons bug fix.1.2.15: Further connectivity issues bug fixes.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MP3 Indir T\xc3\x83\xc2\xbcrk\xc3\x83\xc2\xa7e '
+p1
+tp2
+(S'Description:'
+p3
+S'Internet arsivindeki mp3 leri bularak dinlemenize ve indirebilmenizi saglayan Android uygulamasi.Dusuk puan vermeden asagidakileri okuyunuz lutfen.Her gecen gun veritabani guncellenmektedir. Yaptiginiz aramalar kontrol edilmektedir. Bu yuzden bir kere bulamadim diye uzulmeyin. Arsivimizimizi yaptiginiz aramalara gore genisletiyoruz.Yardimci olmak icin tek kelime uzerinden arama yapiniz.Yasallik konusu sistemimizde bir tane bile mp3 dosyasi yoktur. Kaynaklarimiz butun internet veritabanidir. Bu nedenle sistemin bir anda calismamasi ve cokmesi mumkun degildir.anahtar kelimeler: mp3, indir, turkce, download mp3Recent changes:Geri tusuna basinca uygulama hata veriyordu duzeltildi.Veritabani yakinda isteklerenize gore guncellenecek.'
+p4
+tp5
+tp6
+.

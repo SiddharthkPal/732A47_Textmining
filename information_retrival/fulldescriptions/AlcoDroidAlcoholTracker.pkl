@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AlcoDroid Alcohol Tracker '
+p1
+tp2
+(S'Description:'
+p3
+S'AlcoDroid is an alcohol consumption tracker, drinks diary and blood alcohol content calculator. AlcoDroid helps you get a better handle of what you drink and change your drinking habits. Optionally it also tracks costs of your drinks.AlcoDroid also provides an estimate of your blood alcohol content (BAC) based on the drinks you\'ve logged, plots your BAC development in a chart and indicates when you get below the legal limit or back to zero.Widgets are available to display your current BAC on the home screen.AlcoDroid also allows you to:- show, edit and export your drink logbook- chart your drinking habits daily, weekly or monthly- display and export daily, weekly and monthly alcohol consumption statistics- set your drinking goal (e.g. 21 standard drinks per week, SD/w) and see how your drinking matches the goal- setup your own list of "drink presets" to log your drinks fast- pin the most frequently used drinks to the main screen to log your drinks by two clicks- share your status and BAC chart on Facebook, by e-mail etcSupports US, imperial and metric units. Alcohol intake can be displayed in standard drinks (US, UK, CA, AU), grams or milliliters per week or day.For feedback and support, visit AlcoDroid on Facebook.Keywords: blood alcohol calculator, alcohol diary, drinks diary, alcohol consumption, alcohol intake, BAC, blood alcohol content, blood alcohol level, drunk driving, DUI, drinking self-assessment tool, risk reduction program, responsible drinkingRecent changes:bugfix - app crashed when opening Other Settings on some phones'
+p4
+tp5
+tp6
+.

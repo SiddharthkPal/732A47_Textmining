@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Youtube MP3 Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Convert your Youtube links to mp3 audio files.Do not violate legality.keywords: mp3 , youtube, converter, downloadRecent changes:Permission to change filename is OK.Downloader is added.Native Transform is OK.'
+p4
+tp5
+tp6
+.

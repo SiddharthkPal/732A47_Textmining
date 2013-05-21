@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TED '
+p1
+tp2
+(S'Description:'
+p3
+S"TED's official Android app presents talks from some of the world's most fascinating people: education radicals, tech geniuses, medical mavericks, business gurus, and music legends. Find more than 1400 TEDTalk videos and audios (with more added each week) on the official TED app -- now for tablets and smartphones. This app is made possible with the generous support of Sony.Recent changes:1.1.6:+ Speed improvements1.1.5:+ Support for high-resolution tablet displays, including the Nexus 10\t\t+ Plugged a memory leak that occurred on device rotation (on tablets)\t\t+ Bug fixes1.1.1-1.1.4:+ Bug fixes (background updates crash, audio player, Galaxy Note compatibility)1.1 updates:+ Subtitle support for over 70 languages+ Browse all talks by available languages/translations+ TED Radio Hour on NPR has been added to the audio player+ Improvements to video player controls"
+p4
+tp5
+tp6
+.

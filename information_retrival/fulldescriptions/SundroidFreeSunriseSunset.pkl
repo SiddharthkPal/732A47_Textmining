@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sundroid Free Sunrise Sunset '
+p1
+tp2
+(S'Description:'
+p3
+S'The most popular sunrise and sunset times calculator for Android! Handy for photography, hunting, outdoor activites and holiday planning. Also calculates length of daylight, moonrise and moonset times, and lunar phase with illuminated fraction.You can use your location from wireless networks or GPS, or select any location worldwide using a map, name or zip code search, or coordinate entry. Locations can be saved for later use.Sundroid Pro has many more features including widgets, a sun, moon and planet tracker, planet rise and set times, monthly calendars, eclipses, alarms and notifications, and much more. Sundroid Free includes demos of all these features so you can try before you buy. To find out more about Sundroid Pro, see my other apps or search for "Sundroid".Please email me with any problems or questions you may have, I\'m happy to help!***** Example uses *****Here are some examples of what Sundroid Free can be used for. If you\'ve found another use, let me know!\xc2\xb7 Photography\xc2\xb7 Sailing\xc2\xb7 Flying\xc2\xb7 Hiking\xc2\xb7 Hunting and fishing***** About permissions *****In case you\'re concerned about permissions, here\'s what Sundroid Free needs them for. I\'m happy to answer any question you have about security, so please feel free to get in touch.\xc2\xb7 Internet access: Used to look up the name and time zone of your location, and for location selection using maps and search. Connects to Google only; there is no usage monitoring. Offline use is supported.\xc2\xb7 Coarse and fine location: Allows Sundroid to get your current location (at your request) using GPS or networks.\xc2\xb7 External storage: Google Maps uses this to cache map tiles for better performance. Sundroid does not read or write anything on SD.\xc2\xb7 Google services: Required by Google Maps. Sundroid does not use it.Recent changes:\xc2\xb7 Redesigned for easier navigation\xc2\xb7 Holo theme for ICS (4.0+) devices\xc2\xb7 Choice of light and dark themes\xc2\xb7 System font size adjustment for accessibilityNew permissions:Write external storage and read Google Services permissions are required by Google Maps V2. Only cached map tiles are saved to SD - Sundroid does not write or read or write any other files on SD.'
+p4
+tp5
+tp6
+.

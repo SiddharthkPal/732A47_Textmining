@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Our Groceries Shopping List '
+p1
+tp2
+(S'Description:'
+p3
+S'OurGroceries automatically keeps your family\xe2\x80\x99s grocery list in sync with the latest changes\xe2\x80\x94on every family member\xe2\x80\x99s phone or web browser.Every change to your shared shopping list is visible in seconds. See items being checked off as your partner shops!iPhone, BlackBerry, and web versions also available.NEW! Love OurGroceries, but hate ads? Get rid of ads by purchasing the OurGroceries Key, available now in the Android Market.Recent changes:2.1.0:\xe2\x80\xa2 Updated to new Android look.\xe2\x80\xa2 Added preference so that most-recently crossed-off items are on top of list.2.0.7:\xe2\x80\xa2 Added themes (light and dark, see Settings).\xe2\x80\xa2 Fixed bug in newer versions of Android where an item would be added multiple times.2.0.6:\xe2\x80\xa2 New icon.\xe2\x80\xa2 Added setting to extend screen timeout.\xe2\x80\xa2 Show time since last sync on About screen.'
+p4
+tp5
+tp6
+.

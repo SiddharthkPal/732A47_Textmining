@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Opera Mobile web browser '
+p1
+tp2
+(S'Description:'
+p3
+S"Fast, smooth and easy to use, when you're browsing on a tablet or smartphone, Opera Mobile helps you get more out of your time online, whether you're finding information or relaxing with entertainment. It's the ideal web browser to use on fast network connections such as Wi-Fi, 3G and 4G. It\xe2\x80\x99s designed to make the most of your Android device!Opera Mobile adapts automatically to the way you read, watch or interact on a smaller screen. You\xe2\x80\x99ll enjoy all your favorite websites even more in Opera Mobile.Features:- Opera Mobile offers a full-featured interface that lets you surf the way you want.- Keep all your stuff in one place! You can synchronize bookmarks, Speed Dials and more with your computer or other mobile devices via Opera Link.- With support for Twitter and Facebook built in, sharing is a snap.- From text wrapping to zoom, page size and orientation, Opera Mobile always gives you the best view on your favorite webpages.Also check out Opera Mini, the fastest browser on Earth. Opera Mini compresses data by up to 90% and is the best choice for slower or limited data plans.Discover more at http://opera.com/mobile/Keep in touch with Opera:Twitter - http://twitter.com/opera/Facebook - http://www.facebook.com/Opera/Recent changes:This latest version of Opera Mobile contains a variety of bug fixes, along with stability and performance improvements."
+p4
+tp5
+tp6
+.

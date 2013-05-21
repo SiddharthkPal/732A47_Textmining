@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Indonesia TV Streaming '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch live free Indonesian TV channels in your mobile phone with this free application on your device. Enjoy watching Online Indonesian TV for free.This application did not require another plugin. Just install and select channel from list and wait while loading.Requirements:------------------------------------These application require a fast Internet connection.This application uses your internet connection. This app is able to work with 3G, 4G or WiFi networks. Sometime some channels may not available due to lot of network traffic. You can try again later.Indonesian TV Stations in this app:- Global TV- INDOSIAR- Metro TV - MNC TV- KOMPAS TV- RCTI - SCTV - TRANS 7 - TRANS TV - TV One- TVRI- Bali TV - And OtherDisclaimer:================This app doesn\'t actually stream the content, instead it combines various sources to present the content in a likable way. All the logos, trademarks and other symbols are the properties of their respective owners. We do not endorse or support any channel or any company. This app is distributed "as is" without warranty of any kind and the user may use it on his/her own risk. This app\'s users and third parties, agree to indemnify and hold harmless this app\'s creators and it\'s agents, from any damages claimed as a result of information, resources, products or services, or third party links obtained from this app. This app doesn\'t stream the content itself, so the creators can\'t be held responsible for any damages. If anybody still finds this app harmful in any way, they must send a request/notice to the creators first to remove the discrepancy. All the rstp (Real-Time Streaming Protocol) links are gathered from various sources available open in the internet. So the app owner or developer or creator can\'t be held responsible for any damages.Tags:Android tv, tv broadcast Indonesia, Indonesia tv , Indonesia mobile tv, Online tv, live tv, tv list, free, watch, stream, mobile tv, live Indonesia tv, live Indonesia tv, Indonesia tv live, Indonesia tv, Indonesia tv pro, online tv, web tv, free tv, live tv, mobile tvRecent changes:- Fix some bug- new channel'
+p4
+tp5
+tp6
+.

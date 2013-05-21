@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Kohl's "
+p1
+tp2
+(S'Description:'
+p3
+S"Tap into even more shopping convenience with the completely redesigned Kohl\xe2\x80\x99s Android app. With new, easy-to-use features, you can find what you want no matter where you are. Find shoes, jewelry, clothing and more all at your fingertips.Featured Ads: Browse pages of local deals or shop Kohls.com by department and brand. Featured brands include Simply Vera Vera Wang, Levi's and Keurig.Scan & Search: Scan Kohl\xe2\x80\x99s product barcodes or QR codes to quickly access sales, special savings, offers, gift registries and exclusive information. Or search Kohls.com by typing in a keyword or product name. Store Locator: Use your GPS Locator or ZIP code to find the nearest stores, see hours of operation and get directions.My Kohl\xe2\x80\x99s: Manage your account, check order status, track shipments and share with your friends.   Shopping Bag: Add your favorite items to the shopping bag to keep track of your top picks."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Malaysiakini Online '
+p1
+tp2
+(S'Description:'
+p3
+S'Malaysiakini.com is now available as an android app . Just install this app and surf Malaysiakini.com easily and its completely compability with all smart phones screens.Recent changes:-Loading Features Included.-Faster Loading.-Smooth Loading.'
+p4
+tp5
+tp6
+.

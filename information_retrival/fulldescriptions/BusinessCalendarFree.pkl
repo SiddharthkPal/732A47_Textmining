@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Business Calendar Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Business Calendar is a complete calendar application that is synchronising with your Google calendars!* smooth scroll- and zoomable multi-day view (1-14 days)* graphical and textual presentation* month, agenda, day and event view* color-coded year view* quickly fade in/out calendars using the favorite bar* search function* configurable widgets in different sizes for month, week, agenda and day view (3 design themes for each widget type)* easy switching between timeline bars and event titles in month view* intuitive new handling option: just move your finger over some days of interest in month view to open them in the multi-day view* quick day overview when adding a new event* many options for recurrent events (e.g. to add a recurrent event that takes place every other week on Tuesday and Thursday)* context-sensitive help system to optimize your work with Business CalendarThis is the free version of Business Calendar, it is containing (unintrusive) ads in some views but is fully functional! Even so, the ad-free paid version offers some additional features:* drag&drop mode in the multi-day view to move and copy events* option to link a contact to an event* configurable font sizes for the app and the widgets* option to select individual calendars for each widget* own Business Calendar reminders* 11 different widget design themes* additional dark theme for the complete application* option to create templates for events* multi-selection mode to delete, move or copy multiple events at the same time* import/export function for calendar files in the popular iCalendar format (.ics, .ical)Please do not move the application to the sd card if you want to use the widgets (general limitation of the Android operating system)!The app depends on the reminders of the stock calendar application please make sure you have not disabled them if you want to get alarm messages for your events (the paid version also includes own Business Calendar reminders)!Recent changes:Improved display of all day events:- all day events area in week view now can be extended to show up to 10 lines of all day events- month view in bar mode now can show 2 or 4 bars of all day events- month view in text mode now will show all available all day events if there is enough space (was limited to 4 events before) Other changes:- new color picker to choose background colors e.g for today or weekend days- swipe gestures optimized- some more changes and bug fixes'
+p4
+tp5
+tp6
+.

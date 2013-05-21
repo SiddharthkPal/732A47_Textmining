@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'My Network '
+p1
+tp2
+(S'Description:'
+p3
+S'My Network is a clever new mobile app/service for O2 customers.  It allows you understand what network coverage you have, any potential service outages, report issues and carry out speed tests.  The speed test screen runs three tests (http download, http upload, ping).  When completed it will upload the results to the server and finally display the results with a textual description of what the connection is good for, example email, downloading or video streaming. Historical results can also be viewed.  You must have either 3G or a WiFi connection to use the app, as the content is served from the web and not stored locally on the phone.'
+p4
+tp5
+tp6
+.

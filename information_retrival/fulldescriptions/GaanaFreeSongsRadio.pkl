@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gaana - Free Songs & Radio '
+p1
+tp2
+(S'Description:'
+p3
+S"Gaana \xe2\x80\x93 Unlimited Hindi, Bollywood, Tamil, English and Indian Regional music & radio, free!India\xe2\x80\x99s largest online music website is now on Android! Listen to your favourite songs in 21 Indian regional languages including Hindi, English, Tamil, Telugu, Punjabi, Marathi & also Bollywood songs. No matter where you are, your favourite music is with you, anywhere, everywhere for free.With this app, you can:- make playlists or hear our favorite playlists, and sync them across the web and your phone- search from over 1 million songs for the one you love - whether it's  English, Hindi, Bengali, Punjabi, Marathi, and much more!- smart recommendations to listen to similar songs, artists, or albums- easily share your favorites with friends on Facebook, Twitter, or by email.If you\xe2\x80\x99re having issues with the app, don\xe2\x80\x99t hesitate to reach out to us \xe2\x80\x93\xc2\xb7\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Support e-mail \xe2\x80\x93feedback@gaana.com>\xc2\xb7\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Facebook - https://www.facebook.com/gaana.com\xc2\xb7\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Twitter - https://twitter.com/gaanaman\xc2\xb7\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0 Google+ - https://plus.google.com/109294294183856612069We\xe2\x80\x99d love to hear from you. Want a specific feature added? Can\xe2\x80\x99t find the song you are looking for? Write to us and we\xe2\x80\x99ll help you as best we can!Recent changes:- Stability improvements- Improved UI aesthetics & consistent graphics across the app- Drawer menu behaviour as per android design recommendations- Radio Gaana option available in radio mode- Branded  app widget (in the notification area)- Language filter remembers language choice in Discover sectionNote: Requires READ_LOGS permission to send debugging reports to help developers to fix/improve device specific issues."
+p4
+tp5
+tp6
+.

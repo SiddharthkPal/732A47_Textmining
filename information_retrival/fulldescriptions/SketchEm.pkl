@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Sketch 'Em "
+p1
+tp2
+(S'Description:'
+p3
+S"An app for the artistically challenged and the artistically aspiring, Sketch 'em is a drawing tutorial that's a great place to start. Learn sketching using a constructive step by step approach. Beginning with basic human anatomy, work your way up to drawing in perspective. With advice from professional artists and a fun and challenging scoring system, Sketch 'Em encourages you to master your technique. Its drawing interface modeled after the Galaxy Note's S Memo App will put all the creative tools you'll need at the tip of your S-pen.\xe2\x80\xa2 Cool \xe2\x80\x9csketchy notebook\xe2\x80\x9d look\xe2\x80\xa2 Offers the full range of drawing tools that you'll find in the Galaxy Note's S-Memo app\xe2\x80\xa2 Optimized for Samsung Galaxy Note\xe2\x80\x99s S-Pen\xe2\x80\xa2 3 difficulties: Easy, medium and hard, with different sketches to choose from\xe2\x80\xa2 Teach people how to draw your creations through Creator mode.\xe2\x80\xa2 View others' creations through Community Mode\xe2\x80\xa2 Share your work with friends on Twitter and FacebookRecent changes:For our initial release, we\xe2\x80\x99re making our anime and dinosaur packs COMPLETELY FREE (That's 30 sketches!). Support us in the Samsung Smart Apps Challenge by downloading our app!"
+p4
+tp5
+tp6
+.

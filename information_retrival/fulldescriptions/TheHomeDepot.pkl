@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Home Depot '
+p1
+tp2
+(S'Description:'
+p3
+S"More saving. More doing. On the go.ENHANCED SHOPPING FROM YOUR MOBILE DEVICEBrowse and shop for over 350,000 home improvement products: appliances, bathroom, decorating ideas, kitchen remodeling, patio furniture, power tools, BBQ grills, carpeting, lumber, concrete, lighting, ceiling fans and more!Also, check inventory for your local store or nearby stores and view the aisle location for most products that are sold in stores.BUY NOW. PICK UP IN STOREThe Home Depot's Pick Up In Store option offers you the convenience of placing an order on homedepot.com and subsequently picking up your item(s) at a Home Depot store location. This feature not only saves you shipping charges but also helps you expedite any time-sensitive projects.  VOICE SEARCHSimply speak the item into our search for a fast and convenient way to find what you need.STORE LOCATOR & MAPFind the closest Home Depot location by using our Store Finder.  It also includes directions, store phone number, and hours of operation.  Once you are in the store, use the in-store map to help you get where you need to go.REVIEWSUse the barcode reader to scan an item and read what other customers have to say.  Use the Home Depot app to write your own reviews and even upload an image.Recent changes:New with 3.6: Updated workshops informationNew with 3.5: In our last release, we added the ability to save Home Depot workshops to your calendar for convenience. Unfortunately, by adding this feature we were labeled with some pretty generic and scary permissions that caused concern with a lot of users.  While we really thought this feature was helpful, we have decided to remove it and therefore eliminate the need for the extra permissions.  We apologize for any confusion this caused\xe2\x80\xa6"
+p4
+tp5
+tp6
+.

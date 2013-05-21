@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yahoo! '
+p1
+tp2
+(S'Description:'
+p3
+S"The new Yahoo! app brings you the best of the web in a virtually endless stream of personalized stories. The more you use the app, the more relevant stories you'll start to see. The app\xe2\x80\x99s redesign is complete with beautiful and modern touches - it\xe2\x80\x99s fast and easy to use. Main features: - Endless visual stream of stories - Summaries by Yahoo! - Ability to select topics you want more stories about - Email or share stories with Facebook and Twitter - Revamped web search experience including images and video - Discover other great Yahoo! apps for your deviceRecent changes:- Endless visual stream of stories - Summaries by Yahoo! - Ability to personalize your stream by select topics you want more stories about - Revamped web search experience including images and video"
+p4
+tp5
+tp6
+.

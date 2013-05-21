@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glide '
+p1
+tp2
+(S'Description:'
+p3
+S'Glide connects your devices and cloud services so that you have access to all of your files no matter where they are stored. With Glide you can easily share and publish files and web content from your PC or mobile device. Glide automatically converts file formats when needed for easy sharing with friends and family!- Access photos, music, video and documents.- Play slideshows, music and video playlists.- Search for files across various devices and cloud services.- Share and publish photos, music, video and documents with friends and family.- All the time, anywhere access to all of your files!'
+p4
+tp5
+tp6
+.

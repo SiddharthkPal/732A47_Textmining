@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Batman 3D Logo Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'The Batman Logo 3D live wallpaper.3D interactive live wallpaper with 3D bat logos models. It is animated with the orientation and finger moves on the screen.Have some bat-logo models:- Yellow- Bat-Crest- B A T M A N(see screenshots attached)Very nice wallpaper, show your bat-logo on 3D.'
+p4
+tp5
+tp6
+.

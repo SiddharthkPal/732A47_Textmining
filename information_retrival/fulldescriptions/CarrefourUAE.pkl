@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Carrefour UAE '
+p1
+tp2
+(S'Description:'
+p3
+S'Save your MyCLUB card, view promotions & find the store with Carrefour UAE mobile appThe Carrefour UAE mobile app allows you to save your Carrefour MyCLUB Card by entering 16 digits of card. Saved card will then be scanned at counter during your next purchase.  The app includes helpful feature that allows user to find the store & get the direction to specific store. Users may also browse the promotion of our different business units, Hypermarket, market, Webstore and MyCLUB. Users are able to call the customer service from the app. It also allows user to contact customer service by sending queries via email.'
+p4
+tp5
+tp6
+.

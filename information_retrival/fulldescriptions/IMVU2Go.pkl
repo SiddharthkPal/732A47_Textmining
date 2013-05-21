@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IMVU 2Go '
+p1
+tp2
+(S'Description:'
+p3
+S'IMVU 2Go is now available for your favorite Android device running Android 2.3.3 (Gingerbread) and up!  With the new and free app, stay connected with your IMVU friends from anywhere. Now, you don\xe2\x80\x99t have to miss being on IMVU just because you have stepped away from your computer.With the app you can:\xe2\x80\xa2\tMessages: Receive and respond to messages \xe2\x80\xa2\tChat: Accept chat invites and text chat in the chat rooms\xe2\x80\xa2\tRequests: Accept or send friend requests\xe2\x80\xa2\tMy Profile: Update your profile on IMVU or upload photos to your IMVU albums\xe2\x80\xa2\tFriends: See your friends list and stay connected with them\xe2\x80\xa2\tDaily Outfit Challenge: See the latest fashions and vote for your favorite costumes\xe2\x80\xa2\tPulse: Share your thoughts, advertise your creations and connect with new friends\xe2\x80\xa2\tNews: Stay in the know with the latest IMVU blog posts\xe2\x80\xa2\tBirthdays: Know when it\xe2\x80\x99s your friend\xe2\x80\x99s birthday and gift them Download the app today, sign into your IMVU account and receive a cool, fun gift!Recent changes:Thanks to all of you for trying IMVU 2Go and providing feedback!- Improved login and logout functionality- Even more crash and bug fixes'
+p4
+tp5
+tp6
+.

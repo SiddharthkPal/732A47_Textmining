@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DashClock Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'DashClock is a replacement lock screen clock widget for Android 4.2+. It also exposes additional status items called extensions. The widget comes bundled with extensions that give you instant access to:\xe2\x80\xa2 Your current local weather\xe2\x80\xa2 Missed calls and unread text messages\xe2\x80\xa2 Your next calendar appointment\xe2\x80\xa2 Unread Gmail inbox or priority inbox conversations\xe2\x80\xa2 Your next scheduled alarmTo add the widget to your Android 4.2 device\'s lock screen, simply swipe to the left-most page of your lock screen and touch the "+" icon. Then, select "DashClock" to customize and add the widget. You can make this the primary lock screen widget, replacing the default clock, by first touching-and-holding it and then dragging it horizontally to the very rightmost position.Developers: DashClock is extensible! Visit the open source project at http://code.google.com/p/dashclock to learn more or just check out the source.Have a bug report or feature request? Just find the issue or file a new one here: http://code.google.com/p/dashclock/issues/listRecent changes:Version 1.4.3\xe2\x80\xa2 NEW! Translations for Greek, Dutch and Brazilian Portuguese\xe2\x80\xa2 Calendar extension now shows the current appointment if it started in the past 5 minutes\xe2\x80\xa2 Fixed a few issues related to all-day events\xe2\x80\xa2 Fixed a couple crashesVersion 1.4.2\xe2\x80\xa2 NEW! Analog clock options in appearance configuration\xe2\x80\xa2 Fixed an issue where the home screen widget wouldn\'t update\xe2\x80\xa2 Improved weather updates...Full changelog: http://code.google.com/p/dashclock/wiki/Changelog'
+p4
+tp5
+tp6
+.

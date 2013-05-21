@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Translate '
+p1
+tp2
+(S'Description:'
+p3
+S'Break through language barriers with Google Translate:\xe2\x80\xa2 Translate text and speech between more than 60 languages\xe2\x80\xa2 Listen to your translations spoken aloud\xe2\x80\xa2 Input using your voice, handwriting, and camera\xe2\x80\xa2 Save your favorite translations for quick, offline access\xe2\x80\xa2 View dictionary results for single words or phrases\xe2\x80\xa2 Translate without a network connection with our offline language packages(Camera input and offline translation are available for Android 2.3 and above.)Translations between the following languages are supported:Afrikaans, Albanian, Arabic, Armenian, Azerbaijani, Basque, Belarusian, Bengali, Bulgarian, Catalan, Chinese (Simplified), Chinese (Traditional), Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Filipino, Finnish, French, Galician, Georgian, German, Greek, Gujarati, Haitian Creole, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Irish, Italian, Japanese, Kannada, Korean, Lao, Latin, Latvian, Lithuanian, Macedonian, Malay, Maltese, Norwegian, Persian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swahili, Swedish, Tamil, Telugu, Thai, Turkish, Ukrainian, Urdu, Vietnamese, Welsh, YiddishRecent changes:\xe2\x80\xa2 Translate without a network connection with offline language packages (available on Android 2.3 and above).\xe2\x80\xa2 Translate vertical text in Chinese, Japanese, and Korean with your Camera.'
+p4
+tp5
+tp6
+.

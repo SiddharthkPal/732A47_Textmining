@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yahoo! Weather '
+p1
+tp2
+(S'Description:'
+p3
+S'Local weather and weather forecasts takes a whole new meaning with weather information combined with beautiful photographs that match current weather condition. All the photos featured in this app are from users like you - learn more at http://www.flickr.com/projectweatherSend us your feedback on Yahoo! Weather and join our Facebook page http://www.facebook.com/yahooweatherandroidNote: Please upgrade if you\xe2\x80\x99re using Yahoo! Weather versions 1.0.1, 1.0.2, 1.0.3.Recent changes:Updated account manager, sign in with your Yahoo! account to sync your locations.Bug fixes.'
+p4
+tp5
+tp6
+.

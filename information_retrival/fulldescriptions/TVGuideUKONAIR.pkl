@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TV Guide UK - ON AIR '
+p1
+tp2
+(S'Description:'
+p3
+S'UK\'s best rated TV guide app for android with listings for the UK, Australia and Ireland. Over 1.5 m downloads worldwide. 4.5 from 5 stars in all app stores. Super fast, beautiful and free. With information on shows and movies of over 400 television stations from Sky, Virgin, Freesat, Freeview, UPC, Soarview and Soarsat.Overview- All of UK\'s, Australia\'s and Ireland\'s major television channels (including Sky, Virgin, Freesat, Freeview, UPC, Soarview, Soarsat...)- Programmes for over 400 television stations (including all Sky channels)- Listings views or EPG (electronic programme guide) view- Overview of what\'s coming up today and the next 8 days- Watch trailers, view information about shows and movies and find out which actors are starring on television- Facebook and Twitter integration (Social TV)- ON AIR is free and supported by advertisingNamed Sunday Mirror \'App of the Week\'The Guardian: "Couch potatoes have a new way to browse more than 400 television channels on their iOS devices, with ON AIR."Clean and intuitive interface that makes browsing listings and finding programmes really simple. Lean and sleek guide interface on the phone. Print-like magazine style for tablet. Super fast loading times. Listings for all Free-To-Air and Pay-TV television channels (including all stations for Sky and Virgin) in the UK. 8-day overview of what programmes coming up. Comprehensive details, descriptions, images and links to trailers are available for all shows and movies. Biography and image for many actors. Customised recommendations for the best TV highlights of each day, based on your personal taste and the picks of expert editors. Optional push reminders for your favourite TV shows. Built-in social functionality \xe2\x80\x93 allowing you to post or browse favourite shows on Facebook and Twitter. The app seamlessly integrates with IceTV digital recording, so IceTV subscribers can record programmes (shows and movies) with one touch. We are working on bringing you a recording functionality for Sky and Virgin PVRs on our TV guide and listings apps.Recent changes:- Added genre overview- Added Australian TV stations- Minor bugfixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Effecto Photo Editor '
+p1
+tp2
+(S'Description:'
+p3
+S'The ultimate photo pics editor for your android device. "There\'s an ARTIST in YOU"Experience photo editing like never before. Easy to use, even a child can create amazing beautiful images with Effecto. Yes its true, it just doesnt sounds awesome it is AWESOME.Instagram is old skool, Pixlr Express is too complicated, Others don\'t really provide this much free stuff as this app does.**30+ Effects**20+ Frames**Sharing OptionsMore On Features:**All Instagram filters available and some more awesome ones**Fixes: Sharpen, Blur, Contrast, Brightness**Awesome collection of Overlays for great effects**Crop, rotate and straighten your photo**Frames To play withTry this and you will never let it go.Create Picasso, Van Gogh like masterpieces in seconds on your android device.Enjoy and please let us know the experience :).This app contains minimum advertising as to support the developers soon we will work on removing ads and including inapp purchases.'
+p4
+tp5
+tp6
+.

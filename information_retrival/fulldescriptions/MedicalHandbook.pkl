@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medical Handbook '
+p1
+tp2
+(S'Description:'
+p3
+S'Our application comprises an extensive data library on drugs and illnesses and is ready to help you become familiar with different diseases, learn their symptoms and various treatments and make your decision when choosing a medicine.We have done our best to facilitate your search of numerous drugs and diseases. Our application offers you an extensive drug guide and a disease guide.We do our best to monitor all novel and rare medicines and update our information on a daily basis, to make sure that we provide you with the latest data. With our medical application you will be able to choose the most effective, fast-acting and least harmful drugs.Stay healthy and remember that your health is in your hands!This application includes:1. Drug Handbook2. General Diseases - Handbook-- Update #2Recent changes:We have fixed mistakes which were present on Android 4-x-- Update #2'
+p4
+tp5
+tp6
+.

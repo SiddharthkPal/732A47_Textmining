@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SuperSport '
+p1
+tp2
+(S'Description:'
+p3
+S"The ultimate digital sporting experience is now available for Android Phone. Get all the latest news, scores and fixtures of your favourite sports including football, rugby, cricket, golf and more.Recent changes:- Golf, Tennis & Motorsport fans! You can now catch all the latest action on SuperSport for Android. - In Golf, you can view the full live leaderboard of a tournament as well as the players' scorecards per round- In Tennis, you can view match results live per round, player rankings and more- In Motorsport, you can follow Formula 1 races live and get results, driver and team standings* Bug fixes"
+p4
+tp5
+tp6
+.

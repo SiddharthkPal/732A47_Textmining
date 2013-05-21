@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Surgery Safety CheckList Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Surgery Safety CheckList FreeThe World Health Organisation(WHO)published the WHO Surgical Safety Checklist and Implementation Manual in 2008 in order to increase the safety of patients undergoing surgery.As the worldwide incidences of traumatic injuries, cancers and cardiovascular disease continue to rise, the impact of surgical intervention on public health systems continues to grow. The WHO has undertaken a number of global and regional initiatives to address surgical safety. The Global Initiative for Emergency and Essential Surgical Care and the Guidelines for Essential Trauma Care focussed on access and quality. The Second Global Patient Safety Challenge: Safe Surgery Saves Lives addresses the safety of surgical care. The World Alliance for Patient Safety initiated work on the Challenge in January 2007. The checklist essentially identifies three distinct phases of an operation, each corresponding to a specific period in the normal flow of work: Before the induction of anaesthesia, before the incision of the skin, and before the patient leaves the operating facility. In each phase, a checklist coordinator must confirm that the surgical team has completed the listed tasks before it proceeds with the procedure. The intention of such a checklist is to systematically and efficiently ensure that all conditions are optimum for patient safety, and that all staff are identifiable and accountable, and errors in patient identity, site and type of procedure are avoided completely. By following a few critical steps, health care professionals can minimize the most common and avoidable risks endangering the lives and well-being of surgical patients.Restrictions of free version- Not allowed to interact with personal data of patients. - Not allowed to interact with the data from the hospital. - Not be stored more than a checklist.     - No handwritten signature from specialists that  perform the surgical procedure. - It is not possible to generate the final checklist done in pdf format. - There are commercial ads. - Requires Internet conection. TAGS: Surgery, Safety, CheckList, WHO, World Health Organisation, Health, Patient, Care, Nurse, Doctor, Surgeon, Anaesthesia, Allergy.'
+p4
+tp5
+tp6
+.

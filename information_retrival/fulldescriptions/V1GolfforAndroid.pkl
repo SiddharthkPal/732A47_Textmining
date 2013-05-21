@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'V1 Golf for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'V1 GOLF SWING ANALYSIS APPLICATION for Android Phones and Tablets.Now with Sony Action Cam WiFi Support - Transmit 120 fps HD from your Sony Action Cam to the V1 Golf app.V1 Sports is a Google Play Top Developer.***************** APP HIGHLIGHTS*Access to Over 50 swings from PGA, LPGA, and Champions Tour Players (Limited to two downloads in Free version)including: -Roy McIlroy-Lee Westwood-Darren Clarke-Kenny Perry-Lorena Ochoa-Karrie Webb-Mark O\xe2\x80\x99Meara-Freddy Couples-Nick Price-Vijay Singh.....among many others!!CAPTURE:    *Record and Import    *Trim and Edit Video    *Variable Speed Playback, frame-by-frame    *Support for Sony Action Cam WiFi.  Wirelessly transmit 120fps HD from the Sony Action Cam.COMPARE:    *Split-Screen Swing Analysis (Premium Benefit)    *Flip/Mirror, Zoom, Overlay Swings    *Landscape or Vertical Orientation    *Tour Pro Swing Library (300fps)    *Full Suite of Analysis Tools IMPROVE:    *Create free online \xe2\x80\x9clocker\xe2\x80\x9d to store swings    *Submit/View Analyzed Clips from V1 Instructor    *Access to Video Drills from Top V1 instructorsSHARE:    *Facebook your Swing Video & Snapshot     *Email Screenshot of analysis and video    *Print your Snapshot on a WiFi printer*****************Purchasing the V1 Golf Premium Unlocker grants users:    *Unlimited Model Video Downloads    *Split-screen Comparison    *All ads removed*****************About Interactive Frontiers We are the maker of V1 Pro, the #1 Video Analysis Software in Sports.  V1 Pro is the preferred technology partner of PGA.com, PGA of America, Golf Digest and used by leading Tour players and golf instructors worldwide to capture, analyze and improve their golf swings.  We are committed to continually improving the V1 Golf App, so we encourage any and all feedback you may want to offer.~For more information about Interactive Frontiers and the V1 Golf App, please visit www.v1golfapp.com~Recent changes:Version 1.1.68Bug FixesVersion 1.1.67UI UpdatesAnalyzer Menu UpdateStore UpdatesGalaxy S4 Capture Bug FixSwitching storage preserves databaseAnalyzer Timing Update'
+p4
+tp5
+tp6
+.

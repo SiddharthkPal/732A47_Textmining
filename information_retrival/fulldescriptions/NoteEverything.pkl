@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Note Everything '
+p1
+tp2
+(S'Description:'
+p3
+S'A note (notepad) application where you can create text-, voice- and paint-notes. Your notes can be organized in folders. You can create shortcuts on home, send notes, use live folders & much more!Get the Pro-Add-On for more features!Imports your Palm / Outlook Memos!Contact me if you have problems!Recent changes:* Fix for scrambled encrypted notes on some devices* Support for Note Everything Dropbox Backup (NE Online Backup)* Some ICS improvements* Fix for Home- and End-Buttons* Select priority while adding checklist items* Bugfixes'
+p4
+tp5
+tp6
+.

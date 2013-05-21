@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AnastasiaDate '
+p1
+tp2
+(S'Description:'
+p3
+S"Find love, romance, and companionship with this app from AnastasiaDate, the most prestigious and trusted name in international online dating services.  It's FREE to download.  (Communicating with our female members requires the purchase of credits).By downloading our mobile app, you can now:\xe2\x80\xa2\tMeet the woman of your dreams amongst the charming and beautiful ladies of Ukraine, Russia, and Eastern Europe.\xe2\x80\xa2\tBrowse their profiles, photos, and interviews for FREE.\xe2\x80\xa2\tEngage with them in live, real-time text chat. \xe2\x80\xa2\tReceive stacks of replies and invites in an exciting romantic, experience.\xe2\x80\xa2\tMaintain a contact list with your preferred ladies.\xe2\x80\xa2\tGenuinely become the center of attention of gorgeous, caring women who offer something new and exotic.Experience the ultimate in online dating where beautiful single women are waiting to hear from you!Recent changes:\xe2\x80\xa2\tSearch for women based on a very wide variety of criteria.\xe2\x80\xa2\tEasily flip through a lady\xe2\x80\x99s photos in the main window of her profile.\xe2\x80\xa2\tSome other minor changes and improvements."
+p4
+tp5
+tp6
+.

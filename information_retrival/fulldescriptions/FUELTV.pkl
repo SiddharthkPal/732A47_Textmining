@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FUEL TV '
+p1
+tp2
+(S'Description:'
+p3
+S"The most UFC, motocross, surfing, and BMX on television is at your fingertips! With the FUEL TV app for Android phones, you've got more adrenaline-sports videos, news, tweets, photos, events, and results than you can handle. Here's a taste:--Ultimate Fighting Championship (UFC): Videos, shows, fight cards, news, photos, events, results, Octagon Girls, MMA dictionary, and complete fighter listing--Videos: MMA, boxing, motocross, surfing, and BMX clips, teasers and highlights--Twitter: Realtime feeds from your favorite FUEL TV shows, cast members, athletes and UFC fighters--TV Shows: Video clips, cast info and more--Schedule: See what's on 24/7--Get Social: Tweet, post, text and share with your pals--Search: You want it? You got it.--Channel Finder: We've made it painless and brainless to get FUEL TV--and loads more...FUEL TV is the only cable and satellite television network that features the exciting world of adrenaline and thrill-seeking sports as well as high energy entertainment programming. This includes UFC, surfing, motocross, BMX and more. With more hours of UFC coverage than any other network, FUEL TV is the ultimate destination for live fights, weigh-ins, prelims, pre- and postfight coverage, results and more.--v2.2+ compatible--Best viewed on Android phones (Tablet version is coming soon)***SOME VIDEOS ARE RESTRICTED BY REGION***Please see our Terms Of Service, Privacy Policy, and End User License Agreement at:http://www.fuel.tv/toshttp://www.fuel.tv/privacyhttp://www.fuel.tv/eulaRecent changes:v2.4.3 UPDATE (3/26/13)--Bug fixesv2.4.2 UPDATE (3/14/13)--Fight cards added to event pages--Video sharing to Facebook, Twitter, email and text message--Pull-down-to refresh added to Results page and other sections--Various performances enhancements + bug fixes"
+p4
+tp5
+tp6
+.

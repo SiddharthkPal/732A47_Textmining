@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medicalcul '
+p1
+tp2
+(S'Description:'
+p3
+S"- Medicalcul est un calculateur m\xc3\xa9dical permettant de calculer diff\xc3\xa9rents scores et formules (clearance de la cr\xc3\xa9atinine, score d'Apgar, surface corporelle br\xc3\xbbl\xc3\xa9e... vous pouvez voir la liste compl\xc3\xa8te sur http://medicalcul.free.fr/_indexalpha.html). Une fois install\xc3\xa9, le logiciel vous demande de faire une mise \xc3\xa0 jour afin de r\xc3\xa9cup\xc3\xa9rer les donn\xc3\xa9es du site http://medicalcul.free.fr. Une fois ceci fait, vous pourrez utiliser Medicalcul hors-ligne, sans avoir besoin d'un acc\xc3\xa8s r\xc3\xa9seau. Le logiciel v\xc3\xa9rifie r\xc3\xa9guli\xc3\xa8rement la pr\xc3\xa9sence de modifications et vous avertit si une mise \xc3\xa0 jour est disponible, afin que vous puissiez relancer l'importation des fichiers. Afin d'\xc3\xa9conomiser les donn\xc3\xa9es de votre forfait, vous pouvez choisir de faire la mise \xc3\xa0 jour lorsque vous disposez d'une connexion Wifi._  - Il est bien \xc3\xa9videmment possible de rajouter des scores ou formules, et vous pouvez me contacter \xc3\xa0 dessein. Si vous disposez de r\xc3\xa9f\xc3\xa9rences bibliographiques pour les nouveaut\xc3\xa9s que vous souhaiteriez voir ajout\xc3\xa9es, merci de me les communiquer afin de gagner du temps dans mes recherches._  - Medicalcul n'est disponible qu'en fran\xc3\xa7ais._     - Dr P. Mignard, P.H.C. service Urgences/SMUR, C.H. Marne-la-Vall\xc3\xa9e (77) -Recent changes:Version 1.11  - Prise en charge de nouveaux serveurs secondaires.  - Correction de bugs mineurs._Version 1.10  - Prise en charge de serveurs secondaires.  - Correction de bugs mineurs._Version 1.09  - Lancement automatique du premier chargement des fichiers.  - Am\xc3\xa9liorations mineures._Version 1.08  - Changement de m\xc3\xa9thode pour bloquer la rotation de l'\xc3\xa9cran"
+p4
+tp5
+tp6
+.

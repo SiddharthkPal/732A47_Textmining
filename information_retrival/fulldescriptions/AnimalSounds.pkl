@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Animal Sounds '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Animal Sounds Library 100% Free \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Free Animal Sounds includes more than a hundred sounds. This app for iPhone & iPad offers many and varied animal sounds of exceptional quality. This is the perfect app to have a good time with your children or simply to laugh a little with your friends!  With this educational application for little kids, teach your baby or toddler to recognize animals and sounds they make. Also, the keyboard allows you to do an immersive kid\xe2\x80\x99s storytelling with animal characters (The Three Little Pigs, The Lion King, etc.).All the sounds are listed by category; you will quickly find what you are looking for. A must have for you and your kids!\xe2\x9c\x94 AVAILABLE CATEGORIES :\xc2\xa0- Farm: dog, cat, horse, sheep\xe2\x80\xa6- Savannah & Desert: lion, zebra, camel, elephant\xe2\x80\xa6- Jungle: parrot, chimpanzee, gorilla, jaguar \xe2\x80\xa6  - Insects: cricket, mosquito, bumblebee, bee\xe2\x80\xa6- Ocean: dolphin, seal, penguin, killer whale\xe2\x80\xa6- Forest: fox, deer, bear, grey squirrel\xe2\x80\xa6- Mountain: snow leopard, eagle, ibex, great horned owl\xe2\x80\xa6- City & Countryside: coyote, pigeon, crow, mouse\xe2\x80\xa6- Lake & Lagoon: crocodile, frog, flamingo, swan\xe2\x80\xa6\xe2\x9c\x94 ENJOY WITH ALL THESE FEATURES:\xc2\xa0- A large choice of free animal sounds.- All images and sounds have high quality.- Press button to add yours favorites sounds on the keyboard. - Easy to use app: Just press a button to trigger a sound\xc2\xa0- A pretty neat and ergonomic design\xc2\xa0- Free and regularly updatedNote: If this app is not producing any sound, please check whether your device mute button is engaged or not.                                   \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Please feel free to contact us for any questions, to add a specific sound, to fix a bug or any other improvements you think will help this making a great app for iPhone & iPad.- If you like this app, try our other free app:Sound Effects Free!- Follow us on:\xc2\xa0http://www.facebook.com/soundeffectsfree http://www.twitter.com/soundeffectfree https://plus.google.com/u/0/b/116771289493252259677/116771289493252259677/postsTags: zoo games, animal crossing, animal games, animal sounds for babies, animal calls, animal sounds, nature sounds, talking animals, wild animal sounds'
+p4
+tp5
+tp6
+.

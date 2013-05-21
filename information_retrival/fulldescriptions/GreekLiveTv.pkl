@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Greek Live Tv '
+p1
+tp2
+(S'Description:'
+p3
+S"Greek Live TvCompletely free.* No need to uses extra devices, extra utilities.* Just use your mobile device (phone,tablet, etc.) .* Easy to use. Just click and watch. * Some of the channels included:ET 1NETET 3Zougla TVExtra Channel 3Kontra TVAchaia newsIf you have any issue/suggestion/improvements regarding the application, please feel free to mail us.Add your comments and give stars on the market! Thanks.If you want us to add a new channel, send us email with channel name and a link to the channel. We will add it! This is not the official application of the different channels.We don't have any connection with content providers or have any rights regarding content.This app is just a mean to view the content in an organized way.This application uses internet connection. Wifi/3g/4g are supported connection protocols. Wifi is more economic and more robust internet connection,so we recommend to use wi-fiRecent changes:Version 0.0.2: added Skai GreeceVersion 0.0.3: Refreshed stations listVersion 0.0.4: Refreshed stations listVersion 0.0.5: Refreshed stations list (added Alpha, TV100, NeaTv, Syros TV1, Tv Creta, Lepanto and some more)Version 0.0.6: Refreshed stations list"
+p4
+tp5
+tp6
+.

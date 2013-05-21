@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ARMV7 NEON VidCon Codec '
+p1
+tp2
+(S'Description:'
+p3
+S'*****If you\xe2\x80\x99re an existing user, please update both your codec library and the video converter android app to use the converter. *****Video Converter Android ARMV7 codec with NEON features. Note that this is only the codec, please download the main app in order to use the converter. Please download this codec if your device runs on ARMV7 processor and support NEON. Video converter Android can detect the best codec automatically.Recent changes:1.1.0--Reduce size function added: specify a target output video size--Keep quality function added: ask video converter to keep the original quality--Arbitrary resolution support added--UI polish--bug fixes'
+p4
+tp5
+tp6
+.

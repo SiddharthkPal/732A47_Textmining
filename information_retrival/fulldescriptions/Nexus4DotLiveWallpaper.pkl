@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nexus 4 Dot Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Nexus 4 Dot Live Wallpaper is inspired by new Nexus 4 back glass cover with abstract dots.To use: Home -> Menu -> Wallpapers -> Live WallpapersTo develop more free great live wallpapers, we have implemented some ads in settings.Advertisement can support our develop more free great live wallpapers.This live wallpaper has been tested on latest devices such as Samsung Galaxy S3 and Galaxy Nexus. Please contact us if your device is not supported.Note: If your wallpaper resets to default after reboot, you will need put the app on phone instead of SD card.Follow us on Twitter: https://twitter.com/androidwasabi" target="_blank">https://twitter.com/androidwasabiRecent changes:- Updated latest Android 4.2.2 SDK- Removed "Download a free game" link- Reduced file size- Added more languages'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ENT Surgery Handbook '
+p1
+tp2
+(S'Description:'
+p3
+S'A comprehensive guide to ENT surgery laid out as a handbook. This guide covers the basics of ENT surgery and some the emergency conditions that may face you. There is a chapter on consent that is intended to act as a aide memorie. We hope this is useful for ENT surgeons, students, GPs and allied professionals alike.Authors Mr. Alex Gan MRCS DOHNS Core Surgical Trainee 2 (ENT) Northwest Deanery Department of Otolaryngology and Head and Neck Surgery Royal Blackburn Hospital East Lancashire Hospitals NHS Trust Mr. Anu Daudia MRCS FRCS (ORL-HNS) Consultant ENT Surgeon Department of Otolaryngology and Head and Neck Surgery Royal Blackburn Hospital East Lancashire Hospitals NHS TrustRecent changes:Fixes an issue on older devices that meant certain pages and images did not showAlso updated the framework'
+p4
+tp5
+tp6
+.

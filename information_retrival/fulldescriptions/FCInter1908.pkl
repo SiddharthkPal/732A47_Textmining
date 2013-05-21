@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FC Inter 1908 '
+p1
+tp2
+(S'Description:'
+p3
+S'Applicazione ufficiale del sito FC Inter 1908'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Office Reader - .doc .ppt .xls '
+p1
+tp2
+(S'Description:'
+p3
+S'OfficeReader helps you to read MS Word, PowerPoint, Excel documentsRecent changes:Fix bugs'
+p4
+tp5
+tp6
+.

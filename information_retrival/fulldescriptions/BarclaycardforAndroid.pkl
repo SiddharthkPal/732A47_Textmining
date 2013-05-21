@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Barclaycard for Android '
+p1
+tp2
+(S'Description:'
+p3
+S"Now you can manage your account at home, at work, or on-the-go with the official Barclaycard App for Android\xe2\x84\xa2. Pay your bill, check your balance, see account activity, and much more.FEATURES* Secure login using the same User ID and Password you use on BarclaycardUS.com* Pay your current bill* Check your account balance* View recent or past transactions* Keep track of rewards* Manage multiple accounts* Configure account alert settingsELIGIBLE CARDSThe Barclaycard App for Android is currently available for most card accounts that can be serviced at www.BarclaycardUS.com, including but not limited to:* Aer Lingus Rewards MasterCard* AirTran Airways A+ Visa Signature* BankAtlantic MasterCard* Barclaycard Financing Visa* Barclaycard Rewards MasterCard* Barclaycard with iTunes Rewards Visa* Barnes & Noble MasterCard* Best Western Rewards MasterCard* BJ's Visa Card* Bluegreen Encore Rewards MasterCard* Carnival MasterCard* China Airlines MasterCard* Choice Privileges Visa* Coast to Coast Visa* DirectTV Rewards Visa* Extra Points Rewards MasterCard (all teams)* Frontier Airlines MasterCard* Good Sam Visa* Gulf Platinum MasterCard* Harvard Alumni Association MasterCard* Holland America Line Rewards Visa* Icelandair MasterCard* Juniper MasterCard* Juniper Visa* L.L. Bean Visa* Lufthansa Miles & More MasterCard* Market America Platinum MasterCard* NFL Extra Points Rewards Visa (all teams)* Oregon Community Credit Union MasterCard* Priceline Rewards Visa* Princess Cruises Rewards Visa* REC REWARDS Visa* RecycleBank Gconomy Visa* Travelocity Rewards American Express* US Airways Dividend Miles MasterCard* Virgin America Visa* Visa Black Card* Williams-Sonoma Visa* Wyndham Rewards VisaRecent changes:- Added ability to schedule your payment for a future date"
+p4
+tp5
+tp6
+.

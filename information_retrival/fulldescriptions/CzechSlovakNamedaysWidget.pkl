@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Czech-Slovak Namedays Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'Simple widget displaying todays and tomorrows czech and slovak nameday. seo: svatky, meninyRecent changes:Added Am\xc3\xa1lie to Czech Namedays'
+p4
+tp5
+tp6
+.

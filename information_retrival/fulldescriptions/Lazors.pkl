@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lazors '
+p1
+tp2
+(S'Description:'
+p3
+S'Lazors is a puzzle game of lasers and mirrors offering more than a hundred levels, ranging from easy distractions to hard challenges.+ 150 levels+ Intuitive gameplay+ Hint system+ HD graphicsMove blocks, reflect the laser, hit all targets!'
+p4
+tp5
+tp6
+.

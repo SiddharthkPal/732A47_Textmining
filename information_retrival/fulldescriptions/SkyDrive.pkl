@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SkyDrive '
+p1
+tp2
+(S'Description:'
+p3
+S'SkyDrive is the place to store your files so you can access them from virtually any device. With SkyDrive for Android, you can now easily access and share files on the go. You can also upload photos or videos from your phone to SkyDrive.Features\xe2\x80\xa2\tAccess all of your SkyDrive content including files shared with you.\xe2\x80\xa2\tView recently used documents.\xe2\x80\xa2\tChoose multiple photos or videos to upload from your phone.\xe2\x80\xa2\tShare your files and photos \xe2\x80\x93 send a link in email or in another app.\xe2\x80\xa2\tOpen your SkyDrive files in other Android apps.\xe2\x80\xa2\tManage your files \xe2\x80\x93 delete, or create new folders.Recent changes:\xe2\x80\xa2 Upload files to SkyDrive from your SD card\xe2\x80\xa2 New settings for photo upload and download size\xe2\x80\xa2 Updated app icons and visuals\xe2\x80\xa2 Other bug fixes'
+p4
+tp5
+tp6
+.

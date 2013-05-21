@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AIA LIFE METER '
+p1
+tp2
+(S'Description:'
+p3
+S'Life\xe2\x80\x99s most important calculation. Are you aware of your protection gap? Are you and your family under full protection? Let you and your family have the right coverage at the right moment. An easy way to find out your protection gap, benchmark with research data.WARRANTIES, DISCLAIMERS AND EXCLUSIVE REMEDIESThe \xe2\x80\x9cAIA LIFE METER\xe2\x80\x9d are provided on an \xe2\x80\x9cas is\xe2\x80\x9d basis without any warranty of any kind, including without limitation all warranties of merchantable quality, fitness for a particular purpose or any other warranty whether expressed or implied. To the extent permitted by law, these warranties are exclusive and there are no other express or implied warranties or conditions including warranties or conditions of merchantability and fitness for a particular purpose.LIMITATION OF LIABILITYAIA shall not be liable for any indirect, incidental, special, punitive or consequential damages, loss of profits, loss of revenue, loss of data or data use, loss of business and/or loss of anticipated savings. AIA\xe2\x80\x99s maximum liability for any damages arising out of the use of AIA LIFE METER whether in contract or tort (including negligence) or otherwise, shall be limited to the re-supply of the AIA Apps.Note: \xe2\x80\x9cAIA\xe2\x80\x9d herein refers to AIA International Limited (Incorporated in Bermuda with limited liability).'
+p4
+tp5
+tp6
+.

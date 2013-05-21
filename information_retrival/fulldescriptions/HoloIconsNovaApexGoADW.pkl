@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Holo Icons (Nova/Apex/Go/ADW) '
+p1
+tp2
+(S'Description:'
+p3
+S'Holo Icons follow guidelines Android should have implemented; A simple, sleek, flat, and unobtrusive design that is seen throughout the rest of the Holo UI.Holo Icons is an icon pack containing 350+ icons with a simple, holo-ish feel for Apex Launcher, Nova Launcher, Go Launcher EX, ADW, & others. More icons will be added! This is NOT an Application or Launcher - this is an Icon Pack, used to replaced your default launcher icons. This Icon Pack is compatible with most popular launchers available for free in Google Play.You MUST have installed one of these launchers to use these icons:Nova LauncherADW LauncherApex LauncherAtom LauncherHolo LauncherGo launcher EX====================================Visit http://www.unseenvision.com/p/help.html for help, links and more info.You can request and vote for specific app icons at: http://goo.gl/mod/M4XY.====================================To apply this theme:Nova Launcher: Nova Settings > Look and feel > Icon Theme > Holo IconsApex Launcher: Apex settings > Theme settings > Holo Icons > ApplyGo Launcher EX: Themes > Installed > Holo Icons > ApplyADW Launcher: ADW Settings > Themes > Holo Icons > ApplyHolo Launcher: Appearance Settings >Icon pack > Holo IconsAtom Launcher: Launcher settings > Theme > Holo Icons > Use Theme====================================[Permission] com.android.vending.BILLING - Used for OPTIONAL in-app donation.Recent changes:1.1.6New Icons:\xe2\x80\xa2 fylee\xe2\x80\xa2 Better Battery Stats\xe2\x80\xa2 Wunderlist\xe2\x80\xa2 Snapchat\xe2\x80\xa2 SMS Backup +\xe2\x80\xa2 The Weather Channel\xe2\x80\xa2 Linked In1.1.5Small Update:\xe2\x80\xa2 Bug Fix: ADW Launcher manual icon selection\xe2\x80\xa2 Quick update for Facebook Messenger icon\xe2\x80\xa2 Added Accuweather Platinum'
+p4
+tp5
+tp6
+.

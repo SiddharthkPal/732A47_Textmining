@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dictionary - WordWeb '
+p1
+tp2
+(S'Description:'
+p3
+S"The free offline English dictionary and thesaurus with synonyms, related words and great search - and no adverts. Audio pronunciations are available with the separate Audio Edition app.The comprehensive WordWeb dictionary database includes:- 285,000 words, phrases and derived forms- 225,000 word sense definitions- 70,000 usage examples- 85,000 text pronunciations- Synonyms, similar and related words- N. American, British, Australian and international EnglishThe intelligent word entry suggests possible correct spellings as you type, as well as listing words that sound the same or are often confused.Additional features include the ability to drill down on any word in a definition, full bookmark support and history.Search features include:- Alphabetical listing- Spelling suggestions- Sounds-like and often-confused- Fast pattern-matching search (*, ?, vowel and consonant)- Filter search results by noun, verb, adjective, adverbsThe database includes proper nouns and common abbreviations in addition to English vocabulary (e.g. LOL, Oxford, ROFL, Webster, UNHCR, etc.)No Internet connection is required to use WordWeb, and it's free. Better than dictionary.com? - judge for yourself!Recent changes:- Menu links to separate audio dictionary app- Minor bug fixes and database updates"
+p4
+tp5
+tp6
+.

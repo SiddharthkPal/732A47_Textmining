@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AFibEducator '
+p1
+tp2
+(S'Description:'
+p3
+S'To help healthcare providers explain AFib to patients, their families and caregivers, AF Stat has developed the AFib Educator. This app provides healthcare professionals with an interactive resource to help illustrate how AFib can affect the heart; visually demonstrate the symptoms, risks and management strategies of atrial fibrillation (AFib); and where patients can learn more.\xe2\x80\xa2   Detailed animated, color diagrams of the heart under normal rhythm and during AFib\xe2\x80\xa2   Fluoroscopy (x-ray) images of the heart in and out of rhythm, featuring the heart\'s electrical impulse\xe2\x80\xa2   EKG readings with normal heart rate and with AFib\xe2\x80\xa2  AFib management animations: demonstrates the effects of different management strategies for a heart in AFib, including:       o\tRate control       o\tRhythm control\xe2\x80\xa2  AFib risk animations:        o\tStroke risk animation:shows an AFib-related stroke to illustrate that a blood clot can travel from the heart to the brain as a result of AFib       o\tRemodeling process animation: depicts the remodeling process, which is a result of untreated AFib that affects the shape and size of the heart\xe2\x80\xa2   Facts about the signs, symptoms, prevalence and risks of AFib can be shared through the "E-mail a Friend" feature\xe2\x80\xa2   Links to resources where patients can learn more about AFib'
+p4
+tp5
+tp6
+.

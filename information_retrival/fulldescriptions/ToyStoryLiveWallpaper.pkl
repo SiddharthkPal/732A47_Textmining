@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Toy Story: Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Hang out with the Toy Story gang in this interactive live wallpaper app. Personalize your phone with a fun, animated background that\xe2\x80\x99s packed with excitement! Enter Andy\'s Room, and step into the Toy Story universe on your very own device. This wallpaper will visually brighten your day and provide additional entertainment with amusing, interactive activities! \xe2\x80\xa2  Encounter popular Toy Story characters: Interact with objects in Andy\xe2\x80\x99s Room to unlock up to 5 characters from Toy Story including Woody, Buzz, Rex, Hamm, and the Aliens!\xe2\x80\xa2  Collect points for more items in your room: Catch falling army men, and hit the bullseye on the dart board to earn valuable points that you can apply towards unlocks!\xe2\x80\xa2  See Andy\'s room change from sunrise to sunset: Watch the room change throughout the day according to your local time!\xe2\x80\xa2  Customize your own cork board: Write fun messages and reminders on the cork board in Andy\'s Room! The Toys are waiting in Andy\'s Room; come on over today! How to setup your Toy Story Live Wall paper once you have installed the app:1. On your home screen, place a finger on the display and long press2. From the menu that pops up, select \xe2\x80\x9cWallpapers\xe2\x80\x9d3. From here, select \xe2\x80\x9cLive Wallpapers\xe2\x80\x9d4. Here you will see Toy Story: Live Wallpaper 5. Hit "Set Wallpaper"Recent changes:Now supports Chinese, Japanese, and Korean languages! How to setup your Toy Story Live Wallpaper once you have installed the app:1. On your home screen, place a finger on the display and long press2. From the menu that pops up, select \xe2\x80\x9cWallpapers\xe2\x80\x9d3. From here, select \xe2\x80\x9cLive Wallpapers\xe2\x80\x9d4. Here, you will see Toy Story: Live Wallpaper 5. Hit "Set Wallpaper"'
+p4
+tp5
+tp6
+.

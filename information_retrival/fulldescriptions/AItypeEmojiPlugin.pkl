@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'A.I.type Emoji Plugin '
+p1
+tp2
+(S'Description:'
+p3
+S"Send a smile today! You know, they say a picture is worth a thousand SMS's! Well, our new A.I.type Emoji pack is a fun way to SMS, giving you a huge variety of smiley icons. Send your SMS's with pizazz! Try it today!*** This is an Emoji plugin for A.I.type keyboard, to use it you need A.I.type Keyboard 1.9.8 and above ***Tablet user? Download FloatNSplit Tablet Keyboard and get a whole new experience in typing!When installing the Emoji plugin for A.I.type keyboard, a new colored Emoji icon will appear on the bottom row of your keyboard. Click on it to get all the colorful Emoji layouts to select from - more them 800 Emoji's that can really express your feelings! To hide this button, you need to uninstall the plugin.Emoji's will work only if the current app that you're using supports them. Android 4.1 SMS and some other SMS clients support Emoji\xe2\x80\x99s, WhatsApp messenger also works great and many others. If your app doesn't support Emoji\xe2\x80\x99s, you'll just see a small empty square where the Emoji would go. But, if you send an Emoji to a supported app or supported device (iPhone for instance) they'll see it properly even if it doesn't appear on your device.For unsupported apps, we've added hundreds of Unicode-based Emoji\xe2\x80\x99s that are visible on almost any device and almost any app - see the \xe2\x80\x9cstar\xe2\x80\x9d tab in the Emoji layout.Tag: aitype theme galleryRecent changes:Supports the new iOS6 emojisSupports Android Jelly-bean built-in emojisMore than 800 graphic emojisBigger emoji icons on the keysFixed emoji position on predictionFixed showing when hard-keyboard in use.Bug fixes"
+p4
+tp5
+tp6
+.

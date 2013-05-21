@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'U.S. Bank '
+p1
+tp2
+(S'Description:'
+p3
+S'What would you do if you had more time?Work, play, whatever you like > Get information quickly and schedule payments in advance.Live more, type less >Believe it or not, you can snap a picture to pay bills and make deposits.Stay Close >Your family, friends or people you work with can receive money easily with U.S. Bank Pay a Person.Add to your life, not to your list. Count on us for new ways to keep up with your finances. The Fine Print1.  The U.S. Bank Mobile App is free to download. Your mobile carrier may charge access fees depending upon your individual plan. Web access is needed to use Mobile App. Check with your carrier for specific fees and charges. Some mobile features may require additional online setup. Any fees for optional transactions will be identified during registration for these services and during their use. U.S. Bank is committed to protecting your privacy and security. View our privacy pledge at usbank.com/privacy. The U.S. Bank Risk-Free Guarantee protects customers from fraud loss. Learn more about online and mobile security at usbank.com/security. For more information about U.S. Bank Mobile services, please visit usbank.com/mobile or call us toll-free at 800-872-2657.\xc2\xa9 2013 U.S. Bank.Deposit Products offered by U.S. Bank National Association Member FDIC Equal Housing LenderRecent changes:What\xe2\x80\x99s New with version 1.9.31Live more, type less:Add billers and pay bills faster with U.S. Bank Photo Bill Pay.Snap a photo of your payment stub: you can save the info or pay right away.Conveniently manage all you bill pay activities from your mobile device.Log in after your next update and see for yourself. Bug fixes and enhancements.'
+p4
+tp5
+tp6
+.

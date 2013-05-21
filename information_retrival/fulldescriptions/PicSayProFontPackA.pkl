@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PicSay Pro Font Pack - A '
+p1
+tp2
+(S'Description:'
+p3
+S'This is not an app! You can use the fonts in this pack with PicSay Pro to add styled text to your photos.After installation, open PicSay Pro and in the Title Editor tap the Preview or press the Menu button and choose Font. See second screenshot above for instructions.Fonts designed by Kimberly Geswein. Free for personal use.For commercial use of these fonts or donations please go to http://www.kimberlygeswein.com#picsayprofontpackRecent changes:Update adds new fonts designed by Kimberly Geswein.'
+p4
+tp5
+tp6
+.

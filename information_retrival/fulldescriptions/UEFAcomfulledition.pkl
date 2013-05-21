@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UEFA.com full edition '
+p1
+tp2
+(S'Description:'
+p3
+S'The UEFA.com mobile Android edition is the official UEFA application that opens up the world of European football including UEFA EURO 2012 qualifying, the UEFA Champions League and the UEFA Europa League. Enjoy: \xe2\x80\xa2 live results\xe2\x80\xa2 customised alerts\xe2\x80\xa2 news\xe2\x80\xa2 photos\xe2\x80\xa2 standings\xe2\x80\xa2 video highlights \xe2\x80\x93 on a premium basisRecent changes:Minor improvements'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PriceZ '
+p1
+tp2
+(S'Description:'
+p3
+S'What is PriceZ?A cellular and web based service concentrating in the world of supermarket shopping. Think of the \xe2\x80\x9cWaze\xe2\x80\x9d of the supermarkets. The web site  together with the cellular apps let you compare prices, see sales, manage a personal shopping list and with one click of a button see the cost of your list in relevant supermarkets in your area. You can also set Price Alerts, comment about products and markers and more\xe2\x80\xa6What PriceZ is not?PriceZ is not a store, you don\xe2\x80\x99t buy anything here. It\xe2\x80\x99s a service that lets you make educated decisions regarding your shopping habbits. PriceZ does not get any commission from anyone.Recent changes:Ver 1.7.0Long click functionality now offers:  - Update Price - Add to Shopping list/Update quantity - Products in group (If the product is part of a group) - Alternative Products (If the product is part of an alternative products group)Fast access to update the price of a product by swiping the finger across the product in any product list part for the shopping list.Ability to report that a sale is over from the price page of a product on sale.New API version.Bug Fixes'
+p4
+tp5
+tp6
+.

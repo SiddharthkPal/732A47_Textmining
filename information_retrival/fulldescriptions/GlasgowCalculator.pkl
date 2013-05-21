@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glasgow Calculator '
+p1
+tp2
+(S'Description:'
+p3
+S'The application works as a calculator for Glasgow Coma Scale. The GCS is a neurological scale that aims to give a reliable, objective way of recording the conscious state of a person for initial as well as subsequent assessment.The network permission is required only for ads.Supported languages: - English - Portuguese - SpanishRecent changes:Added support for Android 1.6.Small bug fixes.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'App van de Dag - 100% Gratis '
+p1
+tp2
+(S'Description:'
+p3
+S'App van de Dag is er nu eindelijk ook op  Android!  \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Elke dag 24 uur lang gratis een app waarvoor je anders moet betalen! \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Elke dag selecteert het team de "App van de Dag" uit de beste betaal-apps van de Google Play Store en onderhandelt met de ontwikkelaars om de app 24 uur lang gratis aan te bieden.Dankzij dit concept, dat al heel populair is in de VS en in diverse Europese landen, kunnen alle smartphone-eigenaren honderden euro\xe2\x80\x99s besparen bij de aankoop van apps. \xe2\x98\x85 Een kleine tip: vergeet niet PUSH-berichten in te stellen om geen enkele app te missen. \xe2\x98\x85Wat onze gebruikers over ons zeggen:"Ik heb een hoop gave apps ontdekt zonder er iets voor te hoeven betalen.""Deze app zou automatisch op alle smartphones moeten worden ge\xc3\xafnstalleerd.""Ik heb liever apps als verrassing dan chocola!"Als onze app je bevalt, kun je die waarderen en een opmerking achterlaten in Google Play. Je mening is echt heel belangrijk voor ons! :)Als je:- Vragen hebt, een bepaalde app gratis zou willen hebben, of ons gewoon wilt schrijven:android.info.nl@appturbo.net-Een app-ontwikkelaar bent en wil dat je app gepromoot wordt: android.app.nl@appturbo.net-Een technisch probleem hebt met onze app: android.support.nl@appturbo.net'
+p4
+tp5
+tp6
+.

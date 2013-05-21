@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Death Racing:Moto '
+p1
+tp2
+(S'Description:'
+p3
+S'Experience the exciting and intense 3D moto with our beauty drivers. Be ready to sail at the speed. Easy to start your racing journey and master your operating skills step by step. Then unlock the cooler racing motor and challenge the extreme speed. Receive the bounty tasks and you can achieve. You can also show you grades and ranking to your friends on Facebook. Tips for you to reach higher score: #speed up continuously will multiply your score and the doubling number on the upper right side of your screen is the key that you can reach a high score; #be careful of the indicator lights and avoid those crazy road vehicles which could turn lift or right at any time;#keep an eye on your fuel tank\xef\xbc\x81If you dash through the gas station before the fuel running out, your tank will be topped off again; you can get more lives by unlocking higher ranking motors.Let\xe2\x80\x99s enjoy the extreme death racing now!'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Turkey Calls '
+p1
+tp2
+(S'Description:'
+p3
+S'This app produces 12 Turkey calls for the avid hunter. Comes with all the sounds you should need for a successful hunt. Just plug in your amplified speaker and happy hunting! For even better results...use a Bluetooth speaker.-*All Sound Files Are Open Source Files*'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RoidRage Comic Maker '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85 TO SAVE YOUR COMIC, PRESS THE MENU BUTTON ON YOUR DEVICE, THEN SELECT SAVE \xe2\x98\x85The original Rage Comic Maker for Android; build your own comics, anywhere.Features:- Choose from nearly 500 hilarious rage faces and images- Downloadable add-on image packs- Output high-res .png comics and share through Twitter/Gmail/etc.- Search functionality- Painting/Drawing functionality- Add/Remove comic panels- Full multi-touch scaling and rotating of faces (single touch resize also supported)- Completely Ad free- App2SD- And more!Exclusive to the Pro version:- Load your own images from your device- Edit the watermark with your own name or signature, or, remove it completely- Buys your hard working dev a coffee so I can stay awake longer and build youmore updates :)[FAQ]Q. Is it possible to use Gallery pics in comics?A. Yes, check out the Pro version.Q. How do I save my comic?A. Press the menu button on your device, (or the 3 dots at the top if you're on ICS), and hit save.If you have problems please let me know, and make sure to try the free version before buying pro!* Would you like to help translate to your language?  It's fun and easy to do, just drop me an email at the address below! *Contact:pauldbourke@gmail.comFollow:twitter.com/brk3meta keywords: rage builder, reddit, rage comics, f7u12, memes, trees, true story, trollRecent changes:1.23.0* Fix crash on adding text with just line breaks* Fixed go pro button not pointing to the right version* Added Finnish and Dutch languages, and updates for existing ones* Memory improvements to the scrolling list of images/faces* Now possible to upgrade image packs as they as releasedAn update for Add-on Pack 1 is now available, download it from the main screen if you haven't already!*You must have the latest version of RoidRage to upgrade image packs.*"
+p4
+tp5
+tp6
+.

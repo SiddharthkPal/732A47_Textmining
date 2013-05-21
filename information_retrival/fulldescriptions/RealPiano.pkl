@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Real Piano '
+p1
+tp2
+(S'Description:'
+p3
+S'Real Piano - Finger Piano to AndroidThe most fun experience in finger piano to Android!Digital Piano with Grand Piano, Electric Piano, Synth, Organ, Acoustic Guitar, Electric Guitar, Electric Bass, Synth Bass, Strings and Horns sounds.To play live music.Features:* Record Mode* Multitouch* 10 realistic instruments* Studio audio quality* Works with all screen resolutions - Cell Phones and Tablets (HD)* FreeThe best piano keyboard on the market!For all musicians!Recent changes:* Noise bug fixed* Record mode added* Pitch change added'
+p4
+tp5
+tp6
+.

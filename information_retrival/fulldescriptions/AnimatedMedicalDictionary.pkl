@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Animated Medical Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'The FOCUS Animated Medical & Health Dictionary is the first ever animated dictionary. A valuable reference for physicians and students alike, it covers over 650 medical & health related terms graphically explained through 3D animations.User Reviews:Very Useful !The right sing The ultimate guide in 3dNice workRecent changes:Bug fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photography editor '
+p1
+tp2
+(S'Description:'
+p3
+S'Create funny images from your photo gallery.Fool your friends by manipulating montages and changing the original photo.Creating collages from your photos from camera.You can save the new image as picture and share it via Facebook, Twitter, email, etc.Apply effects to your portrait:- snow effect - falling leavesAdd frames to your portrait. Choose the photo frame and apply to your pictureRecent changes:1.23:layout updatenew wigsnew mouths1.22:new hatsnew eyesnew mouthsnew wigs1.21:120 new cartoons (miscellaneous)a new wigimprovement in usability4 new languages \xe2\x80\x8b\xe2\x80\x8b(Japanese, Thai, French, Korean)'
+p4
+tp5
+tp6
+.

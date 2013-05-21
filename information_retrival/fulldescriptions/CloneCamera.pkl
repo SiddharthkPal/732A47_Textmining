@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Clone Camera '
+p1
+tp2
+(S'Description:'
+p3
+S'This is an interesting camera app. It could make one people split into many avatars with different posture in one photograph. And use from 2 to 4 split views to create a continuous action decomposition. The operation is simple to understand. With the assistance of transparent background compare adjustment, and the brightness / position fine tune function, it is eazier to take the pictures. The program contains self timer function(2/5/10 seconds) and camera filter effects (aqua, blackboard, mono, negative, posterize, sepia, solarize, whiteboard, but some phone may not support all camera filter) function. You can also redo to the previous shot. Moreover, you can save the outcome into memory card. And turn on/off flash during shoot. Try it! To take fun and wacky photos!  (Please Note: You need to insert memory card to save pictures! If you need to view all shot images, please use file explorer to view the images which filename start with CloneCamera in root directory of memory card)Recent changes:Version 1.12 : Fix some errors which may occur on some devicesVersion 1.11&1.10 : Add view all shot images function, and delete image functionVersion 1.9&1.8 : Fix some errors which may occur on some devicesVersion 1.7 : Add view last shot image function (If you need to view all shot images, please use file explorer to view the images which filename start with CloneCamera in root directory of memory card)Version 1.6 : Add turn on/off flash function, and refine autofocus'
+p4
+tp5
+tp6
+.

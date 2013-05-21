@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Drawing cartoons '
+p1
+tp2
+(S'Description:'
+p3
+S"Become a cartoon creator! If you want to try youself as a real filmmaker but have no time for professional tools, look no further.Animating Touch is an animation editor that allows you to create your own movies. You don't need to draw every frame to get smooth motions. Instead of this, you create keyframes only and intermediate frames are built automatically. Put faces of your friends on characters, add voices, upload the movie on YouTube or Facebook and attain fame as a filmmaker!FEATURES*  Skeletal animation*  Motion tweening*  Various built-in models along with the item editor*  Exporting animation as video and sharing it*  Sound recording tags: animation, stickman, toon creator, cartoon creator, stick figure, cartoons, pivot animation, tweening, flipbook, rage faces, creativity, kids, cartoons for kids, drawing pad, drawing app, creativeRecent changes:Fixed number of bug including the one when exporting video. Make sure you also updated the videoplugin"
+p4
+tp5
+tp6
+.

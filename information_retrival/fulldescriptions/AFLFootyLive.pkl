@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AFL - Footy Live '
+p1
+tp2
+(S'Description:'
+p3
+S'Australia\xe2\x80\x99s number one Android sports app is back for a massive 2013!Following our fifth pre-season, Footy Live has been promoted to the leadership group and is ready to unleash more live content, new features and a faster overall experience. Best of all, it\xe2\x80\x99s free thanks to Sportsbet and Holden.The first update of Footy live for 2013 includes:Design:\xe2\x9c\x94 Brand new design\xe2\x9c\x94 Swipe navigation between pagesExtra Competitions:\xe2\x9c\x94 Full NAB Cup coverage.\xe2\x9c\x94 VFL, SANFL, and WAFL coverage: end-of-game scores, stats, and ladders.Enhancements:\xe2\x9c\x94 Match day engine providing faster live scores and stats. \xe2\x9c\x94 Live player stats, including Sportsmate\xe2\x80\x99s own player ratings.\xe2\x9c\x94 Team Line-ups (positioning) remain when the game goes live.\xe2\x9c\x94 Improved ladder, including extended overview plus teams\xe2\x80\x99 next 5 games.  \xe2\x9c\x94 Head to head analysis \xe2\x80\x93 the perfect tool to give your tips the upper hand. \xe2\x9c\x94 Full pre-match coverage \xe2\x80\x93 including team selections on Thursday nights, odds from Sportsbet, form streaks, weather forecasts, and AAP match previews.\xe2\x9c\x94 TV guide \xe2\x80\x93 so you won\xe2\x80\x99t miss a moment of your team in action.Over the next few weeks, there will be plenty more updates, so keep an eye on our Facebook page for future announcements \xe2\x80\x93 www.facebook.com/sportsmatePlease send all feedback to info@sportsmatemobile.com or via @AussieRulesLive.We actively use Twitter to let you know about updates, new features, interesting stats and anecdotes, plus respond to any questions that you may have.Enjoy the season!Recent changes:Changes:* News Widget Added* Scores Widget can now re-size* UI Speed Ups* Push Notifications* New Loading indicators* Top Players in Live Match* Player profile picture bug fixed'
+p4
+tp5
+tp6
+.

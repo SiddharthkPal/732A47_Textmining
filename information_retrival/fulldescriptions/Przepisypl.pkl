@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Przepisy.pl '
+p1
+tp2
+(S'Description:'
+p3
+S'Zobacz zupe\xc5\x82nie now\xc4\x85 ods\xc5\x82on\xc4\x99 aplikacji kulinarnej Przepisy.pl! \xe2\x80\x9cJedna z najbardziej rozbudowanych aplikacji kulinarnych dost\xc4\x99pnych na platform\xc4\x99 Android\xe2\x80\x9d - android.com.plPoznaj g\xc5\x82\xc3\xb3wne funkcjonalno\xc5\x9bci:* Na tydzie\xc5\x84: propozycje da\xc5\x84 na ka\xc5\xbcdy dzie\xc5\x84 tygodnia* Wszystkie: PONAD DWA TYSI\xc4\x84CE PRZEPIS\xc3\x93W z apetycznymi zdj\xc4\x99ciami* Ksi\xc4\x85\xc5\xbcka Kucharska: w kt\xc3\xb3rej zapisujesz swoje ulubione potrawyDodatkowo mo\xc5\xbcesz korzysta\xc4\x87 te\xc5\xbc z:* przelicznika miar i wag kuchennych* wygodnego minutnika* ciekawych porad Szefa Kuchni oraz \xc5\xbbywieniowca* s\xc5\x82owniczka termin\xc3\xb3w kulinarnych* przegl\xc4\x85dania wszystkich przepis\xc3\xb3w \xe2\x80\x9cKrok po Kroku\xe2\x80\x9d * setek przepis\xc3\xb3w i porad VIDEO * losowania przepisu - potrz\xc4\x85\xc5\x9bnij telefonem i daj si\xc4\x99 zaskoczy\xc4\x87* funkcji spo\xc5\x82eczno\xc5\x9bciowych - podziel si\xc4\x99 swoim ulubionym przepisem ze znajomymiZainstaluj Przepisy.pl w wersji 2.0 ju\xc5\xbc teraz i podziel si\xc4\x99 z nami swoj\xc4\x85 opini\xc4\x85. __________________Aplikacja Przepisy.pl jest sponsorowana przez mark\xc4\x99 Knorr.Recent changes:* 2.2 - poprawki stabilno\xc5\x9bci aplikacji* 2.0.5 - widget na home screen, sporo zmian dla tablet\xc3\xb3w* 2.0.2 - fix dla tablet\xc3\xb3w Honeycomb* zupe\xc5\x82nie nowa wersja 2.0 - zmiany interfejsu i funkcji'
+p4
+tp5
+tp6
+.

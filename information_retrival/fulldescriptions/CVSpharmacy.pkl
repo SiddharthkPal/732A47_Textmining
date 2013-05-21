@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CVS/pharmacy '
+p1
+tp2
+(S'Description:'
+p3
+S'The official CVS/pharmacy Android app puts CVS/pharmacy, MinuteClinic and CVSphoto in the palm of your hand. Just download our app to \xe2\x80\x9cvisit\xe2\x80\x9d your CVS/pharmacy on the go.Features include:\xe2\x80\xa2 Refill, transfer and manage prescriptions\xe2\x80\xa2 Access your prescription history\xe2\x80\xa2 Scan to refill and refill without signing in\xe2\x80\xa2 Find a CVS/pharmacy store and check hours\xe2\x80\xa2 Shop your weekly ad for deals and create a shopping list\xe2\x80\xa2 Access your CVS.com and ExtraCare accounts\xe2\x80\xa2 Send savings and rewards to card \xe2\x80\xa2 Create a mobile ExtraCare \xe2\x80\x9ccard\xe2\x80\x9d that can be scanned at most registers and  ExtraCare Coupon Centers\xe2\x80\xa2 Sign up to receive offer-filled emails\xe2\x80\xa2 Shop CVS.com on your app\xe2\x80\xa2 Scan QR codes in store for information and savings\xe2\x80\xa2 See MinuteClinic locations, services and accepted insurance\xe2\x80\xa2 Order photos for express pick up\xe2\x80\xa2 And much more!Recent changes:1.\tSupport for new OS versions2.\tMinor bug fixes and improvements3.\tUpdate to Photo Pricing features'
+p4
+tp5
+tp6
+.

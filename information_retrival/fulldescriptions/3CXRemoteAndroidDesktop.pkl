@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'3CX Remote Android Desktop '
+p1
+tp2
+(S'Description:'
+p3
+S"3CX Remote Android Desktop (formerly LazyDroid) allows to take the control of your mobile phone via a Wifi/Internet/Usb connection, using your web browser. You will have several apps to access different services on your Android device. The following features are available:- Sms: You can send your sms via web interface, just like from your phone. Autocomplete, mass-messages, and other features. If you use Chrome of Firefox with desktop notifications extension, you can receive a popup directly on your browser.- Contacts : You can see the contacts present on your phone, add or delete phone numbers and emails.- Call Handler : When your phone starts to ring you will see it on your Web Desktop, and you can decide to answer (With speakerphone or headset of your phone), refuse the call or silence the ringer. You can also call a contact using the appropriate icon or a phone number.- Camera: You can see the camera of your phone- Remote View : You can see the screen of your device and eventually take screenshot. Needs root permissions.- Sensors : You can see the values of the sensors of your phone. You will find a compass that shows the orientation of your phone and a Google Maps showing the position based on Network or GPS.- Clipboard: You can see and set the clipboard of your phone absolutely in real time.- FileManager: A complete file manager with preview functions, to navigate into your device memory. You can fast see text files and images double-clicking on the file icon. Files can be uploaded with drag&drop too (IE doesn't work).- Personal Web Server: Web pages hosting on your android phone!- Remote Control: Control your phone from remote view!- Shell: A simply but complete way to access the phone shell directly from the web.- Logs: Now you can see the logs directly via web interface!Internet Explorer in compatibility mode is not supported.KEYWORDS: PC, SMS, WEB, HTTP, DESKTOP, CONTACTS, CAMERA, REMOTE, SENSORS, COMPASS, MAPS, LAZYDROID, LAZY, AUTOANSWERER, CALL HANDLER, WEBSERVER, HTTP, USB, FILE, FILEMANAGER, NOTIFICATION, AIRDROIDRecent changes:Added rotate camera optionAdded option to create SIM contactsImproved file managerFixed Camera was not working on some devicesFixed videos, PDFs and audio files were not openingFixed compass in sensorsFixed a crashOther minor bug fixingApplication has been renamed to 3CX Remote Android DesktopApplication now includes all features previously found in the paid version"
+p4
+tp5
+tp6
+.

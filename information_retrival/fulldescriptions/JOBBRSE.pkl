@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'JOBB\xc3\x83\xe2\x80\x93RSE '
+p1
+tp2
+(S'Description:'
+p3
+S'Deutschlands gr\xc3\xb6\xc3\x9ftes Online-Jobportal k\xc3\xb6nnen Sie jetzt als APP nutzen. Schnell und einfach den passenden Job finden - suchen Sie direkt und ohne Registrierung nach:-\tArbeitspl\xc3\xa4tzen-\tAusbildungsstellen-\tPraktika/Trainee-Jobs-\tK\xc3\xbcnstler-Engagements-\tSelbst\xc3\xa4ndigen T\xc3\xa4tigkeitenDie Ortungsfunktion Ihres Ger\xc3\xa4tes unterst\xc3\xbctzt Sie dabei auf Wunsch. Leiten Sie interessante Stellenangebote einfach an Ihre E-Mail-Adresse oder Freunde und Bekannte weiter.Profitieren Sie au\xc3\x9ferdem von folgenden Funktionen aus Ihrem JOBB\xc3\x96RSE-Konto:-\tSuchassistent f\xc3\xbcr aktuelle Stellenangebote-\tVormerkliste-\tAufforderungen zur Bewerbung und Vermittlungsvorschl\xc3\xa4ge-\tPostfachnachrichten-\tTermineF\xc3\xbcr diese Zusatzfunktionen ist ein Login in der APP notwendig. Nutzen Sie dazu die Zugangsdaten Ihres JOBB\xc3\x96RSE-Kontos.Noch kein JOBB\xc3\x96RSE-Konto? Dann registrieren Sie sich kostenlos \xc3\xbcber die APP. Kunden der Bundesagentur f\xc3\xbcr Arbeit erhalten die Zugangsdaten direkt \xc3\xbcber die zust\xc3\xa4ndige Agentur f\xc3\xbcr Arbeit bzw. das Jobcenter.Bei Fragen steht Ihnen unser Support gerne zur Verf\xc3\xbcgung. Nutzen Sie zur Kontaktaufnahme die Hilfe-Funktion innerhalb der APP.Recent changes:Vielen Dank f\xc3\xbcr Ihr Feedback. Wir haben neben der Optimierung der Benutzerf\xc3\xbchrung folgende Fehlerbehebungen vorgenommen:- Suche nach PLZ/Ort- GPS-Optimierung'
+p4
+tp5
+tp6
+.

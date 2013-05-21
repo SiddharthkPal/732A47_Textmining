@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Current Caller ID '
+p1
+tp2
+(S'Description:'
+p3
+S'Current Caller ID identifies unknown callers & texters, adds weather & social updates for known contacts, and allows you to block unwanted calls & texts  -- all in one app!**Top 10 App of 2012 by TIME Magazine ****2013 Webby Award Nominee**** Android App of the Week - Gizmodo **"WhitePages\xe2\x80\x99 new Current Caller ID app is the future of smartphone calling" - VentureBeat"Caller ID on steroids" - HuffingtonPostOver 300 million home, business and mobile phone numbers identified for free, from the #1 and most trusted people directory.Stay in the know with those you are closest to -- Current Caller ID brings in the latest social updates from your Facebook, Twitter and LinkedIn friends. Don\xe2\x80\x99t miss an update from your mom because that guy you went to high school with keeps posting about his breakfast on Facebook. Control who gets your attention by blocking calls & texts of those who you\xe2\x80\x99d rather not hear from like telemarketers, text scammers, and even the occasional ex-significant other.Stay up to date and make conversations easier and more fun, with local news and weather for your top contacts, even if they\xe2\x80\x99re not keen on the social networks. Current Caller ID helps you: - Stay up-to-date effortlessly with social and local information for each caller and texter.- ID incoming and outgoing numbers, including businesses and mobile phones.*- Block calls & texts so you control who gets through.- Manage all your calls, texts and contacts in one place.- Have fun with infographics about your calling and texting habits with friends and family.- Keep your favorite people a tap away on your home screen with the Frequent Contact Widget.*ID may be post-call on Verizon/SprintKW: white pages, reverse phone, Call ID, Text ID, blocking, socialRecent changes:Thanks for your support!  We love your feedback and feature requests.New  for you in version 4.2.1: - Call & Text Blocking. One tap to block & easy to use settings. -  More social information.  See the photos your friends\xe2\x80\x99 post on Facebook.- Updated graphics. Clean Look.- Fix for the pick up/hang up blocking setting in V4.2More new features coming soon!  Keep your requests coming.'
+p4
+tp5
+tp6
+.

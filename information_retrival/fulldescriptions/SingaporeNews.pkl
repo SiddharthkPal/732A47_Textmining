@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Singapore News '
+p1
+tp2
+(S'Description:'
+p3
+S'The #1 news reader app for Singapore news on Google play. No notification, icon and bookmark ads. Including Straits Times,OMY,BBC,THE BUSINESS TIMES,Yahoo! News,ChannelNewsAsia,AsiaOne,TodayOnline,The New PaperA one-stop application gives you a quick, easy and clear reading on the latest news anytime anywhere.   1. Straits Times   2. OMY   3. BBC   4. THE BUSINESS TIMES   5. Yahoo! News   6. ChannelNewsAsia   7. AsiaOne   8. TodayOnline   9. The New Paper Features:- Adjust text fontsize- Add news to your favorites for later reading.- No need to open broswer to read news- Choose day mood or night mood- Offline reading.- Share news to your friends- Swipe to view previous or next news, no need to go back to news list view Thank you:- Please drop me an email for any bugs or improvment. I will reply within 3 hours. liuge1988@gmail.com - You can email me to request adding a news resource.CopyRight:- http://www.straitstimes.com (Straits Times)- http://news.omy.sg/ (OMY)- http://www.bbc.co.uk/news/ (BBC)- http://www.businesstimes.com.sg/ (THE BUSINESS TIMES)- http://sg.news.yahoo.com/ (Yahoo! News)- http://www.channelnewsasia.com (ChannelNewsAsia)- http://www.asiaone.com/ (AsiaOne)- http://www.todayonline.com/ (TodayOnline)- http://www.tnp.sg (The New Paper)Keywords: Singapore News, Singapore Newspaper, Singapore RSS, Singapore Finance, Singapore Technology, Singapore Entertainment, Singapore Politics'
+p4
+tp5
+tp6
+.

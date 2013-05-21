@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Muambator '
+p1
+tp2
+(S'Description:'
+p3
+S'Se voc\xc3\xaa \xc3\xa9 daquelas pessoas que n\xc3\xa3o consegue ficar 2 minutos sem acessar o site dos Correios para consultar o tracking de algum objeto, voc\xc3\xaa precisa conhecer o Muambator!O Muambator \xc3\xa9 a forma mais pr\xc3\xa1tica de voc\xc3\xaa receber as atualiza\xc3\xa7\xc3\xb5es dos seus objetos! Funciona assim:Registre-se (\xc3\xa9 gr\xc3\xa1tis! \\o/)Cadastre seus pacotes... e pronto!Recent changes:Bug fixes.'
+p4
+tp5
+tp6
+.

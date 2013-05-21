@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tagesschau '
+p1
+tp2
+(S'Description:'
+p3
+S'"Hier ist das Erste Deutsche Fernsehen mit der Tagesschau" - jetzt auch unterwegs! *** Preistr\xc3\xa4ger des Grimme Online Award PUBLIKUMSPREIS 2012 ***Tagesschau, Tagesthemen, Nachtmagazin, Wochenspiegel und Tagesschau24 - live auf Ihrem Android Smartphone oder Android Tablet. Das bedeutet wochentags aktuelle Tagesschau-Nachrichten nonstop im Livestream von 9 Uhr bis 20.15 Uhr, danach zu den gewohnten Sendezeiten - wo immer Sie gerade sind.Journalistische Kompetenz und unabh\xc3\xa4ngig: Berichte unserer Korrespondenten aus 30 Auslandsstudios weltweit, Analysen unserer Inlandsreporter, Einsch\xc3\xa4tzungen von Experten aus Wirtschaft, Sport und Kultur, dazu Gespr\xc3\xa4che mit Politikern.Der kompakte \xc3\x9cberblick \xc3\xbcber die Nachrichtenlage: die Tagesschau in 100 Sekunden. Aktuelle Videos, die wichtigsten Meldungen.Suchen Sie zu einem Beitrag zus\xc3\xa4tzlich Informationen, Videos oder H\xc3\xb6rfunkbeitr\xc3\xa4ge? Die Tagesschau hilft Ihnen weiter.Funktionen:- Artikel weiterempfehlen- Wetter- Bilderstrecken- Audio Beitr\xc3\xa4ge der ARD-Infowellen- Eilmeldungen als Push-NachrichtenWeitere Funktionen bei der Smartphone Version:- Artikel speichern- Wetter mit regionalen Wetterinformationen- Sendungsarchiv der letzten 7 Tage- Tagesschau Quiz- Tagesschau kompakt (Drehen Sie auf der Startseite Ihr Smartphone waagerecht.)Geben Sie uns R\xc3\xbcckmeldung. Schreiben Sie Ihren Kommentar zu unseren Meldungen. Haben Sie Fragen oder Anregungen? M\xc3\xb6chten Sie uns ein Video oder Bild zu einem Thema schicken? \xc3\x9cber den Men\xc3\xbcpunkt Kontakt ist das ganz einfach m\xc3\xb6glich.Die App und ihre Inhalte erhalten sie kostenlos. F\xc3\xbcr den Abruf des Livestreams und der Videos aus Mobilfunknetzen empfehlen wir eine Flatrate, da sonst hohe Verbindungskosten anfallen k\xc3\xb6nnen.Folgen Sie uns doch auch bei http://twitter.com/tagesschau_appRecent changes:NEU: - Neue Gestaltung der \xc3\x9cbersichtsseiten- Unterst\xc3\xbctzung f\xc3\xbcr 7"-Tablets- Neu im Sendungsarchiv: "Tagesschau 20 Uhr mit Geb\xc3\xa4rdensprache"- Abmeldeoption f\xc3\xbcr die Erfassung von Statistik-Daten- Kleiner Bugfixes und Performanceverbesserungen'
+p4
+tp5
+tp6
+.

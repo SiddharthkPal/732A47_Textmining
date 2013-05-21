@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Universal Book Reader '
+p1
+tp2
+(S'Description:'
+p3
+S'UB Reader is a free eBook reader application with an in-app eBook store where users can browse and shop over 330,000 in 9 languages. The application comes with stylish and user-friendly interface and provides most comfortable reading experience for both Android smartphones or tablets. An integrated file browser allows users to read any eBook, stored on their devices. UB Reader opens Adobe DRM protected files in EPUB format and PDF files. ** Please note: To remove the UB Reader advertisements you need to purchase the UB Reader Full Version Key. **New features in version 2.1.250:* No registration required to use UB Reader.* Word look up in dictionaries (installed separately).* Ability to see all books from an author in the UB Market.* Ability to import folders with their full sub-folder structure.* Fixed problem with books import from Gmail.* New Arrivals tab in UB Store is replaced by All Books.* Improved text selection.* New credit cards supported.New features in version 2.1.221* Access thousands of Free books quickly and easily. * Shows the covers of all books - EPUB and PDF formats.* Access to the book information - book location, title and author.* Books sent as email attachments can be imported to UB Reader from the Preview option of the email client.* Optimization of the payment process.UB Reader features:  * Easy and fast navigation \xe2\x80\x93 page flipping with animations, scroll slider to help you get to desired page easily, go to page or the table of contents. * Stylish and user-friendly interface. * Customizable reading experience \xe2\x80\x93 font size and type customization, several reading modes for easier day or night reading, brightness adjustment, orientation settings for more convenient reading, depending on your device. * Integrated file browser \xe2\x80\x93 you can browse and import your own EPUB and PDF files from the memory card on your device. * In-app shopping - browse the extensive catalogs of eBooks, including best-sellers, popular titles, classics and new books. * Useful text search features. * Bookmark pages of your choice.Recent changes:New features in 2.1.260:* Ability to open EPUB/PDF files from external file browsers* Improved book cover loading in UB Market* Preview of user notes'
+p4
+tp5
+tp6
+.

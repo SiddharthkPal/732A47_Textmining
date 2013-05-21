@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'theCHIVE '
+p1
+tp2
+(S'Description:'
+p3
+S'Known as \xe2\x80\x9cProbably the Best Site in the World\xe2\x80\x9d, theCHIVE now has Probably the Best App in the World. theCHIVE is the world\xe2\x80\x99s largest photo blog showcasing original galleries of funny photos & videos, epic fails, beautiful girls, groundbreaking photography, and art from all over the world. theCHIVE is a one-stop shop for viral photos and videos that are fresh, hot, funny, beautiful and just plain awesome. Now theCHIVE can be devoured on your Android device for the ultimate quick dose of awesomeness. Here\'s what you can expect: -All the latest posts from theCHIVE updated in real time -Share your favorites via Facebook,Text or Email -Browse the most popular galleries -Pick your favorite gallery category including art, beautiful, fail, funny, gaming, girls, photobombs, tech and more. -Streaming video "theCHIVE is the most entertaining website on the internet." -James Hibbard, Entertainment WeeklyRecent changes:BIG update for all you Android Chivers.  Here\'s what we\'ve done:- Quick fix for a number of issues related to videos- Fixed a number of bugs related to crashes, swiping and saving photos- Moved videos back into the Latest feed- Improved overall performanceWe still have plenty of work to do.  KCCO.'
+p4
+tp5
+tp6
+.

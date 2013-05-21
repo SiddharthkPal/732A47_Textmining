@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LEO dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'The application gives you online access to all LEO dictionaries, lets you participate in the LEO forums and use the vocab trainer (both online and offline).Dictionaries:The application allows you to look up words online in the LEO dictionaries for the language pairs German-- English (788,000)- French (239,000)- Spanish (192,000)- Italian (165,000)- Chinese (169,000)- Russian (169,000)- Portuguese (52,000)- Polish (48,000)Results for queries may also include additional information such as- definitions- conjugation tables- audio files- grammar & etymology,as well as other information relevant to the search term including- orthographically similar words- possible base forms for inflected words- forum discussions containing the search term.Forums:The forum feature allows you to post language-related questions that are not answered by the dictionary. In some sections of the forums, you may need to be a registered user to post questions.Vocab trainer:With the trainer feature you can save words and memorise them in a so-called slide show or practise them using various other quiz modes. You may use the trainer online as well as offline and synchronise word lists and statistics on your smart-phone with those on the Web.Detailed information on all functions are available on our website.Recent changes:New dictionaries for the language pairs German-Portuguese and German-PolishNew search results layoutVocabulary lists grouped into folders and subfoldersSynchronisation between app and LEO servers improved'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Starbucks '
+p1
+tp2
+(S'Description:'
+p3
+S'A Starbucks Card is the fastest, most convenient way to pay at Starbucks. And Starbucks for Android\xe2\x84\xa2 is the perfect companion to your card. Your Android\xe2\x84\xa2 phone will display a barcode that you use just like your card to make purchases at Starbucks. With Starbucks for Android, you can check your balance, reload your card with any major credit card, view your transactions and conveniently track your Stars in the My Starbucks Rewards program.Features\xe2\x80\xa2 Use a widget to pay, check balance, track your My Starbucks Rewards Stars, or find a location \xe2\x80\xa2 Check your Starbucks Card balance\xe2\x80\xa2 Reload your Starbucks Card with a major credit card or PayPal\xe2\x80\xa2 Transfer balances between Cards\xe2\x80\xa2 View your transaction history\xe2\x80\xa2 Pay with your Android\xe2\x84\xa2 phone at participating stores\xe2\x80\xa2 Locate a Starbucks near you\xe2\x80\xa2 Track your Stars in the My Starbucks Rewards programKnown Technical Limitations\xe2\x80\xa2 This application supports US, UK, & Canada Starbucks Cards only, including Gold cards\xe2\x80\xa2 Starbucks Store Credit Cards or Duetto Cards are not supported\xe2\x80\xa2 Starbucks for Android  supports your personal Starbucks Cards. Cards may only be loaded onto one device at a time. If you wish to reload a friend or family members\xe2\x80\x99 Starbucks Card, please visit Starbucks.com/card.For more information, please visit http://www.starbucks.com/coffeehouse/mobile-apps/If you are experiencing login or other technical issues, please email Info@Starbucks.comRecent changes:v2.4.1- General bug fixes and performance enhancementsv2.4 - Now easier to see your available Rewards! Look for available Rewards below the Cup and as well as in My Starbucks Rewards History.- Multiple bug and stability fixes'
+p4
+tp5
+tp6
+.

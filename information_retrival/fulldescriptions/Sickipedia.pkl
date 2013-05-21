@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sickipedia '
+p1
+tp2
+(S'Description:'
+p3
+S'The first OFFICIAL Sickipedia App!Sickipedia.org is building the world\'s best collection of sick jokes. "Every time there is a big story - say a murder or a disaster, following the news comes the jokes. Psychologists probably have something to say about this, but not us, we just want to be the number one place for finding, recording and disseminating this material." Browse this ever-growing collection of politically incorrect jokes at any time via the Sickipedia Android app. NOTE: This application is not recommended for the easily offended or devout of humour ;)Recent changes:Version 1.1 - Fixed joke order on latest tab.'
+p4
+tp5
+tp6
+.

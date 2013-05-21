@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Orbot: Tor on Android '
+p1
+tp2
+(S'Description:'
+p3
+S'Orbot is the official port of Tor to Android. Tor is a network of virtual tunnels that allows people and groups to improve their privacy and security on the Internet.STANDARD/NO ROOT:- Works best with Firefox Mobile+ProxyMob Add-on - Works with Orbot-enabled apps like Gibberbot (secure chat) and OrwebROOTED/SUPERUSER:- Supports transparent proxying of all apps and services, or app-by-app basistor, tor project, proxy, socks, circumvention, firewall, gfw, filtering, surveillance, security, guardianproject, guardian projectRecent changes:FIXED: FC crash on main UIUPDATE: moved Tor back to 0.2.3.23-RC (stable)PREVIOUS- libevent2 on 2.2.1-alpha- added data up/down speed and totals display- added new "Log" SlideDrawer log display - iptables add/delete now on specific rules; no more global FLUSHing- transproxy ensures that UDP is blocked properly for all or selected apps- added network connectivity monitor to set Tor\'s DisableNetwork value'
+p4
+tp5
+tp6
+.

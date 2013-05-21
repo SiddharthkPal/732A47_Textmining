@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HOw to draw  Sonic '
+p1
+tp2
+(S'Description:'
+p3
+S'HOw to draw  SonicSonic everyone like a cartoon character, fun and easy way to learn how to draw Sonic!A few simple steps can draw you like Sonic, try it!'
+p4
+tp5
+tp6
+.

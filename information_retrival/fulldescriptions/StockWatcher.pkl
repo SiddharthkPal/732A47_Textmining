@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Stock Watcher '
+p1
+tp2
+(S'Description:'
+p3
+S'Stock Watcher is stock tracker app synced with Yahoo Finance server. Features:* Support Yahoo Server in US, UK, Germany, France, Spain, Italy, Australia, New Zealand, Singapore, India, Canada Mexico, Brasil and Argentina.* Support worldwide markets.* Up-to-date stock details.* Financial News (RSS).* Twitter news search.* Zoom-able Technical Analysis Chart  - Line, Bar, Candlestick  - Moving Average, Exponential Moving Average  - Other Technical Indicator (ROI, RSI, MFI, etc.)  - Fullscreen mode  - Pinch to zoom * Multiple Widget.* Multiple Portfolio.* World Market Indices* Market Movers* Shares* User can make donation (via Menu -> More -> Donate)* Currency SupportAttention to users: There are some errors on Yahoo Finance data feed on Spanish market. All .MC stocks have no values. Note: By installing and using this app, you agree not to use it for watching stock of any transaction related to drugs, alcohol, and illegal transaction, and for gambling purposeskeywords: stock, stocks, stock market, tracking, finance, candlestick, technical analysis, chart, graph, twitter, portfolio, widgetRecent changes:Version 1.7.3* Fix Nexus 7, Galaxy Nexus (Jelly Bean) problem* Fix Chart Technical Indicators problemVersion 1.7.2* Add more support to currency (e.g: EURUSD=X)Version 1.7.1* Fix "Force Close" problem on some devicesVersion 1.7.0* Fix some known problem* Add new servers : Mexico, Brasil, Argentina* User can make donation (via Menu -> More -> Donate)* Automatic cloud backup (for Android 2.2 or above)'
+p4
+tp5
+tp6
+.

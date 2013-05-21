@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lightning Launcher Home '
+p1
+tp2
+(S'Description:'
+p3
+S'Lightning Launcher is a fast, light and extremely customizable launcher (also known as "home screen replacement", or "shell").Lightning is the launcher of choice for people who wants a butter smooth, light on memory and tailor-made home screen replacement.Unlike most traditional launchers, Lightning lets you place items everywhere on the desktop, not only to the left or right sides, but also on pages above and below. Think at the desktop as an unlimited canvas extending in both horizontal and vertical directions instead of a strip, and you will get the idea. This mean: as many pages as you need, more space for your apps, and faster navigation.Lightning has some interesting features, such as being able to put widgets in folders (and even other folders for hierarchical navigation), or letting you freely move, scale and rotate any items (note: please switch to "free mode" first to enable rotate/scale). Oh, and did I mentioned that LL was light on memory, leaving more RAM for your apps ?With its wide set of options and switches, LL is one of the most customizable launcher, albeit perhaps not the easiest to configure yet ! Agreed, as most powerful tools, LL has a learning curve. But isn\'t that a small price to pay to get the most exciting and unique home screen ;-)All comments, suggestions and bug reports are welcome. But please email your questions and bug reports to me (Pierre H\xc3\xa9bert) at pierrox@pierrox.net or post a public message on the facebook page at http://www.facebook.com/LightningLauncher.Enjoy !Note for people having the "Not allowed to launch this shortcut" message for call shortcuts: please install the free plugin https://play.google.com/store/apps/details?id=net.pierrox.lightning_launcher.dcPermission:- EXPAND_STATUS_BAR: as its name says, used for the "Show status bar" action.- SET_WALLPAPER/HINTS: used to set the wallpaper dimension- READ/WRITE_EXTERNAL_STORAGE: backup feature- no other permission needed !Recent changes:v7.7.1- Fix app killer- Some other minor bug fixesv7.7- Support for moving items across screens- Item menu : move all position related actions into a "Position" sub menuv7.6.2- Fix backup'
+p4
+tp5
+tp6
+.

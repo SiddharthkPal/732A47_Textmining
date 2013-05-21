@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Caixadirecta '
+p1
+tp2
+(S'Description:'
+p3
+S'A APP Caixadirecta para Android permite desfrutar de um novo acesso a Contas, Pagamentos, Transfer\xc3\xaancias e Informa\xc3\xa7\xc3\xa3o Comercial atrav\xc3\xa9s de uma nova experi\xc3\xaancia de intera\xc3\xa7\xc3\xa3o, navega\xc3\xa7\xc3\xa3o, leitura, consulta, valida\xc3\xa7\xc3\xa3o entre outras funcionalidades sob tecnologia \xe2\x80\x9ctouch\xe2\x80\x9d. A no\xc3\xa7\xc3\xa3o de ter o banco sempre \xc3\xa0 m\xc3\xa3o \xc3\xa9 agora materializado atrav\xc3\xa9s de um simples toque, basta inserir os dados de autentica\xc3\xa7\xc3\xa3o e poder\xc3\xa1 falar com o seu Gestor Dedicado ou Assistente Comercial, enviar e receber mensagens seguras, fazer ou agendar pagamentos e transfer\xc3\xaancias entre outras opera\xc3\xa7\xc3\xb5es. Pode ainda consultar o patrim\xc3\xb3nio, e dinamicamente aumentar as suas poupan\xc3\xa7as atrav\xc3\xa9s de uma opera\xc3\xa7\xc3\xa3o autom\xc3\xa1tica e direta, bastando tocar num bot\xc3\xa3o. Atrav\xc3\xa9s da integra\xc3\xa7\xc3\xa3o com os recursos do dispositivo \xe2\x80\x93 c\xc3\xa2mara ou galeria de imagens \xe2\x80\x93 pode ainda simular a conce\xc3\xa7\xc3\xa3o de um cart\xc3\xa3o de cr\xc3\xa9dito - Made by \xe2\x80\x93 um cart\xc3\xa3o que \xc3\xa9 feito \xc3\xa0 sua medida nas funcionalidades, nas vantagens e at\xc3\xa9 na imagem. Saber onde est\xc3\xa1 a ag\xc3\xaancia mais pr\xc3\xb3xima e onde estamos triangulando pontos de coordenadas a APP sabe dizer ao seu utilizador a que dist\xc3\xa2ncia est\xc3\xa1 de uma Ag\xc3\xaancia CGD. Na APP \xc3\xa9 simples e f\xc3\xa1cil guardar, imprimir, enviar, pedir contacto, editar ou apagar e tamb\xc3\xa9m partilhar informa\xc3\xa7\xc3\xa3o relevante a partir da \xc3\xa1rea n\xc3\xa3o autenticada com amigos, fam\xc3\xadlia e nas suas redes sociais.Recent changes:Pequenas corre\xc3\xa7\xc3\xb5es e otimiza\xc3\xa7\xc3\xb5es'
+p4
+tp5
+tp6
+.

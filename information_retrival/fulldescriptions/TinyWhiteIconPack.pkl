@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tiny White Icon Pack '
+p1
+tp2
+(S'Description:'
+p3
+S'** WORKS ON LAUNCHER **- Apex Launcher- ADW Launcher- Nova Launcher- Holo- Go Launcher** FEATURES **- Over 1,060 icons!- Works on Jelly Bean devices too.IF YOU INCREASE YOUR ICON SIZE THROUGH YOUR LAUNCHER SETTINGS READ THIS:If you apply these icons and then increase the icon size it will make the mask go crazy. Before increasing icon size apply the default launcher theme, resize icons, and then apply this theme. If your icon size is already increased before applying this theme than there is no need to worry and you can apply the theme normally.** TO APPLY THE THEME **- Apex Launcher: Go to Apex settings > Theme settings- Nova Launcher: Go to Nova Settings > Look and feel > Icon Theme- ADW Launcher: On the home screen, press MENU > More > ADWSettings > Themes Preferences > Select your themeIcon picker does not work on ADW, but it does theme all icons in your app drawer. You can get the zip files of the updates on my deviantart site listed below though so that you are easy able to change icons on your home screenIf you have any questions/comments or any requests at all simply email me at maison1020@gmail.com and I promise your questions will be answered and requests will be filled. Remember that not everyone uses the same apps, so if you download this and not all of your icons are themed they can be if you simply email me. I fill requests quickly'
+p4
+tp5
+tp6
+.

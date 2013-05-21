@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ECG Basics '
+p1
+tp2
+(S'Description:'
+p3
+S'The ECG provides support to diagnosis and in some cases crucial for patient management. This app ECG BASICS is an effort to present ECG in its simplest form. It can serve as starting book for people who want to learn ECG - first clinical year med students and nurses - or can serve as rapid reference for those working in emergencies. Each chapter is presented in very simple language and numerous pictures aid you in understanding concepts.Chapters included are1. Introduction2. Basic Terminology3. Rate 4. Rhythm & Cardiac Axis6. Bradycardias & AV Conduction Blocks7. Bundle Branch Blocks8. Atrial arrhythmias9. Junctional Tachycardias10. Broad Complex Tachycardias - Part 111. Broad Complex Tachycardias - Part 212. Acute Myocardial Infarction - Part 113. Acute Myocardial Infarction - Part 214. Myocardial Ischemia15. Exercise Tolerance Testing 16. Right Heart Pathologies 17. Left Heart Pathologies18. Non Cardiac Conditions 19. Pediatric ECG** Pinch zoom is available.Note : Works for android 2.2 and above** Requires Internet Connection **Recent changes:The App requires data to be downloaded from internet when it is opened. It may take longer if the connection speed is slower. While the data is being downloaded the screen may go white. So please wait for some time till the app loads completely.'
+p4
+tp5
+tp6
+.

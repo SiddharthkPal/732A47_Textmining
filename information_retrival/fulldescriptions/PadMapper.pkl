@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PadMapper '
+p1
+tp2
+(S'Description:'
+p3
+S'Find nearby rental apartments based on the filters you choose: number of bathrooms, max price per bedroom, pet policies, and more.Visualize available apartments from a variety of sources on a map, keep track of your favorites, and call or email about the best listings in one click.Making apartment hunting suck less.Recent changes:This new version polishes a lot of the rough parts of V1.0, including fixing a bug which would leave the GPS on when the app was suspended/minimized.'
+p4
+tp5
+tp6
+.

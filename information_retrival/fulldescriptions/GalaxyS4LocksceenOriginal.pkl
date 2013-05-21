@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Galaxy S4 Locksceen Original '
+p1
+tp2
+(S'Description:'
+p3
+S'Galaxy S4 Lockscreen Locker Free! **Swipe To Unlock**Now transform your android phone into all new Samsung Galaxy S4 with the help of this new lockscreen,Unlock your phone with just one swipe same as in the original s4.Also Drag and swipe the app icons to launch them.**New Features Will Be Coming Soon** Please Read The Instructions First**Instructions:Go To Settings Page:1. Check Enable to start lockscreen.2. Use Home Helper to lock the home key.3. In case of any hang or freeze , Press " Volume Down Key 3 Times" to unlock your phone.Features:**3 Background Images Added****3 Types Of Particles To Choose From****Enable/Disable Quick Launch Icons****Custom Text On Screen****Enable/Disable Text****Enable/Disable Clock**Please rate if you like and report any bugs you experience. The app is advertisement supported to help us monetize in order to keep developing more free awesome apps.Stay tuned because we will be bringing you more awesome apps like, S3 Dandelion Ripples, HTC Droid DNA LWP, Xperia Z LWP, Windows 8 Theme, Blackberry Z10 Theme, Iphone 5 Theme , Note 2 Feathers and many more.Samsung S4 is a trademark of Samsung and the copyright belongs to them.All copyrights are reserved to their owners respectively, in case of any issue please report to us first.This app is tested on a wide range of devices including:Samsung Galaxy S3,Samsung Note 2,Samsung Galaxy S2,Samsung Galaxy Y,Sa,sung Galaxy Ace,HTC Butterfly,Sony Xperia,Motorola,LG Optimus,Sony Ericsson Neo VTags: S4, Samsung Galaxy S4, Galaxy S4,Recent changes:**Two New Background Images Added****3 Types Of Particles To Choose From****Disable Quick Launch Icons****Custom Text On Screen****Disable Clock**'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GALAXY Gift '
+p1
+tp2
+(S'Description:'
+p3
+S"Samsung Thailand's official privilege application for every Samsung GALAXY users to enjoy exclusive offers and privileges from shops and restaurants nationwide on their Samsung GALAXY phones running Android OS. You can explore these special privileges in details at www.samsung.com/th/galaxygift.The application is compatible with all Samsung GALAXY devices; for example, Galaxy Y, Mini, Cooper, SIII, Nexus, Note, Tab, and all other models.Recent changes:Changes in version 4.0.10- Fix bug on device doesn't have NFC Technology.Changes in version 4.0.9- NFC Technology- Beam Technology- Order Sticker- Popup Enable Setting NFCChanges in version 4.0.8- Authentication bug fix.Changes in version 4.0.7- Login facebook only- Friend Get Friend- Share campaign to facebook- Recommended Apps- Notification campaign and message- Show Point on All campaign How many to use point"
+p4
+tp5
+tp6
+.

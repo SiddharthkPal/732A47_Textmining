@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Videoder - Video Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S"Videoder is an awesome Video Download Utility that lets you search and download SHARED VIDEOS from 4shared.com. The Best part of this downloader is that it lets you download any shared video in just 2 Steps, Just search for the video , and download it from the results list. Yes it is actually that easy . It has download resume feature, with which you can easily resume interrupted downloads. So you don't have to get frustrated with network interruptions. This saves you your time and dataThe videos can be downloaded in HD 1080 resolution(for Computer and Television playback) , SD 640 resolution (Smart Phone playback) and LD 320 resolution(Mobile Phone Playback).The Videos can be downloaded in .mp4, .flv, .webm , .3gp Video Formats . So what are you waiting for ? Grab this small sized yet super powerful Video download utility and download shared videos from around the world seamlessly . You will definitely fall in love with simplicity of this utility.Love the app? Like us on Facebook - http://www.facebook.com/Videoder Tags Video Downloader , video download , Shared Video Download , Download all videosRecent changes:Resolved few bugsRedesigned App Icon"
+p4
+tp5
+tp6
+.

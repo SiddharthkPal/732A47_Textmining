@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'News & Weather (beta) '
+p1
+tp2
+(S'Description:'
+p3
+S'A simple easy-to-use app that keeps you updated with the latest news and local weather information. Provides listings of latest news headlines, up-to-date weather info, and a snazzy home screen widget. Heavily inspired by Google\'s News & Weather "genie widget" app.We\'ve adopted the incremental open-source philosophy to "release early and release often". DO NOT install if "beta" software makes you cry or gives you panic attacks.NOTE: The temperature/chance of rain graph is only available for U.S. locations. It will not display for locations outside of the U.S. We are actively looking into finding a provider for this data for everyone else.Report bugs and request enhancements here: https://code.google.com/p/nawnry/issues/listPlease email us if you encounter any issues; we are dedicated to the continuing improvement of the app, and we need your help to do that!Like us on Facebook:https://www.facebook.com/NewsAndWeatherRecent changes:CHANGES:* Various bug fixes* Various optimizations* Fixed news edition for Czech Republic* Fixed tab width for long news section namesKNOWN ISSUES:* Refresh may be required after upgrading in order for existing widget(s) to display info* Some users report app is unable to detect your location, we\'re working on a fix; in the meantime you can specify your location manually under Settings > Weather > Set locationMore issues here: https://code.google.com/p/nawnry/issues/list'
+p4
+tp5
+tp6
+.

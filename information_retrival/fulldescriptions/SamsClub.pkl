@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Sam's Club "
+p1
+tp2
+(S'Description:'
+p3
+S'A must-have app for every Sam\xe2\x80\x99s Club Member. Browse products, Sam\xe2\x80\x99s Instant Savings and more!Tap. Shop. Save!The must-have app for every Sam\xe2\x80\x99s Club Member. Whether you\xe2\x80\x99re on a road trip and need to find your nearest Club or at home planning a weekend shopping trip, you can do it all with your Sam\xe2\x80\x99s Club mobile app. \xe2\x80\xa2 Shop straight from the app! o Shop our extended product selection available on SamsClub.como Click \xe2\x80\x98N\xe2\x80\x99 Pull \xe2\x80\x93 Shop your local Club, we\xe2\x80\x99ll pull the order for youo View your order history\xe2\x80\xa2 Signup, renew and upgrade your Sam\xe2\x80\x99s Club Membership\xe2\x80\xa2 Enroll in Auto Renewal\xe2\x80\xa2 Locate and get driving directions to any Sam\xe2\x80\x99s Club \xe2\x80\x93 narrow the selection by services, including: Photo, Gas, Tire and Battery and more\xe2\x80\xa2 Get in-depth product details and Member reviews by using the built-in barcode scanner or browsing the product catalog\xe2\x80\xa2 Sam\xe2\x80\x99s Club Plus Members: check your account to see your available Instant Savings and view your Instant Savings while you shop\xe2\x80\xa2 Check product availability and featured items in your Club \xe2\x80\xa2 Get updates and alerts about your Membership, Instant Savings, featured products, local Club events and more\xe2\x80\xa2 View information about your Club including hours of operation, contact information and a detailed Club map.Your Sam\xe2\x80\x99s Club Application makes it easy to enjoy Savings Made Simple? no matter where you are!Recent changes:You spoke, we listened. What\xe2\x80\x99s new in this release:\xc2\xb7 In Club Mode: Open your app in any Sam\xe2\x80\x99s Club to reveal a customized experience that includes your mobile membership card and other tools to speed up your shopping trip.\xc2\xb7 Now available in select locations: Scan & Go! Open the app in the Bentonville or Fayetteville, Arkansas locations to reveal this feature. Scan products as you shop and follow the instructions to instantly transfer your cart to any register. Coming to more locations soon.'
+p4
+tp5
+tp6
+.

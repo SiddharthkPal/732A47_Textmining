@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'23andMe Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Want to make a difference? You can contribute to a growing source of world knowledge and learn some pretty cool stuff about genes and what makes people who they are!23andMe\xe2\x80\x99s mobile app offers great functionality to both current 23andMe customers and to others who want to learn about what we do. With 23andMe\xe2\x80\x99s mobile app, you can:- Answer interesting questions and see how your responses compare to others - View 23andMe discoveries made through DNA research- If you're genotyped, take a peek at your genetic results from anywhere -- your 23andMe data is now as mobile as you are!- Earn points and badges for advancing researchVisit http://customercare.23andme.com for questions or further assistance.Recent changes:- Fixed issue occurring on JellyBean where users were logged out after answering only a few questions.- Fixed issue where 'Results' section was only refreshed at login.  Now, results are refreshed when visiting the 'Results' section while logged in.- Fixed issue where health result screens were showing same two images in some cases.- Fixed issue with subsequent logins with non-genotyped accounts.- Fixed issue where some users reported app crashing on launch or login.- Updated app icon."
+p4
+tp5
+tp6
+.

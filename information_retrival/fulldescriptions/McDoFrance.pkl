@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'McDo France '
+p1
+tp2
+(S'Description:'
+p3
+S"McDonald's France: the official application.Now all of your favorite McDonald\xe2\x80\x99s\xe2\x84\xa2 services are available, right from your pocket!Discover GoMcDo on your mobile, now available in 50 restaurants. Order and pay in one click and be served faster when you get to McDonald\xe2\x80\x99s\xe2\x84\xa2. How it works:- Place an order and pay right from your Android- You will receive a QR Code and order confirmation number- Go to the McDonald\xe2\x80\x99s where the order was placed and scan your QR Code or order confirmation number on the Easy Check-In Kiosk- Pick-up your order at the check-out especially dedicated to GoMcDo users Find and Get Directions to the closest McDonald\xe2\x80\x99s- Map- Opening Hours- Services Check out the menu and latest products and build your own list of favorites- Sandwiches- Drinks- Desserts- etc\xe2\x80\xa6 Plan your next Movie Night:- Find the closest Movie Theater- Get Directions between McDonald\xe2\x80\x99s and the theater- Watch Movie Trailers- See what Time the Movie Plays- Check out the weekly movies featured by McDonald\xe2\x80\x99s \xe2\x84\xa2 Hurry and Download the application now, you don\xe2\x80\x99t want to miss out! Application design and development by AIRTAG and DDB.Recent changes:- bug fixes"
+p4
+tp5
+tp6
+.

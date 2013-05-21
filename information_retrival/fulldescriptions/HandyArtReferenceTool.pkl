@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Handy Art Reference Tool '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 DECLARED A MUST HAVE APP BY IMAGINE-FX DIGITAL ART MAGAZINE \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85"Thanks to this useful app, drawing realistic hands can become a whole lot easier" - ImagineFX "Pencillers, inkers, and colorists should all give this a look!" - Tony Moore, co-creator of The Walking DeadIf you\'re an artist and ever wanted to use decent hand reference without having to awkwardly pose your hand in front of a mirror, this app is for you!HANDY is an artist\'s reference tool consisting of a rotatable 3D lit hand with a variety of poses useful for drawing. The 3 point lighting rig is also rotatable, so you can rotate and light the hand as necessary for your reference!Perfect for comic book artist, painters, or just casual sketchers!Featured in ImagineFX\'s Top 10 Must-Have Apps!Check out the video demo:http://handyarttool.com/Like HANDY on Facebook!http://www.facebook.com/HandyArtToolFollow HANDY on Twitterhttp://twitter.com/HandyArtTool/Keywords:hand, art, arts, artist, reference, concept art, draw, drawing, sketching, poses, pose, sketchbook, paint, painting, tool, 3D, mannequin, comic, gesture, imaginefxRecent changes:NEW FEATURES AND STUFF IN 2.0!- Now includes a 3D MALE HEAD model, for all your tricky angles and lighting reference needs!- Can now customize your light rig! Rotate each light individually and easily change it\'s color and intensity!- Like that customized lighting and hand position? Save it!- Bunch of new poses!- Major re-write fixing a lot of bugs, bad deformations, and wonky looking fingers'
+p4
+tp5
+tp6
+.

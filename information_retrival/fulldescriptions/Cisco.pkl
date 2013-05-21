@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cisco '
+p1
+tp2
+(S'Description:'
+p3
+S'Uncover a new way to interact with Cisco.- Get the latest news and promotional offers.- Find events and Cisco partners in your area.- Search for content.- Play our latest videos or podcasts.- Receive current security alerts, advisories and responses.- Find a local phone number for Cisco support. - Experience Augmented Reality interactives with newest Android devices such as Samsung Galaxy S II or S III, Samsung Galaxy Tab 10.1 or 10.2.Recent changes:Various performance and usability improvements.Experience Augmented Reality interactives with newest Android devices such as Samsung Galaxy S II or S III, Samsung Galaxy Tab 10.1 or 10.2.or equivalent'
+p4
+tp5
+tp6
+.

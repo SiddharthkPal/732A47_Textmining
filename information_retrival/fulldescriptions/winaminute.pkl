@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'winaminute '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 A Minute of Fame! \xe2\x98\x85\xe2\x98\x85 Winaminute is the ultimate contest platform for your mobile phone, fully integrated with Instagram and Facebook.\xe2\x98\x85 Start with your galery and remote photo albums. Join our featured contests and enjoy the notoriety you always deserved, as an amateur or professional photographer.\xe2\x98\x85 Vote for your friends\' photos and win lots of "ions" that enable you to participate in more contests with even more photos.\xe2\x98\x85 Get famous by using social network power to disseminate your art and get an army of followers.\xe2\x98\x85 Comment on your friends\' photos and track their performances!\xe2\x98\x85 Invite your Facebook and Instagram friends to compete with you and prove your valor as a photographer.\xe2\x98\x85 Advertise your business and increase your brand\xc2\xb4s exposure by creating your own sponsored contests with complete Social Media integration*.\xe2\x98\x85 Win awesome prizes!\xe2\x98\x85 Earn badges and much more!\xe2\x98\x85 Coming up soon: \xe2\x98\x85\xe2\x98\x85 Create your own contests and invite your friends to join in.*please contact usRecent changes:\xe2\x98\x85Bug fixes and performance improvements\xe2\x98\x85Fixed bugs :- Constant crashes- Communication ErrorsThanks for your patience and improvement suggestions :)Continue to contribute with the growth of our community and stay tuned for big news in January!'
+p4
+tp5
+tp6
+.

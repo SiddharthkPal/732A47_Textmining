@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'77000 recettes de cuisine '
+p1
+tp2
+(S'Description:'
+p3
+S'77000 recettes de cuisine : 750 grammes750 grammes vous propose l\xe2\x80\x99une des plus riches applications de recettes de cuisine sur Android.L\xe2\x80\x99application propose :- 77000 recettes de cuisines en libre acc\xc3\xa8s,- une interface intuitive,- une recherche libre vous permettant de taper le nom d\xe2\x80\x99un plat, le nom d\xe2\x80\x99un chef, ...- une recherche par ingr\xc3\xa9dients vous proposant les recettes les mieux not\xc3\xa9es contenant ces ingr\xc3\xa9dients,- une recette au hasard en secouant votre t\xc3\xa9l\xc3\xa9phone,- la gestion de ses recettes favorites en mode d\xc3\xa9connect\xc3\xa9- la suggestion de 3 recettes du jour en page d\xe2\x80\x99accueil,- une liste de recettes de cuisine \xc2\xab premium \xc2\xbb.- Vous pourrez noter et commenter directement les recettes,- envoyer des photos de vos propres recettes,- et enfin PARTAGER les recettes de cuisine via Facebook, Twitter ou par mail.Et bien s\xc3\xbbr :- 35000 recettes de cuisine comportent une photo,- les recettes de cuisines sont not\xc3\xa9es par les internautes,- les recettes de cuisines sont agr\xc3\xa9ment\xc3\xa9es des commentaires des internautes.Langue :L\xe2\x80\x99application de recette de cuisine n\xe2\x80\x99est disponible qu\xe2\x80\x99en fran\xc3\xa7ais.Configuration requise :N\xc3\xa9cessite d\xe2\x80\x99\xc3\xaatre connect\xc3\xa9 \xc3\xa0 Internet, compte tenu du grand nombre de recettes \xc3\xa0 disposition.Le site de 750 grammes, www.750g.com, est l\xe2\x80\x99un des sites leaders de la cuisine sur Internet.Nos recettes de cuisine sont valid\xc3\xa9es par nos chefs,  comment\xc3\xa9es et not\xc3\xa9es par les internautes.Recent changes:v1.0.3 :Blocage du mode veille du t\xc3\xa9l\xc3\xa9phone pour que vos recettes restent visibles pendant que vous cuisinezv1.0.2 :- Correction d\'un crash sur les anciennes versions d\'Android- Navigation avec retour plus "logique"- L\'envoi des commentaire avec photo fonctionne- Meilleur int\xc3\xa9gration des recettes premium'
+p4
+tp5
+tp6
+.

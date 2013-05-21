@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English Spanish dict. FREE '
+p1
+tp2
+(S'Description:'
+p3
+S"English-Spanish and Spanish-English DictionaryDiccionario Ingl\xc3\xa9s-Espa\xc3\xb1ol y Espa\xc3\xb1ol-Ingl\xc3\xa9s* More than 85.900 words and expressions* Bookmark your favorite translations for fast reference* Works offline! No internet connection needed, perfect for your trips or when no data connection is available* Listen to the correct pronunciation in British or American English and Spanish using Android's built-in Text-to-speech synthesizer.* Share translations by SMS, email, etc.* Optimized for Android ICSThis version is supported by ads. If you like the application, please consider upgrading to the ad-free version to support the development. Thanks :)FAQ:Q: How can I share a translation?A: Just press 2-3 seconds over the translation and you will be presented with a menu with all available sharing options based on the apps installed in your device (Email, SMS, Facebook, etc)Q: How can I change the speed of the voice?A: The speed of the speech is controlled by the TTS engine installed with Android. It can be set up by going to:Settings --> Voice input & output settings --> Text to speech settings --> speech rateQ: I don't like the voice. How can I improve it?A: The default text-to-speech engine installed with Android is Pico TTS, it\xe2\x80\x99s pretty simple and sometimes may sound a bit electronic. You can always install alternatives like eSpeak, SVox or IVONA from Google Play. Please check our blog post about this subject: http://www.movinapp.com/talking-androidQ: How can I change the speech language?A: Just go to Menu --> Settings and select the language. Currently, 3 languages are available:  * English (US)  * English (GB)  * Spanish (Spain)DISCLAIMER:The text-to-speech (TTS) technology may not be available in some devices. To check if your phone is able of speech synthesis: Menu -> Settings -> Voice input & output -> Text-to-speech settings.If not installed, your device may ask you to install the TTS engine. An internet connection may be required. We recommend installing it before traveling as roaming data tariffs may be very expensive.Tags: dictionary, Spanish, English, US, UK, GB, speech, offline, travel, search, diccionario, espa\xc3\xb1ol, espanol, ingles, voz, viajar, viajes, buscarRecent changes:- Some bug fixes- The Text-to-speech synthesizer installation is no longer needed to run the dictionary"
+p4
+tp5
+tp6
+.

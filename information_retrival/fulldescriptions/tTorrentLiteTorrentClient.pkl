@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'tTorrent Lite - Torrent Client '
+p1
+tp2
+(S'Description:'
+p3
+S'tTorrent is a torrent (bittorrent) client for Android based devices. Download torrents directly to your phone/tablet!Features:- multiple torrent downloading, queuing- search for torrents- Wifi only mode, Wifi or WiMAX mode- able to limit Upload/Download speed- web browser integration- magnet link support- trackerless torrent (DHT) support- RSS support(automatically download torrent files published in feeds)- UPnP and NAT-PMP support- IP filtering support- proxy support(SOCKS, HTTP)- encryption- Local Peer Discovery- creating torrents- editable tracker list for torrentsThe Lite version is ad supported, and the maximum download speed is 250kB/s.The Pro version has no ads, and no download limit. 3D Magic LLC is the official publisher of the Pro version.If you want to help to translate the app into your language, you can join at:http://crowdin.net/project/ttorrentforandroidIf you have problems, or you have found bugs: ttorrent.android at gmail.comhttp://ttorrentforandroid.blogspot.comThis product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)This product includes cryptographic software written by Eric Young (eay@cryptsoft.com)Keywords: aTorrent, aDownloader, uTorrent (\xc2\xb5Torrent), Pirate Bay, bittorrent, torrent, Azureus, Vuze, DownloadRecent changes:v1.1.2.1:Fixed FC with search.Improved search: it is easier to change site and previous queries are editable.Media scan can be disabled in settings.Support for gzipped RSS feeds. Fixed Atom feed support.'
+p4
+tp5
+tp6
+.

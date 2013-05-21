@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GALAXY S\xc3\xa2\xe2\x80\xa6\xc2\xa2 User\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s Digest '
+p1
+tp2
+(S'Description:'
+p3
+S'Note: This application is designed to work best on the GALAXY S\xe2\x85\xa2. But for using this application, please do not check Force GPU rendering in the Developer Options.Are you a GALAXY S\xe2\x85\xa2User?Download the FREE interactive \xe2\x80\x9cUser\xe2\x80\x99s Digest\xe2\x80\x9d to learn how to enjoy all the amazing features in your Samsung GALAXY S\xe2\x85\xa2.The User\xe2\x80\x99s Digest has easy to follow instructions and videos* that guide you on how to set up and use your GALAXY S\xe2\x85\xa2. *An internet connection is required to view video content.Table of Contents:[Part 1: Set-Up Guide]Chapter 1: Account SettingChapter 2: Wi-Fi SettingChapter 3: Display SettingChapter 4: Lock Screen SettingChapter 5: Indicator SettingChapter 6: Call Sound SettingChapter 7: Motion Setting[Part 2: How to Use]Chapter 8: Smart StayChapter 9: Direct CallChapter 10: Smart AlertChapter 11: S VoiceChapter 12: Social TagChapter 13: Pop-Up PlayChapter 14: Music SquareChapter 15: CameraChapter 16: S BeamChapter 17: Buddy Photo ShareChapter 18: DropboxChapter 19: AllShare PlayChapter 20: AllShare CastChapter 21: Service[Tutorial Video]-      Introducing Samsung Galaxy S III: A Day in the Life-      Galaxy S III Official Demo: Intelligence-      Galaxy S III Official Demo: Sharing-      Galaxy S III Official Demo: Greatness-      Galaxy S III Official Demo: EnhancementSamsung, and its directors, employees, agents, representatives, suppliers, partners and content providers do not warrant the following list.- The service will be secure or available at any particular time or location.- Any defects or errors will be corrected.- Any content or software available at or through the service is free of viruses or other harmful components.- The results of using the service will meet your requirements. - Your use of the application, service, content and add-to link is solely at your own risk. - Some regions / countries do not allow limitations on implied warranties, so the above limitations may not apply to you.keyword : Galaxy / Galaxy S3 / Galaxy S / Guide / User / manual'
+p4
+tp5
+tp6
+.

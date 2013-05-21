@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon MP3 '
+p1
+tp2
+(S'Description:'
+p3
+S'Play your music stored in Amazon Cloud Player, and shop for music on your Android phone or tablet. Play music stored on your device, or download your music and listen offline. The free Amazon MP3 app for Android includes both the Amazon MP3 Store and Amazon Cloud Player.Shop over 20 million songs and over a million albums in MP3 format, and save your MP3 purchases directly to Cloud Player for free. See new releases, bestsellers, and free music from rising artists.Visit www.amazon.com/cloudplayer and import your music collection from iTunes or your MP3 music folders. Import 250 songs free, or subscribe to Cloud Player Premium and import up to 250,000 songs. Play music stored on your device, stream your music from the Cloud, or download music to your Android phone or tablet so you can play music offline or reduce data plan usage.Recent changes:v2.8\xe2\x80\xa2 Support for playback on Ford SYNC automotive entertainment systems \xe2\x80\xa2 Enhanced MP3 store search to display more results\xe2\x80\xa2 Bug fixesv2.7.3\xe2\x80\xa2 Japanese language support\xe2\x80\xa2 Bug fixesv2.7.2\xe2\x80\xa2 Improve streaming quality on Android 4.0 or greater when device is lockedv2.7.1\xe2\x80\xa2 Amazon Cloud Player is now available for customers in Spain and Italy      v2.7.0\xe2\x80\xa2 Amazon Cloud Player is now available for customers in UK, Germany, and France v2.6.1\xe2\x80\xa2 Various fixes for Android Jelly Bean'
+p4
+tp5
+tp6
+.

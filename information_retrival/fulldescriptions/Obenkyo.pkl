@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Obenkyo '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn japanese hiragana, katakana and kanji, and test yourself by drawing, or multiple choice.New Tablet designThis application helps you memorize:- Japanese syllabary :Katakana & Hiragana, with flash card, keyboard, or drawing recognition- Numbers, in romaji, Hiragana, or kanji - 2300+ japanese kanji\'s (level 1-5 JLPT or Jouyou 1-7) with stroke animation (source KanjiVG), translation, readings (Source KanjiDict) with flash card and drawing game.- 14600+ japanese words (in english) from EDICT with flash card test- Experimental gramatical particle test (around 100 sentences from project Tatoeba) central to japanese language.- Tae Kim Japanese Grammar guide. - new locales (German, Spanish, Russian, Portugues, Thai, Polish, Chinese, Swedish and French), if you can help me adding new locales please contact me.SD write authorisation for write Database to SD card Analytic (Flurry.com) and Ads can be disabled in the settings. -- If at install you have an error "unknown 18", try to remove your MicroSD car and install again. If it still don\'t work try to send me a mail (thanks for the help Matthiew)Recent changes:- New with 3.3.1 : More bug fixes !ICS/JB hints missing in grammar Search failing with JLPT Fix for layout issues with small rez testthx to thoses who reported and helped troubleshoot issues- New in 3.3: sort by Remebering the Kanji Chapters filter by score colors (in menu)- bug fixes : ics draw bug,  Xperia Sola list bug force close eventsIf you see regression or new issue please send me a mail'
+p4
+tp5
+tp6
+.

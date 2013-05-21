@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Odd Curious '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x80\x9cOdd & Curious\xe2\x80\x9d brings the funniest, most curious and oddest things from Arabic countries and around the world right on your fingertips.  Stay informed and get most entertained by the latest headlines in the strange, shocking and odd news.  Our editors work around the clock to bring in the latest and best stories and updates from Facebook, twitter, flickr and Youtube. Fresh updates everyday with 10 or more news.'
+p4
+tp5
+tp6
+.

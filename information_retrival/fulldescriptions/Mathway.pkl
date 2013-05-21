@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mathway '
+p1
+tp2
+(S'Description:'
+p3
+S'Bring the solving power of Mathway.com to your Android device, no network access required!  Get free instant answers to your math problems, or upgrade to a premium membership to also receive step-by-step work and explanations.  With tens of millions of problems already solved, Mathway is the #1 problem solving resource available for students, parents, and teachers.Math subjects covered include Basic Math, Pre-Algebra, Algebra, Trigonometry, Precalculus, Calculus, and Statistics.Recent changes:- Increased size of keyboard'
+p4
+tp5
+tp6
+.

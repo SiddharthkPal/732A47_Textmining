@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rdio '
+p1
+tp2
+(S'Description:'
+p3
+S"Discover your next favorite song with Rdio, a service for streaming unlimited music\xe2\x80\x94on-demand and ad-free\xe2\x80\x94on your Android device. With over 20 million songs available and more added every week, you can immediately listen to popular hits, new releases and old favorites. When you\xe2\x80\x99re in the mood to hear something new, follow friends, artists and tastemakers and let their favorites find their way to your ears. Build a playlist\xe2\x80\x94solo or in collaboration with friends\xe2\x80\x94then sync everything to your device for offline listening.It\xe2\x80\x99s human powered music discovery. An entire universe of music available for about what you\xe2\x80\x99d pay for a single album.Try it free today, or upgrade to a monthly subscription for just $9.99.Praise from Rdio\xe2\x80\x99s fans:\xe2\x80\x9cRdio is the best music discovery tool I've ever used, it's intuitive and satisfying. I'm hooked.\xe2\x80\x9d \xe2\x80\x93 Tom Dumont, No Doubt\xe2\x80\x9cFour months later, Rdio is just as awesome as the day I started using it. Love that I never have to bother downloading/organizing tunes.\xe2\x80\x9d \xe2\x80\x93 @hcokim\xe2\x80\x9cClean, fast and album focused. Rdio is the best way to find my new favorite band and see what records my friends are listening to.\xe2\x80\x9d \xe2\x80\x93 Jason Fisher,  Epitaph & Anti RecordsPraise from the press:\xe2\x80\x9cA more human approach\xe2\x80\x9d \xe2\x80\x93 Edward C. Baig, USA Today\xe2\x80\x9cA seemingly endless amount of music to discover.\xe2\x80\x9d \xe2\x80\x93 Belinda Thomas, Examiner\xe2\x80\x9cRdio is putting people front-and-center.\xe2\x80\x9d \xe2\x80\x93 Heather Kelly, VentureBeatRecent changes:- Remove errant sharing option"
+p4
+tp5
+tp6
+.

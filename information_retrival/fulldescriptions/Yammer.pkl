@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yammer '
+p1
+tp2
+(S'Description:'
+p3
+S"Yammer is the best-in-class enterprise social network that makes your job easier and more productive. It brings together employees, content, conversation, and business data in a single convenient location. Yammer offers you an intelligent and efficient way to connect with the information and people that you need to get work done, and our mobile app allows you to keep on top of what\xe2\x80\x99s going on, even when you\xe2\x80\x99re on the go! Collaborate and share ideas together in real time, no matter where you are.-Keep Informed: Stay on top of conversations, files, and projects happening in your company-Talk with Groups: Discover what\xe2\x80\x99s happening in your Groups and  share your input-Your Mobile Inbox: See your most important Yammer conversations and prioritize your work -Share Photos: Snap a pic and easily share it with coworkers-Get Push Notifications: Stay notified of important activity right when it happensRecent changes:New in version 3.5:-Let's get relevant: the members directory and @mentioning have been improved to display your most relevant contacts first-As usual, we've squashed a few bugs in this release. Ick."
+p4
+tp5
+tp6
+.

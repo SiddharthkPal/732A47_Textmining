@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GE13 '
+p1
+tp2
+(S'Description:'
+p3
+S"Get the latest info and updates on Malaysia's 13th General Elections pushed directly to you.Recent changes:1. tap on image to view full screen2. sharing function"
+p4
+tp5
+tp6
+.

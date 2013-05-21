@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WhitePages '
+p1
+tp2
+(S'Description:'
+p3
+S'WhitePages is the #1 and most trusted source for finding people & businesses, with over 200 million U.S. households & businesses at your fingertips.With WhitePages you can:- Find People using the #1 phone directory- Find Stores and Restaurants using our yellow pages business search- ID Unknown Callers with reverse phone look ups- ID phone numbers from your call log- View Menus from restaurants, salons, spas and more- Add Contacts to your Android - Maps & Driving Directions- Add WhitePages to the Android Quick Search Box to make searching even quicker- Canadian people searchRecent changes:Adding performance improvements for reverse phone lookup.  WhitePages V2 lets you:- Connect with your neighbors using Nearby People - Find stores where you are with Nearby Businesses- View Restaurant Menus - Identify numbers from your call log - Find people in Canada- Unlimited premium phone lookup option- Share destinations and invite your friends using Facebook, Twitter, email or textWe hope you enjoy it!'
+p4
+tp5
+tp6
+.

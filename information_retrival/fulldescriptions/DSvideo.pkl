@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DS video '
+p1
+tp2
+(S'Description:'
+p3
+S'*You must own a Synology NAS to run this app.*DS video allows you to stream your Video Station library on your DiskStation from your Android device. DS video sorts your video contents by Movies, TV shows, Home videos as well as recorded programs to make browsing your library all the more convenient. DS video also displays the movie information retrieved online automatically. If you have plugged in a DTV dongle to your DiskStation, you will also be able to record TV programs, as well as view the TV program to manage the recording schedule remotely.With DS video you can:-Browse and play your video contents stored on your DiskStation  -Search for video files by keywords-Add videos and movies to your collections (\xe2\x80\x9cFavourites, \xe2\x80\x9cWatchlist\xe2\x80\x9d or user-defined)-Record TV programs if you have at least one DTV dongle plugged into your DiskStation-View the Electronic Program Guide, as well as add or remove programs to the Recording Schedule-Supports Live streaming of DTV channels (up to SD quality) -Stream videos to AirPlay and DLNA TV-Select available subtitles (.srt files, embedded on mkv files) and embedded audio tracks-Supports encrypted login over HTTP without SSL-Supports HTTPS connection (when playing videos, this is dependent on the device and player used)-All feature available with DSM 4.2, Video Station 1.1 and onwards-Supported on devices running Android 2.1 and onwards * The features and performances listed above are given with MX Player installed on the device. Please note that if you choose not to install MX Player and use another player, full support may not be achieved.What\xe2\x80\x99s new?-Improved the loading speed of thumbnails (when displaying movie lists)-Fixed an issue on Android 2.x devices, where the search function wouldn\xe2\x80\x99t work-Improved the UI layout on the Amazon Kindle Fire-Minor bugs fixesKnown limitations and issues:-No display of subtitles when streaming to an DLNA TVRecent changes:What\xe2\x80\x99s new?-Improved the loading speed of thumbnails (when displaying movie lists)-Fixed an issue on Android 2.x devices, where the search function wouldn\xe2\x80\x99t work-Improved the UI layout on the Amazon Kindle Fire-Minor bugs fixesKnown limitations and issues:-No display of subtitles when streaming to an DLNA TV'
+p4
+tp5
+tp6
+.

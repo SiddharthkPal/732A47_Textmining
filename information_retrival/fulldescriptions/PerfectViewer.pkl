@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Perfect Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'Perfect Viewer is a very fast image/comic viewer. *Turn black/white image into 4 colorize image(Only available for donated users. Need install Perfect Viewer donation application). *Page layout: Auto single page, Auto dual page, Auto switch by screen orientation *Support Windows, Linux etc. network file sharing(CIFS/SAMBA) *Require internet permission for CIFS/SAMBA support.  *Support image file format: JPEG,PNG,GIF,BMP *Support archive file format: CBZ/ZIP,CBR/RAR,7Z/CB7(No solid mode),LZH *Support PDF file after install the PDF plugin *Smooth filters: Averaging, Bilinear, Bicubic, Lanczos3; *Five view mode: Full size, Fit Screen, Fit Width, Fit Height, Fixed size, Stretch; *Support Left-to-right & right-to-left reading *Set image as wallpaper *Browse image in folder/archive as thumbnail *Bookshelf function *Support pinch to zoom & fling gesture *Simple bookmark function *My favorites management *Cache next and previous page *Simple file management(delete, rename) *Slideshow *Adjust image brightness,contrast & gamma *Auto cut off white border.Recent changes:2013/04/13 Version 2.0.1.2-Fixed show blank screen problem when using Bilinear, Bicubic or Lanczos3 at 100% zoom2013/04/12 Version 2.0.1.1-Fixed bookshelf crash problem.-Add Dutch language support, thanks to Michel Faken for translation2013/04/11 Version 2.0.1-Rewrite bookshelf function. Now can put more books.-Now can instantly preview adjust color -Fixed random crash problem'
+p4
+tp5
+tp6
+.

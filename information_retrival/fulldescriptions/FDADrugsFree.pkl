@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FDA Drugs Free '
+p1
+tp2
+(S'Description:'
+p3
+S'FDA Drugs contains official information of 141 therapeutic biologicals, 13,442 prescription and 526 over-the-counter human drug products approved by FDA for sale in the United States.Drug Information includes Ingredient, dosage, form, generic alternatives and packaging insert.A PDF viewer (eg. BeamReader) is required.Recent changes:Adjusted the font size to fit for high-dpi phones.'
+p4
+tp5
+tp6
+.

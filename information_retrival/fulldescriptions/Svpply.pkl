@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Svpply '
+p1
+tp2
+(S'Description:'
+p3
+S"Svpply is a hand-selected collection of the world's best products from all across the web, with over 5,000 new products brought in every day. Save the products you want and build collections of products you love. Features: \xe2\x80\xa2 Follow the stores you love \xe2\x80\xa2 Over 2.4 million of the best products from across the web \xe2\x80\xa2 Over 110,000 stores and brands. \xe2\x80\xa2 Shop from over 30 simple categoriesLegal: http://ios.svpply.com/terms"
+p4
+tp5
+tp6
+.

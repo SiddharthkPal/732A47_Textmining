@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Schemes - Scheduled Networking '
+p1
+tp2
+(S'Description:'
+p3
+S"Schemes is a simple tool that allows you to send scheduled messages via SMS, Facebook, Twitter or Email (Gmail only!). Whether you want to send that happy birthday text at midnight (or a minute before midnight if that's your thing), Tweet about your favourite time of the day, make a Facebook status without your friends on the other side of the world missing it, or send that important business email right on the hour, Schemes will do it for you! For now, Schemes is still in a free BETA stage. If you face any crashes, please let me know and I will try fix it with you. One star reviews don't fix anything!FEATURES:- Send scheduled SMS, Facebook statuses, Tweets or Emails from your device!- Clean Holo UI- Notifications on sending- All messages are added to their respective threads in the Messaging app- Cancelable messages- And more!PERMISSIONS: * Messages - used for SMS contact suggestions* Reading contacts - used to store the messages in their respective threads* Your accounts - for GmailRecent changes:0.41:* Added a counter to the message field* Messages now automatically reschedule 5 minutes later if no connection is present.* Hopefully fix crash on loading Compose screen (SORRY!)* Fixed crashes on invalid SMS number0.40:* Hebrew, Brazilian Portuguese, Simplified Chinese, Italian and Polish translations!* Fixed messages not sending after a reboot. This fix might introduce new problems, let me know.* Fixed various crashes people were experiencing, thanks for the logs"
+p4
+tp5
+tp6
+.

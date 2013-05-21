@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AnkiDroid Flashcards '
+p1
+tp2
+(S'Description:'
+p3
+S'Memorize anything with AnkiDroid!HELP FOR UPGRADING FROM 1.x: https://code.google.com/p/ankidroid/wiki/UpgradingALL DATA IS BACKED UP ON UPGRADE, PLEASE READ LINK ABOVE.AnkiDroid lets you learn flashcards very efficiently by showing them just before you will forget. It is fully compatible with the spaced repetition software Anki (including synchronization), which is available for Windows, Linux and MacOS.Study all sorts of things wherever and whenever you want. Make good use of idle times on bus trips, in supermarket queues or any other waiting situation!Create your own flashcard decks or download free decks compiled for many languages and topics (more than 6000 available).Add material through the desktop application Anki or directly through Ankidroid. The application even supports adding material automatically from a dictionary!\xe2\x98\x85 Key features:\xe2\x80\xa2 supported flashcard contents: text, images, sounds, LaTeX\xe2\x80\xa2 spaced repetition (supermemo 2 algorithm)\xe2\x80\xa2 text-to-speech integration\xe2\x80\xa2 more than 6000 premade decks\xe2\x80\xa2 progress widget\xe2\x80\xa2 detailed statistics\xe2\x80\xa2 syncing with AnkiWeb\xe2\x80\xa2 open source\xe2\x98\x85 Additional features:\xe2\x80\xa2 write answers (optional)\xe2\x80\xa2 whiteboard\xe2\x80\xa2 card editor/adder\xe2\x80\xa2 card browser\xe2\x80\xa2 tablet layout\xe2\x80\xa2 import existing collection files (via Anki Desktop)\xe2\x80\xa2 dictionary integration (ColorDict, GoldenDict, Leo.org, Aedict, diverse web dictionaries)\xe2\x80\xa2 add cards by intent from other applications like dictionaries\xe2\x80\xa2 custom font support\xe2\x80\xa2 full backup system\xe2\x80\xa2 navigation by swipe, tap, shake\xe2\x80\xa2 fully customisable\xe2\x80\xa2 dynamic deck handling\xe2\x80\xa2 night mode\xe2\x80\xa2 27 localisations\xe2\x80\xa2 All previous AnkiDroid versions can be downloaded from the websiteRecent changes:\xe2\x80\xa2 new feature: upgrade wizard\xe2\x80\xa2 bug fix: upgrade workflow\xe2\x80\xa2 bug fix: importing apkgs\xe2\x80\xa2 bug fix: media syncing\xe2\x80\xa2 bug fix: latex rendering\xe2\x80\xa2 bug fix: more robust login to ankiweb\xe2\x80\xa2 bug fix: deck deletion\xe2\x80\xa2 bug fix: card browser GUI cleanup\xe2\x80\xa2 compatibility: up to date with Anki desktop 2.0.7'
+p4
+tp5
+tp6
+.

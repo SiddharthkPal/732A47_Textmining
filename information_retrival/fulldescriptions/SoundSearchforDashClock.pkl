@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sound Search for DashClock '
+p1
+tp2
+(S'Description:'
+p3
+S'Sound Search for DashClock is an extension for DashClock Widget.Quickly search for the song you are currently hearing using this extension for DashClock.Supports:Google Sound Search (have to manually select music mode)SoundHound and SoundHound \xe2\x88\x9eShazam and Shazam EncoreTrackIDmusiXmatchSound Search for DashClock requires DashClock Widget by Roman Nurik:https://play.google.com/store/apps/details?id=net.nurik.roman.dashclockRecent changes:Added support for:SoundHound \xe2\x88\x9eShazam EncoreTrackIDmusiXmatchIf there are any others you would like to see added email me!'
+p4
+tp5
+tp6
+.

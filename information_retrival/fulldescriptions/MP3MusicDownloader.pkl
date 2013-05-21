@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MP3 Music Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'MP3 Music Downloader is an amazing free application which lets you download and play any number of MP3 songs from online music websites. The application is absolutely free without any download restrictions. Download and play any number of legal mp3 songs directly from Internet. \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 THIS IS A FULL APPLICATION FOR FREE!! THIS IS NOT A TRIAL OR LITE VERSION!! THIS IS THE APP YOU ARE LOOKING FOR!! Absolutely free!! No Download Restrictions!! UNLIMITED DOWNLOADS \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 MP3 Music Downloader Free provides seamless music download from websites where free music is available legally. MP3 Music Downloader Free comes loaded with following power packed features. \xe2\x9c\x93 Built In Download Manager 1)Unrestricted music download using built in browser.2)Download status bars and ability to pause downloads3)Download multiple songs together.4)Uninterrupted background downloads in case the phone goes on Standby Mode.5)Automatic queuing of songs selected for download. \xe2\x9c\x93 Built in powerful Web Browser 1)Just open any website, select the MP3 song link and tap it to download.2)Bookmarks functionality to easy access to favorite websites.3)Tap browsing. \xe2\x9c\x93 Full Featured Music Player 1)Powerful Like music player with all music functions.2)Slide to change the songs.3)Repeat and shuffle functions.4)Album Art while song plays.5)Plays music in background.6)Sleep Timer. \xe2\x9c\x93 Loading Library Music 1)Ability to load library music within the application.2)Manage library songs and remove whenever required. \xe2\x9c\x93 Song Management 1)Create custom folders.2)Move songs to folders of your choice3)Create And Manage playlists4)Move songs to playlists.  IT IS JUST SO SIMPLE!! The application comes loaded with a built in browser. Just open the website you want to download songs from. Choose your songs and hit the download button! Support: For any query, bug or suggestions, please contact us at mp3@dreamzappz.com'
+p4
+tp5
+tp6
+.

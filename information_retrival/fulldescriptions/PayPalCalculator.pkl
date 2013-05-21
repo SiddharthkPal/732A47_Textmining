@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PayPal Calculator '
+p1
+tp2
+(S'Description:'
+p3
+S"PayPal Calculator is a simple but effective way for you to quickly, easily and accurately calculate the fee you will be charged for your PayPal transactions.The reverse mode also allows you to calculate the total you should request in  order to receive the amount you want, after fees.Features:* Standard & Reverse Mode* Up-to-date and uses the latest PayPal fees* Supports over 25 countries (Spain is in Europe!)* Ability to enter a custom rate* On-the-fly calculations* Copy result to clipboard* Localised PayPal help* Personal accounts supported* Follows Android Design guidelines* Ad-Supported** Developers are unable to respond to reviews, so please contact me first and I can help to sort out any issues.** As far as I am aware the app is extremely accurate. However, if you feel this is not the case, then please send me an email with an example and I will get it fixed.* Please get in touch if you'd like to provide a translation for your native language.Follow me on Twitter @SPECTRL for updates on the app, as well as other random thoughts!If you find this app useful, please take the time to leave a rating / review.If you have any feature requests or design ideas regarding this app, please contact me at feedback.paypalcalc@spectrl.com and I will do my best to provide any improvements. Any feedback welcome.For any other queries, please email contact@spectrl.comThis application and its author are in no way affiliated with PayPal.All brands, trademarks, and copyrights are the property of their respective owners.All rights reserved.Copyright \xc2\xa9 2012 SPECTRLRecent changes:Version 1.3.2:* Fixed Poland crashVersion 1.3.1:* Minor bug fix* Code improvementsVersion 1.3:* Updated fees \xe2\x80\x93 correct as of 11/10/12* Improved Nexus 7 layout* UX Improvements* Bug fixesVersion 1.2:* Auto-Copy Calculation- The calculation result is copied to the clipboard, ready for pasting.Version 1.1:* Added country flags (from www.icondrawer.com)* Added setting to synchronise country selection across tabs* Localised help"
+p4
+tp5
+tp6
+.

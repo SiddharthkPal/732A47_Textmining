@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'euronews live '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch Europe\xe2\x80\x99s leading international news channel live.euronews provides an up-to-the minute news bulletin with the latest top world news, sport, business, weather forecast and breaking news as it happens. euronews complements core news services with a range of topical current affairs and lifestyle programming, looking into the latest technologies, the arts and entertainment including cinema, fashion, travel and culture.At launch, the application is in 3 language versions \xe2\x80\x93 English, French and Persian \xe2\x80\x93 and will be available in the other language services of euronews in short-term without any update needed!Download euronews live and access world news 24/7 wherever you are.Recent changes:15/02/2013 - New version of the App (Version 2.0.1) :We\xe2\x80\x99ve corrected the following bugs (thanks for reporting them!)-\tApp crashes on launch on certain versions of Android.-\tImproved general application stability.We\xe2\x80\x99ve added the following feature-\tMuch improved video quality for Android 3.0+ versions.'
+p4
+tp5
+tp6
+.

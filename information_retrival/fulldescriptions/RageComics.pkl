@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rage Comics '
+p1
+tp2
+(S'Description:'
+p3
+S"The best Rage Comics reader! If you don't like it, we'll refund your time!Rage Comics Reader is the best way to read your favorite comics in your Android phone or tablet, because we took away the most painful part of it: zooming and dragging!We're sure you really hate reading comics with other apps, because you'll have to zoom in, drag the comic and then zoom out again a lot of times. With Rage Comics reader, all of that is gone! How can we do that? Using advanced computer vision techniques, Rage Comics Reader identifies each panel in the comic and shows them separately, one at a time. Give it a try, you'll realize this is absolutely the best way to read about FFFFFFUUUUUUUUUUU, Cereal Guy and Me Gusta.But it doesn't end here! Rage Comics Reader let's you read all the hottest comics available on Reddit. And furthermore, check this impressive list of features:- Automagic cropping, which avoids painful zooming and panning- Access all the hottest, recently submitted and top rated comics from Reddit- Save your favorite comics and read them even when you're offline- Share your favorite comics with your friends by email, mms, on Twitter and on FacebookRecent changes:* New on 3.0- New interface with multiple themes (you can change them from settings)- Added support for tablets- Added support for showing unread comics (off by default, can be enabled from settings) - Multiple performance improvements- Fixed a bug which caused a crash when opening a comic in some phones- Better support for displaying thumbnails* New on 3.0.1 and 3.0.2- General bugfixes"
+p4
+tp5
+tp6
+.

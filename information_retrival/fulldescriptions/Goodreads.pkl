@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Goodreads '
+p1
+tp2
+(S'Description:'
+p3
+S"Tap into the world's largest social network for readers with the Goodreads Android app! Read thousands of book reviews by your friends and other Goodreads members, keep a virtual bookshelf of what you've read, and build your to-read list as you discover great books on the app.Goodreads is a free service for everyone who reads. We have more than 8,500,000 members who have added more than 300,000,000 books.* Search, rate, and review any book in our catalog of more than 12 million books.* See book reviews and updates from your friends, and comment on them.* Browse your shelves! Next time you are deciding what to read, your to-read list will be handy.* Add status updates and page number updates for books you are currently reading.* Use the barcode scanner to quickly scan all of your books onto your Goodreads shelves.* Also use the scanner to quickly access book information while on the go.* Find your address book contacts or Facebook friends on GoodreadsYou can use the basic features of this app without a Goodreads account, but sign in or sign up (you can do this in the app) for the best experience!--Why does Goodreads need the READ_CONTACTS permission?You may choose to use your Android Contacts to find which of your family and friends are already on Goodreads. Your contacts will not be read unless you explicitly choose to do this.Recent changes:\xe2\x98\x85 Choose when to share your review or reading progress update to Facebook\xe2\x98\x85 Fixed a couple causes of crashes, and made a couple usability improvementsIn recent releases:\xe2\x98\x86 Goodreads Recommendations are here! Now you can use the best book-recommending engine on your Android.\xe2\x98\x86 Goodreads webpages now open inside the app\xe2\x98\x86 Updated the barcode scanner for better performance and reliability\xe2\x98\x86 Links in reviews, comments, etc. can now be followed"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cartoon Photo '
+p1
+tp2
+(S'Description:'
+p3
+S'Automatic Cartoon Generator! Very easy to use and user-friendly. You can convert your photos into cartoon-like pictures with only one button click. The cartoon sensitivity is also adjustable. Sharing and saving pics are also supported.Stay connected with us on our Facebook page: http://www.facebook.com/pages/Dumpling-Sandwich/434076873304017Key words: Cartoon, Photography, Camera, Sketch.Recent changes:Bug Fix.'
+p4
+tp5
+tp6
+.

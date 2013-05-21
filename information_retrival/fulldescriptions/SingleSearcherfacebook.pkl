@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Single Searcher @ facebook '
+p1
+tp2
+(S'Description:'
+p3
+S"Single Searcher finds for You the big love at Facebook with only one click. The app searchs in your facebook friendlists with selected gender, age and location. Then it shows you all singles and informs you about relationship status changes. Single Searcher recommends You other facebook profiles in your area, which you don't known, but you will be very interessted. Look at all profile pictures and start a flirt by switching directly to the facebook app.You like a friend in your social network, who is already in a relationship? With Single Searcher you know first, if the relationship is over. The apps sends you a notification, if the relationship status of a selected friend changes. Compared to Breakup Notifier you get also a notification, if the friend has a new realtionship or gets married.Single Searcher needs no registration and no account. That is an huge advantage in comparison to other apps for singles (like Zoosk ,  FriendScout24 , Neu.de , eDarling , LOVE , Badoo , LOOVO , Bang your friends , flirt.de , eharmony , okcupid , moco , meetme , singlesaroundme , miumeet ).To use Single Searcher on your android smartphone, you must have the facebook app installed and login to facebook. By starting the Singles search for the first time, you must allow Single Searcher the access to facebook.Don't wait for amor! Use Single Searcher and start flirting, dating or even a hookup.Recent changes:Single Searcher @ facebook now with new design!"
+p4
+tp5
+tp6
+.

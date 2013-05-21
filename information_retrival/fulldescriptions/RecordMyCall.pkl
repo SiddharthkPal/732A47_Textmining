@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Record My Call '
+p1
+tp2
+(S'Description:'
+p3
+S'Please be kind and do not give 1 star if the app does not work on your phone.Currently the app does not work on some phones. Please go to my website for phone compatibility (http://nathanielkh.blogspot.com/2012/09/compatibility-phones.html) before install it. You can also download the apk from the same website if Android Market does not provide the link.Use speaker to get a better record quality during call.Description:This application has a basic purpose to record all your call (incoming and outgoing). Please be noticed that due to limitation of Android phone (hardware and software), this program only can record from microphone. Please turn on the loudspeaker during conversation to get clear voice from the other side. All conversations are recorded under file \xe2\x80\x9cRecordMyCall\xe2\x80\x9d file in memory card.Features:-Record incoming and outgoing call from microphone.-All files are saved in memory card.Recent changes:Version 5.00.931 (5 May 2013)Redesign most user interfaceIntegrated with DropboxAdding extra data (call type, notes, etc)Disabled Nexiwave featuresA lot of bug fixes'
+p4
+tp5
+tp6
+.

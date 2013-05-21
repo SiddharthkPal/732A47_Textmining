@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AndSMB (samba client) '
+p1
+tp2
+(S'Description:'
+p3
+S'AndSMB is a SMB (Samba/CIFS) client for Android devices. It allows connecting to shared folders hosted on Windows or Samba servers over Wifi/3G/4G. It allows managing several connections with authentication. It comes with both a device file browser and a SMB file browser. It provides download and upload support for files and folders. It can synchronize folders. You can rename, delete, get file details, create folders open local and remote files. It comes with share feature for gallery. WINS server, LMHOSTS and broadcast address options are available for name resolution. Browse and transfer intents are available for third party applications. Root access is not needed.Tags: Samba, windows, share, upload, download, CIFS, printer, linux, shared drive, sync, macbook shareRecent changes:- Local and remote search support.- Long filename UI support improved.- Sync schedule (hourly, daily, weekly) support added [Pro version only].- Sync widget support added [Pro version only].- Sync All menu added [Pro version only].- MP3 streaming support (Experimental).- Home directory option added.- Icon added on sync folders.- Exclude files/folder from sync added [Pro version only].- MIPS support added.'
+p4
+tp5
+tp6
+.

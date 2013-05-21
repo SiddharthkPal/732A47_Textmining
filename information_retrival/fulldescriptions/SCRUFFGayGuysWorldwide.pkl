@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SCRUFF Gay Guys Worldwide '
+p1
+tp2
+(S'Description:'
+p3
+S"SCRUFF is a social gay app for gay, bi, or curious scruff guys to meet. Meet millions of SCRUFF gay guys in your neighborhood and around the world.What is a SCRUFF guy? SCRUFF guys are servicemen, gamers, firefighters, students, DJs, baristas, tattoo artists, scientists, designers, and rugby players--just to name a few. Some SCRUFF guys are bears, some are jocks, and some SCRUFF guys are just guys.A unique and growing global gay community, millions of gay guys are SCRUFFing in over 180 countries on 6 continents (and we're pretty optimistic about Antarctica).SCRUFF uses your Android's GPS and WiFi capabilities to connect you with gay guys nearby, and near any location worldwide. A SCRUFF guy could be on your block...or near your next travel destination! Thousands of gay guys worldwide are joining SCRUFF every day - download now to find out why!* * *For support, please visit http://support.scruffapp.comRecent changes:- Integrated help system to provide hints about how to use SCRUFF - Redesigned Settings page- Additional Photo and Online filters- Latest string translations"
+p4
+tp5
+tp6
+.

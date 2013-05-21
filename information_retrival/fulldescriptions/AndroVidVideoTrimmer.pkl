@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AndroVid Video Trimmer '
+p1
+tp2
+(S'Description:'
+p3
+S'Trim, merge, split, transcode, apply effects, grab video frames, share your videos, convert to MP3... AndroVid provides you the following functionalities:- Trim your videos and produce clips.- Merge multiple videos into one file (Videos must be same format and size. Limited to 15 seconds per clip.  In Pro Version clips can be any length)- Delete middle parts from a video- Split your video files into two separate video clips- Grab video frames- Convert your video files to MP3 audio files- Video Effects (Fade in/out, Gray Tone, Mirror, Negate, Remove Audio, Slow / Fast Motion, Swap U-V)- Set video frames as wallpaper - Share your video clips and grabbed video images. Upload your videos to facebook , youtube etc. - Play video clips- Sort your videos by their name, size, duration and date- Rename/Delete videos on your phoneTHANKSArabic language added by Abdullah al-jaserSOME REVIEWS:* http://www.mymobile.co.in/review/androvid-video-trimmer-review/* http://www.abctrick.net/2012/06/androvid-video-trimmer-easy-to-use.html* http://www.pcdrome.com/5-most-popular-apps-to-edit-audio-video-files-in-android/2428* http://www.ilovefreesoftware.com/05/android-2/video-trimmer-app-for-android-androvid-video-trimmer.htmlSome Notes on Usage:* MP3 files go to /sdcard/AndroVid/audio folder. * Grabbed images go to  /sdcard/AndroVid/image folder* During trimming in order to get the correct start/end points you can use Zoom buttons which zoom in/out the timescale.Purpose of Permissions:    "READ SENSITIVE LOG DATA": This permission is used when a crash occurs in the AndroVid application. Log data is collected to fix bugs. You can disable this permission using the "Options" menu.If you see any problem please send an email to androvid@androvid.com or report it on our web site http://androvid.blogspot.comAndroVid uses FFmpeg under permission of LGPL.Recent changes:2.0.6 - Some bug fixes2.0.5 - Upside down problem fixed. Rotate feature improved. Some Bug fixes.2.0.4 - Some bug fixes2.0.0 - Major user interface update, completely updated to Android 4.0\t  -\t!! NEW !! : Video merge added (PRO)\t  -\t!! NEW !! : User manual added.\t  - !! NEW !! : Now you can also view and organize your music and photos on AndroVid\t  -\t!! NEW !! : Shoot new video and afterwards edit it in AndroVid directly. \t  - Bug Fixes'
+p4
+tp5
+tp6
+.

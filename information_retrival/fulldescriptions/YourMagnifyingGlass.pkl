@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Your Magnifying Glass '
+p1
+tp2
+(S'Description:'
+p3
+S"The best magnifier (magnifying glass) in the market, with light! Can even be used as a microscope! Features a high frame rate mode - mostly for Nexus 4 users!*** Now works even on devices that don't have a zoom function on their cameras!!! ****** Now with camera option! ***Magnifies text or anything else, with a large clear view (the quality and the zoom level of the image depends on your phone's camera). You can choose the zoom level with a slider or using your phone's volume up and down buttons, invert the image (helps nearly blind people to see text better), freeze the image, or even turn on the light (on phone's with a flash for their camera) to make it brighter.Recent changes:v1.7.0 - added software magnification for devices that don't have a zoom function.v1.6.0 - high frame rate mode - mostly for Nexus 4 users.v1.5.1 - fixed a problem with taking pictures using Samsung Galaxy S3.v1.5.0 - added camera feature."
+p4
+tp5
+tp6
+.

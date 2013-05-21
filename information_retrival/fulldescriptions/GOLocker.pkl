@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Locker '
+p1
+tp2
+(S'Description:'
+p3
+S"The lastest version has been mistaken for malware by 'Avast! Mobile Security'.The lastest virus database version of 'Avast! Mobile Security' has fix this problem.Users can enjoy GO Locker as usual without unsafe factors.Thanks!GO Dev TeamNotice! Here comes the version of GO Locker.====Features:1. Cool Locker Screen that makes your phone outstanding;2. Good compatibility with GO Launcher EX and it is stable;3. Easy to use;4. Able to activate phone, SMS and Camera directly or you can change the slider shortcuts yourself;5. Various of Locker Themes to match your style;6. Support customise wallpaper;7. Security locker;8. Emergency unlock enabled;Please let me know if you meet any bugs or want any improvement!E-mail: golauncher@goforandroid.comRecent changes:1.(Improve) Performance optimization2.\xef\xbc\x88Fix\xef\xbc\x89Some small bugs"
+p4
+tp5
+tp6
+.

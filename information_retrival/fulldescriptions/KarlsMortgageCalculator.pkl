@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Karl's Mortgage Calculator "
+p1
+tp2
+(S'Description:'
+p3
+S'Calculate mortgage payments given principal, interest and term. Reverse calculate any one variable given the other three.Enter a down payment amount or percentage and let the calculator show how large a mortgage you require.See how the monthly payment changes when you factor in additional monthly or annual loan costs such as PMI, HOA, taxes and insurance.The calculator supports Fixed and Adjustable Rate Mortgages (ARM) loans with up to five changes in interest rates. Interest-only mortgages loans are also supported.You can pay off your mortgage early with extra payments. Add one-off, monthly and annual extra payments. Choose up to ten additional extra payment amounts and payment periods and the calculator will show how much money you can save on the loan.Choose from weekly to annual loan payments and adjust the compounding period from daily through annual periods. The calculator supports Canadian mortgages along with UK annual rest mortgages.Multiple rounding options on loan calculations are also available. Choose between no rounding, round half up, half down, to even, to ceiling and to floor.The calculator also supports the input and display of multiple currencies.Permissions:- Internet access required for adverts and analytics- External storage access required to store email attachments prior to sendingRecent changes:2.8.2- Fix for phones with no hard menu button- Fixed package not signed correctly error2.8- FHA loan support- Insurance as a percentage of property value- Keypad setting to replace current value- Increased maximum interest rate- Minor fixes2.7- Reset values option- Up to 10 extra payments- Extra payments in email report- Total PMI on summary tab- Updated PMI rates- Revised help screen- Layout improvements- Minor fixes'
+p4
+tp5
+tp6
+.

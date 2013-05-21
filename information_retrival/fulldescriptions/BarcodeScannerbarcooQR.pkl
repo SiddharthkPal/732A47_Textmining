@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Barcode Scanner barcoo & QR '
+p1
+tp2
+(S'Description:'
+p3
+S'barcoo offers independent product information. See instantly what you want to know:price comparison, test reviews, eco-footprint, nutritional traffic light and the next store - barcoo tells you more!barcode scanner for EAN & QR codes.---QR, application, barcoo, location, reader, decoder, qr code reader, qr reader, biz, qr scanner, qr code scanner, barcode scanner, 2d barcode reader, barcode scaner, barcode scan, color, qr droid, scanner app, scan, qr reader, best barcode scannerRecent changes:Update 2.9.2:- bug fixes for Sony Xperia Devices- Android 4+ compatibility improved'
+p4
+tp5
+tp6
+.

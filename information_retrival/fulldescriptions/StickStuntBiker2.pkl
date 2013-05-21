@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Stick Stunt Biker 2 '
+p1
+tp2
+(S'Description:'
+p3
+S'Stick Stunt Biker 2, the sequel to the smash hit Stick Stunt Biker (featured in the game of the year 2011 and 2012 categories) with more than 10 million players is now available! Bike fun and challenging tracks in different beautiful atmospheric locations and unlock various bikes like the chopper, the speed bike or even the hovering future bike. Avoid amazing obstacles while you master the tricky tracks, perform insane stunts and wheelies or relax while riding the chopper through spectacular landscapes. FEATURES: \xe2\x80\xa2 More than 50 beautiful designed tracks \xe2\x80\xa2 Get up to 3 stars on each track \xe2\x80\xa2 Fully physic enabled bike and physic enabled player for spectacular crashes \xe2\x80\xa2 Different unique amazing atmospheric locations, from relaxing landscapes to scary forests \xe2\x80\xa2 Various bikes to unlock including Speed Bike, Chopper, Police Bike, Future Bike, etc. each one with different physics and bike shocks \xe2\x80\xa2 Amazing obstacles to avoid including see-saw, carnivorous plants, traps, oil barrels, destructible glass, elevators, etc. \xe2\x80\xa2 Get achievements for special stunts \xe2\x80\xa2 Race against your ghost \xe2\x80\xa2 Directly compare to your friends and all other players with the builtin leaderboard \xe2\x80\xa2 Tilt or button control, whichever you preferRecent changes:- Even more detailed level design, various adjustements- New and optimized visual and audio effects- Possibility to trim videos for sharing- Various bike parameters adjusted- Better performance on older devices- More amazing crash effects- Fixed multiplayer leaderboard'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DoggCatcher Podcast Player '
+p1
+tp2
+(S'Description:'
+p3
+S'---------------------------------------------------We just released a lite version of the app that you can use to evaluate DoggCatcher - Look for \'More from developer\' on this page---------------------------------------------------Manage your podcasts and RSS/news feeds with the first Podcatcher in the Google Market.Highlights-Easy import of feeds from Google Listen.-Android Central\'s Editors\' Choice podcatcher of the year-Android Central\'s Readers\' Choice runner up podcatcher of the year-Lifehacker (Nov-2011) finds DoggCatcher to be "The Best Podcast Manager for Android"-Easy to find new podcasts/feeds-Fully automated download and cleanup of media files-Offline playback of audio and video-Categories for feeds-Updated frequently - 100+ updates since first release in November 2008-Active user community - 10000+ forum posts-Highly configurable -Variable speed playback (this requires the purchase of a third party audio library named Presto)Automation-Automatically updates feeds on a configurable interval-Automatically download new media-Automatically deletes media that has been listened to Add feeds by-Browsing Top 100 DoggCatcher feeds-Getting recommendations based on your feed subscriptions-Searching podcast and news directories-Importing for Google Reader/Listen-Importing from OPML Integrated Audio/Video Player-Plays downloaded audio/video-Streams audio over network (wifi/cell)-Remembers play position of media file-Plays video formats supported by AndroidCommunity and support-Frequently updated-Very active user community in forumsPlaylists-Audio playlist for continuous play of new media-Video/News playlists for easy navigation of new media RSS/News feeds-Supports RSS 1.0, 2.0, and ATOM-Displays inline images Other-Battery/data plan friendly - can limit downloads based on network/power connections-Media download queue can be viewed and managed-Bluetooth support (A2DP/AVRCP)-Supports authenticated feeds (username/password) For any questions about application permissions, please see http://www.doggcatcher.com/permissionsCommunity and support at doggcatcher.comRecent changes:Improvements:-Ability to press on the bottom grey half of the widget to launch DoggCatcher-Lighten up the bottom of the app icon in the app header-Add accessibility info for widget'
+p4
+tp5
+tp6
+.

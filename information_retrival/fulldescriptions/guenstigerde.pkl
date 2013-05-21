@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'guenstiger.de '
+p1
+tp2
+(S'Description:'
+p3
+S'guenstiger.de ist der Preisvergleich f\xc3\xbcr Produkte aus den Bereichen TV/Video/Foto, Telefon, Hifi/Audio, EDV, Haushalt und Freizeit. Mit guenstiger.de k\xc3\xb6nnen Sie systematisch die Preise von mehreren tausend Online-Shops, aber auch station\xc3\xa4ren Gesch\xc3\xa4ften in ganz Deutschland vergleichen.Recent changes:- Verbesserte Suchergebnisse- App 2 SD- Bugfixing'
+p4
+tp5
+tp6
+.

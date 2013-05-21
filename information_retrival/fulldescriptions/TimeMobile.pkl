@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Time Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"TIME Mobile is the Android-based news app from the publishers of TIME.com and TIME Magazine.  Stay connected to top stories and what's most popular on TIME.com. Get the latest news, read opinion and analysis from TIME influential bloggers, and browse through award-winning photography and TIME\xe2\x80\x99s hugely popular Lists.  Sections include: U.S., World, Healthland, Techland, Newsfeed, Politics, Swampland, The Page, Business, Arts, Quotes of the Day, Tuned In, and Travel.Recent changes:V1.6: fixed jellybean crashing issue"
+p4
+tp5
+tp6
+.

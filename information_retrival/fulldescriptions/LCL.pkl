@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LCL '
+p1
+tp2
+(S'Description:'
+p3
+S"Avec l'application gratuite LCL, recherchez une agence LCL, retrouvez nos num\xc3\xa9ros utiles \xc3\xa0 tout moment et g\xc3\xa9rez vos comptes facilement comme sur Internet. Fonctions de gestion de compte - Comptes: consultation des soldes et du d\xc3\xa9tail des op\xc3\xa9rations de tous vos comptes - Virement : r\xc3\xa9alisez vos virements entre vos comptes - Encours carte: suivez l'encours de vos cartes bancaires \xc3\xa0 d\xc3\xa9bit diff\xc3\xa9r\xc3\xa9 - Ch\xc3\xa9quier : choisissez le format d\xc3\xa9sir\xc3\xa9 et commandez vos ch\xc3\xa9quiers - Relev\xc3\xa9s et documents : consultez vos relev\xc3\xa9s d\xc3\xa9materialis\xc3\xa9s au format PDF - Cr\xc3\xa9dit renouvelable : G\xc3\xa9rez votre cr\xc3\xa9dit renouvelable sur mobile - RIB : acc\xc3\xa9dez \xc3\xa0 tous vos RIB - code d'acc\xc3\xa8s : modifiez votre code d'acc\xc3\xa8s valable sur mobile et Internet- Contacter ma banque : acc\xc3\xa8s aux horaires et au num\xc3\xa9ro de son conseiller ou de son agence - clients PRO: consultation des LCR impay\xc3\xa9es, gestion de Solution Enveloppe ProFonction agence - Recherche d'agence par d\xc3\xa9partement - Recherche d'agence autour de vous - Possibilit\xc3\xa9 de d\xc3\xa9finir une agence favorite pour un acc\xc3\xa8s direct Fonction Num\xc3\xa9ros utiles - Retrouvez les num\xc3\xa9ros utiles LCL pour contacter un conseiller ou faire opposition - Appel direct en un clic sur le numero souhait\xc3\xa9Recent changes:- Nouvel accueil et refonte graphique- Virement vers compte non enregistr\xc3\xa9 (si option d\xc3\xa9tenue)- Restitution des points Avantage- Historique des derni\xc3\xa8res op\xc3\xa9rations en ligne- Informations sur les cartes bancaires d\xc3\xa9tenues- Informations sur les pr\xc3\xa9l\xc3\xa8vements SEPA \xc3\xa0 venir- Consultation compl\xc3\xa8te des impay\xc3\xa9s (clients Professionnels)- R\xc3\xa9solution de bug divers"
+p4
+tp5
+tp6
+.

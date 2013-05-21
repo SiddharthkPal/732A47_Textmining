@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pakistan Elections 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S"Reach out for election facts and figures, fast!Follow the latest news and trends about Pakistan Elections 2013. Our app is all set to make you feel the heat and get all the latest buzz on coming elections 2013. So, don't just sit back! Download, get connected and stay informed the easy way. Our talented team is fully dedicated, day and night, to provide you the most recent election updates since we believe that it is the well informed who makes a wise decision. We aspire to empower you with all the latest election news, just within few taps of your finger. Favorite a party of choice or enter various polls to present your own opinion or to check out general public trends. Learn how to cast a vote if you are a first timer. Share any fact, info, result within your social network for more involvement. The app is available for the iOS and Android devices.Features- Pakistan Map with constituencies pins- News Stream feed to see latest news/information and user can like & dislike- Facts feature to see Election fact and figures- Latest updates on national and provincial constituencies- Intuitive stats and figures- Easy navigation and controls- User polls on most happening election events - Graphical poll results based on public opinion- Get party details using their website, facebook/twitter/google+ pages- Get all the recent news on party candidates and party position- Share posts and poll results using facebook/twitter/google+/Email - Directly contact party representatives via phone/email- Searchable constituencies list- Guidelines on how to cast vote for 1st timersRecent changes:- Minor bug fixes- Push Notifications- Data/Contents Updates"
+p4
+tp5
+tp6
+.

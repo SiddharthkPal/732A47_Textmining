@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SuperLivePro '
+p1
+tp2
+(S'Description:'
+p3
+S'SuperLivePro is a professional mobile phone client software for digital video recorders and IP cameras in CCTV surveillance (compatible models only).The software is for professional usage and copyright protected.---------------------UPDATE-----------------------------1.Add remote setting2.Add remote playback3.Add main stream(This can be configured)4.Add local information.6.fix some bugs---------------------NOTICE-----------------------------If an exception occurs after updating the software, uninstall and then reinstall the software_________________________________________________________________Recent changes:----------2013-03-18-----------1\xe3\x80\x81Fix some bugs.-------------------------------------1.Add remote setting2.Add remote playback3.Add main stream(This can be configured)4.Add local information..6.fix some bugs'
+p4
+tp5
+tp6
+.

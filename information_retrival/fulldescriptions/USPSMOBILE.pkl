@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'USPS MOBILE\xc3\x82\xc2\xae '
+p1
+tp2
+(S'Description:'
+p3
+S'Access popular USPS.com\xc2\xae tools on the go with the USPS Mobile\xc2\xae app. Find a Post Office\xe2\x84\xa2 or an Approved Postal Provider\xe2\x84\xa2, look up a ZIP Code\xe2\x84\xa2, calculate shipping prices (limitations apply), schedule pickups, order supplies, scan labels and coupons (available on certain devices), hold your mail, and use the Track & Confirm tool anywhere you go.Find USPS\xc2\xae Locations when you need to get to a Post Office\xe2\x84\xa2, Self-Service Kiosk (APC\xc2\xae) or collection box with an easy-to-filter locator. The USPS Mobile app uses your device\xe2\x80\x99s GPS and map features to show your closest options, along with their Regular Hours, Special Hours and Last Collection Times, and provide mapped results with driving, walking, or transit directions. Look up a ZIP Code\xe2\x84\xa2 for any U.S. address.Calculate a Price to determine how much postage you will need when you ship a letter, card, large envelope, or package (limitations apply). Now you can choose retail or online pricing, add any extra services you need, and view the total, too.Use the Track & Confirm tool to check the status of shipments sent using Express Mail\xc2\xae, Certified Mail\xc2\xae, and certain other delivery services. You can give your shipment a nickname and save it in the app to easily keep tabs on your items.Schedule a next-day pickup and have your Letter Carrier pick up Priority Mail\xc2\xae, Express Mail\xc2\xae, Global Express Guaranteed\xc2\xae, or Merchandise Returns shipments from your home or office during regular mail delivery. Request Hold Mail Service while you\xe2\x80\x99re away, and we\xe2\x80\x99ll keep your mail at your local Post Office\xe2\x84\xa2 until you return. Order USPS\xc2\xae boxes and envelopes and have them delivered right to your door.Scan the barcode on shipping labels with your phone\xe2\x80\x99s camera. The app recognizes the shipment and stores the label number, so you can stay on top of its status.You can also save coupons and keep them organized in your phone to redeem at merchants who accept digital coupons. Please check the merchant\xe2\x80\x99s coupon redemption policy, as some merchants may require a physical copy of the coupon at the time of purchase.  View the Terms of UseVisit the U.S. Postal Service\xc2\xae web site >Recent changes:-\tNow you can see Special Hours and when they apply at USPS\xc2\xae Locations.-\tMinor bug fixes to the Rate Calculator'
+p4
+tp5
+tp6
+.

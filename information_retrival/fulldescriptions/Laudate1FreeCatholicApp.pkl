@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Laudate - #1 Free Catholic App '
+p1
+tp2
+(S'Description:'
+p3
+S"The  most comprehensive Catholic App . Available in English, Espa\xc3\xb1ol, Portugu\xc3\xaas, Fran\xc3\xa7aise, Deutsch, Italiano, Bahasa, Polski, Slovenski and Rom\xc3\xa2nesc. Daily Mass Readings, Order of Mass, Liturgy of Hours, New American Bible, Rosary and Latin Rosary, Chaplet of Divine Mercy (on Rosary screen), Stations of the Cross, Saint of the Day,  Catechism of Catholic Church, Sacrament of Reconciliation (Confession),  Daily Examination of Conscience, various prayers and prayers in Latin with English translation. Podcast for Rosary and Stations. Daily Meditations. Podcasts of Daily Readings and meditations.  Ability to bookmark prayers and create own categorized prayers. Export/Import for prayers. Edit prayers on your Mac or PC and Import into Laudate. Douay-Rheims Bible for offline use. Second Vatican documents, Code of Canon Law and papal encyclical letters.TO PRAY ROSARY IN LATIN, PLEASE TAP [NEW ROSARY] BUTTON WHEN IN LATIN ROSARY SELECTION.We do read phone state but we don't keep any of the phone data. This feature  to check phone state is enabled to interrupt playing on internal podcast player so you can answer the phone without podcast playing.Also, we read SD card to save and import files for [My Prayers] section.If you're running into more issues please email me from application using: Menu->Email DeveloperI will work with anyone to resolve problems.Send us email to ayckasoft@gmail.com with problems,and check ayckasoft.blogspot.com for release notes and how to use it. Enjoy!Recent changes:* bug fixes for white and black theme missing text, prayer import, Lent Sundays* added Bookmarks backup and restore. Bookmarks file can be used for backup or to re-import bookmarks from one device to another* added support for Romanian language - (THANKS to Ady Ciocalau)* Order of Mass on Daily Readings Screen has Daily Readings included so there's no need to leave Order of Mass to follow entire Mass* added vestment color of the day on Daily Readings screen* added Children Group in prayers"
+p4
+tp5
+tp6
+.

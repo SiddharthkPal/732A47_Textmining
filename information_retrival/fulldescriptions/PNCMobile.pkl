@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PNC Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Now get 24/7 access to PNC Bank account information and services from your Android Device. PNC Mobile Banking is a free service offered to all PNC Online Banking customers. \xe2\x80\xa8\xe2\x80\xa8CHECK BALANCES - See current account balances for your checking, savings, and credit card accounts. \xe2\x80\xa8\xe2\x80\xa8MOBILE DEPOSIT- Use your camera equipped Android device to deposit checks. \xe2\x80\xa8\xe2\x80\xa8VIEW TRANSACTIONS - View recent transaction history in your checking, savings, or credit card accounts and search for specific transactions by date, amount, or check number.\xe2\x80\xa8\xe2\x80\xa8PAY BILLS - Make one-time bill payments to billers you have entered in PNC Online Banking. \xe2\x80\xa8\xe2\x80\xa8TRANSFER FUNDS - Transfer funds between your eligible PNC banking accounts.\xe2\x80\xa8\xe2\x80\xa8LOCATE PNC - Locate the nearest PNC Bank Branch or ATM using zip code or street address.\xe2\x80\xa8\xe2\x80\xa8SECURITY - With PNC's Security Assurance, you can be confident that your personal and financial information will be protected while using PNC Mobile Banking.\xe2\x80\xa8\xe2\x80\xa8\xe2\x80\xa8\xe2\x80\xa8For installation support, call: 1-800-762-2035\xe2\x80\xa8For general support, call: 1-800-PNC-BANK (762-2265)PNC does not charge a fee for mobile banking. However, third party message and data rates may apply. A supported mobile device is needed to use the Mobile Banking App. Use of the Mobile Deposit feature requires a supported camera-equipped device. An eligible PNC Bank account and PNC Bank Online Banking are required. Certain other restrictions apply. See the PNC Online Banking Service Agreement.Recent changes:Enhancements to Mobile Deposit for newer devices"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yahoo! Messenger Plug-in '
+p1
+tp2
+(S'Description:'
+p3
+S'This plug-in enables voice and video  calls in the Yahoo! Messenger app********* IMPORTANT *********1. This is not a launchable app on its own, you need to install Yahoo! Messenger to enable the call features2. To call, press the menu button in a Messenger conversation and tap the voice or video option3. Video is only supported on Android OS 2.2+ (except for MyTouch 4G & EVO 4G where OS 2.3+ is required)4. Yahoo! Messenger 1.5 and higher 5. The other user needs to use Yahoo! Messenger for Android, iPhone or Windows PCVideo calling is in beta. We are aware of incoming call volume issues and we will be addressing those soon. Help us improve the product by providing feedback and specific failed scenarios with device information to: androidimfeedback@yahoo.com. Thanks!Recent changes:New in Yahoo! Messenger Plug-in v1.6- Fixed camera orientation and mirroring issues for several devices including Samsung Galaxy Tab, HTC EVO 4G (OS 2.2+), Motorola Xoom, MotorolaAtrix and HTC ChaCha - Performance and reliability improvements for sending and receiving calls'
+p4
+tp5
+tp6
+.

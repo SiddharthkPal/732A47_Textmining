@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sky News '
+p1
+tp2
+(S'Description:'
+p3
+S'Sky News \xe2\x80\x93 First for Breaking News. The Sky News mobile app is now even better, with added depth on the big breaking news stories. Delve deeper with image galleries, live blogs, graphs and interactive pictures, all optimised for your Android smartphoneYou can read all the top stories from the newsroom with sections for UK News, World News, Politics, Business, Entertainment, Strange News, and a new Technology News section. Key Features:- Enjoy a whole new level of depth on the main stories of the day - Headlines, showbiz and weather bulletins - A new technology news section - Send your breaking news story directly into the Sky Newsroom via Your ReportImportant: Access to the Phone Calls - Read Phone Status and Identity permission provides an anonymous I.D used to measure the overall number of users of the application and popularity of each section.  This data is held anonymously and is only used on an aggregate basis in order to provide insight into performance and to help inform us on improvements that will better suit customer needs.  We do not use this permission to determine your phone number or to establish who you are calling. We are investigating alternatives that do not require this permission.Recent changes:- Minor Bug Fixes'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'La tua banca '
+p1
+tp2
+(S'Description:'
+p3
+S'Scarica gratuitamente l\'applicazione di mobile banking di Intesa Sanpaolo: scoprirai il modo pi\xc3\xb9 facile e veloce per utilizzare "La tua banca".Recent changes:Migliorata notifica per nuovi aggiornamenti'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaPlace '
+p1
+tp2
+(S'Description:'
+p3
+S"Long awaited iPhone hit Instaplace is available for your Android phone!CRASH ALERT - all users with phones that have 512MB RAM - please REDUCE size of photo to 3MPIXELS in camera settings it will fix crash problem.Photos without any description are boring as hell! Add something special to them through the InstaPlace! If you like to share the photos of good meals we have special \xe2\x80\x9cdelicious\xe2\x80\x9d skin for you. Do you want to send immediately a virtual postcard from some beauty or interesting place \xe2\x80\x93 use the skin \xe2\x80\x9cgreetings from\xe2\x80\xa6\xe2\x80\x9d Maybe you want to share the photo of place which you are in love? InstaPlace have special skin for it! InstaPlace is like a swiss army knife with various edges for any occasion. You decide how to use it! Instaplace is your location overlay App for Instagram. You can share on Instagram a photos with various desciptions from the place where your are now \xe2\x80\x93 on top of your favourite photo that you have just snapped with your iPhone. By one finger move you can decide to put the description in top or bottom photo part. Ready photo, customized by InstaPlace, can be easily posted to your Instagram, Facebook or Twitter!Recent changes:NOTE: For those who cannot load the photo: free your RAM by using task killer, there are many free task killer in Google Play, then start this app and voila it's works!If it does not work limit size of photo while taking picture to 3Mpixels. It does not make your InstaWeather or InstaPlace photo look any worse!1.1.3- redesigned crop functionality- fixed possible crash bug when entering custom location"
+p4
+tp5
+tp6
+.

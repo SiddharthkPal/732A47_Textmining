@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pull Ups '
+p1
+tp2
+(S'Description:'
+p3
+S'Getting you to doing 10, 15, 20 or 25 pull ups in a row -- that is what the Pull Ups fitness app is all about.Think of the Pull Ups app as your personal fitness trainer that is going to help you build up the strength to complete those 10, 15, 20 or 25 continuous pull ups within a short few days or weeks, depending on your level of fitness.Just like a real personal fitness trainer, the Pull Ups app adjusts the exercise regimen based on your feedback how taxing you think the individual exercises are. That way, you can continue towards your fitness goal at your very own pace.Tags: pull ups, pullups, chin ups, chinups, exercises, fitness, workout, klimmzugRecent changes:- fixed a bug occurring on some Android 1.6 devices'
+p4
+tp5
+tp6
+.

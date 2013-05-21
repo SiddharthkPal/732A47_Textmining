@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Phys.org Science News Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'Daily spotlight science and technology news stories from Phys.org.This includes stories in the fields of physics, medicine, nanotechnology, electronics, space and earth sciences, biology, chemistry, computer sciences, engineering, mathematics, etc.Recent changes:Jan 17: ver.9.0.3Fixed: startup crash bug. Dec 24: ver.9.0.1Fixed: minor issues with "Mark all read" and widget.Aug-10:  ver.8.0.0New design. Fixed update problem.Jul-21: ver.7.0.33x faster load time.Multiple stability improvements and bug fixes.Jul-20: ver.7.0.2Option to move the app to SD card.Jul-18: ver. 7.0.1Ability to view comments through the app.'
+p4
+tp5
+tp6
+.

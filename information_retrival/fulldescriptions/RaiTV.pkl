@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rai TV '
+p1
+tp2
+(S'Description:'
+p3
+S'I CONTENUTI DELL\xe2\x80\x99APP RAI.TVL\xe2\x80\x99app Rai.tv ti consente di accedere alle DIRETTE TV di ben 14 canali tv Rai ((Rai Uno, Rai Due, Rai Tre, Rai Quattro, Rai Cinque, Rai News, Rai Premium, Rai Movie, Rai Sport 1, Rai Sport 2, Rai Gulp, Rai Yoyo, Rai Storia, Rai Scuola), rivedere i programmi di Rai1, Rai2, Rai3 e Rai5 che ti sei perso durante gli ultimi 7 giorni tramite RAI REPLAY, accedere ai VIDEO ON DEMAND del giorno e agli snack video da \xe2\x80\x9cTrenta Secondi\xe2\x80\x9d sui temi pi\xc3\xb9 caldi della rete, e infine accedere alle VIDEONOTIZIE delle testate giornalistiche Rai.\xe2\x80\xa8\xe2\x80\xa8Selezionando il tasto \xe2\x80\x9cDirette tv\xe2\x80\x9d avrai accesso ai programmi in onda su Rai1, Rai2, Rai3, Rai5, Rai News, Rai Sport 1 e Rai Sport 2; se il programma \xc3\xa8 di tuo interesse e vuoi ricevere una notifica la prossima volta che andr\xc3\xa0 in onda, salvalo tra i tuoi preferiti cliccando sull\xe2\x80\x99icona Favoriti (stellina).\xe2\x80\xa8\xe2\x80\xa8Selezionando il tasto \xe2\x80\x9cRai Replay\xe2\x80\x9d potrai rivedere il programma di tuo interesse selezionando il canale (Rai1, Rai2, Rai3, Rai5) e il giorno in cui \xc3\xa8 andato in onda (tramite scroll orizzontale sui giorni) oppure tramite ricerca per nome programma (icona Cerca)\xe2\x80\xa8\xe2\x80\xa8Selezionando il tasto \xe2\x80\x9cOn demand\xe2\x80\x9d potrai accedere ai video on demand del giorno, agli snack video da \xe2\x80\x9cTrenta Secondi\xe2\x80\x9d e alle ultime fotogallery dei programmi Rai. Puoi decidere di salvare i tuoi video preferiti nella sezione \xe2\x80\x9cI miei video\xe2\x80\x9d (icona Download) e rivederli anche in assenza di connessione Internet.\xe2\x80\xa8\xe2\x80\xa8Selezionando il tasto \xe2\x80\x9cVidenotizie\xe2\x80\x9d potrai accedere alle videonotizie \xe2\x80\x9cin primo piano\xe2\x80\x9d o navigare per testata giornalistica visualizzando i Tg live, le ultime edizioni integrali dei Tg e i servizi correlati (Tg1, Tg2, Tg3 e Rai Sport), le ultime videonotizie di Rai News e gli ultimi Tg regionali.\xe2\x80\xa8Vi ricordiamo che l\xe2\x80\x99applicazione Rai.tv \xc3\xa8 interamente gratuita.Recent changes:- Bug fixing'
+p4
+tp5
+tp6
+.

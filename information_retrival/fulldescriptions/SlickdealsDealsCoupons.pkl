@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Slickdeals - Deals, Coupons '
+p1
+tp2
+(S'Description:'
+p3
+S'Slickdeals is the OFFICIAL app of Slickdeals.net, the largest community-driven deal sharing site in the US. Slickdeals hosts 18 forums where users interact to share the most accurate and up-to-date information on online shopping deals. \xe2\x9c\x94 Push Notifications for Frontpage Deals: Receive a notification when the hottest community-vetted deals hit the Slickdeals Front Page.\xe2\x9c\x94 Push Notifications for Deal Alerts: Receive a notification when your deal alert keywords appear in the forums.\xe2\x9c\x94 Frontpage Deals: Vetted by our community and hand-picked by our seasoned team of deal editors with information on Price History, Product Reviews, Coupon Codes, Shipping Options and more! \xe2\x9c\x94 Local Deals: Aggregated local deals from sites like Groupon and LivingSocial. \xe2\x80\x9cMap View\xe2\x80\x9d shows you deals relative to your current location \xe2\x9c\x94 Popular Deals: Pool of deals not quite Frontpage ready, but are still great deals according to the community! \xe2\x9c\x94 Forums: From Finance to Freebies, this is the heart of the Slickdeals community. Recruit the community to assist you in looking for the best deals for particular items (Help Me Find a Deal forum), ask about how to troubleshoot your electronics (Tech Support) or simply hang out in The Lounge! \xe2\x9c\x94 Vote, Comment, Post Deals: Login to your Slickdeals account and be part of the community straight from your Android device. If you find a deal that\xe2\x80\x99s Slickdeals-worthy, go to the Hot Deals forum and submit a new thread from wherever you may be!A Slickdeals account is required to use the app. Create an account with your email, Facebook, or Google for FREE.Recent changes:v1.1.1- Bug fix for deal forums and categories not accessing the right section.v1.1- Added browsing deals by categories.- Sort by newest deals and threads instead of ones with the most recent activity- Google login support- Landscape orientation support- Frontpage Deal push notification settings- Browsing and searching deals bug fixes- SD Card support'
+p4
+tp5
+tp6
+.

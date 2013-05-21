@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OCEAN SOUND - Sound Therapy '
+p1
+tp2
+(S'Description:'
+p3
+S'Ocean Sound \xe2\x80\x93 Sound Therapy vol. 3The best nature sounds app in the market!Top quality sounds, beautifully designed and eases of use.With the help of application "Ocean sound" you can dive in the sea world anytime you want.If you listen to our apps for 10-15 minutes one hour before you go to bed, you will sleep soundly all night long.Our sound therapy apps have a subconscious influence on your brain that`s why you will start to feel joy and happiness.Psychological research shows that nature sounds and calm music reduce the negative effects of depression by 20-25 %.\xe2\x96\xa8 Ocean Sound Features \xe2\x96\xa7- This app contains professionally recorded 9 high end ocean sounds.- Designed with nice deep sea animation with ocean wallpaper photos.- Auto play, slide to play and pause. Very intuitive UI- Can set timer from 4 min to 4 hours.- Send SNS function for share with your friends and families Ocean sound is best application for relaxation, rest, and therapy. It will help you while doing yoga exercises, sport workout or singing lullaby for your baby.Best of all our apps are FREE. Enjoy the sound therapy Vol. 2 and check out our other apps by pressing \xe2\x80\x9cother apps\xe2\x80\x9d on main.Thanks!'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Electric Plasma Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Electrical plasma effect that moves across the screen.  Choose blue, green, purple, red, orange, yellow, white, random, or cycling colors.  As of March 11, 2013, this app has been updated to use OpenGL ES 2.0.  As a result, it runs faster, more smoothly, and more efficiently than older versions.This app contains no advertisements and requires no special permissions.This is a Live Wallpaper, so it is opened like other Live Wallpapers - press and hold on your home screen, then select "Wallpapers", then "Live Wallpapers", and choose "Electric Plasma Live Wallpaper" from the list.  This will bring up the live wallpaper preview screen.  To edit the settings (such as the color,) press the Settings button in the lower right corner of this preview screen.If you enjoy this wallpaper, consider purchasing Electric Plasma Wallpaper Plus.  It has a custom color picker, touch interaction, settings for symmetrical plasma patterns, and three more dynamic color options (battery power, accelerometer, and compass direction).Recent changes:April 25, 2013: Fixed a rare crash and made a few minor performance improvements.April 15, 2013:  New option - "Enable Complex Movement" - which adds more variation to the movement of the plasma.  This is disabled by default, and must be enabled in the settings.March 11, 2013: Major performance improvement - the wallpaper now uses OpenGL ES 2.0, and runs much faster and smoother as a result.'
+p4
+tp5
+tp6
+.

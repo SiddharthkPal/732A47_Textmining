@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mind Tools '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn more than 100 management, business and personal productivity skills from the MindTools.com toolkit. Build useful skills whenever you have a spare moment. Skill types include leadership, team management, strategy, problem solving, decision-making, project management, time management and personal productivity, stress management, communication, creativity and career development.Recent changes:Minor corrections.'
+p4
+tp5
+tp6
+.

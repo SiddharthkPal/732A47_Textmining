@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mushaf Tajweed - Holy Quran '
+p1
+tp2
+(S'Description:'
+p3
+S'Beautify your recitation and add color to your life with this color coded Mushaf Tajweed. This is the Holy Quran with color coded Tajweed, which are the rules of recitation. Each of the pages of this Mushaf feature color highlighted verses which will help you properly pronounce the Quran and improve your recitation.While this is the first version of this application, it offers several cool features such as:* High quality, easy to read Quran text* Full Arabic text for phones without native Arabic support* Seekbar for easy navigation of the Quran* Quran Index organizing Surahs by Juz* Support for bookmarking multiple pages* Support for landscape rotation for zoomed reading* Never forget where you left off because the application will always remember the page you were on just before exitingAnd if you stick around I plan to add many more features in the future, including recitation!Please not that it may take 10 minutes for the Mushaf to load up when first launched.Recent changes:* Added Bookmarks feature. Thank you for everyone who requested this feature* Added optimized scrolling in the Quran Index to allow scrolling by Juz* Optimized the Downloader to download smoother and quicker'
+p4
+tp5
+tp6
+.

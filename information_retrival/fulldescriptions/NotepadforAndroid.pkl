@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Notepad for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'The new multipurpose Notepad from Royal Bird team. We created for you a simple application for notes, with a new features. Write down everything comes to your mind and share with your friends.Features of the app for Android:\xe2\x80\xa2 Create text, voice and audio notes\xe2\x80\xa2 Work and shopping list \xe2\x80\xa2 Photo and video notes\xe2\x80\xa2 Drawing\xe2\x80\xa2 A variety of text and background colors\xe2\x80\xa2 Possibility to create your own folders\xe2\x80\xa2 Basket for unnecessary files\xe2\x80\xa2 Date Reminders\xe2\x80\xa2 Sort and search all your notes\xe2\x80\xa2 Password protection\xe2\x80\xa2 Sharing\xe2\x80\xa2 Widget\xe2\x80\xa2 Export / Import notes\xe2\x80\xa2 Counting the number of characters in the text\xe2\x80\xa2 Automatic data backup to SD / DropboxIn the next versions:\xe2\x80\xa2 Synchronize all devices via Dropbox (2 GB free disk space)\xe2\x80\xa2 Sharing your shopping list and text notes,possibility to organize collaborative editing\xe2\x80\xa2 Synchronization with services: Google Drive, Yandex disc.\xe2\x80\xa2 Locating records\xe2\x80\xa2 New Widgets 1x1, 2x2, 3x3, 4x4\xe2\x80\xa2 Calendar'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tasks '
+p1
+tp2
+(S'Description:'
+p3
+S'Tasks brings the full Google Tasks experience to Android.\xc2\xa0* Sync with Google Tasks at the core *Sync with Google Tasks is not just another bullet point in an endless feature list, but lies at the heart of the application. Our goal is to bring all the features you are enjoying online to your Android device.\xc2\xa0* Tuned to the whole Android ecosystem *Tasks uses the modern design language introduced with Android 4.0 Ice Cream Sandwich throughout the application.  However, that doesn\xe2\x80\x99t mean that we compromise on compatibility, as we made sure that Tasks runs on Android 2.2 or later. And whether you have a phone, a tablet or anything in between, the UI just feels right for the screen you are holding in your hands.\xc2\xa0* Additional Features *Due date remindersWidgetsMultiple Google accountsLight and dark themeIntegration into Android sharing systemSort by rearranging or by due date\xc2\xa0* Versions *Next to the paid version we also offer a free, ad-supported version which will start showing ads after 10 days. Both versions offer the same functionality and features. You won\xe2\x80\x99t lose any data if you decide to upgrade from the free to the paid version as all the data is synced with Google Tasks.\t\xc2\xa0* Move to SD card not supported due to problems with widgets *Recent changes:- In-app donations (reason for permission change)- Google Now integration (speak \xe2\x80\x9cnote to self: \xe2\x80\xa6\xe2\x80\x9d in Google Now)- DashClock Widget integration- Support for related emails for tasks added by Gmail- Ability to snooze reminders- Alphabetical sort mode- Implemented support for 3rd party widgets like Pure Calendar Widget, Agenda Widget and others- Improved Calendar Picker: Added shortcuts for today, tomorrow, next week and current day is highlighted- Indicator for overdue tasks- ...'
+p4
+tp5
+tp6
+.

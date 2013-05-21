@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dolphin Jetpack '
+p1
+tp2
+(S'Description:'
+p3
+S'Get Dolphin Jetpack - the fastest and free mobile browser with the deadly combination of Dolphin Browser and Dolphin Engine. Dolphin Jetpack uses Dolphin\xe2\x80\x99s very own HTML5 rendering engine that powers Dolphin for the best HTML5 web game and web app experiences.The nitty-gritty: Dolphin Jetpack is an improved webkit version with extensive canvas/GPU/JavaScript enhancement and behind-the-scenes technology, which makes Dolphin Browser the highest performing HTML5 browser according to a number of tests and benchmarks. How fast? With Dolphin Jetpack, Dolphin Browser is:\xe2\x80\xa2\t5 - 10X faster than the default Android browser and 2X faster than Chrome \xe2\x80\xa2\tScored highest when tested on HTML5test.com (HTML5test.com is an industry respected tool for testing a browser\xe2\x80\x99s su\xc2\xacpport of HTML5)\xe2\x80\xa2\tFirst and only browser to make it to the final ring of Ringmark\xe2\x80\x99s benchmark test \xe2\x80\xa2\tScored highest on Google\xe2\x80\x99s benchmark test Octane. \xe2\x80\xa2\tScored highest on JavaScript V8 Benchmark\xe2\x80\xa2\tScored highest on industry standard benchmark test, SunspiderBut wait there is more. Dolphin Jetpack also brings you some extra features including:\xef\x83\xbc\tFast back and forward browsing by saved content instead of reloading. \xef\x83\xbc\tImproved night mode supportKeep in mind:\xef\x83\x98\tTo use Dolphin Jetpack you must have an OS of Android 2.3 or 4.0+. Check out the full list of Dolphin Jetpack tested devices: http://dolphin-browser.com/full-list-of-tested-devices/\xef\x83\x98\tMust be used with Dolphin Browser v9.0 and aboveWe love to hear your feedback so shoot us an email at support@dolphin-browser.com and if you like what you see please take a minute to rate us!Website: www.dolphin-browser.com Join Dolphin Facebook Fan page: http://www.facebook.com/DolphinFans Follow Dolphin on Twitter: https://twitter.com/#!/DolphinBrowserRecent changes:Fix crash bug, improve stability'
+p4
+tp5
+tp6
+.

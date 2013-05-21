@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Galaxy Tarot '
+p1
+tp2
+(S'Description:'
+p3
+S'Imagine...connecting with your inner wisdomand finding crystal clear answers,a comforted heart, and a calm mind.Imagine doing that instantly, any time, any place.Welcome to Galaxy Tarot. An Oracle for the 21st Century.*** Tarot Card Reader & Tarot Encyclopedia ***Pull Cards, Cast Tarot Spreads and learn all about Tarot Cards!Features:- High definition images featuring the classic Rider-Waite deck. Looks beautiful on phones and tablets.- Three Tarot Spreads to choose from.- Interpretations from Galaxy Tarot\'s in-house Tarot expert, A.E. Waite\'s "Pictorial Key to the Tarot", and easy access to Wikipedia entries on each card.- Reversed card option including keywords and unique interpretations for every card.- Tarot encyclopedia linking each card to its symbols, suit, and number.- Card of the Day widget- Two stunning application themes, featuring high definition backgrounds and card backs.- Fully customizable Tarot deck; ability to shuffle deck, choose each card, or go instantly to your reading.- A unique spread analyzer that helps you understand the trends in your readings.- Ability to share spreads and cards using email and many other applications.- Ability to turn reversed cards, animations and sounds on or off, receive a notification of your Card of the Day, and many more ways to customize the app.Included spreads:- One Card- Past, Present, Future- Celtic Cross- RelationshipFollow us on Twitterhttps://twitter.com/galaxytoneJoin us on Facebookhttps://www.facebook.com/GalaxyTarotRecent changes:All new Galaxy Tarot 2.0 update. We\'re very excited to introduce this all new gorgeous high definition Tarot experience. Now optimized for new phones and tablets.Please email us (feedback@galaxytone.com) if you experience any issues or have any comments on our new release and we will do everything we can to address any concerns. We are unable to respond directly to you via your rating.'
+p4
+tp5
+tp6
+.

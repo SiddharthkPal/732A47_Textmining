@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CASHapp '
+p1
+tp2
+(S'Description:'
+p3
+S'De CASHapp voor Android geeft u in \xc3\xa9\xc3\xa9n oogopslag inzicht in de belangrijkste cijfers van al uw administraties, waar u ook bent. Ook heeft u altijd alle relatiegegevens voor handen en kunt u ter plekke notities toevoegen of uw uren registreren.CASHapp voor CASHWeb gebruikersMet de CASHapp kunt u belangrijke gegevens van al uw CASHWeb administraties benaderen wat handig kan zijn als u onderweg bent. CASHWeb is de online software van Cash voor het eenvoudig automatiseren van al uw bedrijfsprocessen; van boekhouden tot ERP. Met de CASHapp kunt u van al uw administraties:- Het dashboard (grafisch overzicht) bekijken, zoals door uzelf ingesteld in CASHWeb- Uw relatiegegevens/contacten/leveranciers/leden raadplegen. Maar ook direct bellen, e-mailen of een routebegeleiding starten. Handig voor onderweg!- Notities toevoegen aan relaties- Direct uw uren registrerenAanvullende mogelijkheden:- Demo administratie openen om de werking van de CASHapp te zien- Een CASHWeb proef aanvragen, waarmee u ook de CASHapp kunt gebruiken- Direct vragen, opmerkingen of problemen omtrent de CASHapp mailen- En binnenkort nog veel meer, want wij blijven ontwikkelen\xe2\x80\xa6 voor u!Om de CASHapp te kunnen gebruiken heeft u een CASHWeb abonnement nodig of een Cash Webservices abonnement (voor CASHWin klanten die online werken). Voor meer informatie, een gratis proef of online demonstratie: www.cash.nl De CASHapp is een handig onderdeel van de Cash Webservices; gratis volautomatische koppelingen met externen. Zoals; ABN AMRO, Rabobank, Belastingdienst, webwinkel, online kassa, scanboeken, incasso, accountancyportal etc.'
+p4
+tp5
+tp6
+.

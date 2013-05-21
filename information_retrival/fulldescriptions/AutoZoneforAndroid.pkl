@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AutoZone for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'The AutoZone App streamlines your shopping experience. Get unlimited access to AutoZone\xe2\x80\x99s free vehicle repair guides. Easily find the parts and accessories you need. Create shopping lists, check availability and pricing, locate a store, track your Rewards and more. Get in the Zone - AutoZone!Recent changes:- Fixed problem with HTC EVO'
+p4
+tp5
+tp6
+.

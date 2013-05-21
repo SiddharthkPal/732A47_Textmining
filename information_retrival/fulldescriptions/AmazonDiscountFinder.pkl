@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon Discount Finder '
+p1
+tp2
+(S'Description:'
+p3
+S'Amazon Discount Finder: browse the latest hottest items on amazon and directly find the discounted products! Find incredible discounts in all categories including books, electronics, cameras, DVDs, computers, clothes and more...'
+p4
+tp5
+tp6
+.

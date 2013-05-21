@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Monster call (free SIP, mVoIP) '
+p1
+tp2
+(S'Description:'
+p3
+S'If you have the existing installation, please delete and reinstall.Monster call 1.4.1 beta3 version.You can use that application on every network type.In your home, in your office, coffee shop~  LOL :)(Wi-Fi, LTE/4G, 3G, 2G..)Monster call will giving you good quality for call with everyone. Now, you can exciting with monster call!If you have a problem, please contact to me!1. Free call for domestic First, enter the phone number normally and then push call button. secondary, push the free domestic call button in the selection menu. the ountry code(ex:korea 82, china 86..) add automatically. 2. Free call for international First, enter the country code and normal phone number and then push call button Secondary, push the free international call button in the selection menu Ex) Call to china county code(86) + (mobile)18319995310 86183199310[call] -> Push [Free international call] When there is "0" in front of telephone number, you have to enter the number except "0" Ex) Call to sanghai 021-234-4455 Enter the number 86212344455 and then call Developed by open source.Available country for call:Republic of Korea, Japan, USA, Canada, India, Taiwan, Singapore, Indonesia, Malaysia, Hongkong, Thailand, VeitnamRecent changes:* Quick fix for none USIM card- Distributed Servers- Improve the call quality- Good quality in a weak network signal- Call volume adjusted upward- Some bugs fixed'
+p4
+tp5
+tp6
+.

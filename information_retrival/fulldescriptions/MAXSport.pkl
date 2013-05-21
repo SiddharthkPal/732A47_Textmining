@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MAX Sport '
+p1
+tp2
+(S'Description:'
+p3
+S'Max Live Sport er en helt gratis s\xc3\xa5kalt \xc2\xabsecond screen\xc2\xbb l\xc3\xb8sning som fungerer som en utfyllende tjeneste til live-sportssendingene p\xc3\xa5 MAX. P\xc3\xa5 MAX Live Sport f\xc3\xa5r du et live hendelsessenter med repriser av m\xc3\xa5l og viktige hendelser, resultatlister og odds, informasjon om lag og spillere samt muligheten til \xc3\xa5 stemme p\xc3\xa5 banens beste spiller og vinne fine premier. MAX Live Sport inneholder IKKE selve sportssendingen. Denne vises p\xc3\xa5 MAX eller p\xc3\xa5 TVNorge nett-TV (webtvny.tvnorge.no).'
+p4
+tp5
+tp6
+.

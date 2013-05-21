@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ABC for Kids All Alphabet Free '
+p1
+tp2
+(S'Description:'
+p3
+S"A very fun way for toddler to learn English Alphabets.* Full ABC* All Alphabets includes letters A to Z and is fully-featured.* Without any restrictions* Real sound and human pronunciationsLet your kids learn English Alphabets in an easier way by relating each Alphabet with an object. Sounds interesting right? :) :)AD-SupportedTeach your children to write the letters of the alphabet while having fun!\xe2\x80\x9cABC for Kids\xe2\x80\x9d is an educational game Features:Human voice for AlphabetsImage of each AlphabetOn touch you can listen to sounds againSlideshow is Available where you can sit back and watch your kid learnSocial Media IntegrationWe love to hear from parents \xe2\x80\x93 and from children, too. To tell us how we made a difference in your child's education or , please rate our app and post a comment.Preschool aged children learn the alphabet letter names and letter recognition, and will practice finding letters in context.This simple educational game teaches children the alphabet letters to recognize words as they appear. As a result, preschoolers learn the letters of the words are made of.At this age, should be enjoyed learning about letters and numbers. Workbooks can be a lot of time when your child goes to school.When spending time together, letters and numbers when you look at them and point out additional learning and encourage curiosity.Keywords: Kids, ABC, ABCs, Letters, Reading, Educational, Children, Games, Preschool, Preschool-aged,alphabet ,game, learning ,teaching apps for kids, baby ,toddler , flashcards, pronunciation, abcd, kid, Child, School, Kindergarten,  Phonics, ReadingRecent changes:Monkey picture changedBack button disabled.Fixed some errors.Efforts given to show appropriate ads.French Added.Spanish sound changed with better clarity.Spanish H sound changed.Increased volume in Spanish.Added support for Spanish.This application is under development.Kindly send your feedback to improve application."
+p4
+tp5
+tp6
+.

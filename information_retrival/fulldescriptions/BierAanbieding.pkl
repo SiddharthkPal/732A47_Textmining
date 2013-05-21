@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bier Aanbieding '
+p1
+tp2
+(S'Description:'
+p3
+S'In een overzicht alle kratjes bier die momenteel bij de supermarkt en groothandel in de aanbieding zijn. Altijd up to date!Heineken - Amstel - Bavaria - Grolsch - Hertog Jan - Jupiler - WarsteinerAlbert Heijn - C1000 - Plus - Dirk/Bas/Digros - Makro - Sligro - LidlRecent changes:1.2 - afbeeldingen kratjes bier toegevoegd1.2 - info aan menu toegevoegd1.3 - aanbiedingen blikjes en flesjes toegevoegd'
+p4
+tp5
+tp6
+.

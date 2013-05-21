@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Funny Jokes '
+p1
+tp2
+(S'Description:'
+p3
+S"#1 Jokes app for Android!Have a laugh at thousands of funny jokes, and add your own.- Thousands of Free Funny Jokes in many categories (Chuck Norris Facts, Yo Momma jokes, dirty jokes, blonde jokes, riddles,..)- Send jokes via SMS, text message, Twitter or Facebook- Add your own funny comment on jokesIn this free app you're guaranteed to find a funny joke to put in your Facebook status or send abh a text message. At least twice as fun. Impresses your friends more than a funny ringtone! You'll slap yourself on your forehead for not downloading this app earlier! This is one of the most popular free apps on the Android market. The great humor you will get from this app rubs off on you! Try it now and you'll see how funny it is.Recent changes:- new category: funny videos!- follow people to see their jokes- vote on commentsInstall now and join the Fun!"
+p4
+tp5
+tp6
+.

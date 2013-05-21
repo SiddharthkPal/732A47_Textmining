@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wondershare PowerCam HD '
+p1
+tp2
+(S'Description:'
+p3
+S"Have great fun with photosPowerCam is a powerful yet easy-to-use camera app. All the tools you need to capture and share fantastic photos can be easily found right here in this elegant and easy to master Android app. Its iOS version has rocked the iOS community when it launched in December of 2011 and has since accumulated over 60 Million downloads in 11 months with almost 30 million users on the Apple iTunes App Store; earning the app coveted \xe2\x80\x9cApp of the Week\xe2\x80\x9d and \xe2\x80\x9cStaff Favorites\xe2\x80\x9d status in the App Store. PowerCam is also the #1 iphoneography app in dozens of countries.\xe2\x98\x85PowerCam's Super Powers\xe2\x98\x85Cool Filters & EffectsPowerCam gives you tens of cool filters and effects letting your creativity shine. More filters and effects keep coming to surprise you.Tilt-ShiftTilt-shift is a unique type of photography in which the life-sized location or subject looks like a miniature-scale model. Usually, a powerful camera equipped with a tilt-shift lens is required. Now, PowerCam is all you need. Shoot subjects from a high angle (especially from the air), select the focus in 2 ways, and done.FaceTimer (requires front-facing camera)Advanced face tracking technology makes portrait shooting easier than ever. All the faces in the frame will be recognized and focused automatically. 3, 2, 1, smile~PanoramaPanorama is a popular way to represent landscapes and historical events in wide angle photos. In PowerCam, one seamless panoramic image can be easily created by slowly moving the phone and capturing overlapping frames. CollageMerge several photos into a single stunning one with various frame styles, colors and different layouts in taps.Social SharingAfter capture, the photo can be immediately posted to Facebook, Twitter, and even emailed in one step only.Send us your comments and suggestions by visiting http://powercam.wondershare.com/ to help us make PowerCam better.Find Us:Website: http://powercam.wondershare.com/ Facebook: http://www.facebook.com/PowerCamAppTwitter: https://twitter.com/#!/PowerCamAppTumblr: http://www.powercam.tumblr.com/Pinterest: http://pinterest.com/powercam/pins/"
+p4
+tp5
+tp6
+.

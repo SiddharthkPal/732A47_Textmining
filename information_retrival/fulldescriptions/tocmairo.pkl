@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'tocmai.ro '
+p1
+tp2
+(S'Description:'
+p3
+S'tocmai.ro e alaturi de tine si pe Android. Usor de utilizat atat de cumparatori, cat si de vanzatori.Vinzi si cumperi, simplu si rapid, direct de pe telefonul tau.'
+p4
+tp5
+tp6
+.

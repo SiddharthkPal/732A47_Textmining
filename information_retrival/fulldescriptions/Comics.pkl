@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Comics '
+p1
+tp2
+(S'Description:'
+p3
+S'The largest digital comic library with over 20,000 comics available including over 600 for free. Publishers include Marvel Comics, DC Comics, Image, IDW, Archie & many more!Purchases made here can be read on the web, too, at www.comixology.com.The only comic reader and store with Guided View Technology, which Wired.com says "solves the problem of reading comics on the small screen."(In case you were wondering... This app requires the "Coarse(network-based) location" permission only to help direct you to the nearest comic retailers in your area as part of the "Buy in Print" feature. comiXology respects your privacy, and we do *not* collect or store this sensitive location data! We hope this clears up any concerns you may have regarding permissions.)Recent changes:New for 3.2.8.24200:* Significant bug fixes and app stability improvementsNew for 3.2.5:* The return of CONTINUE! Automatically save your place\xe2\x80\xa6so you can pick up reading where you left off on your devices.* Newly enhanced \xe2\x80\x9cMy Comics\xe2\x80\x9d view: sort by Series, Creator, Genre, Shoe Size, etc. OK, maybe not shoe size, but you get the idea.* Manage comics on your device from \xe2\x80\x9cMy Comics\xe2\x80\x9d. Woo!* New font! Roboto font on every device for crisp and pleasant text.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Emoji for Contacts+ '
+p1
+tp2
+(S'Description:'
+p3
+S'Emoji+ is a plugin for Contacts+, a free all in one contacts, dialer & SMS app. IMPORTANT: You MUST have Contacts+ installed to enjoy Emoji+ !  With Emoji+ you can express yourself however you want by adding a variety of Emoji when sending text messages to Android or iPhone devices.After installing the plugin your Emoji will automatically appear inside Contacts+ messaging screen, and will be sent as a regular text message (SMS) or via Contacts+ free messaging service.  NEED HELP?  please email us: support@contactspls.com _____________CONTACT US:We\xe2\x80\x99re always happy to get your feedback and answer any questions at: info@contactspls.comFacebook: facebook.com/contactsplsTwitter: twitter.com/contactspluswww.contactspls.com'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gallery ICS '
+p1
+tp2
+(S'Description:'
+p3
+S'Gallery ICS is a version of the official Gallery app included on Ice Cream Sandwich (Android 4.0).Our goal is to allow any Android phone or tablet can enjoy this great gallery! We are working on improving the compatibility.If you want to help us to continue working on this project you can purchase "Camera ICS+" or "Camera JB+" app.Unfortunately, integrated photo editor requires Android 4.0+Please contact us at moblynx.us@gmail.com if you have any problem. We are delighted to receive any feedback.Thanks for your support!Recent changes:0.3.2Compatible with Android 2.2Fixed not visible video folders0.3.1Fixed FC when opening picture0.3cFixed incorrect thumbnailsFixed scroll bug0.3Hide foldersSort folders by date/nameNew effect(fx): PencilFixed some photo editor bugs on Samsung Galaxy S20.2Compatible with Android 2.3+ devicesIntegration with Camera ICS0.1First beta versionOnly compatible with Android 4.0+'
+p4
+tp5
+tp6
+.

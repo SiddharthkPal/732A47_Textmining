@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Xplay music player '
+p1
+tp2
+(S'Description:'
+p3
+S'"Xplay" - is a handy music player for android with an equalizer visualization, management of your playlists and music library.Key features:- Browse your music library and playlists upravelnie (delete, edit, create).- Playing in folders.- Gorgeous design.- Evalayzer with the ability to save presets, create and edit presets.- Effects Bass bust, virtualizer- Ability to edit the tags.- Two lock screen widget widget and four desktop.- Six types of visualization.- Many options allow the player to tune for themselves for every taste.- Operation with headsets (three-button single-button, and).- Rating system.- Control the volume using the buttons.Recent changes:Minor fixes.'
+p4
+tp5
+tp6
+.

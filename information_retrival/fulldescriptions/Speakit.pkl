@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Speak it '
+p1
+tp2
+(S'Description:'
+p3
+S'The text to speech, word pronunciation application. Enter text in one of 5 languages and hear the pronunciation of the word. Ability to check how you pronounce phrasesControl pitch and speed of the pronunciations with an easy slide indicator.Added ability to load and save text for future use.Shortcut to an offline multi language dictionary to help translating text.Recent changes:Added the ability to check how you pronounce phrases'
+p4
+tp5
+tp6
+.

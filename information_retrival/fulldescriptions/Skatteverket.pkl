@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Skatteverket '
+p1
+tp2
+(S'Description:'
+p3
+S'Du vet v\xc3\xa4l om att Skatteverket finns i din smartphone och surfplatta och du kan deklarera  om du har f\xc3\xa5tt s\xc3\xa4kerhetskoder eller om du har ett Mobilt BankID. Du kan - se vilka f\xc3\xb6rtryckta uppgifter som finns i din deklaration- se vilka som l\xc3\xa4mnat kontrolluppgifter under Inkomster tj\xc3\xa4nst, Inkomster kapital och Avdrag kapital- se om det lagts till eller tagits bort kontrolluppgifter efter f\xc3\xb6rtryckningen av din pappersdeklaration - g\xc3\xb6ra avdrag f\xc3\xb6r resor till och fr\xc3\xa5n arbetet- ber\xc3\xa4kna din prelimin\xc3\xa4ra skatt- anm\xc3\xa4la eller \xc3\xa4ndra bankkonto f\xc3\xb6r \xc3\xa5terbetalning av skatt- l\xc3\xa4mna eller \xc3\xa4ndra kontaktuppgifter- skriva under och skicka in deklarationen om alla uppgifter \xc3\xa4r riktiga- se kontaktuppgifter f\xc3\xb6r Skatteverket- l\xc3\xa4mna anonym feedback till Skatteverket- dela p\xc3\xa5 Facebook Vill du g\xc3\xb6ra andra avdrag eller \xc3\xa4ndringar m\xc3\xa5ste du deklarera p\xc3\xa5 Internet med e-legitimation i st\xc3\xa4llet. L\xc3\xa4s mer om Skatteverket i mobilen p\xc3\xa5 http://www.skatteverket.se/mobilRecent changes:Buggfixar f\xc3\xb6r framf\xc3\xb6rallt Android 2.3.'
+p4
+tp5
+tp6
+.

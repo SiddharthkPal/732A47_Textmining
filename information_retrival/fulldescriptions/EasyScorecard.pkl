@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Easy Scorecard '
+p1
+tp2
+(S'Description:'
+p3
+S"Easy Scorecard is designed to replace your paper golf or disc golf scorecard. Features:* 9/18/27/custom-holes scoring (36-hole support for disc golf)* Scoring for more than 4 players* Email scorecard in HTML/CSV* Share scorecard via Facebook/Twitter* USGA/EGA/CONGU Handicap tracking* Primitive rangefinder using phone's GPS* Scoring statistics* Disc Golf friendly* Handicap tracking for Disc golf (methods: discgolf.com and PDGA-like rating system)* Stableford scoring* Nassau side game== Permissions Usage ==* Read Phone State - Required by the Millennial Media ads network, Easy Scorecard Pro doesn't need or use this permission. If you like this app, also check out Easy Scorecard Pro, which has a lot more features!Follow this app on Facebook! http://www.facebook.com/easyscorecardOn Twitter: http://twitter.com/easyscorecardRecent changes:1.2.8h Changes -* Minor bug fixes* Removed READ_CONTACT permission for those paranoid users. This means there won't be contact read-ahead lookup while adding new player profiles."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LivingSocial '
+p1
+tp2
+(S'Description:'
+p3
+S"Want to save 50%-90% on restaurants, spas, gyms, vacations and more? Download our free Android app to access LivingSocial's daily deals. Each day, we'll introduce you to a new, cool thing to do in your city -- and give you a HUGE discount while we're at it.Deals...in your pocketWhy check email? With our free app, deals are pushed to your Android device every day. Just click to view the deal and buy directly on your phone. It's that easy!Unique Live EventsWe produce our own unique events like Sushi & Sumo, 5K Glow in the Dark Fun Run, LivingSocial BeerFest, and more. With our Android app you'll get access to these awesome events you won't find anywhere else!Share the loveWhen you buy a deal, tell your friends. Email or tweet your deals in one easy click. Why? If three of your friends buy the deal, you'll get yours for free.Save the earthNo more printing. Simply open the voucher in the Android app and show it to the merchant. No paper; no hassle; no trees being felled in the forest.Recent changes:Version 1.8.4 (2013-04-04)-----------------------\xe2\x98\x85 This release fixes several bugs that caused crashes on certain devices.\xe2\x98\x85 Fixed the display of Escapes on the Nexus 4. We're really sorry for the trouble.Version 1.8.3 (2013-03-11)-----------------------\xe2\x98\x85 PayPal Support: Typing out a credit card on your phone is hard, so we've added support for PayPal.\xe2\x98\x85 Various minor bug fixes and performance improvementsIf you have any questions or problems please email us at android@livingsocial.com."
+p4
+tp5
+tp6
+.

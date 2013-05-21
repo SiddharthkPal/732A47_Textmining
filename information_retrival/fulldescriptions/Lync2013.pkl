@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Lync 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'You need to have a Lync account already to use this app. Also, some functionality might require an update to Lync Server or might not be available to all users.  If you\xe2\x80\x99re not sure about your account status, please contact your IT department. Lync 2013 for Android extends the power of Lync to your mobile device \xe2\x80\x93 including voice & video over wireless, rich presence, instant messaging, conferencing, and calling features from a single, easy-to-use interface. Key Features:- View colleagues\xe2\x80\x99 availability in real time and select the best way to communicate \xe2\x80\x93 initiating an instant message (IM), email, voice or video call.- Connect to Lync Meetings with a single touch, without requiring long numeric passcodes or conference numbers. - Forward or simultaneously ring calls to your Enterprise Voice (Lync ID) number so you\xe2\x80\x99ll never miss a call.- Lync 2013 for Android provides transport layer security (TLS) and perimeter/internal network protection without requiring a VPN, so your communications experience is safer no matter where you are or what network you use.IMPORTANT: THIS SOFTWARE REQUIRES CONNECTIVITY TO VALIDLY LICENSED COPIES OF MICROSOFT LYNC SERVER OR OFFICE 365 / LYNC ONLINE AND WILL NOT WORK WITHOUT IT. UPDATES TO MICROSOFT LYNC SERVER MAY BE REQUIRED FOR PROPER PERFORMANCE. SOME FUNCTIONALITY MAY NOT BE AVAILABLE IN ALL COUNTRIES. IF YOU ARE UNSURE ABOUT YOUR COMPANY\xe2\x80\x99S LICENSE TO AND/OR DEPLOYMENT OF LYNC, PLEASE CONTACT YOUR IT DEPARTMENT.'
+p4
+tp5
+tp6
+.

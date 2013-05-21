@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English Khmer Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'With over 31000 English - Khmer words and nearly 17000 Khmer - Khmer , this is the most sufficient free English - Khmer, Khmer - Khmer offline dictionary for android with words updated regularly in term of quantity of words and their meaning.Program has attractive interface, easy to use with function of automatically saving 150 newest words (History), and allows you to save and delete your saved words (Saved words).If you have any questions or suggestions for programs, please send mail to the address nhudinhtao@gmail.comNote:1. Click button Menu on device and select English -> Khmer or Khmer -> Khmer to change dictionary (Default is English -> Khmer)2. Please using with Khmer keyboard.'
+p4
+tp5
+tp6
+.

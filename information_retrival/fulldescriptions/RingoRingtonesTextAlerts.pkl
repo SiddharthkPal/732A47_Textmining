@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ringo: Ringtones & Text Alerts '
+p1
+tp2
+(S'Description:'
+p3
+S"Set custom Ringtones, SMS Tones and Text Tones easily - with personal tones for each of your friends and contacts!Ringo is a fun and powerful way to set unique ringtones and SMS tones for each of your contacts. Simply pick your friends inside Ringo and pick a ringtone or SMS tone - you'll know instantly who is texting or calling you!For further features - including caller announcing and SMS announce, check out Ringo Pro which lets you use any music as an MP3 ringtone or SMS tone, SMS nag - even set different tones, lights and vibrates for each contact!Please note that the HTC EVO 4G LTE currently has a problem with custom ringtones. If you have one of these and you don't hear the tone you expect for a call, you are experiencing this problem. HTC say they'll fix it in their next update.Recent changes:1.4.17 - a tone management improvement.If you have any trouble with Ringo, please send us a mail so we can investigate."
+p4
+tp5
+tp6
+.

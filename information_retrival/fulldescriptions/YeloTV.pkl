@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Yelo TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Yelo TV: films, series, live tv \xc3\xa9n je opnames bekijken op je smartphone en tablet.VOOR IEDEREEN MET INTERNET EN DIGITALE TV VAN TELENET-------------------------------------------------------------------------> FILMS, SERIES, LIVE TV & JE OPNAMES BEKIJKEN Yelo TV, dat is genieten van live tv, films en series, overal met Wi-Free van Telenet. En je opnames, die bekijk je thuis op je smartphone of tablet!> TV-GIDS & OPNAMES BEHERENOntdek wat er de komende 2 weken op tv is met de handige TV-gids. En je hoeft niets te missen! Plan en beheer simpelweg je opnames op je Digicorder waar je ook bent, met Wi-Free of over 3G, 4G\xe2\x80\xa6> GOED OM TE WETENVoor Yelo TV heb je het volgende nodig:- internet van Telenet- Digitale tv van Telenet- Je Telenet-login Volg ons op Facebook en Twitter\xe2\x80\xa2\twww.facebook.com/telenet  \xe2\x80\xa2\twww.twitter.com/telenetRecent changes:\xc2\xb7         Meer stabiliteit bij live tv-kijken en bij opnames bekijken\xc2\xb7         Duidelijkere foutboodschappen bij eventuele streamingproblemen\xc2\xb7         Duidelijker symbool voor het wissen van geplande opnames'
+p4
+tp5
+tp6
+.

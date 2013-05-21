@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Times of India '
+p1
+tp2
+(S'Description:'
+p3
+S'Get The Times of India\xe2\x80\x99s complete and up-to-date coverage of everything that is relevant and interesting \xe2\x80\x94 anytime, anywhere. This app, designed and developed for Android devices, brings you breaking news and unrivalled coverage of national, international, city, sports, entertainment, lifestyle, business, health, science and technology topics from India\xe2\x80\x99s most-read and most-trusted newspaper. It comes with Push Notifications, live cricket scorecard; local news from more than 40 cities; latest movie reviews by critics as well as readers; superb photo galleries; and top videos from news, business, sports, entertainment and lifestyle categories. You can read stories or view photos in landscape as well as portrait mode. The app is highly customizable. You can set your favourite city, change the background colour, and increase or reduce text size. You can save articles/photos for offline reading/viewing, and share articles and photos via email, SMS, Facebook or Twitter. The Times of India\xe2\x80\x99s Android app is optimized for the Android platform\xe2\x80\x99s 2.3 and above.Recent changes:- Removed all unnecessary permissions- Fixed issue of widget not being created on some devices- Removed refresh bar from bottom and introduced new and easy "pull-down-to-refresh"- Fixed crash while playing certain videos- Built to include all earlier enabled devices- Stabilized ad integration'
+p4
+tp5
+tp6
+.

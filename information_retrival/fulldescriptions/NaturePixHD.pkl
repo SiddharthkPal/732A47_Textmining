@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NaturePix (HD) '
+p1
+tp2
+(S'Description:'
+p3
+S'NaturePix (HD) provides 20,000 extra high quality Nature wallpapers for your mobile device with daily updates!Features:- Browse HD Nature picture and backgrounds- Supports 1920x1200, 1600x1200, 1200x1024, 960x854, 640x480- Download and save HD wallpaper- Sort by freshness and download times- Exact size preview (scrollable wallpapers)- Keyword searching for the whole wallpaper database- Share wallpaper to facebook, twitter, SMS.- Small (fast speed) or Large (high quality) thumb viewing.- Fast and stable server connection.We put much afford to categorize the wallpapers into a well define 2-level categories structure, including:AutumnBeachesDesertFlowersForestForest(Bamboo)FruitsGreen Garden and FieldHigh Dynamic RangeLandscapeLightning & StormsMinimalist NatureMountainNational Geographic 2011Other Nature SceneryPanoramic LandscapesPhoto ManipulatedPlantsRainbowRiversSeashore & WaterscapesSky / SunsetSpaceSpringWaterfallsWinterRecent changes:v2.1.5- Allow user to download "Original size" wallpaper with 2.5MB filesize limit (previously is 2MB).v2.1.4- Allow user to download "Original size" wallpaper (for those file size < 2MB). Enjoy!!v2.1.3- Total wallpapers reach 18,000 !- Allow user to download very large size: "1920x1200" (Wide) and "1920x1080" (HDTV), good for Android Tablet.- Allow user to download "480x360", good for phone with small screen.'
+p4
+tp5
+tp6
+.

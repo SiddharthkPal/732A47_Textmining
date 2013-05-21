@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ovulation Calendar & Fertility '
+p1
+tp2
+(S'Description:'
+p3
+S'Tip the odds of getting pregnant in your favor by tracking your most fertile days.** Over 500,000 Downloads! ** ** Super! 84 Score on AppsFire ** ** What Our Users are saying: *** \xe2\x80\x9cI got pregnant!! Conception was the exact same day that this app read that I was ovulating. Happy Mother To Be!\xe2\x80\x9d - Lady Margarette \xe2\x80\x9cThis is an easy way to track my ovulation and periods\xe2\x80\x9d - Reneze \xe2\x80\x9cThis app is awesome!!! It\xe2\x80\x99s very easy to use and if you want to get pregnant it\xe2\x80\x99s the way to keep track.\xe2\x80\x9d - Jacqueline Adap \xe2\x80\x9cGives you exactly the info you want -- no extra fiddly bits. Perfect for baby planning!\xe2\x80\x9d - Sarah FEATURES Longing for a baby? The Ovulation Calculator can tip the odds of getting pregnant in your favor to help make your dreams a reality. Each month you have a small fertile window, usually 10 to 18 days after the first day of your period. The Ovulation Calculator helps you quickly determine your most fertile days based on the date you provide and your cycle length:\xe2\x97\x8f\tEnter the first day of your last menstrual period\xe2\x97\x8f\tEnter the length of your menstrual cycleThe Ovulation Calculator instantly determines your 6 most fertile days in the current month and in each of the following 4 to 5 months, giving you a better understanding of your monthly cycle. The results also include the baby\xe2\x80\x99s due date should you happen to conceive during that month.Having easy access to this important information allows you to take advantage of your most fertile days and increase your odds of conception.Whether you\xe2\x80\x99ve been trying to get pregnant for a while or are just starting to think about having a baby, the Ovulation Calculator is a great first step towards your ultimate goal \xe2\x80\x94 a baby to love!Recent changes:Version 3.1.10- Chinese and Korean support Version 3.1.9- French, German, Spanish and Japanese support- Bug fixesVersion 3.1.7- Fixed a crash when entering 20 days as your period length.Version 3.1.5- Calculating now works. We are sorry to those effected by the recent bugs.Version 3.1- Added wonderful feature where the application actually opens!Sorry for any inconvenience the previous version may have caused.Version 3.0- Brand new layout!'
+p4
+tp5
+tp6
+.

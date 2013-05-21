@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'InstaPicFrame for Instagram '
+p1
+tp2
+(S'Description:'
+p3
+S'This app has powerful functions and it is very easy to use. You can use this app to merge lots of photos into one photo through a very simple operation.and you can post the photo to instagram.Features1.You could customize the style or use templates to merge photos.2 Shake your iPhone/iPod touch to change the photo template.3 Provides a lot of beautiful frames and background templates to make the result photo much more beautiful.4. You could share your photos to instagram, Facebook, Twitter, Tumblr and Flickr.Recent changes:fix some bugs'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jiffy - Time tracker '
+p1
+tp2
+(S'Description:'
+p3
+S"Jiffy is a time tracking tool conceived, designed and developed by people who need to track time for people who need to track time.Jiffy's beauty is in its simplicity. We have designed every element of the application for use by real people who need to keep track of their time. You don't need an account to use Jiffy so download it now and get a new perspective on time tracking, time management and time recording.Whether you have one customer or many, a formal project, varied tasks or a repeated job, Jiffy is designed for you. Time tracking and summary views by client, project and day or week, Jiffy has all of these things and more.At its core, Jiffy is a simple start/stop function. It's like having a stopwatch on your smartphone or tablet for all the jobs that you need to track.The intuitive interface also offers:o\tEasy set-up of new tasks, projects and clients, including colour-coding for improved navigationo\tA familiar calendar lookalike view of the time you have recordedo\tRetrospective entry and editing of time keeping recordso\tSimple yet powerful reports with grouping by customer or projecto\tExport function to extract data for use in other applicationso\tSophisticated dashboard providing an overview of the current week's time tracking.Jiffy's simple interface and powerful functionality mean that you can use it for any type of time tracking - even for keeping a record of overtime at work or how long it takes to complete different household chores!And because Jiffy is designed for use by humans, it even allows you to set start and end times manually if you forget to start the clock at the beginning of an appointment or phone call.Jiffy on Android is built for Android, following the Android user interface guidelines. The clean, uncluttered screen designs do not overload you with functions and data. Jiffy is actively maintained and developed.Jiffy is a Freemium app, fully usable and you only pay for the extras you need.If you want to more about Jiffys permission usage, please see http://www.jiffy.nu/permissionsRecent changes:- Fixed crash when pressing OK on Add project screen when showing the purchase information- Fixed translation errors- Changed notification layout- Changed project card layout to allow for longer project names- Improved naming of exported reports"
+p4
+tp5
+tp6
+.

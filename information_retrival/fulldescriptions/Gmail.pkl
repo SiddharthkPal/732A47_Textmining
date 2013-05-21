@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gmail '
+p1
+tp2
+(S'Description:'
+p3
+S"Gmail is built on the idea that email can be more intuitive, efficient, and useful. And maybe even fun. Get your email instantly via push notifications, read and respond to your conversations online & offline, and search and find any email. Gmail also lets you:\xe2\x80\xa2 Manage multiple accounts\xe2\x80\xa2 View and save attachments\xe2\x80\xa2 Set up label notificationsRecent changes:Android 4.1 (Jelly Bean) and up:\xe2\x80\xa2 Reply, archive or delete from notifications - no need to open the appAndroid 4.0 (Ice Cream Sandwich) and up:\xe2\x80\xa2 Faster search, even when you're offline\xe2\x80\xa2 Bug fixes and performance improvementsAndroid 2.2 and up:\xe2\x80\xa2 New Labels API for 3rd-party app developers\xe2\x80\xa2 Performance improvements"
+p4
+tp5
+tp6
+.

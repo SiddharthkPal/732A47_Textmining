@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Nordea Mobile Bank - Denmark '
+p1
+tp2
+(S'Description:'
+p3
+S'The most common daily banking features in one app!In this app you can, in this first release: - View account balances and transactions, - View MasterCard transactions- transfer money between your accounts and- make payments to other people and companies. New features will be developed and released on a regular basis, so make sure to update the app when you get an update alert! Tip! Try the quick feature \xe2\x80\x93 drag the \xe2\x80\x98from account\xe2\x80\x99 to another account or beneficiary for faster transactions! In order to use the Mobile bank you need to:- be 15 years old- have an Online agreement for Nordea\xe2\x80\x99s Netbank - have an active NemID- have an Android phone where you can download appsYou easily log in with your NemID UserID  and password. You can also choose to save your UserID for even easier future logins!***Processing of personal data in the appTo use the app, certain personal data is processed and the app needs access to a number of elements in your phone. See a summary below. For more details on the processing of personal data in the app, read the full statement of Privacy Policy.The app accesses the following elements in your phone:- Access to the Internet- Access to the phonebook - Access to pictures.The app processes the following personal data:- Account details, effected transactions, upcoming transactions and similar- Personal identity number- Contacts (Beneficial\xe2\x80\x99s)- IP addresses.The banking app will not disclose personal data to third parties. All information used for performing the services is cleared from the app when the session ends.'
+p4
+tp5
+tp6
+.

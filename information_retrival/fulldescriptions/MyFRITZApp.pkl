@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MyFRITZ!App '
+p1
+tp2
+(S'Description:'
+p3
+S'Mit der MyFRITZ!App und dem MyFRITZ!-Dienst von AVM haben Sie von \xc3\xbcberall sicher und komfortabel Zugriff auf Ihre FRITZ!Box.\xc3\x9cber MyFRITZ! erreichen Sie Dateien von FRITZ!NAS, die Liste der letzten Anrufe und Sprachnachrichten des Anrufbeantworters.Um MyFRITZ! auf Ihrer FRITZ!Box einzurichten, \xc3\xb6ffnen Sie die FRITZ!Box-Benutzeroberfl\xc3\xa4che (http://fritz.box), dann den Men\xc3\xbcpunkt "Internet / MyFRITZ!" und folgen den Anweisungen.Verbinden Sie dann Ihr Smartphone oder Tablet per WLAN mit der FRITZ!Box und \xc3\xb6ffnen die MyFRITZ!App. Geben Sie dann die Anmeldedaten f\xc3\xbcr den FRITZ!Box-Benutzer ein bzw. den MyFRITZ! Benutzernamen und das FRITZ!Box-Internetkennwort.Voraussetzungen f\xc3\xbcr die Nutzung der App:- FRITZ!OS 5.50 oder neuer- MyFRITZ!-Dienst auf der FRITZ!Box eingerichtet oder DynDNS-Dienst inklusive Zugriff aus dem Internet f\xc3\xbcr einen FRITZ!Box-Benutzer konfiguriertPraxis-Tipps und Antworten auf h\xc3\xa4ufige Fragen finden Sie im FRITZ!App Service-Portal unter http://www.avm.de/fritzappErl\xc3\xa4uterungen zu den erforderlichen Berechtigungen dieser App:\xe2\x80\xa2 Zugriff auf alle Netzwerke: Auslesen von FRITZ!Box Firmware/Modellnummer und MyFRITZ!-Adresse\xe2\x80\xa2 Inhalt USB-Speicher/SD-Karte \xc3\xa4ndern oder l\xc3\xb6schen: Heruntergeladene Dateien (z.B. Sprachnachrichten) ablegen und wiedergebenRecent changes:- Automatische Anmeldung verbessert'
+p4
+tp5
+tp6
+.

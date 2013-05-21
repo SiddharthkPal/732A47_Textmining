@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Solat dan Terjemahannya '
+p1
+tp2
+(S'Description:'
+p3
+S'Solat dan Terjemahannya adalah merupakan satu aplikasi ringkas yang dapat membantu kita memahami serta menghayati makna bacaan didalam solat. Terjemahan yang dibuat adalah berdasarkan makna setiap ayat-ayat yang terdapat didalam bacaan solat.Bahasa yang di gunakan adalah Bahasa Malaysia.Semua terjemahan yang ditulis adalah berdasarkan panduan daripada beberapa buah buku yang terdapat di pasaran.Recent changes:*Kemaskini untuk paparan skrin saiz medium 4inci.*Kemaskini untuk skrin 7 inci Samsung Galaxy Tab*Kemaskini Al-Fatihah, Qunut, Tahayat Awal , Akhir dan Iftitah.*Kemaskini untuk Galaxy Tab 2" 7inch.*Kemaskini dengan tambahan terjemahaan yang terbaru.*Paparan skrin yang terbaru.*Terima kasih kepada para pengguna dengan cadangan, pandangan dan pembetulan yang diberikan.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FreeNote, note everything '
+p1
+tp2
+(S'Description:'
+p3
+S'FreeNote is the most convenient note app for android.Feature list:1, Unique hybrid model for combined handwriting and keyboard.2, Text,paint,voice,photo,video...Note everything.3, Calender,alarm,todo...Getting things done.The smarter, faster, easier way to Note!Please feel free to contact flyable@gmail.com if you have any questions.It is the Evaluation Edition, all functions are available but the "Nag-ware" will appear every ten days. You can input the evaluation code "tqeoixbu" to remove it.There is a purchasable version(FreeNote+) on the market. FreeNote+ will not support android 1.5. Import your data into FreeNote+ using Backup/Restore function. NOTE: FreeNote+ has the same functionality as FreeNote(the free version).================================Keywords:feature\xef\xbc\x9a FreeNote note everything handwriting handwritten Note takingRecommend to work with\xef\xbc\x9aFacebook twitter gmail evernote catch notes noteeverything galleryUsage: stay organized remember research GTD diary memo whiteboard schedule agenda draft plan meeting TODO list finance class paper sketchRecent changes:7.9.81, fix the bug about handwritten quality.2, PDF export is supported.PDF export:single page ---- share->export as pdf in the page viewmultiple pages ---- menu->batch->menu->export as...->export as pdf in the thumbnails view.Please feel free to contact flyable@gmail.com if you have any questions. I have replied all the mails that I received!'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Switch to Windows Phone '
+p1
+tp2
+(S'Description:'
+p3
+S'Are you thinking about switching to Windows Phone and want a convenient way to migrate your app experiences over? Look no further, Windows Phone has an app for that! Use Switch to Windows Phone to see how many of your Android apps are available on Windows Phone.  Just run Switch to Windows Phone on your Android, and this app will check to see if your installed apps are available in the Windows Phone Store. It\xe2\x80\x99s that easy.Then (if you choose) Switch to Windows Phone can save your results so you can retrieve them later on your new Windows Phone and install the apps. You don\xe2\x80\x99t need to remember every app you had on your Android, and you download only the apps you want.Features:\xe2\x80\xa2\tScan the installed apps on your phone\xe2\x80\xa2\tFind the Windows Phone equivalents\xe2\x80\xa2\tSave the personalized match results to retrieve later on your Windows Phone'
+p4
+tp5
+tp6
+.

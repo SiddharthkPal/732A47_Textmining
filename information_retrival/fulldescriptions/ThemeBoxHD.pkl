@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ThemeBox HD '
+p1
+tp2
+(S'Description:'
+p3
+S'ThemeBox HD for TSF SHELL 1.9.9This theme only support TSF Shell Version 1.9.9 Or higher version.IMPORTANT========================1. This widget must be running on TSF Shell.TSF Shell link: https://play.google.com/store/apps/details?id=com.tsf.shell2. Please rate the app if you like it. If you have any questions or comments, please email us at: service@tsfui.com.Keywords & Tags: TSF Shell,TSF Theme BOX,TSF Shell Theme BOX,TSF BOX,ThemeBox HD'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Posteri sa Vukajlije '
+p1
+tp2
+(S'Description:'
+p3
+S'Ukoliko volite da pregledate postere i definicije na sajtu Vukajlije, volecete i ovu aplikaciju. Brzo i lako pregledajte odabrane, kao i najnovije postere sa vukajlije, i citajte odabrane definicije. Najpoznati recnik slenga sada ima Android aplikaciju. Svi posteri su vlasnistvo sajta vukajlija.com.Ako naidjete na nesto zanimljivo mozete u svakom trenutku serovati na Facebook, kao i poslati link na mail, whatsapp...Za sve predloge, sugestije i kritike slobodno pisite na developer mail. ;)Ova aplikacija je cisto zabave radi, bez namere da ikoga uvredi :)Recent changes:- dodata mogucnost da se sacuva poster. Posteri se cuvaju u folderu "Posteri".'
+p4
+tp5
+tp6
+.

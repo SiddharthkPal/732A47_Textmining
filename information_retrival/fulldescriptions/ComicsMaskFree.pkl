@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Comics Mask Free '
+p1
+tp2
+(S'Description:'
+p3
+S'To be a comics creator is easy! All you have to do is take photos with your camera and add awesome comic pictures. There are tons of comics graphics available in Comics Mask Free.It will serve you to make magic changes to photos and create outstanding and cool artworks. Graphics pack consists of various and funny comic masks.Get artistic, have fun, become a comics maker and assemble your comics collages!Free version features:Huge possibilities to tease your friendsBuild up comic heroes from people you know!Share the result with them via social networks, likeFacebook or Twitter20 comics masks in free version!Placing them to your photos will be a great entertainment!Looking for more? Pro version includes:- 70 high quality comics elements and characters!- Ad free: More place for editing your photosHow to create a comics?As a first step you choose photo from phone\'s gallery or use your camera to create it.Next you have to click an icon from the list that appear in the bottom of the screen to add comic book stuff.After it\'s shown in the photo area, you are able to rotate, move and scale graphics using multi-touch gestures. To flip picture click the Flip button. But these are not all the ways you can edit comics pictures and make your photo really funny!There is an Eraser Tool in Comics Mask.It allows you to put templates behind the objects in photos or simply delete parts of clip art graphics.For example, if you\'ve added a comic book mask to the photo, you can leave visible only it\'s part. Just draw with eraser tool to remove other picture\'s parts.For more precise editing effect we provide you with an ability to zoom in and zoom out photo fragments.If you\'ve used an Eraser and have cleared something in excess, don\'t worry.  Just go to the toolbox and click "Restore" tool. It can draw back removed parts of the picture.Add as much masks as you want!We\'ve collected various elements to make your collage indeed interesting. Comics Mask Free collection consists of several high quality comic book elements.Ones you\'ve ended working, save your comics to gallery or share it with the World!Looking for more? Check out a Pro version of Comics Mask at https://play.google.com/store/apps/details?id=com.keyspice.comicsmaskRecent changes:Removed bugsense as an error reporting backend.Updated ACRA error reporting library to avoid crashes.Other small stability fixes.'
+p4
+tp5
+tp6
+.

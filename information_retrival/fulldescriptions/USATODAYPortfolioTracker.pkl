@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'USA TODAY Portfolio Tracker '
+p1
+tp2
+(S'Description:'
+p3
+S'The USA TODAY Portfolio Tracker powered by SigFig is the best free way to manage the most important part of your personal finances: your investments. Sync with your investment accounts and track all your stocks, funds, 401ks, and IRAs in real-time, in one secure personal finance app. WITH THE USA TODAY PORTFOLIO TRACKER YOU CAN:\xe2\x80\xa2 See all your investment accounts in one place - including your 401k & IRA \xe2\x80\xa2 Track your stocks, mutual funds, and ETFs in real-time \xe2\x80\xa2 Use beautiful charts to check your performance, allocation, risk, and more \xe2\x80\xa2 Optimize your portfolio in seconds via our investment advice engine \xe2\x80\xa2 Sync with 60+ brokerages including Scottrade, Fidelity, E*Trade, and VanguardTRACK ALL YOUR INVESTMENTS, ACROSS ALL YOUR DEVICESThe USA TODAY Portfolio Tracker automatically pulls your investments into a single dashboard \xe2\x80\x94 giving you a real-time view of every stock, mutual fund, ETF, and option you own across the web, mobile, and tablet devices \xe2\x80\x94 no manual entry required! The USA TODAY Portfolio Tracker even gives you live charts and stock market news to help you stay on top of your portfolio.SAVE MORE, MAKE MORE, AND KEEP WALL STREET HONESTThe USA TODAY Portfolio Tracker diagnoses your portfolio and gives you data-driven investment advice you can use to tune-up your portfolio. Fix bad investments, eliminate costly fees, and find out if the people managing your money are overcharging or under-delivering.STAY SAFE & SECURE\xe2\x80\xa2 We use 256-bit SSL encryption \xe2\x80\x93 the same level of protection your bank uses \xe2\x80\xa2 Your portfolio is safeguarded behind a unique 4-digit PIN \xe2\x80\xa2 Sensitive information (like account numbers) remains unidentifiable \xe2\x80\xa2 No one can trade, withdraw, or transfer funds using The USA TODAY Portfolio Tracker \xe2\x80\x93 not even youBROKERAGES WE SUPPORTAmeriprise Financial, Charles Schwab, Edward Jones, ETrade, Janus, Merrill Lynch, OptionsXpress, Scottrade, Sharebuilder, TD Ameritrade, Thinkorswim, T. Rowe Price, USAA, Vanguard, Wachovia, Zecco, and many more. * The USA TODAY Portfolio Tracker does not support brokerage accounts outside the United States at this time'
+p4
+tp5
+tp6
+.

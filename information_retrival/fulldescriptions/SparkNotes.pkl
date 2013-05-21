@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SparkNotes '
+p1
+tp2
+(S'Description:'
+p3
+S"Get today's most popular SparkNotes study guides for literature, Shakespeare, poetry, philosophy, drama and short stories. Access online or download to your device for use offline. Check-in to easily share your location and start a Sparknotes study group right from your mobile. Check-in update will appear on the Place page, your friends' Facebook News Feed and your Wall.Features- Access 50 pre-installed Sparknotes study guides in your library- Hundreds of Sparknotes study guides available for viewing online- Download any Sparknotes study guide to your mobile device for offline use- Share what you\xe2\x80\x99re studying and where you are by checking in with a customized post to FacebookRecent changes:New release providing access to Sparknotes study guides for literature, Shakespeare, poetry, philosophy, drama, short stories and more."
+p4
+tp5
+tp6
+.

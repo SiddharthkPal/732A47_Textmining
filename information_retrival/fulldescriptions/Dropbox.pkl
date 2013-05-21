@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dropbox '
+p1
+tp2
+(S'Description:'
+p3
+S"Dropbox is a free service that lets you bring all your photos, docs, and videos anywhere. After you install Dropbox on your computer, any file you save to your Dropbox will automatically save to all your computers, your Android device, and even the Dropbox website! With the Dropbox app, you can take everything that matters to you on the go.Read your docs or flip through your albums when you're out and about. Save photos or videos to your Dropbox and share them with friends in just a couple taps. Even if you accidentally leave your Android in a taxi, your stuff is always safe on Dropbox.Features:\xe2\x80\xa2 Always have your stuff with you, no matter where you are.\xe2\x80\xa2 Save photos and videos to your Dropbox.\xe2\x80\xa2 Share your photos and docs with family and friends.\xe2\x80\xa2 Save email attachments straight to your Dropbox.\xe2\x80\xa2 Easily edit docs in your Dropbox.Terms of Service: https://www.dropbox.com/terms?mobile=1Recent changes:In version 2.3.5:\xe2\x80\xa2 Support for viewing all photos in your Dropbox. Learn more here: https://www.dropbox.com/photos/features\xe2\x80\xa2 Support for Indonesian, Malay, Polish, Russian, and Traditional and Simplified Chinese\xe2\x80\xa2 Tons of performance improvements\xe2\x80\xa2 Version number sums to 10In version 2.3:\xe2\x80\xa2 Easily share several photos at once\xe2\x80\xa2 Organize your favorite photos into albums\xe2\x80\xa2 Delete multiple photos at once\xe2\x80\xa2 UI improvements and updates throughout"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Reuters News Pro '
+p1
+tp2
+(S'Description:'
+p3
+S'Access professional-grade news and market data from Thomson Reuters, the world\xe2\x80\x99s leading source for intelligent information for businesses and professionals. Reuters News Pro gives you knowledge to act with access to latest news, photos and video, extensive financial data, corporate information and financial charting.Recent changes:* Minor bug fixes.'
+p4
+tp5
+tp6
+.

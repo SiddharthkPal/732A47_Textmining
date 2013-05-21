@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Split Camera for Instagram '
+p1
+tp2
+(S'Description:'
+p3
+S'With Split Camera you can create cool twin/clone shots and many other split pic creations. Just use your imagination. Even if your shots are not perfectly aligned you can make the split line unnoticeable by adjusting blending near the line. Pictures are optimized for Instagram but you can easily share them on other services as well.Instagram\xc2\xae is a registered trademark of Instagram LLC. We are not affiliated with them in any way.'
+p4
+tp5
+tp6
+.

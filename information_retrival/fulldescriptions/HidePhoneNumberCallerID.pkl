@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hide Phone Number Caller ID '
+p1
+tp2
+(S'Description:'
+p3
+S"The Best Android Application of 2013!Make phone calls and hide your phone number.Called party will see something like: - Private number - Unknown number - Number not available - Withheld number - etc...If it's not working:- Menu button -> Problem -> select different prefix- Call your operator and ask what prefix to use and insert it in Menu button -> Problem -> Enter New Prefix- May be your operator not allow that option at all :-(- Remember - this is free app!Also try:Phone Settings -> Call settings -> Additional settings/ Caller IDPhone Settings-> Call settings-> Caller IDSelect - Hide numberIf it's working:- ENJOY!!! :-)Please remember that it's illegal to spoof your phone number or your Caller ID for fraudulent purposes. This is your responsibility to not use it for fraudulent purposes.-Call from Contact List.-Use Menu Button.-When dialed number is empty - click Connect Call Button for Menu.-To delete last wrong dialed digit - click Disconnect Call Button.-Ability to buy no ads pack.-------------------------------------------Best Application Award best app best apps Make a call without showing your Caller ID allows you to hide your phone number when placing a call calling from Private Number Restricted Number Withheld Unknown Contacts List Most Mobile Carriers are supported Best App award Application must havethe most successful app works for thousands of people"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Das Erste '
+p1
+tp2
+(S'Description:'
+p3
+S'Das Erste AppDas Erste zum Mitnehmen. Videos, Livestream, Programminformationen und TV-Tipps des Ersten Deutschen Fernsehens (ARD) f\xc3\xbcr Smartphone und TabletSendung verpasst? Tatort, Polizeiruf 110, G\xc3\xbcnther Jauch, Hart aber fair, Sturm der Liebe, Lindenstra\xc3\x9fe, Reportagen, Filme, Magazine und mehr als VideosDas Erste Live: Das Programm des Ersten als Livestream \xe2\x80\x93 inklusive Tagesschau und Bundesliga in der SportschauProgramminformationen: Wissen was l\xc3\xa4uft \xe2\x80\x93 die aktuelle Programmvorschau f\xc3\xbcr unterwegsRecent changes:Das Erste App, Version 1.1-\tBeenden der App jetzt \xc3\xbcber Zur\xc3\xbcck-Taste auf der Startseite oder Men\xc3\xbc-Taste des Endger\xc3\xa4tes m\xc3\xb6glich.-\tNicht ben\xc3\xb6tigte Berechtigungen wurden entfernt.-\tAufrufen der Suche jetzt \xc3\xbcber Suchen-Taste des Endger\xc3\xa4tes m\xc3\xb6glich.-\tKleinere Bugfixes und Performance-Verbesserungen.'
+p4
+tp5
+tp6
+.

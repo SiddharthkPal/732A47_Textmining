@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Domino's Pizza India "
+p1
+tp2
+(S'Description:'
+p3
+S'This is an official Mobile Ordering application of Domino\xe2\x80\x99s Pizza India. It allows you to view and use the complete menu and content for the purpose of placing an order directly in Domino\xe2\x80\x99s Pizza Stores. The application accepts all the valid coupons introduced by Domino\xe2\x80\x99s Pizza India only. The delivery promise of 30 minute guarantee is application for all orders placed through this Mobile Application. For more details please refer to information and T&C section while placing your order in the mobile application. T&C Apply.Recent changes:Version 1.5 - New Product addition (Taco Indiana)- New Crust addition (Cheesy Bolorony)Version 1.4- Move App to SD Card- Resolved various Bugs- New crust images added'
+p4
+tp5
+tp6
+.

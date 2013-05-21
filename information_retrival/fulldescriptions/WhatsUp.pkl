@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"What's Up "
+p1
+tp2
+(S'Description:'
+p3
+S"Top #10 free Lifestyle AppWanna Bounce Back?Wanna Set Goals?Wanna Drop Anger?Wanna Be Awesome?and Wanna Be more than what you are now.. Here is your perfect app of inspiration and self-development.Whenever you are feeling low, whenever you wanna pick yourself up and get going, whenever you wanna inspire yourself, when ever you need a guidance, open up 'what's up' and search for your topic. Read through and assimilate the thoughts given. It has inspired me. It has motivated me. So I guarantee you that it will inspire you too. The posts are primarily written by THE IDEA MONK. You can also find posts by Leo Babauta from www.zenhabits.in (Zen Habits is one of the most popular blog on self-development, with over 25000 followers. One of the  inspiration behind THE IDEA MONK) I thank him for making his writing copyright free. (http://zenhabits.net/open-source-blogging-feel-free-to-steal-my-content/). And blogs from Infinite inspirations. If you are interested in contributing your thoughts please submit them in the www.theideamonk.com website. It will be published with due credits to you. Thank you for installing this app. I wish you grow intellectually and spiritually and continue to inspire yourself and others around.Cheers!LoveTHE IDEA MONKFeatures:Regularly updated articles'Favourite' the articles that you likeSearch with key wordsPinch zoom picturesIn-App Youtube viewerMove to SD cardRecent changes:Crashes and minor bugs fixed. * In case the articles are not displaying after the update, please uninstall the older version and then install the new version again.Strongly recommend both V2 and V3 users to upgrade to this latest version. Added features:Sliding left menu with grouping, In-App Podcast streaming or download to play offline, In-App Image Viewer (support pinch zoom), Integrated YouTube with in-app YouTube Player"
+p4
+tp5
+tp6
+.

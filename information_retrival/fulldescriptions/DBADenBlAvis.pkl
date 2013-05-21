@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DBA \xc3\xa2\xe2\x82\xac\xe2\x80\x9c Den Bl\xc3\x83\xc2\xa5 Avis '
+p1
+tp2
+(S'Description:'
+p3
+S'With DBA\xe2\x80\x99s Android app you have both Denmark\xe2\x80\x99s biggest market place and the easiest way to create listings in the palm of your hand. So now you never have to miss out on a great deal \xe2\x80\x93 regardless of whether you\xe2\x80\x99re buying or selling.Brand new to this version you can now create and edit listings in the app, and the listings you create are naturally available across DBA \xe2\x80\x93 on mobile and on line.Now you can also use your login from dba.dk on the app and get access to write in Questions & Answers, create and manage your listings.You have instant access to search through more than 1 million listings each day and find just what you\xe2\x80\x99re looking for \xe2\x80\x93 both new and used.FEATURES With DBA\xe2\x80\x99s Android app you can: \xe2\x9c\xadCreate and edit listings \xe2\x9c\xad Deactivere/activere and delete your listings on DBA\xe2\x9c\xad Log on to your DBA account \xe2\x9c\xad Contact seller by phone, textk, mail or Questions & Answers \xe2\x9c\xadQuestions & Answers for both buyer and seller \xe2\x9c\xad Synchronize favorites \xe2\x9c\xad Search from the front page \xe2\x9c\xad Access your listings and latest searches \xe2\x9c\xad Do a detailed search using filters\xe2\x9c\xad See listings near your current location In this version it is possible to list items in nearly all categories. We do have a few categorires with listing fees associated, and creating listings in these categories will be made available in a later version. Other listing types than \xe2\x80\x98for sale\xe2\x80\x99 will also be made available in future versions.We continuously work to improve the app and we are very much interested in hearing your opinion. Choose Feedback in the menu and tell us what you think and give us any suggestions to improve the app..We hope you will enjoy the app \xe2\x80\x93 happy buying and selling.Recent changes:New to version 2.0\xe2\x9c\xadCreate and edit listings \xe2\x9c\xad Deactivere/activere and delete your listings on DBA\xe2\x9c\xad Log on to your DBA account \xe2\x9c\xad Contact seller by phone, textk, mail or Questions & Answers \xe2\x9c\xadQuestions & Answers for both buyer and seller \xe2\x9c\xad Synchronize favorites \xe2\x9c\xad Search from the front page'
+p4
+tp5
+tp6
+.

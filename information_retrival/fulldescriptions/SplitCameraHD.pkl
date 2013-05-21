@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Split Camera HD '
+p1
+tp2
+(S'Description:'
+p3
+S'Create high-quality split pic shots with this feature-packed free app. You can easily create clone/twin me/you shots and many other cool things. Let your imagination fly and challenge your creativity.Features- Timer- Adjust split line before and after shooting- Split line blender/mixer- Horizontal and vertical split- Filters- Back and front cameras supported- Autofocus- Share using any service available on your device'
+p4
+tp5
+tp6
+.

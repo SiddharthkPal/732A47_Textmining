@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Box for Dolphin '
+p1
+tp2
+(S'Description:'
+p3
+S'Now save all of your files or webpages to the Cloud with Box for Dolphin! This newest Add-on, Box for Dolphin enables users to easily save content from the Web or local files to your Box account. - Download Box for Dolphin Add-on here!- Connect Dolphin to your Box account - Download any webpage or file from Dolphin directly to BoxJust one more way to save you time and easily get your content with Dolphin Browser.'
+p4
+tp5
+tp6
+.

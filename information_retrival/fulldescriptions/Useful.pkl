@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Useful '
+p1
+tp2
+(S'Description:'
+p3
+S"Live stream tv, HOT tv guide, news updates, LIVE SPORTS events on TV and TRAFFIC REPORTS for Israeli roads.Watch Israel's leading channels. channel 1 , channel 2 and channel 10. To watch this channels u need flash player on your device.HOT guide for TV Shows. Learn all there is to know and never skip an episode of your favorite show on TVNews updates . You can choose what subject and from which site we have many topics  like : News, sports (basketball, soccer, car racing), computers, economics, entertainment, woman, opinions, consumerism,Law, society, health, green, car, travel, food, Judaism,Science and nature, relationships and more ... from leading sites in Israel like Yediot Ynet, NRG Ma'ariv nana; sport5, one, mako, globes Globes, Walla walla, Marker Marker, calcalist Calcalist, Biz Travel bizportal and more...For all the sports lovers now u will never miss a show!show you which live sport events are brodcast on tv.what time and which channel!u can also add event to ur google calendar by long click on the game line.links to hot apps on the marketNothing to see broadcast schedule of the Hot includes all the channels that HOT like sports channel, Channel 5, Sport 1, Sport 2, channel 2, channel, Channel 10, Channel 1, movie channels, channel one, channel of the SPORT channels VOD, Bloomberg,EPG does not include a channel YES (YES satellite television) but also includes the channels Idan + (plus Idan)* the program need internet to work* israeli tv channels only* live tv streams directly from the internet. We take no responsibility on the streaming content.Some channels may not be available 24 hours.Recent changes:6.4:new sources for live tv.6.3:fix channel 106.2:add source to channel 26.1:add source to channel 16.0:live tv streams directly from the internet.5.0:* news updates3.4:* fix live tv sport show problems3.3:* add option to add game event into google calendar by long click on the game line.3.2:* add new source for Traffic Reports.3.1:* fix live tv sport show design* add links to hot apps on the market3:* fix live tv sport show problems"
+p4
+tp5
+tp6
+.

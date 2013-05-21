@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jumpgate Free Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Soar through space with your Android friend!  Stars and asteroids whip by as fast as his jetpack can carry him!  Double tap to say hello, or do a barrel roll!If you enjoy this, please get the full version so we can keep making these!  It contains lots of settings for flight speed, asteroid density, background color, camera speed, animation smoothing, and more.  Change the Android to a spacecraft, or remove it entirely!  Plus you can use Turbo Boost for a burst of speed!Jumpgate also works as a Daydream on 4.2+ devices!Recent changes:v1.26:  - Fixed flat specular shadingv1.25:  - Daydream support on 4.2+ devices  - Simulated scrolling on some devices  - Misc stability improvementsv1.2:  - Now using OpenGL 2.0  - Faster rendering, especially high-res devices  - Smoother character animation'
+p4
+tp5
+tp6
+.

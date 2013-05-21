@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MeetMe - Meet New People '
+p1
+tp2
+(S'Description:'
+p3
+S'MeetMe shows you who\xe2\x80\x99s nearby and ready to chat, Kik, and meet \xe2\x80\x94 FREE!Whether you\xe2\x80\x99re at the bar, on the beach, or hanging out at home, MeetMe is the BEST app for meeting new people near you! MeetMe is for all ages, all nationalities, all backgrounds -- EVERYONE! More than 90 MILLION PEOPLE are on MeetMe making friends, chatting, and hanging out. Use MeetMe to:- Meet great people near you through features like Live Feed, Match, and Photoboard- See who\'s nearby and start chatting fast in Locals- Search for guys on Kik or girls on Kik \xe2\x80\x94 MeetMe is by far the fastest way to find new people to talk to on Kik messenger (must have the Kik app installed)--------MeetMe Stories"[It\'s] probably one of the greatest sites... greater variety of people... everyone is at one place at one time... meeting new people." - Stevie S."I log on here, and these people you don\'t even know, they care more about me than my real friends do, these people are so nice." - Michelle M."I\'ve met so many people from the world that I wouldn\'t normally meet." Jazzeh N.*** #1 Social Network for Meeting New People in the US ***Recent changes:We\'ve added some great new features to our app as well as to MeetMe+All members can delete Live Feed posts, comments, notifications, Ask Me answers, and friendships in the app! (To delete, just press and hold an item, like on messages.) Also manage your blocked user list (found in Settings > Privacy and Content > What users have I blocked?).Also MeetMe+ members can now:- Unmask people who ask anonymous questions- Unlock Stealth Mode to view profiles/photos without being seen!'
+p4
+tp5
+tp6
+.

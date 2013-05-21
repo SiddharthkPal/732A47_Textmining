@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Boggart Comic '
+p1
+tp2
+(S'Description:'
+p3
+S"Boggart Comic finally hits Google Play!.Boggart is a cat and a fairy, or rather a mix of both which most probably makes unusual consequences - the main character in the series of comic pages drawn by Rihards Donskis (aka apofiss). Originally Boggart was created back in 2010 for a short test animation while later he got his own comic pages..While Boggart tends to reflect our daily lifes, peculiar situations or just keeps adding to his endless ego, the world of Boggart is always in growth..*It's for FREE!*Updates ( we will add more features with every next update, so stay tunned! )Boggart The Cat \xc2\xa9 Rihards Donskis ( aka apofiss )Recent changes:version 1.0.2server maintenance! ( Boggart will be back soon )"
+p4
+tp5
+tp6
+.

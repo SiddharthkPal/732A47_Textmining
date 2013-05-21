@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO TwiWidget '
+p1
+tp2
+(S'Description:'
+p3
+S"NOTE: GO TwiWidget does not have any dependency with any Twitter applications. You DO NOT have to install any of them to make it work.GO TwiWidget which was designed based on GO Launcher EX is the most simple and the most convenient Twitter widget on Android devices\xef\xbc\x81  You can new tweets or upload photos through this widget and view your Timeline/Mentions/Messages in a simple way.Like other GOWidgets, theme is also supported.You must install the latest version of GO Launcher EX which is the most popular home launcher app in Android Market.Available Size:- 4x4- 4x1Actions:- View Timeline/Mentions/Messages- Favourite, Retweet, reply- Follow and unfollow- Share your mind and photosHow to add GOwidget on your home screen?- Long press on your home screen in GO Launcher EX. Press the GOwidget option and choose the widget you like. Make sure you have enough room for the widget.Recent changes:1.(Update)Unified widget's name2.(Fix)Fixed bugs"
+p4
+tp5
+tp6
+.

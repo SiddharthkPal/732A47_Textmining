@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Michaels Stores '
+p1
+tp2
+(S'Description:'
+p3
+S'Creativity is only a click away! Make crafting even easier with mobile access to your favorite Michaels products, projects and events.Stop clipping coupons today. The exciting Michaels Mobile App makes it easier for you to save at your local Michaels store. You can get access to exclusive mobile coupons and find the Weekly Ad for your favorite Michaels location. You can sign up for alerts and emails to save more!Want to create a list of supplies to make your favorite new project? From Beading to Wedding, you can search and save any project and create lists that help you organize your next Michaels trip. If you find a product or project that you truly love, you can share it with friends!Our store locator and event planner help you easily locate your nearest Michaels store and store info. Find an event by date or nearest store and save it to your calendar with ease.Use the Michaels QR scanner on any Michaels QR Code to access more project ideas, videos, special coupons and so much more!Make creativity happen in the palm of your hand! Download the Michaels Mobile App today!Recent changes:*Fixed bug with disabled location services*Fixed app crashes upon opening the app*Fixed issues related to updating software to 4.1 (Jelly Bean)*Minor cosmetic updates'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'YouTube Remote '
+p1
+tp2
+(S'Description:'
+p3
+S'Control the YouTube experience from the comfort of your couch!With YouTube Remote, you can use your Android phone or tablet as a remote control for YouTube videos on your desktop computer or Internet TV.Simply visit youtube.com/leanback on your computer or TV, and navigate to My YouTube -> Pair with mobile device.If your friends also have YouTube Remote, they can pair with your TV screen and share control of the playlist.Not sure who that actor is? Want to hear more songs from this artist? Click on the \xe2\x80\x98Topic\xe2\x80\x99 button for a world of information about the video you\xe2\x80\x99re watching.Recent changes:New in version 3.1.0:  - shuffle queue  - bugfixesNew in version 3.0.2:  - simple pairing of your Android device with your screen  - easy to use, intuitive user interface  - share your screen with your friends and they can also add videos to watch.Camera permission used for scanning QR codes when connecting to a screen. Phone id is requested so that the connected phones can be displayed on your screen. Location is used to show information about movies playing near you.'
+p4
+tp5
+tp6
+.

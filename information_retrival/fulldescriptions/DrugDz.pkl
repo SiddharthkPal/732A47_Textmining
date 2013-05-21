@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DrugDz '
+p1
+tp2
+(S'Description:'
+p3
+S'DrugDz  allows you to perform rapid drug or disease lookup via several free online information providers.Key features:* Search for drug information, disease information and ICD9 codes* No need to install or keep updating local databases* Rapid search of multiple information providers using the same search term* App will remember your last search term and last used provider* Search history available * Information providers used are: Drugs.com, Medscape, Epocrates, Wikipedia, SearchICD9 and MIMS.comCaveats:* An Internet connection is required in order to use this app* Search result will open in your browser. Use your Back button to get back to the app.* You may be required to login to some information providers e.g. Medscape* App is formatted for smartphones, may not work well for tablet devicesRecent changes:October 13: added MIMS Philippines as per request'
+p4
+tp5
+tp6
+.

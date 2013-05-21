@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medical Spanish - AUDIO '
+p1
+tp2
+(S'Description:'
+p3
+S'Is it really FREE? \xe2\x87\x92 YESUPGRADE today to the full version with- NO ADS, BOOKMARKS, FREE UPDATES.The Emergency Medical Spanish Guide Lite (EMSG) is a tool designed for non-Spanish speaking health care professionals to quickly ascertain vital medical information. Thousands of applications sold to health care providers.Recent changes:Updated audio files, new Spanish/English translation, and social network integration.For $0.99 - Remove Ad Banner'
+p4
+tp5
+tp6
+.

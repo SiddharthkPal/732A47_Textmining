@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Android Music Player '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a build of the 2.3 (Gingerbread) music app that supports Android 1.6 and higher.Nothing fancy here, just providing everyone the option to use the Android Open Source Project (AOSP) developed music player.  Not all phones come with this player installed.For a free but more advanced and slick music player, check out JRT Studio\xe2\x80\x99s newest music player, Rocket Player, which includes a built-in equalizer, genre view, lock screen support, and more!http://android.googlesource.com/platform/packages/apps/Music.gitNeed help? Visit http://www.jrtstudio.com for quick tips or to contact support.Recent changes:* Updated the app icon* Fixes resume after finishing a phone call'
+p4
+tp5
+tp6
+.

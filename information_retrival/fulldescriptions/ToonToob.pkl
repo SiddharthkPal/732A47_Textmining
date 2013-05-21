@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ToonToob '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch vintage and classic cartoons everywhere you go! ToonToob allows you to watch them WITHOUT using the YouTube player!The videos you watch in this application are provided from links to YouTube content. We do not own the content shown in the videos or the screen shots displayed in the application. We are not affiliated with YouTube or its users who supply the content.Since ToonToob plays YouTube content, it requires a network connection in order to show the videos. Wifi access is recommended but not required. Normal data charges will apply when you are using a cellular network.Features:-Over 400 videos totaling 40+ hours of your favorite classic and vintage cartoons!-Uses the default media player!-Frequent updates! We recommend you allow ToonToob to update automatically as we will remove broken links and add new content on a regular basis. In order to keep the content current, we display ads at the bottom of the lists of selections (please click them if you like the app).-We strive to find the highest quality links but some content may not be digitally remastered. Meaning they often play at a 260p format which may display poorly on handheld devices.Current Cartoons:Betty BoopFelix the CatFlip the FrogHeckle & JeckleLooney Tunes (aka Merry Melodies)Mickey MouseMighty Mouse (best format 460p)Pink PantherPopeyeRoad RunnerSupermanWoody WoodpeckerSend us an email to request any public domain cartoons! We will try to add them all!Recent changes:V1.1.6: May 2013: Added over 30 Mighty Mouse videos! Can move app to SD card now!'
+p4
+tp5
+tp6
+.

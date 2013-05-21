@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sports Tracker '
+p1
+tp2
+(S'Description:'
+p3
+S"TOP RATED HEALTH & FITNESS APP WITH MILLIONS OF USERS!Turn your mobile into a social sports computer with Sports Tracker. Track and analyze your performance, share workout data and photos with your friends, and most of all \xe2\x80\x93 get fit and stay healthier.APP FEATURESSports Tracker for Android comes with powerful social features in addition to the award-winning tracking capabilities, making it the most feature-packed and professional sports tracker app:\xe2\x80\xa2 Track and analyze your performances, monitor your progress\xe2\x80\xa2 Store all training data in your personal workout diary \xe2\x80\xa2 Keep track of everything from calories burned to average training speed and altitude\xe2\x80\xa2 Use maps, time and distance calculators\xe2\x80\xa2 Get voice feedback during training\xe2\x80\xa2 Share workout data and photos with other trackers on Sports Tracker, Facebook and Twitter\xe2\x80\xa2 See your friends' profiles and comment their workouts and photos\xe2\x80\xa2 Explore the globe to discover new routes, trails and adventures worldwideHEART RATE MONITORINGTake your training to the next level with the Sports Tracker Bluetooth Heart Rate Monitor \xe2\x80\x93 available separately at http://www.sports-tracker.com/hrmFREE ONLINE SERVICE AT WWW.SPORTS-TRACKER.COMAutomatic backup of your workouts, detailed maps and analysis views, friends' workouts and lots more \xe2\x80\x93 together with the full-featured online service the Sports Tracker is the most powerful social sports tracking solution available for Android. Join the growing global Sports Tracker community and have fun getting fit!Recent changes:What's new in 1.8.5.-new languages: German, Italian, Spanish, French, Portuguese and Finnish-support for 720x1280 display resolutionBug fixes:-Voice feedback triggered properly when using miles-Lap view shows mile based laps properly-GPS disabled when using Indoor activity-Image capturing fixed for Samsung Galaxy Mini-Visual fine tuningv1.8.1:-Metric/Imperial settings fixv1.8.0:-Support for QVGA (240x320) and WQVGA (240x400) screen resolutions-GPS availability fix"
+p4
+tp5
+tp6
+.

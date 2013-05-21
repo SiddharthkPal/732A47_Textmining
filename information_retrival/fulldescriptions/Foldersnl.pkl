@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Folders.nl '
+p1
+tp2
+(S'Description:'
+p3
+S'Thuis op de bank lekker door alle online reclamefolders bladeren op je Android phone of tablet en op de hoogte blijven van alle aanbiedingen, acties, kortingen, coupon acties of beste koopjes is nog nooit zo gemakkelijk geweest.\xc2\xa0\xe2\x80\xa8\xe2\x80\xa8Met de app van Folders.nl blader je door al je favoriete online reclame folders. Zo vind je eenvoudig en snel alle actuele aanbiedingen die voor jou interessant zijn.\xc2\xa0\xe2\x80\xa8\xe2\x80\xa8Zie je een aanbieding die je niet kunt weerstaan? Met de app van Folders.nl kun je die uitknippen en op een boodschappenlijst zetten. Dit lijstje kun je met je dagelijkse boodschappen aanvullen, doorsturen en uiteraard ook weer openen op je andere Android device. Zo ga je altijd goed voorbereid de deur uit.\xc2\xa0\xe2\x80\xa8\xe2\x80\xa8Met de app van Folders.nl heb je meteen ook de openingstijden en adressen van meer dan 50.000 winkels binnen handbereik. Je stippelt dus z\xc3\xb3 de snelste route uit om je lijstje in te slaan.\xe2\x80\xa8\xe2\x80\xa8De app van Folders.nl biedt onder andere:\xe2\x80\xa8\xe2\x80\xa2\xc2\xa0Bekijk snel en overzichtelijk de reclamefolders bij jou in de buurt.\xe2\x80\xa8\xe2\x80\xa2 E\xc3\xa9n app voor phone en tablet\xe2\x80\xa8.\xe2\x80\xa2 Bekijk de nieuwste folders van de populairste winkels\xe2\x80\xa8.\xe2\x80\xa2 Doorzoek alle folders tegelijk op specifieke productaanbiedingen bij jou in de buurt.\xe2\x80\xa8\xe2\x80\xa2 Knip interessante aanbiedingen of coupons direct uit een reclamefolder en bewaar deze op je boodschappenlijst.\xe2\x80\xa8\xe2\x80\xa2 De mogelijkheid om reclamefolders per winkel of categorie te bekijken.\xe2\x80\xa8\xe2\x80\xa2 Bewaar je favoriete folders in Mijn favorieten\xe2\x80\xa8.\xe2\x80\xa2 Bekijk\xc2\xa0altijd actuele winkelinformatie en openingstijden van meer dan 50.000 winkels\xe2\x80\xa8.\xe2\x80\xa2 Deel actuele folders en verlanglijsten met je vrienden.\xe2\x80\xa8\xe2\x80\xa2 Lijstjes en zoekopdrachten bewaren en synchroniseren tussen al je devices\xe2\x80\xa8\xe2\x80\xa8.Folders.nl is h\xc3\xa9t online folder platform van Nederland. Op Folders.nl kun je zoeken naar de laatste aanbiedingen, acties, koopjes, korting, coupons, folders, producten en winkels. Landelijk en bij jou in de buurt. Zo vind je eenvoudig en snel de aanbieding die voor jou interessant is.Recent changes:Wat is er nieuw in versie 1.1- Verbeterde laadsnelheid- Nog sneller door folders bladeren- Bugfixes'
+p4
+tp5
+tp6
+.

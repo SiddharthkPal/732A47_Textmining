@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Checkout 51 '
+p1
+tp2
+(S'Description:'
+p3
+S'Checkout 51: Canadian coupons for the grocery brands you love. Install this free app now to see how much you can save this week!You can login with your email address or Facebook account. Sorry - not yet available in Quebec.Checkout 51 is the fastest and easiest way to save money:1. Browse the brands on offer (updated every Thursday)2. Buy the products at any store3. Take photos of your receipt4. Get cash back!Best of all, you can purchase the products on offer at any grocery store in Canada including Walmart, Target, Loblaws, Whole Foods, No Frills, Superstore, Safeway, IGA, Sobeys, Costco, Shoppers Drug Mart, and all the rest!How do you get your cash back? When your Account Balance reaches $20, we send you a cheque.Get started today.'
+p4
+tp5
+tp6
+.

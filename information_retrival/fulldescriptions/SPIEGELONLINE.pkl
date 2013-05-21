@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SPIEGEL ONLINE '
+p1
+tp2
+(S'Description:'
+p3
+S'SPIEGEL ONLINE\'s app: read Germany\'s leading news site on your mobile device! Please note that this app\'s navigation and content are in German. Our app provides you with instant access to all the daily news, analysis, features and interviews of SPIEGEL ONLINE\'s 130-member editorial team - for free. You get: - Up-to-the-minute news from all of our sections including politics, business and economics, sports, culture, panorama, net world, science, health, education, careers, our einestages history site, and "SPAM" for humour. - Correspondent reports from around the world - A soccer live score for the Bundesliga, Champions League, World Cup and European Championship- A soccer goal alert for national teams and the Bundesliga teams- A Formula One live score- An alert for breaking news, easy to subscribe and to unsubscribe- Photo galleries packed with stunning images - Exclusive videos from our video reporters - Overview pages for more than 9,000 topics- Comprehensive stock market and weather data - Quick overview of all the headlines of the past 24 hours- Scanner for QR Codes in magazines, on posters etc.- Add your comments under every single article - and read the comments of other readers- Quickly share articles with your favourite appsThe Pack & Go function allows you to simply download articles and read them online later, even if you have no access to a mobile network or WiFi - for instance while on a plane.The type size is adjustable.A feature at the top of the Home screen offers two different ways of viewing the site: Compact: a quick overview of headlinesClassic: the full headlines and teasers - just like you know it from SPIEGEL ONLINE on the Web. Try the SPIEGEL ONLINE News-Widget on the homescreen and see what\'s happening at first glance.You can send feedback to spon_app@spiegel.de. We are unable to respond to your postings in the Google Play Store. We hope you enjoy using our app. Thanks for taking the time to give it a try. Your SPIEGEL ONLINE editorial teamRecent changes:NEW: Fixed a bug that prevents the app to start on some old Motorola devices.'
+p4
+tp5
+tp6
+.

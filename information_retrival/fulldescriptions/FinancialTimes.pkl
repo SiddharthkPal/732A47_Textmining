@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Financial Times '
+p1
+tp2
+(S'Description:'
+p3
+S"Get the Financial Times on your Android phone and tablet.*  The app is automatically optimised for the screen size of your device, giving you the best experience of the FT in any format.Enjoy the FT's award-winning global news, video, comment and analysis, with automatic downloads of the most recent edition to read even when you don't have a signal.- Free to download- Free registration allows 8 articles per month as well as giving access to your FT.com portfolio- Subscribers have unlimited access on all FT.com outlets - phone, tablet and desktop- Premium subscribers also get the Financial Times' incisive Lex column and exclusive newsletters- Users in India get unlimited access to all stories on a specially customised front page The app is integrated with your FT.com account login and settings. This application allows users to register or subscribe on device securely via FT.com. Once you have signed up, or upgraded your account, please switch back to the app and enjoy your new level of access.If you have any feedback on our Android app, please email appfeedback@ft.com. With over 500 Android devices in the market we have tested on many but haven\xe2\x80\x99t managed to cover all combinations. If you have issues with your particular handset then we would love to hear from you. Please include details of which Android device you are using, and OS version if you know it.*App runs on Android 2.2 and above for phones and 3.1 and above for tablets. The app is now also ready for Android 4.2 devices (Jelly Bean).Recent changes:Recent changes:1. Bug fixes.2. Beam support on NFC-enabled devices.We really appreciate your feedback on our FT Android app."
+p4
+tp5
+tp6
+.

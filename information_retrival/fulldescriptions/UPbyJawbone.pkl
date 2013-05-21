@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UP by Jawbone '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 REQUIRES UP WRISTBAND TO USE THIS APP \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 UP is a system, wristband + app, that tracks how you sleep, move and eat 24/7 so you can know yourself better, make smarter choices and feel your best. \xe2\x98\x80 Track your sleep & physical activity \xe2\x98\x80 Log your food & drink & track nutritional info \xe2\x98\x80 Get insights to help you set & achieve your goals \xe2\x98\x80 Set Smart Sleep Alarms to wake up refreshed \xe2\x98\x80 Set Idle Alerts to remind you to move \xe2\x98\x80 Team up with friends in the app and live better together \xe2\x98\x80 Requires UP wristband to use this app TRACK YOUR SLEEP Hours slept, deep vs. light sleep, how long it took you to fall asleep and how many times you woke up. TRACK YOUR ACTIVITY Steps, distance, calories burned and time spent active vs. idle. LOG YOUR FOOD & DRINK Log what you eat and drink and get as detailed as you want. Take a photo of your food, scan a barcode, browse the UP image gallery or search the ingredient database. UP also helps you track calories, fats, carbohydrates, protein, sugar, fiber and sodium. GAIN INSIGHT UP simply and beautifully visualizes your information so, at a glance, you can understand the meaning behind your data. UP also delivers personalized insights and clear, actionable tips to help you achieve your goals. TAKE ACTION UP helps you set daily goals and tracks your progress over time. It also lets you set helpful alarms and reminders. You can set multiple Smart Alarms to silently wake you at the ideal moment in your sleep cycle to help you wake up feeling refreshed. You can also set Idle Alerts to remind you to move when you\xe2\x80\x99ve been sitting too long. UP WRISTBAND \xe2\x98\x80 Required to use the UP by Jawbone app \xe2\x98\x80 Designed to be worn 24/7 \xe2\x98\x80 Features advanced motion sensor technology \xe2\x98\x80 Up to 10 days of battery life between charges \xe2\x98\x80 Available in multiple colors & sizes (S, M, L)Check out jawbone.com/up/devices for a list of supported devices.Recent changes:- UP is now compatible with HTC ONE and Samsung Galaxy S4 devices- Delete and hide moods from your Feed - Performance enhancements'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon Cloud Drive Photos '
+p1
+tp2
+(S'Description:'
+p3
+S'Never lose the photos from your phone again. Get 5 GB of free storage to protect and store your phone\xe2\x80\x99s photos with Amazon Cloud Drive. Access photos from your Android phone or tablet, your computer, or any web browser. Your memories: safe and secure in the Cloud.Features:-\tStore and secure thousands of photos with 5 GB of free storage-        Never lose a photo again \xe2\x80\x93 your photos are automatically saved to your Cloud Drive -\tUpload individual photos or entire albums from your phone or tablet with one simple touch-\tView your photo albums in stunning layouts from your mobile device or on your computer-\tShare your Cloud Drive photos on Facebook, through e-mail, and many other appsRecent changes:Included in version 1.5:\xc2\xb7 Chinese language support\xc2\xb7 Log-in using your Amazon.cn account\xc2\xb7 Albums now display photo counts\xc2\xb7 More compatibility with Honeycomb devicesIncluded in Version 1.4:\xc2\xb7 See photos as they are saved to your Cloud Drive\xc2\xb7 Compatibility with WiMax networks\xc2\xb7 Bug fixesIncluded in Version 1.3:\xc2\xb7 Rename your albums in the Cloud\xc2\xb7 Bug fixes'
+p4
+tp5
+tp6
+.

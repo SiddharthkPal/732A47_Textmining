@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"What's it worth on eBay? FREE "
+p1
+tp2
+(S'Description:'
+p3
+S'What is this worth on eBay? Thats a common question before selling your stuff on eBay. The eValuator App determines the average eBay value of an article from the successfully sold items of the last few weeks. Very useful to find out what you can earn selling something on eBay, or to check if a supposed bargain may be cheaper on eBay. The ideal app for any powerseller, sales agent, ambitioned eBayer and for use on flea markets, yard sales and more ... Advice: Experience with eBay website (completed listings) is nessecary to fully take advantage of this app!Features: =====================* FREE version contains ads!* supports ebay.at, ebay.ca, ebay.com, ebay.co.uk, ebay.com.au, ebay.ch, ebay.de, ebay.ie, ebay.it, ebay.nl, ebay.es* Calculates Median, price range and net profit* Prices by day of week (full version only)* Price distribution chart(full version only)* Search in subcategories* Filter by condition (new, used, ...) * display the detailed results * auto-complete when typing* Adjustable Auto-Filter: Crop items containing certain words (eg, defective) Copyright:===================eBay (R) is a registered trademark of eBay Inc. This program is a private project and is in no way related to eBay Inc., Important:===================Since April 2010 search in completed items is possible without an eBay account on some country sites.It is possible, that ebay turns the login back on in the future. In this case the app will inform you. Until then the login gives you advantages calculating the shipping to your personal location.I assure you that this data remains on your device exclusively and is neither sent to me, nor to other third parties! Just do not enter this data, if you still have concerns!This app is under active development! Suggestions and bug reports are welcome! Reviews of course too ;-)Please note that due to technical reasons this app may be updated quite often! Do not install if this is a problem for you.Recent changes:** 2.0.8 **- Fixed data and price recognition- Several small improvements** 2.0.7 **- Fixed day of week statistics for ebay.com- Added auto-update for remote interfaces, so full app updates will not be needed anymore if the remote interface changes slightly** 2.0.6 **- Bugfix: Settings were not saved when leaving screen via actionbar button- Fix for item recognition in ebay.ca- Several minor bugfixes'
+p4
+tp5
+tp6
+.

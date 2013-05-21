@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CleverBook - A Minecraft Guide '
+p1
+tp2
+(S'Description:'
+p3
+S'CleverBook - A Minecraft Guide (previously known as Minecraft Book) is a must have for all minecraft fans.It offers quick access to every ID and every recipe of the popular indie game "Minecraft" by Notch/Mojang, as well as of the mobile version "Minecraft - Pocket Edition". CleverBook - A Minecraft Guide is your first-choice app if you need help.Features: \xe2\x80\xa2 Information about every single item/block\xe2\x80\xa2 List of all achievements, biomes, structures, mobs, potions, cheats\xe2\x80\xa2 ID list with search functionality\xe2\x80\xa2 Server list to check your favorite minecraft servers\xe2\x80\xa2 Twitter feeds of Minecraft developers\xe2\x80\xa2 latest minecraft information and news\xe2\x80\xa2 Redstone Circuits/Logic Gates\xe2\x80\xa2 English & German\xe2\x80\xa2 App2SD"Minecraft" is a registered trade mark of Mojang AB.Recent changes:1.9.4\xe2\x80\xa2 added content introduced in Minecraft 1.5\xe2\x80\xa2 bugfixes'
+p4
+tp5
+tp6
+.

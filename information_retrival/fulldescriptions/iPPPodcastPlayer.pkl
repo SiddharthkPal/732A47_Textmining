@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iPP Podcast Player '
+p1
+tp2
+(S'Description:'
+p3
+S"We all know iTunes has the best collections of podcast in the world, but not on Android platform. Don't worry, we've got you covered. This App lets you search podcast in iTunes' collection directly on your Android device! Plus it pulls the top podcast chart from iTunes for you. Just download it and enjoy the most popular podcasts in the world on your Android devices.With the download support, you can download using wifi and play it any time, any place you want. Save your data consumption.With home screen widget, your favorite podcasts are just at the tip of your fingers.FEATURES:- Auto synchronizes bookmarked podcasts on start- Restart the audio play from where it is left before- Pause/resume audio play on incoming phone- Play in background- Playlist support- Category support for download list- Download podcast and play it any time you want- Ability to save download to SD card- Control audio play from the notification- Add a podcast directly in the App- Home screen widget for easy play control and quick access- Include all categories from iTunes: Business, Comedy, Education, Games & Hobbies, Government & Organizations, Health, Kids & Family, Music, News & Politics, Region & Spirituality, Science & Medicine,Society & Culture, Sports & Recreation, Technology, TV & FilmRecent changes:v2.2.4  * Fix conflict between home screen widget and notification click  * Fix feed reading error for some podcasts  * Improve feed reading for non-English language podcast  * Add more control buttons to notification are for Android 4.1+  * Control audio playback through headset buttons (only support play/pause button)  * Completed download now has a check mark indicator in episode list view   * In action mode, click any where on the item will set the checkbox checked/unchecked"
+p4
+tp5
+tp6
+.

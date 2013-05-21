@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BNL Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'Con l\xe2\x80\x99applicazione BNL Banking, se sei un cliente BNL con accesso ai canali diretti, utilizzando le tue credenziali (PIN e Pass BNL), avrai sempre a disposizione uno strumento dedicato, semplice ed immediato per: \xe2\x80\xa2 Controllare il Saldo Disponibile, il Saldo Contabile e i movimenti di tutti i tuoi conti correnti e delle tue carte prepagate\xe2\x80\xa2 Controllare il Saldo di tutte le tue carte di credito\xe2\x80\xa2 Visualizzare e copiare il tuo IBAN\xe2\x80\xa2 Se scegli di salvare le credenziali nelle impostazioni potrai visualizzare il saldo dei tuoi conti e carte senza effettuare ogni volta il login. In tal caso tali dati restano visibili alla semplice apertura dell\xe2\x80\x99applicazione.\xe2\x80\xa2 Personalizzare la tua app attraverso la funzione "impostazione":    o Modificando come vuoi l\'ordine di visualizzazione dei conti e delle carte    o Scegliere il colore dello sfondo che preferisci fra verde, blu, arancio e grigio\xe2\x80\xa2 Visualizzare il dettaglio dei movimenti con la possibilit\xc3\xa0 di scegliere gli ultimi  30, 60 o 90 giorni\xe2\x80\xa2 Disporre bonifici e giroconti\xe2\x80\xa2 Effettuare ricariche di carte prepagate BNL e di cellulari\xe2\x80\xa2 Accedere alla tua area di messaggistica personale, gi\xc3\xa0 disponibile nell\xe2\x80\x99Area Clienti di bnl.it e gestirla in modo pi\xc3\xb9 efficace: inoltra messaggi al tuo gestore, seleziona pi\xc3\xb9 messaggi, segnala messaggi come da leggere o come gi\xc3\xa0 letti\xe2\x80\xa2 Accedere a tutte le altre app BNL Per assistenza scrivi a: gic@bnlmail.comRecent changes:Bug Fixing.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'mobile-pocket loyalty cards '
+p1
+tp2
+(S'Description:'
+p3
+S'Manage all your loyalty and club cards for free! We save you from being a victim of the fat wallet! Add any card you like to mobile-pocket! Bursting wallets, missed offers, forgotten cards - all past! Features:+ Barcode displayed on your phone + Integrated barcode scanner + Optional backup and synchronisation + Store locater for premium partners + Coupons of premium partners + Offline watch listRecent changes:+ Specials-Tabs with a lot of fresh offers, coupons, etc.+ Bugfixing'
+p4
+tp5
+tp6
+.

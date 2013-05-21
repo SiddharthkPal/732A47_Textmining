@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Mirror App '
+p1
+tp2
+(S'Description:'
+p3
+S"The brilliant and completely FREE Mirror app is here! Free to download, this app gives you all the very latest news, showbiz gossip and sport 24/7 in the palm of your hand. Get your daily horoscope and advice from our agony aunts in our lifestyle section. And whether you are a fan of X Factor or EastEnders, you can follow your favourite show in the TV section. Top Gear's Richard Hammond keeps you up to speed on motoring, with Ian Botham, Barry McGuigan, Tony Parsons and Fiona Phillips, John Cross and Kenny Dalglish among our other star writers. The Mirror app combines the latest cutting edge technology with the wow factor of creative writing skills from the world\xe2\x80\x99s best news writers and columnists. The latest celebrity videos and interviews, live blogs from the hottest events, amazing image galleries, videos and personalised content all at a touch of a button. Now that is wow! The 'My Mirror' homepage is a fantastic addition which allows you to customise the content the way YOU want to see it, when YOU want to see it. So whether you're interested in the latest computer games, film reviews or weird stories, your favourite sections of the Daily Mirror, Sunday Mirror and Mirror Online will be at your fingertips. Share and post your favourite articles to your friends and family via Facebook, Twitter or Email. - Free to download - Offline reading for all articles - 24/7 breaking news stories - Image galleries - Videos - Live Blogging on all major sporting and television events such as X-Factor, The Voice, Olympics and the World Cup- Mirror Football News, Transfers and Live Scores- 3am Celebs and Entertainment*** Got comments on the app? Want to suggest new features? Good or bad, we always want feedback so we can make the app better. E-mail us directly at: mirrorapp@trinitymirror.com Follow Mirror on Facebook and let us know what you think - http://www.facebook.com/dailymirror You can also follow Mirror on http://twitter.com/dailymirror ***Recent changes:- Match Centre for live football scores and in game commentary - Improved layout"
+p4
+tp5
+tp6
+.

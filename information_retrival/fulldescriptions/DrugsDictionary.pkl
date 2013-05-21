@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Drugs Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Download best app of drugs with collection of drugs and there meaning. it is helpful for all medicals which want the meaning of particular drugs.it come with the name called drugs dictionary helping you all to know true meaning of drugs.we provide the facility of advance search in our drugs dictionary. which helped you all to seach your need.Drug Information is a free resource for on-the-go access to the industry\xe2\x80\x99s most trusted clinical reference information, providing users the peace-of mind of knowing the information is from drug dictionary.Drug dictionary is a very useful application that allows you to search for information related to the active drug.Moreover, the search returns links to sites containing information on more active.The application works only with an active internet connection, and then the information is current.The app can be used in personal family but can not and should not replace consultation with a doctor or a pharmacist.Key id: Drug dictionary, dictionary, drugs information,drugs guide, drugs info, drugs help'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Spanish Translator '
+p1
+tp2
+(S'Description:'
+p3
+S"Spanish English Translator and DictionaryEspa\xc3\xb1ol Ingl\xc3\xa9s Traductor y DiccionarioFeatures\xe2\x98\x85 Simple and intuitive interface\xe2\x98\x85 Translates sentences and words\xe2\x98\x85 Reads loudly after translation\xe2\x98\x85 Voice recognition\xe2\x98\x85 Sends translation as SMS or email (tab on translation to active it)Interent access is required.Please email me if you want to add any features or find something which doesn't workRecent changes:- fixed layout issues in android 3 and 4"
+p4
+tp5
+tp6
+.

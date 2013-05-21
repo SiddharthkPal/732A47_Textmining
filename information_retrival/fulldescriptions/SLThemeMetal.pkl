@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SL Theme Metal '
+p1
+tp2
+(S'Description:'
+p3
+S'A metal theme for Smart Launcher. To apply it, open the drawer and select menu \xe2\x86\x92 personalization \xe2\x86\x92 global theme \xe2\x86\x92 Metal Theme.Icon by SeriouslyCrazy: http://forum.xda-developers.com/showthread.php?t=2091654tag: GSLTHEME'
+p4
+tp5
+tp6
+.

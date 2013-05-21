@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OnStar RemoteLink '
+p1
+tp2
+(S'Description:'
+p3
+S'To connect your vehicle to RemoteLink, make sure you have:- An active OnStar subscription- A compatible mobile device- A compatible vehicleFor help installing RemoteLink, go to onstar.com/mobile.OnStar RemoteLink offers an amazing level of control and connection with your vehicle. After downloading and registering the app, Cadillac, Chevrolet, Buick and GMC owners with a 2010-2013  model year eligible vehicle can use their mobile device to access real-time data from their vehicle and perform commands like unlocking doors remotely.Unmatched control to:-Find a destination on your phone and send it directly to your OnStar Turn-by-Turn or In-Dash navigation system (OnStar Directions & Connections subscription required).  Your directions will be downloaded and available upon vehicle start, and you are on your way.   -Lock/unlock your doors from any distance-Start your vehicle remotely (based on vehicle capability)-Control your Chevrolet Volt charging and charge mode settings-Activate your Horn & Lights to help locate your vehicle-Contact an OnStar Advisor, Roadside Assistance or your Preferred DealerUnprecedented connectivity to:-View real-time fuel information, including fuel range, gallons of gas remaining and your lifetime MPG-View your Chevrolet Volt battery state of charge, electric range, electric miles and MPG-Check your current lifetime mileage-Check your remaining oil life-View your current tire pressure information-Access account informationPlease check www.OnStar.com for vehicle eligibility.Privacy Statement: https://www.onstar.com/web/portal/privacyRecent changes:\xe2\x80\xa2 Performance improvements\xe2\x80\xa2 Fixed Fuel & Oil screen'
+p4
+tp5
+tp6
+.

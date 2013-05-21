@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Placar UOL '
+p1
+tp2
+(S'Description:'
+p3
+S'O Placar UOL Futebol traz lance a lance, escala\xc3\xa7\xc3\xa3o e eventos dos principais jogos dos campeonatos nacionais e internacionais. Brasileir\xc3\xa3o, Libertadores, Copa do Brasil, Liga dos Campe\xc3\xb5es, Italiano, Espanhol, Franc\xc3\xaas, estaduais, os mais disputados campeonatos do mundo a um toque no seu smartphone.Voc\xc3\xaa pode tamb\xc3\xa9m acompanhar a tabela de jogos e a classifica\xc3\xa7\xc3\xa3o destes campeonatos, al\xc3\xa9m de assistir aos v\xc3\xaddeos e navegar pelos \xc3\xa1lbuns das partidas.Este aplicativo \xc3\xa9 atualizado automaticamente.O UOL oferece o app gratuitamente, mas a navega\xc3\xa7\xc3\xa3o pode ser cobrada pela sua operadora, caso n\xc3\xa3o esteja em uma rede wi-fi ou n\xc3\xa3o tenha um plano de dados ilimitado.*Suporte para Android vers\xc3\xa3o 1.6 ou superior.Recent changes:Corre\xc3\xa7\xc3\xa3o de bug.'
+p4
+tp5
+tp6
+.

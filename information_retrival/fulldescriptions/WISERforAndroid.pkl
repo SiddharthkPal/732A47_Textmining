@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WISER for Android '
+p1
+tp2
+(S'Description:'
+p3
+S"WISER (Wireless Information System for Emergency Responders) is a mobile application designed to assist first responders in hazardous material incidents.First responders in general, and HAZMAT units in particular, must make many decisions quickly in handling hazardous-materials incidents. They need accurate information about the hazardous substances, the emergency resources available, and the surrounding environmental conditions to save lives and minimize the impact on the environment and physical property. The WISER application extracts content from TOXNET's Hazardous Substances Data Bank (HSDB), an authoritative, peer-reviewed information resource maintained by the National Library of Medicine, and places that information into the hands of those who need it most.Features of WISER* Rapid access to the most important information about a hazardous substance by an intelligent synopsis engine and display called \xe2\x80\x9cKey Info\xe2\x80\x9d* Intuitive, simple, logical user interface developed by working with experienced first responders* Comprehensive decision support, including guidance on immediate actions necessary to save lives and protect the environment* Access to NLM\xe2\x80\x99s Hazardous Substances Data Bank (HSDB), which contains detailed peer-reviewed information on hazardous substances* User Profiles enable users to specify the role they are currently playing at the scene of an incident: first responder, HAZMAT specialist, or EMS specialist. The key information presented to the user about a substance varies depending on this role, so that the information most relevant to the respective job can be quickly accessed.* Radiological and biological substance support.* Mobile support, providing first responders critical information where they need it, when they need it.Recent changes:Added support for moving application to SD card on Android 2.2 or greater."
+p4
+tp5
+tp6
+.

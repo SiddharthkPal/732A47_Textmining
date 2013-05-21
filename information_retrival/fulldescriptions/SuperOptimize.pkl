@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Super Optimize '
+p1
+tp2
+(S'Description:'
+p3
+S'Optimize your smartphone with a suite of super convenient tools. Using Super Optimization, you can easily release memory, uninstall apps, clear the cache, save battery power, and increase the speed of your smartphone. Main Features:Power management: extend battery standby time. System management: speed up phone operations. App uninstall: effortlessly manage installed apps.Clear cache: delete history and application cache to free up memory space.Transfer apps: safely transfer apps from phone memory to SD card.Volume & brightness settings: configure phone volume and screen brightness.Update:Fix bugsRecent changes:Update:Fix bugs'
+p4
+tp5
+tp6
+.

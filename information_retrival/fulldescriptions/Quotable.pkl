@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quotable '
+p1
+tp2
+(S'Description:'
+p3
+S'Discover and share a daily dose of inspiration with the help of this highly Quotable app!We\xe2\x80\x99ve searched through iconic words of wisdom from some of the finest minds in history, such as Confucius, Gandhi, Churchill, Martin Luther King, Dalai Lama among others, and bring you one specially selected inspirational quote every single day!And, with our awesome feature that lets add a gorgeous image as a wonderful wallpaper to every quote, you\xe2\x80\x99ll be able to share the inspiration stylishly with your friends and the rest of the world via social media.Quotable lets you:\xe2\x97\x8f \tInspire - We bring you an inspirational thought every day of the week and we let you search through our archives for great quotes we\xe2\x80\x99ve already featured\xe2\x97\x8f \tCustomise - Choose from a range of beautiful free pictures and pick a suitably stylish wallpaper to suit the perfect quote!\xe2\x97\x8f \tSave - Select and store your favourite quotes in your own personal gallery, great for when you need that extra boost of motivation!\xe2\x97\x8f \tShare - Show off your inspiration to the world with our quick share options, letting you easily share your favourite quotes with your friends on Twitter, Facebook or email. So if you\xe2\x80\x99re looking for a slick way to stay inspired, download this Quotable app and bring some inspiration to the palm of your hand!'
+p4
+tp5
+tp6
+.

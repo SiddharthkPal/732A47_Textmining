@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Botola Pro Maroc '
+p1
+tp2
+(S'Description:'
+p3
+S"Vibrez au rythme du championnat Marocain gr\xc3\xa2ce \xc3\xa0 l'application Botola Pro.D\xc3\xa9sormais, ne loupez rien! Des r\xc3\xa9sum\xc3\xa9s, des interviews, classement des \xc3\xa9quipes et des buteurs ainsi que des articles vous permettant de suivre de plus pr\xc3\xa8s le championnat national.D\xc3\xa9couvrez le Fanwall pour \xc3\xa9changer votre avis avec tous les utilisateurs de l'application et partagez via Facebook et Twitter nos articles. Vivez la passion de la Botola Avec Botola Pro.Nous vous invitons \xc3\xa0 consulter la page Facebook de BotolaProMobile  pour suivre les nouvelles sur les prochaines versions.Site officiel : http://www.botolapromobile.comFacebook      : http://www.facebook.com/BotolaProMobileTwitter       : http://twitter.com/BotolaProMobile------------------------------------------------------------------Keywords   : Maroc, Botola Pro, Football, CODM ,CRA ,DHJ ,FAR ,FUS ,HUSA ,IZK ,JSM ,KAC ,MAS ,MAT ,OCK , OCS, RBM, RCA(Raja), RSB, WAC(Wydad), WAF, Agadir, Casablanca, Fes, Jadida, Hoceima, Khouribga, Kenitra, Marrakech, Meknes, Tanger, Tetouan, Rabat, Kooora.Recent changes:\xe2\x80\xa2 Nouveau design de l\xe2\x80\x99application\xe2\x80\xa2 FanWall : Possibilit\xc3\xa9 de partager sa position ainsi que les photos prise par votre Smartphone.\xe2\x80\xa2 Am\xc3\xa9liorations pour rendre l\xe2\x80\x99application plus rapide et fiable.\xe2\x80\xa2 Nous avons corrig\xc3\xa9 les anomalies que vous nous avez remont\xc3\xa9es suite \xc3\xa0 la derni\xc3\xa8re mise \xc3\xa0 jour de l\xe2\x80\x99application. Merci pour vos commentaires.Si vous pensez \xc3\xa0 des fonctionnalit\xc3\xa9s suppl\xc3\xa9mentaires pour cette application n'h\xc3\xa9sitez pas \xc3\xa0 nous \xc3\xa9crire."
+p4
+tp5
+tp6
+.

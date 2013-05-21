@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Reduce Photo Size '
+p1
+tp2
+(S'Description:'
+p3
+S'This app reduce photo file size(resize/crop image) for Email, Twitter, Facebook, etc . * There is no influence in original photo even if the photo is reduced with this.To change your language on apps,  please change the language settingson  android os.  On Home screen (Menu button)-> settings -> language & keyboardIf your language is missing please use the application\xe3\x80\x80MoreLocale2(https://market.android.co/details?id=jp.co.c_lis.ccl.morelocale )[Usage]-When you attach a file to Mail, select "Reduce Photo Size".-Push "Pickup Image". -Tap on Screen and push "Reduce".-Select size you wants-Push "Done".[Thank you for the translation](Language / Contributors)Dutch / safari, mischavroegopPortuguese / Omar Freitas Junior, rafael oliveiraFrench / ChrisBulgarian / Peter MarkovChinese(Simplified) / Xiong Wei, RoBBiE Dong, zhangruiGerman / Lars Albertsen, Christian Laufs, Lichtfokus Lichtfokus, Deimos, Claus Bratvogel, korko, Claus Bratvogel, leopoldbrennerCroatian / marijan zic, Miljenko Bengez, dejan buranjiKorean / Yeongtaek Yang, kym, noahRussian / Alexis Kadnikov, Dmitry KirsanovSpanish / Martin NavarroSlovak / ErZetPolish / Jakub Wochowski,Kamil Cichy, JackItalian / Nik, Beba, William, Luca MarraFinnish / DomiChinese(Traditional) / Titan Lin, Ting, John Chang, Kevin LamIndonesian / candra ajaNorwegian / jpa, Hilsen, J\xc3\xb8rgen, Christer Fure NervikHungarian / Heged\xc5\xb1s Andr\xc3\xa1s, Zolt\xc3\xa1n Cs\xc3\xa1nyiCzech / Streki, Phone, michal tvrzThai / new p pong, ponz 3d, Brian Jun, sommart, BallangRomanian / Lucian Calarasu, Apostolache CostinLithuanian / DaliusEnglish / garethdennyHebrew / Michael VaimanSwedish / Gustav FridRecent changes:* Fixed  in which a crash in the crop if you have enabled hardware acceleration* Change support Android version to Android2.1. because there are people who misunderstand the permission PhoneState'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Daily Mail Online Tablet '
+p1
+tp2
+(S'Description:'
+p3
+S'This app offers you a unique way to experience the latest great content from the Daily Mail Online at your leisure wherever you are. Our app has been optimised to be used on Android tablet devices. We have many features that will allow you to stay up to date with the latest news, celebrity gossip, sport, health, technology and gadgets, money, pictures and more from mailonline.co.uk, the No.1 UK newspaper site. Key features of this version: - Fast loading of contentWe recommend that if possible you view the app on Wi-Fi. This means you will receive all the latest words and pictures for your favourite channels on the app. As you scroll left and right the new channels will load or pull down to refresh. You can scroll up and down the channels in view. To read an article, simply tap the one you want to read.- Easy to navigateYou can enjoy browsing great content fast, amazing pictures and share with friends. You may also swipe left or right between channels and articles. - Show me pictures! Tap on any image in article to view all pictures in a story. Inside the gallery you scroll, pinch or swipe your way through all the images that appear in a story. We think it\xe2\x80\x99s a great way to see at a glance all the pictures for that story. - Share with friendsYou can share your favourite stories with friends, post on Facebook, Twitter or email them without leaving the app.- Reader commentsYou can read and vote on reader comments and also post comments directly from the app!Enjoy the MailOnline Tablet app, download it for free and get started today!Recent changes:New Event channel'
+p4
+tp5
+tp6
+.

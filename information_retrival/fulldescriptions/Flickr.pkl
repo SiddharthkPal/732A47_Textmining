@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Flickr '
+p1
+tp2
+(S'Description:'
+p3
+S'Official Flickr Android App.The best way to share your life in photos \xe2\x80\x93 now available on Android! Take beautiful photos with our in-app camera, enhance with filters, then share on Facebook, Twitter and more.- Capture and enhance with one of our custom filters. High resolution photos that look good everywhere (on your PC, tablet or internet fridge).- Upload straight to Flickr and share to your friends on Facebook, Twitter, via email and more. Stay up to date with latest comments and activity on your photos too.- When you upload to Flickr you also get access to powerful online organizational tools, groups, fun photo apps, and a community of over 60 million members. That\xe2\x80\x99s a whole lotta photo sharing unleashed in one app! New to Flickr? Sign up straight from your Android device.Features: \xe2\x80\xa2\tShare photos only with the people you want to with easy privacy settings.\xe2\x80\xa2\tFull screen browsing and slideshows for your photos, your contacts photos or any of the public photos from the global Flickr community.\xe2\x80\xa2\tShare the story behind your photo with titles, descriptions, comments and tags.\xe2\x80\xa2\tKeep your track of where you took your photo by keeping your location data automatically through geotagging.Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

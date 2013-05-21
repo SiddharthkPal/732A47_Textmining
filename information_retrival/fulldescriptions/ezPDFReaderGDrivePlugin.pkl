@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ezPDF Reader G-Drive Plugin '
+p1
+tp2
+(S'Description:'
+p3
+S'Google Drive Plugin for ezPDF Reader (Paid App)This plugin app is a companion for the ezPDF Reader. In order to use this feature, you must purchase ezPDF Reader first. It currently supports Google Drive.ezPDF Reader is the Best Selling and the Best Rated (4.63 out of 5.00) Multimedia PDF viewer, annotator, and PDF form filler in Android. (Supports OS 2.1 and up)Recent changes:File Upload Bugfix'
+p4
+tp5
+tp6
+.

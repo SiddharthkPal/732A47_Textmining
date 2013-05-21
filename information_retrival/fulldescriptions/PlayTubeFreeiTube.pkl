@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PlayTube Free (iTube) '
+p1
+tp2
+(S'Description:'
+p3
+S'PlayTube FREE - Playlist Manager allows you to organize youtube videos in playlists,view history of watched videos and bookmark videos.Noteworthy:* Search music videos by keyword!* Manage playlists: Create, rename or delete.* Play clips in background.* Rotate to full screen play mode.* YouTube Account Support"Foxtube or iTube for iPhone? Well, this is the solution for the perfect Youtube player" - Anonymous user, USARecent changes:Version 3.3Feb 21,2013- Search button minor bug fix- Error handling for broken videos- Error handling for video playing engine- Error handling for search engineVersion 3.2.1Feb 17, 2013- Minor bug fixesVersion 3.2Feb 14, 2013- Improved startup loading time- Now support play/pause controls from notification bar (Android 3.2+)- Displays video thumb instead of PlayTube icon on notification bar- Support multi window drag & drop (Android 4.x+)'
+p4
+tp5
+tp6
+.

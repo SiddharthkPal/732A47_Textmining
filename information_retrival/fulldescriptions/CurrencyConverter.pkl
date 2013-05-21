@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Currency Converter '
+p1
+tp2
+(S'Description:'
+p3
+S'Simple Currency Converter - Track Currencies from around the world. Easily convert between your favorite currencies. Graph currency pairs over time, get the latest news on each currency. Set up portfolios of currencies for easy tracking.New in 2.4- Upgradeable to ADS FREE- Bug fix on first startup- Move2SD- Multiple bug fixes- Lighter download requirementsRecent changes:New in 2.4- Bug fixes- Upgradeable to ADS FREE- Bug fix on first startup- Move2SD- Multiple bug fixes- Lighter download requirements'
+p4
+tp5
+tp6
+.

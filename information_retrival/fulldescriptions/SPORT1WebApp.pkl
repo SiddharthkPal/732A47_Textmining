@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SPORT1-WebApp '
+p1
+tp2
+(S'Description:'
+p3
+S'SPORT1 ist DIE WebApp f\xc3\xbcr alle Sportfans f\xc3\xbcr das Android Betriebssystem. Mit der SPORT1-WebApp haben Sie schnellen Zugriff auf die wichtigsten News und Ergebnisse (Liveticker) rund um die Sportarten Fu\xc3\x9fball, Basketball, Handball, Eishockey, Formel1, MotoGP und den US-Sport.Recent changes:Fu\xc3\x9fball:- Live-Ticker, Live-Ergebnisse, Tabellen f\xc3\xbcr die wichtigsten Fu\xc3\x9fball-Ligen:- Bundesliga, 2. Bundesliga, 3. Liga, DFB-Pokal- Champions League und Europa League - Int. Ligen (England, Spanien und Italien)- EM-Quali 2012News, Live-Ergebnisse, Tabellen sowie Spielpl\xc3\xa4ne zu:- Handball-Bundesliga (HBL)- Basketball (BBL)- Eishockey (DEL) - Formel1, MotoGP, DTM- US-SportMediencenter: - t\xc3\xa4glich aktuelle Video-News aus der Welt des Sports - Bildergalerien zu den Top-Sportevents'
+p4
+tp5
+tp6
+.

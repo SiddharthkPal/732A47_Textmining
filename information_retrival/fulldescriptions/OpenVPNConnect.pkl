@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OpenVPN Connect '
+p1
+tp2
+(S'Description:'
+p3
+S'OpenVPN Connect is the official full-featured Android VPN client for the OpenVPN Access Server, Private Tunnel and OpenVPN Community, developed by OpenVPN Technologies, Inc.Features: * Supports Ice Cream Sandwich, Jelly Bean and higher. Does NOT require a rooted device.* Easily import .ovpn profiles from SD card, OpenVPN Access Server, Private Tunnel or via a browser link.* Improved power management - preferences setting allows VPN to pause in a low-power state whenever screen is blanked or network is unavailable.* Android Keychain integration - OpenVPN profiles may reference a cert/key pair in the Android keychain.*Supports hardware-backed keystores (such as on the Nexus 7)*Support for multi-factor authentication using OpenVPN static and dynamic challenge/response protocols.*Full IPv6 support (at both the tunnel and transport layer)Recent changes:Release notes for 1.1.11 build 44 (since 1.1.10):* Fixed priority issue with OpenVPN Service that could cause   paused VPN connections to not resume properly after device   wakeup.* Fixed issue with NTLM proxy authentication where connections   through Squid proxies would produce the error "NTLM phase-2   Content-Length is not zero".'
+p4
+tp5
+tp6
+.

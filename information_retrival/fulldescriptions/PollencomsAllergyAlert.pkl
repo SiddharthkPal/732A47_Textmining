@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pollen.com\xc3\xa2\xe2\x82\xac\xe2\x84\xa2s Allergy Alert '
+p1
+tp2
+(S'Description:'
+p3
+S'Pollen.com\xe2\x80\x99s Allergy Alert keeps the allergy-suffering public up to date with the leading pollen and allergy forecast for the United States. Also stay informed of other environmental factors like a local asthma index, Ultraviolet and Cough and Cold monitoring.Recent changes:This is the 1.4.1 version of the Allergy Alert application.- Force close issue has been addressed.- Zip code search has been corrected.'
+p4
+tp5
+tp6
+.

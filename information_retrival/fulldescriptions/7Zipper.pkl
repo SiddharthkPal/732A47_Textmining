@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'7Zipper '
+p1
+tp2
+(S'Description:'
+p3
+S"7Zipper help you to browse (7Zipper is not just un7zipper but a total commander for file management, and it require some permission)SDCard,copy,move,delete,rename,zip,unzip,7zip, check usage,backup and launch appFeatures:- Multi-select- copy,move,paste (file, folder)- open,rename,delete (file, folder)- 7zip, zip,unzip,send as- sdcard usage- backup app- archivezip, 7zip- extractzip, alz, egg, tar, tar.gz, tar.bz2, gz, bz2, rar, jar, 7zip, lzhsupport split zip archive (z01,  z02 ..., zip.001, zip.002 ..)- image viewer (support animated gif)- text viewer- swf (flash) viewer- system information (cpu, memory, battery, network etc..)- task killer- ftp client- ftp server (you can manage files of your phone by wifi)- http server (you can manage files of your phone by wifi)- photo calendar (all of your photos will be sorted by the date automatically. you can browse your photos by calendar)- Hex Viewer- SDCard Storage Usage- Manage Default app launcher- Image Resize- file search & find string in text-fileskeyword: file manager file explorer file browser sdcard manager Andro Commander egg alz lzh 7zip photo calendarRecent changes:** Please give your hand to localize 'Zipper' app **http://androboy.cafe24.com/zipper.htmlYou can download 7zipper app directly.http://androboy.cafe24.com/zdownload.html---------- 1.9.9 update list ------------  folder media scan---------- 1.8.3 update list ------------ Enhancement for Textviewer- Support Russian, Vietnamese- Bug fix"
+p4
+tp5
+tp6
+.

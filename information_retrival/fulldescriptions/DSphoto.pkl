@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DS photo+ '
+p1
+tp2
+(S'Description:'
+p3
+S'*You must own a Synology NAS to run this app*DS photo+ allows you to easily browse through the photos and videos of your Photo Station library, on the go, as well as interact with friends using the photo or video comments in real time. When you enter an album, photo collections are presented as a thumbnail wall: simply swipe the screen to move through the list. Take a photo and upload it directly to your Photo Station, or save the pictures onto your Android device to enjoy flashbacks anytime, anywhere. Features:-Browse photos and play videos on Photo Station-Upload or delete photos and videos on Photo Station, Instant Upload of the Android device\xe2\x80\x99s Gallery is available-View photos displayed as a thumbnail wall, a detailed list or on a map-Create new albums and upload photos and videos -Save photos to your Android device-Share pictures easily by e-mail or social networks-Leave and view comments of photos and videos-Connect with QuickConnect (requires DSM 4.2)-Support for HTTPS connections-All features available with DSM 4.2 and onwards-Supported on Android 2.1 and onwardsWhat\xe2\x80\x99s New:-Option to keep the original filename when uploading photos-Fixed a bug on the Samsung Note II where deleting with a multiple selection would cause the app to become irresponsive-Fixed an issue when taking pictures within DS photo+ on devices with only one front camera (notably the Asus Nexus 7) -Minor bug fixesRecent changes:What\xe2\x80\x99s New:-Option to keep the original filename when uploading photos-Fixed a bug on the Samsung Note II where deleting with a multiple selection would cause the app to become irresponsive-Fixed an issue when taking pictures within DS photo+ on devices with only one front camera (notably the Asus Nexus 7) -Minor bug fixes'
+p4
+tp5
+tp6
+.

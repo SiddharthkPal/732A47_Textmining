@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Solar Charger '
+p1
+tp2
+(S'Description:'
+p3
+S"Go green! Charge your phone with the power of the sun! Start this application, put your phone in a well lit place and watch your battery charge using the solar panel.Features:Detects the amount of light3 different solar panelsVibrates when charging startsYou can prevent the device from going to sleep modeNice charging animationFuture updates:More efficient solar panels up to +50%Tablet supportSamsung supportIn the pro version:Fart sound while chargingSamsung tablet support.The creator of this application does not take any responsibility for the damage and injury what the user may cause or suffer in the future, present or past with or without this software.Note: Of course this application is not charging your phone. You didn't think so, did you?! The only reason for this app is to collect the mentally challenged trolls - who never read the description this far - complaining about every app. Or you can fool your friends with this nice 'charging feature' if you like.Do not let your device overheat! Be careful when you put your device under the direct sunlight!Recent changes:- supports devices without light sensor- Hall of fame list from the best market comment- Hall of shame from the worst market comments."
+p4
+tp5
+tp6
+.

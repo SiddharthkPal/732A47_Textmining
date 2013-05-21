@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Info PLN '
+p1
+tp2
+(S'Description:'
+p3
+S'Proudly Present Our Mobile Application for the Electricity Customers All Around Indonesia Created by PLN Employees of PT PLN (Persero) Distribusi Jakarta & Tangerang.Info PLN is a fast solution for Electricity Service Information in Indonesia using Android Operating System mobile gadgets. Online Facility such as New Installment, Power Capacity Upgrade, Temporary Connection, Billing Info and Online Customer Service.Recent changes:Newest Update:- Nearest Office Location by Google Maps - Official Corporate Facebook Account- Official Corporate Twitter Account- Facebook Comment and Like Facility- Retweet Mentions Twitter Facility- Electricity Services with New Button Features'
+p4
+tp5
+tp6
+.

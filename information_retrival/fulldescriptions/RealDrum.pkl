@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Real Drum '
+p1
+tp2
+(S'Description:'
+p3
+S'Real Drum - Drumming to AndroidThe most fun experience in drumming to Android!Drum kit with acoustic percussion sounds.To play live music.Features:* Multitouch* 13 drum pads* Complete acoustic drum kit* 15 realistic drum sounds* Studio audio quality* Instruments like kick, bass, snare, tom, floor, cymbal, hi-hat, ride, crash, splash, bell and china* A perfect real drum set* 10 examples of rhythms* Record mode* Play in loop * Rename recordings* Works with all screen resolutions - Cell Phones and Tablets (HD Images)* FreeThe best battery pad style on the Google Play!For drummers, percussionists, musician, performers and artists!Recent changes:* New China cymbal* New Bell on Ride cymbal* Play in loop* HD images* 10 examples of rhythms* Rename recordings'
+p4
+tp5
+tp6
+.

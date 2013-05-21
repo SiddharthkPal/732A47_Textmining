@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Simple RSS Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'Have all your important news directly on your home screen!This app is just a customizable, simple widget which displays RSS feeds on your home screen.Features:- Scrollable- Resizable (only Android 3.1 and newer)- lockscreen widget (Android 4.2+)- multiple feeds in one widget- text style, size & color changeable- background color changeable- icons for reloading & configurating the widget can be hidden- user defined update interval- multiple widgets with different configurations- free & without ads!If the widget doesn\'t show up in your launchers widget category, try rebooting your device!Permissions:- INTERNET: to receive feed content- ACCESS_NETWORK_STATE: to test if internet connection is available before trying to update- WRITE_EXTERNAL_STORAGE: to cache feeds and display them even when offline- GET_ACCOUNTS & USE_CREDENTIALS: to request access for importing Google Reader feedsRecent changes:2.1.1:- Launcher Icon changed2.1.0:- RSS feed source display is now configurable in widget settings2.0.0:- Widget configuration now possible from app drawer- Adding feeds is now easier- Built-in feeds and default feeds- RSS source is now shown- Google reader now imports directly into your feedlist1.7.9:- fix: widget keeps in "loading" state in some cases- fix: force close when using multiple feeds on some devices1.7.8: feeds with HTML content should now be supported'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glassdoor: Jobs & Salaries '
+p1
+tp2
+(S'Description:'
+p3
+S"Get an inside look into jobs and companies with Glassdoor, the most comprehensive career community. Job seekers get access to the latest job listings as well as company reviews and salary reports \xe2\x80\x93 shared by those who know the company best \xe2\x80\x93 the employees. Research open jobs, your earning potential and see what it\xe2\x80\x99s really like to work at thousands of companies worldwide. Features: Jobs \xe2\x80\xa2 Fast and easy-to-use job search \xe2\x80\xa2 Share and email your favorite jobs Salaries \xe2\x80\xa2 See salary and compensation by company, job title and location \xe2\x80\xa2 Research averages and ranges for base salaries, bonuses, stock options and more Company Reviews \xe2\x80\xa2 Read reviews from employees about the work environment, culture, senior leaders and more \xe2\x80\xa2 View pros, cons, and advice to senior management \xe2\x80\xa2 Get opinions from current and former employees about specific companiesRecent changes:v1.0.2- Fixed bug that was causing currency to change- Made the app green for St. Patrick's day"
+p4
+tp5
+tp6
+.

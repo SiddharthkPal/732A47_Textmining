@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GolfNow '
+p1
+tp2
+(S'Description:'
+p3
+S"Book tee times 24/7 on the GolfNow mobile app!With over 100,000 tee times at over 4,000 quality courses and resorts across the US, Canada, Ireland, Scotland, Bermuda and Mexico, booking a tee time has never been easier!- Stay signed in to GolfNow automatically.- Search \xe2\x80\x9cHot Deals\xe2\x80\x9d for maximum savings. - Use GPS locator or browse by Area to quickly find a course near home or on the road.- Share your tee times reservations on Facebook and Twitter.- GolfNow Map View shows you how to get to your course.- Earn rounds toward Frequent Golfer status. It's never been easier to book a round on your mobile device!This application is not optimized for Android tablets.Recent changes:v1.01.23- Icon key for tee time extras- Bug fixes and performance enhancementsv1.01.19- Bug fixesv1.01.18- Use GPS to search for tee times near you!- More search areas for more tee times!- Bug fixes- Stability improvementsv1.01.11- Stay signed in to GolfNow automatically!- Share your reservations on Facebook and Twitter!- Book tee times in Bermuda and Mexico!- Bug fixes- Stability improvements"
+p4
+tp5
+tp6
+.

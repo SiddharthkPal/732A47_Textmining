@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GPS Tracking Pro '
+p1
+tp2
+(S'Description:'
+p3
+S'GPS Tracking Pro keeps your family and friends safe by tracking their real-time location using any Android phone. With the best in GPS technology, this app tracks the exact location of your family members and alerts you when they are in trouble, using the app\'s innovative check-in feature. Track your family using GPSThe app allows family members to locate each other on our mobile map. Parents today are busier than ever so you can use our mobile app to track your child whether you\'re at home, work, or on the road.\xe2\x80\x9cMy kids are always running all over the place, it can be hard to keep up. With GPS Tracking Pro, I get the peace of mind of knowing that my children are safe."- Debbie S., customerUse your iPhone or Android device as a GPS tracker:If you have an Android phone or an iPhone, you can use it as a personal tracking device. Download our app, Install and create accounts on the phones that you want to track. Once this is done the family members (and their phones) will show up on our real-time map.More about the app:- Use the check-in feature to let everyone in the family know where you are and that you are okay- See everyone in your family on our real-time map, along with nearby safety points like hospitals and police stations- Use panic alerts to let your family know where you are and that you need helpGPS Tracker Pro is also great for tracking lost and stolen Android phones. Once installed on your Android phone, you\xe2\x80\x99ll be able to track the phone\xe2\x80\x99s location via the website. GPS Tracker Pro is the most accurate mobile tracking app available for your Android device, and can also provide navigation to your phone\xe2\x80\x99s location.The app can help you navigate to any family member, by using GPS technology to track their Android mobile phone. Navigation is great for use in an emergency, when a family member may not be able to communicate where they are. GPS navigation is also helpful on a daily basis. What customers say:"This is the best app on the market for families.""Excellent app.""This app is great! I\xe2\x80\x99m so glad we found it.""I could watch myself as I walked down the street. Very good app.\xe2\x80\x9dRecent changes:- By popular request, we\'ve added one-to-one messaging in your family chat channel- We have Increased location accuracy even further- And, as always, we\'ve tackled a stack of bugs to give you a better overall experience'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ICICI Mobile Banking - iMobile '
+p1
+tp2
+(S'Description:'
+p3
+S"iMobile is ICICI Bank's official mobile banking application.ICICI Bank iMobile is a breakthrough innovation in banking where practically all Internet banking transactions can now be simply done on mobiles phones.Easy, convenient and secure to use, iMobile offers a wide range of banking and informational services to make banking convenient for you, iMobile lets you transfer funds, pay bills; book travel such as airline tickets, train tickets and bus tickets. Our customers can also buy movie tickets; can recharge prepaid mobile and DTH; locate an ATM, and also do lot more while on the go.The application covers Savings bank, Demat, Credit Card and Loan accounts.iMobile is the fastest way for Bill Pay. ICICI Bank offers Mobile Banking facility free of charge to customers. This mobile banking application also allows customers to transfer money using IMPS (Inter Bank Mobile Payment Service). iMobile has simplified mobile payments and mobile banking as never before. iMobile is a step towards Mobile Money and Mobile Wallets. Download ICICI Bank Mobile Banking application for doing Financial and Non-financial Transactions. For more details on ICICI Bank Mobile Banking Visit http://www.icicibank.com/mobile-banking/index.html.Recent changes:Bug fixing for new apk"
+p4
+tp5
+tp6
+.

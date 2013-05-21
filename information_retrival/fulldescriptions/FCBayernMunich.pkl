@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FC Bayern Munich '
+p1
+tp2
+(S'Description:'
+p3
+S"Keep your finger on the pulse of Bayern Munich, stay on the ball with the stars and keep a close eye on the German record champions with the Bayern Munich Android app.News, pictures, match schedules, live coverage, fan merchandise and much, much more \xe2\x80\x93 the Bayern Munich Android app allows you to stay in touch with Ribery, Robben, Lahm & Co.! Prescribers of FCB.tv can additionally enjoy the diverse video program of Germany's biggest football club on their smartphone.Don\xe2\x80\x99t miss any news, videos or goals. It\xe2\x80\x99s Bayern Munich up close and personal; convenient and up-to-date.The Bayern Munich Android app \xe2\x80\x93 a must for every Bayern fan!Recent changes:Season 2012/2013"
+p4
+tp5
+tp6
+.

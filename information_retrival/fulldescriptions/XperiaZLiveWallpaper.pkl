@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Xperia Z Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Xperia Z Live Wallpaper, inspired by new Sony Xperia Z device background with floating particles.To use: Home -> Menu -> Wallpapers -> Live WallpapersTo develop more free great live wallpapers, we have implemented some ads in settings.Advertisement can support our develop more free great live wallpapers.This live wallpaper has been tested on latest devices such as Samsung Galaxy S3, Nexus 7, HTC Desire S and Sony Xperia S. Please contact us if your device is not supported.Note: If your wallpaper resets to default after reboot, you will need put the app on phone instead of SD card.Disclaimer/TrademarksXperia is a trademark of Sony Mobile Communications AB. This app is not affiliated with or endorsed by Sony.Recent changes:- Updated latest Android 4.2.2 SDK- Removed "Download a free game" link'
+p4
+tp5
+tp6
+.

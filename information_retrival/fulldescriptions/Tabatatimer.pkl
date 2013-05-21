@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tabata timer '
+p1
+tp2
+(S'Description:'
+p3
+S'Tabata training is a method of cardio interval workout. It was developed by Izumi Tabata at the National Institute of Fitness and Sports in Tokyo, Japan. Tabata Timer will help you to do Tabata traning.Recent changes:- Now you can set your own sound for every kind of signals.- Minor UI changes.- Bugfixes.If you experience problems after update (e.g. forceclose), try complete uninstall the timer and delete saved preferences, then install new version.'
+p4
+tp5
+tp6
+.

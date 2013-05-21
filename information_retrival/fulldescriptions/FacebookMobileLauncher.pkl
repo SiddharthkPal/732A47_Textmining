@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Facebook Mobile Launcher '
+p1
+tp2
+(S'Description:'
+p3
+S'The Facebook Mobile App Launcher Icon will launch you directly to the m.Facebook.com home site using a simple to use bookmark / shortcut.-Allows Free Access on some providers-Faster than the Full App-Supports all devicesCOPYRIGHT:- Facebook is a trademark of Facebook, Inc.- This application was not made by Facebook, Inc., is just a tool for Facebook users'
+p4
+tp5
+tp6
+.

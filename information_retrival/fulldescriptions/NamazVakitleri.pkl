@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Namaz Vakitleri '
+p1
+tp2
+(S'Description:'
+p3
+S"Bu program;- 203 \xc3\xbclke i\xc3\xa7in namaz vakitlerini g\xc3\xb6sterir.- Vakitler www.diyanet.gov.tr adresinden al\xc4\xb1n\xc4\xb1r.- \xc4\xb0stenirse vakitlerde ezan okur.- Her vakit i\xc3\xa7in farkl\xc4\xb1 ezanlar ayarlanabilir.- \xc5\x9eimdilik 1 adet widget mevcuttur.Not: ** Uygulama SD kart a tasinirsa, widget kaybolur.Facebook Sayfasi: https://www.facebook.com/pages/Namaz-Vakitleri/177981912316617Web Sayfasi: http://namazvakitleri.com.tr\xc4\xb0leride eklenecekler (in\xc5\x9fallah):- K\xc4\xb1ble pusulas\xc4\xb1- Hat\xc4\xb1rlatma- Farkl\xc4\xb1 boyutlarda widgetlar- Hicri takvimkeywords: t\xc3\xbcrk\xc3\xa7e, t\xc3\xbcrkiye, turkish, turkey, imsakiye, ramazan, orucRecent changes:v2.7.1    * S\xc3\xbcrekli g\xc3\xbcncelleme hatas\xc4\xb1 d\xc3\xbczeltildiv2.7    * Yeni \xc3\x9clke ve \xc4\xb0l ekleme k\xc4\xb1s\xc4\xb1mlar\xc4\xb1 geli\xc5\x9ftirildi    * Yard\xc4\xb1m k\xc4\xb1sm\xc4\xb1 d\xc3\xbczenlendi    * Neler De\xc4\x9fi\xc5\x9fti? k\xc4\xb1sm\xc4\xb1 eklendi    * Vakit g\xc3\xbcncelleme y\xc3\xb6ntemi geli\xc5\x9ftirildi    * Ayarlardaki simgeler de\xc4\x9fi\xc5\x9ftirildi    * K\xc3\xbc\xc3\xa7\xc3\xbck ekranl\xc4\xb1 telefonlar i\xc3\xa7in Market'te g\xc3\xb6r\xc3\xbcn\xc3\xbcr hale getirildi"
+p4
+tp5
+tp6
+.

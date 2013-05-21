@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PubMed search '
+p1
+tp2
+(S'Description:'
+p3
+S'*PubMed mobile search web page viewerPubMed comprises more than 21 million citations for biomedical literature from MEDLINE, life science journals, and online books. Citations may include links to full-text content from PubMed Central and publisher web sites.'
+p4
+tp5
+tp6
+.

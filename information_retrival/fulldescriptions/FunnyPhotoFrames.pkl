@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Funny Photo Frames '
+p1
+tp2
+(S'Description:'
+p3
+S'Create funny pictures and cards from your photos. The app includes collection of cool photo templates. App works without internet connection.Funny Photo Frames is an easy to use software which allows you to customize your own Picture. Choose picture or take new photo with camera, select a frame, and generate your love photo frame. Share your photos with email, sms, Facebook etc. The app includes 70 beautifull funny frames.Keys: photo frame effect, funny face, faces effects, joke, cool, funny, fun, joke, image famouse camera drawing face pic, picture  collage cams camera photo editor cam draw facebook flickr vkontakte odnoklassniki sd card sms'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'APACHE II Calc '
+p1
+tp2
+(S'Description:'
+p3
+S"All tools integrated into the software. You don't need any other calc while using APACHE II Calc.- You will be asked only for sistolic and diastolic pressures.- Oxygenation screen to place worst gasometry. A-a gradient will be calculated if needed.- Arterial pH or serum HCO3 in the Acid-Base Balance screen.- Integrated GCS Calc.- Chronic diseases screen with details.- APACHE II and predicted death rate (not adjusted).- Disclaimer screen shows points stored under each section to help testing.- Support Celsius and Fahrenheit degrees.- Test buttons to try different values if you don't know which ot them is worse than the others.- APACHE Direct button. Tell me a APACHE value and I tell you predicted mortality.Easy to use. All you need to calculate APACHE II score.Android greater than 2.1. Free Software without ads. In English.Recent changes:Version 1.3.1Solved bug: APACHE Cal hangs when using APACHE Direct function without entering any value.Version 1.3Now APACHE Direct function (look at bottom, next to New buttom). Tell me a APACHE value and I tell you predicted mortality."
+p4
+tp5
+tp6
+.

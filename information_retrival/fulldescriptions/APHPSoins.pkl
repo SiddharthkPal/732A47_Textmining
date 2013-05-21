@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AP-HP Soins '
+p1
+tp2
+(S'Description:'
+p3
+S'AP-HP Soins permet de trouver une consultation, un m\xc3\xa9decin sur l\xe2\x80\x99ensemble des h\xc3\xb4pitaux de l\xe2\x80\x99Assistance Publique-H\xc3\xb4pitaux de Paris (AP-HP).Elle vous aide \xc3\xa0 localiser rapidement un h\xc3\xb4pital pour faciliter votre orientation.Pour en savoir plus sur l\xe2\x80\x99AP-HP, consultez notre portail : http://www.aphp.fr.'
+p4
+tp5
+tp6
+.

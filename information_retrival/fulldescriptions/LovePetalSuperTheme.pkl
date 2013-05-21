@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Love Petal Super Theme '
+p1
+tp2
+(S'Description:'
+p3
+S"New super theme available!Pinky, adorable, full girl's style!Plenty of actions! You can play with nearly everything in her world!Completly ecorate your cute screen: Petal Love for GO LOCKER are also available!\xe2\x9d\xa4How to use this theme:1. After downloading and installing this theme, go to Menu -> Themes -> Installed -> choose your theme -> Apply"
+p4
+tp5
+tp6
+.

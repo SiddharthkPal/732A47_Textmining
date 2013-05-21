@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wifi Movies 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'ATTENTION: SEARCH MOVIES WITH THIS APPLICATION IS TOTALLY FREE!.Movies Wifi 2013 is an application which allows you to find your favorite movies and play them for free from your smartphone, tablet or TV (HDMI cable) through YouTube website.You just need a WiFi or 3G.FEATURES:- It has a catalog of more than 1,200 movies and more are added regularly.- You have the sheet of film with the director, cast and synopsis.- Includes a search engine to help locate your favorite movies- Option to choose the language of films (Spanish, Latin and English).- Option to share the application with social networking.- Option to rate and comment on the movies.- This application is financed by a banner located always in the same position and in no event notifications are sent NI installs adware.NOTE:- You can send all the comments and opinions, and as far as possible, try to satisfy them.- Can you comment on films but please politely.NOTE:This application does not store or movies or links to movies, since it is limited to open a browser, load the page "http://m.youtube.com" for this, search for the requested movies.Keywords: movies, movie, movie, movie, movies, free, online, wifi, action, horror, thriller, science fiction, tubeRecent changes:NOTE: To see the films not available in your country or on your device, you must download the app BSPlayer (available in GooglePlay) and use it as player for these movies.'
+p4
+tp5
+tp6
+.

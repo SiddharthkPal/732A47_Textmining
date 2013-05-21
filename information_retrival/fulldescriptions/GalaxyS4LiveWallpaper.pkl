@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Galaxy S4 Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Galaxy S4 Live Wallpaper, floating balloons with light particles and clouds.Tilt your screen to move the balloons (using Accelerometer).Light halo particle effects when dragging, similar to new Samsung Galaxy S4 device.Now comes with mystic night background!Like our Galaxy S3 Dandelion LWP? You will love this one with different new S4 style.To use: Home -> Menu -> Wallpapers -> Live WallpapersTo develop more free great live wallpapers, we have implemented some ads in settings.Advertisement can support our develop more free great live wallpapers.This live wallpaper has been tested on latest devices such as Samsung Galaxy S3, Nexus 7, HTC Desire S and Sony Xperia S. Please contact us if your device is not supported.Note: If your wallpaper resets to default after reboot, you will need put the app on phone instead of SD card.Follow us on Twitter: https://twitter.com/androidwasabi" target="_blank">https://twitter.com/androidwasabiDisclaimer/TrademarksGalaxy S4 is a trademark of Samsung. This app is not affiliated with or endorsed by Samsung.Recent changes:- Fixed rare light particles stay in the same place when touch up bug- Updated design with "Scrolling" option, now wallpaper scrolls!- Improved performance on low end devices- Reduced balloon movement speed so it looks more natural- Reduced file size by 20%'
+p4
+tp5
+tp6
+.

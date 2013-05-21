@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cover Art Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S"Cover Art Downloader is a powerful tool that uses multiple online databases to automatically fill in the missing gaps in your music players cover art. Cover Art Downloader has been designed for speed and simplicity without sacrificing the robust features that make it the best album art grabber for Android.NOTE: Cover Art Downloader currently is not compatible with Google Music 3.0 on Gingerbread 2.3.4 and Honeycomb 3.0+. An update will be coming shortly.Free\xe2\x80\xa2 No ads, no nagsPowerful\xe2\x80\xa2 Searches multiple online databases\xe2\x80\xa2 Custom search by any term\xe2\x80\xa2 Select custom cover art from your phones Photo Gallery\xe2\x80\xa2 Built-in media scanner\xe2\x80\xa2 Album/id3 tag editor coming soonFast & Simple\xe2\x80\xa2 1-Click operation to fetch a single album cover\xe2\x80\xa2 Batch mode to download all missing cover art\xe2\x80\xa2 Filter album list by artist or album to quickly find what you\xe2\x80\x99re looking forConvenient\xe2\x80\xa2 Save your cover art to SD card so you can switch phones or custom roms without losing your cover art\xe2\x80\xa2 Works with the most popular Android media players including: PowerAMP, Winamp, doubleTwist and \xc2\xb3 (aka cubed)\xe2\x80\xa2 Apps2sd makes more space available on your phone\xe2\x80\xa2 Supports all Android devices with Android 1.6 or higherMost issues people have are easily fixed by running the Media Scanner or changed in-app settings. If you have any problems with Cover Art Downloader, please check FAQ's on website or email me so I can help you get the most out of Cover Art Downloader. I cannot reply to market comments.Donate version includes cover art embedding in mp3 id3 tags and automatic background downloading of album cover art when new media is detected.NOTE: Only works with music stored on SD card. Third-party applications cannot access music stored on internal memory (Droid Inc., Galaxy S, etc).Recent changes:\xe2\x80\xa2 Added a first run wizard (will show once after upgrade)\xe2\x80\xa2 Fixed a force close issue while running search"
+p4
+tp5
+tp6
+.

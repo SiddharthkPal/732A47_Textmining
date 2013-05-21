@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Real Guitar '
+p1
+tp2
+(S'Description:'
+p3
+S'Real Guitar - Guitar to AndroidThe most fun experience in guitar to Android!With acoustic guitar, clean electric guitar and overdrive/distorted electric guitar sounds.Two modes: Solo and Chords.To play live music.Features:* Record mode* Custom chords sequence* Multitouch* 3 types of guitar* 2 modes of playing* Realistic guitar sounds* Studio audio quality* Instruments like acoustic guitar and electric guitar* Works with all screen resolutions - Cell Phones and Tablets (HD)* FreeThe best guitar app on the market!For guitarrists!Recent changes:* Noise bug fixed* Record mode added* Custom chords sequence added'
+p4
+tp5
+tp6
+.

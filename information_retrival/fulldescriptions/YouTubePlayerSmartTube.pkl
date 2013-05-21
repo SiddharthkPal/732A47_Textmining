@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'YouTube Player - SmartTube '
+p1
+tp2
+(S'Description:'
+p3
+S"SmartTube is a video player for YouTube, Dailymotion and Vimeo.Watch internet videos through a single player.Watch the world\xe2\x80\x99s videos. Enjoy Music videos, Gameplay videos.Discover the Billboard, iTunes music charts.\xe2\x96\xb6 YouTube, Dailymotion and Vimeo\xe2\x96\xb6 Repeat, Shuffle, Continuous playback\xe2\x96\xb6 Manage playlists \xe2\x96\xb6 Manage my interests\xe2\x96\xb6 Recommended content guide (1,000+)\xe2\x96\xb6 Most popular/feature videos \xe2\x96\xb6 Related videos\xe2\x96\xb6 Rotation lock, Touch lock\xe2\x96\xb6 Switch video quality - SD, HD, Full-HD\xe2\x96\xb6 App launch passcode lock- Features\xe2\x98\x85 Search for Videos, Channels and Playlists : YouTube, Dailymotion and Vimeo\xe2\x98\x85 Unlimited Streaming of videos\xe2\x98\x85 Most popular videos, Feature videos\xe2\x98\x85 Enjoy the vast video catalog (Recommended Channel/Keyword 1,000+)\xe2\x98\x85 Manage My Interests Channel/Keyword/Videos.\xe2\x98\x85 Create and manage playlists (including add, remove, move)\xe2\x98\x85 Easy search (auto-suggest search queries, search history)\xe2\x98\x85 Sort search queries by Relevance, View Count or Date\xe2\x98\x85 Related videos\xe2\x98\x85 Uploader's videos and playlists\xe2\x98\x85 Supports fullscreen playback (Portrait/landscape mode)\xe2\x98\x85 Shuffle/Repeat/Continuous playback, Rotation Lock, Touch Lock\xe2\x98\x85 Supports HD, Full-HD videos\xe2\x98\x85 Switch video quality - SD(360p), HD(720p and 1080p) available\xe2\x98\x85 Share videos (Facebook/Twitter/SMS/Email\xe2\x80\xa6)\xe2\x98\x85 Connect to YouTube/Dailymotion/Vimeo account (Access to Watch Later, My Uploads, Playlists\xe2\x80\xa6)\xe2\x98\x85 App Launch Lock - Passcode protect your videos\xe2\x98\x85 Connect to Facebook account (My Uploads)\xe2\x98\x85 Discover the Billboard Hot 100, iTunes music charts\xe2\x98\x85 Discover the Melon K-Pop music charts\xe2\x98\x85 And more\xe2\x80\xa6This application does not download videos from YouTube because of the Terms of service."
+p4
+tp5
+tp6
+.

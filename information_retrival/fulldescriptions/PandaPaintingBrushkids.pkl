@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Panda Painting Brush\xc3\xaf\xc2\xbc\xcb\x86kids\xc3\xaf\xc2\xbc\xe2\x80\xb0 '
+p1
+tp2
+(S'Description:'
+p3
+S'Panda Painting Brush is one of the early education products, which is developed based on the characteristics of painting learning of kindergarten beginners. It helps children master some simple and basic painting skills. The story is: the little panda opens a small shop!Wow, there are a comb, slippers, clothes, toys, mirror, and a balloon ... ... But suddenly, a bad mouse comes, and destroys all things in the shop, so the panda needs your help now. Dear our babies, let\xe2\x80\x99s help the panda to find and repair broken things! Please use your finger to make the panda move to find them and then paint them following the dotted lines. There will be surprises waiting for you!\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85The products of Baby Bus\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85The most interactive and interesting entertaining children games\xe2\x98\x85___________\xe2\x96\xb6design concepts\xef\xbc\x9aWe focus on inspiration, not just learning.We focus on capacity-building, rather than a single cognition.We focus on entertaining, rather than spoon-feeding teaching.Take the baby bus, which is loaded with a happy childhood!___________\xe2\x96\xb6The series introduction\xef\xbc\x9aThe first brand in early childhood educational software (field of mobile Internet), which is developed specifically for the 0-6 years baby, and covers the cognitive development, games, songs and other relevant categories. The software is designed to combine the advanced concept of early childhood, through entertaining and educational way to achieve the purpose and goals of the mental Enlightenment.PS: We have English, Chinese and Japanese 3 versions for our apps, the apps will adapte automatically according to your device language setting.  Tips: In the search bar, enter "Baby Bus" or " sinyee", you can find all of our products. ___________\xe2\x96\xb6 Contact us: ser@baby-bus.com Official website:  http://www.baby-bus.comRecent changes:1.Added the animation of Chinese New Year.2.To protect baby\'s vision,added the new feature of taking a break.3.Optimize the size of the app, decreased by 10MB.4.Some bugs are solved.'
+p4
+tp5
+tp6
+.

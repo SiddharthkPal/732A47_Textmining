@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Chatter '
+p1
+tp2
+(S'Description:'
+p3
+S"Chatter for Android revolutionized the way you collaborate on the go, and it gets even better with instant access to Salesforce records such as Accounts, Opportunities, Leads, Contacts and more. With your Chatter feeds and records available in a single app, you'll be more productive than ever before. Use Chatter to:- Update your status on the go and stay in touch with co-workers- Follow and view status updates of the people, groups and records that are important to you- Access Salesforce records such as Accounts, Opportunities, Leads, Contacts and more- Create, like, comment, share, and attach photos or files to posts- View documents and links shared with you- Get in touch with your Chatter contacts via post, text, or calling features IMPORTANT: If you're a Salesforce.com customer and having trouble logging in, contact your Salesforce administrator.Recent changes:v3.1:- Navigate faster with the new user interface- Access your Salesforce Accounts, Opportunities, Contacts and more from Chatter (read-only)- Follow and view feed, details, and related lists of records- In-line @ mention. To mention someone, enter @ followed by the first few letters of the person\xe2\x80\x99s name- Auto-correct fixed in the message composer- View and vote on polls- Bug fixes"
+p4
+tp5
+tp6
+.

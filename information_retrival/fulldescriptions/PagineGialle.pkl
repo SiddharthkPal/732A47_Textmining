@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PagineGialle '
+p1
+tp2
+(S'Description:'
+p3
+S'Find what you are looking for in a few seconds with PagineGialle!The application provides information about 4 million businesses on Android, that you can search and select with few simple actions.Main features in all versions :- Access to the Pagine Gialle database : quickly find companies, hotels, restaurants, pizzerias, hospitals, pharmacies, discos, bars, taxis, cinemas, hairdressers ... and much, much more.- Fast Searches (one tap) around the user position for some types of activities- Voice Research- Search from a phone number- Results displayed on map and augmented reality- Lots of information on details for many results: links to web sites, mobile sites, images, video, ...- Interactive maps and route function- "Dynamic" view of the user position- Storing the results in the application "favorite" with the possibility to add custom notes- Save the results to the phone "contact"- History function for the latest research and results displayed- Share results via email, SMS, Facebook, Twitter- Rotation of the application- Connection with the main navigators (Google Navigatore, Sygic, Navigon, Waze)- Use of a result as a center for a new search- Integration with VoIP software like Skype, Viber and others- Function "Around me" to display with Augmented Reality all the shops near you- Dedicated interface for smartphones and tablet- Special Offers and coupons offered every day in your city, with easy access to Glamoo. Take a tap on the owl!- You can read and post reviews and ratings of companies and business- Pharmacies opening hours- Schedules and Film Programming - Integration with the new application PagineBianche Mobile- Print the results using the features of Google Cloud Print and Google Drive!-  Save the results in the "calendar" of the phone-  Use of a result as a center for a new search- Possibility to change the font size in the info page of the results-  Ability to write custom notes in the results saved in "Favorites"In addition, you can now print the result using the features of Google Cloud Print and Google Drive!Download now PagineGialle app : it\'s Free.The PagineGialle app is localized in English, but only provides data for the Italian territory. Editorial contents are currently in Italian only.Recent changes:- A handy widget to have quick access to all the important features of the app Pagine Gialle.- Fix some minor bugs'
+p4
+tp5
+tp6
+.

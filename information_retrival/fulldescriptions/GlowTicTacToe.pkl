@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Glow Tic Tac Toe '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85 Glow Tic Tac Toe \xe2\x98\x85\xe2\x98\x85The Glow Tic Tac Toe is the classic Tic Tac Toe game but with five different levels of Artificial Intelligence.Also called Noughts and crosses is a pencil-paper game for two players, X and O, who take turns marking the spaces in a 3\xc3\x973 grid.The player who succeeds in placing three respective marks in a horizontal, vertical, or diagonal row wins the Tic Tac Toe game.With FIVE difficult level, it can't get any better. The best you can get playing with the Expert is a draw!This game provides few interesting features than classic Tic Tac Toe game.\xe2\x98\x85\xe2\x98\x85 Features \xe2\x98\x85\xe2\x98\x85\xe2\x9c\x93 Five difficulty levels.\xe2\x9c\x93 Play against your Android phone\xe2\x9c\x93 Play against your friends.\xe2\x9c\x93 Excellent sound effects.\xe2\x9c\x93 Awesome Animations and customization.Glow Tic Tac Toe is a great way to pass your free time, whether you're driving on buss or spending time standing in line. Get Glow Tic Tac Toe now and let the fun begin!!!"
+p4
+tp5
+tp6
+.

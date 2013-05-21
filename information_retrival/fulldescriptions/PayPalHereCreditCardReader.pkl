@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PayPal Here Credit Card Reader '
+p1
+tp2
+(S'Description:'
+p3
+S'Accept credit cards and get paid anywhere you do business with the PayPal Here app and free card reader.  Just 2.7% per swipe* - no setup costs or monthly fees, and payments go into your account quickly.Accept Visa, MasterCard, American Express, and Discover cards.  Trust your business to the payment experts, PayPal. FAST, EASY, INEXPENSIVEOffer customers the most ways to pay. You can accept major debit and credit cards for just 2.7% per swipe, send invoices, and record check and cash payments.Customers can even check in to your business and pay with PayPal using the PayPal app on their mobile phone. It\xe2\x80\x99s the fast, easy, wallet-free way to pay. VERSATILEWhether your business is big or small, PayPal Here has what you need. Use it to accept payments on-the-go or as the point of sale system in your retail store. PAYPAL HERE FEATURESYou can: \xe2\x80\xa2\tCharge a flat amount or itemize an order. \xe2\x80\xa2\tSet up a product list to make order entry fast and easy. \xe2\x80\xa2\tOffer discounts. \xe2\x80\xa2\tSet up multiple tax rates. \xe2\x80\xa2\tGive customers the option to add tips. \xe2\x80\xa2\tText or email receipts. \xe2\x80\xa2\tProcess full or partial refunds. \xe2\x80\xa2\tGive employees partial access to your PayPal account so they can accept payments for you. You can also attract new customers by listing your business in PayPal Local, a directory of stores that accept PayPal. CUSTOMER SUPPORTLive phone and online customer support. SECURITY IS BUILT-INPayPal Here uses a fully encrypted card reader and is backed by world-class risk management and 24/7 fraud protection. You and your customers can feel confident knowing your payments are secure. *All card swipes and PayPal transactions have the same 2.7% rate. When you manually enter a card number (type it in or scan it with your camera), the transaction rate is slightly higher.Recent changes:\xe2\x80\xa2  Lots of user interface improvements by utilizing Android Action Bar\xe2\x80\xa2  Miscellaneous bug fixes'
+p4
+tp5
+tp6
+.

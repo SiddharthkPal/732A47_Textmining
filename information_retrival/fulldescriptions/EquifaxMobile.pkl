@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Equifax Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Now, you can stay on top of your credit and protect your identity on the go -- FREE Equifax Places on your Android phone utilizes your GPS location to show you: - Equifax Credit Score\xe2\x84\xa2: Average credit scores in your area - Fraud Index: The frequency of identity fraud in your area - Credit Rankings: How your credit measures up to others in your areaWant more?  With an eligible Equifax product, you can also: - Lock and unlock your Equifax credit file* - View alerts to key credit file changes - Check your Equifax Credit Score \xe2\x80\x93 anywhere, anytime - Get one stop protection if you ever lose your walletAll from your Android phone! Try it for FREE now.--- Disclaimers Equifax Credit Rankings\xe2\x84\xa2 and Equifax Fraud Index\xe2\x84\xa2 are trademarks of Equifax Inc. *Locking your credit file with Equifax Credit Report Control will prevent access to your Equifax credit file by certain third parties, such as credit grantors or other companies and agencies. Credit Report Control will not prevent access to your credit file at any other credit reporting agency, and will not prevent access to your Equifax credit file by companies like Equifax Personal Solutions which provide you with access to your credit report or credit score or monitor your credit file; Federal, state and local government agencies; companies reviewing your application for employment; companies that have a current account or relationship with you, and collection agencies acting on behalf of those whom you owe; for fraud detection and prevention purposes; and companies that wish to make pre-approved offers of credit or insurance to you.Recent changes:Fixes to address reported crashes.'
+p4
+tp5
+tp6
+.

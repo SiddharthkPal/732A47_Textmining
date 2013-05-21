@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LoopNet Commerical Real Estate '
+p1
+tp2
+(S'Description:'
+p3
+S"Product Description: LoopNet's Android app is now faster, easy-to-use and packed with new features.  Find the perfect investment property or lease space - directly from your Android Phone or Tablet. With just a tap, see a map. Then easily adjust filters, view photos of nearby sale and lease listings, and contact the listing broker. We'll keep you in the know with updates on properties you've saved and send you alerts when listings come up that match your search criteria.  This App is free to download.  Premium Listings are shown to all users at no charge \xe2\x80\x93 that\xe2\x80\x99s hundreds of thousands of listings right at your fingertips! To view all listings on LoopNet, a Premium Searcher subscription is required (as low as $59.95/month).Product Features: + Over 800,000 searchable listings+ Explore availabilities in your immediate area using your GPS locator+ Filter results by price, size and property type+ Plot properties and email driving directions using Google maps Developer Info: LoopNet is the #1 source for search, researching, and listing commercial properties.  LoopNet attracts the largest audience of commercial real estate brokers, investors, appraisers and other professionals, viewing information across all property types, including commercial office space for lease and for sale, hotels and motels, multifamily apartments, retail properties and land for sale.Recent changes:What\xe2\x80\x99s New! + Browse properties in list view + Receive in-app notifications for new listings, updates on your Watch List and new leads for properties you are marketing + More filters to refine your search+ Save your searches + Add properties to your Watch List + View your recent searches + Add property photos to your listings from your phone or tablet+ Access your listings, LoopNet contacts, account information, and profile"
+p4
+tp5
+tp6
+.

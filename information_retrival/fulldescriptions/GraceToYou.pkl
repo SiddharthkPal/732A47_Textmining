@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Grace To You '
+p1
+tp2
+(S'Description:'
+p3
+S"When you download this FREE App, you carry forty years of John MacArthur\xe2\x80\x99s Bible teaching in your pocket. That\xe2\x80\x99s thousands of hours of in-depth Bible teaching instantly available at the touch of your fingertip. Listen to sermons on Bible passages or topics that interest you, stay tuned to our radio and television broadcasts, and keep up with your choice of four daily devotionals. After you\xe2\x80\x99ve listened and internalized the content, you\xe2\x80\x99ll want to share it with your friends via Twitter, Facebook, or email.For more information about Grace to You, please visit:www.gty.orgThe Grace to You Android App was created with The Church App by Subsplash.Recent changes:We love seeing apps get improved just as much as you do! So we've been cranking away on some nice enhancements! Check em out! - Fixed a bug where text was being displayed too smallThanks for being awesome! + The Subsplash Team"
+p4
+tp5
+tp6
+.

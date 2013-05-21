@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'3D Voice Assistant '
+p1
+tp2
+(S'Description:'
+p3
+S"Meet your virtual assistant Mike \xe2\x80\x93 he will be your unfailing friend and reliable aide!Do you need even greater mobility? Do you want to get latest news in the morning, to learn the weather forecast and be aware of your horoscope? Or do you just feel lonely? Then this assistant is exactly what you need!   He has just two hands, but he can easily carry out several tasks at the same time. If you need any help, he can always:\xe2\x80\xa2\tFind necessary info or news on the Internet\xe2\x80\xa2\tHelp you to make some calls or send SMS \xe2\x80\xa2\tTell you the weather forecast for a day or a week\xe2\x80\xa2\tShow the required place on Google Maps and map an optimal route\xe2\x80\xa2\tMake necessary calculations\xe2\x80\xa2\tBook tickets and hotels in any place all over the world at a most attractive price\xe2\x80\xa2\tHelp you with online shopping\xe2\x80\xa2\tHe can also switch on your favorite radio or TV show, tell you a joke. He can even dance for you!\xe2\x80\xa2\tHe is available at any time of day and night, if you want to chat or play some games!Mike has some friends too: Brainy the charming blonde, Mary the beautiful and mysterious brunette, Mei the enigmatic Chinese! They can do all the same things that Mike can do. It's up to you to decide who will be your faithful companion!You can't buy friends, so this app is FREE!  It knows no equals among Android apps \xe2\x80\x93 JUST DOWNLOAD AND ENJOY!The app is available in English, Russian, and Spanish. French, German, Japanese and Korean to be added soon.Recent changes:Minor bug fixes."
+p4
+tp5
+tp6
+.

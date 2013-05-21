@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Online TV Romania '
+p1
+tp2
+(S'Description:'
+p3
+S'Online TV uses different sources for media distribution. Those media streamers are responsible for channels contents and status.\tIf you know SopCast/RTSP channel sources and want to watch them do not hesidate to use application blog or email me to add new channels.Not all the programs in the list can be watched on live stream (sometimes the video source link will change).So if you notice a broken channel please notify me.Any problems related to the functionality of the TV stream is the responsibility of the broadcaster of the stream.This software offers a list of available TV channels, the actual streaming is not my responsibility.It is recommended to use wifi connection because of lage amount of data traffic needed for TV stream.Recent changes:Version 3.3 I got some reports that there are some problem with the new update. If you encounter problems please uninstall and re-install the application.[RO]Daca exista probleme de functionare pe ultima versiune, dezinstalati aplicatia apoi reinstalati.'
+p4
+tp5
+tp6
+.

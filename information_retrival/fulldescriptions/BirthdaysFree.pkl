@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Birthdays - Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Lists all contacts with birthdays so you do not have to search anymore. Easily import friends from Facebook, choose the most important ones and post messages to their wall using templates. There is no automatic posting of messages, but the app makes sending birthday messages much much easier. You get several widgets in various sizes to always be up to date whose birthday is next. Be notified in the status bar to never forget about birthdays again. In case you do not have time right now, easily add a reminder to to contact your friends later in the day. The app dials for you to call or send messages as well as eMails using customized message templates to make it easy for you to greet the way you want. We support the Hebrew, Islamic, Buddhist (Thai), Coptic and Ethiopic calendar systems. And you can choose the calendar systems for the whole application as well as for single events separately. Advertisement supported version. Shows location based ads on several pages.  Get rid of the advertisements by purchasing the app!Recent changes:Simplified Facebook work flow.Bugfix for the additional notifications not being started.Bugfix for the multi-widget not being available.Updated translations where available. Thanks go to Kenneth, Pavel, Thomas, Willem, Peter and especially Ioannis for providing a translation to Greek.'
+p4
+tp5
+tp6
+.

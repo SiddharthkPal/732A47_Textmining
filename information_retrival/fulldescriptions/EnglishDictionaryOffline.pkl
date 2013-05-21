@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English Dictionary - Offline '
+p1
+tp2
+(S'Description:'
+p3
+S'The free offline English dictionary application explains the meaning of 159000 English words! Definitions are based on English Wiktionary.Features:\xe2\x99\xa6 More than 159000 words plus 65000 inflected forms\xe2\x99\xa6 Fast, as it works offline, internet is used only when a word is not found in the offline dictionary\xe2\x99\xa6 You can leaf through words using your finger!\xe2\x99\xa6 Installable on SD card.\xe2\x99\xa6 Bookmarks and history\xe2\x99\xa6 Random search button (shuffle)\xe2\x99\xa6 Integrated with Google Quick Search Box \xe2\x99\xa6 Compatible with Moon+ Reader and FBReader\xe2\x99\xa6 Easy and functional user interfaceYou can post your suggestions on http://goo.gl/Xkk6dQuestion & Answers: http://goo.gl/UnU7VYou can listen to the word pronunciation, provided that voice data have been installed in your phone (Text-to-speech engine). No voice output? Please goto http://goo.gl/axXwR.An offline dictionary needs memory. In case your device has low memory, please consider to use the online dictionary: http://play.google.com/store/apps/details?id=livio.dictionaryInformation for application developers:\xe2\x9c\x94 This application provides Dictionary API for 3rd party developers, please read further details: http://thesaurus.altervista.org/dictionary-androidkeywords: Englisch, Ingl\xc3\xaas, \xd0\xb0\xd0\xbd\xd0\xb3\xd0\xbb\xd0\xb8\xd0\xb9\xd1\x81\xd0\xba\xd0\xb8\xd0\xb9Recent changes:Version 1.7\xe2\x99\xa6 additional new definitions from the English WiktionaryVersion 1.6\xe2\x99\xa6 phonetic transcription IPA (International Phonetic Alphabet)Version 1.5\xe2\x99\xa6 display mathematical and chemical formulasVersion 1.4\xe2\x99\xa6 additional compound words'
+p4
+tp5
+tp6
+.

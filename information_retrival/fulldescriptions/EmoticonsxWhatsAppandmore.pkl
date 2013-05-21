@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Emoticons x WhatsApp and more! '
+p1
+tp2
+(S'Description:'
+p3
+S"This application contains  more than 1000 emoticons and Smiley divided into categories. You can import and share via all messaging applications that allow sharing of images (email, WhatsApp, Bluetooth, gMail, Messages (MMS), Facebook, G+, etc.).You can also assign a picture to a contact in the phonebookThe application has two distinct features.you can run it as a normal application, browse the categories, click the image and share it or you can start the application when you choose to share or attach a picture from any external applicationFor example in WhatsApp the procedure is:- Tap the paperclip icon in the upper right in this WhatsApp- Select Gallery- Select Share Emoticons!- Browse the app to choose the image you want and click the button at the bottom rightFor this specific case the procedure is also shown in the screenshotsThe application is automatically installed in the external memoryIf you like this application don't forget to write a good review and give 5 starsGive ALL the stars!!!Write ALL the reviews!!!ThanksRecent changes:1.2Added more than 150 emoticons in 5 categoriesCategories added:Pink CatsbofuBunnyJellyUpdated categories:ballonsReduced memory consumption for displaying previewsIn case of problems, send an email or reportsIf you like this application do not forget to rate and write a review!"
+p4
+tp5
+tp6
+.

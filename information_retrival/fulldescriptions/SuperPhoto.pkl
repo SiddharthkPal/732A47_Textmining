@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SuperPhoto '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Tons of amazing effects for your photos!Unique, outstanding effects you'll love. You'll have endless fun and turn your photos into amazing art pieces with just one click!Features:* Use your gallery, camera & Facebook photos. * Categories: Filters, 3D, Combos, Bokeh, Frames, Textures, Patterns, and Brushes. * Favorites bookmark* 100+ cool unlocked effects The FULL version includes: * 1300+ effects & filters unlocked  * HD quality (up to 1280x1280) * No ads Note: this app requires Internet to work!Recent changes:Multilanguage supportNew categoriesLots of bugfixesFixes Facebook photos in v1.43.Last version fix default thumbnail options in English version."
+p4
+tp5
+tp6
+.

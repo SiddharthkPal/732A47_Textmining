@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Private DIARY Free '
+p1
+tp2
+(S'Description:'
+p3
+S'This app - Private Diary will help to you to record your life. It will save all your emotions and interests. You can entrust him all secrets. It has following possibilities: - Set a password of your diary - Write notes about your life - Backup copy of your entries of diary to SD card - Show entries in any range of dates - Change Diary appearance - EmoticonsIn Full version also available: - Change the theme of Diary - Recovery of your entries from SD card - Attach photos to Diary - Add user categories to Diary - Sending entries of diary by email - Auto backup when exit - Search entries - Send all entries as text file to e-mail - Copy entry in Twitter client - Send entry by SMS client - Upload and download backuped entries to DropBox folder - Full Developer support - No AdsKey: app, diary, note, memo, journal, secure, notepad, free, demo.p.s.: Adapted for Galaxy tabRecent changes:Fixed some bugs+- PrivateDiaryOnline.com - online service, sync between devices- Add user categories- Tags- Filter of entries by categories and tags+- Sliding between entries without return to main list- Upgraded password protection- Added emoticons'
+p4
+tp5
+tp6
+.

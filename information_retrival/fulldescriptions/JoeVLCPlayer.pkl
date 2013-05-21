@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Joe VLC Player '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a build of the full VLC for Android!  This app  will play files on your device locally.Currently the VLC application from VideoLan team is not listed for download in the US. I am listing it so US phones can download it.If you want to give me money do it here: http://josephpcohen.com/giveRecent changes:fixed receiver to point to correct namespace'
+p4
+tp5
+tp6
+.

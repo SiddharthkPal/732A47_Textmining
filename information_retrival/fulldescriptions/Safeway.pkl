@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Safeway '
+p1
+tp2
+(S'Description:'
+p3
+S"Make shopping fun again! With the Safeway app, saving has never been more convenient. Use the app to easily get coupons and find weekly savings. In addition, with our shopping list feature, you can create, edit and update a real shopping list \xe2\x80\x93 on the go and on your time. Never miss a sale or forget to pickup an item because our app is always with you. Features: \xe2\x80\xa2 Build a real, customizable shopping list you can use week after week \xe2\x80\xa2 Easily view the Safeway's Weekly Ad for your store on the go \xe2\x80\xa2 Load savings on the go with Just for U digital coupons and personalized deals \xe2\x80\xa2 Use our store locator to find the closest safeway store This app is for the U.S. customers only. DIRECTLY CALL PHONE NUMBERS permission is needed for the CALL STORE feature of the app.) If you have problem logging in, please call customer service at 1-877-723-3929.Recent changes:- Now you can choose to view only your \xe2\x80\x9cchecked\xe2\x80\x9d or \xe2\x80\x9cunchecked\xe2\x80\x9d offers in \xe2\x80\x9cMy List\xe2\x80\x9d, making the use of your list easier while  shopping. - Added items can now be moved into categories in \xe2\x80\x9cMy List\xe2\x80\x9d. - You can now sync all offers and \xe2\x80\x9cMy List\xe2\x80\x9d manually. - The \xe2\x80\x9cMore\xe2\x80\x9d section is reorganized for easy navigation. - Bug fixes and stability improvements."
+p4
+tp5
+tp6
+.

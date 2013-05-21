@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tarot Angel Cards '
+p1
+tp2
+(S'Description:'
+p3
+S"Tarot Angel Cards will strengthen your intuition, rediscover some of your psychic abilities and at the same time strengthen your communication with angels by asking questions or pleading for help and guidance.Every time you pull a card, you will awaken angel presence in your life and receive immediate message of angel love - that will direct you towards love for yourself and at the same time towards more loving relationships with other people. Tarot Angel Cards are jems. Angel's words will touch your heart with pure sincerity. These cards will bring answers to all the questions you have regarding yourself and others. Each time you pick an angelic card, you will receive a direct message of angelic love, awaken your psychic abilities and intuition. Beautiful angel pictures will fill your aura with angel healing energy.Product Features:\xe2\x98\x85 Message of the day\xe2\x98\x85 Past, present, future\xe2\x98\x85 Choose between 3 different readings \xe2\x98\x85 You can read the full meaning of each card\xe2\x98\x85 Angel reading for yourself\xe2\x98\x85 Angel reading for another person\xe2\x98\x85 Some examples of asking question\xe2\x98\x85 Give readings anytime, anywhere  on your device \xe2\x98\x85 9 different languagesRecent changes:- minor bugs fixed"
+p4
+tp5
+tp6
+.

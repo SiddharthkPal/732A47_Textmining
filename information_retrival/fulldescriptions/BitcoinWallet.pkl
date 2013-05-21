@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bitcoin Wallet '
+p1
+tp2
+(S'Description:'
+p3
+S"With this app you always have your Bitcoins with you, in your pocket! You can send payments simply by scanning a QR-code or by touching two phones together (NFC). Bitcoin Wallet is designed to be easy to use and reliable, while also being secure and fast.FEATURES:\xe2\x80\xa2 No cloud server or service needed! This wallet is peer to peer.\xe2\x80\xa2 Display of wallet balance in Bitcoin and various other currencies\xe2\x80\xa2 Sending and receiving of Bitcoin via NFC, QR-codes or Bitcoin URLs\xe2\x80\xa2 Address book for regularly used Bitcoin addresses\xe2\x80\xa2 Enter transactions while offline, will be executed when online\xe2\x80\xa2 Manages blockchain on your device (for enhanced security)\xe2\x80\xa2 System notifications for Bitcoin connectivity and received coins\xe2\x80\xa2 App widget for Bitcoin balanceYou can find more about Bitcoin athttp://bitcoin.orgIf you want to contribute to Bitcoin Wallet, the project is located athttps://code.google.com/p/bitcoin-wallet/License: GPLv3Use at your own risk!http://www.gnu.org/licenses/gpl-3.0.en.html--BTC bitcoin wallet blockchain bitcoinandroid androidbitcoin Geldb\xc3\xb6rse \xd0\x9a\xd0\xbe\xd1\x88\xd0\xb5\xd0\xbb\xd1\x91\xd0\xba mobile paymentRecent changes:Version 3.04* bugfixesVersion 3.01* now requires Gingerbread (Android 2.3.3) or later* export/import encrypted private key backups to/from mail or online storage* switch to new block store format, uses seriously less internal storage and doesn't grow  (existing installs can be migrated by resetting the blockchain once)* new installs are instantly fully updated and useable* got rid of block chain snapshot in APK, installs updates much faster* based on bitcoinj 0.8"
+p4
+tp5
+tp6
+.

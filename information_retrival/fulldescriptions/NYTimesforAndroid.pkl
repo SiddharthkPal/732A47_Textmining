@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NYTimes for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'Download the application and get our Top News section for free, or subscribe to unlock all the sections in the app of The Times, plus blogs, videos and slide shows. The app downloads and syncs the latest news directly to your device for online or offline reading. Improved design, a directory of New York Times blogs and added offline bookmarking features enhance your reading experience. View in portrait or landscape, with adjustable font size. Share articles via e-mail, SMS, Facebook and Twitter. And get breaking news alerts to be the first to read about events as soon as they occur.Recent changes:\xe2\x80\xa2 NEW: SEARCHSearch for articles on your device and from NYTimes.com. Tap the search icon (a magnifying glass in the top navigation bar) and type any headline, topic or keyword to find relevant articles to read, save, or share.\xe2\x80\xa2 Bug fix for slideshow network error.\xe2\x80\xa2 Improved stability.'
+p4
+tp5
+tp6
+.

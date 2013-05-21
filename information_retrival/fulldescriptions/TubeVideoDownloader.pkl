@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tube Video Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Tube Video Downloader is the best app to download videos online from Internet to your Android phone. You can download and save videos in different formats as FLV, MP4, 3GP, MOV, WMV, MKV, etc. This application DOES NOT DOWNLOAD VIDEOS FROM YOUTUBE because of the Terms of service.It automatically detects links from the Web browser, so you do not need to copy and paste them in the app.Features- Download videos in parallel parts to increase and accelerate the download speed- Resume paused or broken downloads if it is supported by the website.- Pause, delete, cancel and restart downloads- Support for large file videos (over 2 GB)- Support different formats: MP4, 3GP, FLV, MOV, WMV, MKV, etc.- Run in background- Several videos may be downloaded simultaneously or in queue- Automatically detects the links from your Web browser- Open videos with your favorite media player- Support many languages: English, French, Spanish, etc.* This application does NOT work for videos from YouTube because of Google policy. IT CAN NOT DOWNLOAD VIDEOS FROM YOUTUBE.* WATCH NEXT VIDEO to learn how to use this app: http://youtu.be/lJv27gYlF-4Tags: tube video downloader pro videos streaming online video internet mate movie films rtsp'
+p4
+tp5
+tp6
+.

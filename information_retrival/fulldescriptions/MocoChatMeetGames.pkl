@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Moco - Chat, Meet, Games '
+p1
+tp2
+(S'Description:'
+p3
+S'Moco - Chat, Meet, Flirt, Date, Free, Fun!Join the millions of people on MocoSpace who chat, meet new people, play games, flirt and even fall in love! No matter who or what you\'re looking for, there are thousands of REAL people online right now. Free to download and - unlike other apps - free to connect with people too!MocoSpace is the place to:- Chat in any of our 100\'s of chat rooms and discussion forums, or start your own 1-1 or group chat- Meet people near you, instant message, and make new friends- Join the largest community of Hispanics / Latinos and African Americans- Customize your profile with Videos, Music, backgrounds, slideshow animations and more!- Meet people playing dozens of FREE games including Bingo, Poker, Slots and more- Send eCards for the holidays, birthdays and any other occassion- Find friends, casual dates, serious relationships - you\'re in control______"I love it.... Its a great way to meet new ppl and more. I been a Member of Moco since 07. I met my fiance on there!" - Tamela, 26"I\'ve been able to find REAL people here much quicker than Badoo, Skout, MeetMe, Tagged and a bunch of others I tried!" - Alexis, 20"MocoSpace is great for finding and keeping really good friends and the games are off the chain very good and fun 5 STARS" - Cleveland, 22"I\'m a MocoSpace addict have been since early 08, I\'m on everyday!" - Maria, 27Keywords: Chat, Games, Music, Video, Messaging, Text, Texting, Meet, Meeting, New People, Party, Networking, Free Messages, Instant Messaging, Kik, Whatsapp, Snapchat, Search, Find new people, Hotlist, Friends, Social, Local, Mobile, Message, Singles, Locals, Flirt, Flirting, Messenger, Photos, SMS, Guys, Girls, Latinos, Hispanics, Dating, Zoosk, Boyfriend, Girlfriend, Friendship, Talk, Relationship, ChatterRecent changes:- Music! Browse the hottest songs and add your favorite to your profile!- Videos! Browse the hottest videos and add your favorite to your profile.- Enhanced chat experience - share photos within chat!- New social features to make meeting people easier than ever- Earn FREE Gold!- You\'ll also benefit from a bunch of assorted bug fixes, performance upgrades and stability improvements'
+p4
+tp5
+tp6
+.

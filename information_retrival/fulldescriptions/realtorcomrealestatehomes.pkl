@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'realtor.com real estate, homes '
+p1
+tp2
+(S'Description:'
+p3
+S'Your perfect home is out there. Find it first with the most accurate app for searching homes for sale and rent -- now with ability to find homes based on school and district assignment boundaries!"Makes searching for homes with schooling in mind a little bit easier..." --James Zahn, The Rock Father"Great schools in the area? Now you\'re talking a parent\'s language" --Terrence Gaines, PCMag.comNew and notable:\xe2\x80\xa2 The only true search of homes for sale by school or school district - make sure your dream home includes your dream school!\xe2\x80\xa2 Property listing details now include property tax, sales history and more school information including ratings.\xe2\x80\xa2Draw your own custom search area right on the map! (aka Area Highlighter)\xe2\x80\xa2Search nearby houses for sale, open houses and recently sold homes with one touch.\xe2\x80\xa2Use Area Scout to see results and average values of houses update as you move\xe2\x80\xa2Stay updated on the true status of real estate listings, including foreclosures, just taken off market, and price-reduced homes for sale.\xe2\x80\xa290% of listings updated every 15 minutes. All the rest updated at least once a day.\xe2\x80\xa2Sign-in to save searches and listings. Access them again on your mobile phone or online at www.realtor.com.For real estate agents:\xe2\x80\xa2Connect and search with your clients!Learn more at http://marketing.realtor.com/collaborate Come hang with us!http://twitter.com/REALTORdotcomhttp://www.facebook.com/realtor.comRecent changes:Bug Fixes'
+p4
+tp5
+tp6
+.

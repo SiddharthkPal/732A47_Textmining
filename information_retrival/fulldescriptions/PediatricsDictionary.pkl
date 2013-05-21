@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pediatrics Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'Pediatrics is a medical specialty that focuses on infants, children and adolescents. This field of medicine deals with the diseases, their diagnosis, treatment options, prognosis and care of infants, children and adolescents.   The FOCUS Animated Pocket Dictionary of Pediatrics, the first ever animated dictionary in the subject, is a comprehensive reference source for the definition of terms related to the Pediatrics, and the diseases and disorders affecting the children. A must-have resource for physicians and students who would greatly benefit from this module, it covers 120 related terms and definitions. All the definitions have been graphically described with breathtaking, state of the art 3D animations and presented in this CD format that allows easy search just like a print dictionary, making learning more exciting.Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

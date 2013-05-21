@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cinemark Theatres '
+p1
+tp2
+(S'Description:'
+p3
+S'Cinemark is a leader in the motion picture exhibition industry. The Cinemark Theatres app allows easy access to any domestic Cinemark theatre. The simple, user-friendly interface allows you to:\xe2\x80\xa2 Find Cinemark theatre locations via GPS\xe2\x80\xa2 Search for your preferred Cinemark theatre location\xe2\x80\xa2 Access your My Cinemark favorite theatres\xe2\x80\xa2 Purchase movie tickets securely\xe2\x80\xa2 View your gift card balance\xe2\x80\xa2 View ticket purchase historyCineMode Rewards:\xe2\x80\xa2 The Cinemark App now features CineMode - an exclusive and interactive way to earn Cinemark Rewards while being courteous during the show\xe2\x80\xa2 From within the Cinemark app, start CineMode when your movie begins\xe2\x80\xa2 Your phone\'s screen will dim automatically, and you will be prompted to set volume to vibrate\xe2\x80\xa2 Stay in CineMode for the duration of the movie\xe2\x80\xa2 To ensure you receive your Reward, be sure to not use your phone at all when in CineMode. Hitting the "home" button will stop CineMode and you will not receive your Reward.\xe2\x80\xa2 Earn Rewards each and every time you see a movie at Cinemark!You\xe2\x80\x99ll also be able to search and view:\xe2\x80\xa2 Search for movies Coming Soon\xe2\x80\xa2 Search for movies Now Playing\xe2\x80\xa2 View movie trailers\xe2\x80\xa2 Rating, Synopsis, Cast and more\xe2\x80\xa6\xe2\x80\xa2 Get information for the films you want to see!Stay Social:\xe2\x80\xa2 Share showtimes via email, text, Facebook or Twitter\xe2\x80\xa2 Share theatre locations via email, text, Facebook or Twitter\xe2\x80\xa2 Share movie info via email, text, Facebook or TwitterKeep the Best Seat In Town at your fingertips to access showtimes, movie info and Cinemark theatre locations on the go. Download the FREE Cinemark Theatres app now!Recent changes:Version 2.3.2:\xe2\x98\x85 Updated fix for Galaxy Note 2 devices that had issues with scrolling the movie and show time lists.  We thought this was fixed with 2.3.1, we have confirmed that it is now fixed with 2.3.2.  Thanks for your patience in us tracking down this bug!'
+p4
+tp5
+tp6
+.

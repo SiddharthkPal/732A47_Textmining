@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ANSA '
+p1
+tp2
+(S'Description:'
+p3
+S'L\'informazione ANSA su smartphone e tablet, ovunque tu sia, in modo semplice e veloce!Accedi a notizie, video e foto d\'agenzia sui principali avvenimenti della giornata.Mondo, Italia, Economia, Cronaca, Sport e Spettacolo.Sempre aggiornati, ovunque e gratis. Semplicemente scaricando la App!Recent changes:Aggiunto "Sposta su scheda SD"Vari bug fixes.'
+p4
+tp5
+tp6
+.

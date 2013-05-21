@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'transparent wallpaper camera '
+p1
+tp2
+(S'Description:'
+p3
+S'Application get video from camera and set as wallpaper. If you want special video effects please download full version.'
+p4
+tp5
+tp6
+.

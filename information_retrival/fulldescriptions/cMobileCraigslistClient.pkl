@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'c\xc3\xa2\xe2\x82\xac\xc2\xa2Mobile Craigslist Client '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85 OFFICIALLY LICENSED CRAIGSLIST APP \xe2\x98\x85c\xe2\x80\xa2Mobile is your ULTIMATE access to Craigslist perfectly formatted for your Android phone and tablet.  It unlocks the power of background searches and Notifies you when new matching postings appear on Craigslist. Craigslist listings with thumbnail photo previews, maps, easy communications with posters, direct access to your Craigslist account, and a lot more! In addition to the features available at Craigslist.org, unlock many new smart capabilities: \xe2\x9c\xa7 Map browser \xe2\x9c\xa7 Multi-city searches \xe2\x9c\xa7 Communication tools (integrated email/SMS to respond to posters and forward/text interesting postings to your friends) \xe2\x9c\xa7 Photo browser \xe2\x9c\xa7 Automated Craigslist area selection using GPS positioning \xe2\x9c\xa7 Posting with photos directly from the app \xe2\x9c\xa7 Account management & support for multiple Craigslist accounts \xe2\x9c\xa7 Favorite ads with notes \xe2\x9c\xa7 Maps and directions Also: \xe2\x9c\xa7 Saved searches \xe2\x9c\xa7 Pinch-and-zoom full-screen photos \xe2\x9c\xa7 Dozens of search options and filters \xe2\x9c\xa7 All categories (jobs, for sale, ...) & the best of Craigslist \xe2\x9c\xa7 Neighborhood filtering \xe2\x9c\xa7 Time since posted labels \xe2\x9c\xa7 Tracking system of already reviewed listings \xe2\x9c\xa7 Flagging \xe2\x9c\xa7 Result sorting Additional features inside! The craigslist and associated trademarks are owned by craigslist, Inc. and are being used under licensed permission from craigslist, Inc. for a limited purpose. www.craigslist.orgRecent changes:\xe2\x98\x85 Map Browser improvements\xe2\x98\x85 Introducing search from the results view page'
+p4
+tp5
+tp6
+.

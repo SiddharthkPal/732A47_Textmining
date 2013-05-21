@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Songbird Android Music Player '
+p1
+tp2
+(S'Description:'
+p3
+S'(re)discover musicSongbird, your favorite music player for Android, now includes fresh hand-picked YouTube playlists. What makes Songbird better than any other player out there?\xe2\x9c\x93 Background playback for music videos\xe2\x9c\x93 Headset controls\xe2\x9c\x93 Optional HD quality videos setting when connected to WiFi\xe2\x9c\x93 Limitless plays and skips\xe2\x9c\x93 Full screen view in landscape\xe2\x9c\x93 Updates from your favorite artists\xe2\x9c\x93 Simple sharing of songs and playlists\xe2\x9c\x93 Personalized music recommendations\xe2\x9c\x93 Playback any music from your library Hear what some of our top fans have had to say: *****"The playlists are amazing.  So great to be able to preview all the Coachella bands before the show\xe2\x80\x9d- Nikki*****"Very nice music player. Responsive, non-troublesome, sleek and fast."- Azrael*****"OMG, love it. This was free?? Wow, thanks!!"- Anna*****"This app was exactly what I was looking for. It\'s simple, elegant, and works amazing. Love that I can still hear the playlists while my phone is asleep."- Mick*****"I love to read the artist updates while listen!"- PollyRecent changes:v3.0- Listen to a grip of awesome YouTube playlists curated by the Songbird team (Android V4 and up only)- Play, pause, and skip YouTube videos right within the songbird player (Android V4 and up only)- Share your favorite YouTube playlists with your friends (Android V4 and up only)- Move to SD card- Convenient app exit option- Various bug fixesv3.0.1- lockscreen fix- headset control fix'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Showtime Anytime '
+p1
+tp2
+(S'Description:'
+p3
+S"SHOWTIME ANYTIME\xc2\xae - now available for Android\xe2\x84\xa2 phones and tablets. Get unlimited access to a huge selection of full-length, unedited SHOWTIME\xc2\xae programs \xe2\x80\x93 the most talked about Original Series, uncut Hit Movies, Sports, Comedy, Reality/Documentaries and much more, right at your fingertips. With new titles added each week, there's always something great to watch. FREE with your SHOWTIME subscription through participating TV providers. Current Participating TV Providers:- AT&T U-verse, Comcast XFINITY, DIRECTV, Optimum and Verizon FiOSWatch EVERY SEASON of critically acclaimed, award-winning SHOWTIME Original Series:- Dexter\xc2\xae- Homeland- Shameless- House of Lies- Californication- Nurse Jackie- The Borgias- The Big C- Episodes- Gigolos- Inside Comedy- WeedsPLUS, Showtime Championship Boxing\xc2\xae, 60 Minutes Sports and much more!User-Friendly Features:- My List \xe2\x80\x93 Lets you organize and view your favorite programs- Add New Episodes \xe2\x80\x93 Automatically adds new episodes of your favorite series to your My List as they premiere- Play Shifting \xe2\x80\x93 Resume watching where you left off on your computer, tablet or phone- Socialize \xe2\x80\x93 Share what you\xe2\x80\x99re watching on Facebook and Twitter- Closed captioning available\xc2\xa92013 Showtime Networks Inc. All rights reserved. SHOWTIME and related marks are trademarks of Showtime Networks Inc., a CBS Company. Showtime Anytime is intended for viewing solely in the United States and its territories and possessions.Recent changes:- Available to Showtime subscribers with AT&T U-verse, Comcast XFINITY, DIRECTV, Optimum and Verizon FiOS!- Support for Android tablet- Support for closed captioning- Improved performance and stability- Minor bug fixes"
+p4
+tp5
+tp6
+.

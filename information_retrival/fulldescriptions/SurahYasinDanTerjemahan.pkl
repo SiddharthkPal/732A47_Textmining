@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Surah Yasin Dan Terjemahan '
+p1
+tp2
+(S'Description:'
+p3
+S'This application provide Surah Yasin with Arabic text for recitation along with its Malay translation for understanding the Holy verses of Surah Yasin.Surah Yasin ini mengandungi terjemahan Bahasa Melayu pada setiap ayat. Semoga kita dapat menghayati setiap maksud ayat-ayat Surah Yasin dan semoga mendapat keberkatan.'
+p4
+tp5
+tp6
+.

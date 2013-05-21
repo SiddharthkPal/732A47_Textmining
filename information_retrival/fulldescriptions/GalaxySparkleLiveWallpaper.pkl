@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Galaxy Sparkle Live Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Description===========Galaxy Sparkle is a Live Wallpaper where particles moving through screen and overlay the background image to get a very elegant effect. The options you can combine among several founds.Move your finger across the screen to create more particles are fired.Galaxy Sparkle  OpenGL and just consumes power.Configuration Options=========================-Change Background-Max particles-Particle velocityTo set the background========================Home -> Menu -> Wallpaper -> Live Wallpaper -> Galaxy Sparkle'
+p4
+tp5
+tp6
+.

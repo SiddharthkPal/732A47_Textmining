@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hancomoffice Hanword Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x96\xa0 Key Features1. Open attached documents: Directly open attached documents on email as well as the documents stored in Hancom Viewer.2. File Manager: View, copy, move, manage files and send them to others. You can organize your files and folders easily. 3. File List of External Memory : Provide the file list of the external memory to move files in external memory (SD card).4. Support Secured Document: View password-protected and distribution documents.5. Access to Recent Documents: Show the list of recent documents for easy and quick access to them.\xe2\x96\xa0 Matters that require attention1. Some characters and some areas where Korean and English are not written may not be displayed correctly using the embedded mobile-optimized fonts.2. The fonts of the original document may change to the mobile-optimized fonts and it may change page layouts.3. OLE objects, charts, form controls, multimedia effects such as sound, video, flash, some images (AI, CDR, CGM, DRW, DXF, EMF, EPS, HDR, PIC, PICT, PLT, TIFF, WPG, etc.), and image effects are not available. However, if you open the document with OLE objects, charts, and form controls that was saved as Mobile Optimized Document, OLE objects, charts, and form controls appear as images.4. You can open the attached documents in the HWP MIME format on your email.5. Hancom Viewer is optimized for Galaxy S, Galaxy S2, Galaxy Tab, Galaxy Tab10.1, Motorola Xoom, Nexus One, Nexus S, Galaxy Nexus, HTC Desire HD, LG Optimus Q, Vega LTE, Vega No.5. It may not give the best possible performance on other devices.Recent changes:- Support Jelly Bean (Android 4.1.x, 4.2)- Mobile font update- Fix errors'
+p4
+tp5
+tp6
+.

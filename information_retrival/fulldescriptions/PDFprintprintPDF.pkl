@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PDFprint - print PDF '
+p1
+tp2
+(S'Description:'
+p3
+S'PDFprint helps you to print your PDF documents= Printer Wizard helps you to manage your printersPrinter Wizard automatically searches available network printers and verifies the compatibilities by printing test page.= Print to local network printersPlease make sure that your printer is connected to the WiFi which your Android device is connected to.= Print to Google Cloud PrintPlease see http://www.google.com/cloudprint/learn/ to learn more about Google Cloud PrintPlease note:A. PDFprint is FREE. It does not cost you any money to download and install, does it?B. Print function is limited FREE.C. You have ONE MONTH FREE TRIAL to test the Print functions. (We only provide free trial on the first time installation)D. After the free trial expired, you have 5 times free print each month. Please subscribe if you want to print more.E. PDFprint does NOT support every printer in the world, please print the test page correctly before any subscription.For more information, please see https://sites.google.com/site/threebirdsapp/Recent changes:Fix bugs'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Acid Planet Super Theme GO '
+p1
+tp2
+(S'Description:'
+p3
+S"Check full version features and upgrade option, please click the little alien on the edge of the screen to open the upgrade window.Shake your phone to switch between outer space and  undersea world!!This is a premium GO Launcher EX Super Theme. This theme is free to download, you can apply it with icons and wallpapers.If you want Super Theme effects, you can choose upgrade to full version by:1. Pay with IAP ( In app purchase ) 2. Get it for free with Getjar GoldIn the distant universe found a mysterious planet, with dreamlike surface and fantastic undersea world. Shaking phone to switch scenes!#FeaturesTWO scenes! Shake your phone to switch between outer space and  undersea worldOut space: ET, UFOUndersea world: jellyfish#Notice1.Super Theme effects is only available for phones with GO Launcher EX V3.27 or above. Search \xe2\x80\x9cGO Launcher EX\xe2\x80\x9d on Google Play Shop and install it for free.2.If you've got any problems on this theme, try to restart the launcher or re-apply this theme. If the problem is still unsolved, please send us feedback.Recent changes:(Fix) some bugs may cause crash(Fix) Getjar SDK updated"
+p4
+tp5
+tp6
+.

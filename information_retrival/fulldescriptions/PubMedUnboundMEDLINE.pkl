@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PubMed \xc3\xa2\xe2\x82\xac\xe2\x80\x9c Unbound MEDLINE '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85 FREE, native app access to MEDLINE/PubMed, full-text journals, and Grapherence\xe2\x84\xa2 -- Unbound\xe2\x80\x99s revolutionary visual search technology \xe2\x98\x85\xe2\x98\x85PubMed \xe2\x80\x93 Unbound MEDLINE connects you to over 20 million journal citations and abstracts from PubMed via your smartphone or tablet. Perform powerful searches, share citations with colleagues, and link directly to the publisher\xe2\x80\x99s full text. Visually explore the literature using Grapherence\xe2\x84\xa2, a unique way to find related and relevant articles. PubMed \xe2\x80\x93 Unbound MEDLINE allows you to: \xe2\x80\xa2Search the PubMed database \xe2\x80\x93 20+ million journal articles \xe2\x80\xa2Read publisher full text\xe2\x80\xa2See article relationships with Grapherence\xe2\x80\xa2Perform advanced and evidence-based searches\xe2\x80\xa2Share PubMed articles via email, Facebook, Twitter, Google+, Google Drive, or Dropbox\xe2\x80\xa2Export citations to Reference Management Software\xe2\x80\xa2Bookmark searches and articles as \xe2\x80\x98Favorites\xe2\x80\x99WHAT IS GRAPHERENCE?Grapherence\xe2\x84\xa2 is Unbound\xe2\x80\x99s new interactive search that graphically represents the influence and interrelationships among journal articles. Tap the Grapherence button within a citation and instantly see how that article is related to others. Using this exclusive feature the researcher quickly uncovers difficult to find entries, determines overall significance, identifies clusters of thought, and locates seminal articles.   UNBOUND MEDICINEWith more than 40 premium apps available, Unbound Medicine combines premium software with best-selling content to bring you the best medical applications for smartphones and tablets. Top-selling titles include the Johns Hopkins ABX Guide, Diagnosaurus DDx, Davis\xe2\x80\x99s Drug Guide, Harriet Lane Handbook and 5-Minute Clinical Consult. Visit www.unboundmedicine.com for more information.'
+p4
+tp5
+tp6
+.

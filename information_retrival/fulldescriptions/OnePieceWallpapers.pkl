@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'One Piece Wallpapers '
+p1
+tp2
+(S'Description:'
+p3
+S"Fan-based application for japanese animation / anime - One Piece ( \xe3\x83\xaf\xe3\x83\xb3\xe3\x83\x94\xe3\x83\xbc\xe3\x82\xb9 )!Features including:1. Beautiful One Piece characters' pictures that can be set as wallpaper2. No annoying push notificationsCome and join the One Piece pirates and their adventures, by downloading this application - by a fan, for the fans !*** Legal Notice ***All copyrights and credits of the images and information belong to their respective owners and editors.This application is not endorsed by, or affiliated with, One Piece's animation studio or their affiliated entities."
+p4
+tp5
+tp6
+.

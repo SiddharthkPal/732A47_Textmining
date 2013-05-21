@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Coisas de Pobre '
+p1
+tp2
+(S'Description:'
+p3
+S'Mais de 100 coisas de pobre!Voc\xc3\xaa vai identificar um amigo (ou voc\xc3\xaa mesmo) com esse aplicativo!"Lamber a parte met\xc3\xa1lica do Yogurte""Usar copo de requeij\xc3\xa3o como copo""Colocar palha de a\xc3\xa7o na antena da TV"Divirta-se!Tenha todas as manias de pobre totalmente gr\xc3\xa1tis em seu celular!'
+p4
+tp5
+tp6
+.

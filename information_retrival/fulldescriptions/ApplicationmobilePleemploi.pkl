@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Application mobile P\xc3\x83\xc2\xb4le emploi '
+p1
+tp2
+(S'Description:'
+p3
+S"L\xe2\x80\x99application permet \xc3\xa0 tous de rechercher des offres d\xe2\x80\x99emploi : Un vivier de plus de 180 000 offres d'emploi mises \xc3\xa0 jour par les conseillers, transf\xc3\xa9rez vos offres sur votre e-mail, m\xc3\xa9morisez-les ainsi que les crit\xc3\xa8res de recherche. G\xc3\xa9o localisez vos offres d\xe2\x80\x99emploi afin de faciliter vos entretiens.   Demandeurs d\xe2\x80\x99emploi : Vous pourrez \xc3\xa9galement actualiser votre situation tous les mois, si vous \xc3\xaates, toujours \xc3\xa0 la recherche d\xe2\x80\x99un emploi, si vous n\xe2\x80\x99avez aucun \xc3\xa9v\xc3\xa9nement \xc3\xa0 signaler \xc3\xa0 P\xc3\xb4le emploi pour le mois en cours (je n\xe2\x80\x99ai pas travaill\xc3\xa9, je n\xe2\x80\x99ai pas \xc3\xa9t\xc3\xa9 en arr\xc3\xaat maladie\xe2\x80\xa6).Vous pourrez acc\xc3\xa9der au calendrier des p\xc3\xa9riodes d\xe2\x80\x99actualisation. \xc2\xbbRecent changes:Cette nouvelle r\xc3\xa9vision corrige une anomalie majeure sur la recherche des offres d\xe2\x80\x99emploi"
+p4
+tp5
+tp6
+.

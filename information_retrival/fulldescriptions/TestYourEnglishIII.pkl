@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Test Your English III. '
+p1
+tp2
+(S'Description:'
+p3
+S'Test Your English(Level Advanced)This application helps you to improve your English skills. It contains more than 900 multiple choice tests.--Types of tests:Language (English Tests for ESL/EFL :: English Grammar Exercises)Business(Teaching Business English :: ESL Business English Tests)Synonyms(Learning English Quizzes :: English Synonym Worksheets)Idioms(English as a Foreign Language :: Idiomatic Expressions in English)Errors(English as a Second Language :: Common Errors in English Usage)--Each test consists from ten questions. Select the correct answer from three or four possible answers. If the type of tests is Errors, you first have to find the error and then select it in the options. Then you are expected to type in a word that would be correct in the sentence.--At the end of each test is evaluated your score, which you can later improve. The best possible result is of course 10/10 (ten correct answers from all the ten questions). In the section "Scores" You can see your results painted on the pie graph. Green color means a result 10/10. Paint Your scores to green! ;-) Since version 1.1 there is a list of your incorrect answers ("Scores/Incorrect answers"). You can check them and re-test yourself. If you repeat a test and answer correctly, they are removed from a list. And, if you like you can play "Millionaire" (inspired by tv-game "Who Wants to Be a Millionaire?"). Good luck!martin.kupkovic@gmail.comRecent changes:\'Search\' feature addedupdated links in \'Help\''
+p4
+tp5
+tp6
+.

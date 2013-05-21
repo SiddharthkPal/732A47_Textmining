@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Clock Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'GO Clock Widget is a time browsing tool on homescreen based on GO Launcher EX. Both analog style and digital style are supported. The analog style has two different modes that change at 6:00 and 18:00. Up to 9 different themes are supported!To make it work, you must install the latest version of GO Launcher EX which is the most popular home launcher app in Android Market.Available Size:- 4x2- 4x1- 2x2Actions:- Set alarmsHow to add GOWidget to your home screen?- Long press on your home screen in GO Launcher EX. Press the GOwidget option and choose the widget you like. Make sure you have enough room for the widget.Recent changes:1.\xef\xbc\x88Add\xef\xbc\x89World clock style'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PowerAmp FreshGreen Skin '
+p1
+tp2
+(S'Description:'
+p3
+S'Beautiful theme in black and green colors for PowerAmp.Subscribe and watch the news in the Google+ http://goo.gl/KG0ZlWidget Pack:http://goo.gl/7O7dqinstallation:-Go to the settings PowerAmp-To choose point a subject-Select PowerAmp FreshGreen SkinAttention! If you have installed on your phone firmware 4.1 please open a theme after installation and read the instructions!Tegs: PowerAmp skin, Theme PowerAmp, PowerAmp, Skins, Skin for PowerAmp, Power Amp skin, Power Amp themeRecent changes:Other themes: https://play.google.com/store/apps/developer?id=Apk%20Creative'
+p4
+tp5
+tp6
+.

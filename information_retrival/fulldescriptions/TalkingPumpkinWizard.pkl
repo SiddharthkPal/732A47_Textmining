@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Talking Pumpkin Wizard '
+p1
+tp2
+(S'Description:'
+p3
+S'**Talking Pumpkin Wizard repeats everything you say with a funny voice.**Enjoy hours of fun and laughter with Talking Pumpkin Wizard. He is especially fun for children of all ages.**Play with Pumpkin Wizard:- Talk to Pumpkin Wizard and he will repeat everything you say with a funny voice.- really sweet.- look at my dancing.- have a sleep.- Poke his head, Arm or feet.'
+p4
+tp5
+tp6
+.

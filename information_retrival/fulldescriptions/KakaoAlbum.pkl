@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'KakaoAlbum '
+p1
+tp2
+(S'Description:'
+p3
+S'Now, use KakaoAlbum to collect and organize precious photos in the phone.Managing photos will be more enjoyable.* Gather photos of special memories in one place.Do not leave your precious memories scattered. You can gather photos of happy moment taken by multiple mobile phones, with powerful photo collecting feature of KakaoAlbum.- Friends can collect photos taken from each phones while in travel, field trip, birthday party, graduation ceremony, wedding ceremony together- Couples can collect photos of each other after date- Parents can create an adorable album for baby * Use KakaoAlbum as a solution for organizing photosYou can organize thousands of photos in your mobile phone with KakaoAlbum.Album can be created freely by events or themes.You can keep photos in KakaoAlbum even if you have lost or changed your mobile phone. If you want to share an album, you can invite friends or send invitation messages by KakaoTalk chatroom!Manage easily with KakaoAlbum, and upload photos you like on KakaoStory instantly!Recent changes:- Possible to restrict members from adding photos to an album'
+p4
+tp5
+tp6
+.

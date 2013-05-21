@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CAP-Discount Prescription Card '
+p1
+tp2
+(S'Description:'
+p3
+S'Community Assistance Program (CAP) is a free electronic prescription drug discount card offering savings of 10 percent to 95 percent at more than 56,000 pharmacies nationwide. - AVAILABLE TO EVERYONE! -No health insurance? High co-pay? Prescription not covered? No problem. The CAP card is accepted at over 80% of USA pharmacies, including Wal-Mart, Rite Aid, Kroger, Target, CVS, Kmart, Safeway, Walgreens, Costco, and thousands more.  Use for the entire family and share with anyone. All FDA-approved brand and generic prescription medications are covered.  Click the card to use our Drug Pricing and Phamracy Locator Look-Ups. Find the lowest price at Pharmacies near you.Use for discounts on pet prescriptions filled at your local pharmacy.Just present this card when ordering or paying for your prescription.App recommends Generic equivalent(s) when available to save you even more money!Your prescription may be cheaper with this App than using your Insurance Co-Pay.Note: This card is not insurance and cannot be used in combination with your insurance Co-Pay prescription plan.Download and use this App today...Stop overpaying for your medications.'
+p4
+tp5
+tp6
+.

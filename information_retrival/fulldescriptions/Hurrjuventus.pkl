@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hurr\xc3\x83\xc2\xa0 juventus '
+p1
+tp2
+(S'Description:'
+p3
+S'"Hurr\xc3\xa0 Juventus in formato digitale!Hurr\xc3\xa0 Juventus, lo storico mensile ufficiale bianconero ora sbarca sui tuoi Iphone e IPad. Sfoglia le pagine e scopri tutto sul mondo bianconero, con interviste esclusive ai tuoi campioni, le immagini pi\xc3\xb9 belle, le curiosit\xc3\xa0 pi\xc3\xb9 accattivanti... Hurr\xc3\xa0 Juventus \xc3\xa8 il modo pi\xc3\xb9 immediato ed efficace per scoprire tutti i segreti della squadra pi\xc3\xb9 amata d\xe2\x80\x99Italia, della tua squadra. E nel 7formato digitale il mensile bianconero \xc3\xa8 ancora pi\xc3\xb9 ricco, con photgallery e video unici. Scaricalo subito, buon divertimento e Forza Juve! UN Numero: 1,59\xe2\x82\xac Abbonamento semestrale: 7,99\xe2\x82\xac, Abbonamento annuale: 14,99\xe2\x82\xac"Recent changes:Migliorata la stabilit\xc3\xa0'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Push Ups pro '
+p1
+tp2
+(S'Description:'
+p3
+S'Tip: Since Android OS limitation, please install on your Phone instead of SD card if need notification work normal after restart phone.Push Ups! Train with your Device! Your personal trainer for free.The best Push up app is coming with its unique design and powerful function.This is a real personal fitness trainer. This is a cool body builder. Push ups not only helps counting the number of push-ups you do, but also calculates the calorie you lose during every excise and makes the training plan based on your daily training and body status.In training mode, the app will make a reasonable training plan based on your age and body status. The plan will be divided in to six levels with each level containing several groups of push ups. Training plan for next group or level will be based on your current training result. In each new level the app will re-evaluate your body status to make sure the plan is customized.   You can not only count the push ups using proximity sensor but also enter the training data manually. Check out how this app helps you build up your body through doing push up. It will not disappoint you.Features:* Touch Screen Counting* Enter training data manually* Graphs and Statistics* Training mode* Freestyle ModeTag: body building,body builder, training, push up, pushups, press ups, exercises, fitness, coach, strength,Recent changes:V3.02\t\t* +10 -10, +50 -50 buttons are back, you can adjust the result easily.* After you finish all courses, daily plan will still add slowly according to your feedback.* New language: French. Special thanks Alex.* Fix grammar mistakes for Russian language, Special thanks to Anton.'
+p4
+tp5
+tp6
+.

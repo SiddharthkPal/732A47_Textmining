@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shopping UK '
+p1
+tp2
+(S'Description:'
+p3
+S"Mobile app for shopping In UK...!!Have all the Popular Sites in our country....!!Swipe Enabled UI...!!List Of Sites:Apparels:  Next  Asos  Debenhams  Littlewoods  Marksandspencer  My-wardrobe.Electronics:  Ebay  Amazon  Tesco  JohnLewis  Sainsbury's  DabsFootwear:   Barratts  Schuh  Lacoste  Zalando  SarenzaBuy n Sell:  Olx  Preloved  GumTree  Autotrader  Friday-ad  ExchangeandmartMisc:   EasyJet  iFlorist  TheHut  Harrods  Expedia  Lakeland  B&Q  eBuyer  Argos  Topupuk  Bankfashion  Very  ikeaSpeed Of the app depends on your internet speed!!Please Give rating and feedback!!Happy Shopping!!!!"
+p4
+tp5
+tp6
+.

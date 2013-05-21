@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Trulia - Apts & Homes for Rent '
+p1
+tp2
+(S'Description:'
+p3
+S"Trying to find an apartment or house for rent? Designed specifically for the apartment hunter on the go, Trulia Rentals for Android takes the pain out of finding your next home or apartment for rent. Whether you're looking for apartments for rent in New York, Chicago, Boston, or elsewhere in the United States, Trulia-Homes for Rent can help you find the perfect rental home.Never miss a listing with our apartment finder \xe2\x80\x93 we identify the newest homes for rent that match your search criteria and notify you as soon as they\xe2\x80\x99re available. FEATURES:\xe2\x80\xa2 Personalize your search - Quickly find properties you like by GPS or location, get rid of the ones you don\xe2\x80\x99t\xe2\x80\xa2 Quickly see what\xe2\x80\x99s new. Color-coded map markers indicate the newest, most relevant rental properties\xe2\x80\xa2 Remember what you liked (or didn\xe2\x80\x99t) about the place - Take notes, and also share easily with roommates and family\xe2\x80\xa2 Never miss out on another rental \xe2\x80\x93 Get push notifications when a new rental property becomes available, or sign up for email alerts right from your phone \xe2\x80\xa2 Find open houses near you and easily add them to your calendar\xe2\x80\xa2 Find properties using voice-based search \xe2\x80\x93 Just say the city, # of beds and bath, and price range\xe2\x80\xa2 Draw your search area for rental homes on a map! Just circle the area you\xe2\x80\x99re interested in and see rental home and apartment results.Let Trulia Homes for Rent help you find your next apartment! Whether you're looking at apartments for rent in large cities ( New York, Chicago, Boston ), or anywhere else in the USA, Trulia Homes for Rent can find the right rental home for you.Have a comment or suggestion? Email us anytime: android_for_rent@trulia.comNote: Trulia is for properties in the USA only at this time.Recent changes:BAM! Lots of great additions in this release: \xe2\x9c\x94 More rental listings with HD photos available to browse\xe2\x9c\x94 See 3D Maps using Google's newest map API\xe2\x9c\x94 See an interactive crime map of any neighborhood in the US\xe2\x9c\x94 Overlay school attendance zones on a map\xe2\x9c\x94 Now check out maps in satellite or terrain mode Have feedback on our new app? Send it our way: android_for_rent@trulia.com P.S. Don\xe2\x80\x99t forget to \xe2\x80\x9cstar\xe2\x80\x9d your searches to get updates as soon as new rental listings become available!"
+p4
+tp5
+tp6
+.

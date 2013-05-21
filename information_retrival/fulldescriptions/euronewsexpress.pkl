@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'euronews express '
+p1
+tp2
+(S'Description:'
+p3
+S'euronews express brings you high-speed non-stop news anywhere! This latest offering from euronews is the fastest, lightweight and most responsive news app available. Even if you\xe2\x80\x99re experiencing a poor quality network, you\xe2\x80\x99ll never miss what\xe2\x80\x99s happening in the world with this straightforward app.euronews express just brings you the essential news of the day from across the globe. It has the latest headlines and stories from the worlds of news, business, sport, arts and culture. Everyday euronews selects a must-read story that you can find in the Editor\xe2\x80\x99s choice section. Being away from an internet connection is not a problem as euronews express allows quick and easy access to offline reading.This unique app is also available in any of euronews\xe2\x80\x99 12, yes, 12 services - English, French, German, Italian, Spanish, Portuguese, Ukrainian, Russian, Arabic, Persian and Turkish.euronews, the power of simplicity.Recent changes:18/04/2013 New version of the App (Version 2.0.1) We\xe2\x80\x99ve corrected the following bugs (thanks for reporting them!)-\t Tablets crashes on launch.17/04/2013 New version of the App (Version 2.0) We\xe2\x80\x99ve corrected the following bugs (thanks for reporting them!)-\t Improved general application stability.-\t Improved advertising and statistics tagging.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'File Manager HD (Tablet) '
+p1
+tp2
+(S'Description:'
+p3
+S'Best tablet optimized file manager on Android! High definition support with fresh UI design and user friendly functions! Special optimization for tablets! Enjoy it!Includes:* Based on Android 3.0+ new feature and theme* High definition(1280*800+) support* 3 sets of commercial icons for 80+ different file types, toolbar and menu items* Support 19 languages* Cut, copy, paste and cancellable progress dialog* List and grid view for file browsing* Compress and decompress support* Search and share files* Multiple selection and sorting support* Thumbnail for photo, pictures and apk files* Support both local and remote(LAN/SMB) file system* Support FTP, FTPS, SFTP and WebDAV.* Play streaming media from LAN/FTP/WebDAV without download* Support cloud storage including Dropbox, Box, Google Drive, SkyDrive and SugarSync.* Support FTP file sharing, access device files freely without data cable* Support file shortcut on Home screen for easily access* Root Explorer for rooted devices* Built-in text editor, image gallery and swf player* Fully tested on Xoom, Nexus7 and Nexus10NOTE: This is an AD supported application, but you can enable ad-free version by in-app donation in settings page.NOTE: If you have problem for downloading this application to your device from Google Play, please directly download it from our website: http://rhmsoft.com/apk/FileManagerHD.apkKeywords: file manager file explorer file browser root WIFI LAN SMB tabletRecent changes:Version 1.10.6* Add support for FTP file sharing. Click "share" button in network mode to start.* Backup donation record to Google server, no need to activate after re-install.* Minor UI adjust for progress notification, icons, etc.Version 1.10.5* Add support for WebDAV.* Fix Smb connection error with Mac OS.* Fix HTML viewer error when click on telephone or email link.* Minor bug fixes.'
+p4
+tp5
+tp6
+.

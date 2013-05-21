@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RxTime Pill Reminder '
+p1
+tp2
+(S'Description:'
+p3
+S"RxTime Pill Alarm is a simple and effective pill reminder app.  It reminds you when to take medicine by allowing you to schedule alarms.There are two reminder types: * Specify a clock time and days of the week, or * Set an alarm that repeats at a specific interval of hours and minutes (up to 99 hours)Features: * Choose an alarm sound from ringtones on your phone (with vibrate and silent options) * Set quiet hours when alarms will be silent * Alarms can be configured to sound/vibrate once or continue alarming until you respond * Notifications appear on the phone's status bar and are collected on a notification screen until dismissedIMPORTANT: Set any task killer apps on your phone to ignore RxTime or you may not receive alarms.If your phone is powered off during an alarm time you will not receive that alarm.This version of RxTime contains ads.Upgrade to RxTime Pro (paid version) for:* No Ads* Does Not Require Internet PermissionRecent changes:new buttons and screen layout"
+p4
+tp5
+tp6
+.

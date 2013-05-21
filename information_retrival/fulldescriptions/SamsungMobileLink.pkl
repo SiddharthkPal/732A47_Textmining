@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Samsung MobileLink '
+p1
+tp2
+(S'Description:'
+p3
+S'- Install MobileLink App to your Android Smartphone and enjoy sharing photos and videos from Samsung SMART Camera to your Smartphone instantlyFunction - Provides preview function of photos stored in Samsung SMART Camera  - Provides wireless-multiple copy function of photos and videos stored in Samsung SMART CameraOperation - Wirelessly connect Samsung SMART Camera and Android Smartphone by using Application - View, select and copy selected files wirelessly by using Application - Copy original files stored in SMART Camera to Android SmartphoneCompatible devices - Android version : 2.2(Froyo) or higher, display WVGA(320*480) or higher  - Supported Samsung SMART camera : WB850F, WB150F, DV300F, ST200F and other Wi-Fi applied models from 2012   ( May not operate normally in some devices.)Recent changes:-Error correction about the conection.-Error correction about transfer files.-Other bug fixes.'
+p4
+tp5
+tp6
+.

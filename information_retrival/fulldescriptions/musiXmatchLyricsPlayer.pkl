@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'musiXmatch Lyrics Player '
+p1
+tp2
+(S'Description:'
+p3
+S"musiXmatch Lyrics Music Player is a deep dive into the world of song lyrics, with the largest and most exhaustive official catalog of synchronized lyrics. More than 7 mln lyrics in 30 languages. Currently the #1 Lyrics Music Player on Google Play Much better than pure Karaoke! \xe2\x99\xab FINALLY WITH SYNCHRONIZED LYRICS for your MUSIC \xe2\x99\xab \xe2\x98\x85 NEW: SYNCHRONIZED LYRICS WITH YOUR MUSIC \xe2\x98\x85 Identify UNLIMITED Lyrics with powerful MUSIC ID \xe2\x98\x85 Manage your music library with My Music (by artist,album, track, playlist, etc) \xe2\x98\x85 Save your lyrics in your FAVORITES \xe2\x98\x85 Search for Lyrics by typing words, artist name, song title, etc \xe2\x98\x85 Get instant Lyrics notifications from other players \xe2\x98\x85 Browse Lyrics OFFLINE \xe2\x98\x85 WIDGET AVAILABLE Can't remember the name of the song? Just type some words into the search field and we'll find the lyrics for your song! 3rd party Supported players:- Default Android Music Player- HTC Hero Music Player- Archos Music Player- Rhapsody Android Beta- bTunes- \xc2\xb3 (cubed)- Spotify- WIMP- Zimly- Just Playlists- PowerAMP- Winamp (experiencing some problems on it)- myTouch 4G- Google Music (visit support.musixmatch.com for automatic notification issue)- Player Pro (market)- DAAP Media Player- Folder Player (market)- GoneMAD Music Player- MIUI Music Player\xe2\x98\x85\xe2\x98\x85 Works on Edge, 3G, 4G or WIFI \xe2\x98\x85\xe2\x98\x85Recent changes:\xe2\x98\x85\xe2\x98\x85 LYRICS IN TIME WITH MUSIC (from 2.3) \xe2\x98\x85\xe2\x98\x85 - New FB integration- Help us translating musiXmatch http://crowdin.net/project/musixmatch-android- You can add now lyrics- New DayDream option - New Search Widget - New Play notifications - Search improved: My Music tracks in search results come first - Recently Played playlist improved: tracks are sorted by add date- Improved overall performances and fluidity - Bug fixingAs always for any issue -> http://support.musixmatch.com/forums"
+p4
+tp5
+tp6
+.

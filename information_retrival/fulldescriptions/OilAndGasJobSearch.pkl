@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Oil And Gas Job Search '
+p1
+tp2
+(S'Description:'
+p3
+S'Connect to the world\xe2\x80\x99s premier oil and gas industry job site! Discover and apply for jobs that match your exact criteria. Get the OILANDGASJOBSEARCH app for Android, which allows you to search, view and apply for jobs on www.oilandgasjobsearch.com. You will even be alerted when jobs that match your searches become available!Key features:- Search, view and apply for jobs- Push notifications for new jobs that fit your criteria- Save your job searches- Set job alertsRecent changes:Tweak to weighting of search results.'
+p4
+tp5
+tp6
+.

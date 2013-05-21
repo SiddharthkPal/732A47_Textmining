@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Grooveshark Remote '
+p1
+tp2
+(S'Description:'
+p3
+S"Remote control Grooveshark playing on your PC or laptop from anywhere in your house!Easy setup, and then connects instantly. Supports player controls, search, viewing more from album/artist, playlists, favorites.Works with Firefox, Google Chrome and Safari.****Please note that this app will NOT allow you to listen to Grooveshark on your phone, just control it playing on your PC or laptop.More features to be added! Pro version has no ads, volume control, playlist and favorites support.PLEASE EMAIL FOR HELP; I can't reply to comments.Visit www.gsremote.com for the Firefox/Chrome addon and instructions.Grooveshark Remote is not affiliated with Grooveshark or Escape Media Group Inc.Recent changes:Bug Fixes"
+p4
+tp5
+tp6
+.

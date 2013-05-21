@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rivals at War '
+p1
+tp2
+(S'Description:'
+p3
+S"RECRUIT an elite team of combat soldiers and shooters who are ready for duty anytime and anywhere. TRAIN your soldiers and upgrade your weapons for each mission. ATTACK the enemy and watch epic head-to-head battles unfold. CONQUER rival teams from around the world. Fight for VICTORY and become the elite of the elite!* Battle across four different combat scenarios, each with its own 3D battlefield and military mission.* Assemble your troop, choosing from 6 unique soldier types - Commander, Sniper, Saw Gunner, Breacher, Radioman and Medic. * Power-up skill perks to enhance the Accuracy, Speed, Damage, Defense and Health abilities of your soldiers.* Unlock new soldiers with better weapons, guns and skills to improve your team's combat assault rating.* Customize your team with different camouflage uniforms, headgear, and team badges.* Select powerful tactics cards to tip each battle in your favor.* 45 achievements to complete that unlock more special rewards.* Command your elite team to global domination. It is your duty to protect the world from the threats of terrorism and chaos. Aim for glory and honor and prepare to become Rivals at War!RAW has full resolution support for tablets and large screen phones!Recent changes:RAW 1.2.1 update!* Full support for the latest tablets and phones* Automatic screen orientation support* Bug and crash fixes"
+p4
+tp5
+tp6
+.

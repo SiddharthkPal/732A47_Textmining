@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rocket Player Blue Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Requires Rocket Player 2.0 or higherThis Android app is a theme or skin app, which transforms the look of Rocket Player, our Android media player application. Once this app is installed, the free Rocket Player application will be capable of switching themes to the \xe2\x80\x9cBlue\xe2\x80\x9d theme in the settings.Rocket Player Blue Theme was created because of all the user requests for a theme using the holo blue color. We think this theme really makes Rocket Player shine and have even considered making it the default theme for our free android music player.If you run into any issues using this theme with Rocket Player 2.0 or higher, please email us or catch us on Google+ or Twitter.Google+: https://plus.google.com/109028031207057249429Twitter: @JRTStudioRecent changes:* Initial release'
+p4
+tp5
+tp6
+.

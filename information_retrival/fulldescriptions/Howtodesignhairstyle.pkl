@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'How to design hairstyle '
+p1
+tp2
+(S'Description:'
+p3
+S'For your hair you are still upset you? This software Convenient to you and your friends explore hairstyle, image cache locally to facilitate theexchange and hair designer.you can begin to DIY your own hair!enjoy....-Make your hair look fabulous by following instructions from these picture image!Feature List- Connotation of 300 hair over 600 pictures with the positive side of each hair on the back.-  image cache locally- View high definition big picture- New designed user interfaces. Very smooth and ease of use. -  You can save either one Hair tutorial pic you like, or all pictures  if you like them all!!-  Free, and always will be free!Tags: popular hair, including hair fashion, boys hairstyles, ladies hair, short hair, real estate broker hair, hair of the Japanese, South Korean hair, original hair,Hair Design,Makeup,Fashion hairstyle,Nail, Popular Hair Design.'
+p4
+tp5
+tp6
+.

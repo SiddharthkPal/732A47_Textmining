@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Berita Baru PRU13 '
+p1
+tp2
+(S'Description:'
+p3
+S'Dapatkan Berita PRU13 Malaysia di Google Play. Cara pantas dan mudah untuk mendapatkan berita-berita panas menjelang PRU13 dalam Bahasa Melayu. Berita Baru PRU13 memberikan anda akses mudah untuk berita PRU13 melalui peranti Android anda.Berita pantas dari sumber-sumber berikut:* Malaysiakini - Bahasa Melayu* Utusan - Politik* Sinar Harian - Politik* HarakahDaily - Berita Utama* Arus BaruFEATURES- Berita Politik menjelang PRU13 sahaja.- Sedia untuk pembacaan di Tablet- 100 berita sahaja sekali buka. Agar anda dapat menjalani kehidupan seperti biasa.Nantikan kemaskini seterusnya daripada kami. Ini hanyalah permulaan!keywords: pru13, pru 13, malaysia, berita, politik, BN, PR, UMNO, PAS, PKR, DAP, MCA, MIC, BERJASA, Barisan Nasional, Pakatan RakyatRecent changes:1.2.1:* Fixed Sinar Harian edisi PRU13 broken feed* other minor UI cleaning1.2:* PAPARAN MUKA DEPAN TEKS PENUHHeadline berita kini dengan teks penuh. Anda tak perlu lagi berasa pressure kerana teks separuh2.* KONGSI/SHARE BERITA DENGAN RAKAN ANDAYa, benar. Fungsi share kini tiba!'
+p4
+tp5
+tp6
+.

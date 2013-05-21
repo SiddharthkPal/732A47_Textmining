@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Checkbook '
+p1
+tp2
+(S'Description:'
+p3
+S'Featured in Daniel Begun\'s book "Amazing Android Apps for Dummies", ISBN: 978-0470936290.Please vote for us for the best Finance app on the Android Market! http://bestappever.com/v/fincIt\'s time to stop giving your bank free money from overdraft fees and nonsensical charges because of poor money management. Checkbook is an app you can use in place of a paper checkbook and makes it easier than you think to handle your finances. Make an impulse purchase today? That\'s okay, but don\'t forget to deduct it from your account balance. Even the online bank statements lag when posting transactions-- sometimes causing you to believe you have more money than you do. That is not to their disadvantage: it\'s yours!Although we cannot promise you will never overdraft again, we can promise you that using this app properly, and keeping track of your transactions will make it next to impossible.This version of the app allows as many accounts as you need and does not have ads. This app works with 1 phone only.  If you want to share a joint account, this is NOT the app for you.Recent changes:Fixed category delete issueFixed Transaction email / sms transaction type bugAdded check number and memo to exported spreadsheets'
+p4
+tp5
+tp6
+.

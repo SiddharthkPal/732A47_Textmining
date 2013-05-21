@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Goal.com '
+p1
+tp2
+(S'Description:'
+p3
+S'Goal.com is the only truly worldwide voice when it comes to football. Founded in 2004, Goal.com now has 22 editions and 500 reporters around the world, as well as 19 million unique monthly users made up of fans from every country on earth. Goal.com offers local coverage of all the latest developments including breaking news, exclusive interviews, transfer gossip, live commentary and much more. Whatever and wherever the story is, Goal.com offers the most comprehensive and expert coverage of the major domestic leagues and competitions, as well as all the major international tournaments. Goal.com Mobile App is now available in 13 languages and has brand new features, making it the best way to follow all the major stories as they unfold. Simple and easy to navigate, supporting an optimized reading experience from your mobile device, the app brings its content to life with photo-rich articles and constant updates, even when it\xe2\x80\x99s not in use. The app has updated menus, more sections than ever and is packed full of content on the world\xe2\x80\x99s top tournaments such as the Champions League, Premier League, La Liga, Serie A, Bundesliga, Ligue 1, and the star players featuring in them like Leo Messi, Cristiano Ronaldo, and Wayne Rooney. Fans will now be even closer to the action and can stay connected to the beautiful game 24/7.1. Instant, real-time access to the latest Goal.com content including news, exclusive interviews, player profiles and team fixtures2. Live scores, allowing users to follow Goal.com\xe2\x80\x99s match commentary across 10 of the world\xe2\x80\x99s most popular leagues3. No need to manually update; your application automatically refreshes with the latest news even when not in use4. Ability to read and access content offline whether fans are on a plane, subway or in a meeting without network connection, and save stories for later reading 5. Customize your app through the \xe2\x80\x98My Teams\xe2\x80\x99, meaning specific content relating to hundreds of clubs around the world can be found quicker 6. Share content via email or through social networking sites like Twitter and FacebookRecent changes:General Stability and Improvements'
+p4
+tp5
+tp6
+.

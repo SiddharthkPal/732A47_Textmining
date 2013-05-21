@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dark Horse Comics '
+p1
+tp2
+(S'Description:'
+p3
+S'Have your favorite Dark Horse comics at your fingertips--anytime, anywhere!The Dark Horse app offers access to the most exciting tales from Star Wars, Mass Effect, Buffy the Vampire Slayer, Serenity, and more! Looking for Manga? We\'ve got it! How about Hellboy, Sin City, The Goon, Criminal Macabre and Empowered? Yup! It\'s all there and more! Single-issue comics are priced as low as just $0.99 and we also offer an extensive list of free introductory #1 issues, with plenty of new titles being added every week.And through our cloud-based technology, purchases made on our Digital Store can be read and enjoyed on your laptop, desktop, tablet or mobile browser!Please Note:If you run into any problems an uninstall/reinstall can fix many issues caused by strange upgrade scenarios. Please use the in-app "send feedback" tool to send us your feedback or if you encounter any bugs.Recent changes:v1.2.5:Improved crash reportsStability more betterPlease rate if you likev1.2.4:* redesigned store* even more bug fixesv1.2.3:* various bug fixesv1.2.2:* Network performance improvements.v1.2.1:* Fixes bug that caused Android 3.2 to have problems when downloading books.'
+p4
+tp5
+tp6
+.

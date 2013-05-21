@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WD Photos '
+p1
+tp2
+(S'Description:'
+p3
+S'Shoot it. Share it.Turn your Android\xe2\x84\xa2 device into the ultimate photo album. View all the photos stored on your WD TV\xc2\xae Live Hub\xe2\x84\xa2 media center, My Net\xe2\x84\xa2 N900 Central HD dual-band router, My Book\xc2\xae Live\xe2\x84\xa2 or My Book Live Duo personal cloud storage with your Android smartphone or tablet. Or, take a photo or video and upload it from your camera roll directly to your compatible WD device. Show off your entire photo collection all at once or search and filter photos by name, date, folder or album. Photos are automatically optimized for perfect viewing, taking up minimal space on your device. Lose your network access? No problem. You can still view previously displayed photos when you\xe2\x80\x99re offline. Features\xe2\x80\xa2 Access photos stored on your WD personal cloud storage with your Android mobile device\xe2\x80\xa2 Automatically upload  photos from your camera roll directly to your personal cloud storage, no matter where you are\xe2\x80\xa2 Create a slideshow with transitions \xe2\x80\xa2 Access previously viewed photos even when you\xe2\x80\x99re offline\xe2\x80\xa2 View photos all at once or filter by folder or album\xe2\x80\xa2 Search by file name, folder name or date using built-in search options\xe2\x80\xa2 Automatically discover and connect to compatible WD devices on the same Wi-Fi network as your smartphone or tablet\xe2\x80\xa2 Email links of full-resolution photos to friends and family and share photos on Facebook\xc2\xae.Requirements\xe2\x80\xa2 WD\xe2\x80\x99s WD TV Live Hub, My Book Live, My Book Live Duo or My Net N900 Central with the most recent firmware, connected to the Internet\xe2\x80\xa2 Android smartphone or tablet running version 2.2 or later softwareWD Photos 2.0 does not support MioNet (WD ShareSpace, My Book World Edition) devices. Download WD Photos Classic for mobile access to your photos. Note: if your MioNet device is a My Book Live, update to the latest firmware to use WD Photos 2.0Recent changes:\xe2\x80\xa2 We added many new features including photo and video upload as a background service, photo rotation, hi-res photos on demand, random photo slideshow, sort by date and more!\xe2\x80\xa2 For the best experience, please update your WD personal cloud storage drive firmware to the latest version.'
+p4
+tp5
+tp6
+.

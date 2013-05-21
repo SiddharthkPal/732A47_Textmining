@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Jazz Internet Radio '
+p1
+tp2
+(S'Description:'
+p3
+S'JAZZRADIO.com, the web\xe2\x80\x99s most popular Jazz radio network, is now all yours in this free cool app! Listen for free and enjoy countless hours of the best jazz music around. Enjoy over 25 of our special jazz radio channels programmed by passionate channel directors from around the world. To learn more about us visit our website at http://www.jazzradio.com FEATURES: * Unique radio channels programmed by real passionate channel directors. * Not sure which channel to pick? No problem, explore the Styles list with predefined groups to make discovery fun and easy. * Stream music in the background and control audio with external controls. * Favorites to save your favorite channels for quick and easy access. * Set higher or lower stream bitrate preference for when Cellular vs WiFi is used. * Sleep timer.* Optional buffer bar with data usage display. Great for tracking data plan usage and cellular signal issues. * Share your favorite tracks and channels with friends on Facebook, Twitter, or by email.* Optionally log in to Premium to switch to even higher audio quality and completely commercial-free streams.CHANNELS INCLUDED: * Classic Jazz * Cool Jazz * Trumpet Jazz * Saxophone Jazz * Mellow Jazz * Smooth Jazz * Straight Ahead * Piano Jazz * Guitar Jazz * Bebop * Hard Bop * Piano Trios * Bossa Nova * Fusion Lounge * Contemporary Vocals * Smooth Vocals * Vocal Legends * Smooth Uptempo * Swing & Big Band * Latin Jazz * Timeless Classics * Sinatra Styles * Blues * Avant-GardeRecent changes:Bug fixes.Please remember to email support@jazzradio.com for help with any issues you encounter.  Google Play has no way for us to respond directly to reviews.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Financius - Expense Manager '
+p1
+tp2
+(S'Description:'
+p3
+S'Financius is a simple application that helps you log and track your expenses and keep an eye on your balance.Please note: this is a BETA version so expect a lot of new features coming out soon! Thank you for your patience and good reviews!Features:- Most relevant information at a glance: balance in all accounts, expense and income for current month, categories that you are spending the most- Multiple accounts with separate balances- Transfer money between accounts- Update account balance when you forget to enter some transactions to reflect real balance- Some categories have been created for you, but you can always create more- Track expenses based on category- DashClock extension - Holo styleIf you have any requests or suggestions, write me an email or go to https://trello.com/board/financius/5133d5addbec8db6430086de and leave a comment in suggestions card and vote for what you would like to see nextRecent changes:- Improved CSV Export- Added notes to transactions list- Added translations: Brazilian Portuguese (thanks Franklin Lucas), Indonesian (thanks Yedija Vanutama), German (thanks Matthias Brink)- Fixed an issue where Settings were inaccessible for pre-ICS devices- Added Labs section where you can try out new features early- Added first Lab experiment - CSV Export- Added translations: Spanish, Turkish, French, Portuguese, Czech- Stability improvements'
+p4
+tp5
+tp6
+.

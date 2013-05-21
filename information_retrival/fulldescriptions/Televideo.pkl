@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Televideo '
+p1
+tp2
+(S'Description:'
+p3
+S'This application allows you to browse the Italian National and Regional TeleText (Televideo).Updates in version 1.2.3:* Added page refresh functionalityUpdates in version 1.2.1:* Optimized support from small resolutionsUpdates in version 1.2.0: * Optimized full-screen mode * App can be installed on SD cardRecent changes:Faster page loadingBug fixing'
+p4
+tp5
+tp6
+.

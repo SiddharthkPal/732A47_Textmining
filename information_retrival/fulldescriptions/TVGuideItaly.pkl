@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TV Guide Italy '
+p1
+tp2
+(S'Description:'
+p3
+S"TV Guide is the easiest application to check the complete listings of Italian television channels!You can watch the screenings of the major Italian television networks for the next 6 to 8 days!The app will save the downloaded data and you can also see the schedules offline.There is the possibility to update the list of channels, to visualize the LCN national numbering and quickly search programs and channels according to their own interests! TV Guide provides all the tools to get reliable data and up-to-date programs currently on TV.Do not miss the shows now airing! With a simple click, you'll have the programs currently broadcasting on all channels!Share your favorite shows with your friends, add a reminder in your calendar, check out the shows now airing! Thanks to TV Guide you can do all of this in a simple and fast way, giving you more time to watch TV!The simplicity of use and data reliability are the main features of TV Guide!N.B. The application doesn't allow you to view the TV!Supported countries: ItalyFunctionality in brief:\xe2\x80\xa2 Updated channels, provided icon and national number\xe2\x80\xa2 Schedules conveniently viewable through slide\xe2\x80\xa2 Scrolling speed program\xe2\x80\xa2 Textures, descriptions and additional content\xe2\x80\xa2 Now on air: which programs are broadcasting at this time\xe2\x80\xa2 Next on air: which programs are broadcasting soon\xe2\x80\xa2 Prime time\xe2\x80\xa2 Second time\xe2\x80\xa2 Programs Search\xe2\x80\xa2 Channel Search\xe2\x80\xa2 Sharing of shows on social networks and beyond\xe2\x80\xa2 Shortlinks to Google, Wikipedia, IMDb and YouTube\xe2\x80\xa2 Ability to add programs into calendars, with any reminders\xe2\x80\xa2 List of favorite channelsSupported TV networks:\xe2\x80\xa2 BBC\xe2\x80\xa2 ITV\xe2\x80\xa2 Channel4\xe2\x80\xa2 Channel5\xe2\x80\xa2 MTV\xe2\x80\xa2 SkyFind us on:\xe2\x80\xa2 Facebook       https://www.facebook.com/MiNi.Group.Dev\xe2\x80\xa2 Twitter           https://twitter.com/#!/MiNi_Group\xe2\x80\xa2 Google Plus   https://plus.google.com/u/0/113343151666726753764/postsKeywords: Guide TV, Guide, TV, programs, television, now playing, on air, channels events, coming soon, movie, favoritesRecent changes:\xe2\x80\xa2 Support for the UK is suspended, we apologize for the inconvenience and we hope to return soon!\xe2\x80\xa2 At the moment the application support only Italy"
+p4
+tp5
+tp6
+.

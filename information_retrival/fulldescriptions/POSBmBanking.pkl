@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'POSB mBanking '
+p1
+tp2
+(S'Description:'
+p3
+S"Note: Some of you may encounter problems when trying to make a funds transfer to another DBS account. We are investigating the issue and will update everyone as soon as possible. If you face this problem, please use Internet banking on your PC or laptop or visit http://mobile.dbs.com on your handset's browser. We apologize for any inconvenience caused in this matter.POSB mBanking offers you the safer and simple way to:-  Check your account balances-  View your transaction history-  Transfer Funds-  Pay Bills-  Add/delete biller-  IPO application & share payments -  SGS applications-  One time payment-  ATM/Branch/AXS locatorSimply login using your existing DBS iBanking User ID, PIN and DBS iB Secure Device.Do not have POSB iBanking? Please visit www.dbs.com/sg/personal/ibanking to apply. Tip: You are also able to login to POSB mBanking via your phone browser if you do not wish to download the application. Just visit http://m.posb.com.sgNote: POSB customers can also download the DBS mBanking application, which provides the same functionality and convenience as the POSB mBanking application.Recent changes:You can now make remittance in foreign currencies on mBanking.  Visit the payments tab in mBanking to try Funds Transfer (Overseas) now."
+p4
+tp5
+tp6
+.

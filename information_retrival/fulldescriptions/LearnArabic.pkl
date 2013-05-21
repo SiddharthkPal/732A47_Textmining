@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn Arabic '
+p1
+tp2
+(S'Description:'
+p3
+S'A detailed Arabic learning Guide with text & audioThe Guide includes the following:- Arabic Alphabets - Numbers in Arabic- Arabic Vocabulary- Short Lesson 1: short phrases with word used "Haza" means "This is"- Short Lesson 2: short phrases with word used "Zalika" means "That is"- Definite Artlicle (Al)- Added more vocabulary'
+p4
+tp5
+tp6
+.

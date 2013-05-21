@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fake Internet Explorer '
+p1
+tp2
+(S'Description:'
+p3
+S'This is made for to show how Internet Explorer looks if it is released for Android'
+p4
+tp5
+tp6
+.

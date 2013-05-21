@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'First Aid '
+p1
+tp2
+(S'Description:'
+p3
+S'When you are in a emergency situation, how to deal with it? You need some instructions and First aid is your first choice.First Aid is designed to help you follow the right procedures in a stressful situation or support other people by giving them instructions. It is based on illustrations, videos and short texts that show you how to take the necessary action step by step and in the right order.KW: First Aid Medical Care Emergency procedure instructionvideo take actionRecent changes:Fix crash bug on Android 4.0'
+p4
+tp5
+tp6
+.

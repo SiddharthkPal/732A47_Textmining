@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ngpay - Mall on Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Millions love ngpay - India\xe2\x80\x99s favourite mobile destination for Ticketing, Shopping and Recharges. It\xe2\x80\x99s simple, it\xe2\x80\x99s secure and it\xe2\x80\x99s super fast. - Book flight, train (IRCTC), bus tickets. - Book movie tickets.- Shop for favourite brands - Recharge mobile & DTH set. Download ngpay now and enjoy round-the-clock convenience!!ngpay is an entire mall on your mobile device with exclusive brand stores across travel, entertainment and shopping categories. Some of the brands that have opened a store on ngpay include IRCTC, PVR Cinemas, Indigo, Tata Sky, Air India, KSRTC, Inox Movies, Airtel, Neeta Travels, Kamasutra, Casio\xe2\x80\xa6the list goes on !!TIME, World Economic Forum, Microsoft, NASSCOM have recognized us but our pleasure comes from your recognition. If you like us, please write a review for us and rate us right here !!Recent changes:New features and enhancements.'
+p4
+tp5
+tp6
+.

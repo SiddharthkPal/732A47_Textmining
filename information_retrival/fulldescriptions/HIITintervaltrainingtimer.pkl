@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HIIT interval training timer '
+p1
+tp2
+(S'Description:'
+p3
+S'Stopwatch for interval cardio training.A great way to burn fat in a short & intense workout.Changes: allow music player in background, buzz volume control, remove ads with HIIT ad free! Thanks for your feedback, vote on new features at our homepage!For cycling, running, sprinting, weightlifting, circuits, tabata...Recent changes:New steps / podometer measure (BETA)'
+p4
+tp5
+tp6
+.

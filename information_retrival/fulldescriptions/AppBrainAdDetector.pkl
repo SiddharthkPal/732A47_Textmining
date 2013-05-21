@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AppBrain Ad Detector '
+p1
+tp2
+(S'Description:'
+p3
+S'Free your phone from potential concerns and ads! This app detects all annoyances of apps installed on your phone, such as Push Notifications, Desktop icon spam ads or privacy concerns.- Helps you to get rid of annoying ad notifications (Airpush, Leadbolt) and bookmarks on your desktop.- Find out what apps have permissions to access your messages or accounts and could thus invade your privacy, or can use services which could cost you money.This app detects over 70 different aspects of apps, including:- Concerns such as Push Notifications (ads and non-ads), putting spam icons on your desktop, and privacy related concerns such as the ability to access your location, contacts, messages or accounts.- Android Ad Networks; this app tells you which ad networks are embedded in apps, such as Admob, Millennial Media, MobClix, Tapjoy, AdWhirl, Greystripe, InMobi, Airpush, Startapp, Leadbolt, Pontiflex, MobFox, Komli Mobile, MoPub, MdotM, inneractive, Adlantis, Smaato, Daum, AppLift, Mediba, Cauly, YouMi, AdMarvel, madvertise, Sellaring, and more.- Social SDKs; detect whether apps have SDKs like Facebook, Twitter4j, OpenFeint, HeyZap, ScoreLoop, jTwitter, Papaya, and more.- Developer Tools; detect libraries like Google Analytics, Flurry Analytics, Google Play in-app billing, Android support library, Google Gson, Google Licensing Service, ViewPager indicator, ACRA, Phonegap, libgdx, Unity, Amazon AWS, Paypal and more.Detect apps that have push ads.This is not an ad blocker / adaway / adblock but can still help you make your phone annoying ads free by suggesting which apps to uninstall.Recent changes:- Detects more ad networks and concerns- Improved notifications (especially on Jelly Bean)- minor fixes'
+p4
+tp5
+tp6
+.

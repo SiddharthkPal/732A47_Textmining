@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Concur '
+p1
+tp2
+(S'Description:'
+p3
+S'Keep track of your expenses and stay productive on the go. Large and small businesses can easily track business travel and manage expense reports anytime \xe2\x80\x93 from anywhere \xe2\x80\x93 with Concur.*This app is a companion to Concur\xe2\x80\x99s solutions for existing users*Extend the benefits of Concur\'s business travel and expense reporting solution to your Android while you\'re on the go! Simply download now and create your mobile PIN to enjoy all the functionality associated with the Concur solution you already use.With Concur\'s mobile app, say goodbye to shuffling paper receipts. No more struggling to remember how much you paid in cab fare. Now, all of your receipts and expense charges are gathered and ready for an expense report when you get home.Manage and track business expenses and receipts  *Photograph receipts and edit expenses in Airplane mode  *Import data from credit cards  *Keep track of receipts using our Receipt Store  *Approve expense reports  *Submit expense reports  *Itemize hotel charges  *Add event and meeting attendees  *Approve Travel RequestsManage and track business travel  *Book airfare, hotels and more  *Manage flight, hotel and dining itineraries  *Check flight status  *Integrate with TripIt and TripIt ProLearn more at www.concur.com. Must be an existing Concur Small Business edition, Concur Standard edition, Concur Professional edition, or Concur Premium edition user and create a mobile PIN to access the application.Recent changes:* Improved Home screen and User Experience* Support for "Ready to Submit" for expense reports* Improved receipt capture* Ability for attaching receipts at the report level* Ability to attach multiple receipts at Quick Expense* Improved support for different trip statuses'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Slots Go! '
+p1
+tp2
+(S'Description:'
+p3
+S'Slots Go is a very classic game, which also known as Slots Machines. It brings you true feelings of the Las-Vegas like.The more you bet, the more coins you will win. Come and challenge your luck!Features:- Play it anywhere anytime- Multiple different scenes- Bonus mode- Free scatter mode- Easy-to-play- Given free coins- More will be comming soon...Recent changes:add new scenessome bug fixed'
+p4
+tp5
+tp6
+.

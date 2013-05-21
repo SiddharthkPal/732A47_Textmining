@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DJ Lobo '
+p1
+tp2
+(S'Description:'
+p3
+S"DJ Lobo (from La Mega 97.9)Good DJs are hard to come by, but in NYC the citizens are blessed to have one man who delivers insanely infectious music on a daily basis, the one and only DJ Lobo. Thousands stay tuned to La Mega 97.9 Monday through Friday at 7 p.m. to forget the headaches of their daily grind and have the #1 Tropical Music DJ ease their worries with the best in salsa, tipico, bachata, merengue, raggaeton, hip-hop and house. But since we're not all perfect and can't stay tuned in every night, DJ Lobo created his very own app, so you can have his mixes with you on the go!DJ Lobo is one busy man, that's why you can only hear his mixes live during certain times of the week. But with his all-new iPhone app you can now listen in on some of his exclusive mixes at any time of the day! Best part yet? It's absolutely free of charge and it comes pre-loaded with hundreds of MIXES! DJ Lobo makes sure to update you on every move he makes, whether it's keeping you tuned into his next event, or making sure you get hottest mix he's put together. DJ Lobo's app will give you the freshest mixes week in and week out at your fingertips!Developed by: EspinalLab, LLChttp://www.espinallab.comRecent changes:2.0.4 Changes:==========================================- Fixed crashing issue.- Lots of bug fixes that will improve the app.- Fixed issue with player not playing longer the x amount of minutes.- Fixed bug with offline music"
+p4
+tp5
+tp6
+.

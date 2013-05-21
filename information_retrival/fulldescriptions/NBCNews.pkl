@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NBC News '
+p1
+tp2
+(S'Description:'
+p3
+S'NBC News Digital is a collection of innovative and powerful news brands that deliver compelling, diverse and visually engaging stories on your platform of choice.  We provide something for every news consumer with our comprehensive offerings that deliver the best in breaking news, segments from your favorite NBC News shows, live video coverage, original journalism, lifestyle features, commentary and local updates.Recent changes:A complete rebrand of the NBC News app, including some content enhancements.'
+p4
+tp5
+tp6
+.

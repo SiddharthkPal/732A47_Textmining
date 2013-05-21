@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Biblia ortodoxa '
+p1
+tp2
+(S'Description:'
+p3
+S'Biblia Cre\xc8\x99tin Ortodox\xc4\x83 \xc3\xaen limba rom\xc3\xa2n\xc4\x83. Con\xc5\xa3inutul Bibliei este cel tip\xc4\x83rit sub \xc3\xaendrumarea PF Teoctist cu aprobarea Sf\xc3\xa2ntului Sinod.Con\xc8\x9bine Vechiul Testament \xc8\x99i Noul Testament, complet offline (nu necesit\xc4\x83 Internet).Incepand cu versiunea 1.2, s-au adaugat semne de carte (bookmarks) la Biblie. Astfel, puteti sa adaugati semne de carte personalizate pentru a facilita lectura Sfintei Scripturi. O noua pagina de Ajutor a fost adaugata, care contine instructiuni pentru folosirea semnelor de carte.O alta functionalitate importanta a fost adaugata care permite marirea textului in cadrul Bibliei.Doamne ajuta!tags: biblia crestin ortodoxa romana testamentRecent changes:v1.2.1Se pot introduce in textul semnului de carte caractere de genul /.v1.2Adaugat semne de carte. Modificari interfata.Adaugat buton pentru schimbarea marimii textului.'
+p4
+tp5
+tp6
+.

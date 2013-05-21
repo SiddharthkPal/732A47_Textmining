@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'alfarooo8 '
+p1
+tp2
+(S'Description:'
+p3
+S'Specialized app for Bahraini & GCC updates in sociology-political form'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Friday's "
+p1
+tp2
+(S'Description:'
+p3
+S'T.G.I. Friday\xe2\x80\x99s\xc2\xae In Here, It\xe2\x80\x99s Always Friday\xc2\xae. But now you can always have a little of that feeling with you out there. With our updated app, you can find a Friday\xe2\x80\x99s\xc2\xae, check out our killer drink and food menu, get special offers and find out what\xe2\x80\x99s going on any night of the week. And with our My Friday\xe2\x80\x99s Tab\xe2\x84\xa0 powered by Tabbedout\xc2\xae, you can start a tab, keep tabs on it and even pay directly from your phone when you\xe2\x80\x99re ready to call it a night. You\xe2\x80\x99ll even find some of our bartenders\xe2\x80\x99 best tips on life\xe2\x80\xa6and living it up. \xe2\x80\xa2 Pay your bill from your phone with My Friday\xe2\x80\x99s Tab\xe2\x84\xa0 \xe2\x80\xa2 Find a Friday\xe2\x80\x99s\xc2\xae using your current location by ZIP code, or city and state \xe2\x80\xa2 Get maps and driving directions to the nearest Friday\xe2\x80\x99s\xc2\xae \xe2\x80\xa2 Check out our drink specials and promotions \xe2\x80\xa2 Browse through our full drink and food menus \xe2\x80\xa2 Give Me More Stripes: check your stripes, request Rewards, view and show Rewards certificates to your server, even request Stripes credit from your phone Great Rewards Are Just a Tap Away Give Me More Stripes\xc2\xae members have full access to your account with the app. Request Rewards or receive Stripes credit directly from your phone. Not a Give Me More Stripes member, yet? No problem. Sign up for our VIP rewards program directly from your device and we\xe2\x80\x99ll send you a free appetizer or dessert coupon. An Important Tip My Friday\xe2\x80\x99s Tab\xe2\x84\xa0 is programmed to suggest a tip of 18%. You can increase or decrease this tip at your discretion when you close your tab. However, if you leave the Friday\xe2\x80\x99s location without closing your tab on your mobile device, a gratuity of 18% will be added.Recent changes:The app is leaner and meaner than before. We\xe2\x80\x99ve fixed a few bugs and included a new feature updates. Plus, you have the opportunity to receive exclusive offers or updates directly to you through push notifications on the fly.'
+p4
+tp5
+tp6
+.

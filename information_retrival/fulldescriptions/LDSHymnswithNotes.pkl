@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'LDS Hymns with Notes '
+p1
+tp2
+(S'Description:'
+p3
+S'For Kindle Fire users, this app can also be downloaded at:http://www.ldsdudes.com/main/downloads/---------------------------------------------------------This is an unofficial app featuring the music of The Church of Jesus Christ of Latter-Day Saints!Features the LDS Hymns in English, Spanish, and Portuguese!This app allows you to view the Mormon Church\'s hymns - either as lyrics alone or full sheet music! Find a hymn either by number or title / first line, switch between languages at the press of a button, zoom in/out for better viewing, and stream hymn music from LDS.org!Don\'t need to see notes with the hymns? Just use the menu and switch to "Lyrics Only" mode! Simple, clean, and fast. Data is saved to SD card to save space for your other applications.List of Features:- Search by hymn number- Search by title / first line- Includes English and Spanish hymns- Easy language cross-referencing- Navigation buttons for browsing hymns- Zoom and text-size functionality- Stream hymn MP3s from LDS.org!Hymn Languages:- English- Spanish- Portuguese (No lyrics)- French (No lyrics)*NOTE: Due to copyright restrictions, some hymns may not be available.Recent changes:- Added a menu option to reinstall the hymn data- Improvements to audio playback- Small bug fixes'
+p4
+tp5
+tp6
+.

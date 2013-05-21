@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MediaMonkey Beta '
+p1
+tp2
+(S'Description:'
+p3
+S"A media player for serious collectors.  This is the pre-release version for users who want to test out the latest and (sometimes) greatest...MediaMonkey helps you navigate and manage and sync large music collections.  Key features in the initial release:- Content Navigation for Music, Audiobooks, Podcasts, Video, ...- Navigation by various subcategories (e.g. by Artist, Album, Composer, Genre, Playlist, by Folder, etc.) with support for multiple attributes (e.g. Genre=Rock;Alternative)- Playback (relies on native Android codecs), with replay gain (volume leveling), bookmarks, Lock screen support- UPnP/DLNA client with download manager- Contextual functions to manage single/multiple files (e.g. play, queue, playlist management, delete, use as ringtone, share, edit)- Playlist management with hierarchy- Lyrics lookup- Now Playing views: Individual (swipeable UI for in-car use) / Tracklist- Support for third-party scrobblers- Wireless sync with MediaMonkey for Windows (syncs attributes, ratings, lyrics, play history, etc.)- etc...Recent changes:Build 127Fixed delete dialogs fail on screen rotationFixed crash during usb syncRefinements to lyrics search, theme, and lock screenBuild 126Fixed scans never end for some devicesFixed some users can't sync with build 124Fixed playback stops sometimes (regression)Fixed application can fails to terminateFixed UPnP isn't fully disabled on Android < 2.3Build 124Added navigation by folderAdded display of first letter while scrollingImproved navigation performance"
+p4
+tp5
+tp6
+.

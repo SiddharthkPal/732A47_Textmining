@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Craigslist for Android (CLapp) '
+p1
+tp2
+(S'Description:'
+p3
+S"CLapp attempts to be the easiest to use and the most visually appealing Craigslist search application in the Marketplace and is written by a Craigslist addict for Craigslist addicts, this isn't my day job!Key features: - Tabbed views for search, bookmarked searches, favorite items or just browse - Modern simple user interface, just swipe between views - Search MULTIPLE Craigslist locations, choose by via a full list, proximity or recently searched locations. - Bookmark your searches and mark favorite ads. - Image preview, large, small turn them off to save on Internet usage - Image gallery that allows you to share an image, zoom or pan to get a better look - Reply to Ad poster while viewing the ad via Email, Phone or Text Message!   - Share the ad with a friend - Tablet Support\xc2\xa0- Beta feature: see a map of the location of that item, see if it's worth getting!Note to all those concerned about privacy!We don't do ANYTHING to read or transmit your private data, we do not sell your private data, location is used only used passively (we don't turn on the GPS) for the Nearest Location feature in helping you select your search location and for targeted ads in the search results. Some phone information its needed only to do the sending of email, text messages and dialing the phone when contacting the person who placed an ad (at your request).  We show the one ad on the results page and collect nothing about you.  We'll be placing a blog post on the subject in the near future on our web site.Other features:Add background searching and notifications using the CLapp Notify add-on app. Downloadable for free from the Android Market.Please give us feedback!  We'd love to ad more features that will make your craigslist experience even better! If you don't like something shoot us an email and we'll see what we can do. If you can't rate it 5 out of 5 there is something we can do.And if you could, click on an ad once in a while, it gives us a few dollars for our efforts.Thank you for trying out our app!Recent changes:** Version 2.6.3 - Fixes a bad update file (2.6.2) ** Version 2.6.2 **- Several bug fixes** Version 2.6.1 **- Bug fixes to handle images stemming from updates to the web site- Several crash fixes"
+p4
+tp5
+tp6
+.

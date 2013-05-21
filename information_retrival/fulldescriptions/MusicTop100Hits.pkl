@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Music Top 100 Hits '
+p1
+tp2
+(S'Description:'
+p3
+S'Do you like to discover new Music? Then this free app is a must have! The \xe2\x80\x98Music top 100 hits\xe2\x80\x99 app shows you all the bestselling hits around the world. Choose from one of the many countries and listen to a preview of the current top songs. Find out what\xe2\x80\x99s hot in other countries like USA, UK, France, Canada, Australia, Japan, Germany, Spain, The Netherlands, Portugal, Italy, Mexico, and much more. Want to know what\xe2\x80\x99s the top 100 in Japan? No problem, you can find out in no time with just one touch! Features: - Listen to a preview of all available songs - Save songs you like as favorites for easy reference, playback or future download - Check out everything about the artists like bios and pictures (powered by Last.fm) - Easily buy songs and albums you like from 7Digital with just one push of a button - Switch between the top charts of many countries worldwide- Share the songs you\xe2\x80\x99ve discovered with your friends via Twitter, Facebook or e-Mail- Pull to refresh; all top charts are updated every hour!- Slideshow of high resolution artist pictures- Find similar artistsRecent changes:Bugfixes'
+p4
+tp5
+tp6
+.

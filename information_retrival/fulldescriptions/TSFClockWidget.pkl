@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TSF Clock Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'TSF Clock widget is TSF Shell unique 3D plugin which features are checking the weather, time, setting the clock, etc.Instruction:========================1.To access to the weather setting interface by clicking the weather icon.2.Clicking the clock button, you could rotate the widget to the backside of the icon to access to the clock setting interface. Notice:========================1. This widget must run on the TSF Shell.TSF Shell download address: https://play.google.com/store/apps/details?id=com.tsf.shell2 Please rate if you like our application. Please kindly email to service@tsfui.com if you have any query or suggestion on our software.3.This widget must run on the TSF Shell 1.9.9+We are sorry for the inconvenience caused to you.Permission instruction========================1.Network serviceLoad the weather data from network2.Reading the mobile phone stateTurn off the clock automatically while the mobile phone is in a call.3. Get the device locationGet the weather conditions of the device location automatically.Recent changes:Version 1.41. Fixed some known bugs. Version 1.3this widget only for TSF Shell 1.9.9+1. Fixed the problem cannot update the date.2. Increase the night weather icon.3. Fixed some known bugs.'
+p4
+tp5
+tp6
+.

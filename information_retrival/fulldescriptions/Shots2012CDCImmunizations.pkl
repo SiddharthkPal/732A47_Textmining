@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Shots 2012 CDC Immunizations '
+p1
+tp2
+(S'Description:'
+p3
+S'What vaccines would you recommend for a 10 month-old who has had only one dose of each of the basic vaccines and at what times would you have him return in order to catch-up? How about his cousin who babysits? She\xe2\x80\x99s a 19 year-old college freshman with asthma who thinks she might be pregnant. Or their grandfather, a 62 year-old with diabetes? By the way, he has renal failure and is on dialysis.Download now and find all of these answers and more. SHOTS by STFM is an up-to-date digital immunization reference. Perfect for clinicians, teachers, and health care providers or for anyone who need quick answers to tough vaccination questions. SHOTS by STFM is the most comprehensive immunization app available. In addition to the complete set of CDC vaccine schedules and footnotes, it also includes graphics, images, and commentary. Important up-to-date information is available for each vaccine, including: basics, high risk indications, adverse reactions, contraindications, catch-up, administration, epidemiology, brand names, and additives. Since 2001, SHOTS by STFM has remained the premier point-of-care immunization resource. All content is written by immunization experts and has been reviewed by an expert from the US Centers For Disease Control and Prevention. Download the app and grab a vaccine vial. Let\xe2\x80\x99s put an end to vaccine preventable disease!Recent changes:Updated content to 2012 CDC ACIP immunization recommendations as published in MMWR 2/10/12New! Navigation assistance for small screensImproved graphics for the latest phonesUpdated footnotes easily accessible by touching the screenAs always, the most comprehensive electronic version of the CDC immunization schedule anywhereCombination vaccines included.All schedules included FREE'
+p4
+tp5
+tp6
+.

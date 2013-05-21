@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Arvest Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S"We've made it easy to manage your finances at Arvest while on the go with an application designed to take advantage of your Android\xe2\x80\x99s features. Download the app today to manage your accounts from anywhere! If you have any problems enrolling or logging into Arvest Mobile Banking, please call (866) 952-9523 for personal assistance.With Arvest Mobile Banking application you can:\xe2\x80\xa2 Check balances \xe2\x80\xa2 Get history \xe2\x80\xa2 Deposit checks\xe2\x80\xa2 Transfer funds \xe2\x80\xa2 Pay bills \xe2\x80\xa2 Get current rates\xe2\x80\xa2 Locate a nearby branch or ATMYour information is safe and secure:\xe2\x80\xa2 Encryption protects your data \xe2\x80\xa2 Your app is secured with your Arvest Online Banking login and password  \xe2\x80\xa2 No personal data stored on your deviceNotes: \xe2\x80\xa2  You must be enrolled in Arvest Mobile Banking. To enroll, log into Arvest Online Banking and select the Mobile Banking tab. \xe2\x80\xa2  Android tablets and Kindle Fire are not currently supported.Recent changes:You can now deposit checks directly from your app using our Mobile Check Deposit service! See https://www.arvest.com/mobile_check_deposit for details.Other new features include:\xe2\x80\xa2 Keep up with the Arvest blog\xe2\x80\xa2 Obtain current rates for our products\xe2\x80\xa2 Financial calculators Additional enhancements include:\xe2\x80\xa2 BillPay payees now display full names\xe2\x80\xa2 ATM/branch locator has been re-written\xe2\x80\xa2 Fixed unresponsive Sign In button on Galaxy S3 and Note 2 devices running Android 4.1.x."
+p4
+tp5
+tp6
+.

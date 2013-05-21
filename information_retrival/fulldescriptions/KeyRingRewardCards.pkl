@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Key Ring Reward Cards '
+p1
+tp2
+(S'Description:'
+p3
+S'Key Ring Features:\xe2\x80\xa2 Add all your loyalty/reward cards\xe2\x80\xa2 FREE Coupons from the top retailers!  % Off, $ Off, BOGO\xe2\x80\xa2 Now supports online coupon codes \xe2\x80\xa2 Share cards with family members \xe2\x80\xa2 Supports 1,500 + programs\xe2\x80\xa2 Join new reward programs\xe2\x80\xa2 Barcode scanner\xe2\x80\xa2 Free lifetime backup of cards \xe2\x80\xa2 Homescreen widget\xe2\x80\xa2 Grocery coupons for 29 chains(v 2.1 and above)  \xe2\x80\xa2 Store locator, notes, community info, store infoUpdate Help:  If you receive a "app signed not correctly" error this means you have the amazon app store version installed.  Make sure you have an account, uninstall the amazon version and then install the android version.  This will fix the error. As seen in: USA Today, Oprah, Money Magazine, Real Simple, Mashable, Lifehacker, Entrepreneur Magazine, PC World, Men\'s Health, CNBC, Fox Business, Time, Parade, Wall Street Journal, NY Times, LA Times, Wired, TLC, ABC news, and various others.  Search: keyring, keyringapp, keychain, key chain, keychainapp, deals, offers, coupon, cellfire, keytag, card, deals, grocery, savings, black fridayRecent changes:Ver 6.0.6 - \xe2\x80\xa2 Improved location detection for Join ProgramsVer 6.0.5 - \xe2\x80\xa2 Fixed barcode scanner for Nexus 4Ver 6.0.4 - \xe2\x80\xa2 Minor bug fixesVer 6.0 - \xe2\x80\xa2 Flag cards as favorites to move to top of list\xe2\x80\xa2 Add gift cards & pin\xe2\x80\xa2 Card category indicators in list viewVer 5.9.2 - \xe2\x80\xa2 Completely new high performance barcode scanner\xe2\x80\xa2 Ability to scan PDF417 (Walgreens) and Codabar (Library)\xe2\x80\xa2 Fixed zoom issue for Razr & others'
+p4
+tp5
+tp6
+.

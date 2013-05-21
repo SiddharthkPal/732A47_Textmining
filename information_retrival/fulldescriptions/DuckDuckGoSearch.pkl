@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DuckDuckGo Search '
+p1
+tp2
+(S'Description:'
+p3
+S'We believe in better search and real privacy at the same time. That\'s why:  \xe2\x80\xa2 We don\'t track you.  \xe2\x80\xa2 We have tons of goodies.  \xe2\x80\xa2 We drop the clutter.  \xe2\x80\xa2 We don\'t filter bubble you.Goodies are special queries that give you instant answers. They\'re great on the go since you have to visit less sites or apps to get what you want. Our old app didn\'t have access to all the goodies from our Web site, but this app does.In fact, in this app you get everything you can get from our mobile web site plus:  \xe2\x80\xa2 Auto-suggestion of topics when searching  \xe2\x80\xa2 Auto-suggestion of phone apps when searching  \xe2\x80\xa2 Access to your recent searches  \xe2\x80\xa2 StoriesAll of these new features you can turn off in the settings. To do so, simply tap the menu icon in the upper left.Stories is a stream of interesting content that you won\'t find in regular news apps. All of the content comes from special feeds like "most shared" or "most up-voted."  Check it out when you\'re waiting around for five minutes.Please give us feedback at https://duckduckgo.com/feedback or at android@duckduckgo.com.  We listen!***FAQHow do I replace Stories with Recent Searches? Tap settings icon (three horizontal lines) -> Settings -> Home screen view -> Recent searches.What story sources are currently available?   \xe2\x80\xa2 Current events: BBC, CNN, Digg, Drudge Report, NPR, reddit Politics, Reuters, The Guardian, reddit TrueReddit, reddit Worldnews, Yahoo!;   \xe2\x80\xa2 Entertainment: reddit Aww, Dear Abby, reddit Funny, reddit Movies, reddit Music, People, reddit Pics;   \xe2\x80\xa2 Magazine: Browser, Feature, Longform, The New Yorker, Time;  \xe2\x80\xa2 Newspaper: New York Times, Wall Street Journal;  \xe2\x80\xa2 Sports: ESPN, Grantland;  \xe2\x80\xa2 Technology: reddit Gaming, Hacker News, Lifehacker, reddit Programming, reddit Science, Slashdot, reddit Technology;  \xe2\x80\xa2 Trivia: reddit AMA (Ask me Anything), Quora, reddit TIL (Today I Learned)Tags: duckduckgo, duck duck go, ddg, ddgo, duck search, search, search engine, privacy, private search, private browser.Recent changes:We would love any feedback you have on our Android app!2.0.22* Saved, Crash and Back fixes.2.0.21* Bug fix for issues with going back from a web page(applies for Android 3.0+ devices)2.0.20* Bug fixes for browser history issues2.0.19* Readability view for Stories!* Various bug fixes and UI polish.'
+p4
+tp5
+tp6
+.

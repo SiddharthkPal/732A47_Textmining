@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hulu Plus '
+p1
+tp2
+(S'Description:'
+p3
+S'Instantly watch current TV shows and acclaimed movies. Anywhere.Download the app to enjoy unlimited instant streaming of current and classic hit TV shows with your Hulu Plus subscription (Subscription Required).New to Hulu Plus? Try it FREE.\xe2\x80\xa2 Watch any current season episode of Community, Family Guy, The Office, Glee, and many more popular shows\xe2\x80\xa2 Enjoy popular kids shows, including SpongeBob SquarePants, Kung Fu Panda, Caillou and many more, ad-free\xe2\x80\xa2 Catch up on classic series including Lost, Battlestar Galactica and Arrested Development, or explore thousands of critically acclaimed movies\xe2\x80\xa2 Resume watching from where you left off on your TV or another supported device\xe2\x80\xa2 Add your favorite videos to your queue for instant access and sharing\xe2\x80\xa2 Watch over WiFi, 3G, and 4G\xe2\x80\xa2 Available for $7.99/month with limited advertisingHulu Plus is supported on select Android 2.x phones, as well as most Android 3.1+ and 4.x phones and tablets. Service available in the United States and territories.Please contact our customer support (mobilesupport@hulu.com) if you are having issues with compatibility of your device.Use of Hulu Plus is subject to the Hulu Plus Terms of Service: hulu.com/termsRecent changes:\xe2\x80\xa2 "Trending Now" content.  The hottest videos of the day right at your fingertips.\xe2\x80\xa2 Navigation on phones in landscape mode is now possible with the support of brand-new 90\xc2\xb0 rotations.  Note that upside-down landscape is not supported in standard gravity.\xe2\x80\xa2 Streamlined in-app signup.  Not yet a customer?  Sign up for a free trial of Hulu Plus on phones without leaving the app.\xe2\x80\xa2 Bug fixes, optimizations.'
+p4
+tp5
+tp6
+.

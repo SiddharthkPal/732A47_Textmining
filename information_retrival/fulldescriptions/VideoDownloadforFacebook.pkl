@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Video Download for Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch and download all Facebook videos with only a tap!- Watch news feed videos, your videos, friends\' videos- Choose which video you want to download, or download all of them with a single click- The only app for Android that can play and download HQ version videos!*** WARNING: If you have an old Android version, you might not be able to view videos directly. You can still download them and use a third-party player such as "MX Player" to open them ***Some videos you can see from Facebook website cannot be accessed by external applications, thanks to Facebook bugs; I can\'t do anything about it.If you have interrupted downloads try keeping the application alive while downloading!Send me an email if you have any problem, bad ratings here don\'t help to solve issues.Instructions:1) On first launch, click the "login" button and authorize the application when requested2) Explore your videos directly from main menu, or friends\' videos by clicking "Friends"3) Use checkboxes to choose which videos you want to download, or click one of them to watch it4) Click the upper download button. When finished, you can view your videos by accessing the Android gallery, or by opening with a file explorer the "sdcard/Movies/Facebook" folderThis app uses the Facebook(tm) API and is not endorsed or certified by Facebook. All Facebook(tm) logoes and trademarks displayed on this app are property of Facebook.Keywords: videodownloader, video downloader for facebook, facebook, video, videos, download, downloaderRecent changes:v0.4.2 [03-05]- Maintenance updatev0.4.1 [29-04]- Fix ads overlapping last element in listsv0.4 [27-04]- Added news feed section. YOU HAVE TO LOGOUT AND RE LOGIN- Added download destination option- Added user/page subfolder option- Minor improvementsv0.3 [13-04]- Added search option on friends, pages and groups screens- Bugfixes and minor improvements'
+p4
+tp5
+tp6
+.

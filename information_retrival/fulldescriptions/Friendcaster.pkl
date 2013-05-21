@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Friendcaster '
+p1
+tp2
+(S'Description:'
+p3
+S"Friendcaster sports a beautiful interface, loads of features and push notifications. If features are what you're after, we've got em:\xe2\x98\x85 Push notifications\xe2\x98\x85 Full news feed\xe2\x98\x85 Comment, post and like comments\xe2\x98\x85 6 beautiful themes\xe2\x98\x85 Quick access to posting status updates, photos and video\xe2\x98\x85 Quick access to checkins\xe2\x98\x85 Beautiful checkin map of all your nearby friend's locations\xe2\x98\x85 Easily view your news feed based on your friend lists\xe2\x98\x85 Displays your full size cover photo on the app opening screen\xe2\x98\x85 Support for multiple accounts\xe2\x98\x85 Hi-res photos directly in the news feed\xe2\x98\x85 Quick and easy setup assistant for notifications\xe2\x98\x85 Designed specifically for Android and Ice Cream SandwichKeep up with friends and family with Friendcaster.Recent changes:Bug fixes"
+p4
+tp5
+tp6
+.

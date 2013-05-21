@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Subsonic Music Streamer '
+p1
+tp2
+(S'Description:'
+p3
+S'All your media - anywhere, anytime!Songs are cached for offline playback. Supports mp3, ogg, aac, flac, wma. Most video formats supported too (requires Flash).You can also use this app as a remote control for music playing on your server.Features offline mode, adaptive bitrates, equalizer and visualizer.Server software available for Windows, Mac, Linux on subsonic.org.Recent changes:Removed ads :)'
+p4
+tp5
+tp6
+.

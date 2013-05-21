@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pho.to Lab - fun photo editor! '
+p1
+tp2
+(S'Description:'
+p3
+S'Pho.to Lab boasts one of the vastest collections of stylish and funny photo effects: more than 500 effects to date! Fantastic face photo montages, photo frames, animated effects and photo filters are here for you to enjoy. Make your image look creative in seconds and set it as a contact icon, a wallpaper, send a signed virtual postcard to a friend or share it to any social network.Look what Pho.to Lab users say:\xe2\x80\x9cIt makes my pics stand out and look beautiful! My friends are always asking how I did it!\xe2\x80\x9d(Ashley)"I never had so much fun and I am talk of the party when I show my creations."(Richard)\xe2\x80\x9cIt is the most excellent app among the other photo editor apps!\xe2\x80\x9d(Jay-ar)App\xe2\x80\x99s foremost features include:\xe2\x98\x86 Photo frames:choose one of our beautiful frames if you need a final touch to your favorite picture.\xe2\x98\x86 Realistic photo effects:place your image in an unlikely setting. Airbrush it on an exclusive car or leave it as a sand imprint on the beach. Photofunia lovers, you are welcome to get a new wonderful experience!\xe2\x98\x86 Face photo montages like those you find in photofunia. Turn yourself or your friend into Jack Sparrow, an astronaut or a horrible monster. The most complicated montages are handled automatically by a face detection algorithm.\xe2\x98\x86 Photo filters:add some style to your images with various photo filters such as Black&White, Neon Glow, Oil Painting and many others.\xe2\x98\x86 Photo collages:create a wonderful picture of you and your friend floating together in a sentimental or futuristic setting.The simple and intuitive app interface helps you quickly learn how to use the photo editor. Almost a dozen of new photo frames and effects is added with each update. We maintain a fruitful dialogue with our users. If you didn\'t find a particular photo effect in the library, contact the team and you might see it in the next update.Pho.to Lab will change your life forever!*__________* Pho.to Lab may or may not change your life but you\'re totally going to love it!Recent changes:In this version we have added a bunch of new effects. Also we have optimized memory usage, and now the app works faster.'
+p4
+tp5
+tp6
+.

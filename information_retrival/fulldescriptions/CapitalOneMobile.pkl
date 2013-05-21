@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Capital One\xc3\x82\xc2\xae Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'It\xe2\x80\x99s easy to manage your Capital One\xc2\xae credit card, Capital One Bank\xe2\x80\x94and now Capital One 360 accounts\xe2\x80\x94all securely and conveniently with our smartphone app. Check balances and recent transactions, pay bills, and more\xe2\x80\x94you\xe2\x80\x99re in control. Simply use your existing Capital One Online Banking sign-in information to get started. Capital One Credit Card Customers - Pay your credit card bill, schedule upcoming payments, and set up funding accounts you can use to pay your bill. - View your Capital One Deals(SM) (available to eligible Capital One customers). - Redeem credit card rewards or erase previous travel purchases with Purchase Eraser(SM). Capital One Bank Customers - Pay bills from your Capital One Bank checking account. - Find branches and ATMs. - Transfer funds between your Capital One Bank accounts. Capital One 360 Customers - Make mobile check deposits with CheckMate(SM). - Find any of our 38,000 fee-free AllPoint\xc2\xae ATMs. - Bump money between phones. - Send Person2Person payments. Your security is important to us. We use industry standard practices to protect and maintain the privacy and security of your information online and within our apps. This smartphone app supports Android\xe2\x84\xa2 OS 2.2 and up.If you experience any issues, you can still access your account using our mobile banking website at https://m.capitalone.com/.Disclaimers \xc2\xa9 2013 Capital One and Capital One\xe2\x80\x99s family of companies, including Capital One Bank (USA), N.A., and Capital One, N.A., Members FDICRecent changes:- View recent credit card activity for the last 45 days (up from last 30 transactions).- Sort credit card transactions by merchant name, amount, and date.- See pending, posted, auto-pay, and cancelled credit card payments in one place.- Bug fixes and enhancements.For support call 1-877-383-4802 or tweet @askcapitalone.'
+p4
+tp5
+tp6
+.

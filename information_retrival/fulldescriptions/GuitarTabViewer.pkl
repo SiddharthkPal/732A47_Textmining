@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Guitar Tab Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'This application allow you to open Guitar pro tab files (Guitar pro 1 (gtp), Guitar pro 3 (gp3), Guitar pro 4 (gp4), Guitar pro 5 (gp5) and Guitar pro 6 (gpx))  or PowerTab tab files (ptb) and use your tablet as a songbook!The tab can be played since version 2.0.0! (Warn, on old smartphone desync between sound and display can occur)Account autorisation is needed to access to the Google DriveHelp requested to translate the application in Korean and Chinese!Recent changes:version 2.4.2 & 2.4.3:Bug correction when press back button while playing google + no more asked!version 2.4.1 :Bug correction about search + sort functionnality available!Help requested to translate the application in Portuguese, Chinese and in Korean!'
+p4
+tp5
+tp6
+.

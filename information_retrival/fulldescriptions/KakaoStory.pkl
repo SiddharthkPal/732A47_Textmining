@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'KakaoStory '
+p1
+tp2
+(S'Description:'
+p3
+S"** KakaoStory is a photo sharing social networking service for KakaoTalk users. ** Now available in English. KakaoStory lets you share and talk about your daily life stories with KakaoTalk friends. Ultra simple and easy to use, it's a true social networking app for mobile. Over 8 million have already downloaded KakaoStory just in 4 days after the release! - Share your daily stories by posting photos, notes and comments. - Photo filter lets you add mesmerizing image effects to photos. - You can view friends\xe2\x80\x99 latest updates in \xe2\x80\x98Feeds\xe2\x80\x99 tab. - Express your emotions on friends' stories using 5 different emotions available. **KakaoStory is integrated with KakaoTalk messenger app - Import all your KakaoTalk friends to KakaoStory. - Sign in with your existing Kakao ID. If you do not own Kakao ID, then simply register with your name and an email address. - When you set your background image or upload photos in KakaoStory, the images will be shown on your KakaoTalk\xe2\x80\x99s mini profile.Recent changes:[v1.6.1]- Fixed the bug that the app closes when posting comments or emotions on a story- Fixed other bugs and improved service stability[v1.6.0]- Posting stickers on comments available- Improved sharing stories with URL links - Fixed other bugs"
+p4
+tp5
+tp6
+.

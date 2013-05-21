@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Free Mobile Recharge on the go '
+p1
+tp2
+(S'Description:'
+p3
+S"India's one and only FREE recharge site is now on mobile! Join millions of satisfied FreeChargers and get the most rewarding mobile recharge app on your Android device!The FreeCharge Android experience is the fastest, most secure, and most rewarding recharge mobile app on the market. And don't forget to recharge using FreeCharge Balance, our virtual cash deposits, for a lightning fast recharge and payments experience. Download FreeCharge app for your Android device now and recharge anywhere, anytime.What FreeCharge app has in store: # Mobile recharge for all operators (Airtel, Vodafone, Reliance, Tata Docomo, Idea, Aircel, BSNL, etc.)# DTH/Television recharge for all operators (Tata Sky, Airtel Digital TV, Reliance Big TV, Dish TV, Sun Direct, Videocon d2h, etc.)# Data Card recharge for all operators (Tata Photon, Reliance Netconnect, MTS Mblaze, Vodafone, Airtel, etc.)# All payment options - debit and ATM cards, net banking, credit card, and FreeCharge Balance (SBI, HDFC, ICICI, etc.)The FreeCharge Android experience is a no-nonsense, no frills experience. The application is tested and secured daily by McAfee and is verified by GeoTrust. The payment experience is completely PCI-DSS certified, ensuring a 100% secure payment environment. The FreeCharge app is completely tension-free, so download today."
+p4
+tp5
+tp6
+.

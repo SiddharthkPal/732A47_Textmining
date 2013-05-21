@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wikipedia Beta '
+p1
+tp2
+(S'Description:'
+p3
+S'Warning: This is beta software! Might break with any update!Note: The new dark theme (Solarized Dark) is experimental and might break. This beta version of the official Wikipedia app has more features than the stable app but also has more bugs.  Use the app to give us feedback on new features and bug fixes - if you like living on the cutting edge. You can help us by emailing feedback to mobile-feedback-l@lists.wikimedia.org or by leaving a comment here.Recent changes:- Experimental Night mode (Look inside Settings)!- Improved typography for better readability- Search bar auto hides- Better touchzoom in nearby map- Theming engine!- More RTL fixes'
+p4
+tp5
+tp6
+.

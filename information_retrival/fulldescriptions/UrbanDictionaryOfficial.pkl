@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Urban Dictionary (Official) '
+p1
+tp2
+(S'Description:'
+p3
+S"OFFICIAL Urban Dictionary app! Urban Dictionary is the online dictionary with definitions written by everyone.\xe2\x80\xa2 Perform unlimited searches for free, forever\xe2\x80\xa2 Define any word, whether it's slang or not\xe2\x80\xa2 Vote on definitions you like\xe2\x80\xa2 Share on Facebook, Twitter, txt and email\xe2\x80\xa2 See the full text of any definition\xe2\x80\xa2 See today's Urban Word of the Day\xe2\x80\xa2 Shake for a random word (on most phones)\xe2\x80\xa2 See autocomplete suggestions when you search\xe2\x80\xa2 Click on links within definitionsRecent changes:\xe2\x80\xa2 Stability improvements!"
+p4
+tp5
+tp6
+.

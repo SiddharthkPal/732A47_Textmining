@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Evernote Hello '
+p1
+tp2
+(S'Description:'
+p3
+S"With Evernote Hello it\xe2\x80\x99s easy to remember everything about everyone you meet.Whether you're meeting someone for the first time, trying to remember important details about a person you\xe2\x80\x99ve met before, or recalling important information about a previous meeting, Evernote Hello is here to help. Here's how:- See everyone you\xe2\x80\x99ve met and pictures of your activities in a beautiful mosaic layout- View a history of all the meetings you've had with individuals- Remember all aspects of your meetings: location, notes, photos, and faces- Connect with people through LinkedIn and now Facebook- Get additional insights about contacts and meetings with Related Notes from your Evernote accountThere are three easy ways to bring people you meet into Evernote Hello:- Connect with nearby Evernote Hello users via Hello Connect- Pull their information from your calendar appointments, texts, calls or your address book- Create a quick profile and snap their photo manuallyWith Evernote Hello, you can easily remember everyone you meet.Evernote Hello is part of the Evernote family of products, which are designed to help you remember everything.Recent changes:New in Version 1.4- NEW: Use Hello Connect audio tones to instantly exchange information with nearby Evernote Hello users- NEW: Facebook integration lets you add more people faster and easily connect with them later- Automatically pulls contact information from Facebook, LinkedIn and your address book to save you time- Pushes new Hello contacts into your Google Contacts to keep everything up to date"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Handwriting for FlipFont\xc3\x82\xc2\xae free '
+p1
+tp2
+(S'Description:'
+p3
+S'4-Font free Handwriting Font Pack is designed to be compatible with Monotype Imaging Inc.\'s FlipFont\xc2\xae program and will install new free fonts on your phone that are compatible with the FlipFont\xc2\xae program on your phone.  NOTE: This App is NOT sponsored, endorsed, or affiliated with Monotype Imaging, Inc, the owner of the FlipFont trademark and technology. This App only works with the FlipFont\xc2\xae program.  You can use the FlipFont\xc2\xae program on your phone to change the user interface font on your phone to one of these 4 free Handwriting fonts. This font pack includes 4 free fonts designed for FlipFont\xc2\xae free.This font pack should work on all Galaxy brand phones (except for Galaxy Nexus developer phones).To use this font pack, verify that your phone can change it\'s font in the "Display" -> "Screen Display" section of "Settings"... or you have a rooted phone. This plug-in should work on any phone that allows for custom fonts and has FlipFont\xc2\xae. This app is supported by advertisements. Ads keep this app free for everyone to enjoy. Thanks!This android application is not affiliated with FlipFont\xc2\xae or Monotype Imaging Inc. All functionality, trademarks and copyrights remain the property of their respective owners.'
+p4
+tp5
+tp6
+.

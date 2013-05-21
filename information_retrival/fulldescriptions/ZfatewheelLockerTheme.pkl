@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zfatewheel Locker Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a premium theme but free to download.  After you download and apply the theme, you can either pay using Google Checkout or get it FREE using Sponsorpay/Tapjoy Coins. Sponsorpay/Tapjoy gives you free coins for downloading and trying some free apps that it recommends for you.  In short, you can get this theme for completely FREE by downloading a few apps.How to get Sponsorpay/Tapjoy Coins to purchase and apply this theme:1. After downloading and installing this theme, from the home screen of your phone, select the Menu button on your phone -> Theme -> Installed -> choose your theme -> Apply 2. Choose pay with Google Checkout or Free with Sponsorpay/Tapjoy Coins. 3. If you choose Sponsorpay/Tapjoy Coins, there will be several apps listed.  Just download whatever apps you want until you have enough coins to purchase the theme.4. After purchase, select Installed -> choose the theme -> ApplyThank you for your continued support. Feel free to contact us if you have any problems or suggestions.'
+p4
+tp5
+tp6
+.

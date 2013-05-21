@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Breaking News '
+p1
+tp2
+(S'Description:'
+p3
+S"Breaking News tells you what's happening right now, straight from the source. See breaking stories appear in real-time, verified by the same journalists who power @BreakingNews on Twitter.  There's no faster source of reliable news alerts, and our free app is also available on the Kindle Fire. Features include:- Get push notifications on the biggest stories- Scan the latest updates in seconds from news sources across the globe- See eyewitness photos and videos from breaking stories- Track your favorite topics in a custom breaking news feed- Pinpoint where stories are happening on a map- Get 4X more updates than @breakingnews on Twitter- Watch updates refresh at the top automatically- Share stories and topics via Twitter, Facebook, text and email- Home screen widgetSupport:If you have any issues or suggestions, you can reach us by email at support@breakingnews.com, or by filling out our contact form at http://www.breakingnews.com/about/contactRecent changes:* 1.5.3: Fix for widget loading issue and opening push notification detail* 1.5.2: Fix for widget crashing issue* 1.5.1: Fix for various crashes and bugs* 1.5: App now auto-refreshes, push notifications now open specific item pages, and sound/vibrate options for push notifications were added* 1.4: Added ability to view all personalized topics at once, added ability to open external links directly from headlines, and fixed various network and sharing issues"
+p4
+tp5
+tp6
+.

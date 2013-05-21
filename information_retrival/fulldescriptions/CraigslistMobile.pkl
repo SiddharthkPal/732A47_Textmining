@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Craigslist Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"Craigslist Mobile provides a simple and intuitive interface, but an extensive set of features to search, post, browser and reply on craigslist.org.What will you find inside?\xe2\x9c\x93 \xe2\x9c\x93 The only Android App that allows you to search and post an ads directly from your phone!!\xe2\x9c\x93 Sophisticated mobilizer algorithm to make the Craigslist webpage fit in the phone screen nicely.\xe2\x9c\x93 Posting ads directly from your Android Phone.\xe2\x9c\x93 Posting with or without an account.\xe2\x9c\x93 Browsing and searching the craigslist.org\xe2\x9c\x93 Quick preview of the posts along with thumbnail of the photos.\xe2\x9c\x93 Support all major countries and states.\xe2\x9c\x93 Email the post to friends or yourself.\xe2\x9c\x93 Contact the poster via email or phone call.\xe2\x9c\x93 Battery life friendly! No background service to drain your phone's battery.\xe2\x9c\x93 Save the post to favorite.\xe2\x9c\x93\xe2\x9c\x93 And more!If you have any question and suggestion, please email us at duduapps@gmail.com. Please include the Category, Location and search keywords when you report any problem.Thanks and enjoy!NOTES on Permissions needed by Craigslist Mobile App:- DIRECTLY CALL PHONE NUMBERS   This feature is only used when you are trying to contact the sellers on the craigslist via phone call.- TAKE PICTURES AND VIDEOS   This feature is only used when you need to post a new ads on craigslist with a picture taking with your phone.Recent changes:Version 1.47 fix expired postVersion 1.46  fix image previewVersion 1.45   tablet support   fix duplicated images. Version 1.43  Fix reply by email.Version 1.42  Fix listing problem  Fix posting problem Please also check out our ads-banner free version App. https://play.google.com/store/apps/details?id=com.duduapps.craigslistproWe are looking for your feedback! Send us an email duduapps@gmail.comEnjoy!"
+p4
+tp5
+tp6
+.

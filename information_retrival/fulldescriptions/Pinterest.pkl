@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pinterest '
+p1
+tp2
+(S'Description:'
+p3
+S'Pinterest is a tool to find your inspiration and share it with others. Use it to collect things you love, organize and plan important projects, and more.Features\xe2\x80\xa2 Pin images from around the web\xe2\x80\xa2 Explore pins and boards you\xe2\x80\x99re interested in\xe2\x80\xa2 Get inspiration from DIY, Travel, Food and other categories\xe2\x80\xa2 Pin with your cameraPhotos in screenshots licensed under Creative Commons: http://passets-cdn.pinterest.com/android-attribution.txtRecent changes:- Discover new pins with our "people who pinned this also pinned" feature'
+p4
+tp5
+tp6
+.

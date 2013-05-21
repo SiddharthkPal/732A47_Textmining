@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DS audio '
+p1
+tp2
+(S'Description:'
+p3
+S'*You must own a Synology NAS to run this app*Discover a new and pleasant way to enjoy music on your Android phones and tablets wherever an Internet connection is available. DS audio allows you to browse your DiskStation\xe2\x80\x99s music library while playing it in the background, as well as displaying the lyrics of the song being played. You can also control music playback on connected speakers in a simple and convenient way.With DS audio on Android Phones and Tablets, you can do the following:-Play music stored on your DiskStation on-the-go-Browse songs by albums, artists, folders, genres or playlist-Create playing queues or simply select 100 songs to play randomly -Listen to your favourite Internet radio -Control remotely the music streamed from the DiskStation to any connected speakers, media renderers or AirPlay speakers-Connect with your QuickConnect ID (requires DSM 4.2)-Support of dynamic lyrics format-Support of Personal library-Support of HTTPS connection for Android 3.1 and onwards-Support for encrypted login over HTTP without SSL\t-All features available with DSM 4.2 and onwards -Supported on devices running Android 2.1 and onwards What\xe2\x80\x99s new?- Pre-buffering for smoother transitions between songs- Minor bug fixesRecent changes:- Pre-buffering for smoother transitions between songs- Minor bug fixes'
+p4
+tp5
+tp6
+.

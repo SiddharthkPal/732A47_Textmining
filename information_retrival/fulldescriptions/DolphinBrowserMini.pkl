@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dolphin Browser\xc3\x82\xc2\xae Mini '
+p1
+tp2
+(S'Description:'
+p3
+S'Something powerful, something elegant, something valuable! It is Dolphin Browser\xc2\xae Mini.Something fast, something simple, something new! It is Dolphin Browser Mini.Browsing made wonderful.Dolphin Browser\xc2\xae Mini aims at providing a friendly user experience for all of you. Enjoy this new version now and let us know how it works for you. Highlights:*High speed responsibility*Speed Dial Homepage*Innovative Menu design*Infinite tabs browsing*Intelligent back & forward button*Powerful Copy Text (Select Text)Features:*Gesture*Multi-tab browsing*Multi-touch pinch zoom*Tool Box*RSS Detection*Bookmarks sync*Bookmarks/History/Most Visited*Flash Support for FroyoRecent changes:Various performance improvements & Bug fixes.'
+p4
+tp5
+tp6
+.

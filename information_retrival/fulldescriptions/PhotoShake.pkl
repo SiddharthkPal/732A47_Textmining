@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PhotoShake! '
+p1
+tp2
+(S'Description:'
+p3
+S'With PhotoShake, you can easily combine one or more photos to make exciting and fun new images. PhotoShake is a photo editing program that you can use to share photos with family and friends on social networking sites.You can easily create a collage photo as follow;1. Select a theme.2. Import photos for your collage and select paper type.3. Simply shake your phone to get random collage images. (click "Edit" for manual select)4. Also editing tool is available to create special effects on the final collage.KEY FEATURES:\xe2\x98\x85 6 photo theme support (MultiPhoto, SinglePhoto, InstantPhoto, GridPhoto, WidePhoto, SquareMania)\xe2\x98\x85 Easy photo creation by shake action.\xe2\x98\x85 High quality frame pinking\xe2\x98\x85 Various frame patterns\xe2\x98\x85 Place photo using translation, rotation, and scaling\xe2\x98\x85 Image filter for photos\xe2\x98\x85 Storytelling with various balloon item.\xe2\x98\x85 Funny sticker support.\xe2\x98\x85 Social media support (Twitter, Facebook, Flicker, Picasa, Blogger, Tumblr)\xe2\x98\x85 Save & Export.\xe2\x98\x85 Wallpaper supportPhotoShake allows user to create images from various occasions like everyday life, memorable moments, social gatherings, photo that has a story.Make a precious memory with family, friends, or others.Share your beautiful memories and fun episodes with your friends.Joy and happiness start from your touch.- In Pro version,1. More photo theme (Instant Photo / Grid Photo / Square Mania)2. More layouts3. Layout editing in Multi-photo theme4. Vignetting effect in instant-photo theme5. Can save project (Library)Enjoy our new app StickIt! You can easily cut background out of photo just by drawing some lines!Recent changes:1. New "Wide Photo" theme2. You can now change Frame/Pattern/Photos in Shake screen3. Adds new 7 frame borders4. Adds new 6 speech balloon styles5. Adds new 8 image filters6. Fixes Twitter and Tumblr upload bugs'
+p4
+tp5
+tp6
+.

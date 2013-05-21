@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MONOPOLY Hotels '
+p1
+tp2
+(S'Description:'
+p3
+S'ARE YOU A HOTEL MOGUL? Buy, build, and manage MONOPOLY\xe2\x80\x99s iconic hotels in this all-new MONOPOLY experience. Check into MONOPOLY Hotels \xe2\x80\x93 FREE on your smartphone and tablet!LET THE MONEY ROLL IN \xe2\x80\x93 ONE ROOM AT A TIME \xe2\x80\x93 AS YOU\xe2\x80\xa6 \xe2\x80\xa2 Take control of MONOPOLY\xe2\x80\x99s luxurious 5-star hotels and create your own hotel empire\xe2\x80\xa2 Upgrade hotel rooms and attract V.I.P. guests like MR. POTATO HEAD\xe2\x80\xa2 Customize your hotel with fun attractions like cupcake shops, movie theaters, and bowling alleys\xe2\x80\xa2 Expand your property empire with a Museum, Zoo, Aquarium, and more!Buy it, build it, and bank it \xe2\x80\x93 for FREE!CHECK IN EVERY DAY!With unlockable challenges and updates \xe2\x80\x93 like new properties, characters, holiday packs, and more \xe2\x80\x93 there are plenty of reasons to extend your stay.Pass GO and get building today!'
+p4
+tp5
+tp6
+.

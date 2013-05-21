@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Photo Squarer '
+p1
+tp2
+(S'Description:'
+p3
+S'Put frames around your photos to make them square shaped. This app makes all photos compatible with Instagram without having to crop photos. Now you can get your whole photo in Instagram.Features of Photo Squarer:- Add borders/frames to photos to make them square- Makes all photos compatible for instagram and other social networks- Can zoom out & zoom in of photos- Can choose any color to be photo frame- Never crop photos again to make compatible with instagramPlease contact developer before giving bad ratings. We hope to fix any issues you have quickly!Tags:Photos to square, square photos, square for instagram, square picture, square photos, square pictures, square camera, instagram squareSquareIt, InstaFitIt, SquareReady, squaring photos, instagram squarer, square frame, square frames, square imageRecent changes:Improved app stability and fixed many crash issues'
+p4
+tp5
+tp6
+.

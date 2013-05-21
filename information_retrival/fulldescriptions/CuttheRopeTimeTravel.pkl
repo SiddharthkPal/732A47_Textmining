@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Cut the Rope: Time Travel '
+p1
+tp2
+(S'Description:'
+p3
+S'Join Om Nom as he travels back in time to feed his ancestors with candy. Cut the Rope: Time Travel  is a completely new adventure filled with time-traveling, candy-crunching, physics-based action! With two cute monsters to feed in each level, Cut the Rope: Time Travel is twice the fun but familiar to play. If you like Cut the Rope, you\xe2\x80\x99ll love Cut the Rope: Time Travel!There\xe2\x80\x99s no time to waste! Visit six exciting locations including the Middle Ages, the Renaissance, a Pirate Ship, Ancient Egypt, Ancient Greece, and the Stone Age. Om Nom\xe2\x80\x99s ancestors are waiting \xe2\x80\x93 and they\xe2\x80\x99re getting really hungry for candy! NOTE: the game supports both phones and tablets!Already a fan?LIKE US: www.facebook.com/cuttheropeFOLLOW US: www.twitter.com/cut_the_ropeWATCH US: www.youtube.com/zeptolabVISIT US: www.cuttherope.netRecent changes:Minor fixes'
+p4
+tp5
+tp6
+.

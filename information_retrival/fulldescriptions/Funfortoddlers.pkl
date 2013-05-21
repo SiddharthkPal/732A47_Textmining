@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fun for toddlers '
+p1
+tp2
+(S'Description:'
+p3
+S'Fun for toddlers is an fun sounds and puzzle game Each puzzle have 7 items that make funny sounds over 80 different   sounds play it as a puzzle game or like a sound game *Easy puzzle*Fun sounds*Menu for toddlers*design for toddlersHave fun !One of those games that your children will just adore! Fun for toddlers will keep your kids mind occupied for a long time. What goes in the package?\xe2\x80\xa2\tGreat looking interface\xe2\x80\xa2\tWonderful colors in every puzzle\xe2\x80\xa2\tEach puzzle have a different set of objects, animals and sounds\xe2\x80\xa2\tDesigned to please your kid\xe2\x80\x99s eyes but also yours.\xe2\x80\xa2\tFree of charge-WOW this is greatNo matter where you are, your kid will be able to keep his/her mind occupied. This is a child game that you won\xe2\x80\x99t forbid your kid to play. It is both easy and challenging. How is that possible? Well, each slide has a totally different set of animals and objects but the principle behind the game is the same in every slide. Pleasing design will keep your kids imagination occupied for the weeks to come. The game is not poor with colors which is what your kids really love-loads of colors to catch every toddler\xe2\x80\x99s attention. If you like this game, this developer has a lot more to offer, check this out!1.\tAnimal Match-Fun for ToddlerThis kid\xe2\x80\x99s game will teach your kid to recognize major animals in no time.  Have you ever noticed how kids react on animals!? This is how your kids will react if you decide to download this app on your Android device.2.\tPuzzle Fun for Kids 2Another great puzzle from this developer will rock your kid\xe2\x80\x99s world. This 2nd edition of Puzzle Fun for Kids brings more colors, sounds and of course, more excitement.3.\tRobot MatchIf your kids get tired of playing animal matching games, but they can\xe2\x80\x99t get enough of puzzle games this one is a perfect choice. Robot Match will take your kid to the robotic world in a matter of seconds. Probably the best puzzle game from this developer.'
+p4
+tp5
+tp6
+.

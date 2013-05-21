@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Arab Idol '
+p1
+tp2
+(S'Description:'
+p3
+S'Get the latest updates!Stay up-to-date with the latest news and updates all around Arab Idol season 2.Get in on the action in real time and discuss all the latest Arab Idol developments from within the app as it\xe2\x80\x99s happening.Watch, comment and share the latest performances, behind-the-scenes clips and other exclusive content from the Arab Idol app.Get up close and personal with an in-depth look at any of the contestants; view their profiles, status, photos, videos and much more.'
+p4
+tp5
+tp6
+.

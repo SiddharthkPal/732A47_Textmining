@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fonduri Europene '
+p1
+tp2
+(S'Description:'
+p3
+S'Aplicatia fondurilor europene nerambursabile. Ultimele stiri, exemple de succes, oportunitati de finantare din fonduri structurale si de coeziune toate acum si pe mobil.Prima aplicatie din Romania pentru Android privind fondurile europene.Nota: Aceast\xc4\x83 aplica\xc5\xa3ie utilizeaz\xc4\x83 Google Analytics pentru a urm\xc4\x83ri in mod anonim utilizarea datelor \xc3\xaen cadrul aplica\xc5\xa3iei.This application uses Google Analytics to anonymously track usage data within the application.Recent changes:Google Cloud Messaging (Push Messaging) - Pentru modificarea set\xc4\x83rilor notific\xc4\x83rilor accesa\xc8\x9bi \xc3\xaen cadrul aplica\xc8\x9biei "Settings"Exemple de proiecte finantate din fonduri europene.'
+p4
+tp5
+tp6
+.

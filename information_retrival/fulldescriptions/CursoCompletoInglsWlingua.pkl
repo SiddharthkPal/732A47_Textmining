@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Curso Completo Ingl\xc3\x83\xc2\xa9s Wlingua '
+p1
+tp2
+(S'Description:'
+p3
+S'- 600 lecciones de ingl\xc3\xa9s desde el nivel principiante hasta intermedio (A1, A2, B1 y B2).- Proceso de aprendizaje sencillo y guiado. Cero frustraciones en nuestro curso, sentir\xc3\xa1s que d\xc3\xada a d\xc3\xada aprendes m\xc3\xa1s y m\xc3\xa1s ingl\xc3\xa9s.- Locuciones en ingl\xc3\xa9s Brit\xc3\xa1nico e ingl\xc3\xa9s Americano. - Repasos Espaciados. - Ejercicios de vocabulario y frases.- Ejercicios de gram\xc3\xa1tica.- Readings.El curso dispone de 2 tipos de cuenta:- B\xc3\xa1sica: con la cuenta B\xc3\xa1sica el curso es gratuito, pero con algunas limitaciones.- Premium: con la cuenta Premium tienes acceso a todos los contenidos y actividades del curso. Para estudiar en nuestro curso es necesario crear antes una cuenta, solo necesitamos que nos facilites el email y una contrase\xc3\xb1a de acceso.Al crear tu cuenta te regalamos 30 d\xc3\xadas de acceso Premium. Una vez pasados los 30 d\xc3\xadas la cuenta pasar\xc3\xa1 autom\xc3\xa1ticamente a B\xc3\xa1sica. As\xc3\xad de simple, sin ning\xc3\xban coste oculto.Esta aplicaci\xc3\xb3n requiere conexi\xc3\xb3n a internet (el curso se encuentra online). Podr\xc3\xa1s seguir estudiando donde lo dejaste desde cualquier dispositivo u ordenador.'
+p4
+tp5
+tp6
+.

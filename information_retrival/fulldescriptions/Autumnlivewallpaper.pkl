@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Autumn live wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Autumn is a Live Wallpaper.*** NEW ***This live wallpaper supports almost all the screen resolutions.Please rate it if you like...Instructions to install it:- go to your home screen;- press the menu button on your device;- select "Wallpaper";- select "Live Wallpapers";- search and select for " Live Wallpaper"- select "Settings" to select for speed and quantity- then "Set wallpaper" to activate it.Look at our other widgets, wallpaper and applications on the market.System Requirement:There are two requirements to use LWP:1) compatible hardware;2) compatible OS.compatible hardware -- any phone that came with Android OS 2.0 or later should work fine. Anything that came with 1.5 / 1.6 may have problems. HTC Droid Eris, Hero, Legend, Spica, and their cousins are known to have problems, even when updated to Android OS 2.X.2) compatible OS -- Android OS 2.1 (Eclair) or later can use live wallpapersDeveloped by Lion18TLion18T is a leader in developing apps for android devices like widget .Check for other apps in the market like clock stickers and other..Relax and feel free to contact us for any issue or suggestion by e-mail : Lion18T@gmail.com or You will never get angry with these apps!!!'
+p4
+tp5
+tp6
+.

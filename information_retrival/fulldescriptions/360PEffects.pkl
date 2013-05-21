@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'360 P-Effects '
+p1
+tp2
+(S'Description:'
+p3
+S"Free photo fun generator in your pocket! You upload any photo and just wait to see the magic. App's foremost features include (but are not limited to):\xe2\x98\x86 List by category.\xe2\x98\x86 Select a template.\xe2\x98\x86 Favorite template.\xe2\x98\x86 Select a photo or teke a picture using camera.\xe2\x98\x86 Save your effected photos.\xe2\x98\x86 Share(sms, email, facebook, twitter...) to your friends.Some effects use face detection technology to let you switch the face and create amazing face montages!360 Photo Effects will change your life forever!"
+p4
+tp5
+tp6
+.

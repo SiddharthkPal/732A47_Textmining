@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'A Bola | Not\xc3\x83\xc2\xadcias de Desporto '
+p1
+tp2
+(S'Description:'
+p3
+S'Esta aplica\xc3\xa7\xc3\xa3o disponibiliza informa\xc3\xa7\xc3\xa3o desportiva do Jornal A Bola, permitindo o seu acesso imediato.\xc3\x89 uma forma r\xc3\xa1pida, eficiente e flex\xc3\xadvel para estar informado dos acontecimentos desportivos que fazem not\xc3\xadcia em Portugal e no Mundo.Esta \xc3\xa9 uma aplica\xc3\xa7\xc3\xa3o n\xc3\xa3o oficial do Jornal A Bola, embora todo o conte\xc3\xbado mostrado nesta aplica\xc3\xa7\xc3\xa3o seja da autoria deste mesmo jornal.*NOVIDADE*- Visualiza\xc3\xa7\xc3\xa3o dos jogos em diretoPrincipais Funcionalidades:- Visualiza\xc3\xa7\xc3\xa3o das not\xc3\xadcia- Visualiza\xc3\xa7\xc3\xa3o da lista de not\xc3\xadcias por categoria- Navega\xc3\xa7\xc3\xa3o entre not\xc3\xadcias da mesma categoria (deslizar para a esquerda/direita)- Visualiza\xc3\xa7\xc3\xa3o e zoom da capa do dia- Visualiza\xc3\xa7\xc3\xa3o da classifica\xc3\xa7\xc3\xa3o da 1\xc2\xaa e 2\xc2\xaa liga- Visualiza\xc3\xa7\xc3\xa3o da jornada atual/seguinte da 1\xc2\xaa e 2\xc2\xaa ligaKeywords: jornal abola, jornal record, jornal o jogo, sapo desporto, mais futebol, di\xc3\xa1rio de not\xc3\xadcias, jornal de noticias, not\xc3\xadcias de Portugal, liga portuguesa, liga zon sagres, liga dos campe\xc3\xb5es, futebol internacional, Sele\xc3\xa7\xc3\xa3o Nacional, SL Benfica, FC Porto, Sporting CP, Real Madrid, Cristiano Ronaldo, f\xc3\xb3rmula 1, tenis, esportes, europeu, mundial, messi, liga europaRecent changes:2.3: - Inclus\xc3\xa3o dos jogos e classifica\xc3\xa7\xc3\xa3o da 2\xc2\xaa Liga2.2: - NOVA FUNCIONALIDADE: Visualiza\xc3\xa7\xc3\xa3o dos jogos em direto - Corre\xc3\xa7\xc3\xa3o de erros2.1: - Corre\xc3\xa7\xc3\xa3o de erros2.0: - Adi\xc3\xa7\xc3\xa3o de novas funcionalidades:   -> Visualiza\xc3\xa7\xc3\xa3o da classifica\xc3\xa7\xc3\xa3o da liga   -> Visualiza\xc3\xa7\xc3\xa3o da jornada atual/seguinte - Corre\xc3\xa7\xc3\xa3o de erros'
+p4
+tp5
+tp6
+.

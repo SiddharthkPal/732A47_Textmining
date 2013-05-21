@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Face Changer '
+p1
+tp2
+(S'Description:'
+p3
+S'Create the craziest ever looking faces! Create funny faces from yourphotos, your friends\' photos or celebrity pics. Morph the faces and addfunny looking objects to them.Take a face and add beards, glasses and funny hairstyles.What users say:" This is the funniest and easiest time killer. This makes you and yourfriends laugh out aloud.""ROFL! Its all I can say when I look at the faces created from this app""My girlfriend almost started beating me when she saw her morphed face!"Use various combinations to figure out the funniest version of your funnyface and share it on Facebook, twitter and all other social networks.'
+p4
+tp5
+tp6
+.

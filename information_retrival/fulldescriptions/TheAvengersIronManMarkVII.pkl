@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Avengers-Iron Man Mark VII '
+p1
+tp2
+(S'Description:'
+p3
+S'Set in the Marvel Cinematic Universe, "Marvel\'s The Avengers: Iron Man - Mark VII" is an epic interactive comic book experience through the design logs of super hero Tony Stark as he journeys from his Mark I armor, used to escape from captivity in the Ten Rings insurgents\' cave, to the high-powered Mark VI armor, used to vanquish Ivan Vanko and his army of Hammer Drones. A war has started and we are hopelessly outgunned. It is time for billionaire philanthropist Tony Stark to upgrade his Iron Man armor for the upcoming battle when "Marvel\'s The Avengers" assemble for the blockbuster movie event of summer 2012. Immerse yourself in the genius, grit and humor of Stark and team up with all your favorite Iron Man characters, including Pepper Potts, J.A.R.V.I.S., and James Rhodes, as Stark finds inspiration for his latest innovation, the Mark VII.  Suit up, blast off, and hang on tight for the first-ever fully-interactive Comic Book App Experience! Features: - 15+ pages of an all-new story by fan fave creators, writer Fred Van Lente and artist Steve Kurth! Plus an all-new cover by the legendary Adi Granov! - Hit musical soundtrack from the Iron Man and Iron Man II movies! - Innovative new sliding panel navigation to immerse you in comics like never before! - Dozens of interactions that react to tilt, touch, and drag to give you full control over the experience! - "Read to Me" mode with word highlighting! - "Read Myself" mode with touchable words!Recent changes:Find the security token on each page to unlock highly confidential files (pencil sketches) at the end of the book! Other Updates: - Bug fixes & Optimizations- Unlockable pencil sketches Illustrated by Steve Kurth'
+p4
+tp5
+tp6
+.

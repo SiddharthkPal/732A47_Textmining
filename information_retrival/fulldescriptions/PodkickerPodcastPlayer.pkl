@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Podkicker Podcast Player '
+p1
+tp2
+(S'Description:'
+p3
+S"An alternative to all the bloated podcatchers out there.Give it a try if you are looking for a replacement to Google Listen, which was discontinued on August 2012.\xe2\x98\x85 It's FREE!\xe2\x98\x85 Audio and video support.\xe2\x98\x85 Stream or download podcasts\xe2\x98\x85 Import / Export OPML files.\xe2\x98\x85 Recommendations based on current subscriptions.\xe2\x98\x85 Searchable database with 200.000 podcasts.\xe2\x98\x85 Browse podcasts on a world map.\xe2\x98\x85 Easy, clean and intuitive user interface.There is a new, paid, pro version available, rewritten from scratch with new features. Check it out!http://bit.ly/IwJGR0Reviews:http://dottech.org/86644/android-podkicker-makes-listening-to-podcasts-simple/Recent changes:updates of external libraries and bugfixes"
+p4
+tp5
+tp6
+.

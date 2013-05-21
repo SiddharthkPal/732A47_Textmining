@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WordReader read MS Word files '
+p1
+tp2
+(S'Description:'
+p3
+S'WordReader helps you to read MS Word documentsRecent changes:Fix bugs'
+p4
+tp5
+tp6
+.

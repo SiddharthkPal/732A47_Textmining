@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'5 mei bevrijdingsfestivals '
+p1
+tp2
+(S'Description:'
+p3
+S"In de offici\xc3\xable App van de bevrijdingsfestivals kun je de line-up, het laatste nieuws, de routebeschrijving, foto's, video's en alle andere informatie over jouw Bevrijdingsfestival vinden.De afgelopen twintig jaar zijn de Bevrijdingsfestivals uitgegroeid tot het grootste eendaagse culturele evenement in Nederland, met optredens van zo'n 250 bands op circa 40 podia. Elke provincie heeft een Bevrijdingsfestival, dat gratis toegankelijk is. In 2012 werden de festivals door ruim 800.000 mensen bezocht. De 14 festivals worden georganiseerd in samenwerking met het Nationaal Comit\xc3\xa9 4 en 5 mei, waaronder de volgende steden vallen:- Haarlem- Den Haag- Amsterdam- Rotterdam- Vlissingen- Utrecht- Den Bosch- Roermond- Wageningen- Assen- Groningen- Leeuwarden- Almere- ZwolleDit jaar zullen Miss Montreal, Dio en Chef'Special het gezicht van de vrijheid vormen op 5 mei als Ambassadeurs van de Vrijheid. Traditiegetrouw bezoeken zij door de inzet van Het Ministerie van Defensie met 3 helikopters alle 14 festivals.Meer informatie: www.bevrijdingsfestivals.nl"
+p4
+tp5
+tp6
+.

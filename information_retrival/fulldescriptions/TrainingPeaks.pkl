@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TrainingPeaks '
+p1
+tp2
+(S'Description:'
+p3
+S'** TrainingPeaks Mobile is the perfect free Android companion app for \xe2\x80\x98on the go\xe2\x80\x99 subscribers to the web\xe2\x80\x99s most powerful training log and nutrition software TrainingPeaks.com **The combination of TrainingPeaks.com and the ad-free TrainingPeaks Mobile application is the favored training software for athletes training for a triathlon, training for a marathon or other endurance event. Access your TrainingPeaks.com training calendar, view and record workouts as well as metrics like weight and sleep. Meals can be logged using the built-in barcode scanner or by searching the USDA foods database.KEY FEATURES:Easy to read calendar to view planned workouts and mealsQuickly log meals from a database of 100,000 + foods. Or, add your ownIntegrated barcode scanner to make logging your meals a snap. Literally!Intuitive interface for entering a swim, bike, run or other workoutSliding toolbars track stress, fatigue and other metrics like weight and sleepTrainingPeaks Mobile can be combined with a training plan or meal plan, used while training with a coach or for just tracking your exercise and nutrition.  Our simple interface lets you plan and track your training with speed and ease! And since TrainingPeaks Mobile syncs seamlessly with TrainingPeaks.com, log in online anytime to further analyze your workouts and fitness trends in depth.Don\xe2\x80\x99t have a plan or need to find a coach? Visit www.TrainingPeaks.com and transform this app into more than just a logging tool.  Upgrade to Premium and gain access to the TrainingPeaks Virtual Coach, plan your own workouts and meals, do enhanced analysis of individual workouts and fitness over time.REQUIREMENTS:You must subscribe to a free Basic, paid Premium Personal Edition or Paid Coach Edition TrainingPeaks.com account to use this appYou must have an internet connection, 3G or Wi-Fi, to use this appRecent changes:Fixed login problems on certain devices'
+p4
+tp5
+tp6
+.

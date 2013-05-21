@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'JW Song Book '
+p1
+tp2
+(S'Description:'
+p3
+S'Implemented as a native android application it allows you to "jump" directly to a song page by entering the song number or quickly swipe/turn pages of the song book.  You can listen to the song with audio streaming from jw.org in piano or vocal rendition tracks (if available).   A great tool to learn these wonderful songs.As an Extra feature, you can play a game - "Name that Melody", where you try to identify the correct title for a given song.  Lots of fun and helps you recognize these songs by ear.  This application was optimized to run on Tablets (portrait), but it should also run on phones, if you find a problem please email so we can fix.Under the options menu item you can select the song book language (currently English, Portuguese, Spanish, Italian, French, German, Norwegian, Russian, Polish, Georgian, Korean, Romanian, Tagalog, Swedish, Japanese, Chinese, Dutch).If the song is available in vocal rendition, you will be presented with a menu to select between piano or vocal track.All content is based/streamed from jw.org but this is NOT an official application of the Jehovah\'s Witnesses.  A network connection is needed when downloading a Song Book file for the first time (not required thereafter) but always needed to play the game and songs.  TIP: If you want to play songs offline, you can manually download them into your download folder. The app always looks there first before streaming from jw.org.  Please be patient when the app is downloading the song book file(s) initially as it could take several minutes (depending on your Internet data speed).Dear friends, I hope you enjoy this application, find it useful and gain new appreciation for these wonderful melodies.Recent changes:Version 2.7- Fixed Song Streaming issue in gameVersion 2.6- Fixed Song Streaming issuesVersion 2.5This update contains:- Several fixes and improvements- Added song books for Greek and Chinese Traditional languages- Songs will play from local storage first before streaming from Internet- A new option/preference allows changing the folder where songs are stored locally  Additional extra features will be coming in future release'
+p4
+tp5
+tp6
+.

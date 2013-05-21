@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'2X Client RDP/Remote Desktop '
+p1
+tp2
+(S'Description:'
+p3
+S'The 2X RDP / Remote Desktop Client for Android provides users with the ability to stay connected to their home or office Windows PC. The 2X Client allows you to simply, and securely, connect via RDP (Remote Desktop Protocol) to your remote Windows desktop and applications whenever you want, wherever you are. Additionally, you can experience the full benefits of published remote Windows applications and desktops connecting to 2X ApplicationServer XG. This way, the 2X RDP / Remote Desktop Client for Android seamlessly runs published Windows applications and desktops from Windows Terminal Server and all major VDI Hypervisors including Microsoft Hyper-V, VMware or Citrix Xen.Features- Support for Android 1.6 onwards- Unlimited connections- Unique mouse with right click- Full keyboard- SSL security- Full screen experience- Minimal bandwidth usage- Clipboard redirection- Support for external Mouse & Keyboard- Supports 2 & 3 finger gestures keywords: rdp, remote desktop, remote viewer, remote control, windows desktop, full keyboard, terminal server, citrix, vmwareRecent changes:Update: Fixed Cap Lock issue in new keyboardsAdded: Norwegian and Swedish keyboardsAdded: Support RDP Connection with Windows 8 and Windows 2012 Added: New Keyboard layouts US, UK, FR, IT, DE, SP, NL, RU ,PTAdded: Drive RedirectionAdded: Auto fit on rotation (Available for Published applications only)Added: Sorting of connectionsAdded: Browse available 2X ServersAdded: Support for Secondary serverNote: The READ/WRITE EXTERNAL STORAGE permission is required due to Drive Redirection.'
+p4
+tp5
+tp6
+.

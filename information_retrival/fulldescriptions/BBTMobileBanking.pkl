@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BB&T Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'BB&T Mobile Check Deposit is FREE.BB&T Mobile Check DepositDeposit checks right from your smartphone. Download the free BB&T Mobile App and start depositing checks as soon as you get them, from anywhere. Sign your check, snap photos of the front and back, and send.Mobile Check Deposit Eligibility Requirements*\xe2\x80\xa2 An AndroidTM device with the latest version of BB&T Mobile App\xe2\x80\xa2 An Active BB&T OnLine\xc2\xae account\xe2\x80\xa2 A funded BB&T checking account\xe2\x80\xa2 A banking relationship with BB&T for at least 90 days\xe2\x80\xa2 Accounts in good standing with BB&T Bank on the Go with BB&T Mobile AppManage your accounts from your mobile device when it\xe2\x80\x99s convenient for you. It\xe2\x80\x99s fast, secure and free.**\xe2\x80\xa2 Check available balances\xe2\x80\xa2 Deposit checks\xe2\x80\xa2 Pay bills\xe2\x80\xa2 Transfer money\xe2\x80\xa2 Find ATMs/financial centers\xe2\x80\xa2 Contact customer service REGISTERTo use BB&T Mobile App, you must be an active BB&T account holder enrolled in online banking. SECURITYBB&T Mobile App protects your financial information from unauthorized access using: \xe2\x80\xa2 Security questions to verify your identity\xe2\x80\xa2 Secure logon with user ID and password\xe2\x80\xa2 Advanced encryption technology\xe2\x80\xa2 No transmission of complete account numbers SUPPORTContact BB&T by phone at 1-888-228-6654 (1-888-BBT-ONLINE).* Deposit limits and other restrictions may apply. Refer to FAQs for more information.**BB&T does not charge fees to download or use the Mobile App. Your mobile carrier may charge for text messaging and web access services. Check with your carrier for information about their fees. Copyright \xc2\xa9 2012, Branch Banking and Trust Company. All rights Reserved. Branch Banking and Trust Company is a Member FDIC.http://www.bbt.com/mobileRecent changes:* Bug fixes and enhancementsNew in Previous Versions:* NO FEE for BB&T Mobile Check Deposits.* Fix for Samsung Galaxy S3 devices that caused problems capturing photos for Mobile Check Deposit.* Added ability to order a new BB&T Check Card when it has been Lost, Stolen, or Damaged.* Added ability to Add/Cancel/View status of International Fraud Protection on your BB&T Check Card'
+p4
+tp5
+tp6
+.

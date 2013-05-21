@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Online German TV '
+p1
+tp2
+(S'Description:'
+p3
+S'ATTENTION!!!!   First of all thank you for select the Online Germany App. Online Germany TV is an independent guide to streaming media available on the android phone. We do not provide streaming content ourselves. This app is designed to enable users of android phone to easily find and access media content over the Internet. If you make install  this app you agree to respect the rights of the content owners. else no install.- Support almost many popular Germany television channels and much more channels being updated daily. We also support famous international channels- Automatically update new channels.- Support for adding user channel manually and protect them with passcode.- Manage favorite channels.- Create Alarm which make notification about you want to watch the programs of channels- Search channels in list.- You can report about dead link.- Hardware accelerated rendering. By utilize GPU, the application is now 25% faster, better picture quality and better energy saving.onine tv, tv, mobile tv, GermanyTV, stream, channels, 3g, \xd1\x81\xd0\xb2\xd0\xbe\xd0\xb1\xd0\xbe\xd0\xb4\xd0\xbd\xd1\x8b\xd0\xbc, \xd0\xb6\xd0\xb8\xd1\x82\xd1\x8c, \xd1\x82\xd0\xb5\xd0\xbb\xd0\xb5\xd0\xb2\xd0\xb8\xd0\xb4\xd0\xb5\xd0\xbd\xd0\xb8\xd0\xb5,, live, tv, television, watch tv, live tv, tv listing, russia tv guide'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Candy Crush Saga '
+p1
+tp2
+(S'Description:'
+p3
+S"Switch and match your way through more than 100 levels in this delicious and addictive puzzle adventure.  Ain't it the sweetest game ever? Please note Candy Crush Saga is completely free to play but some in-game items such as extra moves or lives will require payment. You can turn-off the payment feature by disabling in-app purchases in your device\xe2\x80\x99s settings.The super hit game Candy Crush Saga is now available for Android phones and tablets!------------------------------- Join Tiffi and Mr. Toffee in their epic adventure through a world full of candy. Take on this deliciously sweet saga alone or play with friends to see who can get the highest score! ------------------------------- Candy Crush Saga features: \xe2\x98\x85  Tasty graphics that will leave you hungry for more \xe2\x98\x85  Easy and fun to play, but a challenge to fully master \xe2\x98\x85  Over 100 sweet levels \xe2\x98\x85  Leaderboards for you and your friends \xe2\x98\x85  Items to unlock by completing levels \xe2\x98\x85  Boosters and charms to help with those challenging levels \xe2\x98\x85  Seamless synchronization with the Facebook version------------------------------- Last, but not least, a big THANK YOU goes out to everyone who has played Candy Crush Saga! Already a fan of Candy Crush Saga? Like us on Facebook or follow us on Twitter for the latest news: facebook.com/CandyCrushSaga twitter.com/CandyCrushSagaRecent changes:Now with 335 candylicious levels! \xe2\x98\x85 Candy to dive for! Prepare for some deep sea diving in the NEW episode Savory Shores! \xe2\x98\x85 Arriba! Join the festivities in the NEW EPISODE Munchy Monolith! NEW Features : \xe2\x98\x85 New Chameleon Candy! This tricky candy will challenge your gaming skills by changing colour after any switch. Beware!Please rate the App after each update. We need your feedback to continue to provide the best possible gaming experience. Thank you for being a loyal fan!"
+p4
+tp5
+tp6
+.

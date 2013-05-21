@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AS.com '
+p1
+tp2
+(S'Description:'
+p3
+S'AS te ofrece todo su contenido en una aplicaci\xc3\xb3n exclusiva para Android. Accede de forma r\xc3\xa1pida y sencilla a la mejor informaci\xc3\xb3n de f\xc3\xbatbol, baloncesto, motor, tenis, ciclismo y mucho m\xc3\xa1s, as\xc3\xad como a los mejores art\xc3\xadculos de opini\xc3\xb3n y todas las noticias de \xc3\xbaltima hora. Consulta al instante los resultados y clasificaciones de tus competiciones favoritas y disfruta con el mejor contenido multimedia de AS.La aplicaci\xc3\xb3n de AS ahora incluye una secci\xc3\xb3n de alertas que te avisar\xc3\xa1 cada vez que empiece el partido de tu equipo, marque un gol o haya alguna expulsi\xc3\xb3n. Entra en la secci\xc3\xb3n alertas y selecciona tantos equipos como quieras para que no te pierdas ni un gol. V\xc3\xa1lido para los goles de la Liga BBVA, Champions, Europa Liga y Copa del ReyRecent changes:- Disponible clasificaci\xc3\xb3n desde la secci\xc3\xb3n carrusel- Solucionados problemas de memoria que provocaban el cierre inesperado de la aplicaci\xc3\xb3n- Posibilidad de guardar la aplicaci\xc3\xb3n en la tarjeta de memoria del tel\xc3\xa9fono- Mejorado el sistema de notificaciones'
+p4
+tp5
+tp6
+.

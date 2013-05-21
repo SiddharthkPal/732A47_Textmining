@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BBC News '
+p1
+tp2
+(S'Description:'
+p3
+S"Get the latest world and regional news from the BBC\xe2\x80\x99s global network of more than 2000 journalists. From breaking news, to business, entertainment, technology, the arts and sport, all divided into clear sections, this free app lets you watch video reports, listen to live radio and read the latest updates wherever you are.Key features:\xe2\x80\xa2 All the latest news as it happens\xe2\x80\xa2 Watch or listen to the latest news headlines\xe2\x80\xa2 Download the latest stories when you have a signal and then read them offline at your leisure\xe2\x80\xa2 Share stories to a range of social networks, or email/SMS to a friend\xe2\x80\xa2 Personalise the homescreen by adding, removing and re-ordering news categories to suit your preferences\xe2\x80\xa2 Listen live to BBC World Service radio\xe2\x80\xa2 Homescreen widgets to keep you up to date\xe2\x80\xa2 Settings to allow the app to automatically update in the background\xe2\x80\xa2 Set text size to suit your preferences\xe2\x80\xa2 Ability to send stories, video, and photos directly to the BBC News team\xe2\x80\xa2 Full range of News categories: Top stories, US & Canada, Europe, Latin America, Asia, Middle East, Africa, UK, Technology, Business, Features & Analysis, Science & Environment, Entertainment & Arts, Health, Also In The News, Sport\xe2\x80\xa2 Ability to store the app on the SD card. Widgets will not be available if you choose to use this function. This is a feature of the Android system.*Currently unavailable for devices running 2.2 and below. We are working on a fix and this will be available soon.Recent changes:This is a major update of our app, with improved performance and image quality.The app is now optimised across different screen sizes and we've also fixed a number of bugs.Other changes include:\xe2\x80\xa2 Functionality to change text size is now in the menu to make it easier to find\xe2\x80\xa2 Full range of widgets added for all devices\xe2\x80\xa2 Styles and themes now reflect the latest look and feel for Android devices"
+p4
+tp5
+tp6
+.

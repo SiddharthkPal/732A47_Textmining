@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mangadroid '
+p1
+tp2
+(S'Description:'
+p3
+S'Tremendous Manga reader to see all the chapters in English for FREE!, Is updated every day!.You can read the following Mangas:*Naruto*One Piece*Bleach*Fairy Tail*Kenichi*Gantz*Death Note*Hajime No Ippo*Pokemon Adventures*Katekyo Hitman Reborn*Saint Seiya the Lost Canvas*Dragon BallRecent changes:***HD and SD mode added.***Jump to Page added.***Much Faster.'
+p4
+tp5
+tp6
+.

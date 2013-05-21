@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Keep Calm '
+p1
+tp2
+(S'Description:'
+p3
+S"Keep Calm is the best free Keep Calm and Carry On app available on Android. You are able to modify the text, background color and icon (from a choice of fifty).Upgrade to Keep Calm Pro to change the text color and font, create square posters and create custom backgrounds and icons.Keep Calm and Carry On posters were designed by the British government in the Second World War to encourage the population however few posters were ever used. The posters have become a recent popular trend after they were rediscovered in 2000.User guide: http://goo.gl/QiohJ@kcacoapp on Instagram: instagram.com/kcacoappKeep Calm Pro: http://goo.gl/ysYkoKeep Calm blog: http://keepcalmandcarryonapp.tumblr.com/Recent changes:Version 2.9.5 restores the links to the Keep Calm Tumblr and Instagram accounts (I accept submissions via Tumblr and I'm happy to post your posters on Instagram too :)) and the default font has switched to match Keep Calm Pro."
+p4
+tp5
+tp6
+.

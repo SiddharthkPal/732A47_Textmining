@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'FedEx Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"FedEx\xc2\xae Mobile provides a quick and easy way to manage your deliveries. Track the status of your packages, find FedEx locations and customize your shipments and deliveries*. With this release, you can sign-up for FedEx Delivery Manager and customize deliveries coming to your home. With FedEx\xc2\xae Delivery Manager, you'll get packages in your hand, on your schedule. You can request to:-  Schedule the delivery -  Deliver to another address -  Provide delivery instructions-  Sign for a package -  Schedule a vacation hold -  Hold your package at a FedEx location The same great features are still available with this release, including:-  Find a FedEx location near you  using GPS-  View the status of your FedEx shipments -  View the ship date and expected arrive date-  Receive shipment history, including signature details-  Forward tracking results-  Create custom watch lists for monitoring important shipments-  Add notes to shipments-  Nickname your shipmentsAdditional functionality is available on the mobile website by clicking fedex.com from the mobile app menu.  Through the mobile website, you can create a Mobile Shipping Label, schedule a pickup, get a rate quote, and more.  Shipments created on fedex.com will automatically be added to your app shipment list.*Feature offerings vary by country and device.  FedEx Delivery Manager is only available for residential deliveries with U.S. destinations. Minimum version 4.0Recent changes:Sign-up and use FedEx\xc2\xae Delivery Manager* to customize deliveries to your home. You can request to:-  Schedule the delivery -  Deliver to another address -  Provide delivery instructions-  Sign for a package -  Schedule a vacation hold -  Hold your package at a FedEx location * Available for residential deliveries with U.S. destinations.  Minimum version 4.0"
+p4
+tp5
+tp6
+.

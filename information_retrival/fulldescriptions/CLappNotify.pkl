@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CLapp Notify '
+p1
+tp2
+(S'Description:'
+p3
+S"CLapp Notify is an automated background search agent for CLapp (The Craigslist App).  This service application is used be CLapp to search craigslist for you.Simply save a search in CLapp and then set the search to notify!  You'll be notified each time a new item that matches your search becomes available!Recent changes:Bug fix that would sometimes ignore new search results.Updates to keep in sync with Craigslist for Android (CLapp)."
+p4
+tp5
+tp6
+.

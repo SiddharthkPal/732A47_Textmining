@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Footytips '
+p1
+tp2
+(S'Description:'
+p3
+S"The Android app for Australia's largest tipping site - footytips.com.au. Tipping and tipping competitions for AFL, NRL, rugby, football, netball, cricket and many other sports. Enter tips, check results and view live scores from your Android device.Includes a comprehensive form guide for AFL, NRL, Super Rugby and A-League. Live scores, tip trends, injuries, scorers and score-by-score worm.Recent changes:Version - 1.2Don't miss entering your tips again, push notifications are back"
+p4
+tp5
+tp6
+.

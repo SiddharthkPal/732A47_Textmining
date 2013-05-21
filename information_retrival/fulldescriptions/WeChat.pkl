@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WeChat '
+p1
+tp2
+(S'Description:'
+p3
+S"Free texting, voice messages, and video calls in your pocket. 300 million people love WeChat because it's fast, reliable, private, and always on.\xe2\x80\xa2 Talk faster on the go with voice messages\xe2\x80\xa2 Crystal clear voice and video calls\xe2\x80\xa2 Instant messaging with group chats and animated smileys\xe2\x80\xa2 Chat with your friends or with people nearby\xe2\x80\xa2 Sending photos and videos has never been simpler\xe2\x80\xa2 Real walkie talkie mode with up to 40 friends\xe2\x80\xa2 Always on, no logouts, never miss a message\xe2\x80\xa2 Get message alerts instantly with push notifications\xe2\x80\xa2 Share, like, and comment on photos with your friends\xe2\x80\xa2 Import contacts and add friends instantly\xe2\x80\xa2 Available on Android and all other smartphones, all for freeWeChat works over your phone's existing data plan or any WiFi connection.Recent changes:\xe2\x80\xa2 Chat with friends in a Live Chat session\xe2\x80\xa2 Invite your friends to a WeChat group chat via QR code\xe2\x80\xa2 Backup and restore your chat history"
+p4
+tp5
+tp6
+.

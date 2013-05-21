@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English lessons (free & fun) '
+p1
+tp2
+(S'Description:'
+p3
+S"Want to learn English? There is an effective, convenient and fun way! Get this English learning tool for free. It is designed for ESL (English as a second language) students and this English learning program is extremely useful. Improve your vocabulary. Get rid of spelling errors in your English. Learn TOEFL words. That will help you to pass TOEFL. Are you beginner? Or you have advanced level? It does not matter. This is vocabulary tool and it will be useful for all students (elementary English, intermediate English, advanced English)  level.Learning process includes 4 steps for each lesson:1) Review English words. Try to memorise them.2) Play puzzle word game. That will help you to remember words better. (this step is a part of learning process)3) Pass the test. (Type a word and check if you are right)4) Swap languages.Remembering English words is a hardest part of language learning. This vocabulary trainer will help you. It is really fun to use embedded puzzle exercise.Learn English words in an easy way. Forget about cramming, writing words on a paper, putting words lists everywhere. This program provides an easy way of English words memorisation and it will fix your spelling.Use it day over day and you will get amazing result. Your vocabulary will rise to 3000 words + in a month. Finally you will make less grammar errors.Features:1) The set of lessons for different levels of ability.2) The progress of your learning English remains. You'll know what lesson you have already passed.3) The ability to set a reminder4) Supports 26 languages5) And more!"
+p4
+tp5
+tp6
+.

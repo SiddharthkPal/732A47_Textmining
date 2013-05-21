@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Differential Diagnosis '
+p1
+tp2
+(S'Description:'
+p3
+S'This app allows users to enter multiple clinical symptoms into a problem list that is then cross referenced with a disease-symptom database. This is through our own database of over 900 diseases which cross references your symptom list with ours. Each disease can be further drilled into with a tap, allowing the user to see the pertinent positive symptoms and the negative symptoms which were not entered. Every disease or symptom term in this app is a SNOMED-CT term which is an international consensus for the best way to  represent these concepts in words. We are carefully mapping SNOMED-CT symptoms to diseases, and our mapping is rapidly expanding and being updated regularly.Recent changes:* 4/5/13 - Over 900 diseases cataloged and 7000 disease-symptom associations* 2/10/13 - Over 900 diseases cataloged and 6700 disease-symptom associations* 1/19/13 - Currently over 560 diseases and 2500 disease-symptom associations* 1/19/13 - Some users have had trouble with the screen dimensions, but these issues have been corrected with this most recent release.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Appointuit '
+p1
+tp2
+(S'Description:'
+p3
+S"Appointuit lets you make appointments for you and your family with your regular doctor anywhere anytime via the Appointuit mobile app, and its free! No more stress waiting for business opening hours, getting that 'busy' signal on the phone and missing the last available appointment for the day. Continuity of health care for your family is important and access to your regular family doctor just got easier. Benefits and Features: - easy registration process for existing and new patients - improved access to your regular family doctor for appointments - make appointments for you or family members via mobile app anywhere, anytime - ability to quickly book with your regular doctor, the next available doctor, or by selecting any doctor - ability to cancel and reschedule appointments if needed - instant email confirmation, includes map and full details of appointment - easy link to add to smartphone calendar - auto notification 2 hours prior to actual appointment - easy click through to call medical practice or support. How to download and use Appointuit: - download Appointuit from the Play Store - follow the one time initial registration and your ready to make your appointments. You can organize your next appointment to the doctor anytime. If you or a family member are Ill after your family doctors' practice has closed for the day, don't stress and wait to the next day to try an get through on the phone during that busy morning period for the doctors practice. Make the appointment straight away and put your mind at ease knowing you can plan your visit to your regular family doctor when it fits your schedule. Relief the anxiety of waiting until the opening hours of the medical practice and never being sure if you can get that appointment.Recent changes:- Updated support for older android devices- Other minor fixes"
+p4
+tp5
+tp6
+.

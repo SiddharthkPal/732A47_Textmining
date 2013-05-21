@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn Chinese Mandarin Phrases '
+p1
+tp2
+(S'Description:'
+p3
+S'The easy to use mobile Chinese phrasebook for travelers visitors to China and those who are interested in learning Mandarin. \xe2\x9c\xa6 Get the full set of phrasebooks for FREE! Search for "codegent" and download more languages.. Korean, Japanese, Thai, German, Italian, many more. \xe2\x9c\xa6 Learn Chinese is recorded using native speaker and we have tried our best to be authentic in the pronunciation whilst ensuring it is easy to understand. Recommended app for tourists and business people visiting china.Update: You can now download our PRO version with over 800 phrases and 12 additional categories. \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85   https://market.android.com/details?id=com.codegent.apps.learn.chineseproFEATURES- High quality audio recordings by native speakers - No internet connection needed- English, Chinese, and Pinyin text- Store frequently used phrases in Favourites- Search by keywords using text and speech- Tips for speaking Chinese- Ad-free!CATEGORIESThe LITE version contains over 200+ essential phrases. - Greetings- General conversation- Numbers- Directions and places- Transportation- Eating outIf you upgrade to the PRO and get 600 more phraseshttps://market.android.com/details?id=com.codegent.apps.learn.chinesepro- Accommodation - Time and date - Shopping - Colours- Towns and provinces- Countries- Tourist attractions- Family- Dating- Emergency- Feeling sick - Tongue twistersFEEDBACKIf you like this app and find it useful please take a few seconds to give us a rating in the Android Market. For comments and suggestions please send an email to apps@codegent.com. We love getting feedback from users of our apps.Terms of Service: Copyright is reserved on all content available within this application. In addition to the standard Android Market terms of service we reserve the right to anonymously track and report a user activity inside this application.Follow us on twitter : http://www.twitter.com/codegentappsALSO AVAILABLE FOR IPHONE, IPOD, & IPADhttp://itunes.apple.com/app/learn-chinese-pro-mandarin/id435065699?mt=8Recent changes:- Fixed audio cut off issue on some devices- Fixed rotation switching issue'
+p4
+tp5
+tp6
+.

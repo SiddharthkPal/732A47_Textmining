@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WEB.DE Mail '
+p1
+tp2
+(S'Description:'
+p3
+S'Geben Sie einfach nur Ihre Benutzerdaten ein und schon haben Sie alle Ihre WEB.DE E-Mails und Kontakte immer mobil dabei.- Optimiert f\xc3\xbcr WEB.DE Mail- Einfache Bedienung- Mobiler Zugriff auf Ihr WEB.DE AdressbuchViel Spa\xc3\x9f mit der WEB.DE Mail App w\xc3\xbcnscht IhnenIhr WEB.DE TeamRecent changes:- Kleinere Bugfixes'
+p4
+tp5
+tp6
+.

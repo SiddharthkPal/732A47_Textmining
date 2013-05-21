@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DicePlayer plugin for tegra2 '
+p1
+tp2
+(S'Description:'
+p3
+S'You should install diceplayer or diceplayer trial first.DicePlayer plugin for tegra2It is NOT diceplayer APPLICATION!!!!!Recent changes:remove DTS Codec(License Issues)'
+p4
+tp5
+tp6
+.

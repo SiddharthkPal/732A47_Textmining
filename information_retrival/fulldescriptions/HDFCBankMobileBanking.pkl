@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HDFC Bank MobileBanking '
+p1
+tp2
+(S'Description:'
+p3
+S'HDFC Bank MobileBankingThe official app of HDFC Bank for Android.HDFC Bank MobileBanking gives you access to your account on your Android phone. Now, you can perform your banking tasks from the palm of your hand, from anywhere and at anytime!What can you do?- Pay utility bills, credit card bills, etc.- View Account summaries and Fixed Deposit summaries- Transfer funds ,including transfers to other bank customers- Request statements, cheque book, stop paymentAnd much, much more.Recent changes:ATM/Branch LocatorOffersContact UsMy Menu - Personalize your menuOpen Fixed DepositOpen Recurring DepositBlank screen resolved'
+p4
+tp5
+tp6
+.

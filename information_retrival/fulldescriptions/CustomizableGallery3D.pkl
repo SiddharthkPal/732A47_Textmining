@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Customizable Gallery 3D '
+p1
+tp2
+(S'Description:'
+p3
+S'Android 2.x stock gallery modification.- Bugs fixed- Compatibility with Android 3 or higher- Settings: number of image rows, animation speed, image quality, etc.- Modified video player and photo frame widget- Removed sync with Picasa- Removed default cache service- Gif animation support- Hidding albumsREAD THIS INFORMATION BEFORE INSTALL:1) This gallery won\'t work well on old devices!!!2) If gallery works slowly, you can enable thumbnails caching in settings3) The first launching of gallery can be too long, please wait some time4pda forum topic: http://4pda.ru/forum/index.php?showtopic=368311Recent changes:1.03:- Removed default cache service, albums and thumbnails will be loaded in runtime- Gif animation support- Hidding albums- Stack mode deleted- "Refresh" menu item- Different sorting methods'
+p4
+tp5
+tp6
+.

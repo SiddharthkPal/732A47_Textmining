@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Camera For SmallApp '
+p1
+tp2
+(S'Description:'
+p3
+S'It is a camera application for the Small App.It is an app that can be taken in a Small Camera App.* This app is only for compatible handsets can start Small App.* Xperia Arc, AX, GX, Z, tablet Z operation checkNote: This app, JB and ICS are included.Please select the Small App that is appropriate for your environment.Settings (Common) Shooting mode (Camera, Video, * Silent)* Silent, you can select only those unable to silence the shutter sound Camera (Back, Front)Settings (Back Camera) Flash Resolution Storage Color Effect Focus White Balance AntiBanding SceneSettings (Front Camera) Resolution StorageSettings (Video Camera) Light Video Size Storage White Balance SceneSettings (Front Video Camera) Video Size StorageTo display the Settings dialog, long press the Settings button.* The following items can be set in addition to the setting item. Show / Hide Zoom button. Select how to change the screen size. ON / OFF of the shutter sound. (* OFF shutter sound can be set only for the person who is listed in the standard camera app)To switch to review mode, long press the resize button.To switch to the camera mode, long press the Shooting button. (Back Camera  Front Camera  Video Camera  Front Video Camera (  * Silent) ) Single tap   : Show / hide the buttons, etc. (Always Enabled) Double-tap   : Photographing Pinch in     : Zoom in Pinch out    : Zoom out Long press   : Switching to review mode Swipe right  : Minimization Swipe down   : Finish* To use the function must be enabled in the settings dialog. Share Swipe left and right of the image switching Delete image file* It is only viewable images taken with small camera.* During recording, you can not operate in the background.* This app can not be taken delivery of data.* When you minimize this application ended.To minimize, go right, to the lower end.\xe2\x97\x8e Known IssueIf there is a preview screen is upside down.May review screen does not become full size.com.sony.smallapp,Small App,Camera,Xperia,GX,AX,VL,Arc,TX,small apps extension for Sony productsRecent changes:\xe2\x97\x8e V4.3.1UI modificationRemove restrictions is a camera with flash terminal (Support for tablet)\xe2\x97\x8e V4.2.2Fixed a bug in the resizing process of shooting video\xe2\x97\x8e V4.2.1Added the ability to change freely the screen sizeFixed bug'
+p4
+tp5
+tp6
+.

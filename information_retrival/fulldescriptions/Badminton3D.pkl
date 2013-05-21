@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Badminton 3D '
+p1
+tp2
+(S'Description:'
+p3
+S'The best Badminton game, you definitely can\xe2\x80\x99t miss it!Show you the lifelike 3D badminton scenes!Realistic matches! Various hitting ways!Outstanding sound effects! Cute game characters!Hit! Smash! High clear ball!You can do what you dream in Badminton 3D!About:Unique 3D badminton game, you can control the game characters to compete with different roles.Use your finger tapping screen to serve, hit, smash and clear the ball!Choose the character you love, and control it to challenge different badminton masters, you can also participate in international tournaments to win your cups and medals!Game Features:\xe2\x98\x85Exciting background music!\xe2\x98\x85A variety of well-designed characters!\xe2\x98\x85Realistic hitting ball experience!\xe2\x98\x85Participating in international tournaments!\xe2\x98\x85More fun is waiting for you to explore!'
+p4
+tp5
+tp6
+.

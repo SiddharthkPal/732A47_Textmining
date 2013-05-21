@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Costco Wholesale '
+p1
+tp2
+(S'Description:'
+p3
+S'Go beyond the warehouse walls with the ease of your smartphone. We\xe2\x80\x99ve made it even easier for members to access the incredible values found only at Costco. Members can now shop, refill and check prescriptions, find locations, view current member-exclusive coupons and much more! Our Costco Mobile App Saves Time & Money: - SHOP Costco.com\xe2\x80\x99s unique, expanded selection, offering thousands of items not found at your local warehouse, delivered straight to your door. - LOCATE your nearest Costco, even filtering for specific departments such as Gas or Pharmacy. - SAVE by viewing the latest member-exclusive online and in-store Costco coupons. - REFILL and check the status of your Costco Pharmacy prescriptions. - COMPARE and save when using Costco Services, like our Auto or Mortgage & Home Financing Programs. - DELIVER straight to your business when you order from our Business Delivery locations. - READ the latest issue of our award-winning member magazine, \xe2\x80\x9cThe Costco Connection.\xe2\x80\x9d - LIST your Costco needs on our handy shopping notepad \xe2\x80\x93 no more lost shopping lists! - JOIN Costco, renew your membership or give the gift of Costco membership.Have an idea? We\xe2\x80\x99re hard at work designing even more features that our members want. We welcome your feedback: apps@costco.com.Recent changes:v 1.2New Features:Scan Watermarks: Tap on the Code Scanner and use it to capture both QR codes and watermarks, the latest in digital embedded content. Learn more about watermarks in the April 2013 edition of The Costco Connection.Upload Photos: Ordering prints from the Costco Photo Center is easier than ever:  use your device to share, format and order prints.As always, we appreciate your feedback! Please share your comments or suggestions with us at apps@costco.com.'
+p4
+tp5
+tp6
+.

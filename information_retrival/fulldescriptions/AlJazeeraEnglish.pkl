@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Al Jazeera English '
+p1
+tp2
+(S'Description:'
+p3
+S"Al Jazeera for Android brings you all the latest news and live broadcast of Al Jazeera English, free of charge.The 24-hour news and current affairs channel is the first international English-language news channel to broadcast across the globe from the Middle East.Al Jazeera's global footprint continues to grow and now broadcasts to more than 220 million households on six continents in more than 100 countries.What's New- Share stories on Facebook, Twitter, and email- Add and remove social accounts and update weather location through settings- Upload photos and videos directly to Al Jazeera through the new Your Media section- Listen to live audio broadcast- View weather forecasts by location- Easily delete articles from the My News section- Save stories to My News for easy access- View comments that have been added to stories by website viewersFeatures of this app:- All the latest news, features, spotlight, opinion and blogs from Al Jazeera English- Programmes videos and information for the latest shows- News video clips- 24 hour free access to the live broadcast- Breaking news alerts- In Pictures gallery- Send your media to Al Jazeera- Search articles- Preload articlesNote: This app features content from Al Jazeera English.Recent changes:- Geo-restriction updates for U.S. audiences"
+p4
+tp5
+tp6
+.

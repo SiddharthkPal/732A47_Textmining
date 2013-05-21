@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CIBC Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S"With CIBC Mobile Banking, you can complete everyday CIBC banking transactions on your device quickly, easily and safely.You can be reassured that your privacy and security is protected with the CIBC Online Security Guarantee.As long as you're currently enrolled in CIBC Online Banking, you can use the same card number, password and personal verification questions to sign on to CIBC Mobile Banking.FEATURESCheck Balances Check account balances on all of your eligible CIBC products. Review details of your recent transaction history for deposit, credit card and other eligible credit accounts.Review Transactions Upcoming transactions, including bill payments and transfers, are available for review and cancellation as necessary.Pay Bills Pay your bills now or schedule a post-dated payment on your registered bills. Set up new payees in addition to those already in CIBC Online Banking. Make Transfers Transfer funds between your eligible CIBC accounts. Send an INTERAC\xc2\xae Email Money Transfer to anyone on your existing recipient list or add new recipients directly within CIBC Mobile Banking.Find UsSearch on your device to find nearby CIBC branches, bank machines and CIBC Mortgage Advisors to assist you.Languages supported:EnglishFrenchwww.cibc.comRecent changes:Optimized for Android 4.0 (Ice Cream Sandwich)"
+p4
+tp5
+tp6
+.

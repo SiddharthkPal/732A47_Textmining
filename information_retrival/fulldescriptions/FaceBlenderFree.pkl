@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Face Blender Free '
+p1
+tp2
+(S'Description:'
+p3
+S'Face Blender, the Best Android Fun App for blending Faces!Use your camera to take two pictures of different faces or pick images from your photo gallery. Press the "Blend" button to blend them together! The result is a funny mixture of both faces.You can blend your face with your spouse to see what your children might look like or blend your face with your friends at work \xe2\x80\x93 funny results guaranteed :)If face detection goes wrong, you can manually adjust your blended face by pressing the menu button and selecting "Edit Blend".Get the pro version, without the ads, no annoying logo and unlimited file saving!* Full Facebook Integration, With Automatic pictures tagging of you Facebook friends.* Share your Blended results via Facebook, twitter, or your Email.* You can save your blended results and swap between the faces.Enjoy Face Blender, the Best Android App for Blending Faces!Recent changes:- Remove unnecessary permissions- Fixing pick image gallery crash'
+p4
+tp5
+tp6
+.

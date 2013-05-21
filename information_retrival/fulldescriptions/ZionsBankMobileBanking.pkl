@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Zions Bank Mobile Banking '
+p1
+tp2
+(S'Description:'
+p3
+S'Managing your finances on the go just got easier with Zions Bank Mobile Banking.  Whether you need to check account balances, transfer money between eligible accounts, pay a bill or find a Zions Bank branch or ATM, Zions Bank Mobile Banking has you covered.\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 View your account balances and transaction history\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Transfer money between eligible accounts\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Pay bills to existing payees\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Search for Zions Bank Branches and ATMsTo use Zions Bank Mobile Banking, you must:\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Be a client of Zions Bank with a deposit, loan, line of credit, or credit card account\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Be a registered Zions Bank Online Banking customer\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Have a compatible mobile device and U.S. phone number\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Be connected to a mobile internet data service**Message and data rates may apply. Please check with your carrier for details.Recent changes:\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Now includes Near Me functionality for branch and ATM location searches\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xc2\xa0\xe2\x80\xa2 Minor bug fixes'
+p4
+tp5
+tp6
+.

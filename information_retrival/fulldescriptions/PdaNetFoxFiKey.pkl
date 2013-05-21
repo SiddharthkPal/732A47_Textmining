@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PdaNet+ (FoxFi) Key '
+p1
+tp2
+(S'Description:'
+p3
+S'This app now unlocks the full version of both FoxFi and PdaNet. Since PdaNet+ combines the two apps, it is recommended you have PdaNet+ (4.0 or above) installed.  PdaNet+ shares your phone\'s Internet with your computer or tablet through USB, WiFi Hotspot or Bluetooth. That will save you a $20/month tether plan. No rooting is needed.The USB mode in PdaNet+ should support almost all Android phones. It also has a Hide Tether Usage feature that can be used when necessary. WiFi mode (FoxFi) turns your phone into a WiFi hotspot but it only works for some phones.Please read the following agreement and refund policy below before purchasing the full version.1. Not all phones models support WiFi mode. Some phone updates may also breaks WiFi mode. Please first install the free version and making sure it works. See http://foxfi.com/devices for compatibility.2. We do not provide any warranty due to many things we can\'t control. Carriers may find ways to stop unpaid tether usage such as through system updates. 3. We have extended the refund period from Play Store\'s 15 minutes to 7 days. Please use the contact link in the order receipt email to request refunds. We won\'t be able to refund after 7 days, even if some feature in PdaNet+ stops working due to causes we can\'t control.After installing the full version key, FoxFi/PdaNet+ should display "Full Version Unlocked" at the bottom and should no longer prompt you to upgrade. If that is not happening please contact us. Rare issues in Play Store do happen from time to time. It may also be problem with your Google transaction.Recent changes:12/11/2012: If you have purchased and are still unable to either install or unlock FoxFi/PdaNet+ please select contact developer in your order receipt email. We will help you unlock the full version on our end since Play Store issues do happen.2/25/2013: If you have older version of PdaNet please update to 4.01 first from http://pdanet.co/a. You no longer need a serial code if you purchased from Play Store. Just keep this "Key" app installed and it will unlock the full version.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Call Recorder '
+p1
+tp2
+(S'Description:'
+p3
+S'Call Recorder is the easiest and fastest way to record phone calls on your android phone. Key features include: \xe2\x80\xa2 Record phone calls from your phone\xe2\x80\xa2 Save  your recordings on your SD card\xe2\x80\xa2 Record both incoming and outgoing callsHere are some of the cases you might want to use Call Recorder for: \xe2\x80\xa2 Record important calls and save them for future reference\xe2\x80\xa2 Record a conference call with your co-workers and can further use this voice note as a reference document\xe2\x80\xa2 Interviewing someone over the phone? Call Recorder helps in capturing all the details and store the same as voice note for your future reference\xe2\x80\xa2 Use it on the road to capture important calls'
+p4
+tp5
+tp6
+.

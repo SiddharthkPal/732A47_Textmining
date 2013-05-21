@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SoundGecko '
+p1
+tp2
+(S'Description:'
+p3
+S'"SoundGecko reads your RSS feed to you in stunning clarity"http://phandroid.com/2013/01/02/soundgecko-hands-on-video/"Stop nearly crashing into people and fire hydrants as you walk around trying to read the NYTimes app on your smart phone"-- TheNextWeb"having the news read to me while I do housework, or drive my car, or walk to work, is a winner for me"-- Twitter---------------\xe2\x99\xab RSS feedsListen to the latest news from your favorite news and blog, automatically updated.\xe2\x9c\x94 Hands free, eyes freeSound Gecko is a text-to-audio transcribing service that lets you enjoy written content from around the web on the go.\xe2\x9c\x94 Easy to useSend article URLs by email or use the one-click browser extension, available from the website.\xe2\x9c\x94 Multi-task like a bossStay up to date while you drive to work, ride public transport, have a coffee, take a run, excerise at the gym, wait in queue, enjoying the sunset.Recent changes:Add articles directly to your playlist.  Simply share web pages and articles from your browser, the Google Reader app and many more with the SoundGecko app and they will be added to your playlist.Find the "Share" or "Open with" in your Android web browser or app and select SoundGecko to queue articles to transcribe to your playlist.  Revisit the app and pull to refresh your playlist to listen to your new articles.'
+p4
+tp5
+tp6
+.

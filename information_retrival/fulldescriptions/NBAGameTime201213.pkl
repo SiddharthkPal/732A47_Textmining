@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NBA Game Time 2012-13 '
+p1
+tp2
+(S'Description:'
+p3
+S'The Award winning NBA Game Time is the official app to follow the NBA wherever you are!+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++Sprint Customer Exclusive!Only NBA Game Time from Sprint brings you FREE unlimited live coverage of every NBA game.  Sprint customers get exclusive access to live NBA games on the Sprint TV ESPN channel and free access to NBA Game Time Plus with live radio broadcasts, game video alerts and more.  All FREE with an Unlimited data plan from Sprint.  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ Game Time (FREE) features include:- NEW!  Excitement Notifications \xe2\x80\x93 get notified when a game gets exciting at crunch time (chosen by game or team) - NEW!  Customizable Threshold Notifications - get notified when a player or team you are interested in passes a threshold in a specific game- NEW!  Twitter streams for each game \xe2\x80\x93 follow the social interaction of the game as it happens- NEW!  Game experience redesign- Customize to feature your favorite team - Watch highlights from around the league - Up to date news and info from around the league- Game notification capabilities - Play-by-play experience- Stats, scores, and schedules for every NBA gameUpgrade to Game Time Plus, features include:- Contains all Game Time features- Home and away live radio broadcasts of games- Game highlights- More video highlights from around the league including NBA TV and TNT clips- Full game video recaps- NEW!  Video Recap Notifications \xe2\x80\x93 get notified when the video recap of a game you are interested is available (chosen by game or team)- Advertising FREE- More news, stats, and league info http://www.nba.com/news/privacy_policy.htmlhttp://www.nba.com/news/termsofuse.htmlRecent changes:Added support for 2013 NBA Playoffs.'
+p4
+tp5
+tp6
+.

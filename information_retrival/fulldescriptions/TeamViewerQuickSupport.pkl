@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TeamViewer QuickSupport '
+p1
+tp2
+(S'Description:'
+p3
+S'Remotely control your Samsung mobile device with original Samsung firmware from your computer with the free TeamViewer QuickSupport app! Now you can provide remote technical support to colleagues, friends, and family who need assistance with their Samsung mobile device. The app will help you edit text messages, check email account settings, or troubleshoot other apps all from a computer.More features: \xe2\x80\xa2\tAccess Samsung mobile devices from any Windows, Mac, or Linux computer with TeamViewer.\xe2\x80\xa2\tIT departments can help employees resolve any support questions with their Samsung mobile device quickly and easily\xe2\x80\xa2\tConveniently control the mobile device from your computer to edit text messages, check email account settings, or troubleshoot other apps etc.\xe2\x80\xa2\tSecured connection with 256 Bit AES Session Encoding\xe2\x80\xa2\tThe app is free! Quick Guide: 1. Download and launch the app. 2. The other side, e.g. the support technician, needs to install and start the TeamViewer full version on his/her computer (download at www.teamviewer.com).3. Pass on the QuickSupport ID to your trusted partner, who uses the TeamViewer full version.4. Allow your trusted partner to connect to your device.Recent changes:\xe2\x80\xa2             Added scrollwheel support\xe2\x80\xa2             improved connection stability\xe2\x80\xa2             Fixed some keyboard problems\xe2\x80\xa2             Other minor fixes and improvements'
+p4
+tp5
+tp6
+.

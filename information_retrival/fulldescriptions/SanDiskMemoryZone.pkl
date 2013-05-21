@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SanDisk Memory Zone '
+p1
+tp2
+(S'Description:'
+p3
+S'Take control of your memory: On your phone. On your card. In the cloud.SanDisk Memory Zone offers you more memory management functionality than any other application available for the Android\xe2\x84\xa2 phone. SanDisk Memory Zone puts you in complete control. Manage and backup both your local and cloud memory with one free app. Move files back and forth from your memory card to select cloud services, or from the cloud directly to your phone. Cloud services supported: Box, Dropbox, Google Docs, Picasa, SugarSync, SkyDrive and Facebook.Improve the performance of your phone in seconds by moving files from your phone\xe2\x80\x99s internal memory to your memory card. SanDisk Memory Zone not only allows you to transfer and back up your files, it also allows you to secure them through a password protection feature. So you have the peace of mind knowing your videos, photographs, music and other files are not only available, but they\xe2\x80\x99re available only to you.Get seamless, integrated storage connectivity between your phone, your memory card and your files in the cloud. It\xe2\x80\x99s never been easier to enjoy, manage, share and protect your digital assets.Unlike utilities with awkward and difficult to navigate folder structures, SanDisk Memory Zone has an intuitive, graphical user interface that lets you get the job done, fast. Designed by the global leader in flash memory cards, SanDisk Memory Zone allows you to visualize your memory usage by content type and size. SanDisk Memory Zone. There\xe2\x80\x99s nothing else like it.Note: Feel free to send feedback to SMZSupport@sandisk.com rather than a 1 star!TAGS: "file browser", "mobile organization", "cloud services", "file manager", "application manager", "cloud backup", "file protection", "memory optimizer", "memory manager", "memory card", "cloud storage", "media manager", backup, apps, "Memory management app", "Android cloud app", "Picasa Android app", "speed test"Recent changes:Version 1.4.11.\tAllowing backup and restore to and from Google Drive.2.\tFixing a bug causing issues with uploading .pdf files to Google Drive.'
+p4
+tp5
+tp6
+.

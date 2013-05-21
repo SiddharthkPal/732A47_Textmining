@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DCwallpaperZ '
+p1
+tp2
+(S'Description:'
+p3
+S'All included wallpapers are here as images for download: http://czarnomorski.pl/wallpapers.phpThis is wallpapers pack for my theme DCikonZ - has been prepared specifically as background for my icon set.Now contains about 30 wallpapers and more will be added here to save space in the icon pack.Recent changes:1.4 - Added option for horizontal screens and versions without bottom bar + fixed bugs again :)1.3 - Again fixed scalin bug.1.2 - Fixed scaling bug.1.1 - Added new and fixed some old wallpapers.1.0 - First release.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Digitally Imported Radio '
+p1
+tp2
+(S'Description:'
+p3
+S'Digitally Imported streams the world\xe2\x80\x99s most addictive electronic music. Our hand-programmed radio channels feature world renowned Artists, DJs, and the Hottest exclusive shows. We have been serving the beats to a global audience for a full decade, and now it\xe2\x80\x99s time to take them to your Android. Tune into over 37 Internet Radio channels for the hottest electronic music from genres such as Trance, House, Dance, Lounge, Chillout, Techno, Ambient, and many more. Visit our site http://www.di.fm to learn more about us. FEATURES: * Unique radio channels programmed by real passionate channel directors. * Not sure which channel to pick? No problem, explore the Styles list with predefined groups to make discovery fun and easy. * Stream music in the background and control audio with external controls. * Favorites to save your favorite channels for quick and easy access. * View current and upcoming exclusive radio shows on Digitally Imported. * Sleep timer.* Set higher or lower stream bitrate preference for when Cellular vs WiFi is used. * Optional buffer bar with data usage display. Great for tracking data plan usage and cellular signal issues.* Share your favorite tracks and channels with friends on Facebook, Twitter, or by email.* Optionally log in to Premium to switch to even higher audio quality and completely commercial-free streams.CHANNEL LIST: * Trance * Vocal Trance * Chillout * House * Hard Dance * EuroDance * Progressive * Club Sounds * Goa-Psy Trance * Hardcore * DJ Mixes * Lounge * Ambient * Drum n\xe2\x80\x99 Bass * Liquid DnB * Classic Electronica * Breaks * Gabber * Techno * Soulful House * Disco House * Electro House * Tribal House * Funky House * Minimal * Hardstyle * Exposure NYC * Space Music * Tech House * Psychill * Chillout Dreams * Classic EuroDance * Classic Trance * Dubstep * Future Synthpop * Oldschool House * ChiptunesRecent changes:Bug fixes.Please remember to email support@di.fm for help with any issues you encounter.  Google Play has no way for us to respond directly to reviews.'
+p4
+tp5
+tp6
+.

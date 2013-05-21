@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'lgCamera '
+p1
+tp2
+(S'Description:'
+p3
+S'Additional camera for Android phones with Android 2.1 and higher. It can handle recording quality and file formats. Features:-Zoom control by Volume control buttons.-Autoshutter can be activated by long press onScreenShutter button.-Camera parameters control (white balance, color effects, flash modes, focus modes, ISO and etc.) -Video quality control ( resolution, encoder, format mp4 or 3gp, bitrate, framerate).-Audio quality control (encoder, sampling eate, bitrate).Warning! Not all features may work on some devices.Email me if you want to help to localize to your native language.Free version limitations:-sometimes program shows BUYME dialog.-program icon with red label FREE.More info at: http://rubberbigpepper.com/en/lgCameraRecent changes:-optimization for SGS3-optimization for SGS +-optimization for HTC One series-burst-mode added for photo capturing-bugs fixed'
+p4
+tp5
+tp6
+.

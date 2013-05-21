@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IQ Test '
+p1
+tp2
+(S'Description:'
+p3
+S'Test my IQ is designed to test IQ. Questions we use are mainly logical graphic questions, which minimize the effects caused by different culture, languages, environment, history and other elements, thus to evaluate your learning ability, memory, logical think ability and creativity. You have 40 minutes to finish 39 questions. If you are not sure about certain questions, skip them first and move on to those you are confident about.Usually, people whose IQ is between 80 to 120 are normal, those over 120 are extraordinary. For instance, Bill Gates, founder of Microsoft, has a IQ of 160. The great physicist, Stephen Hawking, also has a IQ of 160. Do you want to know how smart you are? Come on and test your IQ. Maybe you have the potential to be a super genius.Keyword: IQ test, IQ Test, testRecent changes:"V2.4 Update:1. modify score system2. Freshing and bright UI in test interface"'
+p4
+tp5
+tp6
+.

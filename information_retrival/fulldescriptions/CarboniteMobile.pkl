@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Carbonite Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S"The Carbonite Mobile backup and security app for Android makes it easy to automatically back up your Android phone or tablet\xe2\x80\x99s photos and videos to the cloud and access them anytime, anywhere. Carbonite Mobile also protects your Android device in the event it is ever lost or stolen through remote lock and destroy features.  Help us improve the app! ---> mobilefeedback@carbonite.comWith the Carbonite Mobile Android backup and security app you can: \xe2\x80\xa2 Back up \xe2\x80\x93 Automatically back up all of your smartphone's full resolution photos and videos. \xe2\x80\xa2 Access - Browse, view & share your backed up data by logging into www.carbonite.com. Current Carbonite customers can also access their backed up computer files directly through this app. \xe2\x80\xa2 Locate \xe2\x80\x93 Identify the location of your Android device on a map.\xe2\x80\xa2 Ring \xe2\x80\x93 Misplaced your phone? Sound the ringer even if your phone is muted or set to vibrate. \xe2\x80\xa2 Lock \xe2\x80\x93 Lock the screen on your device using a personalized pin. \xe2\x80\xa2 Capture \xe2\x80\x93 Think your device was stolen? Remotely activate the camera to take a photo of the person using your phone. \xe2\x80\xa2 Destroy \xe2\x80\x93Remotely destroy all of your personal data and reset the device to its factory settings. Tip: Download the app on all your mobile devices to access all of your backed up photos and videos anytime, anywhere. For example, you could access photos and videos on your smartphone from your Android tablet or iPad\xc2\xae if you have the app installed on both devices. Please note: Backup and protection features are currently unavailable to Carbonite Small Business and iOS customers.Terms of Service: http://www.carbonite.com/termsRecent changes:What\xe2\x80\x99s New:\xe2\x80\xa2 Update to the Knowledge Base pages\xe2\x80\xa2 Bug Fixes"
+p4
+tp5
+tp6
+.

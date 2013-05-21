@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Scribd '
+p1
+tp2
+(S'Description:'
+p3
+S'Scribd brings you millions of written works to explore, read and share for free. Discover study guides, recipes, how-to guides, analyst reports, business presentations and spreadsheets. Get the latest literary offerings from Random House, Workman, Chronicle Books, Wiley, O\xe2\x80\x99Reilly, and others. Bolster your academic work with published research from Harvard Press, University of Chicago, and Duke Press, and more. Features include: ** Document reader ideal for reading documents from the Scribd library** Save documents for offline reading ** Daily editorial recommendations Scribd users can: ** View their Reading Feed ** Access their collections, purchases, and uploads** Sync Reading Progress and Save for laterRecent changes:- Bug fixes'
+p4
+tp5
+tp6
+.

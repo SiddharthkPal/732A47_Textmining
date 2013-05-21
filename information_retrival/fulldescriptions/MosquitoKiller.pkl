@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mosquito Killer '
+p1
+tp2
+(S'Description:'
+p3
+S'Repel insects using your smartphone! Free App: Mosquito Coil"Mosquito Killer" repels mosquitos and other pests by emitting high-frequency sounds.It is safe to human since the sounds emitted are in the high-frequency range which human can hardly hear.All you need is your smartphone - you may be able to get rid of your real mosquito coils and insecticides.By emitting high-frequency sounds, it repels pests including mosquitos, mice, and cockroaches.It is odorless and harmless to children and babies since no spray or peppermint oil is used.Convenient for camping and other outdoors activities since all you need is your smartphone.In addition to repelling insects, the Mice Repellent Mode and the Adolescents Repellent Mode are available.The Mice Repellent Mode emits a high-frequency sound hated by mice.The Adolescents Repellent Mode emits a high-frequency sound called "mosquito sound" only young people can hear.People in their late 20\'s and older can hardly hear this sound; however, teenagers and youths in their early 20\'s can hear it clearly.This same technology has already been used in Tokyo and European cities to discourage youths from loitering in certain areas such as parks and convenience stores.[Main Features]- Repels insects by emitting a high-frequency sound hated by insects such as mosquitos.- Repels mice by emitting a high-frequency sound hated by mice.- Repels adolescents by emitting a high-frequency sound hated by adolescents.- Random Play Mode is available from the setup screen.- You can create/emit sounds in any frequency.- Adjustable volume.[Caution]- Avoid using for an extended time period and/or at a large volume.- Adjust the volume to low when using earphones/headphones.- Stop using immediately if you develop headaches and other adverse effects.- Effectiveness is not guaranteed.'
+p4
+tp5
+tp6
+.

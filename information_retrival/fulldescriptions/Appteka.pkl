@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Appteka '
+p1
+tp2
+(S'Description:'
+p3
+S'Appteka is an application which makes your life easier when you need it the most- during sickness. Take a picture of your prescription, send it to us, and retrieve your order at a given pharmacy along with any other items you may wish to order. Appteka monitors your intake of medication, grants access to information about your prescribed drugs, and allows you to archive your prescriptions. Appteka is convenient, inexpensive, and safe!Instructions:1) Take a picture of your prescriptionTake a picture of your prescription and it will be automatically sent to our system. The pharmacist will receive your prescription and prepare the necessary medication at your pharmacy. You may then place your order or continue shopping.2) Choose other drugs and pharmaceutical products and retrieve your orderIf you would like to purchase other drugs or pharmaceutical products, add them to your order. The application may propose alternatives. Place your order and retrieve it at your chosen pharmacy.3) A pharmaceutical specialist in your phoneAt any given moment you may find information about your medication and any possible alternatives. You may also check locations of pharmacies in your vicinity.Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

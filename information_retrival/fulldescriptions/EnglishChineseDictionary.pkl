@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English Chinese Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'The best Chinese English Dictionary app is now on Android phone and tablet. It covers over 170,000 words and phrases of the contemporary Chinese language (Both Traditional and Simplified Chinese), along with example sentences, audio pronunciations, fastest search speed, flexible search methods, and more \xe2\x80\xa6 FEATURES \xe2\x98\x85 Over 170K Chinese words & phrases \xe2\x98\x85 Example sentences \xe2\x98\x85 Audio pronunciation \xe2\x98\x85 Spelling suggestions \xe2\x98\x85 Search history record \xe2\x98\x85 Fastest search speed \xe2\x98\x85 Flexible search (by English, Chinese Handwriting (Strokes) & Mandarin Chinese\xe2\x80\x99s Pinyin) \xe2\x98\x85 Share learning progress via social networks\xe2\x98\x85 Flashcard Display for every Chinese word\xe2\x98\x85 Optimized for Android phone and tabletChina Opportunities, Chinese and Mandarin Chinese are the HOTTETS TOPICS. The future is in Asia and Mandarin Chinese is exponentially gaining popularity in globe. Tip for you: THE EARLY BIRD GETS THE WORM!Learn Chinese ASAP and reach the whole new world and DOOR OF SUCCESS!If you require any assistance, please contact us at cs_google@bravolol.com.Dictionary Keywords: ec, dict, translator, learn, translate, lesson, course, grammar, phrases, vocabulary, translation, dict, free, \xe8\x8b\xb1\xe4\xb8\xad\xe5\xad\x97\xe5\x85\xb8, \xe8\x8b\xb1\xe6\xbc\xa2\xe5\xad\x97\xe5\x85\xb8 and \xe8\x8b\xb1\xe6\xb1\x89\xe5\xad\x97\xe5\x85\xb8Recent changes:\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Major Release \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85- Major updates on data source, which increases the English word bank significantly.- Updates on search logic, results will be organized by the most accurate and the related various.- Provides additional data source for simplified Chinese- Provides the parts of speech for more English words- Stability and performance improvement- Provides American phonetic- Several updates on UI- Minor bug fixes'
+p4
+tp5
+tp6
+.

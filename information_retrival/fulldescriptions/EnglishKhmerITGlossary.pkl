@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'English - Khmer IT Glossary '
+p1
+tp2
+(S'Description:'
+p3
+S'This application uses glossary data from Khmer OS Project (www.khmeros.info).Recent changes:Description about this apps: http://www.khmertype.org/2013/02/english-khmer-computer-glossary.html'
+p4
+tp5
+tp6
+.

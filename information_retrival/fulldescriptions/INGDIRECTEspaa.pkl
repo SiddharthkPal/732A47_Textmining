@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ING DIRECT Espa\xc3\x83\xc2\xb1a '
+p1
+tp2
+(S'Description:'
+p3
+S'Aplicaci\xc3\xb3n para Android de ING DIRECT Espa\xc3\xb1a que engloba los siguientes servicios:-   Acceso a la banca m\xc3\xb3vil: Podr\xc3\xa1 acceder utilizando las mismas clavesque se utilizan para acceder a la web de escritorio y realizar las siguientesoperaciones:   o   Consulta de saldos de sus productos   o   Consulta de movimientos   o   Detalle de Cuentas   o   Aplicaci\xc3\xb3n en modo demostraci\xc3\xb3n   o   Realizar Transferencias   o   Consultar transferencias en curso   o   Realizar Ingresos   o   Consultar estado de sus ingresos    o   Acceso a la operativa de las tarjetas financieras:      \xc2\xb7  Consulta de saldo      \xc2\xb7  Consulta de movimientos      \xc2\xb7  Bloqueo de tarjetas      \xc2\xb7  Consulta de n\xc3\xbamero secreto   o   Cambio de clave personal de acceso   o   Enviar dinero a un m\xc3\xb3vil (Hal Cash)   o   Localizaci\xc3\xb3n de cajeros y red de oficinas con realidad aumentada   o   Acceso a Redes Sociales:      \xc2\xb7  Facebook      \xc2\xb7  Twiter      \xc2\xb7  Youtube      \xc2\xb7  Blog Naranja  o   Informaci\xc3\xb3n comercial detallada de todos nuestros productos.  o   Informaci\xc3\xb3n corporativa de ING DIRECT  o   Tel\xc3\xa9fonos de contactoRecent changes:El banco ING DIRECT abre una nueva l\xc3\xadnea de productos para NEGOCIOS.A partir de ahora, a trav\xc3\xa9s de un nuevo icono en la home de esta aplicaci\xc3\xb3n,todos los usuarios que contraten alguno de estos productos podr\xc3\xa1n accedera su operativa a trav\xc3\xa9s de m\xc3\xb3vil.'
+p4
+tp5
+tp6
+.

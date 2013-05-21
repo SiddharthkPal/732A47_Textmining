@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart Voice Recorder '
+p1
+tp2
+(S'Description:'
+p3
+S"Smart Voice Recorder designed for high quality long-time sound recording with skipping relative silence on-the-fly. For example, you can use it for record night sleep talks (or snoring:)), business meetings, a regular day of your babysitter, how you sing or play the guitar and so on. It's fantastic! And you may use it as regular voice recorder with simple and nice user interface. Give it a try! :)NOTE: This app is not call recorder. May not work properly on some handsets. User interface not optimized for tablets yet. Recordings in this format cannot be sent via text/sms/mms. Please feel free to send me feedback via email if you have any.If you would like to see Smart Voice Recorder on your language you can join the translation project here: http://crowdin.net/project/smartvr/inviteFeatures:- automatic and manual sensitivity control for Skip silence mode (Beta)- live audio spectrum analyzer- wave/pcm encoding with adjustable sample rate (8-44 kHz)- recording in background (even when display is off)- microphone gain calibration tool- save/pause/resume/cancel recording process control- storage and directory change (default: sdcard/SmartVoiceRecorder)- remaining recording time showed on home screen, limited only by available space on your storage (and tech. limit 2GB per file)- easy to use recordings list - send/share a recording via email, whatsapp, dropbox, etc.- set a recording as an ringtone, alarm or notification in one clickPermissions that this app needs are:- internet access (for displaying ads and some stats collection)- write to external storage (to store recordings)- record audio- wake lock (for prevent device from sleeping)- write settings (for ability to set default system ringtone/notification/alarm)- billing (for in-app option to turn off ads)Please feel free to send me any feedback via email.Recent changes:* Many stability and app responsiveness improvements, bug fixes* Automatic recovery of recording after failure* Skip silence now will work on most devices* External SD card option now available for Xperia devices* Czech and Portuguese localizations has been added (thanks kocir and pfmradio)"
+p4
+tp5
+tp6
+.

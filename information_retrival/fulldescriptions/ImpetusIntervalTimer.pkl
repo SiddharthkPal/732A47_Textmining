@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Impetus Interval Timer '
+p1
+tp2
+(S'Description:'
+p3
+S"Impetus is an advanced interval timer for any training regimen with intervals or other repetition; HIIT, Tabata, Fight Gone Bad, C25K, Crossfit, kettlebells, pyramid training, running, BodyRock, ZWOW, breath hold training, Beastmaker, boxing, martial arts, yoga etc. Virtually unlimited possibilities for any kind of timer setup with a ton more features than your average Gymboss gadget. Designed for sports, but feasible as an all-round timer.Support the development and open all features by buying Impetus Plus.Features:* Basic presets for quick operation* Completely customizable advanced presets for more complex timing needs, including timer chaining and looping* Clear and comprehensive timer display* Responsive UI with portrait and landscape modes* Unlimited saved presets* Incrementing or decrementing timers for variable intervals and pyramid training* Conditionally running timers for rounds of different lenght* Home screen shortcuts to presets for quick access* Sound and vibration alerts, user's own sound files can be used as alert sounds* Text-to-speech notifications of current and next interval* Configurable countdown before next interval* Configurable auto pause on incoming call (call state permission is used ONLY for this functionality)* Optional auto pause on any stage of the training set* Option to start the timer by shaking the device* Can be run in the background* Mute option for background music player on alerts* Quick dedicated volume controls for alerts and music* Ad-free* Installable to SD* Presets can be imported and exported. (Impetus Plus only)* Background music playlists for work and rest intervals (Impetus Plus only)Twitter: @impetustimerNOTE for Android 4.1 device owners:Due to a bug in Android 4.1 alert sounds probably don't work unless you switch to using media stream or switch off music mute in Impetus settings.Recent changes:1.6.3* Interval name scrolls if too long to display on timer screen* Fixed never-ending loop with step timer presets* Fixed last used preset to open automatically on start-up1.6.2* Small color and layout tweaks* Fixed Nexus 7 XL mode* Fixed crash when app returned from background"
+p4
+tp5
+tp6
+.

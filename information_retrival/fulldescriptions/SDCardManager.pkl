@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SD Card Manager '
+p1
+tp2
+(S'Description:'
+p3
+S"SD Card manager is a free tool which helps you to easily manage files and folder in SD card.Features:High Performance.Browse files and folderscut,copy and paste files and folderscreate,rename and delete filesFree space and used space informationInstall .apk application from sdcardSorting of files and folders in list view.Compress and ExtractUpload File to FTP Server.upload photos to FACEBOOKBrowse system folders and files.Search Files and Folders.Supports Both List View as well Grid View and configuration from Settings.List Installed Applications Back Up Applications(.apk) in the SD CardRoot Users can cut, copy, paste, and delete system files and folders, as well.Language Support:EnglishGermanSpanishRussianDUTCH ItalianJapaneseKOREANHindiGoal is to make easy, light weight and free tool which easily manage files SD Card.Simple File manager for all types of users(Root and Normal).Comments and suggestions for this application are welcome.\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x9c\x93 If you're having trouble with the app, PLEASE contact the developer via email or fan page. NEGATIVE COMMENTS can't help the developer solve the problems!Fan Page: https://www.facebook.com/SdCardManager*Update 1.4.6*FTPS Support(Explicit over TLS/SSL).*Update 1.4.0*users can now compress multiple files and folders together in one zip/tar from options menu*Update 1.2.7*Send File using FTP.User can now upload files to FTP Server*Update 1.2.0*Search Files and Folders.*Update 1.1.9*Browse system folders and files.*Update 1.1.8*Fixed minor bug.Keywords: file manager file explorer file browser SD Card Manager root explorerRecent changes:Supported Hindi LanguageFixed Minor issues in Search and Improved Performance"
+p4
+tp5
+tp6
+.

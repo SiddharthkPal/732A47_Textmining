@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Meetup '
+p1
+tp2
+(S'Description:'
+p3
+S"Finding the perfect Meetup for you to learn something, do something, or share something has never been easier! Learn a new language, join a book club, go for a hike. People are organizing Meetups everywhere about almost everything -- and you can join in.Meetup lets you...\xe2\x98\x85 Explore suggested Meetups tailored to your interests.\xe2\x98\x85 See what's happening nearby.\xe2\x98\x85 Discover new interests in categories like Outdoors, Parents, Photography, and more.\xe2\x98\x85 Browse, join, and RSVP for Meetups straight from the palm of your hand.\xe2\x98\x85 Get directions, check out who\xe2\x80\x99s coming, add comments, and upload photos with the tap of a finger.It\xe2\x80\x99s Meetup magic. You might be surprised by what you'll find!A Meetup starts somewhere in the world every 13 seconds. Download the app and get in on the action today!Questions? Suggestions? Shoot us an email at \xe2\x80\x9csupport@meetup.com\xe2\x80\x9d.Recent changes:v1.8.4:Crash fixes.v1.8.3:Smoother sailing on the Android app! Check it out:\xe2\x80\xa2 Fixed issue with crash on profile pages\xe2\x80\xa2 Images should load faster, and flicker less\xe2\x80\xa2 Minor bug fixins"
+p4
+tp5
+tp6
+.

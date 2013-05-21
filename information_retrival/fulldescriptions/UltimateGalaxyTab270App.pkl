@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ultimate Galaxy Tab 2 7.0 App '
+p1
+tp2
+(S'Description:'
+p3
+S'Drippler makes your Samsung Galaxy Tab 2 7.0 even more awesome!Get the latest rumors, software updates, usage tips, apps & games, tech-support, accessories and more.\xe2\x98\x85 FEATURES \xe2\x9c\x93 Latest updates - stay up-to-date \xe2\x9c\x93 Highlights - browse the most popular Galaxy Tab 2 7.0 updates\xe2\x9c\x93 Notifications - customize your Galaxy Tab 2 7.0 news\xe2\x9c\x93 Desktop widget - get the hottest new updates straight to your desktop\xe2\x98\x85 MEDIA "A must-have for Android owners" -TheNextWeb"Drippler offers news on Android updates and useful apps" -The New York Times"This is a big deal... people don\'t know all this" -TechCrunch"Drippler starts being helpful the moment it\'s installed" -CRN\xe2\x98\x85 USER REVIEWS "All the best news and apps tailored for my phone\xe2\x80\x9d"My one stop for my phone updates & news. Excellent""Couldn\'t live without this awesome app!""Amazing app! I Check every day to see what new stuff I can have or use with my phone"\xe2\x98\x85 WE\'D LOVE TO HEAR FROM YOU\xe2\x9c\x93 Drippler - http://drippler.com\xe2\x9c\x93 Facebook - http://facebook.com/drippler\xe2\x9c\x93 Twitter - http://twitter.com/drippler\xe2\x9c\x93 Email - appfeedback@drippler.comKeywords: Samsung Galaxy Tab 2 7.0, Samsung Galaxy Tab 2 7,  Galaxy Tab 2 7.0 Wallpapers, Galaxy Tab 2 7.0 Root, Galaxy Tab 2 7.0 Theme, Galaxy Tab 2 7.0 Themes, Galaxy Tab 2 7.0 Unlock, Galaxy Tab 2 7.0 Update, Galaxy Tab 2 7.0 Apps, Galaxy Tab 2 7.0 Updates, Galaxy Tab 2 7.0 RomRecent changes:3.82.4* Bug fixes3.82.3* Featured apps tab* Bug fixes3.82.0* Notification bug fix3.81.9* Navigation buttons in drips* Bug fixes3.81.4* Show/hide game drips (under settings menu)* Quick download button for app and game drips* Facebook sharing button bug fix* Bug fixes'
+p4
+tp5
+tp6
+.

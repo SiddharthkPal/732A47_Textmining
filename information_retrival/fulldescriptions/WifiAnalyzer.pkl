@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Wifi Analyzer '
+p1
+tp2
+(S'Description:'
+p3
+S'Turns your android phone into a Wi-Fi analyzer!!Shows the Wi-Fi channels around you. Helps you to find a less crowded channel for your wireless router.Recent changes:* Update Support Library.* Allow backup.'
+p4
+tp5
+tp6
+.

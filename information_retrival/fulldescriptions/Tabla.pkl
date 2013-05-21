@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tabla '
+p1
+tp2
+(S'Description:'
+p3
+S"Tabla - Finger Percussion to AndroidThe most fun experience in finger drumming to Android!Drum pad with indian, arabian and latin percussion sounds.Play Tabla (also known as arabic drum, darbukkah, darbouka or dumbak). To play live music.Features:* Multitouch* Tabla set's* 10 realistic drum sounds* Studio audio quality* Instruments like tabla, gong, chimes and gungru.* Works with all screen resolutions - Cell Phones and Tablets (HD)* FreeThe best tambour style on the market!For drummers and percussionists!"
+p4
+tp5
+tp6
+.

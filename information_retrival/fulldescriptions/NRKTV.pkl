@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NRK TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Se alle NRKs TV-kanaler og TV-program n\xc3\xa5r og hvor du vil!Her f\xc3\xa5r du se alle NRKs programmer direkte eller n\xc3\xa5r du vil av det NRK har rettigheter til \xc3\xa5 publisere.Tjenesten krever mye datatrafikk og vi anbefaler bruk av tr\xc3\xa5dl\xc3\xb8st nettverk.* Teksting er per dags dato ikke tilgjengelig, men vi jobber med \xc3\xa5 f\xc3\xa5 dette p\xc3\xa5 plass.Hvis du \xc3\xb8nsker \xc3\xa5 benytte en annen avspiller-app g\xc3\xa5 til http://tv.nrk.no/innstillinger i nettleser og velg "Link til avspilling med HLS", da kan du velge mellom installerte avspillere eller f\xc3\xa5 din valgte standardavspiller startet automatisk n\xc3\xa5r du vil se TV.'
+p4
+tp5
+tp6
+.

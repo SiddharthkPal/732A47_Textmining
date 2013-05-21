@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'APP Lock '
+p1
+tp2
+(S'Description:'
+p3
+S"Protect your installed applications using a password or pattern! APPLock, Easy and Strong application lock tool !More features coming soon.Features:* Protect installed apps using password or pattern* Startup protect service / stop proctect service* Lock incoming call* Quick lock switch( Home Widget & status bar)* Allow short exit\xef\xbc\x8cno need to unlock again.Feel free to send your feedback to us!Help us to support your language. support@domobile.comRecent changes:Don't rate one star! email us, you will get faster answer.support@domobile.com   send your feecback to us."
+p4
+tp5
+tp6
+.

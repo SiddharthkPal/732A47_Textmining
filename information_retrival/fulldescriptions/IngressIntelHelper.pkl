@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ingress Intel Helper '
+p1
+tp2
+(S'Description:'
+p3
+S'The easiest way to view the Ingress Intel Map from your phone.Provides a handy shortcut to load the intel map directly from your home screen. No more worrying about keeping the tab open in Chrome! Now you can switch between Ingress and the Intel Map with ease.This app also has some added features, including:* Instantly switch to the Ingress app from the app\'s menu* Easy access to reload the map (in case it glitches)* Remembers your last viewed locationThis is a must-have app for any avid Ingress player!=== Frequently Asked Questions ===Q. I\'ve already logged in, but see the message "This account is not activated to access Ingress".A. This is a known bug with the Ingress website. Choosing "Reload" from the Options Menu will fix the issue.Q. Does this app use the IITC Plugin/Mod?A. Nope. We\'re currently using the stock intel map. This is a safer bet for new players, and reflects the official Ingress experience as released by Niantic.=== Feedback ===Your feedback is welcome! Do you have ideas which could make the app better? Did you find a bug which needs fixing? Please get in touch!You can contact me via email at thebigbyte@gmail.com, or via the website listed in the developer info.=== Privacy ===This app uses Google Analytics to gather anonymous usage statistics. This includes general information such as the number of times the app is launched, and session duration. No personal information is ever collected or stored. We don\'t know what brand of toothpaste you use.=== Copyright ===Ingress and Niantic Labs are owned by Google. This app is not affiliated with or endorsed by Google or Niantic in any way.Recent changes:Version 1.2 (6th April):+ Email links can now be opened using the appVersion 1.1 (16th March):+ Added "Send Feedback" menu option+ Added support for update notification+ Integrated AppBrain SDKIf you like this app, please +1 it and leave a positive comment! Thanks for your support!'
+p4
+tp5
+tp6
+.

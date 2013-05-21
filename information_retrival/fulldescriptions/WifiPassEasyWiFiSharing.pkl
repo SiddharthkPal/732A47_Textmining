@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WifiPass - Easy WiFi Sharing '
+p1
+tp2
+(S'Description:'
+p3
+S"No more asking for WiFi Passwords everywhere you go: with WiFi Pass, you can connect to WiFi networks your friends have shared without typing a password.Do you have the wifi password to that cool cafe, restaurant, or bar? Create a WiFi Pass share it with your friends, so everyone can connect without typing any passwords!- Create Internet Passes: Store WiFi passwords, share them with your Facebook Friends, or keep them to yourself- Collect your friend's WiFi Networks: Store all the networks your friends have shared on your smartphones and connect to more WiFi networks- Save it to the Cloud: All collected or added networks can be accessed from your smartphone and tablet.- Know on the go: WiFi Pass automatically tells you when you're near an accessible network!Try this great new way to share WiFi!-----------------------------------------------------------This is not a WiFi Hacking tool.Suggestions, doubts or comments? Please visit our Support page at https://wifipass.zendesk.com/homeRecent changes:Starring Wifi Buddy who helps you find nearby Wifi spots and collect its passes."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Live Hd Tv Online '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch your favorite TV channels Live in your mobile phone with this free Android application on your Device.THIS APPLICATION ONLY PROVIDES THE LINKS FOR THE LIVE STREAMING CHANNELS. ALL THE LINKS ARE GATHERED FROM VARIOUS FREELY AVAILABLE WEB SITES.Watch streaming live  TV Channels free on your Phone for free from across the world. \xe2\x80\x9cLive Hd Tv Online\xe2\x80\x9d app shows you the way to see Live TV on mobile. Enjoy watching Online TV for free.Key Features:------------------[\xe2\x9c\x94] No need to have \xe2\x80\x9cAdobe Flash Player\xe2\x80\x9d[\xe2\x9c\x94] No sign-up required[\xe2\x9c\x94] 100% working...[\xe2\x9c\x94] More than 200 Indian TV channelsThis app provides links for FREE Live streaming of India TV channels. You can enjoy viewing your favorite NEWS, Movies, Talk shows, Cartoons, Sport, Music, and much more on your Android Phone.It is just fun watching TV on your Android based phone or tablet.Disclaimer:This app doesn\'t actually stream the content, instead it combines various sources to present the content in a likable way. All the logos, trademarks and other symbols are the properties of their respective owners. We do not endorse or support any channel or any company. This app is distributed "as is" without warranty of any kind and the user may use it on his/her own risk. This app\'s users and third parties, agree to indemnify and hold harmless this app\'s creators and it\'s agents, from any damages claimed as a result of information, resources, products or services, or third party links obtained from this app. This app doesn\'t stream the content itself, so the creators can\'t be held responsible for any damages. If anybody still finds this app harmful in any way, they must send a request/notice to the creators first to remove the discrepancy. All the RTSP (Real-Time Streaming Protocol) links are gathered from various sources available open in the internet. So the app owner or developer or creator can\'t be held responsible for any damages.Recent changes:New Sports Channel Added.'
+p4
+tp5
+tp6
+.

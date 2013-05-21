@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'App of the Day (CA) -100% Free '
+p1
+tp2
+(S'Description:'
+p3
+S'"App of the Day" is now finally available on Android!  \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Every day a paid app becomes free for 24 hours! \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Every day, the team chooses the "App of the Day" from one of the best, actually paid apps from the Google Play Store and is negotiating with the developers to make their app free for 24 hours.This concept, which is already in the U.S. and many other European countries very popular enables all smartphone owners to annually save many hundreds of pounds for the purchase of apps.\xe2\x98\x85 A little tip: Do not forget to enable the PUSH notifications so you never miss a single app. \xe2\x98\x85What our users say about us:"I have discovered many really cool apps and had to pay anything for it.""This app should be automatically installed on all smartphones.""Like a Surprise, but with apps instead of chocolate!"If you like our app, you can review course they like and drop us a comment in the Google Play. Your opinion matters to us that is real! :)If you:-Have a question, want to have like a specific app for free or you just want to write to us:android.app.ca@appturbo.net-Are a developer of apps and want your app to be promoted: android.app.ca@appturbo.net-Have a technical problem with our app: android.support.ca@appturbo.net'
+p4
+tp5
+tp6
+.

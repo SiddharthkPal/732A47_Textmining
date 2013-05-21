@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dame MP3 - Descarga m\xc3\x83\xc2\xbasica '
+p1
+tp2
+(S'Description:'
+p3
+S'Con Dame MP3 puedes buscar y descargar en tu m\xc3\xb3vil m\xc3\xbasica de una forma r\xc3\xa1pida y sencilla.Podr\xc3\xa1s escuchar la m\xc3\xbasica en el momento, descargarla, o ponerla como tono de llamada.Dame MP3 es la APP mas r\xc3\xa1pida y eficaz del mercado, y todo esto GRATUITAMENTE.Toda la m\xc3\xbasica esta alojada en servidores de dominio publico por lo que Dame MP3 es completamente legal.Recent changes:Novedades en versi\xc3\xb3n v3.3:- Solucionado error por el cual no se descargaban algunos mp3 correctamente.- Solucionado error por el cual no se borraban descargas.- Mejorada la rapidez de b\xc3\xbasqueda.'
+p4
+tp5
+tp6
+.

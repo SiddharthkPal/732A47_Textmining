@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Belajar English for Kids '
+p1
+tp2
+(S'Description:'
+p3
+S'Bahasa inggris adalah bahasa nomor satu di dunia, oleh karena itu wajib diajarkan kepada anak-anak sejak dini. Pembelajaran interaktif "English for Kids" adalah penunjang dasar dalam menguasai suatu bahasa dan memacu kreativitas anak-anak.Mulai dari mengenal huruf, menyusun kata, dan menyusun kalimat. Lengkap dengan cara membaca dan terjemahannya dalam Bahasa Indonesia. Sehingga anak-anak tidak mengalami kesulitan dalam menguasai Bahasa Inggris. Selamat Mencoba'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Canada Post Corporation '
+p1
+tp2
+(S'Description:'
+p3
+S"Canada Post\xe2\x80\x99s Mobile App gives you access to the most popular tools on canadapost.ca! Track a Package:Check the delivery status of your items. Simply type in your tracking number or use your camera to scan the barcode from a delivery slip / delivery notice card (iPhone 3GS and up)! You can choose to name your item (e.g. Mom\xe2\x80\x99s package)\xe2\x80\x94making it easier to monitor multiple deliveries\xe2\x80\x94and keep a history of all your tracked items in a self-managed list. epostSecurely receive, manage, pay and store your bills, statements, pay stubs and notices with the convenience of a single login.  Your secure digital mailbox provides you with email or texts when new mail arrives, organized file folders and 7 years free storage. VaultYour online personal safety deposit box that lets you access, share and store what\xe2\x80\x99s important to you.  With bank-grade security and encryption, you'll never have to worry about anyone accessing your important information unless you want them to.Find a Postal Code: Look up a postal code to make sure your cards and packages are addressed correctly, even for rural and PO Box addresses. Save postal codes to your address book for easy retrieval. Find a Rate:Find out what it costs to send a parcel, letter or document within Canada or worldwide. Find a Post Office:Locate a Post Office near you, or anywhere in Canada. Picture Postage\xe2\x84\xa2 \xe2\x80\x93 Postcards:Turn your photos into printed postcards\xe2\x80\x94with delivery anywhere in the world for just $2.45 per card! Take a photo or select one from your camera roll, choose the recipient(s) from your contacts list and write your personal message. We\xe2\x80\x99ll print, stamp and mail the postcard to each person on your list!  Picture Postage\xe2\x84\xa2 \xe2\x80\x93 Stamps:Create personalized stamps for your letters and invitations. Get started by taking a picture or access any photos that you have stored on your camera roll!For any feedback or questions around the functionality of the app, please contact us at mobile.apps@canadapost.caRecent changes:Picture Postage\xe2\x80\xa2\tImprovements in editing text, error messaging,  as well as bug fixes for international addresses, and other minor enhancements"
+p4
+tp5
+tp6
+.

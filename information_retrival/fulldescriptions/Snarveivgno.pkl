@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Snarvei vg.no '
+p1
+tp2
+(S'Description:'
+p3
+S'Hold deg oppdatert med VG p\xc3\xa5 mobil!Her har du svarveien til vg.no, for deg som vil ha enkel tilgang til VG uten \xc3\xa5 \xc3\xa5pne Android browseren. App\xc2\xb4en har ogs\xc3\xa5 snarvei til e24.Recent changes:- Fikset feil ved lasting av bilder p\xc3\xa5 VG'
+p4
+tp5
+tp6
+.

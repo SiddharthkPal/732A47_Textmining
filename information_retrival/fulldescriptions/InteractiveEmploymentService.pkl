@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Interactive Employment Service '
+p1
+tp2
+(S'Description:'
+p3
+S'Interactive Employment Service (\xe2\x80\x9ciES\xe2\x80\x9d) mobile application is developed by the Labour Department, to provide latest and free job-related information to job seekers.  Job seekers can use this application to search suitable vacancies instantly from huge job vacancy database of the Labour Department.Main features include:1. searching on keywords, job order number, job type, position, industry, working location, payment term, salary, job nature and date of display2. sorting of vacancy search result 3. providing details of latest Non-Civil Service Contract Posts 4. saving of vacancy details for off-line browsing5. providing details of recruitment activities at Job Centres6. providing addresses, telephone numbers, opening hours and map location of Job Centres7. supporting traditional Chinese, simplified Chinese and EnglishKeywords: HKSAR, Labour Department,Interactive Employment Service, iES, Job Search, Job Centre, VacancyThis App supports Android os 2.2 or later version and devices with display resolution 320 x 480, 480 x 800 or 480 x 854 pixels.Recent changes:Minor usability enhancement'
+p4
+tp5
+tp6
+.

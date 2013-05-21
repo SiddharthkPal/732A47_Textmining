@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mahir Membaca Garis Tangan '
+p1
+tp2
+(S'Description:'
+p3
+S'Aplikasi yang membuat anda dapat memahami arti garis tangan'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HJ Story Messages of Love '
+p1
+tp2
+(S'Description:'
+p3
+S"The long awaited HJ Story App is now available for Android!HJ Story: Messages of Love is a compilations of little stories about love, humor, and life. With 100k+ and growing fans on Facebook, now you can enjoy all the comics on the go, hoping to bring a smile to everyone's face. Amazing features include:-Customize text for selected images to add your own personal touch and share it with your love ones!-Android only content-Get access to latest and all of HJS images with auto-update and push notification-Save your favorite images for a personal favorite collection-Share via Facebook/Twitter/Instagram-Save images to your photo Album-Easy to use UI and image navigation-Swipe for next image, tap to open menu, tap & hold for text descriptionLet's spread the love and happiness together!Recent changes:- Hardware menu key can be used as a shortcut to Share- Hardware back key can be used as a shortcut to Exit"
+p4
+tp5
+tp6
+.

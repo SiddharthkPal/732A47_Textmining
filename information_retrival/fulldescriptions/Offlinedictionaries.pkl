@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Offline dictionaries '
+p1
+tp2
+(S'Description:'
+p3
+S"Offline dictionaries allows you to browse dictionaries without a network connection, such as when you're on a plane, traveling abroad, out of cellular tower range or if you want to save battery!You download the dictionaries to the SD card the first time you launch the app. Choose which dictionary or dictionaries you want to download.Perform advance searches in the dictionaries, which come in handy when you're working on a crossword puzzle. Definitions can be read by the device using a text to speech module (some devices don't support this and some languages may not be available).Offline dictionaries is a free, ad-supported application. For the ad-free version, check out Offline dictionaries Pro.There are more than 40 multi-lingual dictionaries to choose from, including: * English dictionary * English anagrams * English word list * English  French * English  German * English  Spanish * English  Russian * English  Portuguese * English  Arabic * English  Hebrew * English  Korean * English  Chinese * English  Japanese * English  Hindi * French dictionary * French anagrams * French word list * French  Spanish * French  Czech * French  German * French  Italian * French  Chinese * French  Japanese * French  Arabic * French  Dutch * French  Hindi * French  * Russian  * Russian  French * Russian  German * Russian  Italian * German  Russian * Japanese -> German * Spanish dictionary * Korean (full / law Hanja / Hanzi) * Synonyms for English, French, Spanish, German, Czech, Polish, IrishDictionaries are added or improved regularly (ask us if you want a particular one).Follow us on Twitter to get informed : http://twitter.com/nghsfrThe application can be used through ebook readers such as Moon Reader+...Note: first INSTALLATION of BIG DICTIONARIES can be SLOW. Just WAIT for the progress window to be closed. No action is required.Keywords: Thesaurus, dictionary, off-line dictionaries, disconnected, dictionnaire,  hors ligneRecent changes:Fixed a bug that installed dictionaries on internal storage by default for new users"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Blockchain '
+p1
+tp2
+(S'Description:'
+p3
+S'*** Please uninstall the old Blockchain app ****** Make sure you are scanning the QR Code in Account Settings not on the welcome page ***Blockchain is a bitcoin wallet which combines the ease of use of an online wallet service with the security of a desktop client. You to retain full control of your bitcoins while at the same time able to access them on any device.We make paying with bitcoins easy and secure available anywhere on your phone or desktop.More information: https://blockchain.info/wallet/FEATURES:* Client Side Wallet Encryption* Automatic Wallet backups* No blockchain download* Optional transaction fees* Tagging of common addresses.* Wallet Balance Widget.* Bitcoin URI support\xe2\x80\xa2 Display of wallet balance in Bitcoin and various other currencies\xe2\x80\xa2 Sending and receiving of QR-codes or Bitcoin URLs\xe2\x80\xa2 Support for millibitcent and smaller values (0.0001)\xe2\x80\xa2 Address book for regularly used Bitcoin addresses\xe2\x80\xa2 Enter transactions while offline, will be executed when online\xe2\x80\xa2 System notifications for Bitcoin connectivity and received coinsThis application is based on "Bitcoin Wallet for Android" by , the project is located at. All credit to the original authors.https://code.google.com/p/bitcoin-wallet/https://github.com/blockchain/My-Wallet-AndroidLicense: GPLv3Recent changes:Compatibility with android 2.2Nexus 7 CompatibilityBitcoinj 0.6Reworked icons'
+p4
+tp5
+tp6
+.

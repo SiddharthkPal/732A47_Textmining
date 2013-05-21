@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Panorama Camera 360 '
+p1
+tp2
+(S'Description:'
+p3
+S'Panoramic camera could make your Mobile phone into a panoramic camera.After more than ONE year of research and development, we provide you with the best panoramic photo generating APP.Note. In order to get the best panoramic photo effect, make sure the light bright enough when shooting. Photos cannot be properly generated if the light is not bright enough.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MixBooth '
+p1
+tp2
+(S'Description:'
+p3
+S"PiVi & Co is launching the Android version of its famous MixBooth app (by the creators of AgingBooth, FatBooth & BaldBooth). MixBooth for Android is available to download for free on the Android Market.What would you look like in someone else's skin? And what about your friends?Find out with MixBooth, an amazing and funny way to merge two faces on your Android device.Use MixBooth to mix your face with photos of friends, family, colleagues, celebrities or the provided example pictures. Share the result via email, MMS, Facebook, Twitter.Tips\xe2\x80\xa2 Add photos of celebrities to mix with and look like a Star!\xe2\x80\xa2 Make your friends guess who you were mixed with!Features\xe2\x80\xa2 Works with photos taken with your Android device camera or from your photo gallery\xe2\x80\xa2 Auto-cropping using face detection\xe2\x80\xa2 Transformation process is instant with no internet connection needed\xe2\x80\xa2 Shake device to see before and after views\xe2\x80\xa2 Scroll results into the app gallery\xe2\x80\xa2 Save results to your photo gallery\xe2\x80\xa2 Share with your friends via email, FaceBook or TwitterMixBooth is made for entertainment purposes only.MixBooth for Android is optimised for Android platform v2.1 or later. In order to help improve this version, should you have any trouble using it, please feel free to send your feedback at androidfeedback@piviandco.com.\xc2\xa9 PiVi & Co 2012Photos credits : fotolia.com \xc2\xa9 Yuri Arcurs/\xc2\xa9 Tiler84/\xc2\xa9 Soloshenko Irina/\xc2\xa9 David DavisAlso by PiVi & Co :- BoothStache, the mustache growing machine:https://market.android.com/details?id=com.piviandco.boothstache- UglyBooth, the app that makes you feel pretty:https://market.android.com/details?id=com.piviandco.uglybooth- AgingBooth, the app that makes you old:https://market.android.com/details?id=com.piviandco.agingbooth- FatBooth, the app that makes you fat:https://market.android.com/details?id=com.piviandco.fatbooth- BaldBooth, the app that makes you bald :https://market.android.com/details?id=com.piviandco.baldboothMore information on AgingBooth, FatBooth, BaldBooth, MixBooth and UglyBooth on www.piviandco.comRecent changes:- Various improvements- For Christmas, mix your face with Santa!"
+p4
+tp5
+tp6
+.

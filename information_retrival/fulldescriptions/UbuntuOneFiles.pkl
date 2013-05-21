@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Ubuntu One Files '
+p1
+tp2
+(S'Description:'
+p3
+S"Your Personal CloudUbuntu One gives you 5GB of free storage for all your files, photos and music, watch as they magically appear on all your devices. Ubuntu One works on Windows, iOS, Android, Ubuntu and via the web.Your PhotosAuto upload - any photo you take will appear online and on all your devices, the instant you take it. The U1 Files app also automatically uploads images from other photo apps you use, so if you\xe2\x80\x99re into Instagram, it will automatically upload all those cool images to your Ubuntu One personal cloud, making them available on all your devices.Everyone\xe2\x80\x99s DelightShare easily with family, friends and colleagues. Link to Facebook, Twitter, Google and other networks.* Auto-uploads photos to your Ubuntu One personal cloud* Auto-uploads images from other photo apps* Easy links for sharing to Facebook, Twitter, Google and other networks* Browse, select and download  files and folders* Upload and share files from your phone* Custom settings:  - Auto Upload only when charging  - Auto Upload also when roaming  - Selective gallery Auto Upload  - Cancelling uploads and downloadsGet startedAn Ubuntu One Free account is needed - includes 5GB of storage for free. https://one.ubuntu.comNeed help? https://one.ubuntu.com/help/If you can't sign in, please make sure your time zone and date & time are correct in your device settings. It is best to set them to Automatic.To help us improve our service we need to track and report data from this app just like the websites do. We care about your privacy so this is anonymous and no sensitive data will ever be collected.If you need help or want to report a problem please use theMenu > Settings > 'Send feedback' option to contact us. We have no option to reply to your reviews on Google Play.Recent changes:Fixed auto-uploads hanging.Fully utilize Wi-Fi for uploads, even when screen is off."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'photo editor for Xperia '
+p1
+tp2
+(S'Description:'
+p3
+S'This app is the exclusive app for Sony Xperia smartphones, and does not work with other models.  Please also note that this app will not be subjected to updates.The text used in the app is in English only.photo editor is a photo editing software equipped with all of editing features you would want for. Effects, frames, stickers, and other editing features.This app is developed by Sony Digital Network Applications, Inc. (SDNA)Features:- All-in-one editing tool with high quality effects, frames, stickers, and other editing features.  The effects include more than 40 special effects including sepia, oil painting, mosaic, red-eye reduction, etc.- Easy-to-use interface with editing commands frequently used, e.g. delete, undo, or redo, always appearing on screen as buttons.- Highly flexible layout function.  You can change the layout of your stickers anytime and as many times as you wish.  The order of the stickers can be changed also. - Size-change function allows you to change the size of the photo, enabling you to best meet your objective.  (The number of pixels cannot exceed 1280 by 720 or 1024 by 768)How to change the theme:From the top menu, choose SETTINGS, then THEMES. Permissions:Hardware controls- To take pictures and videos with the camera.Network communication / full Internet access- To download pictures from web links and to edit pictures.Your personal information / read/write contact data- To set a picture to the contact address.Storage / modify/delete USB storage contents /  modify/delete SD card contents-  To read and write pictures.System tools / mount and unmount filesystems- To detect the status of SD card.Network communication / view network state / view Wi-Fi state- To view the state of networks.- To download pictures from web links and to edit pictures.For more information, please refer to:http://www.sonydna.com/sdna/e/products/photoeditor/index.html/Tested models:http://www.sonydna.com/sdna/e/products/tested_models.html/Photo and Video Solution From SDNA:http://www.sonydna.com/sdna/products/pr_pv/index.html/SDNA Facebook Page:http://www.facebook.com/sonydna'
+p4
+tp5
+tp6
+.

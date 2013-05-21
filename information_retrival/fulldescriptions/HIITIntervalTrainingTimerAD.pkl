@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HIIT Interval Training TimerAD '
+p1
+tp2
+(S'Description:'
+p3
+S'Pocket Change included - get real rewards for your trainings!Stopwatch and countdown timer for various trainings. Interval Training Timer is an invaluable tool for all interested in workout and training. It doesn\'t matter whether you run, use it for cycling, sprint, tabata, weightlifting, hiit, cardio, boxing or martial arts. Suitable also for lot of "home trainings" like the ones found on bodyrock.tv! It can also fully substitute your Gymboss interval timer or other timers you\'d otherwise need to carry in gym! The best thing is that this app is always with you, because it\'s on your phone. You can always set your own training schedule with number of rounds, ready, round, rest and relax times. Before exercise you can set up preparation time with ready time and after you finish use relax time for cooldown. Import, Export, Download and Upload your training plans! http://itimer.info - This site is a great addition to Android app itself. You can find here all the information about Interval Timer, some tips & tricks, all the user uploaded training plans and many more. Check it out after you\'re done with your workout.Interval Training Timer:- Logs your trainings- Gives you awards as you workout- Allows you to set own sounds, vibrations and colors- Is ready for import and export of your exercises, stats and awards to SD card- Allows you to download and upload the trainings to the Internet- And share them with the world!- Combine various trainings into one long session in Extended TrainingTip: If you hear the counter through the external speakers even when the headphones are plugged in - you can always go to the preferences and un-check the "Use alarm volume". !!Tip: If your background music is disrupted with every sound timer makes, you just have to disable "use alarm volume" in optionsPLEASE SEND ME AN EMAIL FROM APP IF YOU HAVE ANY PROBLEMS WITH IT. I CANNOT REPLY TO COMMENTS!If you are willing to help me translate this app into your language, send me an email ;)Free AD supported version!Recent changes:2.2.2 - Fix of double countdown problem2.2.1  - Translation to Swedish thanks to Jenny Sihvonen2.2.0  - Pocket Change included - get real rewards for your trainings!2.1.1  - Translation to Dutch thanks to Milan. Now you can choose system notifications as timer\'s sounds.'
+p4
+tp5
+tp6
+.

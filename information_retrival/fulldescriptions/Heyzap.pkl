@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Heyzap '
+p1
+tp2
+(S'Description:'
+p3
+S'Join millions of gamers on Heyzap today. Instantly connect with other players, compete for high scores, discover the best new games, and share your favorites with friends.Cool Features:\xe2\x98\x85 Need more neighbors for your farm or mobsters for your gang? Find tons of buddies for any game with the Play Friends feature!\xe2\x98\x85 Get and share tips. Receive the wisdom of players who came before you!\xe2\x98\x85 Earn awesome gaming badges by playing your favorite games.\xe2\x98\x85 Launch games 10x faster. All your games are conveniently grouped in Heyzap\xe2\x80\x99s \xe2\x80\x9cPlay\xe2\x80\x9d tab. \xe2\x98\x85 Discover the absolute best games on Android.Join the largest network of mobile gamers and play with millions of other Heyzappers!Privacy: Heyzap allows users to share personal information such as name, photos, location, and to connect to social networks like facebook and twitter.  The Heyzap service cannot be used by anyone under 13 years of age.  See more info on our privacy policy at http://www.heyzap.com/legal/privacyRecent changes:\xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85 - Minor bug fixes.'
+p4
+tp5
+tp6
+.

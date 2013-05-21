@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Amazon Mobile Launcher '
+p1
+tp2
+(S'Description:'
+p3
+S'The Amazon Mobile App Launcher Icon will launch you directly to the Amazon.com site using a simple to use Bookmark / Shortcut.'
+p4
+tp5
+tp6
+.

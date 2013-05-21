@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'chomp SMS emoji add-on '
+p1
+tp2
+(S'Description:'
+p3
+S'This is an add-on to the chompSMS application that allows you to easily insert emoji icons into your messages. Choose from over 800 of them!!!*** Now supports Apple iOS 6 emoji icons ***Once installed, how do I access the emoji icons in chompSMS?* Use the (+) button in the chompSMS application when composing a message.* Use the [+Add] button in Quick Reply & Quick Compose. Note: When sending emoji icons, the receiving party typically needs a smartphone device in order to see them, otherwise they will just see empty square icons.Recent changes:* Improved Emoji handling'
+p4
+tp5
+tp6
+.

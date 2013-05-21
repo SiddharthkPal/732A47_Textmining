@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quick Heart Rate Monitor '
+p1
+tp2
+(S'Description:'
+p3
+S'Quick-HRM(Quick -Heart Rate Mointor)Now you can check your heart rate, in real time, with your smart phone.You can see your heart rate, so quickly, precisely and simply.Any complex connection process is not required with any device, for using Quick-HRM.Download and find, now, how it is simple. You\xe2\x80\x99ll then find out how it is easy. This application will be upgraded continuously, and has been developed for users to be convenient.This is for you!!Features1. Real-time heart rate measurement (Pay version: 7sec required for measurement, fastest speed in the World)2. Management of the history of heart rates, and of the number of measurement3. Automatic functions of recognition of heartbeat signal, and of measurement4. Sharing measured information through Twitter and Face book5. Reliable measuring resultsPurposes of use1. Checking user\xe2\x80\x99s heart rate in real-time2. For whom needs continuous monitoring of heart rate and management of record history3. For whom wants to check exercise level and strength4. For whom needs fitness and health managementHow it works?After illuminating the light from smart phone flash, the change of light is to be recognized by the application, by which the heart rate of user is detected (PPG mechanism / medical pulse oximeters)'
+p4
+tp5
+tp6
+.

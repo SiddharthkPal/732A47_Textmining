@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Camera MX '
+p1
+tp2
+(S'Description:'
+p3
+S'Get creative with your camera - combine effects and photo frames live in the camera. Optimize and edit your best photos and share them with friends on Flickr, Facebook and Twitter. Add an extra something to your photos by presenting them in animated photo slideshows with your favorite music.Camera MX is free. You can unlock an effect package that gives you even more creative possibilities for only $0.99 (\xc2\xa30.79): Stunning effects (HDR, TiltShift & Little Planet), awesome frames and overlays and the functionality to trim your videos and keep only the best parts.What the press has to say:androidcentral.com (03/02/2012)"The ability to add real time effects to the pictures as you are about to take them would be amazing, and that is where MAGIX Camera MX steps up to the table in a big way."CAMERA MX CAN...TAKE PHOTOS & VIDEOS:+ More than 20 customizable realtime photo effects: Vintage Lomo, Color Splash, Pop Art, Black & White, Sepia etc.+ Combine photo effects, looks and borders while taking photos+ Take cool videos of any length+ Take amazing photos of yourself using the self-timer for the front and back camera+ Never miss awesome snapshots thanks to the Quickstart iconEDIT PHOTOS & VIDEOS+ A complete photo studio: Image Editing with Auto optimization, brightness, contrast, saturation, rotation, white balance etc.+ Present your photos as animated slideshows complete with a background musicORGANIZE & SHARE+ Share your edited photos on Facebook, Flickr and Twitter+ Display your photos on maps using GPS data+ Full overview of your photos and albumsCompatible from Android 2.2 FroyoFollowing languages available: English, German, Spanish, French, Italian, Dutch and TurkishRecent changes:Patch 2.1.5:- fixed effect preset compatibility issues which came with the previous update - you should now have access to all your created presets again! In case you recreated them: you can delete your effect presets via long click on them.Patch 2.1.4:- the elapsed time since video recording was started is now displayed- fixed some problems with the date stamp in the photos exif informations- fixed "save original"- fixed a bug which sometimes led to crashes when deleting photos/videos'
+p4
+tp5
+tp6
+.

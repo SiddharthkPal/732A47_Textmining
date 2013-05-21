@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Relax and Sleep '
+p1
+tp2
+(S'Description:'
+p3
+S"* Notice *Please read the FAQ before commenting/rating - your issue is probably listed here with a solution! The Q&A is BELOW. (click more and scroll down)* About *Choose from a list of 35+ ambient sounds which include thunder, lightning, stopwatch, white noise, ocean, sea, birds, rain, crickets and other bugs, frogs, water, airco and other mechanical noises, nature... and many more.Change the independent track volumes and create your own unique relax melody!* Features *- Custom Presets- Count Down counter- Alarm Clock (with SleepBot)- Fade Out and much more..* Faq *Q: Something doesn't work or force closes!A: Instead of rating us low, please send us an email with some information about your device and the problem. We will try our best to solve it.Q: Why does relax and sleep need the 'read phone state' permission?A: To mute Relax and Sleep when an incoming call is detected, this permission is needed.Q: Some sounds won't work / the list has sounds checked that do not work?A: Please uninstall the application and download/install it again from the market, this will solve the issue.Q: Is there SD Card support?A: Yes there is. Go to Settings->Applications->Manage Applications and choose Relax and Sleep. A 'Move To SD' card button is there waiting to be pressed.Q: Can i set my own alarm sound?A: This is only possible with the plus expansion, click on menu,preferences and read the instructions for more information.Q: Can i add my own sound?A:This is only possible with the plus expansion, click on menu,preferences and read the instructions for more information OR you can send us an email with your request and we will add it to our wish-list for a future release.Recent changes:- updated UI for newer devices (holo theme)- fixed the alarm clock issue- added support for more plus features"
+p4
+tp5
+tp6
+.

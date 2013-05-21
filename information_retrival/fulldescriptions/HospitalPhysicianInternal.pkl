@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hospital Physician \xc3\xa2\xe2\x82\xac\xe2\x80\x9c Internal '
+p1
+tp2
+(S'Description:'
+p3
+S'Hospital Physician Internal Medicine Hospitalist Board Review ManualBy: Turner White Communications, Inc.Description:Prepare for ABIM certification/recertification in Internal Medicine or Hospital Medicine on the go with the help of the Hospital Physician Internal Medicine Hospitalist Board Review Manual app. This mobile application gives you full-text access to the Hospital Physician Internal Medicine Hospitalist Board Review Manual on your Android phone, allowing you to read and prepare wherever you are. The Hospital Physician Internal Medicine Hospitalist Board Review Manual is a quarterly peer-reviewed publication designed to help physicians and residents prepare for the ABIM certification/recertification examination in Internal Medicine and Hospital Medicine. Each manual consists of a clinical review article focused on a topic area in which internists and hospitalists should demonstrate a high level of competence as well as board-style study questions for self-assessment in that topic area. With the free Hospital Physician Internal Medicine Hospitalist Board Review Manualapp, you will:- Receive free access to all manuals available in the current volume - Receive alerts letting you know when a new manual is available- Be able to share board review articles with your colleagues Hospital Physician has been publishing the Hospital Physician Board Review Manual series of specialty journals for over 18 years, making it a proven and trusted source for board review study material.____________________About GTxcel  This application is powered by GTxcel, a leader in digital publishing technology, provider of hundreds of online digital publications. Check the Google Play store for more apps from your favorite magazines!'
+p4
+tp5
+tp6
+.

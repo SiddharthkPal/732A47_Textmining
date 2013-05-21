@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dryad(Go Launcher Super Theme) '
+p1
+tp2
+(S'Description:'
+p3
+S"Preview the full version and upgrade, please click the fairy at the edge of the screen!If you want Dryad Super Theme Full Version, you can choose upgrade to full version by:1. Pay with IAP ( In app purchase ) 2. Get it for free with Getjar Gold(Super Theme effects only available on GO Launcher EX v3.19 or above. If you haven't see the effects, please update your GO Launcher to the newest version. Thank you! )Here comes our new Super Theme on GO Launcher EX!Dynamic visual effects of touching, sliding, pressing and shaking.Amazing animation effects adding more fun to your smartphone!#Full version:The complete Dryad Super Theme, only $3.99 now!Adding more features! Once upgrade to full version, you can get butterfly with 2 types, 2 more clock types, new animation when pull down the clock, more customization with fun!#TipsSuper Theme must be used on GO Launcher EX v3.19 or above.#IntroductionDryad GO Launcher EX Super Theme, specially designed for GO Launcher EX, provides amazing visual effects, delicate app icons, wallpapers, folder and app drawer interface. Get it right now and have a completely new makeover of your Android smartphone.#Notice1.Super Theme effects is only available for phones with GO Launcher EX V3.19 or above. Search \xe2\x80\x9cGO Launcher EX\xe2\x80\x9d on Google Play Shop and install it for free.2.If you've installed the elder version of this theme, try to restart the Launcher after the installation.3.If you've got any problems on this theme, try to restart the launcher or re-apply this theme. If the problem is still unsolved, please send us feedback.***How to Apply the ThemeMenu>Theme, choose a theme you like and apply it to your phone.***How to Change Wallpaper Click Menu>Wallpaper, and select the wallpaper you like.***How to Change App Icons(Some devices might not automatically apply the icons)Long press some app icon>Replace>Theme\xe2\x80\x99s icon, and then choose the icon you like.Thank you for your continued support. Feel free to contact us if you have any problems or suggestions.Recent changes:(Fix) one bug may cause some types of device crash"
+p4
+tp5
+tp6
+.

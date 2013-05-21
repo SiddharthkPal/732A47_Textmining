@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO SMS PRO AiBlue ThemeEX '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a premium theme but free to download.  you may1.Pay with IAP ( In app purchase ) 2.Get it for free with Getjar Gold\xe2\x9d\xa4How to use this theme:1. After downloading and installing this theme, go to Application Center -> Theme Store -> Installed -> choose your theme -> Apply2. Choose pay with Google Checkout or Free with Getjar Gold.3. If you choose Getjar Gold, there will be several apps listed, just download some apps to earn gold and then purchase with Getjar Gold4. After purchase, select Installed -> choose the theme -> Apply5. Enjoy your theme and pay attention to our productsCopyright 2004-2012 3G.cn All Rights Reserved'
+p4
+tp5
+tp6
+.

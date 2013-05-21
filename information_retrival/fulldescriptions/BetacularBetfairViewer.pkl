@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Betacular Betfair Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'Follow the odds on Betfair markets as your favourite sporting event unfolds. Anytime and anywhere!Shows prices for football, tennis, horse racing, cricket and many more sports.Note: This is the view-only version of our Android betting app; In compliance with the Android Market content policy, the version offered here does not contain any actual betting functionality.'
+p4
+tp5
+tp6
+.

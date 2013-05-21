@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HD Video Player Free '
+p1
+tp2
+(S'Description:'
+p3
+S"HD Video Player is the best video player and mp3 music player for Android. Watch tv shows, movies, music videos as well as locally stored FLV and SWF flash video files. (You don't need to install Adobe Flash Player Plugin.)HD Video Player can handle all popular video and audio formats including:Video: mp4, wmv, avi, mkv, dv, rm, mp, mpeg, flv, divx, swf, dat, h264, h263, h261, 3gp, 3gpp, asf, mov, m4v, ogv, vob, vstream, ts.Audio: mp3, wma, ogg, mp2, flac, aac, ac3, amr, pcm, wav, au, aiff, 3g2, m4a, astream. It saves your time and disk space to transcoding or format converting. Just put your video on sdcard or click the URL in browser to watch it.Support sub: srt, ass, ssa, sub,txt, utf, smi, rt,aqt, jss, js, utf8, utf-8.It load external subtitle with same name of video automatically and support .m3u playlist.Recent changes:Fixed bug hangs while scanning for video/audio filesSupport set HD Video Player to default player"
+p4
+tp5
+tp6
+.

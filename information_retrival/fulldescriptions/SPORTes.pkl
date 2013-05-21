@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SPORT.es '
+p1
+tp2
+(S'Description:'
+p3
+S'Por fin el diario SPORT.es en tu Android,el peri\xc3\xb3dico deportivo l\xc3\xadder en informaci\xc3\xb3n del FC Barcelona. Todas las noticias del Bar\xc3\xa7a y del mundo del deporte en general, al momento.Recent changes:Versi\xc3\xb3n 2.0.2\xe2\x80\xa2 Peque\xc3\xb1os cambios en la interfaz, como una tipograf\xc3\xada mejor\xe2\x80\xa2 Correcci\xc3\xb3n de bugs\xe2\x80\xa2 Mejora de las notificaciones. Ahora soporta las notificaciones expandibles de Android Jelly Bean\xe2\x80\xa2 Mejoras en el rendimiento y fluidezVersi\xc3\xb3n 2.0\xe2\x80\xa2 \xc2\xa1Nueva y mejorada interfaz, m\xc3\xa1s moderna y c\xc3\xb3moda!\xe2\x80\xa2 Mejora en el rendimiento general de la aplicaci\xc3\xb3n.\xe2\x80\xa2 Galer\xc3\xada de V\xc3\xaddeo e Im\xc3\xa1genes\xe2\x80\xa2 Notificaciones de noticias importantes (Android 2.2 o superior)\xe2\x80\xa2 Resultados de la liga, champions ...'
+p4
+tp5
+tp6
+.

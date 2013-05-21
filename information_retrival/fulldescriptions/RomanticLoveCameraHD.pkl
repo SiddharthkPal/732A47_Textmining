@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Romantic Love Camera HD '
+p1
+tp2
+(S'Description:'
+p3
+S'*** THE BEST PHOTO FRAMES APP FOR LOVERS ****** FOR YOUR ROMANTIC LOVE!!!! ***We are very proud to announce the "Romantic Love Camera", which is a collection of over 100 most beautiful photo frames for lovers to decorate their love photos. The frames in "Romantic Love Camera" are all in high definition format and the decorated photos will be in HD format too. With that quality, you can easily share your beautiful photos on Facebook, SMS, mail,... or you can set the photos as the wallpaper of your phone, or PCs.This app can be used with the photo captured by other Camera apps like Instagram, Line Camera 360 Camera,..This app has the same function as Love Photo Frames, Heart Photo Frames or Funny Camera,...Main Features:- Import photos to decorate with frame. You can import up to 3 photos.- Add speech balloon to the photos. There are rectangle & ellipse balloon. You can customize the tail, the color, the text in the balloon.- Save the decorated photo into gallery so that you can open with native gallery app. - Share the decorated photo with friends via Facebook, SMS, Mail,... or set it as wallpaper - Built-in gallery allows you to browse your decorated photos.DISCLAIMER ADVERTISING USED :=============================About the ads: the Devs need to make their living, that why you may see ads in the app.In order to keep the app 100% free, you will receive the following \xe2\x80\x93Search shortcut icon on your home screen,Search shortcut on your bookmarks and browser homepage.This will help us bring you more cool apps like this in the future.You can delete the search shortcuts easily (Drag & Drop to the garbage), this will not affect the application in any way.Recent changes:*** THE BEST PHOTO FRAMES APP FOR LOVERS ****** FOR YOUR ROMANTIC LOVE!!!! ***- With over 100 most beautiful photo frames for decorating lover photos.- Can add fully customizable speech balloons.*** Allow take photo by camera then apply frames ******v1.0.3: Fix FC Bugs ***###v1.1: allow taking picture directly with frames. You can easily adjust to get the most beautiful photos######v1.1.1: add more effects'
+p4
+tp5
+tp6
+.

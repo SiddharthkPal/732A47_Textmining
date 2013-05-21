@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NHL GameCenter\xc3\xa2\xe2\x80\x9e\xc2\xa2 '
+p1
+tp2
+(S'Description:'
+p3
+S"NHL GameCenter\xe2\x84\xa2 is the official app from the National Hockey League.  It is the only hockey app that lets you watch out-of-market games live, see in-game highlights and stream live game audio.   NHL GameCenterTM Features include:\xe2\x80\xa2\tLive Scores and Stats for Every Team and Player\xe2\x80\xa2\tLive Game Simulation with Near Real-Time Shift Changes, Boxscore, and Play-by-Play\xe2\x80\xa2\tPost-Game Video Highlights\xe2\x80\xa2\tVideo on Demand Content Including Videos from your Favorite Teams and the Best Selections from NHL Editors\xe2\x80\xa2\tFull Season Schedule and Standings\xe2\x80\xa2\tCustomized Game Alerts\xe2\x80\xa2\tPlayer Profiles with Headshots, Bios and Stats for all Active NHL Players\xe2\x80\xa2\tCustomize up to 5 Favorite Teams Upgrade to NHL GameCenter\xe2\x84\xa2 Premium** for:\xe2\x80\xa2\tLive Radio Broadcasts (home and away)\xe2\x80\xa2\tIn-Game Video Highlights\xe2\x80\xa2\tCondensed Game ReplaysOne-time fee of $4.99 for access to the entire 2012-13 seasonUpgrade to NHL GameCenter LIVETM for:\xe2\x80\xa2\tLive Out-of-Market Game Video (home and away)\xe2\x80\xa2\tAccess on Multiple Devices*\xe2\x80\xa2\tAll NHL GameCenter\xe2\x84\xa2 Premium Content*Access for current NHL GameCenter LIVETM subscribers is available for no additional charge, simply log in with an existing username and password. ** Verizon Tablet and Verizon 4G LTE customers will get access to NHL GameCenter\xe2\x84\xa2 Premium and other exclusive content for FREE! Exclusive Verizon content includes:\xe2\x80\xa2\tLive NBC National Games\xe2\x80\xa2\tNBC\xe2\x80\x99s Inside the Glass\xe2\x80\xa2\tLive Streaming of NHL On The FLYTM\xe2\x80\xa2\tOther Exclusive Video On DemandRecent changes:What's New:Follow the Stanley Cup Playoffs with NHL GameCenter.  Playoff update includes:   - Series-by-Series breakdowns and analysis   - Don't forget to watch free post-game video highlights for every Playoff game"
+p4
+tp5
+tp6
+.

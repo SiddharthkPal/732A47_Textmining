@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Quicken Money Management '
+p1
+tp2
+(S'Description:'
+p3
+S'Quicken is the free companion app to Quicken 2013 for Windows. The Quicken app syncs your Quicken 2013 desktop information to your Android mobile and tablets, so you can make smart decisions about your money no matter where you are. With nearly 30 years of helping people reach their financial goals, Quicken is the best cash flow and budgeting tool to help you reach yours too. KNOW WHERE YOU STAND.\xe2\x80\xa2 Automatically syncs your desktop and mobile data, so you\xe2\x80\x99ll always have a clear financial picture.  \xe2\x80\xa2 View balances and transactions. Know what\xe2\x80\x99s going on with your checking, saving, credit card, and manual accounts. \xe2\x80\xa2 Automatically pulls in your budgets. Track expenses and see what you have left to spend.\xe2\x80\xa2 Easy-to-understand graphs show a clear picture of where your money is going. (Tablet-only.)\xe2\x80\xa2 Manually add transactions at the time of purchase to keep your balances up-to-date.\xe2\x80\xa2 Split transactions for an accurate view of spending. \xe2\x80\xa2 Get alerts sent to your mobile device. Stay on top of changes to your accounts.\xe2\x80\xa2 Create a customized widget. View account balances, transactions, and alerts the way you want on your Android home screen. \xe2\x80\xa2 View information from your last sync, even if you\xe2\x80\x99re not online. STAY SAFE AND SECURE.\xe2\x80\xa2 Proven encryption technology.\xe2\x80\xa2 Partners with TRUSTe and VeriSign for layered security.     \xe2\x80\xa2 Passcode protected. Only you can view your information. \xe2\x80\xa2 Deactivate the app at any time through Quicken on your desktop.REMINDER.To use this app, you must have Quicken 2013 for Windows software: Starter Edition, Deluxe, Premier, Home & Business, or Rental Property Manager.Recent changes:NEW:\xc2\xb7  Split manually added transactions, in addition to your auto-downloaded transactions\xc2\xb7  View Ending Balances and Available Credit amounts on tablets, just like on smartphones\xc2\xb7  Supports transactions with blank payee names FIXES/UPDATES:\xc2\xb7  Improved rounding calculations between app and Quicken desktop\xc2\xb7  Improved balance reflections between mobile and desktop  \xc2\xb7  Addressed deleted and duplicate transaction errors\xc2\xb7  Easier syncing from Quicken desktop\xc2\xb7  Plus, other squashed bugs'
+p4
+tp5
+tp6
+.

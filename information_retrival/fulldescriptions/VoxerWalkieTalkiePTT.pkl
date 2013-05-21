@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Voxer Walkie-Talkie PTT '
+p1
+tp2
+(S'Description:'
+p3
+S"Voxer\xc2\xae is more than just a Walkie-Talkie.Voxer allows you to easily and instantly communicate with one friend or a group of friends. Friends can listen to your message while you talk, or check audio messages later.Forget about separate phone calls, voicemails, text messages and emails. With Voxer you can instantly send audio, text, photos, and share your location.Join the tens of millions of people worldwide who are using Voxer to:\xe2\x98\x85 Enjoy free, live Walkie Talkie - PTT (Push To Talk)\xe2\x98\x85 Talk with friends on Android and iPhone\xe2\x98\x85 Send voice, text, photos and location messages\xe2\x98\x85 Play messages back later - they're all recorded\xe2\x98\x85 Chat with one friend or with a group\xe2\x98\x85 Create messages even when offline\xe2\x98\x85 Get notifications for new messages\xe2\x98\x85 Avoid annoying advertisements\xe2\x98\x85 Use any connection including WiFi, 3G, 4G, EDGE\xe2\x98\x85 Play voice messages faster at 2x or 3x speed\xe2\x98\x85 Connect with Facebook friends*** NY Times review, September 5th, 2012, \xe2\x80\x9cLadies and gentlemen, we have a winner. Voxer is free. It\xe2\x80\x99s for both Apple and Android devices. It\xe2\x80\x99s packed with features. And it\xe2\x80\x99s self-explanatory.\xe2\x80\x9d - David Pogue****** CNET review, January 8th, 2013, \xe2\x80\x9cThis is our favorite way to communicate quickly\xe2\x80\x9d ***Voxer turns your Android device into the ultimate PTT (Push To Talk) real-time Walkie Talkie.\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81\xe2\x94\x81Any questions?\xe2\x98\x85 Like us on Facebook @ fb.com/voxer\xe2\x98\x85 Follow us on Twitter @ twitter.com/voxer\xe2\x98\x85 Check out support.voxer.com\xe2\x98\x85 Send us your feedback directly from Voxer. Tap Settings -> Support -> Send feedbackRecent changes:* Bug fixes and performance improvements."
+p4
+tp5
+tp6
+.

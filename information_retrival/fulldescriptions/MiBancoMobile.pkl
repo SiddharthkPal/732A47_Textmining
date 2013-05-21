@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mi Banco Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'For those on the go: an improved Mi Banco Mobile user experience customized for Android\xe2\x84\xa2 users.Mi Banco Mobile app gives you immediate and secure access from your mobile device. To use this app you must enroll to My Online Bank @ www.popular.com/mibanco.Manage My Online Bank accounts from your Android device. Just install the app and sign in with your username and password. Available for all Popular customers enrolled in My Online Bank.ON THE GO BANKING \xe2\x80\xa2 24/7 access to your accounts and balances \xe2\x80\xa2 Manage your finances\xe2\x80\xa2 See your account activity including transactions from the last 18 months\xe2\x80\xa2 View and pay your e-Bills and bills. \xe2\x80\xa2 Make transfers FEATURES\xe2\x80\xa2 Remember amounts \xe2\x80\xa2 Calendar display for e-Bills and schedule payment\xe2\x80\xa2 Save receipts\xe2\x80\xa2 Locator | Find ATMs and branches nearby\xe2\x80\xa2 Contact us for support SECURITYWe protect your information - Accounts are protected by 128-bit encryption, as they are when you bank online.'
+p4
+tp5
+tp6
+.

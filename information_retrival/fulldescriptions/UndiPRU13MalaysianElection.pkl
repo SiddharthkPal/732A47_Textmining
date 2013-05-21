@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Undi PRU13 Malaysian Election '
+p1
+tp2
+(S'Description:'
+p3
+S'Dewan Rakyat has been dissolved! Paving the way for the 13th general election. Want to know where is a constituency located? What constituency nearby?Want to recall who represent you in Parliament (Parlimen) and State Assembly (Dewan Undangan Negeri)?Want to know all the previous election results since March 2008 election?Want to take a look how is the political parties doing previously?Want to set reminder on the coming \xe2\x80\x98Ceramah\xe2\x80\x99 events?Want to receive alerts & updates for interested areas?Want to \'Semak\' voter registration (Semakan Daftar Pemilih)?It is ALL inside this \'Undi PRU13\' app.Stay tune for content updates and more features are coming as the parliament dissolves, nomination starts and election campaigns on the go.- All 727 constituencies info are included and their locations are tagged.- All incumbents tagged with their parties.- Flexible search on ANY key word like name, constituency id, party name, state, Parliament / DUN- All election results (include by-elections) since GE/PRU 12 are nicely group into 14 states/territories.- Share result / news / info via Facebook / Twitter / Email and much more ...- \'Smart Cache\', information is accessible during offline, and update automatically when internet available. - Quick link to SPR \'Semakan Daftar Pemilih\' and various related parties.Information mainly compiled from SPR and Wikipedia.Please help to feedback on data error / GPS error / suggestions by in-app report function.Download the app now and share with your friends.Featured on printed media:"Apps to keep you posted during 13th GE""Up-to-date information: With Undi PRU13, all that is needed to know will be at users\xe2\x80\x99 fingertips."http://elections.thestar.com.my/story.aspx?file=/2013/3/27/central/12887670#.UVvxKhkgMwkkeywords:undi, malaysia, pilihan raya, parlimenRecent changes:Ver 2.3:1. Fix notification, properly exit and bug fixes.2. Add more party symbols.Ver 2.2:1. New server, save data usage and faster!2. Fix SPR link, notification display, and others.Ver 2.1:Program optimization and bug fixes.Ver 2.0:1. Improve Map View, Parliament\'s Markers are now larger than DUN\'s.2. Summary with Charts and Tables using swipe.'
+p4
+tp5
+tp6
+.

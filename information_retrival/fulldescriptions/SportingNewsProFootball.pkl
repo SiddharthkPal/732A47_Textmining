@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Sporting News Pro Football '
+p1
+tp2
+(S'Description:'
+p3
+S'NFL fans: Stay on top of team news, schedules, standings and real-time scores with Sporting News Pro Football.  Customize for news & alerts for your favorite teams and stay in the know on the go.Recent changes:This version features an updated design; major improvements in stability & content; and improved rendering on newer, higher resolution devices & tablets.'
+p4
+tp5
+tp6
+.

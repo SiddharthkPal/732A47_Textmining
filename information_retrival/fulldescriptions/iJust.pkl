@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'iJust '
+p1
+tp2
+(S'Description:'
+p3
+S"Find friends, see what's going on, or Just show off!iJust is a great way to show the world what you're doing and see what others are up to JUST now.You can rate and comment on photos, see who's nearby, meet new people, request to join them, and more!Whether you just want to show off, find friends, see what's happening, or you're just bored... iJust is for you!Recent changes:- Fixed camera and gallery crashing- Added picture cropping and rotating features- Notification settings- Various bug fixes"
+p4
+tp5
+tp6
+.

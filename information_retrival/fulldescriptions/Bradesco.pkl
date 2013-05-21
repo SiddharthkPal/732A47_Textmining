@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bradesco '
+p1
+tp2
+(S'Description:'
+p3
+S'Com o Aplicativo Bradesco voc\xc3\xaa pode acessar a sua conta, consultar saldos e extratos, fazer transfer\xc3\xaancias, solicitar cheques, empr\xc3\xa9stimos, fazer recarga de celular e at\xc3\xa9 comprar e vender a\xc3\xa7\xc3\xb5es. E ao fazer pagamentos de boletos banc\xc3\xa1rios, contas de \xc3\xa1gua, luz, telefone, g\xc3\xa1s e tributos, voc\xc3\xaa conta com o Leitor de C\xc3\xb3digo de Barras.  Basta acessar a conta, escolher o tipo de pagamento e, em seguida, clicar no \xc3\xadcone da c\xc3\xa2mera para capturar o c\xc3\xb3digo de barras, que ser\xc3\xa1 preenchido automaticamente sem que voc\xc3\xaa precise digit\xc3\xa1-lo.Chave de Seguran\xc3\xa7a Bradesco \xe2\x80\x93 CelularA Chave de Seguran\xc3\xa7a pode ser ativada no seu celular e substitui a sua Chave atual. Ela \xc3\xa9 usada para autorizar as transa\xc3\xa7\xc3\xb5es feitas nas m\xc3\xa1quinas de Au\xc2\xactoatendimento, Fone F\xc3\xa1cil, Internet Banking e tamb\xc3\xa9m nas transa\xc3\xa7\xc3\xb5es feitas por meio do pr\xc3\xb3prio celular. Para ativ\xc3\xa1-la, basta ligar para o Fone F\xc3\xa1cil ou ir at\xc3\xa9 a sua Ag\xc3\xaancia. \xc3\x89 mais pr\xc3\xa1tico e c\xc3\xb4modo.Recent changes:- Atualiza\xc3\xa7\xc3\xa3o da Rede de Atendimento- Corre\xc3\xa7\xc3\xb5es e melhorias'
+p4
+tp5
+tp6
+.

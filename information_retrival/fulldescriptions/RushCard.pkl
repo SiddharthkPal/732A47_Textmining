@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RushCard '
+p1
+tp2
+(S'Description:'
+p3
+S"Check your balance, view transactions and transfer money with the RushCard app. It\xe2\x80\x99s free, secure and makes it simple to manage your money from anywhere! MANAGE YOUR RUSHCARD\xe2\x80\xa2Check your balance\xe2\x80\xa2View your transaction and transfer historyTRANSFER MONEY\xe2\x80\xa2Send money to anyone else with a RushCard\xe2\x80\xa2Transfer money between your own personal cards\xe2\x80\xa2Bump phones with another RushCard app user to exchange contact information\xe2\x80\xa2Search for transfer contacts from your phone's contact list\xe2\x80\xa2Browse your complete list of transfer contactsSAFE AND SECURE\xe2\x80\xa2Log in securely with the same Username and Password you use on rushcard.com or with a unique passcode that you set upIf you don\xe2\x80\x99t have a Prepaid Visa\xc2\xae RushCard already, you can apply for one today at www.rushcard.com.Recent changes:New Add Money screens allow you to:\xe2\x80\xa2 Load a MoneyPak to your RushCard\xe2\x80\xa2 Access the information needed to set up direct deposit and email or fax the information directly to your employer\xe2\x80\xa2 Find instructions on how to load cash to your card1.4.1 - Bug fix for high resolution phones1.4.2 - Bug fix for ZTE Score1.4.2.1 - Minor bugfix"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HD Live Channel '
+p1
+tp2
+(S'Description:'
+p3
+S'!!!Beta Version - in progress!!!Using HD Live Channels you can watch over 100+ TV channels for free directly from your mobile phone, tablet using a 3G or Wi-Fi connection. HD Live Channels features global brands.It has over 20 of the world\xe2\x80\x99s top music channels to watch, It has the greatest Fashion channel line-up of any television provider on the planet, It has the best selection of Bollywood channels that you can watch for free.Recent changes:Beta Version Launched'
+p4
+tp5
+tp6
+.

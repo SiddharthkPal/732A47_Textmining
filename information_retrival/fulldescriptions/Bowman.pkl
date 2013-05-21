@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bowman '
+p1
+tp2
+(S'Description:'
+p3
+S"Shoot your friend or he'll shoot you back!You are a big fan of archery and one day one of your best friends visit you and you wanna know who is better at shooting. So there must be a match,however,this match is not that easy to win or lose,if you lose the game,you might also lose your life,it's a matter of LIFE AND DEATH!!Bow Man Archer is a game of skill. Practice your archery skills, or try and kill your friend in a 1 on 1 match! This game is classic archery skilled game and it's totally free,enjoy this game!HOW TO PLAYTAP and drag to shoot.Recent changes:fix a fc bug"
+p4
+tp5
+tp6
+.

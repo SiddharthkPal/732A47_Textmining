@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'All-In-One Toolbox(19 Tools) '
+p1
+tp2
+(S'Description:'
+p3
+S"All-In-One Toolbox provides comprehensive system optimizing techniques, including real-time memory info, one click memory quick boosting, task killer, cache cleaner, history cleaner, and SD file manager etc. It embraces all factors that matter to device performance, and helps to optimize your device to run at optimum speed.Homepage: http://www.downloadandroid.infoSupported language: English, Korean, Japanese, Traditional Chinese, Simplified Chinese, French, Arabic, Spanish, and Indonesian.All-In-One Toolbox - Editor's Pick from AppEggs.com, Featured Android Tools from AppBrain.comProduct features:1. Apk Cleaner2. Backup & Restore 3. Homescreen shortcut4. Memory status report (RAM, ROM, SD Card memory and CPU) 5. System information 6. One-click task killer 7. Cache cleaner 8. History cleaner (clipboard, browser, Market, Gmail search, Google Maps, Google Earth history) 9. Call log and messages cleaner 10. SD Card temporary file cleaner 11. App to SD Card 12. SD Card file manager 13. Batch installer 14. Batch uninstaller 15. Startup manager 16. Add app to startup 17. Homescreen widget18. Quick Settings plugin19. Volume Settings pluginHIGHLIGHTS-EASY TO USE*Simple and interactive user interface*Tweak all system optimizing features at ease-ALL IN ONE*Embrace all system optimizing techniques*Comprehensive one-click optimization-FREE*Free of chargeFor more information about All-In-One Toolbox, please visit our website: http://www.downloadandroid.info.Kw: toolbox, all-in-one toolbox, all-in-one tool, all-in-one tool box, all-in-one tools, memory, ram, booster, optimize, boost, optimization, task killer, task manager, atk, taskiller, memory booster, ram booster, battery, save battery, battery booster, system manager, process kill, speed up, system speed, app killer, system panel, memory cleaner, android booster, android optimizer, cache cleaner, history eraser, call log cleaner, message cleaner, app2sd, SD file manager, installer, uninstaller, startup manager, quick settings, volume settings, pluginsRecent changes:-  Add Quick Settings plugin-  Add Volume Settings plugin-  Accelerate SD card cleaning speed-  Add send APK via Bluetooth feature in File Manager-  App2SD feature modification (Notify devices that do not support App2SD feature)-  Fix reported force close issues.Kind Reminder: Please contact us if you are a multi-language speaker, and are willing to help with the translation of our apps. Email: Support@downloadandroid.info"
+p4
+tp5
+tp6
+.

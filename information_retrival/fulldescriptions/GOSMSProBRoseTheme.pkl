@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO SMS Pro B-Rose Theme '
+p1
+tp2
+(S'Description:'
+p3
+S"***This app only works with GO SMS Pro.***Install GO SMS Pro free from the market first.***How to Apply the Theme:1.Please Do Not open directly after it's installed.2.Back to GO SMS main screen: MENU > Theme.3.Choose and apply the theme.Thanks for your support!"
+p4
+tp5
+tp6
+.

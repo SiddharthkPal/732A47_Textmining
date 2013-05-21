@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'i-Smart Viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'i-Smart Viewer is free application to realtime view of DVR systemFeatures of SMART DVR Viewer-Access to DVR -live monitoring : 1 / 4 Screen division-Capture the still image in the iPhone-Apply only to tibetsystem product===========================Tibetsystem Co., Ltd===========================Recent changes:Support for non-standard resolution'
+p4
+tp5
+tp6
+.

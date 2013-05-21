@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'All Video Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S'Want to download any video All Video Downloader is your app.All Video Downloader is the best app to download videos online from Internet to your Android phone.Download All Videos you will be able to download Video files such as MPK, AVI, MP4, AVI,flash media such as FLV, SWF, application files such as APK, and AUDIO, TEXT such as MP3, DOC, XLS, RAR, ZIPto your device from web.Download All Videos is easy, speed up to 5x times as reported by thread!This is free ad-supported version of Download All Videos.It automatically detects links from the Web browser, so you do not need to copy and paste them in the app. Download videos in parallel parts to increase and accelerate the download speed- Resume paused or broken downloads if it is supported by the website.- Pause, delete, cancel and restart downloads- Support for large file videos (over 2 GB)- Support different formats: MP4, 3GP, FLV, MOV, WMV, MKV, etc.- Run in background- Several videos may be downloaded simultaneously or in queue- Automatically detects the links from your Web browser- Open videos with your favorite media player- Support many languages: English, French, Spanish, etc.'
+p4
+tp5
+tp6
+.

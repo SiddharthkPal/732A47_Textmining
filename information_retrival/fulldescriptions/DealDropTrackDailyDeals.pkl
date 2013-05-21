@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Deal Drop - Track Daily Deals '
+p1
+tp2
+(S'Description:'
+p3
+S'Discover National (Woot!, Tanga, eBay...) and Local (Groupon, LivingSocial...) deals of the day. Get great Daily Deals with Deal Drop.------------------------- 8/10 WIRED Magazine App Guide"Awesome FREE app that will save you money on some cool stuff. 5 out of 5" - Crazy Mike\'s Apps "Really nice job" - iPad Today "Definitely worth downloading\xe2\x80\xa6 it is such a time saver" - The Happy Housewife Featured on Appolicious ------------------------- Deal Drop aggregates an ever growing list of 96 National and 138 Local deal sites in 133 locations so you don\'t have to. 6,570 Daily Deals for you to choose from. Woot, Tanga, Groupon, Living Social they are all here in 1 place.Wherever you are, get notified of the Daily Deals you are interested in, before they are sold out.Using an ad blocker? An ad blocker may prevent you from tapping through to the deals in Deal Drop. There\'s nothing funny going on, you\'re not going to see an ad, you\'ll be taken right to the site to buy. Deal Drop earns it\'s keep by using affiliate links so that it can earn a small percentage from what you buy. This keeps Deal Drop free for you.Affiliate CookiesWhen you tap on a Deal\'s buy or more button you will be taken to the deal via an affiliate link with an affiliate cookie.* Found a problem with Deal Drop? Send an email to android@getdealdrop.com * Unfortunately I cannot help you via a review.Deal Drop is a daily deal aggregation Android app that allows you to conveniently and quickly see what the current daily deals are. No need to go to each web site and check or boot up that PC as it\'s all displayed in Deal Drop on your Android device. What is a daily deal? woot.com started the trend by selling 1 item a day. Many other sites followed that idea such as buy.com newegg.com and many more.How does Deal Drop track the daily deals? Deal Drop conveniently displays a list of the current deals and allows you to tap through to the details and to buy or share.Recent changes:This update includes the top 2 user requested features.* Add category filters* Full refreshSuggest and vote on suggestions at http://dealdrop.uservoice.comHappy Deal Dropping!'
+p4
+tp5
+tp6
+.

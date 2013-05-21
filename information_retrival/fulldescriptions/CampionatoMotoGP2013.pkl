@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Campionato Moto GP 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S"Il campionato di moto gp 2013 aggiornato ad ogni gran premio con:  - Classifiche sia dei piloti che dei costruttori  - Circuiti con le info e gli orari delle prove, delle qualifiche e delle gare  - Piloti con le rispettive squadre, punti aggiornati e albo d'oro del pilota  - Team con immagini e piloti.Questo e molto altro ancora in questa app in continua evoluzione.Recent changes:Aggiunta di nuove statistiche sui piloti e circuiti"
+p4
+tp5
+tp6
+.

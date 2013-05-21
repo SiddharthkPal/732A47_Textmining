@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TSF Notepad Widget '
+p1
+tp2
+(S'Description:'
+p3
+S"TSF Notepad Widget is a 3D widgets of TSF Shell charateristics. It provides a transition animation. By clicking it you will access the drawing page, in which you can change the different pen styles. Features:========================1. 3D Widgets.2. It provides a transition animation.3. You can change the different pen styles in the drawing page.IMPORTANT========================1. This widget must be running on TSF Shell.TSF Shell link: https://play.google.com/store/apps/details?id=com.tsf.shell2. Please rate the app if you like it. If you have any questions or comments, please email us at: service@tsfui.com.Keywords & Tags: TSF Shell,TSF 3D Notepad Widget,TSF Notepad WidgetRecent changes:version: 1.0.31.fixed some bugsWhat's in this version:1. 3D Widgets.2. It provides a transition animation.3. You can change the different pen styles in the drawing page."
+p4
+tp5
+tp6
+.

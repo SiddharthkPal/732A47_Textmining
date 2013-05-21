@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medical Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S'This App gives quick and thorough access to medical knowledge and terminology. It provides definitions and web references for reading and research.Note: This is a free app. Enjoy!  Features:* Health & biomedical sciences are covered comprehensively. * Provides Definition & Pronunciation.* Includes number of standards used by the community.* Gives definitions along with web references of the terms.* Multi word queries /phrase queries.* voice search.As an example if you search for "Malignancy", you not only get definitions of the term but also pertaining web references. If it is out there on the web, we give you access to it.Who can use this and how?* As the name suggests, this is a medical dictionary and a reference.* It is a general purpose dictionary too. * It is very useful for medical students while they do literature review for various courses.Needs Internet access to connect to major online resources.Dreamz Technologies.http://dreamztechnologies.co.ccVisit us on Facebook:http://www.facebook.com/dreamztechnologiesKeywords: Medical Dictionary, Dictionary, General Dictionary, Dictionary and Reference Guide.Recent changes:**Now available on iPhone/iPad as Med Source**'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Night Vision Camera '
+p1
+tp2
+(S'Description:'
+p3
+S"This application maximizes your device camera in the dark! Automatic adjustment of image parts to improve visibility in low light conditions.We have just released Hill Climb Racing, it's one of the most entertaining and addictive FREE driving game made for android!Like us on Facebook and stay tuned for all new cool releases and updates: http://www.facebook.com/FingersoftFeatures: - Adjustable light sensitivity - Save images by a single button press - Control camera flash to maximize visibility - Supports front camera if available (requires Android 2.3+) - Can be used to create cool photos in well lighted situations also, try adjusting the light sensitivity!Known issues: - Image orientation is incorrect on some tabletsDisclaimer: Because phone cameras don't involve usage of infrared, final quality of night vision is determined by your phones camera. This app takes all out of it, so it's up to the device how well you can see in the dark. You can always use this app just for creating cool looking photos.If you have any issues with the application don't hesitate to contact us at support@fingersoft.net.-----------------------Automated translation:-----------------------Recent changes:1.1.5: Saved images are now orientated properly.1.1.4: Fixed front camera not working on many ICS devices."
+p4
+tp5
+tp6
+.

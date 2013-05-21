@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'DroidSoft.fr : bons plans et + '
+p1
+tp2
+(S'Description:'
+p3
+S'DroidSoft.fr est l\'application Android officielle du site \xc3\xa9ponyme qui rassemble des milliers de lecteurs quotidiennement autour de l\'actualit\xc3\xa9 Android.Chaque jour, un bon plan, une app gratuite, un jeu gratuit, l\'information du moment, les appareils et mises \xc3\xa0 jour et des tutos pour comprendre et apprendre sur Android.On peut aussi suivre l\'actualit\xc3\xa9 Apple pour iPhone, iPod et iPad depuis DroidSoft via un raccourci dans le menu qui affiche les derniers articles parus sur iSoft (iPhoneSoft mobile).Toutes nos cat\xc3\xa9gories :- Bons plans Android- Astuces et Soluces Android- AppGratuite Android- Tutos et Astuces Android- Jeux vid\xc3\xa9os Android- Applications Android- Tests Android- Appareils Android (Galaxy S4, Galaxy S3, Galaxy Note 3, Xperia Z, HTC One, Nexus 4, etc)- Rumeurs Android- Fonds d\'\xc3\xa9crans Android- AppGratis Android- ...DroidSoft.fr fait partie de l\'univers mobile de KeyUp avec iPhoneSoft.fr et iPhoneTweak.frVersion 1.2.1 :- correction du crash au lancementVersion 1.2 :- correction de bugs- pull to refresh- la rotation- acc\xc3\xa8s \xc3\xa0 iSoft d\'iPhoneSoft pour les possesseurs d\'appareils Apple (iPhone, iPod et iPad)- Carrousel avec la s\xc3\xa9lection de la r\xc3\xa9daction- Passer d\'article en article facilementVersion 1.1.3 :- Correction des crashs- Corrections des titres d\'article sur la liste pour les \xc3\xa9crans Full HD- Am\xc3\xa9lioration de la visibilit\xc3\xa9 de la fonction "recherche" dans le menu- Am\xc3\xa9lioration du d\xc3\xa9tail article (vid\xc3\xa9o, image l\xc3\xa9gend\xc3\xa9e, espacement, date, ...)Version 1.1.4 :- Correction d\'un crash au lancement- Correction d\'un bug sur la publicit\xc3\xa9- Publicit\xc3\xa9 maintenant fixe- Optimisation des images dans les listes (fluidit\xc3\xa9)- Correction d\'un bug sur la zone de t\xc3\xa9l\xc3\xa9chargement d\'appsVersion 1.1.2 :- Correction du bug du cache si pas de connexion- Corrections graphiques sur la liste et le d\xc3\xa9tail articleVersion 1.1.1 :- Corrections de nombreux bugs- Corrections de crash- Augmentation de la police sur le d\xc3\xa9tail articleVersion 1.1 :- Nouvelle interface Holo 100% native- Acc\xc3\xa8s \xc3\xa0 tous nos articles- Recherche- Notifications push- Favoris- Mode hors ligne- Partage sur les r\xc3\xa9seaux sociaux et par mailRecent changes:Version 1.2.2 :- correction du crash syst\xc3\xa9matique sur tablettes et certains smartphones'
+p4
+tp5
+tp6
+.

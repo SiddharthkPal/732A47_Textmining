@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Noom CardioTrainer '
+p1
+tp2
+(S'Description:'
+p3
+S'CardioTrainer is your partner for any fitness activity \xe2\x80\x94 from biking to yoga! Keep track of your favorite activities and results on-the-go wherever and whenever you want."Better than any fitness app on the iPhone"-Bob Tedeschi, The New York Times* Seamlessly tracks indoor and outdoor activities and tells you how many calories were burned* Advanced GPS and pedometer tools that are easy and fun to use* Integrated voice output & music player to keep you engaged in your exercise routine* Friend activity feed to motivate you and connect with others* Allows you to schedule workouts with reminders* Interactive heart rate monitor - see and record heart rate with Polar\'s Bluetooth Heart Rate Monitor and use Fat Burn Zones* Racing option with high score recording that allows competition and rewards* CardioTrainer Pro available with interval workouts* Looking to lose weight? Check out our comprehensive Noom Weight Loss Coach (https://market.android.com/details?id=com.wsl.noom)____________________________Frequently Asked Questions:Q: What is the difference between CardioTrainer and Noom Weight Loss Coach?A: CardioTrainer is an app focused on exercise and activity whereas Noom Weight Loss Coach is an all-in-one solution for those looking to lose weight, eat healthier, get fit, and stay motivated.  The Coach helps millions of people get active by integrating the advanced technology or CradioTrainer. Download the Coach here: https://market.android.com/details?id=com.wsl.noomQ: Why does CardioTrainer want access to my contacts and my Google account?A: This is *only* done in the Friend Activity part of the app, and only for the purposes of connecting you with friends who also use CardioTrainer to track their activity. This information is not stored anywhere, nor will it ever be used for any other purpose. Your Google account is used only to create a permanent account so you can to backup and recover your data.More information about the permissions requested by this application: http://noom.uservoice.com/knowledgebase/articles/12269Recent changes:Fixes for Ice Cream Sandwich'
+p4
+tp5
+tp6
+.

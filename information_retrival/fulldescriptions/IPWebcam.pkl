@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IP Webcam '
+p1
+tp2
+(S'Description:'
+p3
+S'Turns your phone into a network camera with multiple viewing options. View your camera on any platform with VLC player or web browser. Stream video inside WiFi network without internet access.Use IP Webcam with tinyCam Monitor on another android device or with third-party MJPG software, including video surveillance software, security monitors and most audio players.Videochat support (e.g. Skype, Chatroulette, only video stream for Windows only via an universal MJPG video streaming driver)Email me if you have questions after reading the FAQ.SEO: ip webcam, wireless camera, spy cam, video streaming, broadcasting, ip camera, wifi camera, audio streaming, nanny cam, security camera, ipcam, pet monitor.Recent changes:Photo stability fixBetter photo handlingStandard-compliant /video URLAdmob fixes(Safely) unlock and enable screen when Prevent Going to Sleep is enabled and starting with automation tools'
+p4
+tp5
+tp6
+.

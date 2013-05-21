@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Financial Calculators '
+p1
+tp2
+(S'Description:'
+p3
+S"For phone and tablet, this application includes the following financial calculators.    * TVM Calculator    * Currency Converter    * Loan, Loan Comparison and Refinance Calculator    * Compound Interest Calculator    * Retirement/401k Calculator    * Credit Card Pay Off Calculator    * Tip Calculator    * Regular Calculator    * Annual Percentage Rate (APR) Calculator    * Return on Investment (ROI) Calculator    * Auto Loan/Lease Calculator    * IRR NPV Calculator\xc2\xa0 \xc2\xa0 * Percentage CalculatorThe app allows you to edit and prioritize the list of calculators for easy access.Only Currency Converter needs internet access to retrieve the latest currency exchange rate. All other calculators don't need the Internet access.Recent changes:**The best way to report a bug is to send us the email.1.7.0: Dec 1, 2012* Add number group separator* Add Bond Calculator* Add Stock Calculators: Constant Growth Stock; Non-constant Growth Stock; Capital Asset Pricing Model; Expected Return *Add Calculator Widget* Minor Enhancements* Bug Fixes"
+p4
+tp5
+tp6
+.

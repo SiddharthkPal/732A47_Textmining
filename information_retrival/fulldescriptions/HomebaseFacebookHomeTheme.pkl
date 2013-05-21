@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Homebase - Facebook Home Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'We\'ve created this Homebase version to show off the flexibly of our Homebase lock screen platform. We\'ve integrated Facebook into Homebase in a "Facebook Home" style, and while it took us minimal effort, the result looks pretty cool.A big advantage with this version is that it allows you to enjoy the slick look of Facebook Home, but still being able to unlock the phone and access apps the way you\'re used to.For more information, or to get Homebase as an SDK - go to www.widdit.com.How to personalize your Homebase:After you install Homebase, an icon is placed on your home screen. Click this icon to access settings. Thought the settings screen you can edit the following:Screens-\tTurn Homebase on/off-\tAdd screens \xe2\x80\x93 click the \xe2\x80\x9c+\xe2\x80\x9d icon and you can add widgets, your favorite RSS feeds and more-\tTurn off screens-\tRe-order screens. Touch and drag to move them aroundCustomize-\tSet your default background-\tSet your personal unlock icon. Choose an image from your phone and crop it, or use the online gallery-\tSet custom unlock soundSupported Devices:HomeBase runs on any Android operated device 2.2 and up.Permissions:We respect your privacy. HomeBase will never collect any personal information from your phone, and/or transfer it to a third party. All permissions requested by the app are strictly to allow better functionality and support.Tags:Lockscreen, Go Locker, Lock Screen, Android locker, keyguard, Lock 2.0, LockBot, screen off, locker theme, Quick Launch, widget locker, active lockscreen, milocker.Feedback:Feedbacks and suggestions are most welcome to support@widdit.comRecent changes:- Restart bug fix- Crashes fix- Better image rendering - Slicker interface and gestures'
+p4
+tp5
+tp6
+.

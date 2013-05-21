@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OpenVPN for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'Openvpn for Android. Uses the new VPNService API that requires neither Jailbreak nor root on your Telephone.- OpenVPN is a client software to connect to an OpenVPN server and not a free VPN software. It allows to your own/company/university/provider OpenVPN server.- Only tun mode support (Sorry no tap, with Android 4.0 only tun can be supported).- Beta versionIf you want to help to translate OpenVPN into your native language look at the homepage of this project.Please report bug/suggestions via email or at the code Google Code project. But please read the FAQ before writing me.Recent changes:= 0.6.36b =- Not on store (http://plai.de/android/icsopenvpn0536bpre.apk)- fixes connecting when tls-cipher specifies an invalid cipher = 0.6.36 =- Bugfixes and OpenVPN 2.3.1= 0.5.35 =- Fix native library error on Android 4.1 and Android Keystore usage- Sorry for the many updates= 0.5.33 =- New layout for main screen- Fix stupid bug when importing profiles (Server/port not set)= 0.5.32 = - Fix speed display not showing correct speed- Add optional timestamps to log window'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dolphin Tab History '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 \xe2\x80\x9cFantastic, much easier than going to history, searching for the CORRECT page, etc\xe2\x80\x9d Tab History displays the browsing history of each tab in a list. With Dolphin Tab History, you can:- Go back or forward in list by just clicking a tab link on Tab HistoryTab History for Dolphin is an exclusive Add-on for Dolphin Browser\xef\xbc\x88Formerly Dolphin Browser HD\xef\xbc\x89. Just search \xe2\x80\x9cDolphin Browser \xe2\x80\x9d in Android Market or download here: http://bit.ly/D-AndroidWhat is an Add-on?Beef up your Dolphin Browser\xef\xbc\x88Formerly Dolphin Browser HD\xef\xbc\x89 by installing your favorite Add-ons. Similar to a desktop Plug-in, each Add-on will provides additional functionality on mobile device. Forgot password? Password Manager can help. Want a new look for your Dolphin? Download Shiny Shake to change colors. Want to read a webpage in French? Get Dolphin Translate. Click here to learn more: http://bit.ly/AndroidAdd-onListOther popular Dolphin Add-ons:\xe2\x80\xa2 Bookmark to SD\xe2\x80\xa2 Dolphin YouTube Search\xe2\x80\xa2 PDF Viewer for Dolphin\xe2\x80\xa2 Web to PDF\xe2\x80\xa2 Dolphin Screen CutJoin the Dolphin community!Facebook: http://www.facebook.com/DolphinFans Twitter: https://twitter.com/DolphinBrowserAny further suggestions, please contact at support@dolphin-browser.com.Recent changes:Update the app icon'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'GO Contacts '
+p1
+tp2
+(S'Description:'
+p3
+S'** EX version had been released. Search \'GO Contacts EX\' to download. It\'s free too! ***Brought to you by GO Dev Team , GO Contacts is yet another powerful tool, ideal replacement of stock Contacts and Dialer. It is featured by fast search, grouping, duplicates merge and secure backup/recovery. Features: 1. Quick find: by any letter, name, keyword.2. Group contacts: Drag&group; batch SMS or email by one-key press.3. Merge duplicated identified by name or phone number.4. Smart dialing: Only remember fraction of contact\xe2\x80\x99s number or name? No problem, just press keys, it will give the matches.5. Speed dial, IP Dial supported.6. Theme supported: Dark (included) and Spring, Ice Blue (download separately)7. Backup / restore: Save contacts to or restore them from SD card, safe and secure.8. Number attribution: Show the registered location of phone number (Only available in Chinese version. Plugin download separately)*************V1.46 Update\xef\xbc\x882011-07-21\xef\xbc\x891.Added shortcuts setting.2.Fixed gmail group sync errors.3.Fixed Russian,Portugal language translation wrong.4.Fixed contacts merge errors.5.Optimized search algorithm.6.Fixed some other bugs.*************V1.45 Update\xef\xbc\x882011-07-18\xef\xbc\x891.Added GO Dialer icon.Notes:This version just recovery GO Dialer icon,you can update the program as you need.*************V1.44 Update\xef\xbc\x882011-07-14\xef\xbc\x891.Added pickup vibrate.2.Added T9 language setting.3.Added green theme.4.Fixed export,import errors.5.Fixed can not edit contacts.6.Fixed contacts detail can not show the year.7.Fixed some other bugs.**************Tips*Q:How to turn off call confirm?A:"Settings"->"Dail Preference"->"Call confirm".IF you like this gocontacts app,please Encourage us by recommending GO Contacts to your friends,Thanks.***************Acknowledgement**GOContacts dev Team thanks the following friends for translation help\xef\xbc\x9aFrench:JulienRussian:\xd0\x90\xd0\xbb\xd0\xb5\xd0\xba\xd1\x81\xd0\xb5\xd0\xb9,AlekseyPolish:RobertDutch\xef\xbc\x9aHaraldPortugal\xef\xbc\x9aNuno FreireGerman\xef\xbc\x9aMathias,OliverKorean\xef\xbc\x9aJoon Hee,\xec\x9d\xb4\xec\x97\x90\xec\x99\x80\xec\x97\x98\xec\x9c\xa0\xec\x8a\xa4Italy\xef\xbc\x9aLuca MarsonSpanish\xef\xbc\x9aRodrigo FerreiraIf you need to translaton other lanuage,please email to "goforcontact@gmail.com" get the latest language package.'
+p4
+tp5
+tp6
+.

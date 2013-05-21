@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medical Terms DE '
+p1
+tp2
+(S'Description:'
+p3
+S'With this simple, powerfull and free app you can reveal meanings of thousands of medical terms in German language.It contains directory of most common used medical terms, diseases, tests and symptoms extended by external sources with tons of medical terminology.Glossary is searchable through powerfull voice enabled search engine with word prediction and smart option that let you narrow search result to abbreviations only.Full support for system search engine - you can search in our app directly from homescreen Google search widget.App will help you to understand mystery looking terms from medical records, prescriptions or expert advices.All of terms have solid explanation on Wikipedia - app will let you study them on your wish. This app is for everyone, not only medical staff and students, because we all need sometimes medical help and want to find out more. This is totally free app so give it a try and install it today. For your convenience app is localized for English, German, Spanish, French, Russian and Polish. Additional languages coming soon. Check out our webpage: m.ipix.eu for more info. You can find there more not only medical related apps.'
+p4
+tp5
+tp6
+.

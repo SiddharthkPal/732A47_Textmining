@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mobilbank DK '
+p1
+tp2
+(S'Description:'
+p3
+S'Med Danske Banks Mobilbank kan du nemt holde styr p\xc3\xa5 \xc3\xb8konomien med din Android. Du kan f.eks. tjekke dine konti, betale regninger, overf\xc3\xb8re penge og f\xc3\xb8lge dine investeringer. Og n\xc3\xa5r du er ude at rejse, hj\xc3\xa6lper vores app dig nemt med at omregne priser fra en valuta til en anden.Du beh\xc3\xb8ver ikke logge p\xc3\xa5 for at  - finde den n\xc3\xa6rmeste h\xc3\xa6veautomat eller afdeling- kontakte os - se og omregne kurserne p\xc3\xa5 mere end 25 valutaer- oprette og f\xc3\xb8lge din egen kursliste - f\xc3\xb8lge markedets bev\xc3\xa6gelserN\xc3\xa5r du logger p\xc3\xa5, kan du desuden: - tjekke saldi og kontobev\xc3\xa6gelser- se forbrugsoverblik- overf\xc3\xb8re penge til egne og andres konti- betale dine regninger- redigere og slette fremtidige betalinger (undtagen faste overf\xc3\xb8rsler og betalinger til Betalingsservice)- sende og modtage sikre beskeder til og fra banken - oprette kursalarmer til e-mail og sms - tilmelde indbetalingskort til Betalingsservice - handle v\xc3\xa6rdipapirer - f\xc3\xb8lge dine investeringer Du skal v\xc3\xa6re fyldt 18 \xc3\xa5r for at bruge de sidste tre funktioner.Alle kan bruge Danske Mobilbank via funktionerne f\xc3\xb8r log-on. For at kunne logge p\xc3\xa5, og dermed f\xc3\xa5 den fulde funktionalitet, skal du dog v\xc3\xa6re netbank-kunde hos Danske Bank, og via netbanken v\xc3\xa6re tilmeldt Danske Mobil- & Tabletbank. Du logger p\xc3\xa5 appen ved at bruge dit CPR-nummer og din personlige servicekode, som du finder i netbanken. Klik p\xc3\xa5 linket nedenfor og l\xc3\xa6s mere om, hvordan du f\xc3\xa5r Danske Mobilbank p\xc3\xa5 din Android. Er du ikke kunde hos Danske Bank, er du meget velkommen til at kontakte os via app\xe2\x80\x99en eller vores hjemmeside \xe2\x80\x93 det er nemt og hurtigt.Recent changes:- Fejlrettelser'
+p4
+tp5
+tp6
+.

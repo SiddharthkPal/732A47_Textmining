@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Stocard - Loyalty Cards '
+p1
+tp2
+(S'Description:'
+p3
+S'Tired of carrying all those plastic rewards cards? With the Stocard app, you can store all your loyalty cards in one app on your Android phone. Get rid of all the plastic cards in your wallet! FREE!Optimized for Australia, New Zealand, United Kingdom & Ireland.STOCARD IS FAST:- The built in high-tech-camera scanner enables you to add loyalty cards within seconds.- Have your phone\'s screen scanned for a faster transaction at properly equipped stores*.STOCARD IS EASY TO USE:- No registration necessary, start using Stocard right after downloading.- Choose from over 100 preset loyalty cardsStores include:Qantas, Woolworths Everyday Rewards, FlyBuys (Coles), Airmiles, Priceline, British Airways, Myer One, Shell, Esprit, IKEA, Quiksilver, Passbook, AA and many more.- Add any not preset loyalty card as an "other loyalty card".* Several stores still use outdated scanner technologies (laser or flatbed scanners instead of image scanners). These scanners unfortunately cannot read smartphone displays. In this case simply ask the cashier to type in your loyalty card number manually, to get your discounts.Send feedback to support@stocardapp.com----Loyalty card, store card, rewards card, advantage card, points card, club card, frequent flyer, miles, coupons, offers, shopping, plastic card, Qantas, Woolworths Everyday Rewards, FlyBuys (Coles), Airmiles, Priceline, British Airways, Myer One, Waterstones, Debenhams, Superdrug, Costa, Shell, Esprit, IKEA, Quiksilver, Passbook, Morrisons, AA, Free, rewardsRecent changes:\xe2\x98\x85 More stores \xe2\x98\x85 Add your own picture for custom stores\xe2\x98\x85 Edit your cards'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SPConnect SharePoint (Beta) '
+p1
+tp2
+(S'Description:'
+p3
+S"Access a Microsoft SharePoint site from your Android phone. Collaborate with your team on the go.Review and update documents in document libraries on your ride home.Schedule last minute meetings in the team calendar or just post a team announcement; you have SharePoint at your fingertips.No server side software is necessary. As long as you can access the SharePoint site from the phone's browser, you should be able to connect from SPConnect.This is a beta version and we would appreciate any bugs to be reported via email.If you can email feedback, recommendations and features requests to improve this product, we would be thankful for your assistance.Android System Requirements:.- External Storage for caching files.- A document viewer to view or modify documents.Supported SharePoint Versions:- SharePoint Server 2007 SP2- SharePoint Server 2010 SP1- SharePoint Online (Office 365)- SharePoint 2013Supported SharePoint Authentication Methods- Integrated Windows Authentication (includes SSL)- Forms Based Authentication (includes SSL)- Claims Based Authentication (Office 365 SharePoint Online)Features List- Browse SharePoint site and sub sites.- View or modify documents in Document Libraries.- Download document to local storage for offline viewing and updating.- Check out and check in documents.- Search document content (searching must be enabled on the server).- View, add and update the following list types:  - Contacts  - Announcements  - Discussions  - Tasks  - Events  - Issues  - Custom ListsRecent changes:Version 0.71- Bug fixesVersion 0.70- Bug fixes.- Support Managed Metadata.- Improve Calendar month display.Version 0.65- Fix Ofice365 login issues.- Streamline document modification process.Version 0.64- Fix bug related to attachments. Attachments are now enabled.- Support  edit and delete of calendar items.Version 0.63- Fix bug: Unable to open document in document libraryVersion 0.62:- Performance Improvements on list display.- Detect required fields on property updates."
+p4
+tp5
+tp6
+.

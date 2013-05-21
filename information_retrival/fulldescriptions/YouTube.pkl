@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'YouTube '
+p1
+tp2
+(S'Description:'
+p3
+S'Keep up with your favorite YouTube channels and access the world\xe2\x80\x99s videos anywhere with the official YouTube app for Android.Recent changes:* Quickly access new uploads from your subscriptions using the "My Subscriptions" feed* Fixed a bug which caused some accounts to periodically sign out* YouTube One Channel branding for video creator channels* Other bug fixes and stability improvements'
+p4
+tp5
+tp6
+.

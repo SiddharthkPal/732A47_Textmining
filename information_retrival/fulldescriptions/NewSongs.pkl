@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'New Songs '
+p1
+tp2
+(S'Description:'
+p3
+S"*Application Best Run In High Speed Internet Connection.*Small Size AppWant the very New Songs with out having to search on line to see what others are using ??  Well new bollywood songs are just for you !!!!Yes it's New Songs app....... however, App contains hand picked Songs that you can access at any time direct on your phone. No need to go on-line searching for that unique clip.....Features:Play SongsDownload SongsShare SongTo Download And Share Songs Click On Option Symbol Then Choose Download Or Share Song......**This application shows one full screen ad and banners in the bottom of app by admob. Click on ad that will give us small amount and that help us to create more free applications And Airpush Ads Like Push Notification Ad And Icon Ad.TAG:Aashqui 2 Songs,Ye Jawani Hai Deewani Songs,Honeysingh Bring Me Back,,Shootout At Wadala Songs,Mp3 Songs,Mp3 DownloaderRecent changes:Most Awaited Feature :- User Can Close Progress Dialog While Buffering Song By Clicking On Back Button. - If You Will Press Back Button Then After Buffering(Hiddenly) Complete Song Will Play. - You Can Use Other Options Also Like Download Or Go Back.Colse Dialog Box Option For Small Devices So Only Once Chek And Close Dilog For Every TimeFix BugsIf You Are Facing Problem When Playing Song Then Restart Your Device It Will Be Solve.Added Airpush Notification Ad"
+p4
+tp5
+tp6
+.

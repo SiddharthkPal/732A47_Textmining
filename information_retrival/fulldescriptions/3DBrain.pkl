@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'3D Brain '
+p1
+tp2
+(S'Description:'
+p3
+S'Use your touch screen to rotate and zoom around the interactive brain structures. Discover how each brain region functions, what happens when it is injured, and how it is involved in mental illness. Each detailed structure comes with information on functions, disorders, brain damage, case studies, and links to modern research.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CCTV NTMC Polri '
+p1
+tp2
+(S'Description:'
+p3
+S"This application displays cctv owned by NTMC Korlantas Polri Indonesia and LewatMana.comThis is not an official application NTMC Polri, all of content in this application is from NTMC Polri and LewatMana.comClick the header to change cctv source (NTMC/LewatMana.com)Recent changes:- NTMC site is down and don't know when will up again :(- Fixed Some Force CloseNote:Sorry, some device may not compatible caused by 'CSRF Verification Failed'"
+p4
+tp5
+tp6
+.

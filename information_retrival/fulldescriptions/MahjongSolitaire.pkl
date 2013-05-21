@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mahjong Solitaire '
+p1
+tp2
+(S'Description:'
+p3
+S'Mahjong Solitaire is the #1 solitaire matching game that uses a set of mahjong tiles. It\xe2\x80\x99s the perfect game for the casual player looking for fun and extensive replay. The game is also known as Shanghai Mahjong, Taipei Mah-Jong, Kyodai, Mahjong Trails.The goal of this game is to match open pairs of identical tiles and remove them from the board, exposing the tiles under them for play. (A tile is said to be open if it can be moved either left or right without disturbing other tiles.) The game is finished when all pairs of tiles have been removed from the board.Game Features:- 4 Difficult Levels: Kiddie, Easy, Normal, Hard- 150+ board layouts keep your mind active- Undo, Shuffle, Highlight features- 5 uniquely designed sets of backgrounds and tilesRecent changes:v1.0.1: Fixed some crash bugs of the game.'
+p4
+tp5
+tp6
+.

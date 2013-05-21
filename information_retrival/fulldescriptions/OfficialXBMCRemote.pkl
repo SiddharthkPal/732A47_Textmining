@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Official XBMC Remote '
+p1
+tp2
+(S'Description:'
+p3
+S"An open source, full-featured remote for XBMC. It features library browsing, direct remote control and a slick interface. It's still beta but we're getting there.PERMISSIONS: Please see Wiki page on Google code before rating down because of private data access. This app is open source after all.HONEYCOMB USERS:Please note that this app is now available to Honeycomb tablets, but it's far from optimized. We're working on that.VOLUME:Use the hardware buttons of your phone while the remote is running.INSTALLATION:There is a complete and updated installation guide in the Wiki, featured on the front page of the website.BUGS:Please use the forum or the bugtracker. Comments in here are read sporadically but more for amusement than for serious debugging.Recent changes:This is a release update for XBMC v12.0 codename Frodo, which was released January 2013. Please note that running this with previous versions of XBMC may result in weird behavior due to API changes.Check the GitHub repository for bug reports: https://github.com/freezy/android-xbmcremoteAlso check the forum: http://forum.xbmc.org/forumdisplay.php?fid=129We're working on a next-gen version that will provide a new look, new features and (hopefully) less bugs!"
+p4
+tp5
+tp6
+.

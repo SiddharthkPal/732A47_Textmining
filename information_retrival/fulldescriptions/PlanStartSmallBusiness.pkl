@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Plan & Start Small Business '
+p1
+tp2
+(S'Description:'
+p3
+S'For tech support, please email the developer: alex.genadinik@gmail.comBusiness plan tools, articles that guide you as you start your business, and live advice by an entrepreneur. Recently added the ability to interact with other entrepreneurs in the community inside the app who are also starting their businesses and have similar goals to you.The app helps you think through various aspects of your business, whether your goals are to start a brick and mortar business or a web/Internet start-up company.In addition to the business and motivation tools, you can ask questions about your startup to our community right inside the app. The app is structured so that you can ask direct business questions or begin planning various aspects of your start-up. The app takes you through topics like advertising, target users, monetization, business model  (local and international business), and understanding how to raise money (for United States and international business), and many more topics you need to be aware of as you begin work to create your venture.The app is intended to help through the very beginning and planning phases of new businesses (United States and international), to help the entrepreneur start with a strong strategy. Get help and advice on how to start and grow your business by a an experienced entrepreneur and our community of entrepreneurs.- Added app references which deal with the topics of raising money via loans, grants, donations or investment.- Added extra suggestions for start-up advertising. In latest version, added motivational features, reminders, and ways to set goals. You can create a todo list of your entrepreneurship goals, and keep yourself motivated by achieving small goals and before you know it, this may just give you the motivation to get to your big goals.We are working on supporting other languages so our international users can use the app in their language.Recent changes:V 2.4.2- Fixing crashes which happened on older devices from previous update.V 2.4.0- Removed more ads- Put back ability to ask questions to the community- Did more small cleanup in different parts of the appV 2.3.31- Removed some ads. Will remove more in upcoming updatesV 2.3.20- Added a fundraising tutorial article V 2.3.7- Put premium features into the premium app: https://play.google.com/store/apps/details?id=business.premium'
+p4
+tp5
+tp6
+.

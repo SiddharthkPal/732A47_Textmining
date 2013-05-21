@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'aVia Media Player '
+p1
+tp2
+(S'Description:'
+p3
+S'With aVia you can play, manage, and share your music, video, and photos from all of your Android-connected devices so that your favorite media is available anytime, anywhere.Primary features of aVia:- Play music, videos, and view photos through a variety of sources including social media services (Facebook, and Google+)- Easily Fling and control media between personal devices- DLNA streaming capabilities allow for sharing between compatible devices within a network- DLNA server capabilities built into the app- Easily create playlists and rate content using the intuitive interface - Support for video scaling and subtitles- Support for video and audio codecs- Support for multiple languages including French, German, Danish, Spanish, and Japanese.- Optimized for Android tablets and smartphones, Google TV, and Kindle Fire devices\xe2\x80\x9c\xe2\x80\xa6intuitive media player that make accessing your media files, whether they be videos, music or videos, very simple.\xe2\x80\x9d \xe2\x80\x93 Android Tapp******Follow aVia Media Player on Twitter, Facebook, and Google + for all aVia related announcements and updates.******About \xe2\x80\x9cRead Phone State and Identity\xe2\x80\x9d permission \xe2\x80\x93 aVia uses this permission to detect incoming/outgoing calls so that we can pause music playback.  aVia does not try to access phone numbers of incoming/outgoing calls. For more information regarding aVia\xe2\x80\x99s required permissions, please visit our FAQ page at: http://aviatheapp.com/aviaFAQ.html******If you have comments or have feedback on aVia, please first email us or visit our forum at: http://aviatheapp.com/forum/index.php.  We are not able to reply to comments in the Google Play Store.Recent changes:- Resolved bug related to in-app purchasing'
+p4
+tp5
+tp6
+.

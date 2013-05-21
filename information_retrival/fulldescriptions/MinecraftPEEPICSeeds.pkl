@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Minecraft PE EPIC Seeds '
+p1
+tp2
+(S'Description:'
+p3
+S'This new app is perfect for people who LOVE Minecraft Pocket Edition Seeds! Updated daily with the top Minecraft PE seeds. We are the only app to add new seeds daily! Best Seeds for Survival And Creative! *Flat Seeds*Mountain Seeds*Cave Seeds*Waterfall Seeds*Island Seeds*AND MORE! All Updated Daily!'
+p4
+tp5
+tp6
+.

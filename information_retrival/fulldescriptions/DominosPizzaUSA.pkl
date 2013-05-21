@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Domino's Pizza USA "
+p1
+tp2
+(S'Description:'
+p3
+S"Did Domino\xe2\x80\x99s just launch an Android app? Oh Yes We Did! You can now order Domino\xe2\x80\x99s from your  Android phone. It\xe2\x80\x99s convenient, easy and fun! Use your phone to select from our Legend, Feast, and Artisan Pizzas. Can\xe2\x80\x99t decide?  Use our \xe2\x80\x9cBuild your Own\xe2\x80\x9d feature to make the pizza just the way you like it. Got a taste for something other than pizza?  You\xe2\x80\x99ll love any of our chicken, pasta, sandwich, bread, or dessert options. Only with the Dominos app can you track your order from the moment you place it, into the oven, and know right when it\xe2\x80\x99s ready for pick up or delivery.\xc2\xa1Pide Domino\xe2\x80\x99s en ingl\xc3\xa9s o en espa\xc3\xb1ol! Nuestro app se configura autom\xc3\xa1ticamente con el idioma que has escogido para tu smartphone o tableta. FEATURES:The ability to order from almost any Domino\xe2\x80\x99s in the U.S. (Nearly 5,000 locations)Access to all the items on our national menu.Find coupons available for use at your selected store.The app will remember your most recent store and other useful information.We do not require you to login.In app credit or debit card payment.Use Domino\xe2\x80\x99s Tracker to follow your order from the \xe2\x80\x9cmake line\xe2\x80\x9d, into the oven, then out for delivery or ready for pickup! Designed and built in the USA.Requirements:The Domino\xe2\x80\x99s app is compatible with Android 2.1 and above. If you have questions or comments about this app we would love to read them. Please email androidsupport@dominos.comPrefer to use the desktop version? Please visit http://www.dominos.comRecent changes:Option to securely save your credit card and reuse for faster checkout when you sign in to your Pizza Profile Minor bug fixes.Order Domino's using either English or Spanish! Our app now automatically displays in whichever of these languages you have chosen in your smartphone or tablet settings. \xc2\xa1Pide Domino\xe2\x80\x99s en ingl\xc3\xa9s o en espa\xc3\xb1ol! Nuestro app se configura autom\xc3\xa1ticamente con el idioma que has escogido para tu smartphone o tableta."
+p4
+tp5
+tp6
+.

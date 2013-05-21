@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Learn Iqra '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn Iqra is a free application to help learn how to read Quran more easier. Just relax and follow the step to learn read Arabic letter and word. Practice regulary and you will know read Quran is not difficult. Also available for Apple iOS and Blackberry. Buy pro version to remove advertising at Samsung Android market.Aplikasi gratis untuk membantu belajar membaca Quran dengan lebih mudah. Ikutin aja semua langkahnya buat belajar baca huruf Arab. Niat yang ikhlas dan berlatih secara rutin dan membaca Quran itu tidak sulit kok.Recent changes:- save to sdcard- repair ICS Force GPU bugs- repair other bugs- try disable Force GPU if you have a crash problem'
+p4
+tp5
+tp6
+.

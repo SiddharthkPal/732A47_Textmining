@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Spotify '
+p1
+tp2
+(S'Description:'
+p3
+S'With the Spotify app and a Spotify Premium subscription you can listen to unlimited music on your mobile. Try it free for 48 hours. Premium 48-hour free trialIf you haven\xe2\x80\x99t tried Premium before, you can try it for 48-hours, completely free. Just download the app and log in using your Facebook account*. \xe2\x80\xa8\xe2\x80\xa8After your trial, you can still listen to your own music, or subscribe to... Spotify PremiumPremium is the top-of-the-range Spotify experience. Now you can sync all your favourite playlists to your phone and listen offline. Or go online and stream anything you like from the Spotify library. It\xe2\x80\x99s access all areas with Premium. Praise for Spotify- "Spotify is so good" \xe2\x80\x93 Mark Zuckerberg - CEO and Founder of Facebook- "The celestial jukebox is no pipe dream; it\xe2\x80\x99s here now." - Time- "Spotify makes music fun again, just like the iPod did nearly 10 years ago." \xe2\x80\x93 Billboard.biz  Spotify Premium features \xe2\x80\xa8\xe2\x80\xa8\xe2\x80\xa2 Instant access to millions of songs \xe2\x80\xa8\xe2\x80\xa2 Stream online \xe2\x80\xa8\xe2\x80\xa2 Listen offline \xe2\x80\x93 no mobile connection needed \xe2\x80\xa8\xe2\x80\xa2 Share music with your friends \xe2\x80\xa8\xe2\x80\xa2 Star your favourite tracks \xe2\x80\xa8\xe2\x80\xa2 Wirelessly sync your own music to your Android \xe2\x80\xa8\xe2\x80\xa2 Create and sync playlists \xe2\x80\xa8\xe2\x80\xa2 Send the music you\xe2\x80\x99re enjoying direct to Last.fm & Facebook \xe2\x80\xa8Love Spotify?Like us on Facebook: http://www.facebook.com/spotifyFollow us on Twitter: http://twitter.com/spotify* If you don\xe2\x80\x99t have log in details - simply register for a free Spotify account on the Spotify website. Full mobile terms of Use & 48-hour free trial terms and conditions can also be found on the Spotify website.Recent changes:- Spotify is now available in Traditional Chinese and International Spanish.'
+p4
+tp5
+tp6
+.

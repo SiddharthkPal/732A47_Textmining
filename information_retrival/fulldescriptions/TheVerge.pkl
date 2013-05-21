@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'The Verge '
+p1
+tp2
+(S'Description:'
+p3
+S"Get all the breaking news coverage and in-depth reporting in the world of consumer technology from the industry's leading voices and foremost experts. The Verge brings you unrivaled breadth and depth of coverage, delivering everything you need to know about what's happening in the world of technology culture \xe2\x80\x94 including the latest reviews, breaking news, and in-depth feature stories. Tech news begins and ends on The Verge; and now you can get that experience on the go, right on your Android device.Recent changes:1.2.6: Some formatting fixes for articles, as well as changes to how in-article videos are managed."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Color Touch Effects '
+p1
+tp2
+(S'Description:'
+p3
+S'Color Touch Effects allows to recolor images and apply cool effects to them.You can select an image, turn it to gray (or sepia, ..) and bring the color back with your fingers.- Easy to paint, move, zoom with your fingers- Splash a different coloring on your pictures with vivid colors- Two finger zoom- Many effects such as black & white, sepia coloring or blur.- Import photos easily from your photo gallery, camera or from Facebook into this picture editor- several cool image effects in the fx gallery- configure brush and opacity- add a caption / title to your image- Post to facebook, share via email, or send via MMS, or share it with whatsapp- great to post process images from the camera or instagram, flickr, or 500pxSo much fun to edit your photos and pictures. Download this free picture editor now. Works also great together with the free photoshop app or camera effects (fx).KW: color splash, color touch, coloring, photoshop, effects, photo fx, photo editor, picture editor, edit pictures, colour splash, photobucket, hipstamatic, skitch, picture coloring, image editorIcon based on a photo by Seafrost/flickr.Recent changes:- UI update- new start screen- browse cool photos'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'BuzzFeed '
+p1
+tp2
+(S'Description:'
+p3
+S'The BuzzFeed app is best way to stay up to date with the latest viral videos, images, links, and buzz while on the go. Features the BuzzFeed.com front page, most Viral posts, as well as LOL, WTF, OMG, Cute, Geeky, Trashy Feeds.Note: If you updated the app and notice a black screen on launch please try re-installing the app.Recent changes:- Fixed a Widget bug.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Urdu Dictionary '
+p1
+tp2
+(S'Description:'
+p3
+S"100% Free Offline English to Urdu dictionary. It has embedded Urdu font which doesn't require any additional Urdu feature on your device. Its just smooth and pain-less. The vocabulary is constantly being updated.Its fully offline so you don't even need an internet connection."
+p4
+tp5
+tp6
+.

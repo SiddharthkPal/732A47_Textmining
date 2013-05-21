@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Anghami '
+p1
+tp2
+(S'Description:'
+p3
+S'"Anghami - Music. Unlimited" is a new digital music app that offers listeners in the Middle East unlimited Arabic & International music to stream and download. Anghami provides you with millions of songs at your fingertips, to enjoy on your Android.Anghami is the app of choice for music fans in the Middle East & North Africa.The largest music catalogue to stream and play offline- All users can listen to millions of Arabic tracks from Rotana, Mazzika, Melody, and others- Users in the Middle East can also enjoy International tracks from the major labels, EMI, Warner, Sony and UniversalDownload to your device- Carry your music with you and listen anywhere, even when offline. - Unlimited downloads to keep you tuned when there is not internet or 3G connectivityDiscover New Music- Anghami\xe2\x80\x99s Surprise Me feature introduces you to tracks you might like based on your tasteListen in best audio quality- Our music comes in pure Dolby sound; top quality at low data usageTo stay updated with the latest about Anghami:- Like us on Facebook: www.facebook.com/anghami- Follow us on Twitter: www.twitter.com/anghami- Watch us on YouTube: www. youtube.com/anghamiNote : Anghami streams International Music in the Middle East onlyRecent changes:* New updated homepage* Register using your Google account - no need to type in your email / password - nor activate your account* Multiple bugfixesPrevious version:* Introducing Anghami+ - the premium edition with unlimited listening and unlimited downloads on several million songs * Anghami is now available fully in English or Arabic interface, and you can change it yourself. However, searching for songs in arabic or english is always supported - just switch the keyboard.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Groupon - Daily Deals, Coupons '
+p1
+tp2
+(S'Description:'
+p3
+S'Groupon brings you unbeatable deals with discounts of 50\xe2\x80\x9390% off the best stuff to do, see, eat, and buy in more than 500 cities and eleven fiefdoms around the world.Download the Groupon app to get freshly hatched deals and discounts delivered to your Android device each morning, customized to fit your preferences. Whether you are looking to discover a new local restaurant, try out a new \xe2\x80\x98do at the salon, or get some adrenaline pumping at the gym, our daily featured deals offer deep discounts to tickle your fancy.You\xe2\x80\x99ll also be able to browse tons of on-demand, real-time discounts on dining experiences, spa treatments, fitness classes, and other local, nearby deals\xe2\x80\x94ready for immediate use\xe2\x80\x94with Groupon Now!.With the Groupon Android app, you can:- Buy and redeem Groupons directly from your Android device.- Track your purchased coupons by location and expiration date.- Save ink and avoid traumatic paper cuts by never printing another voucher or coupon.Extended Features:- Browse and buy local, on-demand Groupon Now! deals for restaurants, spas, fitness centers, and activities near you.- Take an exotic vacation or a quick weekend trip with Groupon Getaways.- Use Groupon Goods to discover discounted products made of reliably bonded molecules.- Effect change in your community by supporting Groupon Grassroots campaigns.- Browse fun, seasonally themed collections year-round or find great holiday gifts with Grouponicus deals.- Share Groupon deals with friends, family, and tech-savvy housecats via social media.- Add the Groupon widget to your device\xe2\x80\x99s home screen so you never miss out on the next big deal. Just hold your finger on the home screen and select Groupon from the widget list.Download the Groupon Android app today and start exploring the best your favorite neighborhoods have to offer with discounts of up to 90% off.Recent changes:In version 2.4, we are making it easier to personalize your deals.  After signing in, tell us which deals you like by hearting the deal categories within the onboarding experience.  In addition to personalization features, we have tailored the app for 10-inch tablets to display multiple columns of deals and integrated the Groupon widget into the lock screen for quick access to the app (JellyBean users only).The latest build has some important bug fixes to improve the connectivity of the app.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Asphalt Surfers Free '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85 Asphalt Surfers is an exciting Skateboard game, you will be skating around MIAMI city trying to reach the highest score!\xe2\x98\x85 Go wild in the Skate World!\xe2\x98\x85 The way to play is very easy!\xe2\x98\x85 You can get the points multiplier and reach a much higher score!\xe2\x98\x85 Turn and Run as fast as you can! \xe2\x98\x85 Be careful of Bombs around the City!\xe2\x98\x85 Use your abilities to get more Golden Coins!\xe2\x98\x85 You can play using SWIPE or TOUCH controllers ! \xe2\x98\x85 Hoverboard Surfing! \xe2\x98\x85 Amazing sound effects! Join this amazing race for Coins and Points!Great GraphicsBy Foose GamesRecent changes:\xe2\x98\x85 23/04/2013 - Updated the game, now it's lighter, your mobile can run it faster and graphics were improved!!!\xe2\x98\x85 New Update!!! Now there's NO time limit, YOU CAN PLAY AS LONG AS YOU WANT, WOW!!!"
+p4
+tp5
+tp6
+.

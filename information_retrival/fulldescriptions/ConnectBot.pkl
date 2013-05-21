@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ConnectBot '
+p1
+tp2
+(S'Description:'
+p3
+S'ConnectBot is a powerful open-source Secure Shell (SSH) client.  It can manage simultaneous SSH sessions, create secure tunnels, and copy/paste between other applications.This client allows you to connect to Secure Shell servers that typically run on UNIX-based servers.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Poweramp Standard Widget Pack '
+p1
+tp2
+(S'Description:'
+p3
+S'Standard Poweramp Widgets.Only should be used if Poweramp is installed on SD card and built-in Poweramp widgets are not available.Recent changes:- this widget pack is from Poweramp v2.0.9 release, including all new widget features and styles- many translations added, big thanks to Crowdin.net translation community'
+p4
+tp5
+tp6
+.

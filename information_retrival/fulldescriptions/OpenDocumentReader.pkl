@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OpenDocument Reader '
+p1
+tp2
+(S'Description:'
+p3
+S"OpenDocument Reader, formerly known as OpenOffice Document Reader, allows you to read your ODF documents wherever you are. In the bus on your way to school? No problem! With OpenDocument Reader you can read and search through your documents in a very clean and simple way.OpenDocument Reader is...- simple- fast- clean- and well integrated!You can start reading your documents from within other apps. Supported apps include...- GMail- Google Drive- Box.net- Dropbox- ZumoDrive- File Expert- Android Browser- ASTRO File Manager- EStrongs File Explorer- lots of other apps\xe2\x80\x9cODF\xe2\x80\x9d is the format used by office suites like OpenOffice and LibreOffice. Text documents (.odt), as well as spreadsheets (.ods) and presentations (.odp) are supported, including support for formatting and embedded images. Password-protected documents are no problem either.For the time being, OpenDocument Reader does NOT support editing your documents. This feature may or may not become available at some point in the future.Be sure to check out the cloud version of this app, available in the Chrome Web Store.This app is open-source. We are not affiliated with OpenOffice, LibreOffice or similar.In order to buy ourselves some food, ads are shown while using this app. Bearing with them is highly appreciated!Recent changes:2.0.9.1:- NEW PERMISSION: now you can create shortcuts on your homescreen to access your favorite documents quicker2.0.9:- added Irish translation- performance improvements, bug fixes- basic support for presentations! Contact us if your documents don't show up properly 2.0.8:- semi-official support for previously unsupported file formats (pdf, docx, etc). Attention: this is made possible by uploading the files to our server! All files are deleted after a few minutes."
+p4
+tp5
+tp6
+.

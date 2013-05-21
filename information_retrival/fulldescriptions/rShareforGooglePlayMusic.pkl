@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'rShare for Google Play Music '
+p1
+tp2
+(S'Description:'
+p3
+S"Share your Google Play Music activity on Facebook, Google+, or Twitter! rShare keeps track of your Google Play Music history and allows you to post the songs you've listened to on Facebook, Google+, or Twitter. Each post is formatted and contains the artist, album, track, and album artwork.Requirements:- A Facebook, Google+, or Twitter account.- The Google Play Music app.Usage Instructions:- Play a song using Google's Play Music app.- Start rShare.- Tap on the share button next to the track name to post it.Recent changes:- Added support for posting to Google+- Added language support for French, German, Spanish, and Italian- Complete redesign using the Android dark holo theme- Added support for posting to Twitter"
+p4
+tp5
+tp6
+.

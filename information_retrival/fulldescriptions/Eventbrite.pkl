@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Eventbrite '
+p1
+tp2
+(S'Description:'
+p3
+S"Discover popular local events, get event recommendations just for you, and see which events your friends are going to! Get tickets and quickly access all of your Eventbrite tickets and event information from your Android device. Find something new to do -- concerts, festivals, classes, conferences, free events and more -- right in the palm of your hand.With Eventbrite for mobile, you can:\xe2\x9c\x93 Discover popular and recommended events happening around you\xe2\x9c\x93 Find upcoming events for this week and weekend\xe2\x9c\x93 See which events your friends are going to\xe2\x9c\x93 Register for and get tickets to events\xe2\x9c\x93 View event details, including maps and directions\xe2\x9c\x93 Add upcoming events to your calendar\xe2\x9c\x93 Easily share events with your friends\xe2\x9c\x93 Get into events with just your phone -- no paper tickets required!Get Eventbrite for mobile and start discovering events today!What is Eventbrite?Eventbrite enables anyone to create, promote, and sell tickets to any event imaginable, while also helping people discover and share events that match their passions. Whether it\xe2\x80\x99s a neighborhood block party or a sold-out concert in a stadium, Eventbrite makes it happen.Recent changes:Our biggest and best update yet! We\xe2\x80\x99re now bringing you events tailored just for you with a gorgeous new Discover view. Features you've grown to love\xe2\x80\x94search and browse by category\xe2\x80\x94are still just a tap away.\xe2\x9c\x93 Connect with Facebook to see which events your friends are going to.\xe2\x9c\x93 Invite Facebook friends to discover events together.\xe2\x9c\x93 Get event recommendations based on events you\xe2\x80\x99ve been to.\xe2\x9c\x93 Mix it up and check out popular events around you.\xe2\x9c\x93 Tickets purchased for you now show up in the app!"
+p4
+tp5
+tp6
+.

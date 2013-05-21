@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pixlr-o-matic '
+p1
+tp2
+(S'Description:'
+p3
+S'Awarded 2011\xe2\x80\x99s "Best App Ever" award for the Best Photo Editing App on Android by 148apps.com You can add fun retro effects to your photos in a snap and transform your photos into cool looking vintage images. Editing is as easy as one, two, three with Pixlr-o-matic to add effects, overlays and borders. So many options to choose from, there are more than 5,000,000 possible finishes to make your photos look spectacular!Now more then 100 effects, 280 overlays and almost 200 different borders!Features: \xe2\x9c\x93Color overlays help you adjust the mood \xe2\x80\x93 amplify the tone, cool it down, or add surreal shades\xe2\x9c\x93Lighting effects add drama, sparkle or a grunge look \xe2\x9c\x93Finish off your photo process with the right frame \xe2\x80\x93 pick a border style that fits you\xe2\x9c\x93Want it all in a single swipe? Try the randomizer and we\xe2\x80\x99ll select an effect, overlay, and border for you. \xe2\x9c\x93No camera required! Select a photo from your gallery and start applying effects. If your device has a camera, you can also snap a new picture from within the app\xe2\x9c\x93Share your vintage image directly with your friends through Facebook or imm.io\xe2\x9c\x93Export your finished image back to your gallery. Images can be saved in high resolution, depending on the resolution of the original image Millions of users and critics agree! "Pixlr-o-matic is a brilliant photography app and well worth trying out."-androidtapp.com "The sheer number of filters and effects to add to your photos are mind-boggling."-appstorm.net "Why is this app so addicting? Because it\xe2\x80\x99s so fun to use."- thephoblographer.comRecent changes:2.2.1\xe2\x9c\x93 Remove the use of ads and the intrusive permissions (Sorry!)2.2\xe2\x9c\x93 Camera mode.\xe2\x9c\x93 Save improvements to reduce save error.\xe2\x9c\x93 UI improvements.\xe2\x9c\x93 Bug fixes.2.1.3\xe2\x9c\x93 Support JB 4.2.2.1.2:\xe2\x9c\x93 Bug fixes for the new effects.\xe2\x9c\x93 Bug fixes for image saving.2.1\xe2\x9c\x93Settings\xe2\x9c\x931:1 Cropping (One click square crop)\xe2\x9c\x93Updated effect engine, new possibilities for coming effects\xe2\x9c\x93Improvements and bug fixes.'
+p4
+tp5
+tp6
+.

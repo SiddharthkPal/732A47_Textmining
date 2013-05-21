@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Voice '
+p1
+tp2
+(S'Description:'
+p3
+S'Make cheap international calls with your Google number. Send free text messages. Place calls and send text messages showing your Google number. Listen to voicemail and read transcripts.Currently only available in the US.IMPORTANT:- You must open Google Voice at least once after upgrading to route calls.- When using Google Voice for Android, both domestic and international calls are placed through a US-based Google Voice access number, and will use the standard minutes from your cell phone plan.Recent changes:- Improved the reliability of SMS delivery'
+p4
+tp5
+tp6
+.

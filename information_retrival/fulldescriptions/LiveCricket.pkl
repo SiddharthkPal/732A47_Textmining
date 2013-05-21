@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Live Cricket '
+p1
+tp2
+(S'Description:'
+p3
+S'*** Number 1 live cricket application all around the world*** Now Watch Live streaming of cricket matches on your mobile.*** Display Top Test, ODI and T-20 most updated ranking and points.*** Keep updated with live score card of matches.Please note: 1: Flash Player is required to watch live matches, please follow this link to install the flash player for your android devicehttp://forums.adobe.com/thread/10611942: Javascript must be enabled for your browser for this application and Plug-ins are set to Always on.3: For live streaming we are dependent on different servers, so due to heavy load on those server, streaming may stop some times.4: Streaming works during the live matches.Before giving any negative feedback, Please consider the above notes.Please provide us your positive feedback, to continue enhancement on this application, and to support more mobiles.Recent changes:Remove some bugs, and now you can have the option to close the  application.Did some improvements, to work on the latest android version.'
+p4
+tp5
+tp6
+.

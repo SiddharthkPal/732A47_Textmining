@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Radioplayer. UK Radio, one app '
+p1
+tp2
+(S'Description:'
+p3
+S"With UK Radio in one Android app, you can flick through our stations and see what's on, with a quick tap of your finger. Search for your favourites, and set them as presets. Discover new radio to listen to, in our 'Recommended' section.Listen to live radio, or browse our catch-up programmes, including hundreds of podcasts from the BBC iPlayer. We've got everything from news and sport - to pop, rock, indie, dance, jazz, soul, and classical. UK Radioplayer Ltd is a not-for-profit company, aimed at making radio listening easier. We're backed by the BBC (owners of stations like BBC Radio 1, BBC Radio 1Xtra, BBC Radio 2, BBC Radio 3, BBC Radio 4, BBC Radio 4 Extra, BBC Radio 5 live, BBC 5 live Sports Extra, BBC Asian Network, and BBC Radio 6 Music).Our partners also include Absolute Radio (who run Absolute Radio 60s, 70s, 80s, 90s, 00s and Classic Rock), Global Radio (owners of stations like Heart, Capital, Gold, LBC, XFM, Chill, Choice and Classic FM), and the people from Smooth Radio and Real Radio.Other stations in our player include talkSPORT, Kiss, Magic, Kerrang, Jazz FM, Fun Kids, Ministry of Sound, Free radio, Gaydar, NME Radio, Radio Caroline, and Radio Jackie. We also feature community and student stations \xe2\x80\x93 so there's something for everyone.Note: This application is free to download but uses data which your carrier may charge for. Samsung Galaxy SIII users wishing to stop their phone vibrating during playback can do so by disabling 'auto haptic' from the device's Settings/Sound menuRecent changes:- Clearer search results, with keyword hits highlighted in bold- Fixes for various small bugs, including improving start-up times on 3G"
+p4
+tp5
+tp6
+.

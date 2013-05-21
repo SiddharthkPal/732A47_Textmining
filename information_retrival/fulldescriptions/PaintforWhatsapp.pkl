@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Paint for Whatsapp '
+p1
+tp2
+(S'Description:'
+p3
+S"Click on the paperclip in Whatsapp and start drawing!A fun way to write a really fun message to your Whatsapp contacts.It's a very simple and plain drawing tool to assist you in your daily use with Whatsapp.* Instantly start drawing* Very easy and simple color picking tool* Easy to understand* Customize your brush size or default colors to useQuestions or suggestions? Send us an email.Recent changes:* now compatible with android 4 (JB)* better menu* improved information screen"
+p4
+tp5
+tp6
+.

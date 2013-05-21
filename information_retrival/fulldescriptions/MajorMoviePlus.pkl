@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Major Movie Plus '
+p1
+tp2
+(S'Description:'
+p3
+S'Major Movie is the application that simplifies your entertainment lifestyle.  Serving the largest group of movie-goers in Thailand, Major Movie allows users to read synopses, watch trailers, and check real-time movie schedules of 50 Major Cineplex Group branches nationwide including Major Cineplex, Siam Paragon Cineplex, IMAX, Esplanade Cineplex, EGV, Paradise Cineplex and Mega Cineplex.  You can also book and/or buy movie tickets by simply using your Android operating system phones.  Equipped with built-in GPS, Major Movie allows you to search for the nearest branches of Major Cineplex from your location.  Major Movie functions are;-      Read movie synopsis and details including directors and casting crews-      Check schedules daily (Now Showing)-      Check upcoming attractions-      Real-time ticket booking and buying-      Movie TrailersRecent changes:- Minor bugs fixed'
+p4
+tp5
+tp6
+.

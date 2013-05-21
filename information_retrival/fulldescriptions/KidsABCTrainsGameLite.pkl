@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kids ABC Trains Game Lite '
+p1
+tp2
+(S'Description:'
+p3
+S'Kids learning games free children to explore their educational potential.  Kids ABC Trains Game invites preschool and kindergarten-aged children to learn and identify letters and their sounds (phonics) using trains and railroads as their tools.With Kids ABC Trains Game, your kids will learn to:- name alphabet letters- sound alphabet letters (i.e. phonics)- write letters- identify letters in context- match lower to upper case lettersThe full version of the game has the following 5 activities (this lite version contains only the first two):1. Build the Railroad. This activity is a fun way for children to learn the name and the appearance of each letter in the alphabet. Kids will enjoy as each station lights up with the announcement of a letter.2. Drive the Train. Kids get to practice making their very own letters, both upper and lower cases, by carefully tracing the letter on a railroad track with their choice of train car.3. Garages with Surprises. Children are now tested to see if they can find the right letter. They need to open the correct garage, as their engine drives inside and pulls out a cargo car with a surprise.4. Phonics Cargo Train.  This activity teaches children to identify correct letter sounds within the context of words. The child\xe2\x80\x99s task is to load the correct cargo boxes into the train.5. Engine Search. Children get to think fast on their feet as they match upper and lower case letters before the trains have time to move away. Phonics is reinforced by hearing the letter\xe2\x80\x99s sound after they make the correct match.Recent changes:- Bug fixes.- Added visual instructions- Improved menu interface- Improved sounds'
+p4
+tp5
+tp6
+.

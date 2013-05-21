@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'White & Yellow Pages '
+p1
+tp2
+(S'Description:'
+p3
+S"White & Yellow Pages, the best of both worlds. Cool & simple navigation. Speak or type your search. Look for people or businesses by name or land-line phone number. Includes GPS-enabled driving directions, add contacts, save favorites, track history, and when available the links to business' websites. Millions can't be wrong. There is a reason why White & YellowPages is a Top 30 most-downloaded Android app. Collectively, over eighty million monthly listings are served to our users.FEATURES- Tons of Ratings and Reviews.- Select restaurants include menus and reservations.- Save money with our Deal Section.- Movies: \xe2\x80\x9cShowtimes\xe2\x80\x9d integration includes trailers, descriptions, posters, ratings, driving direction, plot, etc.- Location auto detect or custom location.- Results based on distance from you.- Add business info to your Contacts.- Share through Facebook, Twitter, email, and SMS.- Mapping for every business.- Turn-by-turn voice navigation options.- Easy shortcuts for most commonly used search terms like Pizza, Auto Services, Doctors, Restaurants, etc.- When available, business:- Ratings - Descriptions - Logo - Website - More.We greatly appreciate your feedback. Please email us with your ideas or comments.This is an Avantar app.Recent changes:Update 4.1.7:Updated Images, increased speed and bug fixes. Thank you for your feedback, they help us deliver a better product for you, keep the feedback coming! Write to us at androidsupport@yellowpagesdir.com"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"ameli, l'Assurance Maladie "
+p1
+tp2
+(S'Description:'
+p3
+S'Bienvenue sur l\xe2\x80\x99application ameli de l\xe2\x80\x99Assurance Maladie ! O\xc3\xb9 que vous soyez, acc\xc3\xa9dez gratuitement aux principaux services de votre compte : \xe2\x87\xb0 VOS REMBOURSEMENTS DE SANTE Acc\xc3\xa9dez \xc3\xa0 vos derniers paiements et consultez le d\xc3\xa9tail de chacun d\xe2\x80\x99entre eux. Vous pouvez aussi v\xc3\xa9rifier la bonne transmission de certaines informations \xc3\xa0 votre compl\xc3\xa9mentaire sant\xc3\xa9. \xe2\x87\xb0 VOS INFORMATIONS PERSONNELLES Retrouvez les informations de votre profil (m\xc3\xa9decin traitant, adresse postale, etc.) et modifiez, si vous le souhaitez, votre adresse email, vos coordonn\xc3\xa9es t\xc3\xa9l\xc3\xa9phoniques\xe2\x80\xa6 L\xe2\x80\x99application ameli vous permet aussi de g\xc3\xa9olocaliser les bornes multiservices de l\xe2\x80\x99Assurance Maladie (pour imprimer une attestation de droit, mettre \xc3\xa0 jour votre carte Vitale, etc.). D\xc3\xa9j\xc3\xa0 inscrit ? Acc\xc3\xa9dez \xc3\xa0 votre compte avec les identifiants habituels que vous utilisez sur votre compte internet : votre num\xc3\xa9ro de s\xc3\xa9curit\xc3\xa9 sociale et votre code personnel. Pas encore inscrit ? Ouvrez votre compte directement depuis votre mobile ! T\xc3\xa9l\xc3\xa9chargez d\xc3\xa8s maintenant l\xe2\x80\x99application ameli et soyez les premiers \xc3\xa0 tester les nouveaut\xc3\xa9s pr\xc3\xa9vues pour 2013 ! N.B. Cette application est \xc3\xa9galement offerte aux assur\xc3\xa9s sociaux des r\xc3\xa9gimes : CAMIEG, CAVIMAC, CNMSS, CRPCEN, ENIM, MGP et MNH.Recent changes:Une mise \xc3\xa0 jour mineure apporte une correction sur la g\xc3\xa9olocalisation des bornes - Version r\xc3\xa9f\xc3\xa9rence 1.0.2'
+p4
+tp5
+tp6
+.

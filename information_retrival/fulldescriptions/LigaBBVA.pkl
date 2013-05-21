@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Liga BBVA '
+p1
+tp2
+(S'Description:'
+p3
+S'Official Spanish Professional Football League app - 2012-2013 seasonFeel the passion of the Spanish Teams, minute-by-minute, just for FREE- FIXTURES, CALENDAR, RESULTS, TABLES of the LIGA BBVA, LIGA ADELANTE, COPA DEL REY, CHAMPIONS LEAGUE y EUROPA LEAGUE- MINUTE-BY-MINUTE comments. Now you can also follow and comment on twitter- ALERTS: live alert service that allows you to receive notifications at the beginning, goals and end of every match- 3D GOALS: 3D reproduction of the matchday goals, some minutes after they happen- NEWS: breaking and official news of the LFP- Other competitions: Now in addition to the LIGA BBVA and LIGA ADELANTE, you can also follow the KING\xe2\x80\x99S CUP, CHAMPIONS LEAGUE and EUROPA LEAGUE- MY TEAM: customize the contents of the app to access quickly and easily to all matches and fixtures of your favorite team- QUINIELA 1X2: results and scrutiny - CLUB LIGA: Access to the largest football club in the world where you can enjoy exclusive benefits- And also, matchday pictures, teams, games, facebook, youtube, ...Download it now and if you like it, vote and shareFor further information:www.lfp.eswww.facebook.com/lfpoficialwww.twitter.com/lfpnewsRecent changes:1. Now you can also follow and comment on twitter.2. Other competitions: Now in addition to the LIGA BBVA and LIGA ADELANTE, you can also follow the KING\xe2\x80\x99S CUP, CHAMPIONS LEAGUE and EUROPA LEAGUE.3. CLUB LIGA: Access to the largest football club in the world where you can enjoy exclusive benefits.'
+p4
+tp5
+tp6
+.

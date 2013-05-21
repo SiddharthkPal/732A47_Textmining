@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ANZ goMoney\xc3\xa2\xe2\x80\x9e\xc2\xa2 '
+p1
+tp2
+(S'Description:'
+p3
+S"Simply download the app, register and create a 4-digit PIN to access these great mobile banking features and benefits today!\xe2\x80\xa2\tQuickly and securely access your ANZ account balances and transaction history\xe2\x80\xa2\tTransfer money in real time between your ANZ accounts, pay bills with BPAY\xc2\xae and pay anyone using their BSB and Account Number#\xe2\x80\xa2\tSend money to anyone with just their Australian mobile phone number (the recipient requires an Australian bank account)#\xe2\x80\xa2\tPersonalise your account order, add customised names and even add a picture to your accounts to easily identify them.Your money and personal details are protected. ANZ goMoney\xe2\x84\xa2 is secure and can only be accessed with your PIN. It\xe2\x80\x99s also underpinned by high-grade encryption and backed by our Internet Banking Guarantee. For more information, visit http://www.anz.com/gomoney  Get SupportIf you need any assistance or have a question, look out for us on Twitter or Facebook. http://www.facebook.com/ANZAustraliahttp://www.twitter.com/ANZ_AUANZ goMoney is a trademark of ANZ. ANZ goMoney for Android is only available from Google Play. ANZ goMoney is provided by Australia and New Zealand Banking Group Limited (ANZ) 2012.ABN 11 005 357 522. ANZ's colour blue is a trade mark of ANZ.#A daily transaction limit of $1000 applies to Pay Anyone and Pay to Mobile transactions using ANZ goMoney.\xc2\xaeBPAY is registered to BPAY Pty Ltd ABN 69 079 137 518.By installing ANZ go Money\xe2\x84\xa2 you acknowledge and accept the ANZ goMoney\xe2\x84\xa2 Terms and Conditions for Android and License Agreement and agree to receive those terms and conditions and any amendments to them electronically via Google Play or your mobile device. You acknowledge that ANZ will not send you a paper copy.Recent changes:\xe2\x80\xa2\tYou are now able to personalise the names of your accounts and their listed order.\xe2\x80\xa2\tYou can add a picture to your accounts from a list of ANZ card images, or you can use your own photo.\xe2\x80\xa2\tWe have added a new slide out left hand menu, with an Android specific look and feel.\xe2\x80\xa2\tWe\xe2\x80\x99ve made a number of tweaks & optimised the app for accessibility, speed and compatibility.Thank you for all your ongoing feedback. We will look to provide more enhancements in future releases."
+p4
+tp5
+tp6
+.

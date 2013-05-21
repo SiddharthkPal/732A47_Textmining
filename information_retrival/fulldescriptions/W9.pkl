@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'W9 '
+p1
+tp2
+(S'Description:'
+p3
+S'Toute la cha\xc3\xaene W9 sur Smartphone et Tablette !Retrouvez avec votre application W9 :* La cha\xc3\xaene W9 en direct* Vos programmes favoris accessibles gratuitement en Replay* Encore plus de vid\xc3\xa9os disponibles avec les meilleurs bonus et extraits des programmes de la cha\xc3\xaene* Tous les programmes M6 et 6ter sans changer d\xe2\x80\x99application* Les commentaires de la communaut\xc3\xa9 de t\xc3\xa9l\xc3\xa9spectateurs en temps r\xc3\xa9el pendant la diffusion du programme* Une version compl\xc3\xa8te du guide TV avec les programmes W9, M6 et 6ter et la possibilit\xc3\xa9 de g\xc3\xa9rer ses alertes sur ses programmes pr\xc3\xa9f\xc3\xa9r\xc3\xa9s* Une fonction filtre parental pour n\xe2\x80\x99afficher que les contenus adapt\xc3\xa9s aux enfants de moins de 10 ans* Cr\xc3\xa9ez votre compte W9 pour commenter les programmes que vous regardezNous vous recommandons de t\xc3\xa9l\xc3\xa9charger cette application en WifiCette application est compatible avec les terminaux sur syst\xc3\xa8me d\xe2\x80\x99exploitation Android sup\xc3\xa9rieur \xc3\xa0 2.3Recent changes:-- 2.0.1- Correction de bugs mineurs- R\xc3\xa9solution de cas de crashs remont\xc3\xa9s dans vos commentaires- La fonction reprise de vid\xc3\xa9o est de nouveau fonctionnelle. Gr\xc3\xa2ce \xc3\xa0 votre compte, en \xc3\xa9tant connect\xc3\xa9 vous pouvez commencer une vid\xc3\xa9o sur votre ordinateur et la reprendre l\xc3\xa0 o\xc3\xb9 vous vous \xc3\xaates arr\xc3\xaat\xc3\xa9 sur votre smartphone ou tablette.'
+p4
+tp5
+tp6
+.

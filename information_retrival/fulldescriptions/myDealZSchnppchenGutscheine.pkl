@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'myDealZ Schn\xc3\x83\xc2\xa4ppchen&Gutscheine '
+p1
+tp2
+(S'Description:'
+p3
+S'myDealZ - Die Schn\xc3\xa4ppchen & Gutscheine App mit ZMit der kostenlosen myDealZ App verpasst Du keine Schn\xc3\xa4ppchen, keine aktuellen Gutscheine und keine Preisfehler mehr, auch wenn du gerade unterwegs bist. Diskutiere und bewerte die Angebote gemeinsam mit der Community.Dank Push-Benachrichtungen wirst du immer \xc3\xbcber die neuesten Schn\xc3\xa4ppchen informiert, unabh\xc3\xa4ngig davon, ob es sich um Angebote auf der Startseite handelt oder um besonders hei\xc3\x9fe Deals im HUKD-Forum. Du kannst nat\xc3\xbcrlich frei entscheiden, ob und wann Du Push-Benachrichtigungen bekommen oder die App einfach nur zum St\xc3\xb6bern benutzen m\xc3\xb6chtest. Dabei gibt es Deals von Amazon, Dailydeal, Groupon, MeinPaket, Zalando, H&M, redcoon, Media Markt, Saturn, aber auch vielen, vielen kleinen H\xc3\xa4ndlern und lokalen Angeboten von Rossmann, Schlecker, real,- und co. Nat\xc3\xbcrlich gibt es auch immer wieder kostenlose Angebote, bei uns liebevoll Freebies genannt und somit ideal f\xc3\xbcr jeden Schn\xc3\xa4ppchenfuchs. Die angezeigten Gutscheine lassen sich bequem per Klick kopieren und direkt beim Online Shopping einsetzen. Geld sparen leicht gemacht.Hol Dir jetzt die kostenlose myDealZ App und sei auch unterwegs immer \xc3\xbcber die neusten Deals informiert.Keyworte: Schn\xc3\xa4ppchen, Gutscheine, Gutschein, Kostenlos, preisvergleich,  angebot, deal, deals, zeitschriftenabos, esprit, lidl, aldi, tchibo, umsonst, ebayRecent changes:Neue Features in mydealz Version 2.22- Der Login und die Registrierung wurden komplett neugestaltet- Wenn Du durch eine lange Liste von Deals scrollst, verschwindet die App-Navigation (mehr Platz f\xc3\xbcr Deals)- Wischen um zwischen Kategorien zu wechseln wurde wieder eingef\xc3\xbchrt - Abgelaufene Deals werden deutlich markiert - kleinere BugfixesUnter Trending kannst Du Schlagw\xc3\xb6rter hinzuf\xc3\xbcgen bei denen Du sofort \xc3\xbcber einen passenden Deal benachrichtigt werden willst.'
+p4
+tp5
+tp6
+.

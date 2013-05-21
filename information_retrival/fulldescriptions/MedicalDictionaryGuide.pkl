@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Medical Dictionary & Guide '
+p1
+tp2
+(S'Description:'
+p3
+S'* Excellent coverage of terms for general health & biomedical sciences. * Provides three features: Annotator, Dictionary and Thesaurus. * Semantic (conceptual) search available. * Especially good cancer related drug coverage, and chemotherapy regimen coverage. * Includes number of standards used by the community, including CDISC, UCUM, FDA standard product labeling terminology. **Also available on iPhone**This Application requires Internet connection to connect with major online resources.Keywords: Medical Dictionary, Dictionary, Medical Annotator, Thesaurus, Medical ThesaurusSupport URL: http://medicalguideforios.weebly.com/contact-us.html'
+p4
+tp5
+tp6
+.

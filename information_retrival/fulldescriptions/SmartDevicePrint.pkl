@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Smart Device Print '
+p1
+tp2
+(S'Description:'
+p3
+S'This application can be used to print photos or documents on Android devices using Ricoh printers or MFPs.Main features:\xe3\x83\xbbPrint the photos in photo applications on Android devices.\xe3\x83\xbbPrint the PDF documents on Android devices.\xe3\x83\xbbPrint the texts saved on the clipboard.\xe3\x83\xbbPrint the web pages displayed in this application. \xe3\x83\xbbPrint the JPG or PDF files in other applications.\xe3\x83\xbbPrint securely using user code or user authentication.\xe3\x83\xbbPrint using on-demand print application.*1\xe3\x83\xbbPrint using LF (location free) print server.*2*1: On-demand print application to print with: Enhanced Locked Print NX*2: LF printer server to print with: Enhanced Locked Print NX FlexRelease Server V2Supported languages:\xe3\x83\xbbEnglish, Japanese, German, French, Italian, Spanish and Portuguese\xe3\x80\x90Supported Models (Models on which this application has been tested OK)\xe3\x80\x91The supported models added in Ver2.1.0 are as follows: \xe3\x83\xbbAficio SG 7100DNPlease check the following website for the latest supported models:https://www.neusoft.co.jp/contactwidget/support/en/smartdeviceprint.htmRecent changes:\xe3\x83\xbbSearching printer by DNS host name is supported. \xe3\x83\xbbCancellation during printing (except for PDF documents) is supported.\xe3\x83\xbb"Page sharing" from other Web browsers is supported. \xe3\x83\xbbMore supported models are added.'
+p4
+tp5
+tp6
+.

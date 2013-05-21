@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vehicles Puzzles for Toddlers! '
+p1
+tp2
+(S'Description:'
+p3
+S"your kid loves puzzles and wants to play with cars, motors, trucks, tractors ? This is the app for you!vehicles puzzles for toddlers is an educational and entertaining game.It is a nice, simple, fun, and colorful game for toddlers and kids! Play with vehicles puzzles!A lot of different puzzles and many vehicles to keep your kid busy.Easy to learn and to control:-touch the screen and drag the vehicle on the right place-interact with all the elements on the screen when a puzzle is solved-when a puzzle is completed tap the arrow to change to the next levelAvailable for all screen resolutions and devices, including tablet device as Kindle and Samsung !Simple and intuitive, your baby will have lots of fun for hours!This educational game will help your toddler to improve skills in problem solving, logical and cognitive skills, concentration and memory.Features:- high quality puzzle game for toddlers and preschool kids from ages 0 to 7 with very cute vehicles- Easy to use and control- fun for children- learn to recognize vehicles and their sounds- Simple for toddlers and babies with increasing difficulty- Toddlers develop their fine motor skills by dragging and dropping puzzle pieces- Play with your child or let them play alone- use it to keep your baby or toddler occupied- A lot of vehicles puzzles! 19 in the FULL version- more than 60 vehicles in the FULL version: truck, tractor, excavator, bus, fire truck, train, boat, ships, motorcycle, airplane, police car, race car, helicopter, truck lift, forklift, bike and ambulance- randomly generated puzzles! this educational game will never get old!This is the FREE version (Ads supported),If your kid likes this app, then you can buy the FULL versionwith more puzzles, more vehicles and no adshttps://play.google.com/store/apps/details?id=co.romesoft.toddlers.puzzle.truckFullFun and enjoyable to learn and play with great colorful puzzles, this is a must have app!A lot of educational truck puzzles for toddlers and young kids!!Your child will admire every kind of vehicle and will hear realistic sound effects!Recent changes:* it's possible to unlock all puzzles and remove the advertising through in app payment-various fixes-ATTENTION: If on your android phone the game is not working, please send to the email support the model, Thanks"
+p4
+tp5
+tp6
+.

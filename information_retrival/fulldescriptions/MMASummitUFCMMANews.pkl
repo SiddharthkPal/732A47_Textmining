@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MMA Summit: UFC & MMA News '
+p1
+tp2
+(S'Description:'
+p3
+S'All MMA & UFC news in one place. Perfect for staying updated with everything going on in the world of the UFC and MMA. Gathers the best MMA and UFC news sites from all over the world. Includes videos, news, future events, results, fighters and more.Stay up to date with the most popular fighters, such as Anderson Silva, George St Pierre, Cain Velasquez, Jon Jones, Benson Hendersson, Nick and Nate Diaz, Jose Aldo and Ronda Rousey. As well as the biggest organizations, UFC, Bellator, Invicta FC and WSOF.There are almost a 100 sites available, including: UFC, ESPN, Sherdog, MMA Junkie, MMA Mania, Bloody Elbow, Fightmetric, Cage Potato, MMA Fighting, Sports Illustrated, Underground, MMA Weekly, Strikeforce, Bellator, Invicta FC, ONE FC and many more.RSS feeds available for most of the websites, everything is pre-configured. You just have to select your favorites.If you want to get information or the latest news and updates about mixed martial arts in general or about the best fighters and mma organizations in particular, you will need to look no further!Currently there are MMA news from: USA, UK, Canada, Brazil, China, Japan, Korea and Sweden.**************************************************If you experience any problems opt to send the Google crash report and then email us using the app (at the bottom of the settings menu). Any thoughts, suggestions or questions are of course also very welcome.**************************************************Recent changes:V1.6- Automatic update. No longer necessary to update news and countdown timer manually by pulling down the newslist. - Option for Manual update in the settings menu.- Showing relative time for Videos and News.- Adding support for many more RSS feeds, including MMA Fighting, Bloody Elbow, MMA Payout, MMA Weekly and Yahoo! Sports- Updating some of the graphics. Let us know what you think.- Adding support for Mexican websites (email your suggestions)- Bugs'
+p4
+tp5
+tp6
+.

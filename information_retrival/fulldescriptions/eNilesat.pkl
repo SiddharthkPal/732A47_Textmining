@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'eNilesat '
+p1
+tp2
+(S'Description:'
+p3
+S"Electronic Nilesat application provides users with the latest frequencies and channels database.The data is updated weekly.With the ability to find a channel's frequency at any time and a compass to get directions to help in installing and fixing satellite antennas and detecting signals.The application has the ability to change languages between English and Arabic.It also classifies HD/nonHD free/scrambled TV/radio channels and marks new channels with an icon until next database update.The database is collected manually by scanning the satellite using a well directed antennaversion : 1.0.2Features :- Shows new channels weekly- Ability to search about any channel to get it's frequency / frequencies (if it has more than one frequency)- Compass to get both the north and the nilesat directions- Shows satellite statistics- Ability to change channel names between English and Arabic- Ability to search for channels in both English and Arabic languages- Ability to add channels to favorite list- Ability to change font- Ability to mark/unmark Frequencies- Ability to share channel frequencies with friends- More features coming soon. stay tuned ;)Recent changes:Version 1.1.3Bug fixes on some devices while updating chanelsRemoved an ad type that was causing troubles"
+p4
+tp5
+tp6
+.

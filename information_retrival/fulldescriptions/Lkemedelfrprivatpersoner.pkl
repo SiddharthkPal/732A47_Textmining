@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'L\xc3\x83\xc2\xa4kemedel f\xc3\x83\xc2\xb6r privatpersoner '
+p1
+tp2
+(S'Description:'
+p3
+S'L\xc3\xa4kemedel f\xc3\xb6r privatpersoner. Anv\xc3\xa4nder sig av FASS.Vid fel, var v\xc3\xa4nlig maila david@dxapps.se, rapportera g\xc3\xa4rna alla slags fel s\xc3\xa5 vi kan sl\xc3\xa4ppa uppdateringar utan fel! Saknas bipacksedel eller liknande, var v\xc3\xa4nlig maila!F\xc3\xb6rskrivarinfo finns i "L\xc3\xa4kemedel f\xc3\xb6r f\xc3\xb6rskrivare".Den mest funktionsfyllda och enda applikation som \xc3\xa4r gratis och s\xc3\xb6ker p\xc3\xa5 fass.se. Funktioner: S\xc3\xb6k p\xc3\xa5 l\xc3\xa4kemedel. Se bild p\xc3\xa5 l\xc3\xa4kemedlet och information om det och s\xc3\xa5 kan du l\xc3\xa4sa bipacksedeln.S\xc3\xb6k p\xc3\xa5 substanser. Den enda applikationen d\xc3\xa4r du kan s\xc3\xb6ka p\xc3\xa5 substanser f\xc3\xb6r att hitta l\xc3\xa4kemedel som inneh\xc3\xa5ller den substansen. Scanna f\xc3\xb6rpackning f\xc3\xb6r att f\xc3\xa5 upp bipacksinformation. Bokm\xc3\xa4rk l\xc3\xa4kemedel. Det finns en version ute f\xc3\xb6r f\xc3\xb6rskrivare, perfekt f\xc3\xb6r l\xc3\xa4kare,sk\xc3\xb6terskor, sjuksk\xc3\xb6terskor m.mL\xc3\xa4kemedels\xc3\xb6k redan idag.K\xc3\xa4lla: FassRecent changes:1.5:null null buggen som gjorde appen oanv\xc3\xa4ndbar \xc3\xa4r fixad.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Guns & Destruction '
+p1
+tp2
+(S'Description:'
+p3
+S'Guns & Destruction is a realistic simulator, in which you are able to choose a lot of different weapons and look at them from every angle: Handguns, Shotguns, Machine Guns, Sub-Machine Guns, Assault Rifles, Sniper Rifles, Rocket Launchers, etc.You will also be able shoot down different kind of objects like you would be in the real world.Tap the screen to fire and use the joystick to aim at the objectsBig fun! Destroy whatever you want:You have the possibility to fire with all the guns and destroy the scene. You can destroy boxes, a barrack, pallets, car, minibus etc.ALL WEAPONS ARE FULLY INTERACTIVE: \xe2\x9c\x93 360\xc2\xb0 View to examine each weapon closely\xe2\x9c\x93 Exploding environment (barrels and boxes)\xe2\x9c\x93 Magazine discharge (full and empty)\xe2\x9c\x93 Firing mechanic \xe2\x9c\x93 Recoil animation \xe2\x9c\x93 Flames & smoke \xe2\x9c\x93 Reload animations \xe2\x9c\x93 Real-time clip, gauge and magazine feedback \xe2\x9c\x93 Authentic sound recordings for all actions === Weapons ===AK-47M-16SteyerAugMAC-10P-90G-17MP5RPG-7M4FN2000CompactFN TP ShotgunWinchester Pump ActionGLOCK 17GLOCK 19GLOCK 35Makarovetc.More GUNS coming soon.This app looks like the games advertised on TV, Radio, Youtube and Internet.-Warning: This is a funny app to use everywhere at party, at work, at home, in school etc. So remember to turn the volume down when you are in public places.Note: As this modern shooter game does not present any blood or death scenes, it could be played also by people that are more sensible to violence.This is a free application - download the greatest gun app now and enjoy it!Recent changes:[Version 3.1]- Better usability[Version 3.0]- Performance tuning[Version 2.0]- Bugfixing'
+p4
+tp5
+tp6
+.

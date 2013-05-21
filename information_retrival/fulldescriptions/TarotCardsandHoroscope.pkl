@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tarot Cards and Horoscope '
+p1
+tp2
+(S'Description:'
+p3
+S'Look into the future of your love life, your personal life, and your professional life with these free daily horoscopes and Tarot readings.Predict the future with the best Tarot Card and Horoscope app for Android!Want to improve your Love, Work, and Wellness? Want to know what dates are special this month? Then this app is for you!'
+p4
+tp5
+tp6
+.

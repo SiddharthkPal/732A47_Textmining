@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Withings Health Mate '
+p1
+tp2
+(S'Description:'
+p3
+S"The Withings Health Mate is the simple way to take care of yourself and stay healthy. It\xe2\x80\x99s free to download and is designed for anyone who wants to lose a few pounds, exercise more, keep an eye on their blood pressure, or sleep better. Living healthy starts with knowing where you stand. The Withings app stores history of your data, helps you understand it and improve it over time. You can log this data manually or use one of our many compatible tracking devices and apps to automatically track your health. Get to the weight that is right for you : - Log your weight data manually or use a Withings Smart scale to do it automatically. - Keep history of your weight and see where you stand on beautiful graphs. - Set yourself achievable goals, and be reminded to focus on your efforts. - Instantly see how close you are to your desired weight. Stay in shape: - Track your physical activity with one of our partner apps: seamlessly import all your data from RunKeeper or BodyMedia. - Get instant tips and supporting messages from your Withings Health Mate and make sure you achieve the recommended 30 minutes of moderate activity per day. - See how your physical activities impact your weight loss in a snapshot. Get peace of mind: - Log your blood pressure data. - Be reminded to monitor your heart regularly, and share your data with your doctor and your loved ones. - Consult your Withings health mate and see instantly how well you are taking care of your heart. Get restful night's sleep: - Sleep does matter and impacts your day to day. Track your sleep automatically with our partner devices: Zeo or BodyMedia. - Consult your healthy health mate and see instantly if you are getting enough rest.Recent changes:Thank you for all your positive feedbacks! We have taken them into account to provide you with a new version of Health Mate that works even better with our new Withings Smart Body Analyzer.Among the various improvements : - An overall improvement in speed.- A much improved Withings Smart Body Analyzer installation process.Thanks again for your support, please don't hesitate to send more feedback."
+p4
+tp5
+tp6
+.

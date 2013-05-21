@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'VISplanner '
+p1
+tp2
+(S'Description:'
+p3
+S"Deze app is behoorlijk omvangrijk (35 MB) maar hierdoor kun je ook met minder snelle internetverbindingen overal informatie over alle viswateren van Nederland raadplegen. Je moet dus wel voldoende ruimte op je smartphone hebben om al deze informatie op te kunnen slaan. Je download als het ware een interactieve versie van de papieren Lijst van Viswateren. De app vervangt deze papieren Lijst van Viswateren overigens (NOG) niet, je bent nog steeds verplicht deze bij je te hebben net als je VISpas.Dit is de eerste week van de app in de appstore. Door de hoge eisen die de app aan je telefoon stelt en het feit dat de app voor ruim 1400 verschillende telefoons beschikbaar is kan de app op bepaalde telefoons nog bugs vertonen. Wanneer dit het geval is willen we graag met je in contact komen om deze problemen op te lossen. Mail dan een uitgebreide beschrijving van het probleem met je telefoonnummer en het type telefoon wat je gebruikt naar visplanner@sportvisserijnederland.nl.Met VISplanner zie je direct op Google Maps kaart waar je met jouw VISpas(sen) wel enniet mag vissen. Er is uitgebreide informatie over het water beschikbaar. Daarnaast zieje eenvoudig waar je handige visvoorzieningen in de buurt kunt vinden, zoals visstekken,trailerhellingen, visvijvers, en hengelsportzaken.Het is ook mogelijk om als gebruiker zelf visstekken toe te voegen, inclusief foto\xe2\x80\x99s. Entenslotte is het ook mogelijk om informatie uit de Visplanner te delen met je vismaten viabekende social media als Facebook en Twitter.Recent changes:Update April 2013:*  Verbetering aangebracht in het omzetten van locatie naar coordinaten op de kaartUpdate Februari 2013:* Viswatergegevens vernieuwd naar Gezamenlijke Lijst van Nederlandse Viswateren (het boekje bij de VISpas) * Nachtvis- en Derde Hengelwateren opgenomen onder 'Filter'"
+p4
+tp5
+tp6
+.

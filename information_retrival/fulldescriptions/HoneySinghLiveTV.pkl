@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Honey Singh Live TV '
+p1
+tp2
+(S'Description:'
+p3
+S'Watch over live and linear TV channels(Full Screen) for free on your mobile phone with Honey Singh Live TV. Join and watch mobile TV for free, direct from your Android device. Honey Singh Live TV offers over 180+ TV channels across 6 different genres for your viewing entertainment.Download the free app and you can:\xe2\x80\xa2\tGet free and unlimited access to over 180+ channels and more of the world\xe2\x80\x99s biggest television brands\xe2\x80\xa2\tChoose from several genres including Music, Entertainment, Bollywood, Sports, Fashion and News\xe2\x80\xa2\tWatch from any country in the world\xe2\x80\xa2\tWatch anytime and anywhere as it is compatible with Wi-Fi 2.5G, 3G and 4G\xe2\x80\xa2\tEnjoy brand new content added regularly\xe2\x80\xa2\tWatch high quality streams that adapt to suit your device\xe2\x80\xa2\tUse the new and improved user interface \xe2\x80\xa2\tUse the descriptive and handy channel guide\xe2\x80\xa2\tShare what you\xe2\x80\x99re watching with your friends on Facebook, Twitter and Google+Recent changes:Beta Version Launched'
+p4
+tp5
+tp6
+.

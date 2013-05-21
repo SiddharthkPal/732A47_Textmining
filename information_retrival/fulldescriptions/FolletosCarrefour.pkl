@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Folletos Carrefour '
+p1
+tp2
+(S'Description:'
+p3
+S'Carrefour pone a tu disposici\xc3\xb3n todos los folletos de ofertas vigentes en nuestros hipermercados, para que puedas consultarlos, hacer tu lista de la compra, etc\xe2\x80\xa6Consulta los folletos en vigor asociados a tu hipermercado Carrefour habitual y ten preparada tu lista de la compra para cuando quieras ir, a\xc3\xb1adiendo las ofertas a tu lista personal.Tambi\xc3\xa9n podr\xc3\xa1s saber la tienda m\xc3\xa1s cercana a tu posici\xc3\xb3n (permitiendo a la aplicaci\xc3\xb3n tu geolocalizaci\xc3\xb3n o buscando manualmente) y filtrando con las opciones que m\xc3\xa1s te interesen:- por tipo de tienda- por distancia- por tiendas con estaciones de servicioRecent changes:-Optimizaci\xc3\xb3n de im\xc3\xa1genes para acelerar su descarga y ahorrar espacio de almacenamiento.-Mejora en la gesti\xc3\xb3n de memoria y optimizaci\xc3\xb3n de procesos internos.-Mejoras en la funcionalidad de localizaci\xc3\xb3n de tiendas.-Corregido fallo en compartir por Facebook que obligaba a pulsar dos veces el bot\xc3\xb3n compartir.-Mejora en la funcionalidad de compartir (Facebook, Twitter y email).-Sistema mejorado de gesti\xc3\xb3n de almacenamiento de ficheros.-Correcci\xc3\xb3n de bugs detectados en la \xc3\xbaltima versi\xc3\xb3n.'
+p4
+tp5
+tp6
+.

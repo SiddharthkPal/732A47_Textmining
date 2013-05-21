@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Monster Job Search '
+p1
+tp2
+(S'Description:'
+p3
+S'Stay connected to the premier job search website to discover the latest jobs that meet your needs. Get Monster.com Jobs for Android devices, which allows you to search, view and apply to jobs- whenever you want and wherever you want. You can even be alerted when new jobs are available!Key features: - Search, view and apply for jobs (or save/email them to apply later)- Access your Monster account\xe2\x80\x94 resumes, cover letters, job applications and more- Push notifications for new jobs that fit your criteria- Use the built-in GPS to search for jobs near you- Save your job searches- Set email job alerts - Edit cover lettersThe Monster Android app is available in 19 languages!Recent changes:- Bug fixes and general performance enhancements.'
+p4
+tp5
+tp6
+.

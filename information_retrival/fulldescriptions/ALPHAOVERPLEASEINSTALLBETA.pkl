@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ALPHA OVER PLEASE INSTALL BETA '
+p1
+tp2
+(S'Description:'
+p3
+S'*** The Alpha testing Phase is Over, Please Download the Beta at : https://play.google.com/store/apps/details?id=com.androguide.pimpmyromRecent changes:29/04/2013 : ALPHA OVER & BETA RELEASED : https://play.google.com/store/apps/details?id=com.androguide.pimpmyrom'
+p4
+tp5
+tp6
+.

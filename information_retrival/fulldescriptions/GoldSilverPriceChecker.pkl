@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gold & Silver Price Checker '
+p1
+tp2
+(S'Description:'
+p3
+S'Are you a gold or silver investor constantly looking to buy or sell gold coin, gold bar or silver coin at the right price? Then this may be the perfect mobile companion for you to conveniently track current gold & silver prices while on the go. Never miss a gold buying opportunity again!This is a simple and straight-forward application that does 2 things fast,* Check the current spot gold and silver prices (per ounce)* Display today\xe2\x80\x99s silver and gold charts, and also silver & gold prices history in the form of monthly and annual historical charts.Features include,* Fast and intuitive 2-Click access to today\xe2\x80\x99s up to the minute silver or gold prices per oz.* Tilt horizontal view for larger gold or silver charts display.* Refresh button on top right to retrieve updated information.Suggestion and feedback are most welcome. Please visit my Facebook page below to give your feedback and get latest updates on the app,https://www.facebook.com/goldsilverpricecheckerThank you for using the app and best of luck in your gold and silver investing journey.Charts and data in the application are sourced from www.kitco.com. Keywords: bullion, precious metals, goldprices, goldprice, silverprices, silverprice, gold coins, gold bullion, silver bullionsRecent changes:2013-04-22: Enhancement to support high traffic and improved support for Tablet. Due to the recent capitulation in the precious metals market, the app is experiencing huge spike in usage. Some of our users were having trouble loading the Gold and Silver page. I have made some changes to the code to make it more robust and hopefully be able to load the page reasonably well even in high traffic situation. As always, please email me your feedback and thanks for your continuous support!'
+p4
+tp5
+tp6
+.

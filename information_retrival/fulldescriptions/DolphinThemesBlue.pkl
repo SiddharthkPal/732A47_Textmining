@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dolphin Themes: Blue '
+p1
+tp2
+(S'Description:'
+p3
+S'**Dolphin Browser Themes**Specially designed for Dolphin Browser\xef\xbc\x88Formerly Dolphin Browser HD, more florid and more elegant. Now all color themes are updated to be more compatible with Dolphin Browser v8.0 and above. Get it and have a completely new makeover of your favorite Dolphin Browser on Android!Recent changes:Improve compatibility with  Dolphin Browser v8.0 and above.Various stability and performance improvement.'
+p4
+tp5
+tp6
+.

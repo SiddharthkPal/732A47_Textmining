@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dialer One '
+p1
+tp2
+(S'Description:'
+p3
+S'Dialer One is smart multilingual T9 like dialer application.*Speed dial*Call log grouped by contact*Send contact*Customizable*Swipe between screens*Tone dial*Export calls*Simultaneous search on calls and contacts on two languages*Filter contacts by group/organization*Filter calls by type**Internet and Location permissions are for Yandex geo-search**Recent changes:*** LIGHT THEME SOON ***v.2.0.4a+ Fixed bug with option to set wallpaper as background on prior Android 4.1.2;v.2.0.4+ Option to set wallpaper as background (Appearance->Colors->Background);+ Option to set custom color as background (Appearance->Colors->Background);+ "Transparent" theme;+ Fixed "Contacts with phones" option;+ "Name+Number" option to show contacts and all numbers in list;+ Fixed bug with DTMF and dial pad touch tones;'
+p4
+tp5
+tp6
+.

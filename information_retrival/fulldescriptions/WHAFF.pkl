@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'WHAFF '
+p1
+tp2
+(S'Description:'
+p3
+S'WHAFF is a new kind of Social Commerce best reward app to satisfy your needs and wants.How make money? How to make money? do you want free appsHave you ever heard about this application that gives you a reward of money when simply downloading apps?Only download paid best apps in discounted prices!Invite your friends for free.Complete a simple mission with a downloaded app for free.This unbelievable way of earning would give you a doubt that apps we provide will be boring and lame, but NO! All best apps and games we give youare awesome as and also have high quality due to our support of Holographic User Interface(holo ui)!You just cannot resist this awesome rewards app when you can make money while playing around with your cellphone or just inviting your friend from a Login Facebook android!Now, Why not having fun and get rewarded? We will satisfy your needs and wants by giving you an awesome rewards!# HOW TO USE & MAKE MONEY MONEY MONEY (IN CASH!) #1. Login to WHAFF with your  Login Facebook account.2. Scan, Select and download free and awesome best apps you want to get.3. If you earn more than 5 dollars, you can get payout via Paypal account.(Note: You should make Paypal account for get payout. In addition, although Amazon gift card is notavailable yet, it will be prepared soon and .)Keywordearn money with android,earn money app,my,whaf,playmobsRecent changes:Version 79Add Offer.Add TrialPay Offer(Other picks)Friends Invite Bug FixVersion 77Add TrialPay Offer(Other picks)Friends Invite Bug FixVersion 70Add SuperSonicAds Offer(Other picks)Version 69Add RadiumOne Offer(Other picks)Version 67CloseBug FIxAdd TokenAds Offer(Other picks)'
+p4
+tp5
+tp6
+.

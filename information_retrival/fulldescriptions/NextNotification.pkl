@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Next Notification '
+p1
+tp2
+(S'Description:'
+p3
+S'A plugin of Next Launcher 3D to show number of missed calls, unread SMS\xef\xbc\x8cGmail.Next Notification is an independent plugin of Next Launcher. It can help you to be notified the number of unread messages for calls, SMS, Gmail. When you get any missed calls or messages, it would show the total number of them on the icon.Important:1. This is a totally free application and we need the permissions to read the applications, but we will not collect the messages.2. v2.3.6+ Gmail is necessary with Android 2.3+ and v4.0.5+ Gmail is necessary with Android 4.0+ 3. V1.16+ of Next Launcher 3D is required. (Search "Next Launcher 3D" to download)4. To apply the notification: MENU> Preferences > Advanced settings > NotificationFeatures:- Support for missed calls, unread SMS, Gmail- Support icons on dock bar and home screen.- Independent pluginFeel free to contact us if there is any problem or suggestion.E-mail: golauncher@goforandroid.comFacebook: www.facebook.com/NextLauncherBlog: www.golauncher.goforandroid.com'
+p4
+tp5
+tp6
+.

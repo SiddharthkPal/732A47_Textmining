@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NRC '
+p1
+tp2
+(S'Description:'
+p3
+S'Deze gratis Android app biedt u de digitale editie van NRC Handelsblad. Ervaar het digitaal lezen met een leeservaring die zo dicht mogelijk bij de papieren krant blijft. Zo heeft u de complete krant altijd bij de hand.De NRC Handelsblad nieuwsapplicatie geeft u toegang tot alle artikelen die in de krant verschijnen. Gedownloade kranten zijn offline beschikbaar in het archief van uw Android smartphone of tablet.U kunt direct gebruik maken van deze app als u (digitaal) abonnee bent van NRC Handelsblad. Geen abonnee? Geen probleem, u kan via de applicatie een digitaal abonnement aankopen.De privacyverklaring van NRC is te vinden op: http://www.nrc.nl/privacy-verklaring/'
+p4
+tp5
+tp6
+.

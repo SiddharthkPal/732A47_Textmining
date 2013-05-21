@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Gamoos Arabic English Dict '
+p1
+tp2
+(S'Description:'
+p3
+S'You also in hard looking for Arabic -English dictionary ? Want to check words and do not take flow? Worry about not authoritative dictionary content? Anytime to check word? Need to carry the new words? Congratulations on you found the song wood, o Arabic dictionary software (hereinafter referred to as "Gamoos(or Qamos,Qamusee) Arabic English dictionary), it is you need to mobile phone Arab language dictionary software. The software features: 1.Convenient, paragraph 1 of the Arabic, English translation dictionary software; 2.Share translations by SMS, email, copy etc; 3.According to user input rapid display search results, support list quick results and search for words show the default interpretation; 4.Support check word history, new words, did not look up the word, such as record and 5.synchronization function; 6.Rich thesaurus, built-in several Arabic-English, Arabic-Arabic dictionary; 7.Over 500000 words. 8.Convenient notepad: record the usual check word, convenient words; 9.Online translation: Google and Bing be online translation engine; 10.Users can improve entry, I for all, all for one, common for thesaurus and brick add tile; 11.Support 2.x - Arabic display without Arabic locale . Coverage: 1. Tourism. 2. The Muslim pilgrimage. 3. Arabic related working personnel. 4. Professional translators. 5. The students.PS:Disk space more than 200M!!!Recent changes:1.modify the UI theme2.fixed the bugs'
+p4
+tp5
+tp6
+.

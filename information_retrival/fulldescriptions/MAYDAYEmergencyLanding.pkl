@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MAYDAY! Emergency Landing '
+p1
+tp2
+(S'Description:'
+p3
+S"*** The number 1 Flight Simulation experience on iOS lands finally on Android! ***More than 3.5 million pilots all around the world can't be wrong. Join today the most exciting flight sim experience and land your airplane saving all the passengers.Emergency Landing makes you feel like a real aircraft pilot. Face the most dangerous weather conditions and aircraft failures and fly your passengers safely home. You have just one objective: to land safely \xe2\x80\x93 easy to play, difficult to master. Will you make it?\xe2\x80\xa2Handle your device like a real aircraft console. \xe2\x80\xa2Maintain constant airspeed and secure a comfortable angle of descent by varying the engine power and using all the aircraft instrumentation. \xe2\x80\xa2Progress through a wide variety of difficulty levels and increase your ranking to become a pro pilot. \xe2\x80\xa2Face the most diverse weather conditions: heavy rain, fog, strong wind, turbulence, night landings. \xe2\x80\xa2Manage heartbreaking airplane failures: flaps, gear, engine. \xe2\x80\xa25 breathtaking scenarios all around the world: countryside, desert, seaside, city, tropical islands. \xe2\x80\xa24 type of surfaces: landing strip, motorway, ground, water. \xe2\x80\xa240 missions, plus extra missions released monthly."
+p4
+tp5
+tp6
+.

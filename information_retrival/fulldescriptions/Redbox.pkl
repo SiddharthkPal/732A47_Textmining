@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Redbox '
+p1
+tp2
+(S'Description:'
+p3
+S"Redbox \xe2\x80\x93 Your entertainment destination for movies and games. Find and reserve movies and games with the official Redbox iPhone app! This app lets you find Redbox kiosks near you, see movie rentals that are available, watch trailers and reserve DVDs and games for pickup.Reserve movies and games: See everything that\xe2\x80\x99s available at Redbox, or narrow it down to see what's inside your favorite kiosk. Search by genres, too! Once you find the movie or game you're looking for, reserve it on your iPhone so it'll be waiting for you when you get to the kiosk.Find a Redbox kiosk: Find the closest Redbox location, save your favorites and get directions (with a map!) to any kiosk you want. Email mobile@redbox.com with questions or comments.Recent changes:- Performance optimizationsNote: If you are having trouble loading either movies or games, please try clearing the data in the app or uninstall/re-install the application."
+p4
+tp5
+tp6
+.

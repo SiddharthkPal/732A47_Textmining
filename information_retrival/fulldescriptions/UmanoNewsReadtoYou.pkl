@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Umano: News Read to You '
+p1
+tp2
+(S'Description:'
+p3
+S'The widely acclaimed, \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 news app is now available on Android! With Umano you will hear real people with amazing voices read interesting news articles to you. Here are some things you can do with Umano: \xe2\x98\x85 Browse the most interesting articles from top news sources\xe2\x98\x85 Make a playlist with articles that interest you\xe2\x98\x85 Download articles to listen to offline\xe2\x98\x85 Personalize your listening experience\xe2\x98\x85 Search & Explore from a large library of content\xe2\x98\x85 See what your friends are listening toNotes on Permissions: - Read Sensitive Log Data - we only require this permission to better analyze app crashes so that we can make your Umano experience as smooth as possible. We do *not* store any sensitive personal data on our servers.Recent changes:New in version 2.0.3,\xe2\x96\xb6 Ability to copy the link to the original article to clipboard.\xe2\x96\xb6 Added due to popular demand: ability to open the original article within the app.\xe2\x96\xb6 More bug and crash fixes.'
+p4
+tp5
+tp6
+.

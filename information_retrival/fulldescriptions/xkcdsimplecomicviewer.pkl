@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'xkcd - simple comic viewer '
+p1
+tp2
+(S'Description:'
+p3
+S'A simple xkcd.com webcomic viewer made with love.Browse through the whole gallery of xkcd comics with ease using gestures like swipe or pinch to zoom.Optimized design for different screen sizes including tablets.Jump directly to comics and share them with an App of your choice.Get notifications when new comics are available.xkcd.com and all comics are owned by Randall Munroe.Recent changes:- Fixed a bug where application crashed every start- Removed TapIt Ad SDK and therefore permission to read phone state- You can now shake your phone for random comic- Notification should now disappear after click'
+p4
+tp5
+tp6
+.

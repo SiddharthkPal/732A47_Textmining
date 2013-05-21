@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OneNote Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Microsoft OneNote Mobile for Android is a note-taking app for capturing all of your ideas and to-dos on the go, brought to you by Microsoft Office. Create notes with text, pictures, and bullets. Make and manage to-do lists with checkboxes. Then keep your notes in sync using free Microsoft SkyDrive\xc2\xae online storage to access, edit and manage them from virtually anywhere, from your PC or almost any web browser. Access your notes online at www.skydrive.com.**** With the free version of OneNote Mobile for Android you can access, create and edit up to 500 notes. Once you reach this limit you can still view, delete, and sync your notes. To continue taking and editing notes, you can upgrade OneNote Mobile for Android to unlimited use through an in-app purchase.****Requirements: \xe2\x96\xaa Must have Android 2.3 or higher. \xe2\x96\xaa A free Windows Live ID is required to use OneNote Mobile for Android - use an existing ID or let OneNote help you sign up. \xe2\x96\xaa Web functionality uses the free OneNote Web App available on SkyDrive, which requires a supported web browser. \xe2\x96\xaa OneNote Mobile for Android opens notebooks created in Microsoft OneNote 2010 or the OneNote Web App.Recent changes:New in v1.1.1 \xe2\x80\xa2Fixed several compatibility issues with Android 4.1 (Jelly Bean)Also includes updates from v1.1:\xe2\x80\xa2Improved sign in and synchronization with SkyDrive \xe2\x80\xa2Performance and reliability updates'
+p4
+tp5
+tp6
+.

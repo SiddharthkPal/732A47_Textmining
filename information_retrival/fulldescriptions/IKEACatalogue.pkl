@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IKEA Catalogue '
+p1
+tp2
+(S'Description:'
+p3
+S'The IKEA catalogue 2013 \xe2\x80\x93 for Android!The IKEA catalogue was first introduced in 1951, which means that it has been around for more than 60 years! The first Android version was launched 2011 and just like the printed 2013 IKEA catalogue, the Android version is packed with inspiration and well-designed home furnishing solutions for every need and every wallet! The catalogue includes around 350 images, showing some 1.000 products, out of the 10.000 products in the total IKEA range.This year we have made it possible to unlock exciting extra content in the catalogue. By scanning selected pages in the printed catalogue you will be able to access additional images, films, and 3D models. Just look for the pages in the printed IKEA Catalogue 2013 that have the smart phone icon on the top right corner.  Note that you need to scan the whole page, the symbol itself is not enough to recognize a page and get the extra content.This application lets you download the latest edition of the IKEA catalogue for the following countries:Australia (NSW ,QLD ,VIC), 2012-08-13Australia (SA, WA), 2012-08-27Austria, 2012-08-27Belgium, 2012-08-27Bulgaria, 2012-09-01Canada, 2012-08-13China, 2012-08-20Cyprus, 2012-08-27Czech Republic, 2012-08-13Denmark, 2012-08-13Dominican Republic, 2012-09-03Finland, 2012-08-13France, 2012-08-13Germany, 2012-08-27Greece, 2012-08-27Hong Kong, 2012-08-20Hungary, 2012-08-13Ireland, 2012-08-16Iceland, 2012-08-20Italy, 2012-08-20Japan, 2012-08-01Kuwait, 2012-08-27Malaysia, 2012-08-30Netherlands, 2012-08-27Norway, 2012-08-08Poland, 2012-08-20Portugal, 2012-08-13Romania, 2012-08-13Russia, 2012-08-27Saudi Arabia, 2012-09-01Singapore, 2012-08-27Slovakia, 2012-08-13Spain, 2012-09-03Spain / Balearic Islands, 2012-09-03Spain / Canary Islands, 2012-09-03Sweden, 2012-08-16Switzerland, 2012-08-13Taiwan, 2012-08-06Thailand, 2012-08-30Turkey, 2012-09-03United Arab Emirates, 2012-08-20United Kingdom, 2012-08-16USA, 2012-07-30Recent changes:2.2.1- YouTube videos support in galleries2.2- Optimization of download process- Bug fixes2.1.1 - 2.1.2- Bug fixes2.1- Support for Arabic publications- Enhancements- Bug fixes 2.0.2 - 2.0.4- Bug fixes2.0- Total re-design of user interface- Scan: Scan printed catalogue to get extra content- Bookshelf: More publications from IKEA can be downloaded and read- Updated product presentation Note that due to a major upgrade to the App, old IKEA catalogues are no longer supported.'
+p4
+tp5
+tp6
+.

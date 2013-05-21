@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Belly '
+p1
+tp2
+(S'Description:'
+p3
+S'Belly is a universal loyalty program that offers one-of-a-kind rewards at the businesses you love, replacing boring "Buy 10, Get 1 Free" punch cards with free stuff you actually want. Belly users check in at the in-store iPad, earning points which can later be redeemed for rewards that are unique to each individual business. With Belly, we offer one customer loyalty card to replace the rest. Link the mobile app to your physical BellyCard which can be picked up at any Belly Business. Use the app\'s "Nearby Places" feature to find locations to Belly when you\'re out and about on the town. Earn a free cup of coffee at the donut shop down the street. Name the Sandwich of the Month at your local deli. For the first time, you can have your cake and eat it too, or at least have the option of shoving it into your baker\'s face. Add the Belly widget to your Homescreen or your Lockscreen for instant access! (The Lockscreen widget is only available on devices running Android 4.2+) Permissions Descriptions All information collected via the permissions below are used to help make the app experience great and to allow us to continue to improve it:Storage: Used to cache images and other data to make the app load and function better.Your Location (GPS & Network): Allows us to determine your location so we can find Businesses near you when you, only when you have our app open.Network Communications: Used to gather nearby businesses, account information and other data needed for the application to function.View Network/Wifi State: Allows us to check if you have an active internet connection before trying to download assets or information.Get Known Accounts: Used for Google Cloud Messaging notifications (optional in settings), and for an auto-complete email field on login/registrationVibrate: Used for Push Notification alert behavior (optional in settings)Wake Lock: Used for Google Cloud Messaging (push) notifications (optional in settings)Read Google Services Configurations: Required for the Google Maps v2 API. Please see our privacy policy for additional questions related to how we secure your data or feel free to contact us.Recent changes:Version 2.3a:+ Additional Crash & Bug FixesVersion 2.2a:+ Bug Fixes & Performance Increases'
+p4
+tp5
+tp6
+.

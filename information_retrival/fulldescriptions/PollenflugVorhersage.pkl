@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pollenflug-Vorhersage '
+p1
+tp2
+(S'Description:'
+p3
+S'V\xc3\xb6llig neu \xc3\xbcberarbeitete Version: Die Pollenflug-Vorhersage mit den vielen neuen Funktionen f\xc3\xbcr die Allergie-Saison 2013.Welche Pollen fliegen heute? Die Android-App von Hexal zeigt Ihnen die Pollenflug-Vorhersage f\xc3\xbcr Deutschland aktuell und zielgenau - mit vielen Extras wie der Alarmfunktion.- Die Pollenflug-Vorhersage f\xc3\xbcr 14 allergieausl\xc3\xb6sende Pflanzen: tagesaktuell und ortsgenau- Neu: Vorhersage f\xc3\xbcr 7 Tage (bei Drehen des Bildschirms)- Neu: Komfortable Slider-Navigation- Neu: Jahres-Pollenflugkalender der 14 Pflanzen- Neu: Symbole auch \xc3\xbcber ihre Form unterscheidbar (f\xc3\xbcr User mit Rot-Gr\xc3\xbcn-Sehschw\xc3\xa4che)- \xc3\x9cbersichtliche Vorhersage-Karten f\xc3\xbcr Deutschland und die Bundesl\xc3\xa4nder- Zielgenaue Suche \xc3\xbcber Ort, Postleitzahl oder Standorterkennung (GPS) in Deutschland- Deutschland-Trend: So entwickelt sich der aktuelle Pollenflug. - Individualisierte Nutzung: Eigene Orte und Pflanzen in den Einstellungen ausw\xc3\xa4hlen- Lassen Sie sich warnen: Mit Push-Benachrichtigungen, wenn \xe2\x80\x9eIhre\xe2\x80\x9c Pollen vorhergesagt sind!- Informationen zu den allergieausl\xc3\xb6senden Pflanzen- 3x t\xc3\xa4gliche Aktualisierung der Daten- Allergie-Selbsttest- Neu: Notruf-Telefonnummern- Installierbar auf SD Karte (App2SD)Heuschnupfen und andere Allergien? Mit dem Pollenflug-Service von Hexal den Fr\xc3\xbchling und Sommer genie\xc3\x9fen!Vorhersagedaten: WetterOnline Meteorologische Dienstleistungen GmbHRealisierung: apploft GmbHRecent changes:Neu in Version 2.1.0Telefonberechtigung f\xc3\xbcr Notrufnummern entferntPush-Konfigurierbarkeit verbessert'
+p4
+tp5
+tp6
+.

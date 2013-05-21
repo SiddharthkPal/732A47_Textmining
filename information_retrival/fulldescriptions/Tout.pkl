@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Tout '
+p1
+tp2
+(S'Description:'
+p3
+S"Tout is a real-time information network for up-to-the-minute video updates across news, sports, politics, entertainment, or whatever moves you. Shoot 15-second video updates on your Android, publish them to Tout, and share them across Facebook, Twitter, and many other platforms. You can even publish to your own website or blog.On Tout you'll join celebs like Shaquille O'Neal, Kelly Ripa, and Dr. Oz, and everything from The Wall Street Journal to the WWE, ESPN, CBS-TV, NFL, NBA and college teams, on a real-time information network of video updates covering everything under the sun.With Tout's reply feature you can engage in real-time video conversations with celebs, athletes, newscasters, your friends or millions of other Touters.Recent changes:3.8.2- Performance and bug fixes3.8.1- Fixed an issue that prevented some users from accessing the queue3.8- Updated Tout streams to the latest Android look and feel- Easier to search for interesting Touts- More user experience improvements and bug fixes3.7.1- Manage your push notifications within the app- Better first-time user experience! Now it's even even easier to find people to follow.- More user experience improvements and bug fixes"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"Dunkin' Donuts "
+p1
+tp2
+(S'Description:'
+p3
+S'It\xe2\x80\x99s here! The official Dunkin\xe2\x80\x99 Donuts\xc2\xae Mobile App. Not only is it built to make all your Dunkin\xe2\x80\x99 runs easier, it\xe2\x80\x99ll also get you connected so you can share the Dunkin\xe2\x80\x99 love like never before.PAY RIGHT FROM THE APP WITH A VIRTUAL DD\xe2\x84\xa2 CARD.Use the app to pay for all your purchases. You can either add a plastic card or purchase a virtual card via the app. Simply tap the DD Card you wish to use and present the barcode to the DD crew member to be scanned, and you\xe2\x80\x99re good to go. You can also manage and reload your DD Card right from the app.MOBILE OFFERS.Now get great Dunkin\xe2\x80\x99 Donuts offers and coupons via the Dunkin\xe2\x80\x99 app! Mobile offers can be redeemed right from the app.STORE LOCATOR.You never know where or when you\xe2\x80\x99ll need to make a Dunkin\xe2\x80\x99 run. So if you find yourself in unfamiliar territory, fire up the store locator to find the nearest Dunkin\xe2\x80\x99 and you\xe2\x80\x99ll be runnin\xe2\x80\x99 in no time.SEND A VIRTUAL GIFT CARD.Know someone who needs a little pick-me-up? Now you can send them a virtual DD Card via text message, e-mail and even Facebook.BROWSE THE MENU.Find products, as well as nutritional information for all your Dunkin\xe2\x80\x99 Donuts favorites.STAY SOCIAL.Become a fan or follower and catch all the updates from the official Dunkin\xe2\x80\x99 Facebook and Twitter feeds.Please note: Mobile payment is only good at participating U.S. Dunkin\xe2\x80\x99 Donuts locations.For Terms of Use and Privacy Policy visit:www.dunkindonuts.com/mobileterms.. \xc2\xa9 2013 DD IP Holder LLC. All rights reserved.Recent changes:Link directly to the DD Guest Satisfaction SurveyAbility to recall and resend an mGift in the instance you mistype your recipient\xe2\x80\x99s address or phone number.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Floor Plan Creator '
+p1
+tp2
+(S'Description:'
+p3
+S'Features:* Predefined room shapes as well as free drawing of a room shape with S-Pen or touch.* Augmented reality room capture (BETA): http://www.youtube.com/watch?v=pwN8pNKSyMA* Common furniture elements.* Cloud synchronization to automatically share plans between devices.* Export as image (free with watermark) or DXF file (purchased).* Supports metric and imperial unit systems.For room capture you\'ll need newer phone with a gyroscope: Galaxy S2, LG Optimus 2x, Sony Xperia P, HTC One S, etc.Recent changes:** If application is crashing on a particular plan, long press on it on the list and select "Report problem". Please include your email, so I can ask you for details if it\'s necessary to fix the bug. **1.8.5:* Snap to 45 degrees when dragging corners.* Bugfixes.1.8.4:* Enabled camera capture for devices without gyroscope.* Multi-line labels are supported.1.8.1:* Fixed a crash during wall length lock.* Blocked putting one room inside another (caused rendering errors).'
+p4
+tp5
+tp6
+.

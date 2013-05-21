@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'JAYS Headset Control '
+p1
+tp2
+(S'Description:'
+p3
+S"Add loads of features to your JAYS one-button remote earphones.JAYS Headset Control brings a wide range of new features to your one-button remote earphones. Change track, adjust volume up/down, launch apps and much more. JAYS Headset Control comes with three modes;Off, Easy Mode and Advanced Mode, all simply controlled by the unique navigation wheel, optimized for JAYS a-JAYS One+ remote earphones and absolutely free of charge. Easy Mode - Just install and you're good to go!Advanced Mode - Customize the JAYS Headset Control App to make it do even more. Music Options - Play/Pause- Next Track/Previous Track- Volume Up/Down- Launch AppCall Options - Answer/End Call- Decline/Mute CallSettings - Audio Feedback- Volume Settings- Functionality SettingsDelays - Set the Multiple Click Delay time value.- Set the Click & Hold time value.Languages- Available in English, Chinese (traditional), French and Korean.- Email support available in English.Compatibility - Click-and-hold actions will not work in Android 4.1+ as Google Now intercepts them.- Optimized against JAYS a-JAYS One+ remote earphones. - Works with most Android devices and one-button earphones on the market.- Not compatible with three-button Apple headsets.Notes - If JAYS Headset Control seems to not be responding, press menu and select 'Check for conflicts'.- Some stock music players will not work properly with JAYS Headset Control, but most third party players will.- Apps used to control headset clicks will conflict with ICS's lockscreen music widget due to Android's architecture.Check out JAYS Android page for further information, instruction manual and support at http://www.jays.se/android.// JAYSRecent changes:Added compatibility with Headset Droid's Google Now fix."
+p4
+tp5
+tp6
+.

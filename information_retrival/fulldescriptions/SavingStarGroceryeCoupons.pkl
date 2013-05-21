@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SavingStar Grocery eCoupons '
+p1
+tp2
+(S'Description:'
+p3
+S"Save money on your groceries! SavingStar offers free 100% digital grocery coupons redeemable at over 24,000 supermarkets and drugstores nationwide from brands you love. SavingStar eCoupons are linked to your store loyalty cards. Nothing to clip. Nothing to print. It's easy to save! Here's how it works:1. TapSelect the eCoupons you like, and we'll link them to your registered store loyalty cards.2. ShopUse your store loyalty card at checkout (note: your bill will stay the same at the store).3. SaveMoney is automatically added to your SavingStar account within 2-30 days depending on the store. Once you save $5 pick your payout from cash deposit into your bank account, PayPal transfer, Amazon gift card, or a donation to the charity American Forests. It's that easy!Features:- Select grocery coupons even while you're out shopping- Sort coupons by value, category, expiration date, and brand name- Sync the grocery coupons you select online and on your phone- Check your savings balance- Find local participating stores - Save big $$ at grocery and drugstores nationwide with SavingStar eCoupons!We want to hear from you! Email your questions or feedback to feedback@savingstar.com!Like us on Facebook: http://www.facebook.com/SavingStarFollow us on Twitter: http://www.twitter.com/SavingStar Read our blog: http://www.savingstar.com/blogRecent changes:\xe2\x80\xa2 One or Many offers - SavingStar's One or Many offers allow you to make your qualifying purchases over multiple shopping trips\xe2\x80\xa2 Sign up or login with your Facebook account\xe2\x80\xa2 Offer detail page - see additional offer terms, stores where a coupon is valid, and a list of included products for One or Many offers\xe2\x80\xa2 Card scanning - scan cards for supported retailers instead of having to type them in\xe2\x80\xa2 Loyalty card display - display barcode & number for all your registered cards"
+p4
+tp5
+tp6
+.

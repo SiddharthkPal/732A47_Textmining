@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Super Security Standard '
+p1
+tp2
+(S'Description:'
+p3
+S'Super security provides cloud based antivirus engine to help you get rid of malware. Provides strongbox to hide your sensitive data.Features:*Missing device find back*Task Manager*anti malware*Software Manager*Strongbox*Community based antivirus engine*Live update*Real time monitorALL IN ONE application!!'
+p4
+tp5
+tp6
+.

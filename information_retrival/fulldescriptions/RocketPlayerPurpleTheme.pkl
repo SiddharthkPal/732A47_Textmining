@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Rocket Player Purple Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Rocket Player 2.0 is required for this app to operate properly.This app is a skin or theme app, which modifies the look of Rocket Player, our free Android media player app. Once Rocket Player Purple Theme is installed, the required Rocket Player application can switch to this theme in the settings.Rocket Player Purple Theme provides users who love purple a way to escape the default red theme and liven things up for while.Should you experience issues using this theme with Rocket Player (or have a suggestion for more themes), please catch us on Google+ or Twitter or email us. Twitter: @JRTStudioGoogle+: https://plus.google.com/109028031207057249429Our website: www.jrtstudio.comRecent changes:* Initial release'
+p4
+tp5
+tp6
+.

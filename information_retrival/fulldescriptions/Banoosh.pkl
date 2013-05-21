@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Banoosh '
+p1
+tp2
+(S'Description:'
+p3
+S'(Truth Gate) Banoosh connects you to the world, wherever you are. Stay informed with the latest headlines and original stories from around the globe. Follow up-to-the-minute reporting with breaking news alerts and live video. Lead the conversation by sharing and commenting on today\xe2\x80\x99s news and dig deeper into the stories that matter most to you.\xe2\x80\xa2\tGet breaking news alerts and follow stories as they develop.\xe2\x80\xa2\tGo beyond the surface with international, politics, opinion, tech and entertainment stories and more.\xe2\x80\xa2\tWatch video clips and coverage of live events as they unfold.Have questions or feedback on the Banoosh App? E-mail us at info@banoosh.com . We are always looking for suggestions on how to provide the best experience possible for you.'
+p4
+tp5
+tp6
+.

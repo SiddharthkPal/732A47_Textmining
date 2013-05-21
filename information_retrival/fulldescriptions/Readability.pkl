@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Readability '
+p1
+tp2
+(S'Description:'
+p3
+S"Read on Your TermsReadability turns any Web page into a clean view for reading now or later on your computer or Android device. With the Readability app, you can catch up reading you've saved with the free Readability add-on for your Web browser. Already a favorite on Kindle e-readers, now you can enjoy the benefits of Readability on your Android devices.Store It. Share It. Read It.To start saving articles from the Web to Readability, visit the Readability website using your favorite browser and install the free Readability add-on.Make it a favorite, send to your archive, share with your friends, and moreReadability automatically turns Web pages into a clean, elegant, single-column reading view. With beautiful typography provided by Hoefler & Frere-Jones, the reading experience in Readability is second-to-none. Too busy to read right now? Save any Web page to Readability and it automatically saves on your Web browser or Android device. Once synced, your articles will be there for you--whether you're online or offline. Customize the reading view by adjusting type size, text style, and contrast to your liking.Readability also provides built-in native sharing support. Post favorite articles along with your own comments on Facebook, Twitter, or by e-mail to your friends. Enjoy an unlimited, search-able archive that syncs on the Web. As soon as you're done reading an article, simply tap it to archive. You can even add articles to your Reading List by e-mail. Copy and paste up to 20 URLs into the body of an e-mail and send that to a personalized address, provided free by Readability.Recent changes:- removed background polling of Reading List updates- fixed character encoding issues- expanded device compatibility and bug fixes"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'New England Patriots 2013 '
+p1
+tp2
+(S'Description:'
+p3
+S'The official app of the New England Patriots gives fans instant access to all of the latest news, media and in-depth game details. Get access to on-demand and LIVE video and audio broadcasts straight to your phone, and check out the latest Patriots photo galleries of the team and cheerleaders!Features:- All of the news, video, audio, photos and blog posts direct from Patriots.com - LIVE Patriots Game Center with play-by-play, live game commentary, scoring drives, individual and team stats- LIVE video press conferences - LIVE Patriots.com Radio, including the flagship show PFW in Progress - Schedule, standings, and league scores- Roster, depth chart, and team stats- Worldwide Fan Club locator- mPoints rewards programRecent changes:4.22013 Draft section featuring mock drafts, articles, analysis, video, audio and more!2013 LIVE Draft Pick Center 4.0- Enhanced LIVE Patriots Game Center with play-by-play, live game commentary, scoring drives, individual and team stats - Added standings and league scores to schedule section- New roster, depth chart, and team stats section'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'XnRetro '
+p1
+tp2
+(S'Description:'
+p3
+S"With XnRetro, you can easily create stunning images with vintage or instant effect. ----- What people are saying -----+ I love this app it's easy to use and pic look great! would recommend this app+ Easy to use, and wonderful results. Even bad pics look great after using this app.+ I love this app. I've tried a lot of other programs and this app is by far the best one.-----\xe2\x98\x85 Different color effects\xe2\x98\x85 Different frame borders\xe2\x98\x85 Contrast, brightness and saturation adjustement\xe2\x98\x85 Vignetting\xe2\x98\x85 Save in gallery\xe2\x98\x85 Share with your friends with Instagram, Twitter, Facebook, Email, ...Please help us to improve XnView Retro by sending your bugs or requests on contact@xnview.comKeywords: holga, polaroid, lomo, toy camera, sepia, photography, photo effect, photo editor, camera effect, instagram, hipstamaticRecent changes:\xe2\x98\x85 Problem to Save&Share\xe2\x98\x85 Bugs fixed"
+p4
+tp5
+tp6
+.

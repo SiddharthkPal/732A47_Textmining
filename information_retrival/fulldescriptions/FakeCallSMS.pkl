@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fake Call & SMS '
+p1
+tp2
+(S'Description:'
+p3
+S'Fake Caller ID and Fake Message Free in Android Market!Fake SMS/Text function was added!!You can send fake sms/ text messages to yourself, or can make a fake sms/ text messages from other person.The most professional and beautiful fake caller id and SMS/text application in Android Market! Get out the trouble, give yourself a fake-call id or sms (text messages) !Simulate a fake caller id to rescue yourself from an awkward situation, like boring meeting, annoying conversation, meaningless interview...The fake-call id won\'t charge you any fee, it is totally FREE.Features:- The name changed to "Call Assistant" when you installed fake call/sms (text messages) in you phone;- Simulate Fake calling screen as real as your different phone: Samsung UI, Sony Erisson, HTC Sense,ICS, etc- Customize fake caller id, picture, number, in-call voice and ringtone for a new fake call ;- Schedule multi fake calls/sms (text messages) ;- Customize and manage the different in-call voice and ringtones for each fake call/sms (text messages) ;- Fake call/sms (text messages) quick set ;- Schedule a new fake call/sms (text messages) at a specific time;- Fake call/sms (text messages) logs- Fake now, past, even in the future;- Select fake caller id from your contacts;- Also showed in your fake call history;- Fake call/sms (text messages) ringtone ,vibration and fake call voice can be customized ;- Play Fake voice after fake call answered;- Share Fake caller id with your friends from Gmail, Messaging and Twitter;- 6 different Android system message icons to choose for fake your message;- 6 different Android system fake calling page to choose for your quick fake call;Recent changes:1. You can make a fake call or Msg at a past time, which inserted in the call or Msg log;2. You can make a fake call for : incoming, outgoing and missed call;3. You can make a fake Msg for :Inbox,Sent,Draft,Failed,Outbox,Queued Message;4. The new calling pages added which support Sony and Android 4.2;5. The Msg icons added for Samsung galaxy s ace\xef\xbc\x8cSamsung galaxy y;6. Online bug fixed;7. Adjust some language errors;8. You can change the language at setting page;9. Help page added;'
+p4
+tp5
+tp6
+.

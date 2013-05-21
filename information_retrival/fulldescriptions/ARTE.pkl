@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ARTE '
+p1
+tp2
+(S'Description:'
+p3
+S'ARTE vous propose de regarder la quasi-totalit\xc3\xa9 de ses \xc3\xa9missions sur votre smartphone et votre tablette Android, gratuitement et sans publicit\xc3\xa9, pendant les sept jours qui suivent leur diffusion \xc3\xa0 l\xe2\x80\x99antenne : au menu, du cin\xc3\xa9ma, de la politique, de l\xe2\x80\x99histoire, de l\xe2\x80\x99Europe, de l\xe2\x80\x99art et de la culture, mais aussi des programmes jeunesse, des concerts en live ou des documentaires d\xe2\x80\x99investigation. Outre ARTE+7, l\xe2\x80\x99appli inclut \xc3\xa9galement le programme TV, la diffusion en direct de l\xe2\x80\x99\xc3\xa9mission TV actuellement en cours ainsi que l\xe2\x80\x99acc\xc3\xa8s aux plateformes ARTE (ARTE Future, ARTE Creative ARTE Live Web). Pour des raisons juridiques, nos vid\xc3\xa9os ne sont visibles qu\xe2\x80\x99en France et en Allemagne. Une partie d\xe2\x80\x99entre elles l\xe2\x80\x99est aussi en Belgique, en Suisse, au Lichtenstein, au Luxembourg, \xc3\xa0 Monaco  et en Autriche. Seules quelques-unes sont disponibles dans le monde entier. Le direct n\xe2\x80\x99est accessible qu\xe2\x80\x99en France et en Allemagne.L\xe2\x80\x99application est disponible en allemand et fran\xc3\xa7ais. N\xe2\x80\x99h\xc3\xa9sitez pas \xc3\xa0 nous contacter si vous avez des questions. Votre \xc3\xa9quipe ARTE Site d\xe2\x80\x98ARTE (http://www.arte.tv) | App Support (http://www.arte.tv/telespectateurs)'
+p4
+tp5
+tp6
+.

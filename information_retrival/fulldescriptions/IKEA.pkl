@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'IKEA '
+p1
+tp2
+(S'Description:'
+p3
+S'Make shopping at IKEA stores easier with this official app. You get always up-to-date information about our products, stores and special offers. You can create shopping lists anytime, anywhere, find out if what you want is in stock and see where in the store you can pick them up.ProductsFind out prices, sizes, colours and more and also stock availability and where to pick them up in the self-serve area   StoresOpening hours, addresses, directions for how to get there, plans of the stores and moreSpecial offersFind out about special offers and the other things happening at our storesShopping listsCreate lists that you can use on your home computer, too. For full information please visit our website IKEA.comRecent changes:Version 1.4Minor updates, including improvements to stock check.Version 1.3.4Launch of new countriesVersion 1.3.3Improved performance and other minor enhancementsLaunch of new countriesVersion 1.3.2Solved problem with shopping listVersion 1.3.1Solved issues related to the shopping list and stock check functionalityVersion 1.3Improved performance and other minor enhancementsLaunch of new countries'
+p4
+tp5
+tp6
+.

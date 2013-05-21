@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Runtastic Pedometer PRO '
+p1
+tp2
+(S'Description:'
+p3
+S"Everyone should walk 10,000 steps per day, how many steps are you walking?  Whether you\xe2\x80\x99re walking, hiking, or backpacking for pure enjoyment, to improve your general health and fitness, or as part of a specific diet and weight loss routine, the Runtastic Pedometer PRO counts every step you take and helps you reach your workout goals.This high-quality app will meet users' expectations for their step counter, walking, hiking, fitness training, and weight loss needs.Why Runtastic Pedometer PRO for your health & fitness needs?- Automatically records all your steps- Works anywhere: pants or jacket pocket, hand or arm, in a sports bag or purse- Speed calculation- Distance (miles or km) covered- Step frequency counter and calculation- See the last 5 walking activities on your phone- Share your fitness activities on social networks like Facebook and Twitter- Integrate Runtastic Pedometer PRO activities to your MyFitnessPal account- Compatible with the Runtastic fitness site, runtastic.com, where all your data will be managed- Users can also save body data: weight and height for an accurate calorie countWith the Runtastic Pedometer PRO App, you can become the type of person who would prefer to walk the stairs rather than take the elevator! Let this step counter track your distance with the simple push of a button. Tracking your walking, hiking, backpacking, and general activity doesn't get any easier than that! Take the 10,000 daily steps challenge today, and push yourself to reach your overall health and fitness and goals.Download the best pedometer app today!  And don't forget about the amazing fitness community Runtastic has built for all users on runtastic.com, and on our various social media platforms! All users are welcome to upload training data and take a look at activity overviews and progress on the Runtastic fitness site: runtastic.com.If you'd like additional health & fitness info from Runtastic, exercise and workout tips are provided by Runtastic's Fitness Coach, Lunden, on the NEW YouTube Runtastic Fitness Channel! Check it out here: http://www.youtube.com/runtasticfitnessKeywords: Walk, Walking, Pedometer, Step Counter, Fitness, Health, ExerciseRecent changes:New Features:* MyFitnessPal Integration* Sensitivity adjustable* Count starts after ... steps"
+p4
+tp5
+tp6
+.

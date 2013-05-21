@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S'Keeping up with friends is faster than ever.\xe2\x80\xa2 See what friends are up to\xe2\x80\xa2 Share updates, photos and videos\xe2\x80\xa2 Get notified when friends like and comment on your posts\xe2\x80\xa2 Text, chat and have group conversations\xe2\x80\xa2 Play games and use your favorite appsFor an even better Facebook mobile experience, install Facebook Home: http://bit.ly/fbhomeappCurrently available on certain devices, including the HTC One X series, Samsung Galaxy Note II and Samsung Galaxy S III.Facebook is only available for users age 13 and over.Terms of Service: http://m.facebook.com/terms.php.'
+p4
+tp5
+tp6
+.

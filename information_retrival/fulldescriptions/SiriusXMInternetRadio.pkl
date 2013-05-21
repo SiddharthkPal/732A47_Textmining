@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SiriusXM Internet Radio '
+p1
+tp2
+(S'Description:'
+p3
+S"Now featuring personalized music and comedy channels with MySXM! With the SiriusXM Internet Radio App, you can listen to what you want, when you want. In addition to live streaming, the SiriusXM Internet Radio App now allows you to personalize many of your favorite SiriusXM music and comedy channels with MySXM \xe2\x80\x93 so you hear more of what you want and less of what you don\xe2\x80\x99t. Plus, with SiriusXM On Demand, listen to hundreds of shows, including Howard Stern, Bob Dylan\xe2\x80\x99s Theme Time Radio Hour, Tom Petty\xe2\x80\x99s Buried Treasure, The Opie & Anthony Show, Martha Stewart, Dr. Laura, Bob Edwards, Christopher \xe2\x80\x9cMad Dog\xe2\x80\x9d Russo and much more. You can even store select On Demand content for a period of time, allowing for offline listening anywhere, at anytime. Access requires a SiriusXM Internet Radio subscription.About This Application\xe2\x80\xa2 Stream SiriusXM channels live, including channels available only online\xe2\x80\xa2 Personalize many of your favorite music and comedy channels with MySXM\xe2\x80\xa2 Get On Demand access to our large catalog of content and listen on your schedule\xe2\x80\xa2 Store select talk and entertainment content for a period of time for offline listening anywhere, at anytime\xe2\x80\xa2 Pause, Fast Forward and Rewind live radio and On Demand content\xe2\x80\xa2 Hear shows from the beginning, even if you've just tuned to that channel, with Start Now\xe2\x80\xa2 Track your favorite Shows and receive notifications when new episodes are available\xe2\x80\xa2 Automatically hear currently playing songs from the beginning when tuning to music channels with TuneStartRecent changes:\xe2\x80\xa2 MySXM \xe2\x80\x93 Personalize many SiriusXM music and comedy channels\xe2\x80\xa2 Many other enhancements and fixes\xe2\x80\xa2 Enhanced security for usernames and passwords. (Note: Some subscribers may need to update their username or password with this change. If you receive an \xe2\x80\x9cinvalid username/password\xe2\x80\x9d message, please contact SiriusXM Listener Care to update your username & password.)"
+p4
+tp5
+tp6
+.

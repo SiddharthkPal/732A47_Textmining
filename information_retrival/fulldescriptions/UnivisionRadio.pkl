@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Univision Radio '
+p1
+tp2
+(S'Description:'
+p3
+S'Application is available in English and Spanish | Aplicaci\xc3\xb3n disponible en ingles y espa\xc3\xb1olThe Univision Radio App brings Univision\xe2\x80\x99s popular radio stations from across the country. The app provides streaming of local Univision radio stations across genres and popular radio shows from Univision DJs and radio personalities. With extensive variety, users can discover other stations that they\xe2\x80\x99ll fall in love with, aside from their favorites.The Univision Radio App is part of a great app line-up, which includes sports, sports scores, video, and Univision content apps that resonate with Hispanics and their passion points.Features:\xe2\x80\xa2 Access to streaming of 45 Univision local radio stations\xe2\x80\xa2 Real-time information about the songs that are playing, album reviews, and song lyrics\xe2\x80\xa2 Available in English and Spanish\xe2\x80\xa2 Users can save their favorite radio stations\xe2\x80\xa2 Search local Univision stations in by city or genreRecent changes:Thank you for your continued feedback.  Please continue to let us know your issues at uimapp@gmail.com* Fixed radio mute when making or receiving calls* Performance enhancements* Fixed issue with Coyote station 102.5'
+p4
+tp5
+tp6
+.

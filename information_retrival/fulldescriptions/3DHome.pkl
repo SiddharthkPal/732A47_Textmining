@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'3D Home '
+p1
+tp2
+(S'Description:'
+p3
+S"If you want a real 3D launcher with lots of amazing 3D effects and tons of cool 3D application objects, look no further than Borqs' 3D Home for Android! This launcher features cool 3D animations, 3D homescreen pages, 3D widgets, 3D application icons and a lot more that will surely blow you away. 3D Home introduces a new and interactive 3D display on your Android homescreen \xe2\x80\x93 our awesome new 3D Home helps you organize & manage your Android device in a new and fun way! 3D Home is also highly customizable, allowing you to create a unique and entirely personalized launcher.We guarantee you will find a whole new world and get the pure 3D UI experience in there.  Features:- 3D homescreen wall and objects to launch applications- Easy way to organize all applications and launch apps quickly- Powerful customization abilities for themes, objects and more- Lots of 3D app objects replace traditional icons, for example \xe2\x80\x93 Contacts, Phone, Camera, Calendar, Browser, and TV!- Look up to get a 3D weather report on the ceiling of your 3D Home- Slick and smooth 3D animation effectsSystem requirement:- Android 4.0.2 and above versions- 1G Byte RAMRecent changes:1) Fix the bug of application icons installed on external card disappear from wall after power cycle2) Sort all application icons by alphabetical order in application drawer.3) Fix the bug of sometimes the weather animation refreshed twice.4) Enhance the robustness."
+p4
+tp5
+tp6
+.

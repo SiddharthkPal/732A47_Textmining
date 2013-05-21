@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NRL - League Live '
+p1
+tp2
+(S'Description:'
+p3
+S'Australia\xe2\x80\x99s number one League Android App is back for a massive 2013! Coming off our best pre-season yet, League Live has re-moulded the mouthguard and is ready to unleash more live content, new features and a faster overall experience. Best of all, it\xe2\x80\x99s FREE once again, thanks to Sportsbet and Holden.The first version of Rugby League Live for 2013 includes:Design:\xe2\x9c\x94 Brand new design\xe2\x9c\x94 Swipe navigation between pagesExtra Competitions:\xe2\x9c\x94 Holden Cup coverage including scores and stats.\xe2\x9c\x94 State of Origin.\xe2\x9c\x94 Representative matches including City v Country matches.\xe2\x9c\x94 Australian Internationals.Editorial:\xe2\x9c\x94 Live text commentary.\xe2\x9c\x94 Tuesday night teams.\xe2\x9c\x94 A heap more live stats that include tackle and missed tackle counts (thanks to our new partnership with Fox Sports).Enhancements:\xe2\x9c\x94 Improved match day engine providing faster live scores and stats.\xe2\x9c\x94 Graphical scoring-worm.\xe2\x9c\x94 Improved ladder, including extended overview and teams\xe2\x80\x99 next 5 games. \xe2\x9c\x94 Head to head analysis \xe2\x80\x93 the perfect tool to give your tips the upper hand.\xe2\x9c\x94 Extended player profiles \xe2\x80\x93 including club & first grade debut, rep honours, and previous years\xe2\x80\x99 stats. \xe2\x9c\x94 Extensive pre-match coverage \xe2\x80\x93 including team selections on Tuesday nights, form streaks, latest odds, weather forecasts, and AAP match previews.\xe2\x9c\x94 TV guide \xe2\x80\x93 so you won\xe2\x80\x99t miss a moment of your team in action.Over the next few weeks, there will be plenty more updates, so keep an eye on our Facebook page for future announcements \xe2\x80\x93 www.facebook.com/sportsmatePlease send all feedback to info@sportsmatemobile.com or via Twitter @LiveRugbyLeague.We actively use Twitter to let you know about updates, new features, interesting stats and anecdotes, plus respond to any questions that you may have.Enjoy the season!Recent changes:Changes:* Performance improvements* Push Notifications* News Widget* Loading Indicators'
+p4
+tp5
+tp6
+.

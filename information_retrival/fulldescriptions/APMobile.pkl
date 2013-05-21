@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AP Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'The only NEWS app you need!  Stay connected anywhere in the world with AP Mobile for Android!  Bringing you news from the Associated Press and more than 1,200 trusted local sources such as the Chicago Sun-Times, The Miami Herald, San Francisco Chronicle, The Boston Globe, national and international coverage, AP Mobile is your trusted source for real-time news coverage anytime and anywhere.Tap into breaking news stories, browse dynamic photos and videos, customize your news categories and share articles with friends. With AP Mobile you can even save and read the news when offline.Just want your quick news hit?  No problem.  Our Top News headlines are editorially selected for timeliness and relevance and will keep you informed while on the go.Want to stay longer and browse?  Get your sports news directly from the source that brings you the popular AP Top 25 polls and AP World Soccer Rankings.  Organize the app for your news preferences \xe2\x80\x93 with MyAP you can quickly browse the content categories that are most important to you in one place.  Choose from Top News, Entertainment, Local, Sports, Business, World News, and even Wacky news.  AP Mobile even has content in 3 languages!  Spanish, French and English.  As\xc3\xad que sus noticias en espa\xc3\xb1ol!  Ou procurez-vous vos nouvelles en Franch!And if you are looking for news from your local newspapers you will find it here too.  AP Mobile has content from over 1,200 trusted local sources such as The Detroit News, Las Vegas Review Journal, The Denver Post, The Seattle Times, making it a true global to local news experience.AP Mobile.  Where the news gets its news.Recent changes:- Follow enduring stories with our new Big Story section- Updated widget layout- Bug Fixes and stability improvements'
+p4
+tp5
+tp6
+.

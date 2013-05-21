@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Muzy - Share photos & collages '
+p1
+tp2
+(S'Description:'
+p3
+S"Over 20 million people use Muzy as the free, all-in-one way to share their creative side. Instantly share to Facebook, Instagram, Twitter, email, SMS, or just save it for later. Muzy combines your favorite creative tools for photos, collages, status messages, and more:\xe2\x80\xa2 Collage photos from Facebook, your camera roll, and the Internet together with text and backgrounds\xe2\x80\xa2 Frame your pics with dozens of classic layouts\xe2\x80\xa2 Add gorgeous effects to any photo to make them vintage, sepia, black and white, and more\xe2\x80\xa2 Write a status message with custom fontsIt's completely free, and has unlimited uploads and storage.Join over 20 million people on Muzy:\xe2\x80\xa2 Share your creative side\xe2\x80\xa2 Get likes and comments from millions\xe2\x80\xa2 Publish instantly to Facebook, Instagram, Twitter, email, SMS, and more\xe2\x80\xa2 Add your friends and see what they post to MuzyMuzy is creative, fun, and easy to use - try it out!Recent changes:\xe2\x80\xa2 Big improvements to the Photo Editor app! New Focus and Splash tools, plus lots of other bug fixes and improvements to the other tools."
+p4
+tp5
+tp6
+.

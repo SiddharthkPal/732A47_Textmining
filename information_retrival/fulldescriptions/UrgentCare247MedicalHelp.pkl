@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Urgent Care \xc3\xa2\xe2\x82\xac\xe2\x80\x9c24/7 Medical Help '
+p1
+tp2
+(S'Description:'
+p3
+S'Urgent Care by GreatCall \xe2\x80\x93 Instant access to a nurse or doctor 24/7. FREE App!Urgent Care lets you speak to a nurse who will triage your medical questions and if needed have a doctor call you back within 30 minutes. The doctor can give assessments, advice and diagnosis of a wide range of conditions over the phone as well as the ability to prescribe common medications. Plus, Urgent Care features the award winning A.D.A.M. medical dictionary and medical encyclopedia as well as an interactive symptom checker for additional health information.\xe2\x80\xa2Access to a live, registered nurse who can escalate to a board-certified doctor around the clock\xe2\x80\xa2Get assessments, advice and diagnosis of a wide range of conditions\xe2\x80\xa2Doctors have ability to prescribe common medications\xe2\x80\xa2Spanish translators available\xe2\x80\xa2Interactive symptom checker\xe2\x80\xa2Medical Dictionary and Medical EncyclopediaRecent changes:Bug fixes'
+p4
+tp5
+tp6
+.

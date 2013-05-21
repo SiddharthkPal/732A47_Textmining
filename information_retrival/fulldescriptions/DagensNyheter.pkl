@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Dagens Nyheter '
+p1
+tp2
+(S'Description:'
+p3
+S'H\xc3\xa5ll dig uppdaterad med mobilen. H\xc3\xa4r \xc3\xa4r genv\xc3\xa4gen till DN.se:s mobilanpassade sajt som snabbt ger dig b\xc3\xa4st koll p\xc3\xa5 nyhetsfl\xc3\xb6det. H\xc3\xa4r hittar du artiklar och reportage, kan l\xc3\xa4sa dina favoritkr\xc3\xb6nik\xc3\xb6rer, bevaka livesport och b\xc3\xb6rsen, g\xc3\xb6ra fr\xc3\xa5gesporter och mycket mer.Dagens Nyheter \xc3\xa4r oberoende liberal. Vi st\xc3\xa5r fria fr\xc3\xa5n partier, organisationer och ekonomiska maktsf\xc3\xa4rer.V\xc3\xa5r utg\xc3\xa5ngspunkt \xc3\xa4r att m\xc3\xa4nniskor, oavsett social bakgrund, ska ha m\xc3\xb6jlighet att f\xc3\xb6lja vad som h\xc3\xa4nder i v\xc3\xa4rlden och kunna delta i debatten om viktiga samh\xc3\xa4llsfr\xc3\xa5gor. Vi verkar i en upplysningstradition som ska bidra till att svenskarna f\xc3\xb6rblir ett l\xc3\xa4sande och t\xc3\xa4nkande folk. D\xc3\xa4rf\xc3\xb6r \xc3\xa4r det viktigt att anv\xc3\xa4nda distributionsformer s\xc3\xa5som papperstidning, webb, mobil eller andra kanaler som enskilt eller tillsammans \xc3\xa4r de som mottagaren \xc3\xb6nskar f\xc3\xa5. Vi sl\xc3\xa5r vakt om objektivitet och oberoende verksamhet p\xc3\xa5 alla plan.Dagens Nyheters papperstidning l\xc3\xa4ses av 879 000 personer mellan 15 och 79 \xc3\xa5r och DN.se har cirka 1,5 miljoner unika webbl\xc3\xa4sare varje vecka.  Dagens Nyheter \xc3\xa4r landets st\xc3\xb6rsta annonsmedium inom tryckta tidningar. Dagens Nyheter ing\xc3\xa5r i Bonnierkoncernen, ett av norra Europas ledande medief\xc3\xb6retag.Recent changes:F\xc3\xb6rsta version av Dagens Nyheters mobilapplikation.'
+p4
+tp5
+tp6
+.

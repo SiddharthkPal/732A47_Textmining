@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Days Left Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'Did you ever forget an important date? Do you want to count down the days until a game or gadget release? Did you ever forget your moms or girlfriends birthday? You did? - oh no how could you!Help yourself with this shiny new little widget for your home-screen. Never miss an important day again. Set up an daily countdown to new years eve, to Christmas, to your birthday or to a totally random day - just because you like daily countdowns!If you want to customize the widget you can choose between several colors and overlays to combine them into your own designed day counter!All of that - for free.BUT, if you like the Widget please let others know by giving a rating! And if you want to show your love for this widget, you can also Donate money to me by clicking on the Donate button in the Setup view.IMPORTANT - READ BEFORE RATING:- This is a homescreen widget THUS IT IS NOT meant for INSTALL ON SD according to google - Apps2SD will not be enabled in this application, i am sorry.- You didn\'t find a way to start this App? Well, that\'s because it\'s an Widget not an App - go longlick on your homescreen -> add Widget -> "Days Left" there you go.- added widgets for size 2x1 and 3x1 to support more information on days left widgets- added several new overlay icons for christmas, birthdays, cakes, softball and soccer- added INTERNET permission to change the donate button in a later version to advertisements - Internet is currently NOT USED!!UPDATE:This Update now needs INTERNET access rights - altough they are NOT USED at the moment - they might be needed in a future version to enable advertisments (where the *donation* button currently is). INTERNET is NOT used right now!!--------------------------IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT!This is a Widget for your home screen - you can add it by long pressing your homescreen -> than go to "Widgets" -> and than "Days Left"Please DONT give One-Star ratings because the app "wont open". It is a Widget! It is NOT shown in your application launcher.LATEST UPDATE:FIX FOR not updating anymore bug! It will update once every hour - but it\'s not exactly at 12pm it can be between 12pm and 12:30pm!IMPORTANT! IMPORTANT! IMPORTANT! IMPORTANT!--------------------------Similar Apps: TheDayBefore Widget Timer Countdown Days Until Calendar Days D-Day Counter Day Counter Days Matter Shopping Days to Christmas TheDayBefore \xeb\x94\x94\xeb\x8d\xb0\xec\x9d\xb4\xec\x9c\x84\xec\xa0\xafRecent changes:very small bugfix'
+p4
+tp5
+tp6
+.

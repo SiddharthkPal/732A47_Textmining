@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'HootSuite (Twitter & Facebook) '
+p1
+tp2
+(S'Description:'
+p3
+S"Millions of people use HootSuite to stay on top of all their Social Networks today. Here's why:HootSuite is a social media management tool that helps you manage multiple Social Media accounts on the go. HootSuite supports Twitter, Facebook, LinkedIn and Foursquare plus many other social networks.With HootSuite you can instantly send messages to all of your followers on Twitter, check in on Foursquare, monitor and manage your Facebook Pages, and view your LinkedIn connections wherever you are. Upload photos, receive notifications, view click stats, and more. Simple, elegant, and powerful, HootSuite allows you to schedule or instantly share Twitter updates and Facebook status updates from anywhere.Check out our robust web version - http://HootSuite.com -- which includes security features, advanced custom analytics, team workflows, assignments, RSS feeds, and access to the HootSuite App Dictory including Instagram, Tumblr, YouTube and more.Recent changes:**Version 2.3.2**- Fix crashes caused by erroneous translationsVersion 2.3.1- Fixed deleting DM messages- Fixed facebook messages that appear to be duplicated in the stream- Made image previews larger- Autocomplete adds a space after the autocompleted word - Pull Notifications will not notify you of messages older than your last update time - Various UI improvements - Bug fixes and stability improvements"
+p4
+tp5
+tp6
+.

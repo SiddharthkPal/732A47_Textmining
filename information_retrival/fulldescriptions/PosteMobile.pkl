@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PosteMobile '
+p1
+tp2
+(S'Description:'
+p3
+S'*** PER SIM POSTEMOBILE ***Scarica l\'App PosteMobile! Potrai ricaricare SIM e Postepay, pagare bollettini anche semplicemente inquadrandoli con la fotocamera del tuo smartphone o tablet, effettuare bonifici e utilizzare molti altri servizi con la tua SIM PosteMobile associata allo strumento di pagamento di cui sei titolare (Conto BancoPosta, Postepay o carta di credito CartaSi).L\'App \xc3\xa8 dedicata a tutti i clienti PosteMobile: privati, liberi professionisti, ditte individuali e titolari di SIM aziendale con opzione "Traffico Personale" attiva. L\'App PosteMobile \xc3\xa8 gratuita. Il download \xc3\xa8 tariffato in base ai costi di connessione previsti dal piano attivo sulla SIM.Le caratteristiche della nuova versione dell\'App:- nuovo nome: semplicemente "PosteMobile"- nuova interfaccia grafica per una navigazione pi\xc3\xb9 intuitiva;- introduzione del codice di sicurezza APP PIN per semplificare le transazioni da App anche per i dispositivi connessi in WIFI;- creazione della sezione "Shopping" per guidare i tuoi acquisti da App e sui siti partner;- aggiornamenti continui sulle novit\xc3\xa0 di PosteMobile.Scopri tutti i servizi dell\'App PosteMobile:- ricarica credito SIM PosteMobile- verifica saldo e lista movimenti Conto Bancoposta o Postepay associati alla SIM; notifica SMS per le ricariche Postepay ricevute o effettuate;- pagamento bollettini, bonifici, giroconti, money transfer con MoneyGram;- acquisto beni e servizi dai nostri partner;- intrattenimento e informazione;- geolocalizzazione - Cerca Cassetta Postale, Cerca Ufficio Postale, Cerca ATM, Cerca CAP, Cerca Spedizioni;- assistenza clienti tramite App 160 call center.L\'accesso all\'App \xc3\xa8 automatico da rete WAP. Per accedere all\'App da WIFI \xc3\xa8 necessaria una password di sicurezza. Per riceverla via SMS sul tuo smartphone  ti verr\xc3\xa0 richiesto il numero di cellulare e la data di nascita dell\'intestatario della SIM.Recent changes:Il nuovo servizio Cerca Cassette Postali per trovare le Cassette Postali pi\xc3\xb9 vicine e conoscerne tutti i dettagli.La sezione \xe2\x80\x9cGestione APP PIN\xe2\x80\x9d del Menu Strumenti, che permette di:-\tScegliere l\xe2\x80\x99APP PIN-\tVisualizzare lo stato dell\xe2\x80\x99APP PIN-\tModificare o resettare l\xe2\x80\x99APP PIN precedentemente scelto-\tE inoltre:-\tOttimizzazione del servizio Saldo e Movimenti-\tRisoluzione di bug minori'
+p4
+tp5
+tp6
+.

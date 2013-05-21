@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'aTorrent - Torrent Downloader '
+p1
+tp2
+(S'Description:'
+p3
+S"aTorrent - Native P2P BitTorrent Software for Android devices. Download files with ease right to your phone or tablet! Magnet links supported! Ad-driven version. Speed is not limited!Features: * Torrent search dialog * Magnet links support * Open torrents right from browser * Add torrent from file * Choose download folder * Partial download (choose files from torrent) * Multiple parallel downloading * Option to limit downloads by Wi-Fi * Option to pause downloads when external power supply is not connected * Supported protocols: BitTorrent P2P, DHT, Advanced DHT Bootstrap, Magnet links, HTTP & UDP trakers * Large files support (for FAT32 SD cards - 4Gb maximum, for internal storage - unlimited)Ports: * TCP Bittorrent = 6881 * UDP DHT = 43133 * UDP Trackers = 43130Coming soon: * Many other features in development.Help us translate aTorrent to your native languages:http://crowdin.net/project/aTorrent/invite! If you have installed any Free RAM/Task manager application, then add aTorrent to it's exclusion list to avoid unloading from memory and stop downloading.Other Torrent software: uTorrent, Azureus, Vuze, Download, FDM, aDownloader, mTorrent, tTorrentRecent changes:2.0.3.0+ Updated libtorrent engine to the latest version (speed and stability improved)2.0.2.9- Fixed bug with opening files with uppercase extensions (JPG etc.)...2.0.0.0Absolutely new version. New UI and faster speed.! If you have installed any Free RAM/Task manager application, then add aTorrent to it's exclusion list to avoid unloading from memory and stop downloading."
+p4
+tp5
+tp6
+.

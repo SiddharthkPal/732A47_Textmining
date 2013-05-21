@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hebrew/English Translator '
+p1
+tp2
+(S'Description:'
+p3
+S"This is a useful Hebrew to English and English to Hebrew translator / dictionary / milon for the Android. You can translate Hebrew by typing using our Hebrew keyboard and clicking translate. In addition, you can use the built in Android keyboard to translate from English to Hebrew. You don't even need to be Jewish to use this Rusty Brick app. :)Since Google does not yet have a hebrew keyboard, we created one so you can type Hebrew and get translation. This application uses the Google Translate API and requires internet access to work.Features Include:* Translate Hebrew to English* Translate English to Hebrew* Single Words or Full SentencesRecent changes:1.0.5 Changes:- Ice Cream Sandwich Support- New Ads1.0.4 Changes:- New Translation API.  Now translation should work every time!Check out our free Menorah and Shabbat Shalom Apps!1.0.3 Changes:- Ability to change key contrast on hebrew keyboard via menu button.1.0.2 Changes:- Remember Language Direction Choice- Droid X Keyboard Fix"
+p4
+tp5
+tp6
+.

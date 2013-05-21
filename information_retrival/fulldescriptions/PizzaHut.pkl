@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pizza Hut '
+p1
+tp2
+(S'Description:'
+p3
+S'Caution: Please note this version of the Pizza Hut app is not yet supported on Android Honeycomb. Check back soon for updates!Ordering functionality is for U.S. residents only.Introducing Pizza Hut\xe2\x80\x99s official app for your appetite, now for your Android mobile device!The Pizza Hut Android app has several features that make it easy to find and order your favorites. Enjoy a full menu, save your previous orders, explore daily specials, order our Most Popular items with just a few taps, and more. Check out some of the new features below and you\xe2\x80\x99ll see why. Check out just some of the features below and you\xe2\x80\x99ll see why the Pizza Hut Android app is the perfect way to find your Favorites!FEATURES:\xe2\x80\xa2\tOur complete menu offers Specialty pizzas, pasta, WingStreet wings, drinks, sides, desserts and limited time offers.\xe2\x80\xa2\tGuest Checkout allows you to order without signing in.\xe2\x80\xa2\tOrders are automatically saved to your account for easy reordering.\xe2\x80\xa2\tMost Popular items section provides quick and easy access to your Pizza Hut favorites.\xe2\x80\xa2\tSpecials section provides updates on new products and deals.\xe2\x80\xa2\tChecking out is easy since you can add credit card options without creating an account.HELPFUL TIPS:\xe2\x80\xa2\tOrdering functionality is for U.S. residents only.\xe2\x80\xa2\tKey ordering functionality for the app can only be accessed during the operating hours of your local store.\xe2\x80\xa2\tBecause the Pizza Hut App is large, it is best to download it from Android Market or a Wi-Fi network.Have questions or comments about this app? Contact us at: Android@pizzahut.comRecent changes:\xe2\x80\xa2 Added support for more menu items!\xe2\x80\xa2 Updated store locator search results\xe2\x80\xa2 Various bug fixes'
+p4
+tp5
+tp6
+.

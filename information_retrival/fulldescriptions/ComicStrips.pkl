@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Comic Strips '
+p1
+tp2
+(S'Description:'
+p3
+S'Enjoy over 250 comic strips with archives over 10 years old right from the comfort of your phone.Comics include XKCD , SMBC, Phd , and many many more.Features:250 + comic strips with daily updatesArchives of upto 10 years availableComfortable viewing with pinch-zoomAdd strips to your favoritesKeeps track of your seen stripsSubscribe to strips and get notified of new strips dailyEasy to use and intuitive UI'
+p4
+tp5
+tp6
+.

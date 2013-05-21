@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Feedly. Google Reader News RSS '
+p1
+tp2
+(S'Description:'
+p3
+S'Feedly is a new way to browse the content of your favorite sites, rss feeds, tumblr blogs and youtube channels. Instead of having to hunt down for information, feedly uses RSS to aggregate the contents of the news sites and blogs you like and deliver them as a fast mobile-optimized experience. Feedly is an RSS news reader re-imagined for android phones and tablets. It makes browsing faster: the content of your rss feeds and blogs are transformed into pocket-sized cards which load very fast and are easy to browse. The feedly UI is custom tailored for a 4" phone, a 7" tablet and a 10" tablet. If you run feedly on a tablet, you will get an experience which is very close to a personalized magazine: a really fun way to track and read your favorite blogs.When you run feedly on a phone and on a tablet, the configuration will automatically syncs between both devices.Feedly also offers two way sync with Google Reader: articles your read in feedly are automatically marked as read in Google Reader. Articles you save for later in feedly are automatically starred in Google Reader. RSS feeds you add to feedly are automatically added to Google Reader.Feedly makes sharing content on twitter, facebook and google+ very simple, either directly or using Buffer.We are continuously improving feedly so if you have any questions or run into an issue, you can reach as at android@feedly.comRecent changes:New in 15.0.1\xe2\x98\x82 Fixed + regression\xe2\x98\x82 Fixed command token expiration\xe2\x98\x82 Re-enabled auto-refreshNew in 15.0\xe2\x98\x85 Better title only view (on both 4\xe2\x80\xb3, 7\xe2\x80\xb3 and 10\xe2\x80\xb3 formats).\xe2\x98\x85 Brought back the old list view.\xe2\x98\x85 Better support for Hebrew and Farsi.\xe2\x98\x85 Titles are no longer cut off in the title only view on smaller phones\xe2\x98\x82 Better support for flaky network connections.\xe2\x98\x82 Lots of small bug fixes.'
+p4
+tp5
+tp6
+.

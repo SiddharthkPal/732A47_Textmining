@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Virtual Walkie Talkie '
+p1
+tp2
+(S'Description:'
+p3
+S'"Virtual Walkie Talkie Pro" available.a walkie talkie for voice communication with multiple persons through (also built-in) multi-channel ip server.ad-supported.please mail problems, errors or questions, i cannot answer to comments.Recent changes:-layout for Galaxy S3 restored-fixed user-list freeze issue on android 3 and 4-Screen Compatibility Mode (re)-enabled-some server stability fixes-fixed layout issues'
+p4
+tp5
+tp6
+.

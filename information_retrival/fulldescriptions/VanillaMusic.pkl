@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vanilla Music '
+p1
+tp2
+(S'Description:'
+p3
+S"Vanilla Music is a clean, simple and free (opensource) music player.Features:* Support for all common audio formats (MP3, OGG, FLAC, PCM)* Tag based and folder based navigation* Support for android playlists* Gapless playback for OGG and FLAC (requires Android >= 4.1)If you like 'Vanilla Music', please buy me a drink by installing my Donate App :-)Please report bugs/crashes at https://github.com/adrian-bl/vanilla/issues/1Note: This is a fork of the (abandoned) 'Vanilla Music Player' - originally created by Chris Eby.Recent changes:* Fixed wakelock leak* Ability to display the queue via cover tap"
+p4
+tp5
+tp6
+.

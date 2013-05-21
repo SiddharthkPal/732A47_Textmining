@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PHOTO2fun 1-Click Photomontage '
+p1
+tp2
+(S'Description:'
+p3
+S'\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 NEW! Now send real POSTCARDS! \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Create crazy photo montages, cool photo effects or nice annual calendar.From now on the postcard function is available in all our applications in addition to the already known sharing options (eg facebook). You now have the opportunity to send your own photos as an individual postcard to your friends and family around the world - for only $ 1.99 including shipping!Simply download, select a template from a wide and continually updated range, and either load a photo from your photo album or directly take a photo. As if by magic, the automatic professional montage app will create sensational, witty motifs, which you can then send directly via email, save in the library, post on Facebook or sent by postcard. Endless photo-fun without end. And surprising new templates are offered regularly.Why should I buy PHOTO2fun HD?- All collages are created in HD quality- More free collages are available- No annoying adsMissing scenes? Do you have any questions or problems? - Send an e-mail at support@vukee.com or visit us on Facebook: http://www.facebook.com/vukee.deWe can help for sure!Many thanks to everybody who has contributed to making our app as popular as it has become already and for the numerous positive assessments and suggestions.Recent changes:Send your POSTCARD now!!! New pictures available\xe2\x80\xa8'
+p4
+tp5
+tp6
+.

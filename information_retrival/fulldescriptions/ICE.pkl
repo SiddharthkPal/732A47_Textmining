@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'ICE '
+p1
+tp2
+(S'Description:'
+p3
+S"L\xe2\x80\x99Applicazione ICE (In Caso d\xe2\x80\x99Emergenza) \xc3\xa8 stata sviluppata con la collaborazione medico/scientifica del Dott. Luca Brazzi dell'Universit\xc3\xa0 degli Studi di Milano.Presentata al Dott. Osvaldo Chiara, Direttore del Trauma Center dell'Azienda Ospedaliera Niguarda Ca' Granda di Milano, \xc3\xa8 stata giudicata un utile strumento a supporto del lavoro quotidiano della sua struttura al punto di consigliarlo.ICE si propone come strumento in grado di sostituirsi al proprietario dello smartphone, nel caso questo sia impossibilitato a farlo personalmente, per fornire al personale dei Centri di Primo Soccorso le principali informazioni sanitarie utili per il trattamento iniziale e le indicazioni circa le persone da contattare ed i loro recapiti.In collaborazione quindi con il Trauma Center abbiamo realizzato un prodotto che \xc3\xa8 utile sia ai pazienti sia agli operatori in emergenza che verranno sensibilizzati sul cercare l'App e i suoi dati sui telefoni.Solo in questo modo le informazioni saranno disponibili nel momento critico alle persone giuste.Oltre a tutte le informazioni mediche vitali l'App fornisce tre riferimenti chiari di persone da contattare, la foto del proprietario per un'immediato riconoscimento e la data di nascita.Attraverso l'App \xc3\xa8 possibile generare uno sfondo per il telefono da utilizzare in accensione e che visualizzi i riferimenti da contattare, i loro numeri telefonici e grado di parentela, nonch\xc3\xa9 l'indicazione che all'interno \xc3\xa8 presente lCE ove reperire ulteriori informazioni.Per evitare modifiche indesiderate \xc3\xa8 possibile bloccare i dati immessi con un PIN scelto dall'utente."
+p4
+tp5
+tp6
+.

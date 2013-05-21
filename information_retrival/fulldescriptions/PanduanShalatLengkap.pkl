@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Panduan Shalat Lengkap '
+p1
+tp2
+(S'Description:'
+p3
+S'Panduan belajar Shalat lengkap, Shalat wajib, Shalat Shunah dan Kumpulan Doa. Sangat mudah dipahami dan cocok untuk semua usia. Mudah mudahan dengan anda mengInstal aplikasi Panduan Shalat Lengkap ini dapat membuat anda lebih mengerti mengenai tata cara Shalat yang baik dan benar.Aplikasi ini dibuat dari berbagai sumber-----Tags: Shalat, Panduan, Tuntunan, Sholat, Solat, panduan belajar, belajar shalat, ngaji, iqro, alquranRecent changes:V1.0.3 :- Navigasi lebih ringan- Penambahan audio- Penambahan Doa Dzikir setelah shalat- Perubahan tampilanV1.0.2: - Update semua isi konten- Bisa diakses offline- add mp3V1.0.1 : bug fixed'
+p4
+tp5
+tp6
+.

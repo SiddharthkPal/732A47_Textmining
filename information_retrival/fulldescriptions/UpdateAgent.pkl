@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Update Agent '
+p1
+tp2
+(S'Description:'
+p3
+S'Do not install this without being sent here from avast! Mobile Security first.Please instead install our full avast! Mobile Security app here:https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurityRecent changes:\xe2\x80\xa2 New Anti-Theft user interface\xe2\x80\xa2 Option to disable sending SMS to avast! Account\xe2\x80\xa2 Anti-Theft uninstall protection\xe2\x80\xa2 Auto-enable GPS for more devices\xe2\x80\xa2 Recovery PIN support on lock screens\xe2\x80\xa2 DATA ON/OFF SMS command'
+p4
+tp5
+tp6
+.

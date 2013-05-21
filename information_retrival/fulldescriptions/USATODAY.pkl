@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'USA TODAY '
+p1
+tp2
+(S'Description:'
+p3
+S"The nation\xe2\x80\x99s news from USA TODAY is accessible 24/7 on your Android phone or tablet.  Staying informed has never been this quick, easy or enjoyable. Headlines - Browse the latest headlines in our News, Sports, Life, Money, Tech, Travel and Opinion sections. Stories are updated 24/7 and can be shared via e-mail, Twitter, Facebook or any sharing app you download on your device. Scores - Check out the latest sports scores for the NFL, MLB, NBA, NHL, MLS, college football and college basketball.Weather - Get current conditions, forecasts, and radar maps, and save them for up to ten locations. Photos - Enjoy beautiful photo galleries, including the Day in Pictures, Day in Sports, and Day in Celebrities\xe2\x80\x94you can flip through the day's best photos or play them back as a slideshow and share your favorites with friends. We\xe2\x80\x99ve also added the Editorial Cartoon gallery to the Opinion section.Snapshots - Check out our signature Snapshots in News, Money, Sports, and Life, and vote to see Quick Question results in each one. Offline Reading \xe2\x80\x94 Save and read USA TODAY content offline, even when you don't have a connection.Breaking News \xe2\x80\x93 Sign up for Breaking News alerts, and never miss another emerging story that sparks the nation\xe2\x80\x99s conversation.Recent changes:Bug fix for video play error"
+p4
+tp5
+tp6
+.

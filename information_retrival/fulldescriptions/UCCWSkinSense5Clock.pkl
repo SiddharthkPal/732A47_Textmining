@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'UCCW Skin - Sense 5 Clock '
+p1
+tp2
+(S'Description:'
+p3
+S"Sense 5 Clock (similar to the widget on HTC One)- All weather conditions for Yahoo Weather API- HD Resolution (720x196)2 hotspots:- Clock- Update weather=== Requirement ===You need UCCW to use this skin http://goo.gl/q0KSt=== How to use ===Long press on home screen > Widgets > UCCW 5x2 > Sense 5 ClockEnable hotspot mode in UCCW to launch clock when you tap on the clock & update weather when you tap on weather icon=== Modifying ===Disable hotspot mode in UCCW & tap on the skin to editIf you want to make advanced changes, you have to download the .uzip version from http://android.dsaif.com/store/?dir=UCCW%20Skins/Sense%205%20Clock=== Credit ===Thanks to XDA Member alper.s for the weather iconshttp://forum.xda-developers.com/showthread.php?t=2185842=== Follow ===Blog: http://dsaif.tumblr.comTwitter: http://twitter.com/DSaifDesignGoogle Plus: http://plus.google.com/103839899698883057169=== Contact / Feedback / Request ===Email me if you need any help. I'll reply within few hours.Recent changes:\xe2\x98\x85 Complete weather icons! \xe2\x98\x85Remove widget & clear cache of UCCW before updating."
+p4
+tp5
+tp6
+.

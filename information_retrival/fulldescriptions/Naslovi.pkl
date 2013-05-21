@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Naslovi '
+p1
+tp2
+(S'Description:'
+p3
+S'Andorid aplikacija Naslovi.net. Vesti dana, vremenska prognoza, TV program, kursna lista.Sajt Naslovi.net pretra\xc5\xbeuje i agregira vesti sa svih informativnih portala u Srbiji uklju\xc4\x8duju\xc4\x87i i Blic, Kurir, B92, Telegraf, Mondo, Ve\xc4\x8dernje Novosti, RTS, Politiku i druge.Recent changes:Otklonjeni bugovi prilikom u\xc4\x8ditavanja vi\xc5\xa1e vesti po kategoriji.'
+p4
+tp5
+tp6
+.

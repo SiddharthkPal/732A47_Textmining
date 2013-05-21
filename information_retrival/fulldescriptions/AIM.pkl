@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AIM '
+p1
+tp2
+(S'Description:'
+p3
+S'AIM is evolving. We\'ve redesigned our app from the ground up to give you the best way to keep in touch with people and groups. Start or join a group chat, share images and your location, and continue conversations with your desktop and web clients seamlessly.Features:- Connect to Facebook Chat and Google Talk in your chat networks settings- Chat with a friend or group of friends with the new \xe2\x80\x9cStart a Chat\xe2\x80\x9d button- Customize your groups with features like add/kick members and edit group icon- Share photos and your location without leaving the conversation- Copy and paste messages by long pressing on a message- Tap on icons to quickly view user details or group chat settings- See your social notifications for activity on your AIM, Twitter, Instagram and Facebook accounts- NEW! See your news feed updates from AIM, Facebook and Instagram in one easy to navigate window- NEW! Like and comment on AIM and Facebook updates without leaving the app- Chat with your friends from AIM, Facebook and Google chat networks- Go "Off the Record" with a friend in your conversation- Clear your message history directly from the conversation menu- Update your incoming message sound alerts- Update your LED notification colorRecent changes:New in v2.7.0.1* Fixed issue where closing recent chats may crash and close the app'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Web to PDF Converter '
+p1
+tp2
+(S'Description:'
+p3
+S"Best Web to PDF Converter!Be the author of your book ;)Get important websites, articles, notes, recipes, news etc. from the internet into High quality PDF format.Create your own customised ebooks! -----User Feedback------------This app does exactly what the developer says it's supposed to do, but much faster! Great on my GS2.                          -Cesare Francioni..............................Thanks to developer, works flawlessly.. Now I have PDFs of all my important pages, for offline browsing... Plus this has brought down my internet bill.                          -Umesh Kulkarni--------------------------------FEATURES*******************************************************-Convert any website/web page into high quality PDF.-PDF will be exact replica of the converted web page.-Many settings are available to format your output PDF.-Share your PDF immediately via bluetooth, email etc.-Append multiple web pages into single PDF-Background conversion-Fast and accurate conversion-Requires working internet connection to use this service*******************************************************HOW TO USE------------------------------------------------------------- Enter the URL to be converted- Change the settings as required                      - Click the convert button- PDF will get created in few seconds (based on intenet speed)-----------------------------------------------------------KEYWORDS:PDF, Portable document format, convert, web, fast, free, simple, document, html, url, websiteRecent changes:-Minor bug fixes.-Trying some changes for performance improvements"
+p4
+tp5
+tp6
+.

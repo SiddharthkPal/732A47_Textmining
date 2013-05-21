@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Roku '
+p1
+tp2
+(S'Description:'
+p3
+S'Turn your Android device into a control center for your Roku streaming player.Our free app lets you:\xe2\x80\xa2 Browse and add over 500 Roku channels in the Roku Channel Store\xe2\x80\xa2 Enjoy your Android phone\xe2\x80\x99s photos and music on your Roku player (Supported on Roku 2, Roku LT, new Roku HD and Roku Streaming Stick only)\xe2\x80\xa2 Quick launch and rate your Roku channels\xe2\x80\xa2 Take command of your Roku player with a remote control. Includes instant replay, back and options buttons\xe2\x80\xa2 Enter text with the keyboard\xe2\x80\xa2 Name and switch between multiple Roku playersTHIS APP REQUIRES A ROKU PLAYER AND A ROKU ACCOUNT.To get started, you must connect your Android device to the same network as your Roku player. You will be asked to sign-in to your Roku account and connect to your Roku player over your home network.HAVING TROUBLE FINDING YOUR ROKU PLAYER?Note:  If the app does not recognize your Roku player (you see a \xe2\x80\x9cPlayer Not Found\xe2\x80\x9d message after you sign in), try the going network setup again on your Roku player. This will wake your Roku player on your home network. Then, select \xe2\x80\x9cTry Again\xe2\x80\x9d in the Roku app.Go to support.roku.com for FAQs. Email us your app feedback and suggestions to feedback@roku.com.Recent changes:\xe2\x80\xa2 Added ability to play photos and music simultaneously in Play On Roku without pre-selecting music in slideshow settings.\xe2\x80\xa2 Improved discovery of Roku players on your home network.\xe2\x80\xa2 Added ability to enter the IP address of a Roku player manually in case that the app does not find your Roku player.\xe2\x80\xa2 App now automatically pairs with your Roku player when that player is the only player associated with your Roku user account.\xe2\x80\xa2 Reorganized options screen.\xe2\x80\xa2 Stability improvements.\xe2\x80\xa2 Bug fixes.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MP3 Music Download Free '
+p1
+tp2
+(S'Description:'
+p3
+S"Music Flower is a free search engine and music downloader and player.Music Flower is the ultimate free music app letting you search and listen music from the internet.Music Flower is a search engine and it does not contain copyright-protected material. It is not a peer2peer software, it's a search engine.Unlike other apps, Music Flower gives you a new, enjoyable experience, continuously flowing the songs matching your search criteria.With Music Flower you can spawn many consecutive searches, refining them by title, singer/author, album.. You can also tweak advanced settings, like limiting the number of songs, skipping small size songs, defining timeouts before giving up a connection attempt and starting the next one.Just spawn your searches, and listen to the music!\xe2\x80\xa2 USAGE TIPS:\xe2\x80\xa2 If you are wearing your device's headset when listening to Music Flower, you can also press the Media Button on you headset to skip to the next song, or double-press it to go back to the previous song.\xe2\x80\xa2 A WIFI connection is recommended for a better experience.\xe2\x80\xa2 Please note that Music Flower can considerably affect your device's battery usage, due to network access harvesting music for you.\xe2\x80\xa2 Please score us 5 stars, so we can continue improving Music Flower!Thank you!TAGS: free music free mp3Recent changes:Better results.Little Interface fix.Different Audio support ."
+p4
+tp5
+tp6
+.

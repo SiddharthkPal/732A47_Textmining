@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Battery Defender '
+p1
+tp2
+(S'Description:'
+p3
+S"Easy to use Battery saver! Extend your battery life!Don't want to pay for battery saver apps? Try this app!1. Automatically, just enable it.2. Shows battery percent in the notification bar.3. Fast wifi/gps/data/bluetooth switch.4. App white list for streaming apps.Why this app will save battery?1. Automatically disable WiFi and data connection after you turning off your screen(with 15~20 secs latency).2. Genius Sync, allow app to sync every 15 minutes but save battery.3. Quiet sleeping. Disable data network and WiFi connections when you are sleeping. Sleeping time can be adjusted as your prefer.4. Low Battery Policy. When battery is running out, it will disable data network and WiFi when you are not using your phone.#INFOLIFE, Make Your Life Easier!Please feel free to contact us. We will reply as soon as possible.#KWBattery, Battery Defender, Battery Saver, Battery LifeTo help us translate this app into your native language, please sign up at http://crowdin.net/project/battery-defenderBattery Defender\xc2\xae is a trademark of INFOLIFE LLCRecent changes:Beta version, please send your feedback other than giving 1 star. Notification icon be disabled in setting!#0.9.9-r29 beta* Fix a minor bug.#0.9.9-r27 beta* Remove all the GPS related code.#0.9.9-r26 beta* Fix white list crash bug.* Make the toggle easier to click.* Fix about.#0.9.9-r25 beta* Remove gps status to solve the battery drain bug on 4.x.#0.9.9-r24 beta* Now you can use the big button as quick on/off switch.#0.9.9-r23 beta* Fix service restart bug."
+p4
+tp5
+tp6
+.

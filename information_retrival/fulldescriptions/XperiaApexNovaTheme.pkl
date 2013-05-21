@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Xperia Apex/Nova Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Xperia Theme for Apex and Nova Launcher* 18 HD Wallpapers* Xperia Font for Icon Labels* A matching blue Apex Skin* Matching Icons from Xperia===>Important tips:Open the app after installation and then you can apply Apex or Nova Theme.The weather widget in screenshots belongs to Palmary Weather, Search \xe2\x80\x9cPalmary Weatherr\xe2\x80\x9d to download if you like.Thank you for downloading our theme. Don\'t hesitate to email us if you have any problems, questions or suggestions. If you like the theme, please leave a positive review.Photox Design\xe2\x80\x99s Themes will be regularly updated to ensure that all the themes are compatible with latest version of Apex Launcher. We will add features like more icons, wallpapers, etc. If you like this theme, check out our other themes. Click on "More by Photox Designs".Recent changes:Fixed Icon BugAdded Support for Nova LauncherAdded Wallpaper Chooser'
+p4
+tp5
+tp6
+.

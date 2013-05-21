@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MultiClip - video Download '
+p1
+tp2
+(S'Description:'
+p3
+S'An Application That Downloads Video, Image, and PDF Files!MultiClip is a free application that allows you to easily download and save video, image, and PDF files from the web.Using the application\xe2\x80\x99s browser functionality, you can search the Internet for video, image, and PDF files; and then download them.It is also possible to playback saved data(clipped media) offline, even when signals are unavailable. With regard to the application\xe2\x80\x99s web browser, it comes equipped with bookmarking functionality. This means that favorite websites can be opened immediately.Furthermore, it is possible to use streaming playback for video and image files. Please use Multi Clip to download(mediaclip) your favorite files.*In accordance with Youtube Terms of Service, it is not permitted to use this application with Youtube contents.(Main Functions)* The downloading of video, image, and PDF files.* The playing and displaying of video, image, and PDF files. * Web browser functionality.* Content of YouTube is not permitted by the Terms of Service of YouTube.* Twitterhttps://twitter.com/MultiClip_app* Facebookhttp://www.facebook.com/pages/Multiclip/482222498493335* Google Plushttps://plus.google.com/104400295837183268180/about* Contact Ushttp://multidl.inquiries.tablemount.info/inquiries/contact.new.php?url=PlayStoreRecent changes:I modify some of the layout'
+p4
+tp5
+tp6
+.

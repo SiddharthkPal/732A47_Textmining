@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'OLX Free Classifieds '
+p1
+tp2
+(S'Description:'
+p3
+S'"Seen on TV" in India, Brazil and South Africa! OLX, online free classifieds. OLX users can search local classified ads, reply to listings, & post ads for free with just a few simple taps. Download now the app for free and: \xe2\x80\xa2 Easily search for ads around you using the location of your phone if available \xe2\x80\xa2 Sell your stuff on OLX in secondsRecent changes:v3.0\xe2\x80\xa2 Now you can see and administrate your pending and rejected ads in MyOLX\xe2\x80\xa2 Improved user experience in the "Around Me" map. Now with category icons.\xe2\x80\xa2 Improved resizing of images before publishing an ad to make the upload process faster and use less bandwidth\xe2\x80\xa2 Added location confirmation pop up after autolocation\xe2\x80\xa2 Current location is now more visible in the home pagev2.0.5\xe2\x80\xa2 Improved overall stability\xe2\x80\xa2 Fixed bug with thumbnails in lists'
+p4
+tp5
+tp6
+.

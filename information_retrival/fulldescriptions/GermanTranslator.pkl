@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'German Translator '
+p1
+tp2
+(S'Description:'
+p3
+S'English to German and German to English Translator and DictionaryDeutsch Englisch und  Englisch Deutsch \xc3\x9cbersetzer und W\xc3\xb6rterbuchEasily translate German to English and English to German.Features:\xe2\x98\x85 Simple and intuitive interface\xe2\x98\x85 Translates sentences and words\xe2\x98\x85 Reads loudly after translation\xe2\x98\x85 Voice recognition\xe2\x98\x85 Sends translation as SMS or email  (tab on translation to active it)Interent access is required.Recent changes:- fixed layout issues in android 3 and 4'
+p4
+tp5
+tp6
+.

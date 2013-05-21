@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'CBS News '
+p1
+tp2
+(S'Description:'
+p3
+S'Get the breaking news and top stories from the CBS News team. With on-demand video from every CBS News show, plus extensive coverage from the CBS News politics team, the CBS News app delivers immediate, timely news to your phone 24/7. Plus, share your favorite stories and videos with your social network through Twitter.Recent changes:This version adds the ability to listen to the live broadcast of CBS Radio News from within the CBS News iPhone app! Listen to the top stories of the day while browsing our in-depth written coverage all in the same app!'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Minecraft PE Cheats '
+p1
+tp2
+(S'Description:'
+p3
+S'A Brand New App For Minecraft Pocket Edition! This app will allow you to read guides all for minecraft pocket edition, it also contains seeds, news and cheats! This app is free to download and content is updated regularly! Its one of the best options if you are looking for Minecraft PE related information! This App Contains: *Guides*Seeds*Cheats*News*Furniture Designs *Videos *And More! This application is not affiliated with minecraft or its affiliates. Download For Free Now!'
+p4
+tp5
+tp6
+.

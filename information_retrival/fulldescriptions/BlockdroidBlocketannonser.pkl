@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Blockdroid (Blocket-annonser) '
+p1
+tp2
+(S'Description:'
+p3
+S'S\xc3\xb6k och bevaka annonser p\xc3\xa5 blocket (inofficiell app). Tackar blocket f\xc3\xb6r fortsatt st\xc3\xb6d i utvecklandet av denna app.Blockdroid \xc3\xa4r ett verktyg f\xc3\xb6r att l\xc3\xa4ttare kunna s\xc3\xb6ka och bevaka efter nya annonser p\xc3\xa5 Blocket. Med blockdroid kan du st\xc3\xa4lla in fler s\xc3\xb6kparametrar \xc3\xa4n blockets mobila hemsida samt deras Android app. Du kan \xc3\xa4ven f\xc3\xa5 notifikationer i din Android-mobil n\xc3\xa4r nya annonser inkommit. Du kan ocks\xc3\xa5 v\xc3\xa4lja e-post notifiering f\xc3\xb6r nya annonser om du s\xc3\xa5 \xc3\xb6nskar.(Kommer ofta nya uppdateringar s\xc3\xa5 h\xc3\xa5ll utkik efter nyheter)-Filtrera p\xc3\xa5 pris i ALLA kategorier-Widget!-Avancerad bevakning med flera inst\xc3\xa4llningsm\xc3\xb6jligheter-Spara annonser & s\xc3\xb6kningar-Tipsa v\xc3\xa4nner-Maila och ring annons\xc3\xb6ren-Visa p\xc3\xa5 karta-mmVillkor enligt Blocket g\xc3\xa4ller vid k\xc3\xb6p och f\xc3\xb6rs\xc3\xa4ljning av objekt. Blockdroid g\xc3\xb6r inga som helst anspr\xc3\xa5k p\xc3\xa5 de annonser som visas eller \xc3\xb6vrig information som h\xc3\xa4mtas f\xc3\xb6r att g\xc3\xb6ra denna s\xc3\xb6ktj\xc3\xa4nst m\xc3\xb6jlig.\tBlockdroids syfte \xc3\xa4r endast att underl\xc3\xa4tta f\xc3\xb6r anv\xc3\xa4ndare d\xc3\xa5 de s\xc3\xb6ker efter annonser p\xc3\xa5 mobil.blocket.se.Recent changes:Version 2.66 (2013-05-05)-Nu kan man v\xc3\xa4lja vilken flik man vill starta med n\xc3\xa4r man \xc3\xb6ppnar Blockdroid, kolla under inst\xc3\xa4llningar.-G\xc3\xb6mmer tangentbordet om man byter flik.-Lagt till ponnys.'
+p4
+tp5
+tp6
+.

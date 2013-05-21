@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'RDS Hockey '
+p1
+tp2
+(S'Description:'
+p3
+S'RDS vous pr\xc3\xa9sente l\xe2\x80\x99application mobile sur le hockey de la LNH la plus compl\xc3\xa8te qui soit : l\xe2\x80\x99application RDS Hockey pour iPhone et iPod Touch,  t\xc3\xa9l\xc3\xa9chargeable tout \xc3\xa0 fait gratuitement. RDS Hockey est la seule application qui offre les alertes vid\xc3\xa9os but par but des matchs des Canadiens de Montr\xc3\xa9al, \xc3\xa9galement offertes gratuitement. En plus des alertes vid\xc3\xa9os exclusives, vous y trouverez un contenu riche en informations, incluant : - La mise \xc3\xa0 jour des r\xc3\xa9sultats et nouvelles de derni\xc3\xa8re minute !- Les blogues et analyses des meilleurs experts du Qu\xc3\xa9bec- Les statistiques des matchs en cours et les sommaires officiels- Les alertes de toutes les nouvelles quotidiennes des Canadiens et de la LNH - Les alertes texte des buts des parties des Canadiens - Les vid\xc3\xa9os des nouvelles de la LNH- Les transactions et la liste des bless\xc3\xa9s mise \xc3\xa0 jour quotidiennement- Une page consacr\xc3\xa9e \xc3\xa0 chacune des \xc3\xa9quipes de la LNH (calendrier, r\xc3\xa9sultats, statistiques)- Le calendrier de la LNH et son horaire t\xc3\xa9l\xc3\xa9 complet sur RDS, RDS2 et RDS INFO- Le suivi possible, pour les poolers, de la performance des joueurs de votre \xc3\xa9quipeSoyez les premiers \xc3\xa0 apprendre la nouvelle de l\xe2\x80\x99heure sur le hockey en consultant RDS Hockey en tout temps !Recent changes:Correctifs multiples pour am\xc3\xa9liorer la stabilit\xc3\xa9'
+p4
+tp5
+tp6
+.

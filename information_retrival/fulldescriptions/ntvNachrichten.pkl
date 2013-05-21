@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'n-tv Nachrichten '
+p1
+tp2
+(S'Description:'
+p3
+S'Aktuelle Nachrichten, Bilder und Videos, Breaking News, Politik, B\xc3\xb6rsenkurse, Wetter, Sport und Fu\xc3\x9fball Bundesliga live: n-tv.de f\xc3\xbcr alle, die auf dem Tablet oder Smartphone unterwegs auf dem Laufenden sein wollen.Die App bietet Zugriff auf deutsche News aus allen Ressorts, auf Bilderserien und das umfangreiche Videoangebot von ntv.Neu: Auch f\xc3\xbcr TabletsRecent changes:v2.3.5* Boxen Ticker* Optimierung der Lesbarkeit auf Ger\xc3\xa4ten mit hoher Aufl\xc3\xb6sungv2.3.4.1* Hotfix f\xc3\xbcr diverse Ger\xc3\xa4te mit Android 2.1, 2.2 und bestimmten Custom-ROMsv2.3.4* Optimierung der Ladezeit (insbesondere App-Start)* Widget-Anpassungen f\xc3\xbcr Full-HD-Ger\xc3\xa4te* Weitere Reduzierung Datenvolumen* Allgemeine Fehlerbehebungen (Userfeedback)v2.3.3* Erweiterung der Wetterrubrik um Pollenflug-Vorhersage* Datenverbrauch des Widgets optimiert'
+p4
+tp5
+tp6
+.

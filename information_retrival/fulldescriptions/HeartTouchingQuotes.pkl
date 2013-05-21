@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Heart Touching Quotes '
+p1
+tp2
+(S'Description:'
+p3
+S"Heart Touching Quotes is a collection of inspirational quotes on topics including success, life, leadership, love, motivation and more.This pro version of application is free for limited timeWhat's new in Heart Touching Life Quotes1. Previous button2. Favorite button3. Ratingmotivation, love, lovers, girls, boys, mother, father, happy, angry, sad, emotions, feelings, friendship, relationship, friend, relation, smile, people, sky, dream, life, nature, hate, pretty, beautiful, attitude, country, classic, music, art, dance, advice and much moreYou can send beautiful quotes as an SMS or email, share on Facebook and TwitterRecent changes:version 6:fixed force close bug"
+p4
+tp5
+tp6
+.

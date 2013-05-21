@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Atrium for Facebook '
+p1
+tp2
+(S'Description:'
+p3
+S"With Atrium for Facebook you\xe2\x80\x99ll stay connected, discover what\xe2\x80\x99s new, and keep up with your Facebook friends, all from a single app. Its clean, cutting edge UI design combined with blazing fast performance make Atrium one of the best Facebook apps currently available for Android. Come on out and give it a try! We promise you'll love it!KEY FEATURES:\xe2\x80\xa2 Instantly see who's online on Facebook;\xe2\x80\xa2 Explore your friends\xe2\x80\x99 profiles, including photos, videos and timeline;\xe2\x80\xa2 Access your groups and pages;\xe2\x80\xa2 Share status updates, photos and videos;\xe2\x80\xa2 Get notified when friends like and comment on your posts;\xe2\x80\xa2 View hi-res photos directly in the news feed;\xe2\x80\xa2 One-click access to comments and likes in the news feed;\xe2\x80\xa2 Send instant messages to your friends (even when they are offline);\xe2\x80\xa2 Express your emotions with cool smileys and rage faces;\xe2\x80\xa2 Quickly access your complete Facebook chat history;\xe2\x80\xa2 One-click access to your most recent conversations;\xe2\x80\xa2 Check-in at interesting places all around the world;\xe2\x80\xa2 No additional fees, 100% free!Please visit our website or use a built-in contact form on the app settings screen to send us your questions, comments and feature requests!This app is not owned or operated by Facebook.Recent changes:- Improved timeline UI;- Options to share links with friends and groups;- Configurable default privacy;- No more ads in the photo viewer ;)- Bug-fixes;"
+p4
+tp5
+tp6
+.

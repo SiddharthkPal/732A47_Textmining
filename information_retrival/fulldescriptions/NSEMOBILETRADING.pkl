@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'NSE MOBILE TRADING '
+p1
+tp2
+(S'Description:'
+p3
+S'NSE Mobile Trading system provides a revolutionary application suite featuring comprehensive trading and market monitoring platform.  We offer real time streaming quotes, with simple and user friendly interface for all type of users. It provides the freedom to trade hassle free anywhere and at any time.Recent changes:* Enhanced Streaming* option to enable ticker bar from settings.'
+p4
+tp5
+tp6
+.

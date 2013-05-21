@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Songkick Concerts '
+p1
+tp2
+(S'Description:'
+p3
+S'Songkick tracks your favorite bands so you never miss them live. Instantly create a personalized concert calendar based on your bands and your location by scanning your music library, your Google Music account, or your Last.fm app. See why millions of fans worldwide use Songkick to track their favorite bands. - Instantly scans your music library, your Google Music account, and your Last.fm app to track your favorite artists.- Import your favorite artists from your Facebook, Pandora, or Last.fm accounts.- Get a personalized, local concert calendar for your bands.- Notifications when new concerts are announced, pushed to your phone- For every concert, see the line-up, venue, map, all the ticket options, invite friends, or add to your device\'s calendar.- Browse all events in your city or any city worldwide. Add/edit more locations.- For ICS users:   * handy home screen widgets for your plans and recently added events so you don\xe2\x80\x99t miss out.   * use Android Beam to share concerts directly with your friends.- Customize your tracked artist list, so you never miss your favorite bands live.- Browse the full tour schedule for your favorite artists.- Keep track of your concert plans.If you have problems with the app, please e-mail: androidhelp@songkick.com and include your Songkick username, if you have one.Reviews:\xe2\x80\x9cIf I had to choose one concert recommendation service above all the others, I would pick Songkick.\xe2\x80\x9d-- CNET \xe2\x80\x9cWith 100,000 concerts on its global database, Songkick dominates the listings market.\xe2\x80\x9d-- The Guardian \xe2\x80\x9cSongkick isn\xe2\x80\x99t the only music listings site\xe2\x80\xa6 But Songkick has emerged as the leader.\xe2\x80\x9d-- New York TimesRecent changes:- New "Your Plans" widget lets you view all concerts you\'ve marked as "I\'m going" or "I might go"- Bug fixes'
+p4
+tp5
+tp6
+.

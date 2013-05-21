@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pocket Informant 3 List Widget '
+p1
+tp2
+(S'Description:'
+p3
+S'This widget allows you to see events and tasks from Pocket Informant on your home screen. This widget only works with the latest Pocket Informant 3 so do not forget to update to the latest version.Some widget features:- Scrollable and resizable widget- Works with both Pocket Informant 3 demo and full version- Configurable transparency- Two modes: Calendar and Task List- Options to show/hide tasks/events in Calendar View- Option to select task filter to display in Task List modeRecent changes:- Showing event tag color only for the first instance fixed- Crash when showing smart group in widget fixed- Version display added to widget configuration screen'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Epocrates '
+p1
+tp2
+(S'Description:'
+p3
+S"More than 1 million active members, including 50% of U.S. physicians, rely on Epocrates to enable better patient care by delivering the right information, right when it's needed. Healthcare professionals worldwide use Epocrates routinely to:-Review drug prescribing and safety information for thousands of brand, generic, and OTC drugs-Check for potentially harmful drug-drug interactions among up to 30 drugs at a time-Select national and regional healthcare insurance formularies for drug coverage information-Identify pills by imprint code and physical characteristics-Perform dozens of calculations, such as BMI and GFR-Access timely medical news and research informationDisease information, alternative medications, lab guides and more clinical tools and content are available by upgrading to an Epocrates Essentials subscription.Recent changes:- General performance enhancements- Graphics updates"
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Google Goggles '
+p1
+tp2
+(S'Description:'
+p3
+S'Search by taking a picture: point your mobile phone camera at a painting, a famous landmark, a barcode or QR code, a product, or a popular image. If Goggles finds it in its database, it will provide you with useful information.Goggles can read text in English, French, Italian, German, Spanish, Portuguese, Russian, and Turkish, and translate it into other languages.Goggles also works as a barcode / QR code scanner.Features:- Scan barcodes using Goggles to get product information- Scan QR codes using Goggles to extract information- Recognize famous landmarks- Translate by taking a picture of foreign language text- Add Contacts by scanning business cards or QR codes- Scan text using Optical Character Recognition (OCR)- Recognize paintings, books, DVDs, CDs, and just about any 2D image- Solve Sudoku puzzles- Find similar productsRecent changes:- Fixed an image rotation issue on some phones and some minor crashes- Simplified user interface and feature set: the app now starts in the capture mode'
+p4
+tp5
+tp6
+.

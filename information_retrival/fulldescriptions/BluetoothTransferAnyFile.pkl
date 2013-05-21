@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Bluetooth Transfer Any File '
+p1
+tp2
+(S'Description:'
+p3
+S"Transfer any file via Bluetooth.Our professional service for sharing files via Bluetooth is the easy, modern and secure alternative.Due to the large numbers of devices out there it is likely that this app won't be 100% compatible with all of them. Please send your feedback to the developer instead of down rating to help improve this app!BTAF (Bluetooth Transfer Any File) \xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85, is an application for transferring files.It can transfer any type of file of any size via Bluetooth without to make expenditures in your movil internet tariff.It is very easy to use, only two steps:1. the user/s A, select the file2. the user/s B, click on Receiveand voila, file sent.FEATURES\xe2\x9c\x93 Super easy to use! Zero setup required.\xe2\x9c\x93 Fast file transfer.\xe2\x9c\x93 Big file transfer.\xe2\x9c\x93 Listing all sent and received files.\xe2\x9c\x93 Send a file to multiple users at once.\xe2\x9c\x93 Receive multiple files of different users at once.\xe2\x9c\x93 Confirm file shipping.\xe2\x9c\x93 Confirm file download.\xe2\x9c\x93 Includes your own file browser.\xe2\x9c\x93 No need to register or login.The application includes a user manual: Settings > HelpEnjoy it to the maximum,Tags:file transfer, transfer files, exchange files, pass files, bluetooth file trasfer, free file transfer, transfer big files, big files transfer, free file transfer, send big file, large file transfer, send big files, transfer large filesRecent changes:Improved performance and bug fixesSoon:\xe2\x9c\x93 Allow multiselection of files\xe2\x9c\x93 Launch the BTAF for PC"
+p4
+tp5
+tp6
+.

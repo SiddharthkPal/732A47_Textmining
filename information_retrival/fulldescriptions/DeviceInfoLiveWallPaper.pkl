@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Device Info Live WallPaper '
+p1
+tp2
+(S'Description:'
+p3
+S'Device Info Live Wallpaper will indicate various device information of your phone in a cool way,snappily! Below is the information which will be shown.-Date/Time(Digital clock)-CPU Usage(with history)-Battery remain/temperature/voltage-RAM Usage-Internal Memory Usage-External Memory Usage(SD-Card)-Tilt-Compass-Network connection state-Wifi setting information-CPU spec-Device basic information-Platform information This LWP was also designed with consideration for the low-power consumption.please enjoy! Go to menu(home) -> wallpaper -> live wallpaper -> Device Info to view this wallpaper. Device Info Ex Version can customize more as below.-Background Color(Blue/Red/Green/Pink/Orange/Monochrome/Sepia)-Brightness of background-Text color-Animation speed(Smooth/Standard/Battery efficient)-12 hour display(Clock)-Show the second or not(Clock)-Reverse day and month(Clock)-Be able to choose the information to be displayed-Scroll left and right for providing blank pages for your widgets-Be able to move each information stat frame.-Fix a layout(Lock the position) or not-Be able to select \'Celsius\' or \'Fahrenheit\' for battery temperature.-Refresh Interval(CPU/Battery/Memory&Storage)Recent changes:ver 2.0.0Fixed two major bugs as below-In some device, Crash when the CPU usage is 100%.-If the external storage is not installed, occur the uncatched exception error.ver3.0.0Fixed one major bugs as below-Crash when visible state change.ver4.00Fixed one major bugs.-Crash if SD-Card is not installed in some model.ver5.00-Change external storage path to "/mnt/extSdCard/" if  the device is samsung.-Add the Sensor information to Device info frame.-Shift upper for Dog bar.'
+p4
+tp5
+tp6
+.

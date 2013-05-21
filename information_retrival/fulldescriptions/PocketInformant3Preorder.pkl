@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pocket Informant 3 Pre-order '
+p1
+tp2
+(S'Description:'
+p3
+S'This is a pre-order of Pocket Informant 3.0. The full version will be released in several weeks, and until that time you may purchase this pre-order version at a special, reduced price.  When we release the full version of Pocket Informant 3.0, you will be able to install it as a simple Play Store update to this application. Before you buy you can try the public beta version of Pocket Informant 3.0:https://play.google.com/store/apps/details?id=net.webis.pi3demoRecent changes:- Icon updated'
+p4
+tp5
+tp6
+.

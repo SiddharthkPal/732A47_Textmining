@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'MinerGuide - For Minecraft '
+p1
+tp2
+(S'Description:'
+p3
+S"MinerGuide is a guide to the popular indie game 'Minecraft'. This app has Info on crafting, mobs, achievements, redstone and more!*Updated for version 1.4.6 of Minecraft.*Base Features:- Item info- Redstone circuit info- Mob info- Clickable crafting squaresUnlockable Features:- Search for any piece of information in the app- Achievement info- Biome info- Structure info- Gameplay infoThis app is a must have for all miners whether you're a beginner or pro!Recent changes:Fixed Wooden Button bugNew years sale is over"
+p4
+tp5
+tp6
+.

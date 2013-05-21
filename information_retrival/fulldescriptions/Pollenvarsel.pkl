@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Pollenvarsel '
+p1
+tp2
+(S'Description:'
+p3
+S"Pollensesongen er i gang, og det er viktig \xc3\xa5 vite hva en har i vente hver dag. N\xc3\xa5 trenger du ikke stikke hodet ut av vinduet eller g\xc3\xa5 inn p\xc3\xa5 pollenvarslingen p\xc3\xa5 nett lenger - du f\xc3\xa5r informasjonen du trenger rett p\xc3\xa5 skjermen.Applikasjonen krever en sv\xc3\xa6rt liten mengde data fra nettet, og vil automatisk oppdateres gjennom dagen.Widget:Velg region og pollen. Widgeten vil oppdatere seg automatisk. Du kan ha flere widgets dersom du har flere allergier eller vil se p\xc3\xa5 flere omr\xc3\xa5der. For \xc3\xa5 bytte region og pollentype trykker du bare p\xc3\xa5 widget'en, gj\xc3\xb8r valgene dine og g\xc3\xa5r ut av innstillingene. App:Velg region for \xc3\xa5 se spredning i ditt omr\xc3\xa5de. Du kan se spredningen for i dag og i morgen ved \xc3\xa5 scrolle sidelengs, eller bruke tab'ene.Appen fungerer p\xc3\xa5 Android 2.X, men er skreddersydd for Android 4.0 og oppover, og fungerer p\xc3\xa5 b\xc3\xa5de telefoner og tablets.Forslag til forbedringer eller funn av feil og mangler mottas med takk (pollen@array.no).S\xc3\xb8keord: Pollen Gress Or Hassel Bj\xc3\xb8rk Salix Varsling Pollenvarsling VarselRecent changes:* Det er et problem med widget p\xc3\xa5 HTC Desire med Sense* ActionBar ogs\xc3\xa5 for Android 2.x* Helt ny widget* Helt ny app - ogs\xc3\xa5 tilpasset tablets* St\xc3\xb8tter Android 2.1 - 4.0+* Viser b\xc3\xa5de varsel for i dag og i morgen* Fikset bug: widget ikke oppdatertes automatiskKommer:* Bedre grafikk* Kart* Informasjon om de ulike pollentypene* Stack-widget for \xc3\xa5 se alle pollentyper i din region"
+p4
+tp5
+tp6
+.

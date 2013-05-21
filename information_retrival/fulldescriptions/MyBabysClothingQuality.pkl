@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S"My Baby's Clothing Quality "
+p1
+tp2
+(S'Description:'
+p3
+S'My Baby\'s Clothing Quality brings you to Kiki\'s factory. There is lots of bad cotton, formaldehyde and rough edges in the clothes. Wearing the clothes will make you uncomfortable if we don\'t take them out. How can we take them out?1. During the weaving process, put the bad cotton and worms into to the trash can.2. During the dyeing process, use your finger to remove the harmful formaldehyde flying from the left and right side of the screen3. Finally, there will be quality clothes after removing the rough edges.The interesting scene lets your baby learn garment standards during the process of making clothing. Do you want to know how to make quality clothes? Let your baby come to Kiki\'s factory!___________\xe2\x96\xb6design concepts\xef\xbc\x9aWe focus on inspiration, not just learning.We focus on capacity-building, rather than a single cognition.We focus on entertaining, rather than spoon-feeding teaching.Take the baby bus, which is loaded with a happy childhood!___________\xe2\x96\xb6The series introduction\xef\xbc\x9aBaby Bus is the first brand in early childhood educational software (field of mobile Internet), which is developed specifically for preschoolers, and includes two series which are the Age(1-3) and the Age(3-6). The series of the Age(3-6) combines the main concepts of early childhood education for 3-6 year-old babies and covers the Cognition Pavilion, Brain Training, Art Center  and other relevant categories, the applications of Age(3-6) are aimed at the development of the comprehensive cognitive abilities of the baby\xe2\x80\x99s pedia, music, art, and the analytical thinking capabilities of the left and right brain.Tips: In the search bar, enter "Baby Bus" or " sinyee", to find all of our products. ___________\xe2\x96\xb6Welcome to contact us on\xef\xbc\x9aE-mail: ser@baby-bus.comwebsite: http://www.baby-bus.com'
+p4
+tp5
+tp6
+.

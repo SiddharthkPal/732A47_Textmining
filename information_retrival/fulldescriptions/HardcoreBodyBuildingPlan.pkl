@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Hardcore BodyBuilding Plan '
+p1
+tp2
+(S'Description:'
+p3
+S'This bodybuilding app is perfect for those who want to pack serious muscle in short time. This 3 months mass gain routine contains the three fundamental principles of muscle growth:1. MUSCLES GROW WITH BIG LIFTS IN THE EIGHT TO 12 REP RANGE2. PROGRESSION IS THE KEY TO GROWTH3. TRAINING TO FAILURE (AND BEYOND) IS REQUIREDIn this bodybuilding program, you won\xe2\x80\x99t ever perform a set with less than eight or more than 12 reps, you\xe2\x80\x99ll handle progressively heavier weight loads in more challenging rep schemes to confuse your muscles and spur new growth, and you will add some intensity boosters that are designed to help you take your muscles beyond failure. This bodybuliding plan is everything you need to  work efficiently all the muscles and give maximum output in minimum time.Any training program is only as good as the effort you\xe2\x80\x99re willing to put in. We assume you want to pack on impressive muscle gains and are willing to put in the intense work required \xe2\x80\x94 now it\xe2\x80\x99s your turn to prove us right! Just download the app and enjoy!This version is a bodybuilding trial plan. For the full version you need to purchase Hardcore BodyBuilding Workout Full!key: muscle gain weight muscle workout get huge build muscle bodybuilding exercises for size fitness training weights personal trainer program fitness plan massive growth gaining muscle mass fast body muscle fitness plan personal trainer program fitness massive growth gaining muscle mass fast body muscle fitness guide body building slim down tone up abs chest calves push-ups back arms choulders fitness exercises bodybuilding'
+p4
+tp5
+tp6
+.

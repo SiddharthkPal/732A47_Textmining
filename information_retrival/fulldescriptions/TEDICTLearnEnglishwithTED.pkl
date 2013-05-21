@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'TEDICT, Learn English with TED '
+p1
+tp2
+(S'Description:'
+p3
+S'TEDICT - Learn English with TEDGet TED and ENGLISH!To become good at English, you need to listen to it often, but simply listening to English is not enough. Just like other languages in the world, English has many similar words that are difficult to distinguish by listening. That\xe2\x80\x99s why you need to be able to confirm whether you heard them right.    The key to gaining expertise is in mastering dictation! When you listen to the speaker and type in the words, the program will check them, letter by letter. You can also use the download function to add new dictation sets, so you can compare the wide range of English pronunciations around the world. Because it only takes a short period of time, you can use it on the bus or subway. You can also use it as a TED viewer through the video function with the subtitles activated. The notable feature is that a huge number of TED lectures are constantly added, which means an unlimited amount of available learning materials for you.TEDICT allows you to download as many TED lectures as you want, so you\xe2\x80\x99ll always get new learning materials.The World\xe2\x80\x99s Best Intellectual Archive, TEDHigh-level TED speeches\xe2\x80\xa8This program even features various kinds of English pronunciations from all over the world.Use TEDICT to listen to cool ideas from TED and improve your English skills! -- English Dictation - Add dictation sets through downloads. Download TED lecture videos and play them with subtitles. --scienartbb@gmail.comhttp://scienartbb.blogspot.comTED, dictation, english, sub, subtitle, ielts, toeic, opic, toefl, dictionary, foreign, language, listeningRecent changes:Improved stability.* Your dictation records will be reset if you are using lower than version 1.7. this is for improving compatibility with various devices and making better dictation sentences. I wish your understanding.'
+p4
+tp5
+tp6
+.

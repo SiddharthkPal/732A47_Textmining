@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PhotoMontager '
+p1
+tp2
+(S'Description:'
+p3
+S"\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85 Tons of amazing frames for your photos! Unique, outstanding frames you'll love. You'll have endless fun with just one click!Features: * Use your gallery, camera & Facebook photos. * Lots of categories & themes. * New frames added daily from our user community * Favorites bookmark * Lots of cool unlocked frames The FULL version includes: * 30000+ frames unlocked * Tons of fonts and effects* No ads Note: this app requires Internet to work!Recent changes:Multilanguage support.Lots of bugfixes."
+p4
+tp5
+tp6
+.

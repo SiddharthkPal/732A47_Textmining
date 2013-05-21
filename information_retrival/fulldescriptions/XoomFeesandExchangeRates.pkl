@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Xoom Fees and Exchange Rates '
+p1
+tp2
+(S'Description:'
+p3
+S"Planning to send money to friends and family in another country? Xoom can help you get ready. The Xoom Fees & Exchange Rates app shows you current foreign exchange rates and service fees for international money transfers through Xoom. Just enter the amount of money you\xe2\x80\x99d like to send and choose your recipient\xe2\x80\x99s country. We\xe2\x80\x99ll tell you how much it would cost to send with Xoom, the current foreign exchange rate, and the amount of money your recipient will receive. Whether you just want to calculate a simple currency conversion, or you\xe2\x80\x99re waiting for the right time to send your money overseas and want to get the lowest transaction fees, we\xe2\x80\x99ll make sure you have the information you need. Features * Let us calculate currency conversions for you * Stay on top of foreign exchange rates between US Dollars and international currencies * Find exactly how much it will cost you to send any amount of money internationally with Xoom * Maximize the amount of money that your recipient receives with our low service fees * Ready to send money? Use the app as a bookmark to our mobile site for now, as we build out this functionality in-app. With Xoom you can transfer money to these countries: Latin America & Caribbean : Argentina, Bolivia, Brazil, Chile, Costa Rica, the Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Jamaica, Mexico, Nicaragua, Panama, Peru, Uruguay Africa, Asia & Oceania : Australia, India, the Philippines, South Africa North America : Canada Europe : France, Germany, Ireland, Italy, the Netherlands, Poland, Spain, the United KingdomRecent changes:* Improved performance of the app The Xoom app lets you view Xoom Rates & Fees. We're working hard at letting you send money through the app. Until then, you can use the app as a bookmark to our mobile site."
+p4
+tp5
+tp6
+.

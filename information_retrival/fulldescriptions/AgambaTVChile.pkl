@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Agamba TV Chile '
+p1
+tp2
+(S'Description:'
+p3
+S'Aplicaci\xc3\xb3n que te permite ver los canales de la televisi\xc3\xb3n Abierta de Chile. Para quienes no pueden ver las se\xc3\xb1ales transmitidas en HD, favor instalar BSPLAYERActualmenteCanal 13ChilevisionTVNMEGALa RedUCV TVCanal 13 cableCNN ChileCanal 13 HDCanal 9 Concepci\xc3\xb3n HDTVU Concepci\xc3\xb3n HDArica TVContivisi\xc3\xb3nCanal 5 de Puerto MonttTeletrak TVCDTV C\xc3\xa1mara de DiputadosTV8 Bio-BioCanal 2 San AntonioTelsur AysenEl Pinguino Punta ArenasCanal 2 TemucoEnlace TV (Evangelico)Iremos agregando mas canales:TVN excluido de la aplicaci\xc3\xb3n: Razones ???Se encuentra en un periodo totalmente funcional\xe2\x80\xa6Se aceptan sugerencias.Recent changes:Agamba TV no realiza la transmisi\xc3\xb3n de ning\xc3\xban canal de televisi\xc3\xb3n, tampoco retransmite sus se\xc3\xb1ales. simplemente act\xc3\xbaa como acceso directo a la transmisi\xc3\xb3n en linea que ofrecen todo los canales.2.4: Cambios Mayores.Se ha re definido la aplicaci\xc3\xb3n, ahora el listado de canales se actualiza en linea. de este modo podremos ir agregando m\xc3\xa1s canales a la aplicaci\xc3\xb3n.Se ha Agrupado los canales por categor\xc3\xada (Nacionales-Regionales).Version: 1.3Version Antigua, favor actualizar a la version 2.4'
+p4
+tp5
+tp6
+.

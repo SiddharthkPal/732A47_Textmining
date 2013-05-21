@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Radio FM '
+p1
+tp2
+(S'Description:'
+p3
+S'Radio FM - Radio For Mobile========================Radio FM  is a Radio For Mobile app. This app is for Online, LIVE, Internet based Streaming Radio Stations. Radio FM allows you to listen and enjoy songs, music, talks, news, comedy, shows, concerts, and other various programs broadcast online by various Internet Radio Stations.Radio FM Users can enter their own choice of radio station by entering the information of radio station or Choose a radio station from the Directory of more than 10,000 radio stations grouped into respective countries.All the radio stations are available for FREE by Radio FM. Radio station provider can make it premium.Radio FM team regularly updates on list of radio stations.Radio FM features:- Favorite list feature to manage your radio stations.- Recent list feature to show the recently played radio stations.- Add Station tab to add a new radio station from the app itself.- Share feature to share the radio station with app to your friends and family.We provide this app FREE, if you enjoy it.Like us on Facebook: www.facebook.com/radiofmappFollow us on Twitter: www.twitter.com/radiofmappRadio FM uses the FREE multimedia by Vitamio ( http://vitamio.org/pages/whats-vitamio) to power the media playback.For any suggestions/ query/ problem in app? Write to us on radio-fm@live.com====================Radio FM Feature Updates:====================Version 1.1------------------ Sort Countries List by Number of Stations or Alphabetic order- Sort Radio Stations List by favorites, Likes or Alphabetic orderVersion 1.2------------------ Better representation of Stations favorites and Likes count- Improved layout for landscape orientationRecent changes:- Sleep Timer Feature Introduced- Multilingual support for Italian, Portuguese, Indonesian- Minor UI enhancements for better user experience'
+p4
+tp5
+tp6
+.

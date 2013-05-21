@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kumba und die Banane '
+p1
+tp2
+(S'Description:'
+p3
+S'Kumba, der von SpielAffe.de bekannte gutherzige aber tollpatschige Affe, versucht in diesem interaktiven Kinderbuch, die letzte verbliebende Banane zu ergattern. Aber wie kommt er blo\xc3\x9f an sie ran? Vielleicht mit dem gut gezielten Wurf einer Kokosnuss? Oder mit einem Lasso? Ob diese Ideen wirklich so gut sind und ob Kumba es tats\xc3\xa4chlich schafft, die Banane zu futtern, seht ihr in unserer ersten Geschichte \xe2\x80\x9eKumba & die Banane\xe2\x80\x9c. Wenn Ihr Euch jetzt fragt, warum er nicht einfach klettert \xe2\x80\x93 denn schlie\xc3\x9flich ist er ja ein Affe \xe2\x80\x93 dann habt ihr Recht. Das fragen wir uns auch. Aber so beschert Kumba uns daf\xc3\xbcr viele Lacher, wenn es mit der Banane mal wieder nicht klappt.'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Agenda Widget for Android '
+p1
+tp2
+(S'Description:'
+p3
+S'Highly customizable homescreen widget which allows you to show calendars and tasks from various other Android applications. It comes with various preset themes and has 3 display modes (inline, icon and date row).This is the free version of the application which is fully functional, however at the moment it does not receive feature updates (more information: http://www.androidagendawidget.com/free-version-going-into-stasis) unless you are using Android version 4 or greater which started out with Agenda Widget 2.0 The free version still gets bug fixes and will have some minor changes to the settings.Agenda Widget Plus gets you:A grid viewSupport for UTDNew default themeCleaner settingsCalendar color overrideEasier to make separate widgetsFor a full list of differences between free and plus is check the website http://www.androidagendawidget.com/upgradeMore about the free version:Calendar application support:  - Google including Activesync - Motorola Droid corporate calendar application(now obsolete) - Touchdown exchangeTasks application support: - Astrid - SSI gTasks - Dato GTask - Google Task Organizer (Full version) - Got To Do (Full version))Scrolling is available with ADW Launcher, Launcher Pro, Go Launcher, Xperia Arv launcher and others.Zeam has dropped scrolling launcher support, not my fault :PPlease E-MAIL with bug reports, comments are useless.If you like this buy the Plus version!If you are having a problem with the widget or have a suggestion about a missing feature, the ONLY way it will get done is if you email me or add a comment on the forum! :)Recent changes:Android 4.2 users:- Added lockscreen widget- Various fixes2.1.10- Sorry, too many updates in the last 2 days. This one IS important (fixed the indefinite loading bug)Jellybean update may: - data sources - tap clear calendars - set calendars - select your calendars againSee site for more details'
+p4
+tp5
+tp6
+.

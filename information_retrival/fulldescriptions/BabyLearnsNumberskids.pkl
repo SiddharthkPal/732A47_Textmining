@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Baby Learns Numbers(kids) '
+p1
+tp2
+(S'Description:'
+p3
+S'A number is an abstract knowledge for a kid. But it is too simple for a parent. So how could parents teach this knowledge to their babies?Look! Baby Learns Numbers is a mathematical enlightening game for babies. It has 2 scenes to choose from. Your baby can learn and understand numbers and quantities while playing and enjoying the underwater world scene and the Panda fishing scene. It is so interesting that babies can\xe2\x80\x99t help learn them immediately.\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85Products of Baby Bus\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85\xe2\x98\x85The most interactive and entertaining educational cognitive products\xe2\x98\x85___________\xe2\x96\xb6design concepts\xef\xbc\x9aWe focus on inspiration, not just learning.We focus on capacity-building, rather than a single cognition.We focus on entertaining, rather than spoon-feeding teaching.Take the baby bus, which is loaded with a happy childhood!___________\xe2\x96\xb6The series introduction\xef\xbc\x9aBaby Bus is the first brand in early childhood educational software (field of mobile Internet), which is developed specifically for preschoolers, and includes two series which are the Age(1-3) and the Age(3-6). The series of the Age(1-3) combines the main concepts of early childhood education for 1-3 year-old babies and covers the cognitive development, games, songs and other relevant categories. The applications of Age(1-3) are designed to train the baby\xe2\x80\x99s cognition ability and hand-eye coordination skills.Tips: In the search bar, enter "Baby Bus" or " sinyee", to find all of our products.PS: We have English, Chinese and Japanese 3 versions for our apps, the apps will adapte automatically according to your device language setting.   ___________\xe2\x96\xb6 Contact us : ser@baby-bus.com Official website:  http://www.baby-bus.comRecent changes:1.Added the animation of Chinese New Year.2.To protect baby\'s vision,added the new feature of taking a break.3.Optimize the size of the app, decreased by 10MB.4.Some bugs are solved.'
+p4
+tp5
+tp6
+.

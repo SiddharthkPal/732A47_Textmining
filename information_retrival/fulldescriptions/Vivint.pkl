@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Vivint '
+p1
+tp2
+(S'Description:'
+p3
+S'Vivint Android AppRecent changes:\xe2\x80\xa2 Landscape support\xe2\x80\xa2 Entry Delay option for arming (not available on all systems)\xe2\x80\xa2 Improved Live Video \xe2\x80\xa2 Record Now button (capture a clip on demand while viewing Live Video)\xe2\x80\xa2 Tap-to-center for pan/tilt cameras (replaces pan/tilt arrows) \xe2\x80\xa2 Delete, Protect, Rename video clips\xe2\x80\xa2 Updated thermostat screen with Auto mode support for compatible thermostats\xe2\x80\xa2 Turn on/off multiple lights at once with device groups\xe2\x80\xa2 New \xe2\x80\x9cWhat\xe2\x80\x99s New\xe2\x80\x9d dialog when app first opened after an update \xe2\x80\xa2 Other minor fixes'
+p4
+tp5
+tp6
+.

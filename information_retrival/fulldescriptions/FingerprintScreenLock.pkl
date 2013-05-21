@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Fingerprint Screen Lock '
+p1
+tp2
+(S'Description:'
+p3
+S'Fingerprint Lock Screen is a awesome fingerprint screen app for your phone and can be set as lock screenGet the best customizable fingerprint scanner lock that actually works as a lock screen.Trick your friends that your phone uses finger print to allow access to the home page.IMPORTANT: Please read below and on how the app works\xe2\x98\x85  \xe2\x98\x85 HOW TO UNLOCK \xe2\x98\x85 \xe2\x98\x85 The trick is to set up the number of cycles it will scan before it can allow you to unlock the phone. Follow the steps below:\xe2\x9c\x93  Press menu key and click on How to use.\xe2\x9c\x93   Choose the number of cycles using the seekbar. This number will be used to unlock the phone.\xe2\x9c\x93   Press menu key back.\xe2\x9c\x93  Place your finger on the scanner and hold it down till the number of cycles you selected elapses. For example if you chose 3 cycles then you wait for it to scan 3 cycles or the finger lock image to beep 3 times and then take your finger off and boom you unlock the phone.  \xe2\x9c\x93  Remember this number it is your secret to unlock the phone. So your friends do not know the trick , you can simply pretend that it works only for your fingerprint.\xe2\x98\x85 \xe2\x98\x85  FEATURES \xe2\x98\x85 \xe2\x98\x85 \xe2\x98\x85\xe2\x9c\x93  Over 6 different themes to choose frm.\xe2\x9c\x93  You can set it to appear as phone unlock so it will start up immediately after your unlock the phone.\xe2\x9c\x93  Customization options - You set the rules and hence you are the only one who knows the trick to unlock.\xe2\x98\x85\xe2\x98\x85  Trademarks \xe2\x98\x85\xe2\x98\x85This app is not affiliated with or endorsed by anyone. All themes used are free wallpapers. All authors hold the copyright over their works. All images and ideas are registered trademarks of the respective authors.'
+p4
+tp5
+tp6
+.

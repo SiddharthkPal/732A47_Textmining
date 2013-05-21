@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Great Clips Online Check-in '
+p1
+tp2
+(S'Description:'
+p3
+S'This app saves you time! Busy? Ahead of time, use it to add your name to the list at your local Great Clips salon. How does it save you time? When you\xe2\x80\x99re on the list, chances are you\xe2\x80\x99ll be next as soon as you arrive. How does it work? It\xe2\x80\x99s easy \xe2\x80\x93 just open the app and the salons nearest your current location will appear. Touch the salon that has the estimated wait time that fits you best, then tell us your name, number and how many are in your group. Then, head right over to your Great Clips salon to receive the quality haircut or service you want. Download this app and you\xe2\x80\x99ve made getting a great haircut even easier. Next time, save time!Online Check In is currently available in select markets.The Great Clips application was designed and developed by Innovative Computer Software and utilizes ICS Net Check In\xe2\x84\xa2.Recent changes:After you check in, estimated wait time on the icon will now count down to your estimated time of service.After checking in, sign up to Get Great Stuff from Great Clips!Updated design and salon icons.'
+p4
+tp5
+tp6
+.

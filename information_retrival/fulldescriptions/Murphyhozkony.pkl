@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Murphyho z\xc3\x83\xc2\xa1kony '
+p1
+tp2
+(S'Description:'
+p3
+S'Neofici\xc3\xa1lna zbierka Murphyho z\xc3\xa1konov u\xc5\xbe aj vo va\xc5\xa1om smartf\xc3\xb3ne.Datab\xc3\xa1za prejde korekciou a postupne bud\xc3\xba prid\xc3\xa1van\xc3\xa9 \xc4\x8fal\xc5\xa1ie z\xc3\xa1kony a vylep\xc5\xa1enia aplik\xc3\xa1cie.Tags: Murphy, zakony, Murphyho zakony, Murphyho zakonnikRecent changes:Pridan\xc3\xbdch 50 z\xc3\xa1konovZmen\xc5\xa1en\xc3\xa1 ve\xc4\xbekos\xc5\xa5 aplik\xc3\xa1ciePodpora pre telef\xc3\xb3ny s rozl\xc3\xad\xc5\xa1en\xc3\xadm 240x320'
+p4
+tp5
+tp6
+.

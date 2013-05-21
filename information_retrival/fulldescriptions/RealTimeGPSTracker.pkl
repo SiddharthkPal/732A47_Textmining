@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Real Time GPS Tracker '
+p1
+tp2
+(S'Description:'
+p3
+S"Show your exact location to your family and friends on Google Maps for free. This is more than a GPS Tracker, this is real live tracking for location sharing.Your friends can also show their location to you. Note: You can locate your friends only if they are running this app!Examples this app can be used for:- Show your outdoor trip live to your family & friends. They can track you in real-time while your are running, hiking, biking, paragliding, or just traveling by train or car. - Track your family & friends. Ask them to install this app and you can track each other in real-time.- Embed your map into your website or blog.- Track your dog: Why buying expensive pet trackers? Use a cheap Android phone and put it on your dog. You can see your dog's location on the map in real-time. Supported features:- Provides details like speed, elevation, battery level, etc. Just click the icons on the map.- Send messages to your friends or to the viewers on the website- Supports Google Maps and OpenStreetMap- Supports map integration in your private homepage- Supports autostart- Supports remote start via text message (SMS) or just via the web portal http://www.greenalp.com . Great for battery saving.- Supports various remote commands you can send via web portal. Ideal for tracking your children or your pets.- Support up to two KML layers.- Supports control via location aware apps (as for example Llama)In case of problems please leave a message on my homepage, I will support you there. If you like my application I would feel very happy about positive ratings. Thanks.Keywords:- Live tracking- GPS Tracker- Real Time Tracking- Pet tracker- Remote control- Google Maps- Open Street Map (OSM)- Remote start (SMS)- Google Cloud Messaging (GCM)Recent changes:- Improved connection error handling"
+p4
+tp5
+tp6
+.

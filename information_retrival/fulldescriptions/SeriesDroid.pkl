@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'SeriesDroid '
+p1
+tp2
+(S'Description:'
+p3
+S"SeriesDroid is an Android application designed to navigate through some of the most popular websites about TV shows.There is no need for a web browser, with this application you'll be able to get all the contents much quicker.There is no need for Adobe Flash, this application can play every video natively and much faster.Current supported websites:\xe2\x9c\x94 SeriesPepito\xe2\x9c\x94 SeriesYonkis---We do not own any of the websites and we are not responsibles of the contents available on them. We also do not store any video files nor video links. This application just works as client for the supported websites."
+p4
+tp5
+tp6
+.

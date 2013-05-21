@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Kame Camera-Make Vadering- '
+p1
+tp2
+(S'Description:'
+p3
+S"Kame Camera is the best app to create a amazing manga(cartoon) style photo!!Vadering,Hadouken!!!!!Remember planking?This \xe2\x80\x9cKame Camera\xe2\x80\x9d is the most attractive camera to do planking and to make Vadering.Make you photos fun & attractive!!With \xe2\x80\x9cKame Camera\xe2\x80\x9d you can decorate with amazing stamps and create Vadering, Hadouken,force,Camehameha photography very easily!Once you use Kame Camera,you can beat your friends with Vadering.Let's recreate Vadering,Dragonball,Street fighters moves with amazing stamps,and share it to your friends."
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Curso de Electricidad '
+p1
+tp2
+(S'Description:'
+p3
+S'T\xc3\x8dTULO: Manual de ElectricidadIDIOMA: Espa\xc3\xb1olTIPO: Curso / ManualCOMPLETO MANUAL DE ELECTRICIDADAcceso a diversos v\xc3\xaddeos de aprendizaje.CONTENIDO-Nivel B\xc3\xa1sico-Nivel Avanzado-Conocimiento Variado-Pr\xc3\xa1cticaEntre otros muchos encontrar\xc3\xa1s:Ley de OhmS\xc3\xadmbolos el\xc3\xa9ctricosMedidas y equivalenciasConductores El\xc3\xa9ctricos ICalibre de los conductores de cobreEspecificaciones del alambre de cobreUso de las tablas en electricidadTipos de alambres en electricidadCalibres di\xc3\xa1metros, peso y resistencia de alambres de cobre sin forroUniones El\xc3\xa9ctricasCanalizaciones el\xc3\xa9ctricasFusiblesCorriente alternaFactor de potencia el\xc3\xa9ctricaL\xc3\xa1mparas fluorescentesConexi\xc3\xb3n de un interruptorInterruptor para dos intensidades de luzInterruptor con indicador nocturnoInterruptor m\xc3\xbaltipleInstalaci\xc3\xb3n de una toma de corrienteInstalaci\xc3\xb3n de un timbre o zumbadorAltura de colocaci\xc3\xb3n interruptores y tomacorrientesAltura de colocaci\xc3\xb3n de tomacorrientesDirecci\xc3\xb3n de encendido y apagado de los interruptoresAmperaje, voltaje, frecuencia y fase y \xc2\xa1MUCHO M\xc3\x81S!--------------------------------------Curso Gratis y Totalmente CompletoM\xc3\xa1s informaci\xc3\xb3n en: http://www.librotecstar.com'
+p4
+tp5
+tp6
+.

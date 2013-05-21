@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Job Search '
+p1
+tp2
+(S'Description:'
+p3
+S'Find jobs from your Android phone with Indeed.com, the most comprehensive search engine for jobs. In a single search, Indeed offers free access to millions of vacancies from thousands of company websites, recruitment agencies and job boards in USA, Canada, UK, Ireland, India, South Africa, Hong Kong, New Zealand, Singapore and Australia.Features* View new jobs since your last visit (click New at top of results)* Save or email jobs* Save and delete searchesRecent changes:- Bug fixes- New icon'
+p4
+tp5
+tp6
+.

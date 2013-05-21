@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'C25K Couch to 5K by RunDouble '
+p1
+tp2
+(S'Description:'
+p3
+S'Goes way beyond just a C25K app! GPS tracking, and now includes completely free "Fun Runs"C25K Couch to 5K by RunDouble is a FULL FEATURED trial, with no feature restrictions, and runs in the background while you work out. The first two weeks of the basic plans are free (C25K, Z10K, F10K). After that, upgrade for just $1.60 - less than a bottle of Gatorade\xc2\xaeMaster the Couch to 5K (also known as C25K) training program with this app, which prompts you through your 5K training. Choose a playlist from your music selection, and just get running. The app will track your total and interval distance, optionally giving you pace and distance updates as you run. It will also tell you when you are half-way, so you can turn around and head home.Includes these programs: - C25K Couch to 5K - Zero to 10K* - Five to 10K* - 5K improver - Interval training - 10K event training - Half marathon event training - Varying length "Fun Runs", from 1 km to 10 miles* These new plans replace the Bridge to 10K (B210K) and Ease into 10K (E10K) which were removed for legal reasons.Features: - Runs in BACKGROUND MODE - Prompts you to change pace while working through the Couch to 5K training program.  - Tracks your time, distance and pace, announcing these to you at the end of each interval. - Plays a playlist of your choosing, from your personal music selection. Or alternatively, use another app to play music.- View your previous runs- Additional pace updates at set intervals- Half way marker- Programmable pace warning (target pace)- Support for heart rate monitor (Polar Wearlink+ Bluetooth)- Cloud service:    + Track your progress    + View your route on a map    + View detailed statistics about your workout    + Create and share your own programs (coming soon)Recent changes:Full changelog: http://bit.ly/HQQGSo'
+p4
+tp5
+tp6
+.

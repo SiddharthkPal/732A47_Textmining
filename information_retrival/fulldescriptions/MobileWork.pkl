@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Mobile@Work '
+p1
+tp2
+(S'Description:'
+p3
+S"MobileIron's Mobile@Work connects your Android device to your company network so that you can access email and other work resources. With just a few quick steps, Mobile@Work makes getting access to corporate resources easy on your Android device.\xe2\x80\xa2 Fast access to corporate email, calendar, and contacts\xe2\x80\xa2 Automated access to corporate Wifi and VPN networks\xe2\x80\xa2 Easily find and install work related applications\xe2\x80\xa2 Check compliance with corporate security policies\xe2\x80\xa2 Locate lost or stolen devicesNote: Mobile@Work is used together with a MobileIron VSP server deployed by your company\xe2\x80\x99s IT organization. Please follow the instructions from your IT organization to use this app.  Mobile@Work is required to access corporate resources and therefore should not be removed without first consulting your IT organization.Recent changes:In version 5.6.0.0:\xe2\x80\xa2 AppConnect Enhancements: Out-of-contact policy, Policy to enable/disable screen capture, Authorization, Configuration\xe2\x80\xa2 Docs@Work Enhancements: Android SharePoint tunneling\xe2\x80\xa2 Exchange provisioning enhancements\xe2\x80\xa2 Prevent removal of the Mobile@Work app (SAFE)\xe2\x80\xa2 Lockdown GPS (SAFE)\xe2\x80\xa2 Samsung KNOX support (SAFE)"
+p4
+tp5
+tp6
+.

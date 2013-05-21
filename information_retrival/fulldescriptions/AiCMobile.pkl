@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'AiC Mobile '
+p1
+tp2
+(S'Description:'
+p3
+S'Mobile Aic (Italian coeliac  association) hand book of gluteen-free certified products and catering facilities that can offer an appropriate service to coeliac diseas affected people.please report any bug and issues you might find onhttp://groups.google.com/group/android-aicmobile**To use the app please register for free on www.celiachia.itMain features Hand Book (prontuario):* off line search by company, brand and categories;* partial name search of company, brand and categories;* Speech recognition search (only on enabled devices).Main features Eating out (Alimentazione Fuori Casa):* directory of certified nearest facilities to current location;* directory of certified facilites in given location;* localization on map with access to details;* quick actions to call, add contacts and localize on map facilities.Recent changes:Version 2.3.0 * added ACRA crash tracking * lots of refactoring under the hoodVersion 2.2.3 * better tracking on activities and searches * bug fixesVersion 2.2.2 * Added Google Analytics activity trackingVersion 2.2.1 * catering activities duplication fixedVersion 2.2.0 * available also for devices without telephony * display information about red crossed grain symbol * easier tags to find catering activities * different pins for different catering activities types * bug fixes'
+p4
+tp5
+tp6
+.

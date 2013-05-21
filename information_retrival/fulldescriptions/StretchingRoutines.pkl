@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Stretching Routines '
+p1
+tp2
+(S'Description:'
+p3
+S'Stretching is the bridge between a sedentary and an active life.Thanks to stretching we can keep muscles flexible and prepare them for movement. It is vital in warming up, physical education, training, muscle strengthening (weights), gymnastics, and for any physical activity in general.On this app you will find different sets of stretches (or stretching routines), appropriate for before and after all kinds of physical and muscle exercises and sports.There is a routine for each sport (football, basketball, athletics, etc.), for each area of the body (neck, back, legs etc...) and some other situations (office, side stich, flight, etc..).You can design you own personal stretching routine and keep it or send it to a friend.(Dehnung, \xc3\xa9tirement, stiramento)Report bugs & suggestions: info@u440.comDeveloper: www.stretching.nameRecent changes:v 1.6Nuevo PLAY buttonNew SPEAK button(Require TTS engine)v 1.5New grid browser buttonLong click on previous and next go to first and last stretch.v 1.4UI completely renovated'
+p4
+tp5
+tp6
+.

@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Alive Video Wallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S"Inspiring video wallpapers that won\xe2\x80\x99t drain your battery or slow your device. Alive stops when another app is running or your device is idle, so it uses no more battery than a photo wallpaper. It automatically saves to the SD card to prevent memory problems. TO USEConnect to free and fast wifi > homescreen > long-press on empty area > live wallpapers > Alive Black screen? Try pressing 'set wallpaper'COMPATIBILITY, TIPS & KNOWN ISSUES- Alive runs smoothly on 97% of Android devices.- If a video doesn't load immediately and you are stuck with a black screen, try pressing 'set wallpaper' or restarting the device. Some users solved problems by updating their device software.- Having trouble with an individual video? Try connecting to a computer, deleting the video and downloading it again.- Having trouble after an update? Try clearing app data in your app manager, or uninstalling and reinstalling the app.- Samsung Galaxy S3 pop-out feature is trumped by Alive. We'll have a workaround soon.*PLEASE* email us if you are having problems: Jack@Bonne-App.comA refund will never be refused - just ask!WANT MORE?Check out other themes in the Alive range:- Waterfall Video Wallpapers- Ocean Alive Video Wallpapers- Forest Alive Video Wallpapers- Sky Alive Video WallpapersRecent changes:Latest version- Google Licencing"
+p4
+tp5
+tp6
+.

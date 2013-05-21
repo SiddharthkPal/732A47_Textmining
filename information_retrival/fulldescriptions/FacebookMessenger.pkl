@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Facebook Messenger '
+p1
+tp2
+(S'Description:'
+p3
+S"Text your friends for free. Get Facebook Messenger to instantly reach friends on their smart phones, feature phones or desktop computers.Chat heads bring your messages and texts front and center*- Keep chatting, even while you're using other apps- Tap a chat head to reply, drag them around or flick them down to close- Get your SMS and Facebook messages together \xe2\x80\x94 currently only available on some phonesBring conversations to life- Send voice messages when you have more to say- Add a photo to share what you're up to- Have fun with stickers*, smileys and other emojiMake plans on the go.- Message a friend or start a group conversation- Include your location to let friends know you're nearby- Swipe left to see who's available- Get push notificationsMessenger does all this using your existing data plan.*These features will be available to everyone soon.Recent changes:2.4.3- Instantly send stickers. Just tap the smiley and choose a playful kitten or another cute critter.- Bug fixes.2.4.2- Keep chatting even when you use other apps. Just tap the chat head to reply, drag down to close.- Bug fixes.Chat heads and stickers will be available to everyone over the next few weeks.For a great, new Facebook mobile experience, try Facebook Home: http://bit.ly/fbhomeapp"
+p4
+tp5
+tp6
+.

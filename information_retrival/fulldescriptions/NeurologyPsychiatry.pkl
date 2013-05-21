@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Neurology & Psychiatry '
+p1
+tp2
+(S'Description:'
+p3
+S'100-plus neurology, psychiatry & other medical terms defined & illustrated using life-like 3D animation. Easily understand complex medical terms through combination of narrated videos and written definitions. Designed for health professionals, students & laypeople alike, the Animated Pocket Dictionary is a crucial resource to be referred to time and again.Recent changes:Bug fixes'
+p4
+tp5
+tp6
+.

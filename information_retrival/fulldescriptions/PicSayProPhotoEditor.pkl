@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'PicSay Pro - Photo Editor '
+p1
+tp2
+(S'Description:'
+p3
+S'Spice up the pictures on your phone with this award winning photo editor!Supports high resolution editing up to 13MP for devices that can handle it.Sharpen, remove red eye, crop & straighten, distort, insert cutouts of other pictures, paint, make color splash out of black-and-white pictures, add text, word balloons, apply effects like Cross Process, Lomo, Vignette, faux HDR, Tilt-shift, Pencil Sketch, and much more.Includes support for Android tablets like the Motorola Xoom, Samsung Galaxy Tab, Asus Eee Pad Transformer, and others.Supports pressure-sensitive drawing with a pen for devices like the HTC JetstreamPlease Email if you have any issues!Recent changes:Please email us if you have issues.1.6- Increased maximum editing resolution for high-end devices- Fixes error when loading or saving small pictures.- Adds Sport stickers- Titles with custom fonts can now use all styles- Improved quality of end result when using Resize to make pictures smaller'
+p4
+tp5
+tp6
+.

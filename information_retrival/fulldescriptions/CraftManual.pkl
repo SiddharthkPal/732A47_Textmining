@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Craft Manual '
+p1
+tp2
+(S'Description:'
+p3
+S'This app is a must-have utility for all minecraft gamers. Gives you quick access during playing to every recipe. Besides this you can see tutorials inter alia: how to build trap, how to find diamonds, how to build automatic canon and much more...Recent changes:- Added new recipes'
+p4
+tp5
+tp6
+.

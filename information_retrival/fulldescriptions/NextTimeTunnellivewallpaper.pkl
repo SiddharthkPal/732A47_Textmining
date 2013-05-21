@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Next Time Tunnel livewallpaper '
+p1
+tp2
+(S'Description:'
+p3
+S"Next Time Tunnel livewallpaper, designed for Next Launcher specially, is released now. Its major features include:--General--The blue shining stars rotate in the time tunnel with gravity.--With Next Launcher--1. You can shuttle in the time tunnel with the movement of your finger.2. The blue shining stars will react with your action in home screen.3. Magnificant with the style of Next Launcher themesHow to use:General:Long press homescreen\xe2\x80\x94>Wallpaper\xe2\x80\x94>Live wallpaper\xe2\x80\x94>Next Time TunnelWith Next Launcher:Long press homescreen(Click 'Menu')\xe2\x80\x94>Wallpaper\xe2\x80\x94> Next live wallpaper\xe2\x80\x94>Time TunnelGet the full version of Next honeycomb live wallpaper, search and install 'Next Launcher' in Google Play.Not all handsets support the live wallpaper feature, please check for a 'live wallpaper' category as the directions above state.If you encounter any problems or have any suggestions for our Next Launcher, please do not hesitate to tell us. Thank you very much!E-mail: golauncher@goforandroid.comFacebook: www.facebook.com/NextLauncherBlog: golauncher.goforandroid.com"
+p4
+tp5
+tp6
+.

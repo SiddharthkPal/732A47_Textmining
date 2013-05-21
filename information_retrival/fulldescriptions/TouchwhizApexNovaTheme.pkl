@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Touchwhiz Apex/Nova Theme '
+p1
+tp2
+(S'Description:'
+p3
+S'Touchwhiz Apex Theme for Apex Launcher* 30 HD Wallpapers*Matching Apex Skin*Customized Icons (More to be added in incremental updates)If you like theme, please rate it on play store.Also, we have lots of HD Themes for Apex or Nova Launcher. If you want to check out our other themes then Click on "More by Photox Designs".===>Important tips:Open the app after installation then you can apply Apex or Nova Theme.The weather widget in screenshots belongs to Palmary Weather, Search \xe2\x80\x9cPalmary Weatherr\xe2\x80\x9d to download if you like.Thank you for downloading our theme. Don\'t hesitate to email us if you have any problems, questions or suggestions. If you like the theme, please leave a positive review.Photox Design\xe2\x80\x99s Themes will be regularly updated to ensure that all the themes are compatible with latest version of Apex Launcher. We will add features like more icons, wallpapers, etc. If you like this theme, check out our other themes. Click on "More by Photox Designs".Recent changes:* Added App Drawer Icon for Manual Selection* Added 10+ New Wallpapers (GN 2 Wallpapers also included)Thanks for the feedback! Don\'t hesitate to contact us if you have any suggestions, email us at feedback@photoxdesigns.com - If you like this theme, please rate it and leave a review.'
+p4
+tp5
+tp6
+.

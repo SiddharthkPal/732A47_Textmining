@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Last.fm '
+p1
+tp2
+(S'Description:'
+p3
+S'Learn about your favorite artists, find nearby events, and share your music tastes with the Last.fm scrobbler. Optionally sync your Last.fm friends with your contacts.Plus, subscribers in the US, UK, and Germany: Your personal radio station on your phone: Choose an artist or genre and Last.fm builds the perfect playlist just for you!Permissions: \xe2\x80\xa2 GPS is used to display nearby upcoming events \xe2\x80\xa2 Contacts and Accounts are used on certain phones to optionally sync your Last.fm friends with your contacts \xe2\x80\xa2 Calendars are used on certain phones to optionally sync your Last.fm events with your calendar \xe2\x80\xa2 Logs are used for the built-in bug reporter* Scrobbling of the built-in media players on some Motorola and Samsung phones is not currently supported.  On these devices, you can install a 3rd party media player that supports scrobbling.Recent changes:\xe2\x80\xa2 Streaming improvements for various devices\xe2\x80\xa2 Scrobbling fixes for LG devices\xe2\x80\xa2 Less data use during scrobbling\xe2\x80\xa2 Display the artist name on the Ice Cream Sandwich lock screen\xe2\x80\xa2 Expandable notifications for Jelly Bean devices\xe2\x80\xa2 Various bug fixes'
+p4
+tp5
+tp6
+.

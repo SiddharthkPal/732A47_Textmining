@@ -1,0 +1,12 @@
+((S'Title'
+p0
+S'Super mEye '
+p1
+tp2
+(S'Description:'
+p3
+S'Super mEye allows Android users to view and control live video streams from IP Cameras and DVRs..Features include:1.Andorid and Android tablet compatible.2.Support Pan,Tilt & Zoom control.3.Support finger touch to control PTZ.4.Support both 3G and Wifi.5.Support Quad view mode.6.Snapshot into your local photo gallery and playback.7.Support for landscape and portrait mode.8.Address book record your devices alias and login information.9.Support DVRs or IP Cameras of different manufactures. If you have any question please contact with us: ezeyehelp@gmail.com To learn more about us,please visit:http://www.myezeye.com Thank you for choosing our application.'
+p4
+tp5
+tp6
+.
